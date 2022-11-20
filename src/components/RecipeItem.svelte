@@ -4,9 +4,11 @@
     import Paragraph from "../elements/Paragraph.svelte";
 
 	export let name = "Untitled Drink";
+	export let author = "Unknown Author";
 	export let ingredients = [ "No ingredients listed" ];
 	export let notes = undefined;
 	export let steps = undefined;
+	export let tags = undefined;
 </script>
 
 <div class="item">
@@ -15,13 +17,14 @@
 		<!-- Stuff shown even when section is folded (because it's inside <summary>)-->
 		<summary>
 			<Header title="Recipe Name" content={name}/>
+			<Paragraph title="Author" ordered={false} optional={false} content={author}/>
 			<List title="Ingredients" ordered={false} optional={false} content={ingredients}/>
 		</summary>
 
 		<!-- Stuff hidden when section is folded -->
 		<List title="Steps" ordered={true} optional={true} content={steps}/>
 		<Paragraph title="Notes" optional={true} content={notes}/>
-
+		<Paragraph title="tags" optional={true} content={tags}/>
 	</details>
 </div>
 
