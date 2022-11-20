@@ -4,16 +4,25 @@
     export let recipes = [];
     export let searchTerm = "";
 
+	$: localeSearchTerm = searchTerm.toLocaleLowerCase('en-US');
+
 	function matchesSearch(recipe, term) {
 		if (!term) {
 			return true;
 		}
-		term = term.toLowerCase();
-		if (recipe.name.toLowerCase().includes(term)) {
+		if (recipe.name.toLocaleLowerCase('en-US').includes(term)) {
+			return true;
+		}
+		if (recipe.author.toLocaleLowerCase('en-US').includes(term)) {
 			return true;
 		}
 		for (let item of recipe.ingredients) {
-			if (item.toLowerCase().includes(term)) {
+			if (item.toLocaleLowerCase('en-US').includes(term)) {
+				return true;
+			}
+		}
+		for (let item of recipe.tags) {
+			if (item.toLocaleLowerCase('en-US').includes(term)) {
 				return true;
 			}
 		}
@@ -22,7 +31,7 @@
 </script>
 
 {#each recipes as recipe}
-	{#if matchesSearch(recipe, searchTerm)}
+	{#if matchesSearch(recipe, localeSearchTerm)}
 		<RecipeItem {...recipe}></RecipeItem>
 	{/if}
 {/each}
