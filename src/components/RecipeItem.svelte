@@ -17,7 +17,7 @@
 		<!-- Stuff shown even when section is folded (because it's inside <summary>)-->
 		<summary>
 			<Header title="Recipe Name" content={name}/>
-			<Paragraph title="Author" optional={true} content={author}/>
+			<Header title="Author" content={author}/>
 			<List title="Ingredients" ordered={false} optional={false} content={ingredients}/>
 		</summary>
 
