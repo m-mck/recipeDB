@@ -11,15 +11,11 @@ FIND: (\s*steps:\s*\n)(\s*-\s*)(.*\.)\s*(.*)\.
 REPLACE: $1$2$3
          $2$4
 
-
-
 Within a recipes.yml file, if a the text of a bullet "-" has a period at the
 end, remove the period.
 
 FIND: (\s+-\s.*)\.
 REPLACE: $1
-
-
 
 Within any file, replaces any accidental double space "  " with a single space " "
 
