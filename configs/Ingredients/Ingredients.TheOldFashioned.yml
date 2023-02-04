@@ -1,0 +1,98 @@
+source: "The Old-Fashioned"
+hidden: true
+recipes:
+
+#Benton's Old-Fashioned
+  - name: Benton's Bacon Fat-Infused Bourbon
+    notes: Makes 750 mL.
+    ingredients: 
+    - 1½ ounces bacon fat
+    - 1 (750 ml) bottle Four Roses bourbon
+    steps:
+    - Warm the bacon fat in a small saucepan on over low heat, stirring until it is melted, about 5 minutes. Combine the melted fat with the bourbon in a large freezer-safe container and stir. Cover and let sit at room temperature for 4 hours, then place the container in the freezer for 2 hours. Remove the solid fat from the surface of the bourbon and discard. Strain the bourbon through a terry cloth towel or a double layer of cheesecloth into a bottle and store in the refrigerator for up to 2 months.
+
+#Prime Meats Old-Fashioned
+  - name: Bartlett Pear Bitters
+    notes: Makes about 20 ounces.
+    ingredients: 
+    - 3 Bartlett pears, cored and coarsely chopped
+    - Zest of 1 lemon, cut into strips with a paring knife
+    - 1 cinnamon stick
+    - ¼ teaspoon allspice berries
+    - ½ teaspoon black peppercorns
+    - ½ teaspoon cinchona bark
+    - ¼ teaspoon calamus root
+    - 4 cloves
+    - 1 vanilla bean, halved lengthwise and seeds scraped out (use both pod and seeds)
+    - 3-inch piece of fresh ginger, peeled and coarsely chopped
+    - 2 cups high-proof vodka, plus more if needed
+    - 1 cup water
+    - 2 tablespoons simple syrup
+    steps:
+    - Place all of the ingredients except the vodka, water, and simple syrup in a large Mason jar. Pour in the 2 cups vodka, adding more if necessary until the contents of the jar are covered. Seal the jar and store at room temperature out of direct sunlight for 2 weeks, shaking the jar once a day. After 2 weeks, strain the liquid through a cheesecloth-lined funnel into a clean quart jar. Repeat, if necessary, until all the sediment has been filtered out. Transfer the solids to a small saucepan. Cover the jar and set aside. Cover the solids with the 1 cup of water and bring to a boil. Cover the saucepan, lower the heat, and simmer for 10 minutes. Let cool. Add all contents of the saucepan to a quart-size Mason jar. Cover and store at room temperature for one week, shaking the jar daily. After one week, strain the jar with the liquid and solids through a funnel lined with cheesecloth into another clean quart Mason jar. Repeat straining until all sediment is filtered out. Discard the solids. Add the liquid to Mason jar containing the original vodka solution. Add the syrup to the solution. Stir, then cover, then shake to fully dissolve. Allow mixture to stand at room temperature for three days. Skim off any debris that floats to the surface. Strain through cheesecloth a final time. Using a funnel, decant bitters into smaller jars and label. Bitters will last indefinitely.
+
+#Honey-Nut Old-Fashioned
+  - name: Peanut-Infused Bourbon
+    notes: Makes 1½ cups.
+    ingredients: 
+    - 1 cup unsalted dry-roasted peanuts
+    - 1½ cups Elijah Craig 12-year bourbon
+    steps:
+    - Combine the peanuts and bourbon in a nonreactive container, cover, and leave at room temperature for 24 hours. Strain through a double layer of cheesecloth into a clean freezer-safe container and place in the freezer for 24 hours. Scrape away the solid fat from the surface of the liquid and discard. Let the mixture warm to room temperature, then strain through a double layer of cheesecloth into a clean bottle. The bourbon will keep for a week.
+  - name: Honey Syrup
+    notes: Makes 1 cup.
+    ingredients: 
+    - 1 cup clover honey
+    - ⅓ cup hot water
+    steps:
+    - Combine the ingredients in a bowl and stir to dissolve the honey. Stored tightly sealed in the refrigerator, the syrup will keep for 1 week.
+
+#The Smoking Gun
+  - name: Smoked Demerara Syrup
+    notes: Makes about 1½ cups.
+    ingredients: 
+    - 1 tablespoon loose Lapsang souchong tea leaves
+    - 1 cup boiling water
+    - 1 cup Demerara syrup
+    steps:
+    - Combine the tea and water in a small saucepan and let steep for 2 hours. Stain the tea leaves with a fine-mesh sieve, add the Demerara syrup to the liquid, and bring to a simmer over medium heat. Simmer until reduced by one quarter. Let cool before using. Stored tightly sealed in the refrigerator, the syrup will keep for 1 week.
+
+#Cliff Old-Fashioned
+  - name: Coriander Syrup
+    notes: Makes about ½ cup.
+    ingredients: 
+    - Scant ½ cup water
+    - Scant ½ cup sugar
+    - 3 teaspoons coriander seeds
+    - 1½ teaspoons crushed red pepper
+    steps:
+    - Combine the water, sugar, coriander seeds, and ½ teaspoon of the crushed red pepper in a medium saucepan. Bring to a boil, turn off the heat, then add the remaining 1 teaspoon crushed red pepper. Stir and let steep, tasting occasionally, until the flavor of the spices in the syrup hits the back of your throat but does not overwhelm the mixture. Strain through a double layer of cheesecloth or fine-mesh chinois, then let cool before using. Stored tightly sealed in the refrigerator, the syrup will keep for 1 week.
+
+#The Haunted House
+  - name: Ginger Syrup
+    notes: Makes 1 cup.
+    ingredients: 
+    - 1 cup sugar
+    - 1 (2-inch) knob fresh ginger, sliced into coins
+    - 1 cup water
+    steps:
+    - Heat the sugar, ginger, and water in a saucepan over medium heat, stirring occasionally until the sugar has dissolved. The moment the water begins to boil, remove from the heat, let cool, then strain into a separate container. Stored tightly sealed in the refrigerator, the syrup will keep for 1 week.
+
+#Ode to Atkins
+  - name: Buckwheat Honey Syrup
+    notes: Makes ½ cup.
+    ingredients: 
+    - ½ cup buckwheat honey
+    - ½ cup water
+    steps:
+    - Combine the buckwheat honey and water in a saucepan over low heat. Stir until blended. Remove from the heat and let cool before using. Stored tightly sealed in the refrigerator, the syrup will keep for 1 week.
+
+#Sorghum Old-Fashioned
+  - name: Sorghum Syrup
+    notes: Makes 2 cups.
+    ingredients: 
+    - 1 cup sugar
+    - 1 cup sorghum syrup
+    - 2 cups water
+    steps:
+    - Combine the sugar, sorghum syrup, and water in a small saucepan and bring to a simmer. Cook, stirring, until the sugar has dissolved. Remove from the heat and let cool before using. Stored tightly sealed in the refrigerator, the syrup will keep for 1 week.

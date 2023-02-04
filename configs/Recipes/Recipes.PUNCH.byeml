@@ -1,0 +1,79 @@
+source: "PUNCH"
+recipes:
+  - name: Andrew Volk's Hot Toddy
+    author: Andrew Volk
+    source: PUNCH
+    url: https://punchdrink.com/recipes/andrew-volks-hot-toddy/
+    ingredients:
+      - 1 1/2 oz brandy or bourbon
+      - 3/4 ounce fresh lemon juice
+      - 1/4 ounce Hunt + Alpine Cardamom-Coriander Syrup (see Editor's Note)
+      - 1/2 ounce ginger syrup (see Editor's Note)
+    steps:
+      - Preheat a glass mug by filling it with hot water. Leave the water in for now and set it aside.
+      - To prepare the drink, you'll want a heat-conducting vessel that fits into a second container. 
+      - Two metal mixing tins work great. Fill the first with enough hot water that the second container floats in the water when placed inside the first. Essentially, you are creating a small bain-marie to preheat the ingredients without diluting them.
+      - Add the brandy or bourbon, lemon juice, cardamom-coriander syrup, and ginger syrup to your mixing tins and stir gently until heated through.
+      - Empty the water from the preheated mug and immediately fill it with the heated cocktail.
+      - Top with 3 ounces of hot water. 
+      - Express the orange twist over the drink, and place the cinnamon stick into the drink.
+    tags:
+      - citrus
+      - stirred
+      - autumn
+      - heated
+  - name: It's So Easy
+    author: Aaron Polsky
+    notes: Using winter clementines, Aaron Polsky of New York City’s Mulberry Project created this orange cobbler whose citrusy edges are rounded out with Bittermens Orange Cream Citrate, a throwback to the soda fountain counters of yore.
+    ingredients:
+    - 2 ounces Ford's gin
+    - ¾ ounce lemon juice
+    - ¾ ounce simmple syrup
+    - 6 segments clementines
+    - 5 drops Bittermens Orange Cream Citrate
+    steps:
+    - In a cocktail shaker, muddle clementine segments with lemon juice and simple syrup.
+    - Add gin and Orange Cream Citrate.
+    - Add ice and shake until chilled.
+    - Dump into a rocks glass and top with crushed ice.
+    - Garnish with a clementine wheel.
+    tags:
+      - shaken
+      - citrus
+  - name: The Black Stallion Sets Sail
+    author: John Parra & Kyle Hankin
+    notes: Consider this a neo-tiki Negroni, with blackstrap rum and Ferrari (Fernet mixed with Campari) taking the place of traditional gin and Campari. Part of the Autostrada menu at Fox Liquor Bar, this drink was inspired by Giuseppe Gonzalez's revamp of the Jungle Bird. The blackstrap rum gives it a rich, molasses-y spice, while the Ferrari offers herbal bitterness.
+    ingredients:
+    - 3 drops saline solution (Add 1/2 ounce kosher salt to 2 ounces of water and stir until dissolved.)
+    - 1 ounce Cocchi di Torino
+    - ½ ounce Fernet-Branca
+    - ½ ounce Campari
+    - 1 ounce blackstrap rum, preferably Cruzan
+    - "Garnish: orange twist"
+    steps:
+    - In a mixing glass, combine the saline, Cocchi, Ferrari and rum. Add one large cube of ice and stir until very cold.
+    - Strain into a rocks glass over large cube of ice. Garnish with orange twist and serve.
+    tags:
+      - fox liquor bar
+      - stirred
+      - negroni
+  - name: 
+    author: 
+    notes: 
+    ingredients:
+    - 
+    steps:
+    - 
+    tags:
+      - 
+      - 
+  - name: 
+    author: 
+    notes: 
+    ingredients:
+    - 
+    steps:
+    - 
+    tags:
+      - 
+      - 

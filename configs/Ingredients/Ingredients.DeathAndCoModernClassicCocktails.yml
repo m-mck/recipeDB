@@ -1,0 +1,186 @@
+source: "Death & Co: Cocktail Codex"
+hidden: true
+recipes:
+#Sweeteners
+  - name: Acacia Honey Syrup
+    steps: In a bottle or other container with a tight lid, combine 2 cups of acacia honey with 1 cup of warm water. Shake vigorously until the honey is dissolved.
+  - name: Banana Syrup
+    steps: In a saucepan, combine 1 sliced banana, 2 cups of cane sugar, and 2 cups of water. Bring to a simmer, then remove from the heat, cover, and let cool to room temperature. Refrigerate overnight, then strain through a cheesecloth-lined sieve.
+  - name: Blueberry Syrup
+    steps: In a saucepan, combine 5 cups of blueberries, 1 cup of sugar, and 1 cup of water. Crush the berries with a potato masher. Bring to a boil, then lower the heat and simmer, stirring occasionally, for 15 minutes. Strain through a cheesecloth-lined sieve, pressing the berries to extract as much liquid as possible. Return the strained mixture to the pan and simmer for 10 minutes. Stir in 2 tablespoons of apple cider vinegar and simmer for 2 minutes.
+  - name: Braeburn Apple Syrup
+    steps: In a saucepan, combine 2 cups of water and 2 cups of sugar and bring to a simmer. Stir in the peels and cores from 5 Braeburn apples and simmer, stirring occasionally, for 30 minutes. Let cool to room temperature, then strain through a fine-mesh sieve.
+  - name: Cane Sugar Syrup
+    steps: In a saucepan, combine 2 cups of organic cane sugar (often labeled “evaporated cane juice”; note that this is different from turbinado sugar) with 1 cup of water. Cook over medium heat, stirring constantly and without bringing to a boil, until the sugar is dissolved.
+  - name: Cinnamon Bark Syrup
+    steps: In a saucepan, muddle 1 ounce of cassia cinnamon sticks until it’s broken up into shards. Add 2 cups of water and 2 cups of superfine sugar. Bring to a boil, stirring occasionally. Lower the heat, cover, and simmer gently for 4 minutes. Remove from the heat and let stand overnight. Strain through a cheesecloth-lined sieve.
+  - name: Cumin Syrup
+    steps: In a dry skillet, toast 6 tablespoons of cumin seeds over medium-low heat until fragrant. In a saucepan, combine 2 cups of sugar and 2 cups of water and bring to a boil, stirring constantly until the sugar is dissolved. Remove from the heat and stir in the cumin seeds. Cover and let stand for 6 hours. Strain through a cheesecloth-lined sieve.
+  - name: Curried Ginger Syrup
+    steps: In a saucepan, toast 2 tablespoons of Tellicherry black peppercorns, 2 tablespoons of grains of paradise, and 2 tablespoons of coriander seeds over medium heat until fragrant, about 2 to 3 minutes. Add 1½ cups of demerara sugar, ½ cup of superfine sugar, and 2 cups of hot water. Bring to a boil, stirring constantly, then lower the heat and simmer for 2 minutes. Remove from the heat and add 4 muddled sprigs   of fresh curry leaves to the pot. Cover and let stand for 1 hour. Strain through a cheesecloth-lined sieve, pressing firmly on the solids to extract as much flavor as possible.
+  - name: Demerara Syrup
+    steps: In a saucepan, combine 2 cups of demerara sugar and 1 cup of water. Cook over medium heat, stirring constantly and without bringing to a boil, until the sugar is dissolved.
+  - name: Espresso-Infused Demerara Syrup
+    steps: Coarsely grind 4 ounces of espresso-roast coffee beans and transfer to a container. Add 2 cups of room-temperature water and stir well. Cover and let stand for 12 to 16 hours. Strain through a fine-mesh strainer, then stir in Demerara Syrup to taste.
+  - name: Ginger Syrup
+    steps: Make ½ cup fresh ginger juice, either by using a juice extractor or by finely grating fresh ginger, wrapping it in a clean towel, and squeezing out the juice; you’ll need about 24 ounces of ginger root to make this much juice. Put the juice in a blender, add 1 cup of superfine sugar, and blend until the sugar is dissolved.
+  - name: Hibiscus Syrup
+    steps: In a saucepan, bring 2 cups of water to a boil. Remove from the heat and stir in 3½ ounces of dried hibiscus flowers. Cover and let stand for 20 minutes. Strain through a cheesecloth-lined sieve, then return to the saucepan. Stir in 2 cups of superfine sugar and cook over low heat, stirring constantly and without bringing to a boil, until the sugar is dissolved.
+  - name: Orgeat
+    notes: Orgeat is an almond-based syrup that has been part of cocktail culture since the mid-nineteenth century. It’s a key ingredient in the vintage Japanese Cocktail (brandy, orgeat, and Angostura bitters) and especially the mai tai and its tiki brethren. Made primarily from water and almonds, along with other ingredients such as orange flower water and cognac, it has a unique flavor that’s more than the sum of its ingredients and something altogether individual. It’s milky and nutty but not cloying. It deepens the flavors of other ingredients and bridges magically between refreshing and savory, creating an ethereal mouthfeel that makes ingredients meld in unexpected ways, and at Death & Co, we use it in many styles of cocktails.
+    ingredients:
+    - 12 ounces toasted almond milk
+    - 16 ounces superfine sugar
+    - 2½ teaspoons Pierre Ferrand Ambre cognac
+    - 2½ teaspoons Lazzaroni amaretto
+    - ¼ teaspoon rose water
+    steps: 
+    - To make the toasted almond milk, toast 1 cup blanched sliced almonds in a large saucepan over medium-low heat, stirring constantly, until golden brown. Transfer to a blender and add 2 cups and 2 tablespoons warm water. Pulse until the almonds are finely chopped, then blend for 2 minutes. Strain through a cheesecloth-lined sieve.
+    - In a saucepan, combine the almond milk and sugar. Cook over medium-low heat, stirring occasionally and without bringing to a boil, until the sugar is dissolved. Remove from the heat and stir in the cognac, amaretto, and rose water. Store in the refrigerator for up to one month.
+  - name: Passion Fruit Syrup
+    steps: Combine 1 cup of passion fruit puree and ½ cup of Simple Syrup in a blender and process until the sugar is dissolved.
+  - name: Scarlet Glow Syrup
+    steps: 
+    - In a saucepan, bring 2 cups of water to a boil. Remove from the heat and stir in 4 heaping teaspoons of Scarlet Glow herbal tea (available at inpursuitoftea.com).
+    - Cover and let stand for 6 hours. Strain through a cheesecloth-lined sieve. Add 2 cups of superfine sugar and shake or stir until the sugar is dissolved.
+  - name: Simple Syrup
+    steps: Combine equal parts (preferably by weight, but you can also use measuring cups) of superfine sugar and warm water in a container. Shake or stir until the sugar is dissolved.
+  - name: Vanilla Syrup
+    steps: Split 1 Tahitian vanilla bean in half lengthwise and put it in a saucepan. Add 2 cups of water and 2 cups of superfine sugar. Bring to a boil, stirring occasionally. Lower the heat, cover, and simmer gently for 4 minutes. Remove from the heat and let stand overnight. Strain through a cheesecloth-lined sieve.
+#Infusions
+  - name: Ancho Chile-Infused Dolin Rogue Vermouth
+    steps: Stem and coarsely chop 3 dried ancho chiles. Transfer to a container, add one 750-ml bottle of Dolin rouge vermouth, and stir well. Let stand at room temperature for 1 hour and 45 minutes, stirring occasionally. Strain through a fine-mesh sieve.
+  - name: Coffee- and Chile-Infused Campari
+    steps: In a container, combine 22 grams each of crumbled red puya chile, crumbled morita chile, and crumbled mulato chile. Add 8 heaping teaspoons of whole coffee beans and one 1-liter bottle of Campari and stir well. Let stand at room temperature for 5 hours, stirring occasionally. Strain through a fine-mesh sieve.
+  - name: Jalapeño-infused Siembra Azul Blanco Tequila
+    steps: In a container, combine the ribs and seeds from 4 jalapeño chiles and the chopped flesh of ½ jalapeño with one 750-ml bottle of Siembra Azul blanco tequila and stir well. Let stand at room temperature for 20 minutes, tasting frequently so you can stop the infusion when the heat level is to your liking. Strain through a fine-mesh sieve.
+  - name: Red Thai Chile-Infused Rittenhouse Rye
+    steps: In a container, combine 10 crumbled dried red Thai chiles and one 750-ml bottle of Rittenhouse 100 rye and stir well. Let stand at room temperature for 15 minutes, tasting frequently so you can stop the infusion when the heat level is to your liking. Strain through a fine-mesh sieve.
+  - name: Apricot-Infused Famous Grouse Scotch
+    steps: Coarsely chop 10 whole dried apricots. Transfer to a container, add one 1-liter bottle of Famous Grouse Scotch, and stir well. Let stand at room temperature for 24 hours, stirring occasionally. Strain through a fine-mesh sieve.
+  - name: Banana Chip-Infused Gosling's Black Seal Rum
+    steps: In a container, combine 3 cups of banana chips and one 1-liter bottle of Gosling’s Black Seal rum and stir well. Let stand at room temperature for 24 hours, stirring occasionally. Strain through a cheesecloth-lined sieve, return to the container, and refrigerate overnight. Strain through a cheesecloth-lined fine-mesh sieve.
+  - name: Dried Currant-Infused Wild Turkey Rye
+    steps: In a container, combine 3 cups of dried currants and one 750-ml bottle of Wild Turkey rye and stir well. Let stand at room temperature for 48 hours, stirring daily. Strain through a cheesecloth-lined sieve.
+  - name: Fig-Infused Elijah Craig Bourbon
+    steps: In a container, muddle 4 fresh figs. Add one 750-ml bottle of Elijah Craig 12-year bourbon and stir well. Let stand for 1 hour, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Fuji Apple-Infused Famous Grouse Scotch
+    steps: In a container, combine 3 coarsely chopped Fuji apples (cores, peels, and all) and one 750-ml bottle of Famous Grouse Scotch and stir well. Let stand at room temperature for 1 week, stirring daily. Strain through a cheesecloth-lined sieve.
+  - name: Granny Smith Apple-Infused Rhum Barbancourt
+    steps: In a container, combine 4 coarsely chopped Granny Smith apples (cores, peels, and all) and one 750-ml bottle of Barbancourt white rum and stir well. Let stand at room temperature for 1 week, stirring daily. Strain through a cheesecloth-lined sieve.
+  - name: Grapefruit-Infused Punt e Mes
+    steps: In a container, combine the zest of 2 Ruby Red grapefruits and one 750-ml bottle of Punt e Mes and stir well. Cover and refrigerate for 24 hours. Strain through a fine-mesh sieve.
+  - name: Pineapple-Infused Flor de Caña Extra-dry White Rum
+    steps: In a container, combine 3 cups of cubed pineapple and one 750-ml bottle of Flor de Caña extra-dry white rum and stir well. Cover and refrigerate for 5 days, stirring daily. Strain through a cheesecloth-lined sieve.
+  - name: Spiced Pear-Infused Siembra Azul Blanco Tequila
+    steps: In a container, combine 3 coarsely chopped red Anjou pears, 1 coarsely chopped Granny Smith apple (core, peel, and all), 2 cloves, 1 cinnamon stick, and one 750- ml bottle of Siembra Azul blanco tequila and stir well. Cover and let stand at room temperature for 1 week, stirring daily. Strain through a cheesecloth-lined sieve.
+  - name: Strawberry- and Pineapple-Infused Macchu Pisco
+    steps: In a container, combine 4 cups of cubed pineapple, 4 cups of halved strawberries, and one 750-ml bottle of Macchu pisco and stir well. Cover and refrigerate for 5 days, stirring daily. Strain through a cheesecloth-lined sieve.
+  - name: Watermelon-Infused Dolin Dry Vermouth
+    steps: In a blender, combine ten 1-inch cubes of watermelon and one 750-ml bottle of Dolin dry vermouth. Pulse until smooth, then let stand at room temperature for 1 hour. Strain through a cheesecloth-lined sieve.
+  - name: Basil-Infused Dolin Blanc Vermouth
+    steps: In a container, combine 25 fresh basil leaves and one 750-ml bottle of Dolin blanc vermouth and stir well. Cover and let stand at room temperature for 24 hours, stirring occasionally. Strain through a fine-mesh sieve.
+  - name: Lavender-Infused Bernheim Original Wheat Whiskey
+    steps: In a container, combine 1 tablespoon of dried lavender and one 750-ml bottle of Bernheim wheat whiskey and stir well. Let stand at room temperature for 30 minutes. Strain through a cheesecloth-lined sieve.
+  - name: Pennyroyal-Infused Hayman's Old Tom Gin
+    steps: In a container, combine 2 teaspoons of dried pennyroyal and one 750-ml bottle of Hayman’s Old Tom gin and stir well. Let stand for 5 minutes. Strain through a fine- mesh sieve.
+  - name: Sage-Infused Dolin Blanc Vermouth
+    steps: In a container, combine ½ ounce of dried whole-leaf sage and one 750-ml bottle of Dolin blanc vermouth and stir well. Let stand at room temperature for 1 hour and 15 minutes, stirring occasionally. Strain through a fine-mesh sieve.
+  - name: Chamomile-Infused Bianco Vermouth
+    steps: In a container, combine 3 heaping tablespoons of loose chamomile tea and one 750-ml bottle of Martini bianco vermouth and stir well. Let stand at room temperature for 1 hour and 45 minutes, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Chamomile-Infused Old Overholt Rye
+    steps: In a container, combine a heaping ¼ cup of loose chamomile tea and one 1-liter bottle of Old Overholt rye and stir well. Let stand at room temperature for 1 hour and 45 minutes, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Cinnamon Orange Tea-Infused Sweet Vermouth
+    steps: In a container, combine 3 heaping tablespoons of loose Market Spice cinnamon-orange tea (marketspice.com) and one 750-ml bottle of Martini sweet vermouth and stir well. Let stand at room temperature for 1 hour and 30 minutes, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Coconut Green Tea-Infused Famous Grouse Scotch
+    steps: In a container, combine 6 heaping teaspoons of loose T Salon Green Tea with Coconut (available at tsalon.com) and one 750-ml bottle of Famous Grouse Scotch and stir well. Let stand at room temperature for 30 minutes, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Earl Grey-Infused Dolin Blanc Vermouth
+    steps: In a container, combine a heaping ¼ cup of loose Early Grey tea and one 750-ml bottle of Dolin blanc vermouth and stir well. Let stand at room temperature for 45 minutes, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Lapsang Souchong-Infused Siembra Azul Blanco Tequila
+    steps: In a container, combine 3 heaping tablespoons of loose Lapsang Souchong tea and one 750-ml bottle of Siembra Azul blanco tequila and stir well. Let stand at room temperature for 5 hours, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Queen of Earl Tea-Infused Siembra Azul Reposado Tequila
+    steps: In a container, combine 1 teaspoon of loose T Salon Queen of Earl tea (available at tsalon.com) and one 750-ml bottle of Siembra Azul reposado tequila and stir well. Let stand at room temperature for 10 minutes. Strain through a cheesecloth-lined sieve.
+  - name: Scarlet Glow Tea-Infused Macchu Pisco
+    steps: In a container, combine a heaping ¼ cup of loose Scarlet Glow herbal tea (available at inpursuitoftea.com) and one 750-ml bottle of Macchu pisco and stir well. Let stand at room temperature for 1 hour and 30 minutes, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Summer Royale Tea-Infused Flor de Caña White Rum
+    steps: In a container, combine 3 heaping tablespoons of loose T Salon Summer Royale tea (available at tsalon.com) and one 750-ml bottle of Flor de Caña extra-dry white rum and stir well. Let stand at room temperature for 1 hour, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Cacao Nib-Infused Cabeza Blanco Tequila
+    steps: In a container, combine 3 tablespoons of cacao nibs and one 1-liter bottle of Cabeza blanco tequila and stir well. Let stand at room temperature for 1 hour, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Cacao Nib-Infused Campari
+    steps: In a container, combine 3 tablespoons of cacao nibs and one 750-ml bottle of Campari and stir well. Let stand at room temperature for 1 hour, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Coffee-Infused Carpano Antica Formula Vermouth
+    steps: In a container, combine 3 tablespoons of whole coffee beans and one 1-liter bottle of Carpano Antica Formula vermouth and stir well. Cover and let stand at room temperature for 24 hours, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Pecan-Infused Buffalo Trace Bourbon
+    steps: Soak 2 cups of pecan halves in cold water for 20 minutes. Preheat the oven to 300°F. Drain the pecans well, then spread them on a rimmed baking sheet. Season with salt, pepper, and cayenne pepper and bake for 20 minutes, stirring occasionally and being careful not to burn the pecans. Let cool to room temperature. In a container, combine the pecans and one 750-ml bottle of Buffalo Trace bourbon and stir well. Let stand at room temperature for 1 week, stirring daily. Strain through a cheesecloth-lined sieve.
+  - name: Rose-Infused Lillet Rosé
+    steps: In a container, combine 4 heaping tablespoons of dried rosebuds and one 750-ml bottle of Lillet rosé and stir well. Let stand at room temperature for 1 hour and 30 minutes, stirring occasionally. Strain through a fine-mesh sieve.
+  - name: Sugar Snap Pea-Infused Plymouth Gin
+    steps: In a container, combine 2 cups of coarsely chopped sugar snap peas and one 750- ml bottle of Plymouth gin and stir well. Let stand at room temperature for 1 hour, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Szechuan Peppercorn-Infused Plymouth Gin
+    steps: In a container, combine 1 ounce of Szechuan peppercorns and one 1-liter bottle of Plymouth gin and stir well. Let stand at room temperature for 35 minutes, stirring occasionally. Strain through a fine-mesh sieve.
+#Rims
+  - name: Cinnamon and Sugar
+    steps: Mix equal parts finely ground cinnamon and superfine sugar.
+  - name: Spicy Sugar and Salt
+    steps: Mix equal parts kosher salt, granulated sugar, and ground ancho chiles.
+  - name: Toasted Fennel Salt
+    steps: Lightly toast 1 tablespoon of fennel seeds in a small dry skillet. Let cool, then finely grind in a spice grinder. Measure the ground fennel, then add an equivalent amount of kosher salt and mix well.
+#Batches
+  - name: Bergerac Mix
+    ingredients: 
+    - 6 ounces Bergerac red wine
+    - 1½ ounces Cruzan Black Strap Rum
+    - 1½ ounces Cynar
+    - ½ ounce Demerara Syrup       
+  - name: Donn's Mix #1
+    ingredients: 
+    - 2 parts grapefruit juice (preferably from ruby red grapefruits)
+    - 1 part cinnamon bark syrup    
+  - name: Donn's Spices #2
+    ingredients: 
+    - 1 part vanilla syrup
+    - 1 part St. Elizabeth Allspice Dram   
+  - name: House Orange Bitters
+    ingredients: 
+    - 1 part Fee Brothers West Indian Orange Bitters
+    - 1 part Regans' Orange Bitters
+    - 1 part Angostura Orange Bitters   
+  - name: House Peychaud's Bitters
+    ingredients: 
+    - 2 parts Peychaud's Bitters
+    - 1 part Bitter Truth Creole Bitters    
+  - name: House Sweet Vermouth
+    ingredients: 
+    - 1 part Dolin Rogue vermouth
+    - 1 part Punt e Mes
+  - name: Pendennis Mix
+    ingredients: 
+    - 2 ounces Simple Syrup
+    - 1 ounce Marie Brizard Apricot Liqueur
+    - 2 teaspoons Marie Brizard crème de pêche peach liqueur
+  - name: Zombie Mix
+    ingredients: 
+    - 8 ounces Velvet Falernum
+    - 1 ounce plus 4 teaspoons Grenadine
+    - 2 teaspoons Vieux Pontarlier absinthe
+#Miscellany
+  - name: Grenadine
+    steps: In a saucepan, combine 4 cups of organic unfiltered, unsweetened pomegranate juice and 3 cups of organic cane sugar (often labeled “evaporated cane juice”; note that this is different from turbinado sugar). Cook over medium heat, stirring constantly and without bringing to a boil, until the sugar is dissolved. Remove from the heat and let cool to room temperature. Transfer to a container and stir in 6 ounces of pomegranate molasses. Squeeze 8 half-dollar-size orange twists over the surface, discarding the twists, and stir well. Store in the refrigerator for up to 2 weeks.
+  - name: Honey Nut Cheerio-Infused Cream
+    steps: In a bowl, combine 2 cups of heavy cream and 2 cups of Honey Nut Cheerios and stir gently. Cover and refrigerate for 1 hour, then strain through a cheesecloth-lined fine-mesh sieve, pressing gently on the Cheerios. Store in the refrigerator for up to 2 days.
+  - name: House Horchata
+    steps: In a dry, heavy skillet, lightly toast 1 cup of almond flour and 1 cup of shredded unsweetened coconut. In a bowl, combine 2 cups of rice milk, 1 cup of almond milk, 1 cup of coconut water, ¼ cup of light brown sugar, 2 tablespoons of Cinnamon Bark Syrup, and the toasted almond flour and unsweetened coconut and stir well. Working in batches, transfer to a blender and process on high speed for about 45 seconds. Strain through a fine-mesh sieve, pressing on the solids to extract as much liquid as possible. Store in the refrigerator for up to 3 days.
+  - name: Kumquat Cordial
+    steps: In a blender or food processor, combine 1 cup of granulated sugar, ½ cup of thinly sliced kumquats, ¼ cup of water, 2 tablespoons of lime juice, and 1½ tablespoons of lemon juice. Pulse until the kumquats are finely chopped. Transfer to a container, cover, and refrigerate for 24 hours. Strain through a fine-mesh sieve. Store in the refrigerator for up to 1 week.
+  - name: Pumpkin Puree
+    steps: In a bowl, combine one 15-ounce can of pure pumpkin puree, 15 ounces of Simple Syrup, 1 teaspoon of ground cinnamon, ½ teaspoon of ground ginger, and ¼ teaspoon of ground cloves. Blend with an immersion blender or whisk vigorously until combined. Store in the refrigerator for up to 1 week.
+  - name: Red Bell Pepper Puree
+    steps: In a blender, combine 1 coarsely chopped red bell pepper and a splash of water. Blend until smooth, then strain through a fine-mesh sieve. Store in the refrigerator for up to 3 days.
+  - name: Strawberry-Balsamic Gastrique
+    steps: In a medium saucepan, combine 1⅓ cups of superfine sugar and 1⅓ cups of water. Cook over low heat, stirring constantly and without bringing to a boil, until the sugar is dissolved. Add 2 cups of hulled and halved strawberries and simmer, stirring occasionally, for 30 minutes. Stir in 1 cup of balsamic vinegar, raise the heat, and bring to a boil. Lower the heat and simmer, stirring occasionally, until thickened, about 30 minutes. Let cool, then strain through a cheesecloth-lined fine-mesh sieve. Store in the refrigerator for up to 3 weeks.
+  - name: Tarragon and Agave Nectar Gastrique
+    steps: In a saucepan over medium heat, bring 12 ounces of agave nectar to a boil, stirring frequently. Slowly add 4 ounces of champagne vinegar while stirring constantly. Boil for 5 minutes, stirring occasionally. Remove from the heat and stir in ¼ cup of gently muddled tarragon leaves. Let cool, then strain through a cheesecloth-lined fine-mesh sieve, pressing firmly on the tarragon to extract as much flavor as possible. Store in the refrigerator for up to 3 weeks.
+  - name: Toby's Lime Cordial
+    steps: Strip the zest from 12 limes, reserving the zest, then juice the limes. Weigh the  lime juice and measure an equal amount of sugar (by weight). In a nonreactive container, combine the lime juice and sugar and stir until the sugar is dissolved. Stir in the lime zest and taste; the mixture should be slightly more tart than sweet and fairly viscous. Adjust the flavor and texture as needed with more lime juice or sugar. Cover and let stand at room temperature for 24 hours, stirring occasionally. Strain through a fine-mesh sieve. Store in the refrigerator for up to 1 month.
+  - name: Toby's Sour Cherry Shrub
+    steps: "Rinse 2 quarts of sour cherries and trim away any rot. Put the unpitted cherries in a large nonreactive pot and mash for several minutes with your hands or a wooden spoon to break the cherries down a bit. Pour in enough apple-cider vinegar (preferably Bragg’s) or other vinegar to cover the cherries. Cover and let stand at room temperature for 1 week, stirring daily. Don’t be alarmed by the smell or the sludge on top. After 1 week, stir in ½ cup of raw sugar and boil gently for 1 hour, stirring occasionally. (The smell will be a bit offensive, so open the  doors and windows.) Cool slightly, then strain through a cheesecloth-lined fine- mesh sieve. Make a test shrub: Cool 3 to 4 tablespoons of the cherry mixture. (Cover the pot to keep its contents warm.) Fill a 20-ounce glass with ice. Add  water or club soda to almost the rim, then stir in the chilled cherry mixture. Taste and adjust as needed. If it’s too tart, add another ½ cup or so of sugar, little by little, while it’s still hot, stirring after each addition, until the sugar is dissolved. Once the taste is to your liking, cool completely. Store in the refrigerator, where it will keep indefinitely."

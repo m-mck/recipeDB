@@ -10,8 +10,10 @@
     export let optional;
 </script>
 
-{#if optional || content}
+{#if content}
     <slot/>
+{:else if optional}
+    <!-- None -->
 {:else}
     <span style="color: red;">No content supplied for {title}</span>
 {/if}

@@ -1,5 +1,5 @@
 <script>
-    import OptionalCheck from "../OptionalCheck.svelte";
+    import OptionalCheck from "../utilities/OptionalCheck.svelte";
 
     export let title;
     export let content;

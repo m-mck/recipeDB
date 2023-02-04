@@ -1,0 +1,755 @@
+source: "Death & Co: Welcome Home"
+hidden: true
+recipes:
+#Syrups & Cordials
+  - name: Alpenglow Cordial
+    ingredients: 
+    - 1,000 grams simple syrup
+    - 5 grams lactic acid
+    - 5 grams loose black tea
+    - 25 grams dried hibiscus flowers
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Put all the ingredients in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, strain it through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Apple Cordial
+    ingredients: 
+    - 450 grams cane sugar
+    - 300 grams water 
+    - 100 grams apple pulp
+    - Malic Acid
+    - Citric Acid
+    steps:
+    - Combine the sugar and water in a blender and process until the sugar has dissolved. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, strain it through a paper coffee filter or Superbag.
+    - Calculate 4 percent of the weight (multiply by 0.04) to get X grams. Calculate 1 percent of the weight (multiply by 0.01) to get Y grams. Stir in X grams of malic acid and Y grams of citric acid. Pour into a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Bay Leaf Syrup
+    ingredients: 
+    - 1,000 grams simple syrup
+    - 2 grams citric acid
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Put all the ingredients in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, strain it through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Blackberry Syrup
+    ingredients: 
+    - 500 grams simple syrup
+    - 150 grams fresh blackberries
+    - 2.5 grams citric acid
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Combine all the ingredients in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, strain it through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Cane Sugar Syrup
+    ingredients: 
+    - 300 grams unbleached cane sugar
+    - 150 grams unfiltered water
+    steps:
+    - Combine the sugar and water in a blender and process until the sugar has dissolved. Pour into a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Celery Syrup
+    ingredients: 
+    - 1 bunch celery
+    - White sugar
+    - Ascorbic acid
+    steps:
+    - Juice the celery and strain into a container. Weigh the juice. Add the same amount of sugar by weight to a blender. Calculate 0.5 percent of the weight of the juice (multiply by 0.005) to get X grams. Add X grams of ascorbic acid to the blender, along with the celery juice. Process until the sugar has dissolved. Pour into a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Cinnamon Syrup
+    ingredients: 
+    - 500 grams simple syrup
+    - 10 grams crushed cinnamon sticks
+    - 0.1 gram kosher salt
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 145° Fahrenheit.
+    - Put all the ingredients in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 145° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, strain it through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Cucumber Magnesium Syrup
+    ingredients: 
+    - 250 grams strained fresh cucumber juice
+    - 250 grams white sugar
+    - 1 gram ascorbic acid
+    - 2.5 grams malic acid powder
+    - 1.5 grams magnesium
+    steps:
+    - Combine all of the ingredients in a blender and process until the sugar has dissolved. Transfer to a container and refrigerate until ready to use, up to 2 weeks.
+  - name: Demerara Syrup
+    ingredients: 
+    - 300 grams demerara sugar
+    - 150 grams filtered water
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 145° Fahrenheit.
+    - Combine the sugar and water in a blender and process until the sugar has dissolved, about 2 minutes.
+    - Pour the mixture into a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 145° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Grapefruit Cordial
+    ingredients: 
+    - 250 grams strained grapefruit juice
+    - 250 grams white sugar
+    - 2.5 grams citric acid
+    - 10 grams grapefruit zest
+    - 1 gram Salt Solution (see recipe)
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Put all the ingredients in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, strain it through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Guava Syrup
+    ingredients: 
+    - 333 grams white sugar
+    - 222 grams Boiron guava purée
+    - 111 grams unfiltered water
+    - 2.5 grams malic acid
+    - 1.6 grams citric acid
+    steps:
+    - Combine all the ingredients in a blender and process until the sugar has dissolved. Pour into a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Hibiscus Honey Syrup
+    ingredients: 
+    - 1,000 grams Honey Syrup
+    - 30 grams dried hibiscus flowers
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Add the honey syrup and hibiscus to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, strain it through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 4 weeks.
+  - name: Hibiscus Syrup
+    ingredients: 
+    - 1,000 grams simple syrup
+    - 30 grams dried hibiscus flowers
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Add the simple syrup and hibiscus to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, strain it through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 4 weeks.
+  - name: Honey Syrup
+    ingredients: 
+    - 400 grams wildflower honey
+    - 200 grams warm filtered water
+    steps:
+    - Combine the honey and water in a bowl and whisk until thoroughly blended. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Hopped Pineapple Gum Syrup
+    ingredients: 
+    - 500 grams white sugar
+    - 30 grams gum arabic
+    - 3 grams citric acid
+    - 500 grams fresh strained pineapple juice
+    - 7 grams Citra hop pellets
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 140° Fahrenheit.
+    - In a blender, combine the sugar, gum arabic, and citric acid. Turn the blender on and slowly add the pineapple juice; process until well mixed. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 140° Fahrenheit, place the bag in the basin and cook for 1 hour.
+    - Transfer the bag to an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, starin it again through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 4 weeks.
+  - name: House Ginger Syrup
+    ingredients: 
+    - 250 grams unpeeled fresh ginger, washed and coarsely chopped
+    - About 300 grams unbleached cane sugar
+    steps:
+    - Juice the ginger and pass the juice through a fine-mesh sieve. Weigh the ginger juice, then multiply the weight by 1.5 and weigh out that much sugar.
+    - Combine the ginger juice and sugar in a blender and process until the sugar has dissolved. Pour into a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: House Grenadine
+    ingredients: 
+    - 250 grams POM Wonderful pomegranate juice
+    - 250 grams unbleached cane sugar
+    - 1.88 grams malic acid powder
+    - 1.25 grams citric acid powder
+    - 0.15 gram Terra Spice orange extract
+    steps:
+    - Combine all the ingredients in a blender and process until the sugar has dissolved. Transfer to a storage container and refrigerate until ready to use, up to 3 weeks.
+  - name: House Orgeat
+    ingredients: 
+    - 800 grams unsweetened, unflavored almond milk
+    - 1,200 grams superfine sugar
+    - 14 grams Pierre Ferrand ambré cognac
+    - 18 grams Lazzaroni amaretto
+    - 3 grams rose water
+    steps:
+    - Combine the almond milk and sugar in a saucepan over medium heat and cook, stirring occasionally, until the sugar has dissolved. Remove from the heat and stir in the cognac, amaretto, and rose water. Let cool to room temperature, then transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Kiwi Syrup
+    ingredients: 
+    - 250 grams strained fresh kiwi juice
+    - 250 grams superfine sugar
+    - 15 grams vodka
+    steps:
+    - Combine the kiwi juice, sugar, and vodka in a blender and process until the sugar has dissolved. Pour into a storage container and refrigerate until ready to use, up to 1 week.
+  - name: Lime Leaf, Lemongrass & Shiso Syrup
+    ingredients: 
+    - 1,000 grams simple syrup
+    - 100 grams chopped and smashed lemongrass
+    - 15 grams fresh makrut lime leaves
+    - 5 grams shiso leaves
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Put all the ingredients in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, strain it through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Madras Curry Syrup
+    ingredients: 
+    - 1,000 grams simple syrup
+    - 5 grams madras curry powder
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Put all the ingredients in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, strain it through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Milk Syrup
+    ingredients: 
+    - 250 grams white sugar
+    - 250 grams whole milk
+    - ½ ounce 20% Citric Acid Solution
+    steps:
+    - Combine the sugar and milk in a jar. Shake vigorously until the sugar has dissolved. Add the citric acid and shake again. Transfer to a storage container and refrigerate until ready to use, up to 1 week.
+  - name: Pandan Syrup
+    ingredients: 
+    - 500 grams Cane Sugar Syrup
+    - 20 grams pandan leaves
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Combine the syrup and pandan leaves in a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahren heit, place the bag in the basin and cook for 2 hours.
+    - Transfer the bag to an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Papaya Syrup
+    ingredients: 
+    - 333 grams white sugar
+    - 222 grams Perfect Purée papaya purée
+    - 111 grams filtered water
+    - 2 grams citric acid
+    steps:
+    - Combine all the ingredients in a blender and process until the sugar has dissolved. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Parrot Syrup
+    ingredients: 
+    - 1,000 grams simple syrup
+    - 60 grams fresh parsley leaves
+    - 20 grams carrot greens
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 145° Fahrenheit.
+    - Combine all the ingredients in a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 145° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Transfer the bag to an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. Transfer to a storage container and refrigerate until ready to use, up to 1 week.
+  - name: Passion Fruit Syrup
+    ingredients: 
+    - 333 grams white sugar
+    - 222 grams Perfect Purée passion fruit purée
+    - 111 grams filtered water
+    steps:
+    - Combine all the ingredients in a blender and process until the sugar has dissolved. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Pineapple Gum Syrup
+    ingredients: 
+    - 250 grams unbleached cane sugar
+    - 15 grams gum arabic
+    - 1.5 grams citric acid
+    - 250 grams strained fresh pineapple juice
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 145° Fahrenheit.
+    - Combine the sugar, gum arabic, and citric acid in a blender and process for 30 seconds. With the blender running, slowly add the pineapple juice and continue to process until all the dry ingredients have dissolved, about 2 minutes.
+    - Pour the mixture into a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 145° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Transfer to a storage container and refrigerate until ready to use, up to 1 week.
+  - name: Pineapple Pulp Cordial
+    ingredients: 
+    - 450 grams unbleached cane sugar
+    - 450 grams filtered water
+    - 100 grams pineapple pulp (left over from juicing pineapple)
+    - Malic acid
+    - Citric acid
+    steps:
+    - Combine the sugar, water, and pineapple pulp in a blender and process until the sugar has dissolved. Strain the mixture through a paper coffee filter or Superbag. Calculate 2 percent of the weight (multiply by 0.02) to get X grams.
+    - Calculate 3 percent of the weight (multiply by 0.03) to get Y grams. Stir in X grams of malic acid and Y grams of citric acid. Pour into a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Poppy Seed Syrup
+    ingredients: 
+    - 1,000 grams simple syrup
+    - 10 grams poppy seeds
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Combine the syrup and poppy seeds in a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, strain it through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Port Syrup
+    ingredients: 
+    - 2 cups Taylor Fladgate 10-year tawny port
+    - Demerara sugar
+    steps:
+    - In a saucepan, bring the port to a boil over medium-high heat and cook until reduced by one-fourth, about 12 minutes. Let cool slightly, then weigh the liquid. Add twice the weight in sugar to a blender, then add the reduced port. Process until the sugar has dissolved. Let cool to room temperature, then transfer to a storage container and refrigerate until ready to use, up to 6 weeks.
+  - name: Raspberry Syrup
+    ingredients: 
+    - 500 grams simple syrup
+    - 150 grams fresh raspberries
+    - 2.5 grams citric acid
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Combine all the ingredients in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, strain it through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Red Verjus Syrup
+    ingredients: 
+    - 130 grams red verjus
+    - 60 grams Vanilla Syrup
+    - 31.3 grams Cinnamon Syrup
+    steps:
+    - In a bowl, whisk together all the ingredients until combined. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Sarsaparilla Demerara Syrup
+    ingredients: 
+    - 710 grams filtered water
+    - 12 grams dried sarsaparilla
+    - Demerara sugar
+    steps:
+    - In a saucepan, combine the water and sarsaparilla. Bring to a boil over medium-high heat and cook for 5 minutes. Pass the mixture through a fine-mesh sieve and weigh the liquid. Add twice the weight in sugar to a blender and add the liquid. Process until the sugar has dissolved. Let cool to room temperature, then transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Simple Syrup
+    ingredients: 
+    - 250 grams white sugar
+    - 250 grams filtered water
+    steps:
+    - Combine the sugar and water in a bowl and whisk until the sugar has dissolved. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Spent Citrus Cordial
+    ingredients: 
+    - Citrus trimmings and juiced hulls
+    - Fresh orange juice
+    - White sugar
+    - Vodka
+    - Citric acid
+    steps:
+    - Weigh the citrus trimmings and hulls. Measure out the same weight (each) of orange juice and sugar. Combine everything in a vacuum sealing bag and use a vacuum sealer to remove all of the air and seal. (Alternatively, combine the ingredients in a sealable plastic bag and squeeze out as much air as possible before sealing.) 
+    - Let the mixture sit for 12 hours. Cut one of the bag’s corners and strain the liquid through a fine-mesh sieve. Weigh the liquid. Calculate 10 percent of the weight of the liquid (multiply by 0.10) and place that much vodka in a storage container. Calculate 2 percent of the weight of the liquid (multiply by 0.02) and add that much citric acid to the storage container. Add the liquid to the storage container and shake well. Refrigerate until ready to use, up to 1 week.
+  - name: Strawberry Aloe Syrup
+    ingredients: 
+    - 550 grams hulled strawberries
+    - 550 grams aloe juice
+    - 550 grams white sugar
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Combine all the ingredients in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the syrup through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Strawberry Basil Syrup
+    ingredients: 
+    - 1 pound hulled strawberries
+    - 3 cups filtered water
+    - Pectinex Ultra SP-L
+    - 12 basil leaves
+    - Superfine sugar
+    steps:
+    - Weigh the strawberries and water. Calculate 0.2 percent of the weight (multiply by 0.002) to get X grams. Place the strawberries, water, and X grams of Pectinex in a blender and blend for 5 minutes. Transfer to a saucepan and bring to a boil over medium heat. Boil for 5 minutes, then add the basil. Boil for 5 minutes longer, then turn off the heat. Let cool for 10 minutes, then strain the liquid through a fine-mesh sieve. Weigh the liquid and add an equal amount of sugar. Transfer to a blender and process until the sugar has dissolved. Skim any foam from the surface, then transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Strawberry Syrup
+    ingredients: 
+    - 250 grams hulled strawberries
+    - 250 grams unbleached cane sugar
+    - 0.5 gram Pectinex Ultra SP-L
+    steps:
+    - Combine the strawberries and sugar in a blender and process until very smooth. Once the sugar has dissolved, add the Pectinex to a blender and process for 10 seconds. Transfer to a centrifuge container. Weigh the filled container and fill each of the other containers with an equal weight of water. Run the centrifuge at 4,500 rpm for 12 minutes. Remove the containers and carefully strain the syrup through a paper coffee filter or Superbag, being careful not to disturb the solids that have collected on the bottom of the container. Transfer to a storage container and refrigerate until ready to use, up to 1 week.
+  - name: Tamarind Demerara Syrup
+    ingredients: 
+    - 500 grams filtered water
+    - 1,000 grams Demerara sugar
+    - 180 grams tamarind paste
+    steps:
+    - Combine the water, sugar, and tamarind paste in a blender and process until the sugar has dissolved, about 2 minutes. Pour into a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Tonic Syrup
+    ingredients: 
+    - 1,000 grams white sugar
+    - 690 grams filtered water
+    - 150 grams strained fresh orange juice
+    - 100 grams strained fresh lemon juice
+    - 60 grams strained fresh lime juice
+    - 12 grams citric acid
+    - 10 grams finely grated orange zest
+    - 8 grams dried orange peel
+    - 8 grams finely grated zest
+    - 7.5 grams Terra Spice quinine extract 
+    - 6 grams kosher salt
+    - 6 grams finely grated zest
+    - 3 grams coriander seeds
+    - 3 grams juniper berries 
+    - 2.5 grams cinnamon bark
+    - 2 grams dried lemon peel (granules) 
+    - 1.5 grams star anise
+    - 1 gram ground mace
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 140° Fahrenheit.
+    - Put all the ingredients in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 140° Fahrenheit, place the bag in the basin and cook for 90 minutes.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Tropic of Capricorn Greek Yogurt Syrup
+    ingredients: 
+    - 1.5 grams August Uncommon Tea Tropic of Capricorn tea leaves
+    - 113 grams hot (200°F) water
+    - 125 grams full-fat Greek yogurt
+    - 125 grams simple syrup (see recipe)
+    steps:
+    - In a heatproof container, combine the tea and hot water and let steep for 5 minutes. Strain the tea through a fine-mesh sieve and transfer to a blender. Add the yogurt and simple syrup and blend for 2 minutes at low speed. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Turbinado Syrup
+    ingredients: 
+    - 300 grams turbinado sugar
+    - 150 grams filtered water
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 145° Fahrenheit.
+    - Combine the sugar and water in a blender and process until the sugar has dissolved, about 2 minutes.
+    - Pour the mixture into a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 145° Fahrenheit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Vanilla Syrup
+    ingredients: 
+    - 500 grams simple syrup (see recipe)
+    - 2 grams vanilla extract
+    steps:
+    - Combine the simple syrup and vanilla extract in a storage container and shake to combine. Refrigerate until ready to use, up to 2 weeks.
+  - name: Watermelon Syrup
+    ingredients: 
+    - 250 grams strained fresh watermelon juice
+    - 250 grams superfine sugar
+    - 14 grams vodka
+    steps:
+    - Combine the watermelon juice, sugar, and vodka in a blender and process until the sugar has dissolved. Pour into a storage container and refrigerate until ready to use, up to 1 week.
+  - name: White Chocolate & Wasabi Syrup
+    ingredients: 
+    - 375 grams melted white chocolate
+    - 375 grams Coco López cream of coconut
+    - 375 grams unsweetened coconut milk 
+    - 375 grams Cane Sugar Syrup (see recipe)
+    - 15 grams wasabi powder 
+    - 2 grams matcha tea powder
+    steps:
+    - Combine all the ingredients in a blender and process until smooth. Transfer to a storage container and refrigerate until ready to use, up to 1 week.
+#Infusions
+  - name: Arbol-Infused Del Maguey Vida Mezcal
+    ingredients: 
+    - One 750 ml bottle Del Maguey Vida mezcal (reserve the bottle)
+    - 5 chiles de arbol, torn into large pieces
+    steps:
+    - Place the mezcal and chiles in a bowl and stir to combine. Let stand at room temperature for up to 30 minutes, tasting often to monitor the heat level. Strain through a fine-mesh sieve, then funnel back into the mezcal bottle and refrigerate until ready to use, up to 1 month.
+    - Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Funnel back into the mezcal bottle and refrigerate until ready to use, up to 3 months.
+  - name: Banana-Infused Dolin Blanc Vermouth
+    ingredients: 
+    - 200 grams peeled ripe (but not brown) bananas
+    - One 375 ml bottle Dolin blanc vermouth (reserve the bottle)
+    steps:
+    - Thinly slice the bananas. Combine them with the vermouth in a bowl. Cover and refrigerate for 12 hours. Strain through a paper coffee filter, Superbag, or fine mesh sieve lined with several layers of cheesecloth, then funnel back into the vermouth bottle and refrigerate until ready to use, up to 3 months.
+  - name: Brown Butter-Infused Panama Pacific Rum
+    ingredients: 
+    - One 750 ml bottle Panama Pacific rum (reserve the bottle)
+    - 150 grams brown butter, melted
+    steps:
+    - Combine the rum and brown butter in a bowl, cover, and let sit at room temperature for 24 hours. Transfer to the freezer and freeze for 24 hours. Carefully poke a hole in the solidified butter and drain the liquid out (reserve the butter for another use). Strain the liquid through a paper coffee filter, Superbag, or fine mesh sieve lined with several layers of cheesecloth, then funnel back into the rum bottle and refrigerate until ready to use, up to 3 months.
+  - name: Cacao Nib-Infused Calle 23 Reposado Tequila
+    ingredients: 
+    - One 750ml bottle Calle 23 Reposado tequila
+    - 30 grams cacao nibs
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 130° Fahrenheit.
+    - Combine the tequila and cacao nibs in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 130° Fahrenheit, place the bag in the basin and cook for 120 minutes.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 3 months.
+  - name: Chamomile-Infused Armagnac
+    ingredients: 
+    - One 750 ml bottle PM Spirits VS Armagnac (reserve the bottle)
+    - 5 grams dried chamomile flowers
+    steps:
+    - Combine the Armagnac and chamomile in a bowl and stir to combine. Let stand at room temperature for 30 minutes, stirring occasionally. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Funnel back into the rum bottle and refrigerate until ready to use, up to 3 months.
+  - name: Coffee Bean-Infused Campari
+    ingredients: 
+    - One 1 liter bottle Campari (reserve the bottle)
+    - 6 grams whole coffee beans
+    steps:
+    - Combine the Campari and coffee beans in a bowl and stir to combine. Cover and let stand at room temperature for 24 hours, stirring occasionally. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Funnel back into the Campari bottle and refrigerate until ready to use, up to 3 months.
+  - name: Coriander-Infused Ransom Old Tom
+    ingredients: 
+    - One 750 ml bottle Ransom Old Tom gin (reserve the bottle)
+    - 35 grams lightly toasted coriander seeds
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Combine the gin and coriander seeds in a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahren heit, place the bag in the basin and cook for 2 hours.
+    - Transfer the bag to an ice bath and let cool to room temperature. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Funnel back into the gin bottle and refrigerate until ready to use, up to 3 months.
+  - name: Corn Husk-Infused Del Maguey Chichicapa Mezcal
+    ingredients: 
+    - 14 grams fresh corn husks
+    - One 750 ml bottle Del Maguey Chichicapa mezcal (reserve the bottle)
+    steps:
+    - Preheat the oven to 400° Fahrenheit. Spread the corn husks on a baking sheet and toast until lightly browned and crisp in pots, but not completely dried out.
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Combine the corn husks and mezcal in a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahren heit, place the bag in the basin and cook for 2 hours.
+    - Transfer the bag to an ice bath and let cool to room temperature. Pass the infusion through a fine-mesh sieve. If any particles remain, strain it again through a paper coffee filter or Superbag. Funnel the infusion back into the mezcal bottle and refrigerate until ready to use, up to 4 weeks.
+  - name: Dashi Kombu Infused Pear Brandy
+    ingredients: 
+    - 30 grams dashi kombu
+    - One 750 ml bottle Clear Creek pear eau-de-vie (reserve the bottle)
+    steps:
+    - Tear the kombu into 1-inch strips. Place the kombu and brandy in a bowl and stir to combine. Let stand for 45 minutes, stirring occasionally. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Funnel back into the brandy bottle and refrigerate until ready to use, up to 3 months.
+  - name: Dried Mango Infused Calle 23 Reposado Tequila
+    ingredients: 
+    - One 750ml bottle Calle 23 Reposado tequila
+    - 75 grams dried mango
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Put all the ingredients in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water. When the water has reached 135° Fahrenheit, place the bag in the basin and cook for 1 hour.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 3 months.
+  - name: Elote-Infused Elijah Craig Bourbon
+    ingredients: 
+    - 1 ear of corn, shucked
+    - One 750 ml bottle Elijah Craig 12-year bourbon (reserve the bottle)
+    steps:
+    - Preheat the oven to 425° Fahrenheit. Roast the corn directly on the oven rack, turning it over every few minutes, until roasted and lightly browned in spots, about 18 minutes.
+    - In a bowl, combine the roasted corn and bourbon. Cover and let sit for 24 hours. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion,. strain it again through a paper coffee filter or Superbag. Funnel back into the bourbon bottle and refrigerate until ready to use, up to 3 months.
+  - name: Eucalyptus-infused Yaguara Ouro Cachaça
+    ingredients: 
+    - 5 grams Terra Spice eucalyptus extract
+    - One 750 ml bottle Yaguara Ouro cachaça
+    steps:
+    - Add the eucalyptus extract to the bottle of cachaça and shake well. The infusion will last indefinitely.
+  - name: Jalapeño-infused Siembra Valles Blanco Tequila
+    ingredients: 
+    - 4 jalapeños 
+    - One 750 ml bottle Siembra Valles Blanco tequila (reserve the bottle)
+    steps:
+    - Halve the jalapeños lengthwise, then scrape the seeds and membranes into a container. Add the flesh of 2 of the jalapeños (reserve the flesh of the other 2 for another use). Add the tequila and stir to combine. Let stand at room temperature for up to 20 minutes, tasting often to monitor the heat level. Strain through a fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the tequila bottle and refrigerate until ready to use, up to 1 month.
+  - name: Miso-Infused Pierre Ferrand 1840 Cognac
+    ingredients: 
+    - One 750 ml bottle Pierre Ferrand 1840 cognac (reserve the bottle) 
+    - 1 tablespoon white miso paste
+    steps:
+    - Combine the cognac and miso in a blender and process until well blended. Divide the liquid evenly among your centrifuge containers. Weigh the filled containers and adjust the amount of liquid in each as needed to ensure their weights are exactly the same; this is important for keeping the machine in balance. Run the centrifuge at 4,500 rpm for 12 minutes.
+    - Remove the containers and carefully strain the infusion through a paper coffee filter or Superbag, being careful not to disturb the solids that have collected on the bottom of the containers. If any particles remain in the infusion, strain it again. Funnel back into the cognac bottle and refrigerate until ready to use, up to 2 months.
+  - name: Miso-Infused Tariquet Classique VS Armagnac
+    ingredients: 
+    - One 750 ml bottle Tariquet Classique VS Bas-Armagnac (reserve the bottle)
+    - 1 tablespoon white miso paste
+    steps:
+    - Combine the Armagnac and miso in a blender and process until well blended. Divide the liquid evenly among your centrifuge containers. Weigh the filled containers and adjust the amount of liquid in each as needed to ensure their weights are exactly the same; this is important for keeping the machine in balance. Run the centrifuge at 4,500 rpm for 12 minutes.
+    - Remove the containers and carefully strain the infusion through a paper coffee filter or Superbag, being careful not to disturb the solids that have collected on the bottom of the containers. If any particles remain in the infusion, strain it again. Funnel back into the Armagnac bottle and refrigerate until ready to use, up to 2 months.
+  - name: Niçoise Olive Infused Yaguara Ouro Cachaça
+    ingredients: 
+    - One 750 ml bottle Yaguara Ouro cachaça (reserve the bottle) 
+    - 250 grams niçoise olives
+    steps:
+    - Combine the cachaça and olives in a bowl and stir to combine. Cover and let stand at room temperature for 24 hours, stirring occasionally. Pass the infusion through a fine-mesh sieve. Transfer to a container, cover, and freeze for 24 hours. Strain again through a fine-mesh sieve.
+    - Divide the liquid evenly among your centrifuge containers. Weigh the filled containers and adjust the amount of liquid in each as needed to ensure their weights are exactly the same; this is important for keeping the machine in balance. Run the centrifuge at 4,500 rpm for 12 minutes.
+    - Remove the containers and carefully strain the infusion through a paper coffee filter or Superbag, being careful not to disturb the solids that have collected on the bottom of the containers. If any particles remain in the infusion, strain it again. Funnel back into the cachaça bottle and refrigerate until ready to use, up to 3 months.
+  - name: Nori-infused La Favorite Rhum Agricole Blanc
+    ingredients: 
+    - One 750 ml bottle La Favorite rhum agricole blanc (reserve the bottle)
+    - 10 grams aonori (dried seaweed flakes)
+    steps:
+    - Combine the rum and aonori in a bowl and stir to combine. Let stand at room temperature for 15 minutes, stirring occasionally. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Funnel back into the rum bottle and refrigerate until ready to use, up to 3 months.
+  - name: Peanut Butter-Infused Old Overhold Rye
+    ingredients: 
+    - One 750 ml bottle Old Overholt rye (reserve the bottle)
+    - 40 grams organic creamy peanut butter
+    steps:
+    - Combine the rye and peanut butter in a blender and blend until smooth. Transfer to a bowl, cover, and freeze for 12 hours. Carefully poke a hole in the solidified peanut butter and drain the liquid out. Strain the liquid through a paper coffee filter, Superbag, or fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the rye bottle and refrigerate until ready to use, up to 1 month..
+  - name: Peanut-infused Lustau Don Nuño Oloroso Sherry
+    ingredients: 
+    - 180 grams raw, shelled peanuts
+    - One 750 ml bottle Lustau Don Nuño oloroso sherry (reserve the bottle)
+    steps:
+    - Preheat the oven to 350° Fahrenheit. Spread the peanuts on a rimmed baking sheet and roast until golden brown, 20 to 25 minutes. Transfer the peanuts to a bowl and let cool to room temperature. Add the sherry, cover, and refrigerate for 12 hours. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Funnel back into the sherry bottle and refrigerate until ready to use, up to 3 months.
+  - name: Pineapple-Infused Tanqueray Gin
+    ingredients: 
+    - One 750 ml bottle Tanqueray gin (reserve the bottle)
+    - 350 grams cubed pineapple (about ½-inch cubes)
+    steps:
+    - Combine the gin and pineapple in a bowl and stir to combine. Let stand at room temperature for 4 hours, stirring. occasionally. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Funnel back into the gin bottle and refrigerate until ready to use, up to 3 months.
+  - name: Pistachio-Infused Elijah Craig Bourbon
+    ingredients: 
+    - One 1 liter bottle Buffalo Trace bourbon (reserve the bottle)
+    - 27 grams Fiddyment Farms pistachio paste
+    steps:
+    - Combine the bourbon and pistachio paste in a blender and process until smooth. Transfer to a storage container, cover, and freeze for 24 hours. Carefully poke a hole in the solidified fat and drain the liquid out. Strain through a paper coffee filter, Superbag, or fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the bourbon bottle and refrigerate until ready to use, up to 3 months.
+  - name: Pistachio-Infused Rittenhouse Rye
+    ingredients: 
+    - One 750 ml bottle Rittenhouse rye (reserve the bottle)
+    - 40 grams Fiddyment Farms pistachio paste
+    steps:
+    - Combine the rye and pistachio paste in a blender and blend until smooth. Transfer to a bowl, cover, and freeze for 12 hours. Carefully poke a hole in the solidified paste and drain the liquid out. Strain through a paper coffee filter, Superbag, or fine mesh sieve lined with several layers of cheesecloth, then funnel back into the rye bottle and refrigerate until ready to use, up to 1 month.
+  - name: Shiitake-Infused Hibiki Harmony Whisky
+    ingredients: 
+    - One 750 ml bottle Hibiki Harmony whisky
+    - 7 grams dried shiitake mushrooms
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135° Fahrenheit.
+    - Combine the whisky and mushrooms in a sealable, heatproof plastic bag. Seal the bag almost completely, then press out as much air as possible by dipping the bag (other than the unsealed portion) in the water. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135° Fahren heit, place the bag in the basin and cook for 2 hours.
+    - Place the bag in an ice bath and let cool to room temperature. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 3 months.
+  - name: Silver Needle Tea-Infused Dolin Blanc Vermouth
+    ingredients: 
+    - One 750 ml bottle Dolin blanc vermouth (reserve the bottle)
+    - 10 grams Silver Needle white tea leaves
+    steps:
+    - Combine the vermouth and tea leaves in a bowl and stir to combine. Let stand at room temperature for 30 minutes, stirring occasionally. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Funnel back into the vermouth bottle and refrigerate until ready to use, up to 3 months.
+  - name: Strawberry-Infused Plymouth Gin
+    ingredients: 
+    - One 750 ml bottle Plymouth gin (reserve the bottle)
+    - 500 grams hulled and halved strawberries
+    steps:
+    - Combine the gin and strawberries in a bowl and stir to combine. Cover and refrigerate for 24 hours. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Funnel back into the gin bottle and refrigerate until ready to use, up to 3 months.
+  - name: Strawberry-Infused Sombra Mezcal
+    ingredients: 
+    - 700 grams hulled strawberries
+    - 700 grams Sombra mezcal
+    - 5 grams ascorbic acid
+    - Pectinex Ultra SP-L
+    - Kieselsol
+    - Chitosan
+    steps:
+    - Wash and hull the strawberries. Combine the strawberries, mezcal, and ascorbic acid in a blender and process until very smooth.
+    - Strain the mixture through a paper coffee filter or Superbag. Calculate 2 percent of the weight (multiply by 0.02) to get X grams. Stir in X grams of pectinex and kieselsol. Cover and let sit for 15 minutes. Stir in X grams of chitosan and let sit 15 minutes more. Stir in X grams of kieselsol. Transfer to a centrifuge container. Weigh the filled container and fill each of the other containers with an equal weight of water. Run the centrifuge at 4,500 rpm for 12 minutes. Remove the containers and carefully strain the infusion through a paper coffee filter or Superbag, being careful not to disturb the solids that have collected on the bottom of the container. Transfer to a storage container and refrigerate until ready to use, up to 1 week.
+#House Bitters, Mixes, Juices & Shrubs
+  - name: Aleppo Salt
+    ingredients: 
+    - Aleppo pepper
+    - Kosher salt
+    steps:
+    - Combine equal parts Aleppo pepper and kosher salt.
+  - name: Acid-Adjusted Orange Juice
+    ingredients: 
+    - 500 grams strained fresh orange juice
+    - 16 grams citric acid powder
+    - 10 grams malic acid powder
+    steps:
+    - Combine all the ingredients in a bowl and whisk until the powders have dissolved. Transfer to a storage container and refrigerate until ready to use, up to 3 days.
+  - name: Donn’s Mix #1
+    ingredients: 
+    - 400 grams strained fresh grapefruit juice
+    - 200 grams Cinnamon Syrup (see recipe)
+    steps:
+    - Combine the grapefruit juice and cinnamon syrup in a bowl and whisk until thoroughly blended. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Donn’s Spices
+    ingredients: 
+    - 200 grams Vanilla Syrup (see recipe)
+    - 200 grams St. Elizabeth allspice dram
+    steps:
+    - Combine the vanilla syrup and allspice dram in a bowl and whisk until thoroughly blended. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Hibiscus Shrub
+    ingredients: 
+    - 500 grams champagne vinegar
+    - 22.5 grams dried hibiscus flowers
+    - Superfine sugar
+    - Filtered water
+    steps:
+    - In a bowl, combine the vinegar and hibiscus. Cover and let sit for at least 12 hours or up to 48 hours (longer is better). Pass the liquid through a fine mesh sieve and pour into a saucepan. Bring the mixture to a boil, then lower the heat and simmer until the liquid is reduced by about one-fourth, about 15 minutes. Let cool slightly, then weigh the liquid. Add the mixture, an equal weight of sugar, and half as much water to a blender. Process until the sugar has dissolved. Transfer to a storage container and refrigerate until ready to use, up to 1 year.
+  - name: House Orange Bitters
+    ingredients: 
+    - 100 grams Fee Brothers West Indian orange bitters
+    - 100 grams Angostura orange bitters
+    - 100 grams Regans' orange bitters
+    steps:
+    - Combine all the ingredients in a bowl and stir to combine. Transfer to a storage container and store at room temperature until ready to use, up to 1 year.
+  - name: Improved Gardenia Mix
+    ingredients: 
+    - 100 grams filtered water
+    - 5 grams Ticaloid 210 S (gum stabilizer)
+    - 450 grams melted unsalted butter 
+    - 150 grams Cinnamon Syrup (see recipe)
+    - 75 grams Vanilla Syrup (see recipe)
+    - 75 grams St. Elizabeth allspice dram
+    steps:
+    - Place the water and Ticaloid in a blender and let sit for 5 minutes. Add the butter and blend until smooth. Add the remaining ingredients and blend again. Transfer to a storage container and refrigerate until ready to use, up to 1 week.
+  - name: Papaya Mix
+    ingredients: 
+    - 600 grams Perfect Purée papaya purée
+    - 400 grams Cane Sugar Syrup (see recipe)
+    - 200 grams Marie Brizard white crème de cacao
+    - 30 grams Citric Acid Solution (see recipe)
+    steps:
+    - Combine all the ingredients in a bowl and whisk until thoroughly blended. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Tepache
+    ingredients: 
+    - 15 grams cinnamon bark
+    - 5 grams coriander seeds
+    - 5 grams whole star anise
+    - 5 grams white peppercorns
+    - 2 grams cardamom pods
+    - 2,000 grams water
+    - 500 grams piloncillo (Mexican raw cane sugar)
+    - 1 pineapple (with skin), chopped
+    steps:
+    - Lightly crush all the spices, then toast in a dry skillet over medium-low heat until fragrant. Transfer to a heatproof bowl or storage container. In a saucepan, combine the water and piloncillo and heat over medium-low heat, whisking occasionally, until the sugar has dissolved. Pour the solution over the spices and add the pineapple. Cover the container with cheesecloth and secure it with a rubber band. Let sit at room temperature in a dark place for 4 days, stirring daily. Pass through a fine-mesh sieve. If any particles remain in the tepache, strain it again through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Tsukemono Brine
+    ingredients: 
+    - 1 large or 2 or 3 small cucumbers (unpeeled), sliced
+    - Kosher salt
+    - 500 grams rice vinegar
+    - 500 grams water
+    - 250 grams white sugar
+    - 125 grams sesame seeds
+    steps:
+    - Place the cucumber slices in a colander and toss with 2 teaspoons of salt. Let sit for 1 hour, then rinse well and let dry.
+    - In a bowl, combine the vinegar, water, sugar, and 1 teaspoon salt and whisk until the sugar and salt have dissolved. Add the cucumbers and sesame seeds and toss. Transfer to a storage container and refrigerate for at least 24 hours before using.
+#Solutions & Tinctures
+  - name: Champagne Acid Solution
+    ingredients: 
+    - 94 grams unfiltered water 
+    - 3 grams tartaric acid powder
+    - 3 grams lactic acid powder
+    steps:
+    - Combine all the ingredients in a glass bowl and stir until the powders have dissolved. Transfer to a glass dropper bottle or other glass container and refrigerate until ready to use, up to 6 months.
+  - name: Citric Acid Solution
+    ingredients: 
+    - 100 grams filtered water
+    - 20 grams citric acid powder
+    steps:
+    - Combine the water and citric acid in a glass bowl and stir until the powder has dissolved. Transfer to a glass dropper bottle or other glass container and refrigerate until ready to use, up to 6 months.
+  - name: Habanero Tincture
+    ingredients: 
+    - 150 grams vodka (reserve the bottle) 
+    - 25 grams habanero peppers, thinly sliced
+    steps:
+    - Combine the vodka and peppers in a bowl, cover, and let sit for 24 hours. Pass through a fine-mesh sieve. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Funnel back into the vodka bottle and refrigerate until ready to use, up to 1 month.
+  - name: Hopped Lime Acid
+    ingredients: 
+    - 250 grams filtered water
+    - 9 grams citric acid powder
+    - 6 grams malic acid powder
+    - 2 grams Citra hop pellets
+    - 1 gram kosher salt
+    steps:
+    - Combine all the ingredients in a blender and process until the powders and salt have dissolved. Strain through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 6 months.
+  - name: Kefir Whey
+    ingredients: 
+    - Kefir
+    steps:
+    - Strain kefir through a cheesecloth-lined sieve.
+  - name: Lactic Acid Solution
+    ingredients: 
+    - 100 grams filtered water
+    - 10 grams lactic acid powder
+    steps:
+    - Combine the water and lactic acid in a glass bowl and stir until the powder has dissolved. Transfer to a glass dropper bottle or other glass container and refrigerate until ready to use, up to 6 months.
+  - name: Malic Acid Solution
+    ingredients: 
+    - 80 grams filtered water
+    - 20 grams malic acid powder
+    steps:
+    - Combine the water and malic acid in a glass bowl and stir until the powder has dissolved. Transfer to a glass dropper bottle or other glass container and refrigerate until ready to use, up to 6 months.
+  - name: Salt Solution
+    ingredients: 
+    - 70 grams filtered water
+    - 30 grams kosher salt
+    steps:
+    - Combine the water and salt in a glass bowl and whisk until the salt has dissolved. Transfer to a glass dropper bottle or other glass container and refrigerate until ready to use, up to 6 months.
+#Garnishes
+  - name: Campari-Infused Toasted Coconut
+    ingredients: 
+    - 1 Liter bottle Campari (reserve the bottle)
+    - 500 grams toasted coconut
+    steps:
+    - Combine the Campari and toasted coconut in a bowl and stir to combine. Cover and let stand at room temperature for 24 hours, stirring occasionally. Pass the infusion through a fine-mesh sieve and reserve the coconut flakes. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Funnel back into the Campari bottle and refrigerate until ready to use, up to 3 months.
+    - Place the coconut flakes in a dehydrator until dry. Transfer to a storage container and store at room temperature until ready to use, up to 2 weeks.
+  - name: Dehydrated Apple Slices
+    steps:
+    - In a bowl, whisk 2 cups water with 1 teaspoon kosher salt until the salt has dissolved. Thinly slice apples (use a mandoline if you have one) and add to the water; this step prevents browning. Let soak for 15 minutes, then drain.
+    - Set a dehydrator to 135° Fahrenheit or preheat the oven to its lowest setting. Arrange the apple slices on the dehydrator rack or a wire rack set inside a rimmed baking sheet, leaving about ½ inch of space between slices. Dehydrate or bake with the door propped open slightly until completely dried and brittle, 6 to 8 hours, Transfer to a storage container lined with paper towels. Store at room temperature until ready to use, up to 1 month.
+  - name: Dehydrated Citrus Wheels or Pineapple Wedges
+    steps:
+    - Set a dehydrator to 135° Fahrenheit or preheat the oven to its lowest setting. Arrange the fruit on the dehydrator rack or a wire rack set in a rimmed baking sheet, leaving about ½ inch of space between each. Dehydrate or bake with the door propped open slightly until completely dried and brittle, 8 to 12 hours. Transfer to a storage container lined with paper towels. Store at room temperature until ready to use, up to 1 month.
+  - name: Raspberry Powder
+    ingredients: 
+    - Freeze-dried raspberries
+    steps:
+    - Blitz freeze-dried raspberries in a blender or food processor.
+  - name: Toasted Oat Cream
+    ingredients: 
+    - 2 ounces steel-cut oats
+    - 16 ounces heavy cream
+    steps:
+    - Preheat the oven to 350° Fahrenheit. Spread the oats on a rimmed baking sheet and toast until lightly browned and fragrant, about 10 minutes. Let cool slightly, then transfer to a bowl and add the heavy cream. Cover and refrigerate for 24 hours. Pass the infusion through a fine-mesh sieve. Transfer to a storage container and refrigerate until ready to use, up to 5 days.

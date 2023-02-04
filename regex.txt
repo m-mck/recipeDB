@@ -1,0 +1,27 @@
+REGEX (a.k.a, text witchcraft)
+See https://regex101.com/
+
+
+
+Within a recipes.yml file, for when "steps" is a single bullet of multiple
+sentences, use this multiple times to split the long line into multiple bullet
+points, split by periods.
+
+FIND: (\s*steps:\s*\n)(\s*-\s*)(.*\.)\s*(.*)\.
+REPLACE: $1$2$3
+         $2$4
+
+
+
+Within a recipes.yml file, if a the text of a bullet "-" has a period at the
+end, remove the period.
+
+FIND: (\s+-\s.*)\.
+REPLACE: $1
+
+
+
+Within any file, replaces any accidental double space "  " with a single space " "
+
+FIND: (\S)  (\S)
+REPLACE: $1 $2

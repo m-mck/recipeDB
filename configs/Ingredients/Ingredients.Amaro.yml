@@ -1,0 +1,114 @@
+source: "Amaro: The Spirited World of Bittersweet, Herbal Liqueurs"
+hidden: true
+
+recipes:
+
+#Alpine Slide
+  - name: Champagne acid
+    notes: 
+    ingredients: 
+    - 3 grams lactic acid
+    - 3 grams tartaric acid
+    - 9 milliliters water
+    steps:
+    - To make the Champagne acid, dissolve 3 grams lactic acid and 3 grams tartaric acid in 9 milliliters of water.
+
+#Amaro Amanté
+  - name: Evaporated Cane Sugar Syrup
+    notes: Makes 1½ cups.
+    ingredients: 
+    - 1 cup water
+    - 1 cup raw cane sugar
+    steps:
+    - In a medium saucepan over medium heat, bring the sugar and water to a simmer, stirring the mixture occasionally to dissolve the sugar. At the first crack of a boil, remove from the heat. Let cool completely, then store the syrup in a glass jar with a lid. The syrup will keep in the refrigerator for up to a month.
+
+#The Chipileños
+  - name: Pickled Kumquat Syrup
+    notes: Makes approximately 2½ cups.
+    ingredients: 
+    - 8 ounces kumquats
+    - 2 cups white vinegar
+    - 1 cup sugar
+    steps:
+    - Kumquats are typically in season along with other winter citrus from January through March. Slice the kumquats in half. Combine the halved kumquats, vinegar, and sugar in a medium saucepan over medium heat. Bring to a boil, stirring occassinally, then turn down the heat slightly. Allow the syrup to simmer for 10 to 15 minutes, until the kumquats are tender and the liquid becomes syrupy. Remove from the heat. Let cool completely, then strain into a glass jar with a lid. The kumquat syrup will keep in the refrigerator for up to a month.
+    
+#Choke and Smoke
+  - name: Brown Sugar Cordial
+    notes: Makes 2½ cups.
+    ingredients: 
+    - 2 cups Demerara sugar
+    - 1 cup water
+    - 2 ounces Demerara rum
+    steps:
+    - In a medium saucepan over medium heat, bring the Demerara sugar and water to a simmer, stirring the mixture occasionally to dissolve the sugar. At the first crack of a boil, remove from the heat. Once the syrup has cooled and thickened, stir in the rum, then store the cordial in a glass jar with a lid. The cordial will keep in the refrigerator for up to a month.
+
+#Here Today, Saigon Amaro
+  - name: Saigon Cinnamon Syrup
+    notes: Makes approximately 1½ cups.
+    ingredients: 
+    - ½ tablespoon ground Saigon cinnamon powder
+    - 1 cup water
+    - 1 cup sugar
+    steps:
+    - In a medium saucepan over medium heat, mix the Saigon cinnamon into the water, then add the sugar. At the first crack of a boil, remove from the heat. Allow to cool for 15 minutes, then strain through damp cheesecloth into a glass jar with a lid. The syrup will keep in the refrigerator up to a month.
+
+#Hunting Vest
+  - name: Cedar-Infused Campari
+    notes: Makes 3 to 4 cups.
+    ingredients: 
+    - 1 to 3 untreated food-safe cedar planks, broken into small pieces
+    - 3 to 4 cups Campari
+    steps:
+    - Break up the cedar planks into pieces small enough to fit into a quart-sized Mason jar. The number of cedar planks needed will vary depending on their size, but you want enough to fill up the jar (approximately 3 cups of chips). 
+    - Place the cedar on a fireproof surface, like a metal baking sheet. Using a kitchen torch, burn the pieces of cedar until well charred.
+    - Once cooled, place the cedar in a 1-quart Mason jar with a lid. Cover the cedar chunks with Campari. Allow to sit, undisturbed and out of direct sunlight, for 2 weeks.
+    - Strain the Campari, discarding the chunks of cedar. Strain again three times, using damp cheesecloth. Store in a glass container or bottle with a lid. The infused Campari will keep for up to a year and can be enjoyed on its own chilled over ice.
+
+#Mustache Ride
+  - name: Joey Sunshine's Maple Simple Syrup
+    notes: Makes approximately 2½ cups.
+    ingredients: 
+    - 2 cups Grade B maple syrup		
+    - 1 cup filtered water		
+    - ½ tablespoon black peppercorns		
+    - ½ tablespoon fennel seeds		
+    - ½ tablespoon cloves		
+    - ½ tablespoon allspice berries		
+    - ½ teaspoon freshly grated nutmeg		
+    - 1 star anise pod		
+    - 1 fresh bay leaf
+    steps:
+    - In a medium saucepan over medium heat, combine all the ingredients. Bring to a simmer, stirring occasionally. At the first crack of a boil, remove from the heat. Let cool completely, then strain the syrup and discard the solids. Store the syrup in a glass jar with a lid. The syrup will keep refrigerated for up to a month.
+
+#Seventh Heaven
+  - name: Pistachio Orgeat
+    notes: Makes 2½ cups.
+    ingredients: 
+    - 1 (11-ounce) can Love'n Bake pistachio nut paste
+    - 11 ounces simple syrup
+    steps:
+    - Combine the pistachio paste and simple syrup in a bowl and mix with an immersion blender until smooth. Alternatively, add the ingredients to a blender and mix until smooth. The orgeat will keep in the refrigerator for up to 2 weeks.
+
+#The Victorian
+  - name: Sirop de Capillaire
+    notes: Makes approximately 2½ cups.
+    ingredients: 
+    - 1 cup water		
+    - 2 cups granulated sugar		
+    - ½ ounce gum arabic
+    - 3 tablespoons dried maidenhair fern
+    - 2 or 3 drops orange blossom water
+    steps:
+    - In a medium saucepan over medium heat, bring the water, sugar, and gum arabic to a simmer, stirring the mixture occasionally to dissolve the sugar and gum arabic. At the first crack of a boil, remove from the heat.		
+    - Place the dried fern in a glass container with a lid and pour in the hot syrup to cover it. Allow to steep in the refrigerator for 24 hours.		
+    - Strain the syrup into a new glass jar with a lid and discard the solids. Stir in the orange blossom water. The syrup will keep in the refrigerator for up to a month.
+
+#Zucca for Love
+  - name: Vanilla Syrup
+    notes: Makes approximately 1½ cups.
+    ingredients: 
+    - 1 cup water
+    - 1 cup sugar
+    - 3 vanilla beans, halved lengthwise and seeds scraped out (use both pod and seeds)
+    steps:
+    - Combine all the ingredients in a medium saucepan and bring to a simmer over medium heat, stirring occasionally to dissolve the sugar. At the first crack of a boil, remove from the heat. Let cool completely, then refrigerate the syrup in a glass jar with a lid for 24 hours to allow the vanilla flavor to infuse. Strain into a glass jar or bottle with a lid and discard the solids. The syrup will keep in the refrigerator for up to a month.

@@ -1,10 +1,15 @@
 <script>
+    import OptionalCheck from "../utilities/OptionalCheck.svelte";
+
     export let title;
+	export let content;
 </script>
 
-<span class="header">
-    <b>{title}</b>
-</span>
+<OptionalCheck {title} {content} optional={false}>
+	<div class="header">
+		<b>{content}</b>
+	</div>
+</OptionalCheck>
 
 <style>
 	.header {
