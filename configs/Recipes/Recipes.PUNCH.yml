@@ -73,7 +73,48 @@ recipes:
       - stirred
       - martini
       - classic
-      - freezer
+      - freezer bar
+  - name: Mott and Mulberry
+    author: Leo Robitschek
+    notes: Named for an intersection on the border of Little Italy and Chinatown in New York City, the Mott and Mulberry is bartender Leo Robitschek’s autumnal Whiskey Sour riff. His mix of spicy rye, bittersweet Amaro Abano and tart apple cider layered over demerara syrup and fresh lemon combine to make a bone-warming comfort cocktail.
+    url: https://punchdrink.com/recipes/mott-and-mulberry/
+    ingredients:
+    - 1 ounce rye (preferably Old Overholt)
+    - 1 ounce Luxardo Amaro Abano
+    - 3/4 ounce apple cider or tart apple juice
+    - 1/2 ounce lemon juice
+    - 1/2 ounce demerara syrup
+    - "Garnish: thin apple slices"
+    steps:
+    - Add all ingredients to a cocktail shaker.
+    - Add ice and shake until chilled.
+    - Strain into a rocks glass over ice.
+    - Garnish with thinly sliced apple wedges.
+    tags:
+      - shaken
+      - citrus
+      - sours
+  - name: Flannel Shirt
+    author: Jeffrey Morogenthaler
+    notes: "Bartender Jeffrey Morgenthaler of the Clyde Common in Portland, Oregon, created the Flannel Shirt for an autumnal event. Using classic fall flavors—apple, earth, spice and smoke—he whipped up this fleecy, bone-warming drink with the bold backbone of Scotch and a supporting cast of apple cider, St. Elizabeth Allspice Dram and super-bold Averna. Morgenthaler says, “It reminds me of a hot drink that you’d have on Thanksgiving morning—only served cold.”"
+    url: https://punchdrink.com/recipes/flannel-shirt/
+    ingredients:
+    - 1 3/4 ounces Scotch
+    - 1 1/2 ounces apple cider
+    - 1/2 ounce Averna
+    - 1/4 ounce lemon juice
+    - 1 teaspoon demerara syrup (2:1, demerara sugar:water)
+    - 1/2 teaspoon St. Elizabeth Allspice Dram
+    - 2 dashes Angostura bitters
+    steps:
+    - Add all ingredients to a cocktail shaker.
+    - Add ice and shake until chilled.
+    - Strain into a rocks glass over ice.
+    - Garnish with an orange peel.
+    tags:
+      - shaken
+      - citrus
+      - sours
   - name: 
     author: 
     notes: 
@@ -82,5 +123,4 @@ recipes:
     steps:
     - 
     tags:
-      - 
-      - 
+    - 
