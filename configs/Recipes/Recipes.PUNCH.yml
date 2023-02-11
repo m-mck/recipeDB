@@ -57,16 +57,23 @@ recipes:
       - fox liquor bar
       - stirred
       - negroni
-  - name: 
-    author: 
-    notes: 
+  - name: Bobby Heugel’s Freezer Martini
+    author: Bobby Heugel
+    notes: Top honors in our blind tasting of freezer Martinis went to Bobby Heugel, the Houston-based cocktail bar owner and a known Martini obsessive. The panel recognized this drink’s classic London-dry profile and embraced it right off. (Heugel has been selling this rendition as a 750 ml “Bobby’s Martini” at his bars Anvil Bar & Refuge and Tongue-Cut Sparrow.) Yields 1 liter.
     ingredients:
-    - 
+    - 12 1/2 ounces gin, preferably Tanqueray
+    - 4 1/2 ounces gin, preferably Tanqueray 10 Gin
+    - 7 1/2 ounces dry vermouth, preferably Noilly Prat Extra Dry
+    - 9 1/2 ounces filtered water
     steps:
-    - 
+    - Combine all ingredients in a 1 liter bottle.
+    - Store the bottle in the freezer for several hours, or overnight.
+    - When ready to serve, pour into a chilled cocktail glass.
     tags:
-      - 
-      - 
+      - stirred
+      - martini
+      - classic
+      - freezer
   - name: 
     author: 
     notes: 
