@@ -115,8 +115,213 @@ recipes:
       - shaken
       - citrus
       - sours
+  - name: The Barrymore Cocktail
+    author: Kenneth McCoy
+    url: https://punchdrink.com/recipes/the-barrymore-cocktail/
+    notes: "Kenneth McCoy traces the origin of this drink back to a time in which he sampled an array of stirred cocktails in liqueur-rinsed coupes. He found particular harmony between whiskey-based drinks and small amounts of green Chartreuse. “Whether it was a bourbon, a rye, or a single malt, it just elevated the cocktail,” he recalls. “It just gives another edge to the cocktail.”"
+    ingredients:
+    - 2 ounces Scotch, preferably Bruichladdich The Classic Laddie
+    - 1/2 ounce peated whisky, preferably Compass Box The Peat Monster
+    - 1/2 ounce Ramazzotti amaro
+    - 1 barspoon green Chartreuse
+    - "Garnish: Expressed and discarded orange twist"
+    steps:
+    - In a mixing glass, stir first three ingredients with ice.
+    - Swirl Chartreuse in a coupe glass, using enough to generously coat the interior. Use a long-handled match to set the liqueur on fire. Swirl the liqueur in the glass for a few seconds. Strain the contents of the mixing glass over the flame to extinguish.
+    - Twist orange peel over the drink to express the essential oils. Discard the peel.
+    tags:
+    - flame
+    - stirred
+  - name: Another Country
+    author: Alex Jump
+    url: https://punchdrink.com/recipes/another-country/
+    notes: Inspired by the Fault Line, a cocktail from bartender Shannon Tebay at Death & Co., New York, which Alex Jump describes as “arguably one of the best drinks Death & Co. has ever had on a menu,” Another Country reads like a Boulevardier variation. A rye base marries equal parts J. Rieger Caffé Amaro and Cocchi Vermouth di Torino with a small measure of carrot eau de vie.
+    ingredients:
+    - 1 ounce rye, preferably Rittenhouse
+    - 3/4 ounce J. Rieger Caffé Amaro
+    - 3/4 ounce vermouth di Torino, preferably Cocchi
+    - 1 teaspoon carrot eau de vie, preferably Reisetbauer
+    steps:
+    - Combine all ingredients in a mixing glass over ice and stir until chilled.
+    - Strain into a chilled Nick & Nora glass.
+    tags:
+    - stirred
+    - death & co
+  - name: Diamond Fizz Spritz
+    author: Isaac Shumway
+    url: https://punchdrink.com/recipes/diamond-fizz-spritz/
+    notes: The Diamond Fizz was born around the turn of this century, when the fizz was hitting the big time in American bars. A deceptively strong and highly drinkable mixture, it replaces the Gin Fizz’s soda water with Champagne, transforming it into a royale of sorts. Isaac Shumway’s spritz-ified version replaces the gin with Aperol and dry vermouth, the sugar with honey syrup and amaro, and the lemon juice with orange juice. The result is a fluffy orange cloud of a cocktail that tastes something like a bitter Orange Julius.
+    ingredients:
+    - 1 1/2 ounces Aperol
+    - 1/4 ounce fresh lemon juice
+    - 1/2 ounce dry vermouth, preferably Dolin
+    - 1/2 ounce honey syrup (see Editor’s Note)
+    - 1/4 ounce Gran Classico Bitter amaro
+    - 1 teaspoon fresh orange juice
+    - 1 egg white
+    - 2 1/2 ounces sparkling wine
+    steps:
+    - Add the Aperol, lemon juice, vermouth, syrup, Gran Classico, orange juice, and egg white to a cocktail shaker.
+    - Shake without ice, and then add ice and shake very hard for 20 seconds.
+    - Strain into a Collins glass over a very small amount of ice.
+    - Slowly top with the sparkling wine and add the garnish.
+    - To make the honey syrup, combine 2 parts honey and 1 part water in a saucepan over very low heat. Stir until the honey is dissolved. Remove from the heat and let sit for at least 30 minutes. Bottle and store in the refrigerator for up to one month.
+    tags:
+    - shaken
+    - citrus
+    - sparkling
+  - name: Juliet & Romeo
+    author: Toby Maloney
+    url: https://punchdrink.com/recipes/juliet-romeo/
+    notes: When Toby Maloney opened The Violet Hour, one of the first serious craft cocktail bars to open in no-nonsense Chicago, in 2007, he wanted to create a gin cocktail that would appeal to gin haters. The result was the Juliet & Romeo, a mix of gin, lime juice, cucumber, sugar, mint, salt and rose water. “I wanted it to taste like a walk through an English garden,” says Maloney. His plan succeeded. The drink has been among the top two sellers for the last 12 years; in 2019, the bar sold an average of 20 a day. To put that in perspective, only the Old-Fashioned sells more. “It’s as close to a house drink as we have,” says Maloney. It’s also jumped to other bars in town. The day Maloney sees it on the most menus? Valentine’s Day, naturally.
+    ingredients:
+    - 2 ounces London dry gin, preferably Beefeater
+    - 3/4 ounce lime juice
+    - 3/4 ounce simple syrup
+    - 3 slices cucumber
+    - 1 mint sprig
+    - pinch of salt
+    - "Garnish: mint leaf, 1 dash of rosewater, 3 dashes of Angostura bitters."
+    steps:
+    - Combine cucumber and salt in a mixing tin and muddle.
+    - Add all remaining ingredients and shake with ice.
+    - Strain into a chilled coupe.
+    - Garnish with mint leaf, 1 dash of rosewater on the mint leaf and 3 dashes of Angostura bitters.
+    tags:
+    - shaken
+    - citrus
+  - name: Valentino
+    author: Gary Regan
+    url: https://punchdrink.com/recipes/valentino-cocktail-recipe/
+    notes: The late bar legend Gary “Gaz” Regan published his Valentino recipe in his groundbreaking book The Joy of Mixology. Beginning with the Negroni template, Regan departed from the equal-parts ratio, swapped gin for vodka and served the drink up for a cocktail that he describes as “far different from the Negroni.”
+    ingredients:
+    - 2 ounces vodka
+    - 1/2 ounce Campari
+    - 1/2 ounce sweet vermouth
+    - "Garnish: orange twist"
+    steps:
+    - Combine all ingredients in a mixing glass with ice and stir until chilled.
+    - Strain into a chilled coupe or cocktail glass.
+    - Garnish with an orange twist.
+    tags:
+    - stirred
+  - name: Accomplice’s Glögg
+    author: Gabriella Mlynarczyk
+    url: https://punchdrink.com/recipes/accomplices-glogg/
+    notes: In making this “Viking-tiki”-inspired Swedish glögg, bartender Gabriella Mlynarczyk found that aquavit is a good partner for tropical ingredients, like allspice dram, pineapple and vanilla-inflected velvet falernum (though rum or even brandy can be substituted in this recipe). She recommends using a full-bodied, even jammy, bottle of wine to give the drink a generous fruitiness that’s balanced by warming spices, like ginger and pink peppercorns. Serves 4 to 6.
+    ingredients:
+    - 1 750mL bottle dry red wine
+    - 2 cups velvet falernum
+    - 2 ounces allspice dram
+    - 2 cups pineapple juice
+    - 1/2 cup aquavit, rum or brandy
+    - steeping ingredients (peel of 1 orange; peel of 1 lime; 5 cloves; 2 cinnamon sticks; 2 to 3 slices fresh ginger; 1 teaspoon szechuan or pink peppercorns; 3 bay leaves)
+    - sugar, to taste (optional)
+    steps:
+    - Place the steeping ingredients on a square of cheesecloth, then bring the corners together and tie them securely with kitchen twine to make a "teabag." Then, place in a large pot.
+    - Add all of the liquid ingredients, to the pot, except for the aquavit.
+    - Place the pot over low heat and simmer the mixture for 20 minutes, then remove from the heat.
+    - Add the aquavit and ladel the mulled wine into mugs, adding sugar to taste (if desired).
+    - Garnish with an orange peel and a cinnamon stick or a sprig of pink peppercorns.
+    tags:
+    - punch
+  - name: Fox River
+    author: Sean Hoard
+    url: https://punchdrink.com/recipes/fox-river/
+    notes: Imagine a Manhattan—rich, dark and spicy—but with a layer of chocolate nudged in between the whiskey and the bitters. This is Sean Hoard’s Fox River, which takes an American classic and dresses it up in a fur stole of homemade crème de cacao and a dash of luxurious demerara syrup.
+    ingredients:
+    - 2 ounces bourbon or rye
+    - 1/2 ounce crème de cacao, Teardrop's DIY recipe
+    - "1/2 teaspoon rich demerara syrup(2:1, demerara sugar: water)"
+    - 2 dashes peach bitters
+    - "Garnish: 1 lemon peel"
+    steps:
+    - Add all ingredients to a mixing glass.
+    - Add ice and stir until chilled.
+    - Strain over a large rock into a rocks glass.
+    - Garnish with a lemon peel.
+    tags:
+    - stirred
+  - name: Brave Benbow
+    author: Natasha David
+    url: https://punchdrink.com/recipes/brave-benbow/
+    notes: While consulting for British-themed bar and restaurant Dear Bushwick, Natasha David envisioned the menu as the documented travels of a Naval officer sailing around the world. “I always think of salt and Campari as going well together,” says David of combining the Italian bitter with salted lime cordial. “I think of them like herbs and salt in cooking—they have the ability to bring everything together.” A loose play on the Gin Sour, the Brave Benbow combines two historic styles of gin—Navy strength and Old Tom—and is named for a British admiral.
+    ingredients:
+    - 3/4 ounce gin, Navy Strength (preferably Perry's Tot)
+    - 3/4 ounce Old Tom gin (preferably Hayman's)
+    - 1/4 ounce Campari
+    - 1 1/2 ounces salted lime cordial (see Editor's Note below)
+    - "Garnish: 2 kaffir lime leaves"
+    steps:
+    - Add all ingredients to a cocktail shaker.
+    - Add ice and shake until chilled.
+    - Strain into a chilled coupe or cocktail glass.
+    - Garnish with makrut lime leaves.
+    - To make salted lime cordial, combine 1 cup fresh lime juice, 2/3 cups of super fine sugar, and ¼ teaspoon salt in a blender. Blend until combined. Will keep in a sealed container in the refrigerator for up to one week.
+    tags:
+    - shaken
+    - citrus
+  - name: White Bull
+    author: Christiaan Rollich
+    url: https://punchdrink.com/recipes/white-bull/
+    notes: "At first attempting to riff on a Blood and Sand, Christiaan Rollich of AOC in Los Angeles created the White Bull almost by accident. Getting lost somewhere between adding and subtracting different ingredients, a new drink was born: gin instead of scotch, sage beer syrup instead of cherry liqueur, and the addition of Cocchi Americano, lemon, angostura and Hefeweizen. Served in a Collins glass with a sage leaf garnish, Rollich credits the name to removing the ‘blood’ part of a Blood and Sand and replacing it with a white beer for what drinks like a winter shandy."
+    ingredients:
+    - 1 ounce gin (preferably Death's Door)
+    - 1 ounce Cocchi Americano
+    - 3/4 ounce hefeweizen beer
+    - 3/4 ounce sage beer syrup (see Editor's Note)
+    - 1 ounce lemon juice
+    - 2 dashes Angostura bitters
+    - "Garnish: sage leaves"
+    steps:
+    - To make the Sage Beer Syrup, add one 12-ounce bottle of hefeweizen, 1 1/2 cups sugar and 12 fresh sage leaves to a saucepan. Bring to a boil and stir to dissolve sugar. Turn heat off, cool and store in an airtight container in the refrigerator.
+    - Add all ingredients to a cocktail shaker.
+    - Add ice and shake until chilled.
+    - Strain over ice into a Collins glass.
+    - Garnish with sage leaves.
+    tags:
+    - shaken
+    - citrus
+    - beer
+  - name: Hot Penicillin
+    author: 
+    url: https://punchdrink.com/recipes/hot-penicillin/
+    notes: Named for its so-called healing properties, the Penicillin—bartender Sam Ross’ smoky and spicy twist on a Whiskey Sour—has become a modern classic in the cocktail canon. Victoria presents a cold-weather update by warming it up, literally, with hot apple cider sweetened with a fragrant honey syrup. The familiar Scotch whisky of the original gets a spicy kick of ginger root from Fever-Tree Ginger Beer, and added brightness from fresh lemon. “It’s warming, with a smoky spice flavor,” she says, “and perfect for transitioning into winter.”
+    ingredients:
+    - 1 ounce Monkey Shoulder Blended Malt Scotch Whisky
+    - 1 ounce hot apple cider
+    - 1/2 ounce fresh lemon juice
+    - 1/4 ounce honey syrup (2:1 honey to water)
+    - Fever-Tree Ginger Beer
+    steps:
+    - Temper a mug with hot water to warm.
+    - Discard hot water and combine Scotch, cider, lemon juice and honey syrup in the mug.
+    - Top with Fever-Tree Ginger Beer.
+    - Garnish with a lemon wheel.
+    tags:
+    - citrus
+    - heated
+  - name: Negroni de Nubes
+    author: Leanne Favre
+    url: https://punchdrink.com/recipes/negroni-de-nubes/
+    notes: Created in collaboration with fellow New York bartenders Tom Macy and Shannon Ponche, the Negroni de Nubes is not your average Negroni variation. Unsmoked mezcal forms the base, leaving room for the delicate flavors of a strawberry-infused Cappelletti-Suze mixture and the botanicals of blanc vermouth to shine through. “It just needed one final touch,” recalls Leanne Favre. “I had the idea to use rice to contribute texture and mouthfeel, drawing inspiration from the starchy texture of horchata.” Stirring the mixture with a few tablespoons of rice acts as an à la minute rice wash that lends texture and “delightful creaminess” to the drink.
+    ingredients:
+    - 1 1/4 ounces mezcal, preferably Derrumbes San Luis Potosí
+    - 1 ounce blanc vermouth, preferably Dolin
+    - 3/4 ounce strawberry infused Suze-Cappelletti mixture (see Editor's Note)
+    - 1 dash saline
+    - 2 tablespoons rice
+    - "Garnish: grapefruit twist"
+    steps:
+    - Combine all ingredients in a mixing glass over ice and stir until chilled.
+    - Strain into a rocks glass over a large ice cube.
+    - Garnish with grapefruit twist.
+    tags:
+    - stirred
+    - negroni
   - name: 
     author: 
+    url: 
     notes: 
     ingredients:
     - 

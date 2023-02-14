@@ -22,3 +22,40 @@ recipes:
       - This syrup will keep, refrigerated, for 2 months.
       - Shake thoroughly before using.
       - As a substitute for the cardamom-coriander syrup, Volk recommends using 1/4 ounce St. Elizabeth Allspice Dram and 1 teaspoon of rich simple syrup (2:1, sugar:water).
+  - name: Teardrop's DIY Crème de Cacao
+    notes: "The crème de cacaos of the mid-19th century were meant to be consumed on their own, and despite their sweetness (their sugary viscosity, not the addition of dairy, is what earned them the “crème” moniker) balance was paramount. But as 20th-century cocktail culture swaggered in, the spotlight shifted to base spirits (whiskey, gin, etc.) and liqueurs went from stand-alone sippers to mere mixers. Thus, producers of liqueurs like crème allowed standards to wane—favoring higher levels sugar over nuance and relying on artificial coloring and oil extracts instead of actual cacao. But now, crème de cacao is seeing revival thanks to bars and bartenders making their own housemade versions that balance nuanced sweetness with the bitter beauty of chocolate. This rum-based recipe comes from Teardrop Lounge in Portland, Oregon."
+    ingredients:
+      - 1 3/4 cups cacao nibs
+      - 1/2 cup sugar
+      - 1/2 cup distilled water
+      - 1 750-ml bottle Lemon Hart 151 (demerara rum)
+    steps:
+      - Add sugar and water to a saucepan and set over medium heat.
+      - Bring to a low simmer and stir to dissolve sugar.
+      - Add cacao nibs, stirring constantly. The sugar will re-granulate and smoke a bit, until it begins to slowly caramelize and coat the cacao nibs. This process should take no more than 15 minutes.
+      - Remove from heat, and pour the cacao nibs onto a parchment-lined baking sheet. Let cool, then break up with a spoon.
+      - Reserve half of the nibs for your next batch, and place the remainder into an airtight container.
+      - Top off with the rum.
+      - Let steep for one week, then strain through cheesecloth.
+      - Measure remaining amount and mix with equal parts distilled water to bring to proof.
+      - Funnel into a bottle to serve.
+  - name: Strawberry Infused Suze-Cappelletti
+    notes: 
+    ingredients:
+      - 2 quarts of strawberries, quartered
+      - 25 ounces Suze
+      - 50 ounces Cappelletti
+    steps:
+      - Combine all ingredients in a nonreactive container and infuse for 24 hours. Fine strain.
+  - name: 
+    notes: 
+    ingredients:
+      - 
+    steps:
+      - 
+  - name: 
+    notes: 
+    ingredients:
+      - 
+    steps:
+      - 
