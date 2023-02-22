@@ -319,6 +319,60 @@ recipes:
     tags:
     - stirred
     - negroni
+  - name: Ryan Lotz's Rum Old-Fashioned
+    author: Ryan Lotz
+    url: https://punchdrink.com/recipes/ryan-lotzs-rum-old-fashioned-cocktail-recipe/
+    notes: Honorable mention at our blind rum Old-Fashioned tasting went to Ryan Lotz of Shore Leave in Boston, whose recipe one panelist called “zippy” with a “bracing quality,” a key attribute to the Old-Fashioned format. It was considered by the judges to represent the ideal rum Old-Fashioned for rye drinkers. As bar owner Paul McGee observed, “this is how you convert whiskey drinkers.”
+    ingredients:
+    - 1 1/2 ounces Jamaican rum, preferably Appleton Estate Signature Blend
+    - 1/2 ounce agricole rhum, preferably Rhum J.M VSOP
+    - "Scant ¼ ounce Demerara syrup (1:1, Demerara sugar: water)"
+    - 2 dashes Angostura bitters
+    - 1 dash Fee Brothers orange bitters
+    - 1 dash Regans’ orange bitters
+    - "Garnish: lemon and orange twists"
+    steps:
+    - Combine all ingredients in a rocks glass with one large ice cube and stir briefly.
+    - Garnish with an orange and a lemon twist.
+    tags:
+    - stirred
+    - old-fashioned
+  - name: L'Alaska
+    author: Estelle Bossy
+    url: https://punchdrink.com/recipes/lalaska/
+    notes: "Inspired by the tisane blend taken as a bedtime drink by the Carthusian monks—makers of Chartreuse—beverage director Estelle Bossy creates her own cold infusion of mint, lemon verbena, linden and orange flower to lengthen the house Alaska at Le Rock while boosting its herbal complexity. Paired with the distinctive botanical profile of Monkey 47 gin and a finishing spray of the potent Chartreuse Élixir Végétal, the drink has a freshness and depth of flavor that set it apart from the very first sip. When preparing this recipe, rather than converting to ounces, we suggest using a measuring cup with milliliter demarcations for a more precise result. Serves 9."
+    ingredients:
+    - 600 milliliters gin, preferably Monkey 47 Schwarzwald dry gin
+    - 300 milliliters Monk’s Tisane (see Editor’s Note)
+    - 200 milliliters yellow Chartreuse
+    - "Garnish: lemon twist, spritz of Chartreuse Élixir Végétal"
+    steps:
+    - Combine all ingredients in a glass bottle.
+    - Store the bottle in the freezer for several hours or overnight.
+    - To serve, pour 4 ounces into a chilled Martini glass.
+    - Garnish with a lemon twist and a spritz of Chartreuse Élixir Végétal from an atomizer.
+    tags:
+    - stirred
+    - freezer bar
+    - martini
+  - name: Obituary
+    author: William Elliott
+    url: https://punchdrink.com/recipes/obituary/
+    notes: "This recipe reflects the current Martini palate at Maison Premiere—far drier than in the early days. William Elliott likes old standby Hayman’s London dry here for the gin (just like in the original 3:1 spec circa 2011), but also suggests Thomas Dakin Red Cole Manchester gin for a slightly more adventurous Obituary, with spicy notes of horseradish."
+    ingredients:
+    - 2 3/4 ounces gin, preferably Hayman’s London dry or Thomas Dakin Red Cole
+    - 1/2 ounce dry vermouth, preferably Bordiga Extra Dry
+    - 6 dashes absinthe, preferably La Muse Verte
+    - "Garnish: lemon twist, discarded"
+    steps:
+    - Combine all ingredients in a mixing glass.
+    - Add ice and stir to chill.
+    - Strain into a chilled Martini glass.
+    - Express and discard the lemon twist.
+    tags:
+    - stirred
+    - martini
+    - freezer bar
   - name: 
     author: 
     url: 

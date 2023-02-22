@@ -47,12 +47,16 @@ recipes:
       - 50 ounces Cappelletti
     steps:
       - Combine all ingredients in a nonreactive container and infuse for 24 hours. Fine strain.
-  - name: 
+  - name: Monk's Tisane
     notes: 
     ingredients:
-      - 
+      - 1 liter filtered water
+      - 3 grams dried mint
+      - 3 grams dried lemon verbena
+      - 1 1/2 grams dried orange flower
+      - 1 1/2 grams dried linden
     steps:
-      - 
+      - Combine water and herbs in a large jar, then let infuse in the refrigerator for 8 hours. Strain through a coffee filter.
   - name: 
     notes: 
     ingredients:
