@@ -6025,7 +6025,7 @@ recipes:
     notes: 
     ingredients:
      - 1 ounce Caol Ila 12-year scotch
-     - ½ ounce Lemorton Selection calvados Domfrontais
+     - ½ ounce Lemorton Selection Calvados Domfrontais
      - 1 teaspoon Galliano Ristretto 
      - 1 teaspoon Honey Syrup
      - 1 teaspoon Cinnamon Syrup
@@ -6033,16 +6033,15 @@ recipes:
      - 3 ounces boiling water 
      - "Garnish: 1 orange twist and 1 cinnamon stick"
     steps:
-     - Combine all the ingredients except the water in an Irish coffee mug
-     - Add the boiling water
-     - Express the orange twist over the drink and discard
-     - Garnish with the cinnamon stick
+     - Combine all the ingredients except the water in an Irish coffee mug.
+     - Add the boiling water.
+     - Express the orange twist over the drink and discard.
+     - Garnish with the cinnamon stick.
     tags:
       - death & co
       - boozy & honest
       - stirred
       - heated
-      - caffeinated
   - name: Tripwire
     author: Shannon Tebay
     year: 2018
