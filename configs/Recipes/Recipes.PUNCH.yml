@@ -22,6 +22,7 @@ recipes:
       - stirred
       - autumn
       - heated
+      - hunt + alpine club
   - name: It's So Easy
     author: Aaron Polsky
     notes: Using winter clementines, Aaron Polsky of New York City’s Mulberry Project created this orange cobbler whose citrusy edges are rounded out with Bittermens Orange Cream Citrate, a throwback to the soda fountain counters of yore.
@@ -373,7 +374,64 @@ recipes:
     - stirred
     - martini
     - freezer bar
-  - name: 
+  - name: Toby Cecchini's Boulevardier
+    author: Toby Cecchini
+    url: https://punchdrink.com/recipes/toby-cecchinis-boulevardier/
+    notes: "The Boulevardier has been on the menu since the opening of The Long Island Bar in 2013. “I tried to take if off the menu after six months and people screamed bloody murder,” says Toby Cecchini. Often credited with exhuming the recipe from obscurity, Cecchini’s version calls on two full ounces of rye, split between Rittenhouse and Old Overholt, and a split vermouth component to keep every element in balance with the Campari."
+    ingredients:
+    - 1 ounce Old Overholt Straight Rye Whiskey
+    - 1 ounce Rittenhouse Rye 100-Proof
+    - 1 ounce Campari
+    - ⅓ ounce Carpano Antica Formula Vermouth
+    - ⅔ ounce Cinzano Rosso Vermouth
+    - "Garnish: lemon twist"
+    steps:
+    - Combine all ingredients in a mixing glass over ice and stir until chilled.
+    - Strain into a chilled coupe glass.
+    - Garnish with a lemon twist.
+    tags:
+    - stirred
+    - negroni
+    - classic
+    - freezer bar
+  - name: Color In Your Cheeks
+    author: Hayley Wilson
+    url: https://punchdrink.com/recipes/color-in-your-cheeks/
+    notes: Hayley Wilson created Color in Your Cheeks to highlight how well Fernet-Branca can play with citrus. The Fernet is bolstered by Vermont maple syrup and Laird’s Applejack Brandy to create a silky-smooth sour with a bitter bite on the end. “I think the Applejack brings some much-needed proof to this drink, while the maple syrup adds body and depth,” says Wilson “This is such a great fall cocktail that captures the flavors of the seasons changing in New England.”
+    ingredients:
+    - 1 1/4 ounces Fernet-Branca
+    - 1/2 ounce applejack, preferably Laird's
+    - 3/4 ounce lemon juice
+    - 3/4 ounce grade A Vermont maple syrup
+    - 1/2 ounce egg white
+    steps:
+    - Combine all ingredients in a cocktail shaker and dry shake without ice for approximately 20 seconds.
+    - Add ice and shake again until chilled.
+    - Strain into a chilled coupe or cocktail glass.
+    - Garnish with an apple fan on the rim of the glass.
+    tags:
+    - shaken
+    - sours
+    - citrus
+    - hunt + alpine club
+  - name: The Black Stallion Sets Sail
+    author: John Parra & Kyle Hankin
+    url: https://punchdrink.com/recipes/the-black-stallion-sets-sail/
+    notes: "Consider this a neo-tiki Negroni, with blackstrap rum and Ferrari (Fernet mixed with Campari) taking the place of traditional gin and Campari. Part of the Autostrada menu at Fox Liquor Bar, this drink was inspired by Giuseppe Gonzalez‘s revamp of the Jungle Bird. The blackstrap rum gives it a rich, molasses-y spice, while the Ferrari offers herbal bitterness."
+    ingredients:
+    - 3 drops saline solution (Add 1/2 ounce kosher salt to 2 ounces of water and stir until dissolved)
+    - 1 ounce Cocchi di Torino
+    - 1 ounce Ferrari (1:1, Fernet-Branca:Campari)
+    - 1 ounce blackstrap rum, preferably Cruzan
+    - "Garnish: 1 orange twist"
+    steps:
+    - In a mixing glass, combine the saline, Cocchi, Ferrari and rum. Add one large cube of ice and stir until very cold.
+    - Strain into a rocks glass over large cube of ice. Garnish with orange twist and serve.
+    tags:
+    - stirred
+    - negroni
+    - fox liquor bar
+   - name: 
     author: 
     url: 
     notes: 
@@ -383,3 +441,34 @@ recipes:
     - 
     tags:
     - 
+      - name: 
+    author: 
+    url: 
+    notes: 
+    ingredients:
+    - 
+    steps:
+    - 
+    tags:
+    - 
+      - name: 
+    author: 
+    url: 
+    notes: 
+    ingredients:
+    - 
+    steps:
+    - 
+    tags:
+    - 
+      - name: 
+    author: 
+    url: 
+    notes: 
+    ingredients:
+    - 
+    steps:
+    - 
+    tags:
+    - 
+       
