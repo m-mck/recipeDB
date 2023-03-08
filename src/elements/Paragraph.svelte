@@ -1,17 +1,17 @@
 <script>
-    import OptionalCheck from "../OptionalCheck.svelte";
+    import OptionalCheck from "../utilities/OptionalCheck.svelte";
 
     export let title;
     export let content;
     export let optional;
 </script>
 
-<OptionalCheck {optional} {content}>
+<OptionalCheck {title} {optional} {content}>
     {#if title}
         <b>{@html title}</b>
     {/if}
     <p>
-        {@html content.replaceAll("\n", "<br/>")}
+        {@html (content ?? "").toString().replace(/\n/g, "<br/>")}
     </p>
 </OptionalCheck>
 

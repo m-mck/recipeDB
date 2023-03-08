@@ -1,0 +1,65 @@
+source: "PUNCH"
+hidden: true
+recipes:
+  - name: Cardamom-Coriander Syrup
+    ingredients:
+      - 2 cinnamon sticks, broken up
+      - 1 1/2 teaspoons coriander seeds
+      - 1 tablespoon black cardamom pods
+      - 1/4 teaspoon red pepper flakes
+      - 4 ounces high-proof rum
+      - 15 ounces hot water
+      - 3/4 cup fine granulated sugar
+    steps:
+      - Preheat the oven to 450°F. 
+      - Spread the cinnamon sticks, coriander seeds, and cardamom on a rimmed baking sheet and toast in the oven, tossing occasionally to prevent burning, until fragrant but not burned, about 8 minutes.
+      - Combine the toasted spices, red pepper flakes, and rum in a blender, and blend on high speed until evenly ground, about 2 minutes.
+      - Meanwhile, in a separate container, combine the hot water and sugar, and stir until the sugar is completely dissolved.
+      - Set aside.
+      - Using a coffee filter or multiple layers of cheesecloth, strain the spice and rum mixture into the sugar syrup.
+      - Stir to combine.
+      - Transfer to a clean, sealable bottle or container.
+      - This syrup will keep, refrigerated, for 2 months.
+      - Shake thoroughly before using.
+      - As a substitute for the cardamom-coriander syrup, Volk recommends using 1/4 ounce St. Elizabeth Allspice Dram and 1 teaspoon of rich simple syrup (2:1, sugar:water).
+  - name: Teardrop's DIY Crème de Cacao
+    notes: "The crème de cacaos of the mid-19th century were meant to be consumed on their own, and despite their sweetness (their sugary viscosity, not the addition of dairy, is what earned them the “crème” moniker) balance was paramount. But as 20th-century cocktail culture swaggered in, the spotlight shifted to base spirits (whiskey, gin, etc.) and liqueurs went from stand-alone sippers to mere mixers. Thus, producers of liqueurs like crème allowed standards to wane—favoring higher levels sugar over nuance and relying on artificial coloring and oil extracts instead of actual cacao. But now, crème de cacao is seeing revival thanks to bars and bartenders making their own housemade versions that balance nuanced sweetness with the bitter beauty of chocolate. This rum-based recipe comes from Teardrop Lounge in Portland, Oregon."
+    ingredients:
+      - 1 3/4 cups cacao nibs
+      - 1/2 cup sugar
+      - 1/2 cup distilled water
+      - 1 750-ml bottle Lemon Hart 151 (demerara rum)
+    steps:
+      - Add sugar and water to a saucepan and set over medium heat.
+      - Bring to a low simmer and stir to dissolve sugar.
+      - Add cacao nibs, stirring constantly. The sugar will re-granulate and smoke a bit, until it begins to slowly caramelize and coat the cacao nibs. This process should take no more than 15 minutes.
+      - Remove from heat, and pour the cacao nibs onto a parchment-lined baking sheet. Let cool, then break up with a spoon.
+      - Reserve half of the nibs for your next batch, and place the remainder into an airtight container.
+      - Top off with the rum.
+      - Let steep for one week, then strain through cheesecloth.
+      - Measure remaining amount and mix with equal parts distilled water to bring to proof.
+      - Funnel into a bottle to serve.
+  - name: Strawberry Infused Suze-Cappelletti
+    notes: 
+    ingredients:
+      - 2 quarts of strawberries, quartered
+      - 25 ounces Suze
+      - 50 ounces Cappelletti
+    steps:
+      - Combine all ingredients in a nonreactive container and infuse for 24 hours. Fine strain.
+  - name: Monk's Tisane
+    notes: 
+    ingredients:
+      - 1 liter filtered water
+      - 3 grams dried mint
+      - 3 grams dried lemon verbena
+      - 1 1/2 grams dried orange flower
+      - 1 1/2 grams dried linden
+    steps:
+      - Combine water and herbs in a large jar, then let infuse in the refrigerator for 8 hours. Strain through a coffee filter.
+  - name: 
+    notes: 
+    ingredients:
+      - 
+    steps:
+      - 

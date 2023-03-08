@@ -16,10 +16,10 @@ This is the backing code for building <https://SneakyPiglet.github.io>
 
 #### 1. Install the dependencies:
 
-    ```bash
-    cd sneakypiglet-codebase
-    npm install
-    ```
+```bash
+cd sneakypiglet-codebase
+npm install
+```
 
 ...then start [Rollup](https://rollupjs.org):
 

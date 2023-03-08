@@ -1,0 +1,544 @@
+source: "Death & Co: Cocktail Codex"
+hidden: true
+recipes:
+#Syrups & Cordials
+  - name: Basil Stem Syrup
+    ingredients: 
+    - 500 grams water
+    - 50 grams basil stems 
+    - 500 grams unbleached cane sugar
+    steps:
+    - In a saucepan, bring the water to a boil. Remove from the heat, add the basil stems, and let steep for 30 minutes. Strain through a fine mesh sieve lined with several layers of cheesecloth, then add the sugar and whisk until the sugar is dissolved. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Grilled Pineapple Syrup
+    ingredients: 
+    - 1 pineapple
+    - 500 grams unbleached cane sugar 
+    - 2.5 grams citric acid powder
+    steps:
+    - Peel and cut the pineapple into 34-inch-thick wheels, then grill over a wood fire until slightly smoky but not burned. Let cool, then run it through a juice extractor. Weigh out 500 grams of the juice, reserving the rest for another use. Combine the juice, sugar, and citric acid in a blender and process until smooth. Strain through a fine-mesh sieve lined with several layers of cheesecloth, then transfer to a storage container and refrigerate until ready to use, up to 4 weeks.
+  - name: House Lemon Cordial
+    ingredients: 
+    - About 3 quarts lemon wheels or wedges, or the rinds of 10 lemons 
+    - 600 grams white sugar 
+    - 1,400 grams fresh lemon juice
+    -  Pectinex Ultra SP-L
+    steps:
+    - Combine the lemon wheels or wedges and sugar in a large container. Cover and refrigerate for 2 days. Occasionally stir the mixture (the citrus oils will be extracted into the sugar and the mixture will liquefy).
+    - Strain, then measure the weight of the liquid (discard the solids). Combine with the lemon juice, and stir until dissolved. Calculate 0.2% of the weight (multiply by 0.002) to get X grams. Stir in X grams of Pectinex, then cover and let sit for 15 minutes.
+    - Divide the mixture evenly among your centrifuge containers. Weigh the filled containers and adjust the amount of liquid in each as needed to ensure their weights are exactly the same; this is important for keeping the machine in balance. Run the centrifuge at 4,500 rpm for 12 minutes.
+    - Remove the containers and carefully strain the cordial through a paper coffee filter or Superbag, being careful not to disturb the solids that have collected on the bottom of the containers. If any particles remain in the cordial, strain it again. Transfer to a storage container and refrigerate until ready to use, up to 1 month.
+  - name: House Orgeat
+    ingredients: 
+    - 800 grams Almond Milk (see recipe)
+    - 1.2 kilograms superfine sugar 
+    - 14 grams Pierre Ferrand Ambre cognac
+    - 18 grams Lazzaroni amaretto 
+    - 3 grams rose water
+    steps:
+    - Combine the almond milk and sugar in a saucepan over medium-low heat and cook, stirring occasionally, until the sugar has dissolved. Remove from the heat and stir in the Cognac, amaretto, and rose water. Let cool to room temperature, then transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Meyer Lemon Cordial
+    ingredients: 
+    - 500 grams unbleached cane sugar
+    - 250 grams fresh Meyer lemon juice, strained
+    - 250 grams filtered water
+    - 100 grams Aylesbury Duck vodka 
+    - 15 grams Meyer lemon zest
+    - 2 grams citric acid powder
+    - 0.5 gram kosher salt
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 130°F.
+    - Put all the ingredients in a bowl and stir until the sugar has dissolved. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then remove as much air as possible by dipping the bag (other than the unsealed portion) in the water. The counterpressure from the water will push the rest of the air out. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 130°F, place the bag in the basin and cook for 2 hours.
+    - Transfer the bag to an ice bath and let cool to room temperature. Pass the cordial through a fine-mesh sieve. If any particles remain in the cordial, strain it again through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Raisin Honey Syrup
+    ingredients: 
+    - 1 kilogram Honey Syrup (see recipe)
+    - 200 grams golden raisins
+    steps:
+    -  Fill a large basin with water and place an immersion circulator inside. Set the circulator to 145°F.
+    - Put the syrup and raisins in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then remove as much air as possible by dipping the bag (other than the unsealed portion) in the water. The counterpressure from the water will push the rest of the air out. Finish sealing the bag, then remove it from the water. 
+    - When the water has reached 145°F, place the bag in the basin and cook for 2 hours.
+    - Transfer the bag to an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, strain it again through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 4 weeks.
+  - name: Strawberry Cream Syrup
+    ingredients: 
+    - 500 grams Clarified Strawberry Syrup (see recipe)
+    - 500 grams Vanilla Lactic Syrup (see recipe)
+    - 130 grams Citric Acid Solution (see recipe)
+    steps:
+    - Put all the ingredients in a bowl and stir to combine. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Vanilla Lactic Syrup
+    ingredients: 
+    - 500 grams simple syrup (see recipe)
+    - 1 vanilla bean, split and scraped
+    - 0.5 gram salt
+    -  2.5 grams lactic acid powder
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 135°F.
+    - Put all the ingredients in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then remove as much air as possible by dipping the bag (other than the unsealed portion) in the water. The counterpressure from the water will push the rest of the air out. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 135°F, place the bag in the basin and cook for 1 hour.
+    - Transfer the bag to an ice bath and let cool to room temperature. Pass the syrup through a fine-mesh sieve. If any particles remain in the syrup, strain it again through a paper coffee filter or Superbag. Transfer to a storage container and refrigerate until ready to use, up to 4 weeks.
+  - name: White Honey Syrup
+    ingredients: 
+    - 500 grams raw white honey
+    - 500 grams hot water 
+    steps:
+    - Combine the honey and water in a heatproof bowl and stir until thoroughly blended. Transfer to a storage container and refrigerate until ready to use, up to 4 weeks.
+#Infusions
+  - name: A Field in Innsbruck Tea-Infused Apple Brandy
+    ingredients: 
+    - 1 (750 ml) bottle Clear Creek 2-year apple brandy
+    - 20 grams August Uncommon Tea's A Field in Innsbruck Tea 
+    steps:
+    - Combine the brandy and tea in a bowl and stir to combine. Let stand at room temperature for 10 minutes, stirring occasionally. Strain through a fine mesh sieve lined with several layers of cheesecloth, then funnel back into the brandy bottle and refrigerate until ready to use, up to 3 months.
+  - name: Birch-Infused Cocchi Vermouth di Torino
+    ingredients: 
+    - 4.75 grams Terra Spice birch extract
+    - 1 (750 ml) bottle Cocchi Vermouth di Torino
+    steps:
+    - Add the birch extract directly to the bottle of vermouth. Seal, then gently tip the bottle upside down a few times to combine. Refrigerate until ready to use, up to 3 weeks.
+  - name: Blood Orange-Infused Carpano Antica Formula Vermouth
+    ingredients: 
+    - 1 (750 ml) bottle Carpano Antica Formula vermouth
+    - 55 grams blood orange zest
+    steps:
+    - Combine the vermouth and zest in an iSi whipper. Seal tightly. Charge with an N2O cartridge, then shake the canister about five times. Change the cartridge, then charge and shake again. Let stand for 15 minutes, shaking the canister every 30 seconds or so, then release the pressure. Point the canister's nozzle at a 45-degree angle into a container. Vent the gas as quickly as possible without spraying liquid everywhere; the quicker the venting, the better the infusion. When all of the gas is out, open the canister and take a listen. Once there is no longer audible bubbling, open the canister and strain the infusion through a paper coffee filter or Superbag. Funnel back into the vermouth bottle and refrigerate until ready to use, up to 4 weeks.
+  - name: Brown Butter-Infused Apple Brandy
+    ingredients: 
+    - 225 grams (2 sticks) unsalted butter, cut into cubes
+    - 1 (750 ml) bottle Clear Creek 2-year apple brandy
+    - 1 (750 ml) bottle Clear Creek 8-year apple brandy
+    steps:
+    - Put the butter in a saucepan over medium heat and cook, stirring frequently, until it turns brown and smells nutty. Pour the butter into a heatproof container, add the brandy, and whisk until well blended. Cover the container and freeze for up to 12 hours, or overnight.
+    - Remove the container from the freezer, poke a hole in the hardened butter, and drain the liquid out; reserve the butter for other uses (try it on popcorn!). Strain the infusion through a fine-mesh sieve lined with several layers of cheesecloth. Funnel back into the brandy bottles and refrigerate until ready to use, up to 3 months.
+  - name: Cacao Nib-Infused El Tesoro Reposado Tequila
+    ingredients: 
+    - 1 (750 ml) bottle El Tesoro Reposado Tequila 
+    - 30 grams cacao nibs
+    steps:
+    - Combine the tequila and cacao nibs in an iSi whipper. Seal tightly. Charge with an N2O cartridge, then shake the canister about five times. Change the cartridge, then charge and shake again. Let stand for 15 minutes, shaking the canister every 30 seconds or so, then release the pressure. Point the canister's nozzle at a 45-degree angle into a container. Vent the gas as quickly as possible without spraying liquid everywhere; the quicker the venting, the better the infusion. When all of the gas is out, open the canister and take a listen. Once there is no longer audible bubbling, strain the infusion through a paper coffee filter or Superbag. Funnel back into the tequila bottle and refrigerate until ready to use, up to 4 weeks. (This infusion can also be prepared in a chamber vacuum machine.)
+  - name: Cacao Nib-Infused Pear Brandy
+    ingredients: 
+    - 1 (750 ml) Clear Creek Pear Brandy
+    - 30 grams cacao nibs 
+    steps:
+    - Combine the pear brandy and cacao nibs in an iSi whipper. Seal tightly. Charge with an N2O cartridge, then shake the canister about five times. Change the cartridge, then charge and shake again. Let stand for 15 minutes, shaking the canister every 30 seconds or so, then release the pressure. Point the canister’s nozzle at a 45-degree angle into a container. Vent the gas as quickly as possible without spraying liquid everywhere; the quicker the venting, the better the infusion. When all of the gas is out, open the canister and take a listen. Once there is no longer audible bubbling, strain the infusion through a paper coffee filter or Superbag. Funnel back into the brandy bottle and refrigerate until ready to use, up to 4 weeks. (This infusion can also be prepared in a chamber vacuum machine.)
+  - name: Cacao Nib-Infused Ramazzotti
+    ingredients: 
+    - 1 (750 ml) bottle Ramazzotti
+    - 30 grams cacao nibs
+    steps:
+    - Combine the Ramazzotti and cacao nibs in an iSi whipper. Seal tightly. Charge with an N2O cartridge, then shake the canister about five times. Change the cartridge, then charge and shake again. Let stand for 15 minutes, shaking the canister every 30 seconds or so, then release the pressure. Point the canister's nozzle at a 45-degree angle into a container. Vent the gas as quickly as possible without spraying liquid everywhere; the quicker the venting, the better the infusion. When all of the gas is out, open the canister and take a listen. Once there is no longer audible bubbling, strain the infusion through a paper coffee filter or Superbag. Funnel back into the Ramazzotti bottle and refrigerate until ready to use, up to 4 weeks. (This infusion can also be prepared in a chamber vacuum machine.)
+  - name: Cardamom-Infused St-Germain
+    ingredients: 
+    - 1 (750 ml) bottle St-Germain
+    - 10 grams green cardamom pods
+    steps:
+    - Place the St-Germain and cardamom in a bowl and stir to combine. Let stand at room temperature for about 12 hours. Strain through a fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the St-Germain bottle and refrigerate until ready to use, up to 3 months.
+  - name: Celery Root-Infused Dolin Blanc
+    ingredients: 
+    - 1 (750 ml) bottle Dolin blanc vermouth
+    - 200 grams celery root, chopped 
+    steps:
+    - Combine the vermouth and celery root in an iSi whipper. Seal tightly. Charge with an N2O cartridge, then shake the canister about five times. Change the cartridge, then charge and shake again. Let stand for 15 minutes, shaking the canister every 30 seconds or so, then release the pressure. Point the canister's nozzle at a 45-degree angle into a container. Vent the gas as quickly as possible without spraying liquid everywhere; the quicker the venting, the better the infusion. When all of the gas is out, open the canister and take a listen. Once there is no longer audible bubbling, strain the infusion through a paper coffee filter or Superbag. Funnel back into the vermouth bottle and refrigerate until ready to use, up to 4 weeks. (This infusion can also be prepared in a chamber vacuum machine.)
+  - name: Chamomile-Infused Blanco Tequila
+    ingredients: 
+    - 1 (750 ml) bottle Pueblo Viejo blanco tequila
+    - 5 grams dried chamomile flowers
+    steps:
+    - Place the tequila and chamomile in a bowl and stir to combine. Let stand at room temperature for 1 hour, stirring occasionally. Strain through a fine mesh sieve lined with several layers of cheesecloth, then funnel back into the original bottle and refrigerate until ready to use, up to 3 months.
+  - name: Chamomile-Infused Calvados
+    ingredients: 
+    - 1 (750 ml) bottle Pierre Ferrand Ambre Calvados
+    - 5 grams dried chamomile flowers
+    steps:
+    - Place the Calvados and chamomile in a bowl and stir to combine. Let stand at room temperature for 1 hour, stirring occasionally. Strain through a fine mesh sieve lined with several layers of cheesecloth, then funnel back into the vermouth bottle and refrigerate until ready to use, up to 3 months.
+  - name: Chamomile-Infused Cocchi Americano
+    ingredients: 
+    - 1 (750 ml) bottle Cocchi Americano
+    - 5 grams dried chamomile flowers
+    steps:
+    -  Place the Cocchi Americano and the chamomile in a bowl and stir to combine. Let stand at room temperature for 1 hour, stirring occasionally. Strain through a fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the original bottle and refrigerate until ready to use, up to 3 months.
+  - name: Chamomile-Infused Dolin Blanc Vermouth
+    ingredients: 
+    - 1 (750 ml) bottle Dolin Blanc Vermouth
+    - 5 grams dried chamomile flowers
+    steps:
+    - Place the vermouth and chamomile in a bowl and stir to combine. Let stand at room temperature for 1 hour, stirring occasionally. Strain through a fine mesh sieve lined with several layers of cheesecloth, then funnel back into the vermouth bottle and refrigerate until ready to use, up to 3 months.
+  - name: Chamomile-Infused Rye Whiskey
+    ingredients: 
+    - 1 (750 ml) bottle Rittenhouse rye
+    - 5 grams dried chamomile flowers
+    steps:
+    - Place the Rittenhouse rye and chamomile in a bowl and stir to combine. Let stand at room temperature for 1 hour, stirring occasionally. Strain through a fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the original bottle and refrigerate until ready to use, up to 3 months.
+  - name: Cherry Wood-Smoked Almond Milk
+    ingredients: 
+    - 1 liter Almond Milk (see recipe)
+    - 1 pinch dried cherry wood chips (enough to fill smoker)
+    steps:
+    - In a wide container with a lid, smoke the almond milk with cherry wood chips using a PolyScience Smoking Gun. Cover immediately to capture as much smoke as possible. Let stand until the smoke has dissipated, about 10 minutes. Transfer to a container and refrigerate until ready to use, up to 3 hours.
+  - name: Cocoa Butter-Infused Absolut Elyx Vodka
+    ingredients: 
+    - 100 grams melted cocoa butter
+    - 1,000 grams Absolut Elyx vodka
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 145°F.
+    - Put the cocoa butter and vodka in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then remove as much air as possible by dipping the bag (other than the unsealed portion) in the water. The counterpressure from the water will push the rest of the air out. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 145°F, place the bag in the basin and cook for 2 hours.
+    - Transfer the bag to an ice bath and let cool to room temperature. Pass the infusion through a fine-mesh sieve lined with several layers of cheesecloth. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Transfer to a container, cover, and freeze for 24 hours. Strain again through a fine mesh sieve lined with several layers of cheesecloth, then funnel back into the bourbon bottle and refrigerate until ready to use, up to 3 months.
+  - name: Coconut-Infused Bourbon
+    ingredients: 
+    - 50 grams unsweetened coconut flakes
+    - 1 (1-liter) bottle Old Forester 86 bourbon
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 145°F. In a small skillet over medium heat, toast the coconut, stirring often, until slightly golden, about 4 minutes. Let cool slightly.
+    - Put the coconut and bourbon in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then remove as much air as possible by dipping the bag (other than the unsealed portion) in the water. The counterpressure from the water will push the rest of the air out. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 145°F, place the bag in the basin and cook for 2 hours.
+    - Transfer the bag to an ice bath and let cool to room temperature. Pass the infusion through a fine-mesh sieve lined with several layers of cheesecloth. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Transfer to a container, cover, and freeze for 24 hours. (This will solidify the fatty coconut oils, allowing for a transparent coconut infusion.) Strain again through a fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the bourbon bottle and refrigerate until ready to use, up to 3 months.
+  - name: Coffee-Infused Carpano Antica Formula Vermouth
+    ingredients: 
+    - 1 (750 ml) bottle Carpano Antica Formula vermouth
+    - 15 grams whole coffee beans
+    steps:
+    - Combine the vermouth and coffee beans in an iSi whipper. Seal tightly. Charge with an N2O cartridge, then shake the canister about five times. Change the cartridge, then charge and shake again. Let stand for 15 minutes, shaking the canister every 30 seconds or so, then release the pressure. Point the canister's nozzle at a 45-degree angle into a container. Vent the gas as quickly as possible without spraying liquid everywhere; the quicker the venting, the better the infusion. When all of the gas is out, open the canister and take a listen. Once there is no longer audible bubbling, strain the infusion through a paper coffee filter or Superbag. Funnel back into the vermouth bottle and refrigerate until ready to use, up to 4 weeks. (This infusion can also be prepared in a chamber vacuum machine.)
+  - name: Coffee-Infused Kalani Coconut Liqueur
+    ingredients: 
+    - 1 (750 ml) bottle Kalani coconut liqueur
+    - 15 grams whole coffee beans
+    steps:
+    - Combine the liqueur and coffee beans in an iSi whipper. Seal tightly. Charge with an N2O cartridge, then shake the canister about five times. Change the cartridge, then charge and shake again. Let stand for 15 minutes, shaking the canister every 30 seconds or so, then release the pressure. Point the canister's nozzle at a 45-degree angle into a container. Vent the gas as quickly as possible without spraying liquid everywhere; the quicker the venting, the better the infusion. When all of the gas is out, open the canister and take a listen. Once there is no longer audible bubbling, strain the infusion through a paper coffee filter or Superbag. Funnel back into the liqueur bottle and refrigerate until ready to use, up to 4 weeks. (This infusion can also be prepared in a chamber vacuum machine.)
+  - name: Graham Cracker-Infused Bourbon
+    ingredients: 
+    - 2 (750 ml) bottles Elijah Craig Small Batch bourbon
+    - 408 grams graham crackers
+    - Pectinex Ultra SP-L 
+    steps:
+    - Combine all the ingredients in a blender and process until smooth. Strain, then measure the weight of the liquid (discard the solids). Calculate 0.4% of the weight (multiply by 0.004) to get X grams. Stir in X grams of Pectinex, then cover and let sit for 15 minutes.
+    - Divide the mixture among your centrifuge containers. Weigh the filled containers and adjust the amount of liquid in each to ensure the weights are exactly the same; this is important for keeping the machine in balance. Run the centrifuge at 4,500 rpm for 12 minutes.
+    - Remove the containers and strain the infusion through a paper coffee filter or Superbag; be careful not to disturb the solids that have collected on the container bottoms. If any particles remain in the infusion, strain it again. Funnel back into the bourbon bottle and refrigerate until ready to use, up to 2 weeks.
+  - name: Hickory Smoke-Infused Cognac
+    ingredients: 
+    - 1 bottle Pierre Ferrand 1840 cognac
+    - 1 pinch finely ground hickory chips (enough to fill smoker)
+    steps:
+    - In a wide container with a lid, smoke the Cognac with hickory chips using a PolyScience Smoking Gun (see page 276). Cover immediately to capture as much smoke as possible. Let stand until the smoke has dissipated, about 10 minutes. Transfer to a container and refrigerate until ready to use, up to 3 hours.
+  - name: Hickory Smoke-Infused Pierre Ferrand Ambre Cognac
+    ingredients: 
+    - 1 (750 ml) bottle Pierre Ferrand Ambre cognac
+    - 1 pinch finely ground hickory chips (enough to fill smoker)
+    steps:  
+    - In a wide container with a lid, smoke the Cognac with the hickory chips using a PolyScience Smoking Gun (see page 276). Cover immediately to capture as much smoke as possible. Let stand until the smoke has dissipated, about 10 minutes. Transfer to a container and refrigerate until ready to use, up to 3 hours.
+  - name: Honeydew-Infused Kappa Pisco
+    ingredients: 
+    - 1 (750 ml) bottle Kappa pisco
+    - 200 grams peeled ripe honeydew melon, cut into ¼-inch segments
+    steps:
+    - Combine the pisco and honeydew in an iSi whipper. Seal tightly. Charge with an N2O cartridge, then shake the canister about five times. Change the cartridge, then charge and shake again. Let stand for 15 minutes, shaking the canister every 30 seconds or so, then release the pressure. Point the canister's nozzle at a 45-degree angle into a container. Vent the gas as quickly as possible without spraying liquid everywhere; the quicker the venting, the better the infusion. When all of the gas is out, open the canister and listen. Once there is no longer audible bubbling, strain the infusion through a paper coffee filter or Superbag. Funnel back into the pisco bottle and refrigerate until ready to use, up to 4 weeks. (This infusion can also be prepared in a chamber vacuum machine.)
+  - name: Jalapeño-Infused Vodka
+    ingredients: 
+    - 4 jalapeños
+    - 1 (1-liter) bottle Grey Goose vodka
+    steps:
+    - Halve the jalapeños lengthwise, then scrape the seeds and membranes into a container. Add the flesh of 2 of the jalapeños (reserve the flesh of the other 2 for another use). Add the vodka and stir to combine. Let stand at room temperature for up to 20 minutes, tasting often to monitor the heat level. Strain through a fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the vodka bottle and refrigerate until ready to use, up to 1 month.
+  - name: Madras Curry-Infused Gin
+    ingredients: 
+    - 1 (750 ml) bottle Dorothy Parker gin
+    - 5 grams Madras curry powder
+    steps:
+    - Place the gin and curry powder in a bowl and stir to combine. Let stand at room temperature for 15 minutes, stirring occasionally. Strain through a fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the gin bottle and refrigerate until ready to use, up to 3 months.
+  - name: Milk-Washed Rum
+    ingredients: 
+    - 1 (1-liter) bottle Flor de Caña 4-year white rum 
+    - 250 ml whole milk
+    - 15 grams Citric Acid Solution (see recipe) 
+    - Pectinex Ultra SP-L 
+    steps:
+    - Combine the rum and milk in a container and measure the weight of the liquid. Calculate 0.2% of the weight (multiply by 0.002) to get X grams. Let the mixture rest for 5 minutes, then stir in the Citric Acid Solution. Refrigerate for at least 12 hours.
+    - Stir in X grams of Pectinex, then cover and let sit for 15 minutes.
+    - Divide the liquid among your centrifuge containers. Weigh the filled containers and adjust the liquid in each to ensure their weights are exactly the same; this is important for keeping the machine in balance. Run the centrifuge at 4,500 rpm for 12 minutes.
+    - Remove the containers and strain the infusion through a paper coffee filter or Superbag, being careful not to disturb the solids on the bottom of the containers. If any particles remain in the infusion, strain it again. Funnel back into the rum bottle and refrigerate until ready to use, up to 2 months.
+  - name: Oolong-Infused Vodka
+    ingredients: 
+    - 1 (1-liter) bottle Absolut Elyx vodka
+    - 20 grams oolong tea leaves 
+    steps:
+    - Place the vodka and tea leaves in a bowl and stir to combine. Let stand at room temperature for 20 minutes, stirring occasionally. Strain through a fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the vodka bottle and refrigerate until ready to use, up to 3 months.
+  - name: Raisin-Infused Rye
+    ingredients: 
+    - 1 (750 ml) bottle Bulleit rye
+    - 150 grams golden raisins
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 140°F.
+    - Put the rye and raisins in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then remove as much air as possible by dipping the bag (other than the unsealed portion) in the water. The counterpressure from the water will push the rest of the air out. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 140°F, place the bag in the basin and cook for 2 hours.
+    - Transfer the bag to an ice bath and let cool to room temperature. Pass the infusion through a fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the original bottle and refrigerate until ready to use, up to 3 months.
+  - name: Raisin-Infused Scotch
+    ingredients: 
+    - 1 (750 ml) bottle Famous Grouse scotch
+    - 150 grams golden raisins
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 140°F.
+    - Put the scotch and raisins in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then remove as much air as possible by dipping the bag (other than the unsealed portion) in the water. The counterpressure from the water will push the rest of the air out. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 140°F, place the bag in the basin and cook for 2 hours.
+    - Transfer the bag to an ice bath and let cool to room temperature. Pass the infusion through a fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the scotch bottle and refrigerate until ready to use, up to 3 months.
+  - name: Roasted Garlic- and Pepper-Infused Vodka
+    ingredients: 
+    - 1 (750 ml) bottle Absolut vodka
+    - 12 grams roasted garlic, smashed into a paste
+    - 3 grams black peppercorns, crushed
+    steps:
+    - Place all the ingredients in a bowl and stir to combine. Cover and refrigerate for at least 12 hours. Strain through a fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the vodka bottle and refrigerate until ready to use, up to 3 months.
+  - name: Root Beer-Infused Cocchi Americano
+    ingredients: 
+    - 1 (750 ml) bottle Cocchi Americano Bianco
+    - 2.75 grams Terra Spice root beer extract
+    steps:
+    - Add the root beer extract to the bottle of Cocchi Americano. Seal, then gently tip the bottle upside down a few times to combine. Refrigerate until ready to use, up to 2 weeks.
+  - name: Sesame-Infused Rum
+    ingredients: 
+    - 25 grams white sesame seeds
+    - 1 (750 ml) bottle El Dorado 12-year rum
+    steps:
+    - In a small skillet over medium-low heat, toast the sesame seeds, stirring often, until fragrant and slightly golden, about 4 minutes. Let cool slightly. Place the sesame seeds and rum in a bowl and stir to combine. Let stand at room temperature for 5 minutes. Strain through a fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the rum bottle and refrigerate until ready to use, up to 3 months.
+  - name: Sour Cherry-Infused Rittenhouse Rye
+    ingredients: 
+    - 1 (750 ml bottle) Rittenhouse rye
+    - 50 grams dried sour cherries
+    - Pectinex Ultra SP-L
+    steps:
+    - Combine the rye whiskey and cherries in a blender and process until smooth. Strain, then measure the weight of the liquid (discard the solids). Calculate 0.2% of the weight (multiply by 0.002) to get X grams. Stir in X grams of Pectinex, then cover and let sit for 15 minutes.
+    - Divide the mixture evenly among your centrifuge containers. Weigh the filled containers and adjust the amount of liquid in each as needed to ensure their weights are exactly the same; this is important for keeping the machine in balance. Run the centrifuge at 4,500 rpm for 12 minutes.
+    - Remove the containers and carefully strain the infusion through a paper coffee filter or Superbag, being careful not to disturb the solids that have collected on the bottom of the containers. If any particles remain in the infusion, strain it again. Funnel back into the original bottle and refrigerate until ready to use, up to 1 week.
+  - name: Strawberry-Infused Cognac and Mezcal
+    ingredients: 
+    - 625 grams Pierre Ferrand Ambre cognac
+    - 375 grams Del Maguey Vida mezcal
+    - 700 grams hulled strawberries
+    - Pectinex Ultra SP-L
+    - 10 grams ascorbic acid
+    steps:
+    - Combine the cognac, mezcal, and strawberries in a blender and process until smooth. Strain, then measure the weight of the liquid (discard the solids). Calculate 0.2% of the weight (multiply by 0.002) to get X grams. Stir in X grams of Pectinex and the ascorbic acid, then cover and let sit for 15 minutes.
+    - Divide the mixture evenly among your centrifuge containers. Weigh the filled containers and adjust the amount of liquid in each as needed to ensure their weights are exactly the same; this is important for keeping the machine in balance. Run the centrifuge at 4,500 rpm for 12 minutes.
+    - Remove the containers and carefully strain the infusion through a paper coffee filter or Superbag, being careful not to disturb the solids that have collected on the bottom of the containers. If any particles remain in the infusion, strain it again. Funnel back into the original bottle and refrigerate until ready to use, up to 2 weeks.
+  - name: Thai Chile-Infused Bourbon
+    ingredients: 
+    - 10 fresh Thai chiles
+    - 1 (750 ml) bottle Elijah Craig Small Batch bourbon
+    steps:
+    - Halve the chiles lengthwise and scrape the seeds and membranes into a container. Add the flesh of 5 of the chiles (reserve the flesh of the other 5 for another use). Add the bourbon and stir to combine. Let stand at room temperature for up to 5 minutes, tasting often to monitor the heat level. Strain through a fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the bourbon bottle and refrigerate until ready to use, up to 1 month.
+  - name: Toasted Almond-Infused Apricot Liqueur
+    ingredients: 
+    - 100 grams blanched slivered almonds
+    - 1 (750 ml) bottle Giffard Abricot du Roussillon
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 145°F. In a small skillet over medium heat, toast the almonds until slightly golden, about 5 minutes. Let cool slightly.
+    - Put the almonds and liqueur in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then remove as much air as possible by dipping the bag (other than the unsealed portion) in the water. The counterpressure from the water will push the rest of the air out. Finish sealing the bag, then remove it from the water.
+    - When the water has reached 145°F, place the bag in the basin and cook for 2 hours.
+    - Transfer the bag to an ice bath and let cool to room temperature. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it again through a paper coffee filter or Superbag. Funnel back into the liqueur bottle and refrigerate until ready to use, up to 3 months.
+  - name: Toasted Pecan-Infused Plantation Rum 
+    ingredients: 
+    - 150 grams pecans
+    -  1 (750 ml) bottle Plantation Barbados 5-year rum
+    steps:
+    - Fill a large basin with water and place an immersion circulator inside. Set the circulator to 145°F. In a small skillet over medium heat, toast the pecans until slightly golden, about 5 minutes. Let cool slightly.
+    - Put the pecans and rum in a bowl and stir to combine. Transfer to a sealable, heatproof plastic bag. Seal the bag almost completely, then remove as much air as possible by dipping the bag (other than the unsealed portion) in the water. The counterpressure from the water will push the rest of the air out. Finish sealing the bag, then remove it from the water. When the water has reached 145°F, place the bag in the basin and cook for 2 hours.
+    - Transfer the bag to an ice bath and let cool to room temperature. Pass the infusion through a fine-mesh sieve. If any particles remain in the infusion, strain it through a paper coffee filter or Superbag. Funnel back into the rum bottle and refrigerate until ready to use, up to 1 month.
+  - name: Watercress-Infused Gin
+    ingredients: 
+    - 1 (1-liter) bottle Fords gin
+    - 75 grams watercress leaves
+    - Pectinex Ultra SP-L
+    steps:
+    -  Combine all the ingredients in a blender and process until smooth. Strain, then measure the weight of the liquid (discard the solids). Calculate 0.2% of the weight (multiply by 0.002) to get X grams. Stir in X grams of Pectinex, then cover and let sit for 15 minutes.
+    - Divide the mixture evenly among your centrifuge containers. Weigh the filled containers and adjust the amount of liquid in each as needed to ensure their weights are exactly the same; this is important for keeping the machine in balance. Run the centrifuge at 4,500 rpm for 12 minutes.
+    - Remove the containers and carefully strain the infusion through a paper coffee filter or Superbag, being careful not to disturb the solids that have collected on the bottom of the containers. If any particles remain in the liquid, strain it again. Funnel back into the gin bottle and refrigerate until ready to use, up to 1 week.
+  - name: White Pepper-Infused Vodka
+    ingredients: 
+    - 1 (750 ml) bottle Aylesbury Duck vodka
+    - 150 grams white peppercorns
+    steps:
+    - Combine the vodka and peppercorns in an iSi whipper. Seal tightly. Charge with an N2O cartridge, then shake the canister about five times. Change the cartridge, then charge and shake again. Let stand for 15 minutes, shaking the canister every 30 seconds or so, then release the pressure. Point the canister's nozzle at a 45-degree angle into a container. Vent the gas as quickly as possible without spraying liquid everywhere; the quicker the venting, the better the infusion. When all of the gas is out, open the canister and take a listen. Once there is no longer audible bubbling, strain the infusion through a paper coffee filter or Superbag. Funnel back into the vodka bottle and refrigerate until ready to use, up to 4 weeks. (This infusion can also be prepared in a chamber vacuum machine.)
+#House Mixes and Sodas
+  - name: Apple Celery Soda
+    ingredients: 
+    - 12 ounces water
+    - 9 ounces clarified Granny Smith apple juice (see recipe)
+    - 3 ounces clarified celery juice (see recipe)
+    - 7 ounces simple syrup (page recipe)
+    - 1 ounce phosphoric acid solution (see recipe)
+    - 1½ ounces Malic Acid Solution (see recipe) 
+    steps:
+    - Chill all the ingredients. Combine them in a carbonating bottle, charge with CO2, and gently shake to help dissolve the CO2 into the liquid. Refrigerate the carbonating bottle for at least 20 minutes, and preferably for 12 hours, before opening.
+  - name: Basic Bloody Mary Mix
+    ingredients: 
+    - 1,100 grams organic tomato juice (bottled)
+    - 180 grams Worcestershire sauce
+    - 30 grams Magi seasoning
+    - 72 grams strained fresh lemon juice
+    - 72 grams strained fresh lime juice
+    - 30 grams Tapatio hot sauce
+    steps:
+    - Place all the ingredients in a bowl and stir to combine. Transfer to a storage container and refrigerate until ready to use, up to 1 week.
+  - name: Donn’s Mix No. 1
+    ingredients: 
+    - 400 grams strained fresh grapefruit juice
+    - 200 grams Cinnamon Syrup (see recipe)
+    steps:
+    - Combine the grapefruit juice and Cinnamon Syrup in a bowl and whisk until thoroughly blended. Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Homemade Grapefruit Soda
+    ingredients: 
+    - 5 ounces seltzer
+    - 1¾ ounces Grapefruit Cordial (see recipe) 
+    - 1 teaspoon Citric Acid Solution (see recipe)
+    - 1 teaspoon phosphoric acid solution (see recipe) 
+    - 1 drop Terra Spice grapefruit extract
+    steps:
+    - Chill all the ingredients. Combine them in a carbonating bottle, charge with CO2, and gently shake to help dissolve the CO2 into the liquid. Refrigerate the carbonating bottle for at least 20 minutes, and preferably for 12 hours, before opening.
+  - name: House Coconut Cream
+    ingredients: 
+    - 800 grams Coco Lopez coconut cream
+    - 200 grams unsweetened coconut milk
+    steps:
+    - Combine the coconut cream and coconut milk in a bowl and stir to combine. Transfer to a storage container and refrigerate until ready to use, up to 3 months.
+  - name: House Orange Bitters
+    ingredients: 
+    - 100 grams Fee Brothers West Indian orange bitters
+    - 100 grams Angostura orange bitters 
+    - 100 grams Regans' orange bitters
+    steps:
+    - Place all the ingredients in a bowl and stir to combine. Transfer to a storage container and store at room temperature until ready to use, up to 1 year.
+  - name: Milk & Honey House Curaçao
+    ingredients: 
+    - 500 grams Grand Marnier
+    - 500 grams simple syrup (see recipe)
+    steps:
+    - Place the Grand Marnier and syrup in a bowl and stir to combine. Transfer to a storage container and refrigerate until ready to use, up to 6 months.
+  - name: Normandie Club Bloody Mary Mix
+    ingredients: 
+    - 6 ounces fresh tomato juice
+    - 2 ounces bottled tomato juice
+    - 2 ounces fresh celery juice
+    - 1½ ounces fresh red bell pepper juice
+    - 1 ounce Tomato Bouillon Concentrate (see recipe)
+    - ½ ounce fresh lemon juice
+    - ½ ounce fresh lime juice
+    - ½ ounce dill pickle juice (preferably from Bubbie's brand pickles)
+    - 4 teaspoons Worcestershire sauce
+    - 2 teaspoons Bragg Liquid Aminos
+    - 2 teaspoons Sriracha
+    - 2 teaspoons prepared horseradish (preferably Bubbie's brand) 
+    steps:
+    - Place all the ingredients in a bowl and stir to combine. Transfer to a storage container and refrigerate until ready to use, up to 1 week.
+  - name: Tomato Bouillon Concentrate
+    ingredients: 
+    - 75 grams Knorr Tomato with Chicken Granulated Bouillon
+    - 25 grams boiling water
+    steps:
+    - Combine the bouillon and water in a storage container and stir vigorously until the bouillon has dissolved. Refrigerate until ready to use, up to 6 months.
+  - name: Normandie Club House Sweet Vermouth
+    ingredients: 
+    - 25 ounces Carpano Antica Formula vermouth
+    - 7 grams Casa Mariol Vermut Negre
+    steps:
+    - Place the vermouth and Vermut Negre in a bowl and stir to combine. Transfer to a storage container and refrigerate until ready to use, up to 3 months.
+  - name: Tom and Jerry Batter
+    ingredients: 
+    - 450 grams unbleached cane sugar
+    - 1 tablespoon ground cinnamon
+    - 1 tablespoon ground mace
+    - 1 tablespoon ground allspice
+    - ½ tablespoon ground cloves
+    - 12 eggs, separated
+    - ½ teaspoon cream of tartar
+    steps:
+    - Put the sugar, cinnamon, mace, allspice, and cloves in a container and stir with a whisk to combine. Put the egg yolks in a large bowl and use an immersion blender to break them up. While still blending, slowly add the sugar mixture in a steady stream. When it's fully incorporated, cover and set aside in a cool place. In a separate clean, dry bowl, combine the egg whites and cream of tartar and beat or whisk vigorously until medium peaks form. Gently fold the egg whites into the egg yolk mixture. Transfer to a storage container and refrigerate until ready to use, up to 3 days.
+  - name: Verde Mix
+    ingredients: 
+    - 1,200 grams cucumber
+    - 1,000 grams tomatillo juice
+    - 650 grams green bell pepper juice
+    - 500 grams fresh pineapple juice
+    - 250 grams fresh lime juice
+    - 150 grams Salt Solution (see recipe)
+    - 25 grams serrano chile, seeds removed
+    - 15 grams garlic
+    steps:    
+    - Peel, chop, and puree the cucumber. In a blender, combine the cucumber puree with the juices, salt solution, serrano chile, and garlic. Blend until smooth. Transfer to a storage container and refrigerate until ready to use, up to 1 week.
+#Salts and Rims
+  - name: Lemon Pepper Salt
+    ingredients: 
+    - 20 grams dehydrated lemon slices
+    - 10 grams freshly ground black pepper
+    - 50 grams kosher salt
+    steps:
+    - Put the lemon slices in a spice grinder or blender with the pepper and half of the salt and process until powdery. Transfer to a storage container, add the remaining salt, seal, and shake to combine. Store in a dry place until ready to use. It will keep indefinitely.
+  - name: Sugared Smoked Salt
+    ingredients: 
+    - 25 grams Maldon smoked sea salt
+    - 25 grams unbleached cane sugar
+    steps:
+    - Put the salt and sugar in a storage container, seal, and shake to combine. Store in a dry place until ready to use. It will keep indefinitely.
+#Solutions, Tinctures, and Concentrates
+  - name: Après-Ski Tincture
+    notes: "It should be noted that this tincture is all about a woodsy aroma on top of the drink, and therefore is not to be consumed in quantity on its own. We recommend finding an incense that lists cedar wood as its only ingredient (with no other added chemicals!), then scrape the cedar from the incense stick for use in the tincture."
+    ingredients: 
+    - 250 grams vodka
+    - 20 grams 100 percent cedar incense scrapings
+    - 10 grams crushed cinnamon sticks
+    steps:
+    - Put all the ingredients in a jar, cover, and shake to combine. Let sit in a cool, dark place for 1 week. Strain through a fine-mesh sieve lined with several layers of cheesecloth, then pour into a storage container and refrigerate until ready to use, up to 3 months.
+  - name: Cacao Nib Tincture
+    ingredients: 
+    - 1 (750 ml) bottle Absolut vodka
+    - 75 grams cacao nibs
+    steps:
+    - Combine the vodka and cacao nibs in an iSi whipper. Seal tightly. Charge with an N2O cartridge, then shake the canister about five times. Change the cartridge, then charge and shake again. Let stand for 15 minutes, shaking the canister every 30 seconds or so, then release the pressure. Point the canister's nozzle at a 45-degree angle into a container. Vent the gas as quickly as possible without spraying liquid everywhere; the quicker the venting, the better the infusion. When all of the gas is out, open the canister and take a listen. Once there is no longer audible bubbling, strain the infusion through a paper coffee filter or Superbag. Funnel back into the vodka bottle and refrigerate until ready to use, up to 4 weeks. (This infusion can also be prepared in a chamber vacuum machine following the instructions on page 97.)
+  - name: Cedar Tincture
+    ingredients: 
+    - 1 (750 ml) bottle Absolut vodka
+    - 20 grams 100 percent cedar incense shavings (see Après-Ski Tincture)
+    steps:
+    - Combine the vodka and cedar shavings in an iSi whipper. Seal tightly. Charge with an N2O cartridge, then shake the canister about five times. Change the cartridge, then charge and shake again. Let stand for 15 minutes, shaking the canister every 30 seconds or so, then release the pressure. Point the canister's nozzle at a 45-degree angle into a container. Vent the gas as quickly as possible without spraying liquid everywhere; the quicker the venting, the better the infusion. When all of the gas is out, open the canister and take a listen. Once there is no longer audible bubbling, strain the infusion through a paper coffee filter or Superbag. Funnel back into the vodka bottle and refrigerate until ready to use, up to 4 weeks. (This infusion can also be prepared in a chamber vacuum machine following the instructions on page 97.)
+  - name: Champagne Acid Solution
+    ingredients: 
+    - 94 grams filtered water
+    - 3 grams tartaric acid powder
+    - 3 grams lactic acid powder
+    steps:
+    - Combine all the ingredients in a glass bowl and stir until the powders have dissolved. Transfer to a glass dropper bottle or other glass container and refrigerate until ready to use, up to 6 months.
+  - name: Citric Acid Solution
+    ingredients: 
+    - 100 grams filtered water
+    - 25 grams citric acid powder
+    steps:
+    - Combine the water and citric acid powder in a glass bowl and stir until the powder has dissolved. Transfer to a glass dropper bottle or other glass container and refrigerate until ready to use, up to 6 months.
+  - name: Lactic Acid Solution
+    ingredients: 
+    - 90 grams filtered water
+    - 10 grams lactic acid powder
+    steps:
+    - Combine the water and lactic acid powder in a glass bowl and stir until the powder has dissolved. Transfer to a glass dropper bottle or other glass container and refrigerate until ready to use, up to 6 months.
+  - name: Malic Acid Solution
+    ingredients: 
+    - 90 grams filtered water
+    - 10 grams malic acid powder
+    steps:
+    - Combine the water and malic acid powder in a glass bowl and stir until the powder has dissolved. Transfer to a glass dropper bottle or other glass container and refrigerate until ready to use, up to 6 months.
+  - name: Rosemary Salt Solution
+    ingredients: 
+    - 300 grams Absolut vodka
+    - 15 grams rosemary
+    - 100 grams Salt Solution (see recipe)
+    steps:
+    - Combine the vodka and rosemary in a container with a lid and shake gently to combine. Let sit in a cool, dark place for 1 week. Strain through a fine mesh sieve lined with several layers of cheesecloth. Transfer to a storage container, add the Salt Solution, and stir or shake to combine. Refrigerate until ready to use, up to 6 months.
+  - name: Salt Solution
+    ingredients: 
+    - 75 grams filtered water
+    - 25 grams kosher salt
+    steps:
+    - Combine the water and salt in a storage container and stir or shake until the salt has dissolved. Refrigerate until ready to use, up to 6 months.
+  - name: Sel Gris Solution
+    ingredients: 
+    - 80 grams filtered water
+    - 20 grams sel gris
+    steps:
+    - Combine the water and sel gris in a storage container and stir or shake until the salt has dissolved. Refrigerate until ready to use, up to 6 months.

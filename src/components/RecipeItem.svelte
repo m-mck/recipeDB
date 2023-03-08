@@ -3,10 +3,14 @@
     import List from "../elements/List.svelte";
     import Paragraph from "../elements/Paragraph.svelte";
 
-	export let name = "Untitled Drink";
-	export let ingredients = [ "No ingredients listed" ];
-	export let notes = undefined;
-	export let steps = undefined;
+	export let name;
+	export let author = "";
+	export let ingredients;
+	export let notes = "";
+	export let steps;
+	export let source = "";
+	export let hidden = false;
+	export let tags = [];
 </script>
 
 <div class="item">
@@ -14,14 +18,15 @@
 
 		<!-- Stuff shown even when section is folded (because it's inside <summary>)-->
 		<summary>
-			<Header title="Recipe Name" content={name}/>
-			<List title="Ingredients" ordered={false} optional={false} content={ingredients}/>
+			<Header title="Recipe Name" content={name ?? "Untitled Drink"}/>
+			<Paragraph title="Author" optional={true} content={author}/>
+			<List title="Ingredients" ordered={false} optional={false} content={ingredients ?? [ "No ingredients listed" ]}/>
 		</summary>
 
 		<!-- Stuff hidden when section is folded -->
 		<List title="Steps" ordered={true} optional={true} content={steps}/>
 		<Paragraph title="Notes" optional={true} content={notes}/>
-
+		<Paragraph title="Tags" optional={true} content={(tags ?? []).join(", ")}/>
 	</details>
 </div>
 

@@ -1,0 +1,17 @@
+source: "Trick Dog"
+hidden: hidden
+recipes:
+  - name: Fennel Syrup
+    ingredients:
+    - 300g fennel juice
+    - 300g sugar 
+    - 10g salt
+    steps:
+    - Juice fennel. Combine with sugar and salt in a saucepan. Heat to incorporate but do not boil. Strain. Store in the refrigerator.
+  - name: Blackberry Vinegar
+    ingredients:
+    - 75g blackberries
+    - 150ml sherry vinegar
+    - 100ml vodka
+    steps:
+    - Lightly crush the blackberries. Combine all in a non-reactive container with vinegar and vodka. Let steep for one week and strain.

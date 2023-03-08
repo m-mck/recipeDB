@@ -4,8 +4,13 @@ import resolve from '@rollup/plugin-node-resolve';
 import livereload from 'rollup-plugin-livereload';
 import { terser } from 'rollup-plugin-terser';
 import css from 'rollup-plugin-css-only';
+const resolveIngredients = require("./scripts/resolveIngredients.js");
+const bundleConfigs = require("./scripts/bundleConfigs.js");
+const glob = require("glob");
 
 const production = !process.env.ROLLUP_WATCH;
+
+const recipeConfigs = glob.sync("./configs/**/{Ingredients.*.yml,Recipes.*.yml}");
 
 function serve() {
 	let server;
@@ -37,6 +42,14 @@ export default {
 		file: 'public/build/bundle.js'
 	},
 	plugins: [
+		bundleConfigs({
+			targets: recipeConfigs,
+			outputFile: './public/recipes.json',
+		}),
+		//resolveIngredients({
+		//	targets: recipeConfigs
+		//}),
+
 		svelte({
 			compilerOptions: {
 				// enable run-time checks when not in production

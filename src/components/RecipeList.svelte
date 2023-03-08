@@ -4,25 +4,37 @@
     export let recipes = [];
     export let searchTerm = "";
 
-	function matchesSearch(recipe, term) {
-		if (!term) {
+	$: lowercaseSearchTerm = searchTerm.toLocaleLowerCase('en-US');
+	$: filteredRecipes = recipes.filter((recipe) => {
+		if (!lowercaseSearchTerm) {
 			return true;
 		}
-		term = term.toLowerCase();
-		if (recipe.name.toLowerCase().includes(term)) {
+		if (recipe.name != null && recipe.name.toLocaleLowerCase('en-US').includes(lowercaseSearchTerm)) {
 			return true;
 		}
-		for (let item of recipe.ingredients) {
-			if (item.toLowerCase().includes(term)) {
-				return true;
+		if (recipe.author != null && recipe.author.toLocaleLowerCase('en-US').includes(lowercaseSearchTerm)) {
+			return true;
+		}
+		if (recipe.ingredients) {
+			for (let item of recipe.ingredients) {
+				if (item != null && item.toLocaleLowerCase('en-US').includes(lowercaseSearchTerm)) {
+					return true;
+				}
+			}
+		}
+		if (recipe.tags) {
+			for (let item of recipe.tags) {
+				if (item != null && item.toLocaleLowerCase('en-US').includes(lowercaseSearchTerm)) {
+					return true;
+				}
 			}
 		}
 		return false;
-	}
+	})
 </script>
 
-{#each recipes as recipe}
-	{#if matchesSearch(recipe, searchTerm)}
+{#each filteredRecipes as recipe, i}
+	{#if i < 50} <!-- Only show the first 50 results, much faster performance -->
 		<RecipeItem {...recipe}></RecipeItem>
 	{/if}
 {/each}

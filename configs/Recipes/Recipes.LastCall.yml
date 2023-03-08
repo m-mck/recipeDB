@@ -1,0 +1,602 @@
+source: "Last Call: Bartenders on Their Final Drink and the Wisdom and Rituals of Closing Time"
+recipes:
+
+  - name: Suze and Tonic
+    author: Lauren Corriveau & Natasha David
+    ingredients:
+    - 2 ounces Suze
+    - Tonic water
+    - "Garnish: lemon twist or lemon wedge"
+    steps: 
+    - Add Suze to a chilled collins glass filled with ice. Top with tonic water. Give it a quick stir and garnish with the lemon twist or lemon wedge.
+    tags:
+    - stirred
+  - name: Susan Lucci
+    author: Lauren Corriveau & Natasha David
+    ingredients:
+    - ¾ ounce Suze
+    - ¾ ounce Amaro Lucano
+    steps: 
+    - Combine the Suze and Amaro Lucano in a shot glass or rocks glass. Knock it back.
+    tags:
+    - shot
+  - name: Margarita
+    author: Lauren Corriveau & Natasha David
+    ingredients:
+    - Lime wedge (for rimming)
+    - Kosher salt (for rimming)
+    - 2 ounces blanco tequila (preferably Siete Leguas blanco or El Tesoro platinum)
+    - 1 ounce Cointreau
+    - ¾ ounce fresh lime juice
+    - "Garnish: lime wedge"
+    steps: 
+    - Cut a small notch in the center of the lime wedge and run it around the rim of a chilled old-fashioned glass, gently squeezing the lime as you go. Pour a small pile of kosher salt onto a plate just wider than the diameter of the glass. Tip the lime-slicked glass onto its side, parallel to the plate, and gently roll the outside edge of half of the glass in the salt, coating it with a ¼-inch-thick layer. Fill the glass with ice.
+    - Combine the tequila, Cointreau, and lime juice in a cocktail shaker filled with ice. Shake until chilled and strain into the salt-rimmed old-fashioned glass. Garnish with the lime wedge.
+    tags:
+    - shaken
+    - citrus
+    - classic
+  - name: Manhattan
+    author: Aaron Polsky
+    ingredients:
+    - 2 ounces rye whiskey (preferably 18-year-old Sazerac)
+    - 1 ounce Cocchi Vermouth di Torino
+    - 1 dash Angostura bitters
+    - "Garnish: 3 Luxardo cherries"
+    steps: 
+    - Combine the whiskey, vermouth, and bitters in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Garnish with the cherries on a pick.
+    tags:
+    - classic
+    - stirred
+    - manhattan
+  - name: French 75
+    author: William Elliou
+    ingredients:
+    - 1 ounce Cognac (preferably Gourry de Chadeville)
+    - ¼ ounce simple syrup (1:1 sugar:water)
+    - ¼ ounce fresh lemon juice
+    - Champagne (preferably Bourgeois-Diaz), chilled
+    - "Garnish: lemon twist"
+    steps: 
+    - Combine the Cognac, simple syrup, and lemon juice in a cocktail shaker filled with ice. Shake until chilled and strain into a chilled flute. Top with Champagne. Garnish with the lemon twist.
+    tags:
+    - shaken
+    - citrus
+    - classic
+    - sparkling
+  - name: Night Moves
+    author: Guido Martelli
+    ingredients:
+    - 2 ounces lambrusco, chilled
+    - 2 ounces Prosecco, chilled
+    steps: 
+    - Combine the lambrusco and Prosecco in a rocks glass. Salute!
+    tags:
+    - sparkling
+    - stirred
+  - name: Martini (Extra Dry)
+    author: Guido Martelli
+    ingredients:
+    - 2½ ounces London dry gin (preferably Bombay Dry Gin)
+    - ½ ounce dry vermouth (preferably Dolin Dry Vermouth de Chambéry)
+    - 2 dashes orange bitters
+    - "Garnish: lemon twist"
+    steps: 
+    - Combine the gin, vermouth, and bitters in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Garnish with the lemon twist.
+    tags:
+    - classic
+    - stirred
+    - martini
+  - name: Recoil
+    author: Dylan O’Brien & Jon Santer
+    ingredients:
+    - 2 ounces bourbon (preferably Bulleit)
+    - ¾ ounce St-Germain elderflower liqueur
+    - ½ ounce fresh lime juice
+    - Ginger beer (preferably Fever-Tree)
+    - "Garnish: lime wheel"
+    steps: 
+    - Combine the bourbon, elderflower liqueur, and lime juice in a cocktail shaker filled with ice. Shake until chilled and strain into a pint-size Mason jar filled with ice. Top with ginger beer. Garnish with the lime wheel.
+    tags:
+    - shaken
+    - citrus
+  - name: Revolver
+    author: Dylan O'Brien & Jon Santer
+    ingredients:
+    - 2 ounces bourbon (preferably Bulleit)
+    - ½ ounce Tia Maria coffee liqueur
+    - 2 dashes orange bitters
+    - "Garnish: flamed orange twist"
+    steps: 
+    - Combine the bourbon, coffee liqueur, and bitters in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Garnish with the flamed orange twist.
+    - "Note: For a flamed orange twist, hold the orange peel between your thumb and index finger over the glass. With your other hand, light a match and then place it between the orange zest and the glass. Slowly press the edges of the zest together, folding it in half, to express the citrus oils, which will ignite in little sparks over the drink."
+    tags:
+    - stirred
+    - manhattan
+  - name: Last Word
+    author: Joseph Stinchcomb
+    ingredients:
+    - 1 ounce green Chartreuse
+    - ¾ ounce gin (preferably London Dry style, like Beefeater or Tanqueray)
+    - ½ ounce maraschino liqueur
+    - ¾ ounce fresh lime juice
+    steps: 
+    - Combine the Chartreuse, gin, maraschino liqueur, and lime juice in a cocktail shaker filled with ice and shake until chilled. Strain into a chilled coupe glass.
+    tags:
+    - shaken
+    - citrus
+    - classic
+  - name: The Clyde
+    author: Joseph Stinchcomb
+    ingredients:
+    - 2 ounces blanco tequila
+    - ¾ ounce Rooibos Tea Syrup
+    - ¾ ounce fresh lime juice
+    - 2 dashes Angostura bitters
+    - "Garnish: fresh mint sprig"
+    steps: 
+    - Combine the tequila, tea syrup, lime juice, and bitters in a cocktail shaker filled with ice and shake until chilled. Strain into a chilled double old-fashioned glass over a large ice cube. Garnish with the mint sprig.
+    tags:
+    - shaken
+    - citrus
+  - name: Sazerac
+    author: Greg Best
+    ingredients:
+    - ½ ounce absinthe or Herbsaint (for rinsing, or do as Best does and just leave it in there)
+    - 2 ounces rye whiskey (preferably barrel proof)
+    - ¼ ounce simple syrup (1:1 sugar:water)
+    - 2 dashes Peychaud’s Bitters
+    - 2 dashes Angostura bitters
+    - "Garnish: lemon twist"
+    steps: 
+    - Add the absinthe to a chilled old-fashioned glass. Roll the glass around to coat the interior of the glass and shake out any excess liquid. Combine the whiskey, simple syrup, and both bitters in a mixing glass filled with ice. Stir until chilled and strain into the prepared glass. Express and garnish with the lemon twist.
+    tags:
+    - stirred
+    - sazerac
+    - classic
+  - name: Death Row Sazerac
+    author: Greg Best
+    ingredients:
+    - 1 ounce absinthe or Herbsaint (for rinsing, or do as Best does and just leave it in there)
+    - 4½ ounces rye whiskey (preferably barrel proof)
+    - 1 ounce simple syrup (1:1 sugar:water)
+    - 5 dashes Peychaud’s Bitters
+    - 5 dashes Angostura bitters
+    - "Garnish: lemon twist"
+    steps: 
+    - Add the absinthe to a chilled pint glass or other large glass. Roll the glass around to coat the interior of the glass and shake out any excess liquid. Combine the whiskey, simple syrup, and both bitters in a mixing glass filled with ice. Stir until chilled and strain into the prepared glass. Express  and garnish with the lemon twist.
+    tags:
+    - stirred
+    - sazerac
+  - name: Grasshopper
+    author: Jeffrey Morgenthaler
+    ingredients:
+    - 1½ ounces green crème de menthe
+    - 1½ ounces white crème de cacao
+    - 1 ounce half-and-half
+    - 1 teaspoon Fernet-Branca
+    - Pinch of sea salt
+    - ½ cup vanilla ice cream
+    - "Garnish: fresh mint sprig"
+    steps: 
+    - Combine the crème de menthe, crème de cacao, half-and-half, Fernet-Branca, salt, ice cream, and 1 cup crushed ice in a blender and blend on high speed until smooth. Pour into a tall chilled glass and garnish with the mint sprig.
+    tags:
+    - blended
+    - classic
+  - name: Appetizer a la Italienne
+    author: Ezra Star
+    ingredients:
+    - 2 ounces Cocchi Vermouth di Torino
+    - 1 ounce Fernet-Branca
+    - ¼ ounce absinthe (preferably Kübler absinthe)
+    - ¼ ounce Demerara simple syrup (1:1 Demerara sugar:water)
+    steps: 
+    - Combine the vermouth, Fernet-Branca, absinthe, and simple syrup in a mixing glass filled with ice. Stir until chilled and strain into a chilled mug or cup.
+    tags:
+    - stirred
+  - name: Iced Tea
+    author: Damon Boelthe
+    ingredients:
+    - Lipton tea bags
+    - Cold water
+    steps: 
+    - Place 3 Lipton family-size tea bags or 9 Lipton regular-size tea bags in a clean gallon jar and fill with cold water. Cap loosely and place in the sunshine for 3 to 4 hours. Remove the tea bags. Refrigerate within 5 hours of brewing.
+    - Serve in a tall glass over ice. “Church it up” with sugar or simple syrup and a splash of Bénédictine. Garnish with slices of orange and lemon and with fresh mint.
+    tags:
+    - n/a
+  - name: Hard Start
+    author: Damon Boelthe
+    ingredients:
+    - ½ ounce Fernet-Branca
+    - ½ ounce Brancamenta
+    steps: 
+    - Combine the Fernet-Branca and Brancamenta in a shot glass or a chilled rocks glass. Knock it back. Boelte always keeps a pre-batched bottle of Hard Starts at his bar, in his home kitchen, for gifts, and for camping and beach trips.
+    tags:
+    - shot
+  - name: Old-Fashioned
+    author: Andrew Volk & Briana Volk
+    ingredients:
+    - 2 ounces rye whiskey (preferably Old Grand-Dad Bonded)
+    - 1 teaspoon rich simple syrup (2:1 sugar:water)
+    - 2 dashes Angostura bitters
+    - "Garnish: cocktail cherry and orange twist"
+    steps: 
+    - Combine the whiskey, simple syrup, and bitters in a chilled double old-fashioned glass. Add a large ice cube and stir. Garnish with the cherry and orange twist.
+    tags:
+    - stirred
+    - old-fashioned
+    - classic
+  - name: Trident
+    author: Andrew Volk & Briana Volk
+    ingredients:
+    - 1 ounce aquavit (preferably House Spirits Krogstad)
+    - 1 ounce Cynar
+    - 1 ounce fino sherry
+    - 2 dashes peach bitters
+    - "Garnish: lemon twist"
+    steps: 
+    - Combine the aquavit, Cynar, sherry, and bitters in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Garnish with the lemon twist.
+    tags:
+    - stirred
+  - name: Mezcal Negroni
+    author: Brian Bartels
+    ingredients:
+    - 1 ounce mezcal (preferably Del Maguey Vida)
+    - 1 ounce Campari
+    - 1 ounce sweet vermouth
+    - "Garnish: orange twist"
+    steps: 
+    - Build the mezcal, Campari, and sweet vermouth in an old-fashioned glass filled with ice and give it a healthy 10- to 15-second stir. Garnish with the orange twist. Sip and smile and think of friends near and far.
+    tags:
+    - stirred
+    - negroni
+  - name: Negroni
+    author: Shelby Allison & Paul McGee
+    ingredients:
+    - 2 ounces Fords gin
+    - ¾ ounce Campari
+    - ¾ ounce Lustau vermut rojo
+    - "Garnish: orange twist"
+    steps: 
+    - Build the gin, Campari, and vermut rojo in an old-fashioned glass filled with ice and stir until chilled. Garnish with the orange twist.
+    tags:
+    - stirred
+    - negroni
+    - classic
+  - name: Ti' Punch
+    author: Shelby Allison & Paul McGee
+    ingredients:
+    - 1 quarter-size lime disk, make sure it includes a small amount of flesh
+    - 1 barspoon Martinique cane syrup
+    - 2 ounces Neisson L’Esprit rhum agricole blanc
+    steps: 
+    - Squeeze the lime disk over an old-fashioned glass and drop it into the glass. Add the cane syrup and, using a barspoon, press against the lime disk to release its oils and integrate them with the syrup. Add a large ice cube and pour in the rhum. Give it a quick stir to dilute and cool down.
+    tags:
+    - stirred
+    - classic
+    - citrus
+  - name: The Assassin's Handbook
+    author: Paul MacDonald
+    ingredients:
+    - 1 ounce Jamaican rum (preferably Appleton Signature Blend)
+    - ¾ ounce Cognac (preferably Gilles Brisson VS)
+    - ¾ ounce Mulled Wine Shrub
+    - ½ ounce Averna
+    - ¼ ounce Habañero Tincture
+    - "Garnish: orange twist"
+    steps: 
+    - Combine the rum, Cognac, shrub, Averna, and tincture in a mixing glass filled with ice and stir until chilled. Strain into a double old-fashioned glass over a large ice cube. Garnish with the orange twist.
+    tags:
+    - stirred
+  - name: Martini (50/50 With All the Garnishes)
+    author: Anu Apte-Elford & Chris Elford
+    ingredients:
+    - 1½ ounces gin (preferably London Dry or Plymouth)
+    - 1½ ounces dry vermouth (preferably Noilly Prat for London Dry or Dolin for Plymouth)
+    - "Garnish: lemon twist, olive & cocktail onion"
+    steps: 
+    - Combine the gin and vermouth in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Garnish with the lemon twist and a pick speared with the olive and onion.
+    tags:
+    - stirred
+    - martini
+  - name: Sazerac
+    author: Anu Apte-Elford & Chris Elford
+    ingredients:
+    - Splash of absinthe (for rinsing)
+    - 2 ounces high-proof rye whiskey (preferably Wild Turkey 101)
+    - 1 barspoon rich simple syrup (2:1 sugar:water)
+    - 2 or 3 dashes Peychaud’s Bitters
+    - "Garnish: lemon twist"
+    steps: 
+    - Add the absinthe to a chilled old-fashioned glass. Roll the glass around to coat the interior of the glass and shake out any excess liquid. Combine the whiskey, simple syrup, and bitters in a mixing glass filled with ice. Stir until chilled and strain into the prepared glass. When it comes to the dilemma of express and discard or leave in the lemon peel, Elford is a “leave in” guy, so garnish with a neatly manicured lemon twist.
+    tags:
+    - stirred
+    - sazerac
+    - classic
+  - name: Daiquiri
+    author: Anu Apte-Elford & Chris Elford
+    ingredients:
+    - 2 ounces white rum (preferably Banks 5 Island)
+    - ¾ fresh lime juice
+    - ½ ounce rich simple syrup (2:1 sugar:water)
+    steps: 
+    - Combine the rum, lime juice, and simple syrup in a shaker filled with ice. Per Elford, “shake the hell out of it” until chilled and strain into a chilled coupe glass.
+    tags:
+    - shaken
+    - citrus
+    - classic
+    - daiquiri
+  - name: Strawberry Daiquiri
+    author: Josh Jancewicz
+    ingredients:
+    - 2½ ounces white rum
+    - 1½ ounces strawberry puree
+    - 1 ounce rich simple syrup (2:1 sugar:water)
+    - 1 ounce fresh lime juice
+    - "Garnish: 2 ounces heavy cream, 1 barspoon sugar, fresh mint sprig"
+    steps: 
+    - To make whipped cream for the garnish, combine the cream and sugar in a cocktail shaker and dry shake for about 5 minutes, until whipped. Set aside.
+    - Combine the rum, strawberry puree, simple syrup, lime juice, 1 cup crushed ice, and 2 or 3 ice cubes in a blender and first pulse to break up the ice and then process until smooth. Pour into a chilled daiquiri glass and top with the whipped cream and the mint sprig.
+    tags:
+    - shaken
+    - citrus
+    - daiquiri
+    - blended
+    - trick dog
+  - name: Cosmopolitan
+    author: Toby Cecchini
+    ingredients:
+    - 1½ ounces Absolut Citron vodka
+    - ¾ ounce Cointreau
+    - ¾ ounce fresh lime juice
+    - ¾ ounce Ocean Spray Cranberry Cocktail
+    - "Garnish: lemon twist"
+    steps: 
+    - Combine the vodka, Cointreau, lime juice, and cranberry cocktail in a cocktail shaker filled with ice. Shake until chilled and strain into a chilled coupe glass. Garnish with the lemon twist.
+    tags:
+    - shaken
+    - citrus
+  - name: The Erin
+    author: Toby Cecchini
+    ingredients:
+    - 2 ounces New York Distilling Company Ragtime Rye
+    - ½ ounce Bigallet China-China Amer Liqueur
+    - ½ ounce Suze
+    - ½ ounce sweet vermouth (preferably equal parts Cinzano Rosso and Carpano Antica Formula)
+    - 5 dashes St. Elizabeth Allspice Dram
+    - "Garnish: lemon twist and orange twist"
+    steps: 
+    - Combine the rye, China-China, Suze, vermouth, and allspice dram in a mixing glass filled with ice. Stir until chilled and strain into a double old-fashioned glass over a large ice cube. Garnish with the lemon twist and orange twist.
+    tags:
+    - stirred
+  - name: Manhattan
+    author: Graham Miller
+    ingredients:
+    - 2 ounces rye whiskey
+    - 1 ounce sweet vermouth (preferably Carpano Antica Formula)
+    - 2 dashes Angostura bitters
+    - "Garnish: Luxardo cherry"
+    steps: 
+    - Combine the whiskey, vermouth, and bitters in a mixing glass filled with ice. Stir until chilled and strain into a chilled cocktail glass. Garnish with the Luxardo cherry.
+    tags:
+    - manhattan
+    - classic
+    - stirred
+  - name: Martini (3:1)
+    author: Jabriel Donohue
+    ingredients:
+    - 3 ounces Citadelle gin
+    - 1 ounce Dolin Dry Vermouth
+    - 2 dashes Regans’ Orange Bitters No. 6
+    - "Garnish: lemon twist, 3 Castelvetrano olives"
+    steps: 
+    - Combine the gin, vermouth, and bitters in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Garnish with the lemon twist and serve the olives on a plate on the side.
+    tags:
+    - stirred
+    - martini
+  - name: Jet Pilot
+    author: Martin Cate
+    ingredients:
+    - 1 ounce black blended rum (preferably Coruba)
+    - ¾ ounce blended aged rum (preferably Appleton Estate Rare Blend 12-Year)
+    - ¾ ounce black blended overproof rum (preferably Hamilton 151 Demerara)
+    - ½ ounce fresh lime juice
+    - ½ ounce fresh grapefruit juice
+    - ½ ounce Cinnamon Syrup (recipe follows)
+    - ½ ounce John D. Taylor’s Velvet falernum
+    - 1 dash Herbsaint
+    - 1 dash Angostura bitters
+    steps: 
+    - Combine all three rums, the lime juice, grapefruit juice, cinnamon syrup, falernum, Herbsaint, and bitters in a drink mixer tin. Add 1½ cups crushed ice and 4 to 6 small “agitator” cubes and flash blend. Pour into a chilled double old-fashioned glass.
+    tags:
+    - citrus
+    - shaken
+    - tiki
+  - name: Last Man Standing
+    author: Benjamin Hash & Matt Russell
+    ingredients:
+    - ¾ ounce Campari
+    - ¾ ounce Fernet-Branca
+    - ¾ ounce gin (preferably Bluecoat Barrel Finished)
+    - ¾ ounce rye whiskey (preferably Rittenhouse)
+    - 2 orange twists
+    - "Garnish: orange twist"
+    steps: 
+    - Combine the Campari, Fernet-Branca, gin, and whiskey in a mixing glass filled with ice. Express the orange twists over the mixing glass and discard. Stir until chilled and strain into a chilled coupe glass. Garnish with the orange twist.
+    tags:
+    - stirred
+  - name: Kona Swizzle
+    author: Travis Brown
+    ingredients:
+    - 2 ounces rum (preferably an aged Martinique rhum agricole, like Clément)
+    - 1 ounce fresh lime juice
+    - ¾ ounce orgeat
+    - 8 to 10 fresh mint leaves
+    - ½ ounce coffee liqueur (preferably Caffé Lolita)
+    - "Garnish: fresh mint sprig"
+    steps: 
+    - Combine the rum, lime juice, orgeat, and mint leaves in a cocktail shaker. Add about 5 pebbles of crushed ice and quickly whip shake until the ice has diluted to bring the temperature down without adding too much water. Pour the contents of the shaker into a chilled collins glass and fill the glass with crushed ice. Add more crushed ice just above the wash line of the glass to create a landing pad for the coffee liqueur. Gently top with a float of the coffee liqueur and garnish with the mint sprig.
+    tags:
+    - shaken
+    - citrus
+  - name: Tequila Gimlet
+    author: Ariel Arce
+    ingredients:
+    - 2 ounces blanco tequila
+    - 1 ounce fresh lime juice
+    - ¾ ounce simple syrup (1:1 sugar:water)
+    - "Garnish: lime wheel"
+    steps: 
+    - Combine the tequila, lime juice, and simple syrup in a cocktail shaker filled with ice. Shake until chilled and strain into a chilled old-fashioned glass filled with ice. Garnish with the lime wheel, or if you’re Ariel, garnish with whatever citrus you have on hand.
+    tags:
+    - shaken
+    - citrus
+  - name: Death in the Afternoon
+    author: Ryan Kim
+    ingredients:
+    - 1 ounce absinthe
+    - Champagne or sparkling wine
+    - "Garnish: lemon twist"
+    steps: 
+    - Pour the absinthe into a chilled coupe or flute glass. Slowly top with Champagne. Garnish with the lemon twist.
+    tags:
+    - sparkling
+  - name: Grilled Apricot Iced Tea
+    author: Chad Spangler
+    ingredients:
+    - 2 ounces Grilled Apricot-Infused Irish Whiskey
+    - 2 ounces Cold-Steeped Black Tea
+    - ¾ ounce Grilled Apricot Syrup
+    - ¾ ounce fresh lemon juice
+    - "Garnish: Dehydrated Lemon Slices or fresh lemon twist"
+    steps: 
+    - Combine the whiskey, tea, apricot syrup, and lemon juice in a cocktail shaker filled with ice. Shake until chilled and strain into a collins glass filled with ice. Garnish with the dehydrated lemon slice or fresh lemon twist.
+    tags:
+    - shaken
+    - citrus
+  - name: Stiggins' Sherry Cobbler
+    author: Laura Kelton
+    ingredients:
+    - ½ ounce Demerara simple syrup (1:1 Demerara sugar:water)
+    - 1 large orange wheel
+    - 2 large lemon wheels
+    - 2 ounces Lustau amontillado sherry
+    - ½ ounce Lustau PX sherry
+    - ½ ounce Plantation Stiggins’ Fancy Pineapple Rum
+    - Pinch of salt
+    - "Garnish: lemon wheel, orange wheel, fresh mint sprig, Angostura bitters"
+    steps: 
+    - Combine the simple syrup, large orange wheel, and large lemon wheels in a cocktail shaker and lightly muddle to incorporate the ingredients. Add both sherries, the rum, salt, and 1 ice cube and quickly whip shake until the ice has diluted to bring the temperature down without adding too much water. Fine-strain into a chilled collins glass filled with crushed ice. Add more crushed ice to top off if needed. Garnish with the lemon and orange wheels and the mint sprig. Douse the mint with 2 or 3 dashes of bitters.
+    tags:
+    - shaken
+    - citrus
+  - name: Brooklyn
+    author: Miles Macquarrie
+    ingredients:
+    - 2 ounces rye whiskey (preferably Michter’s, Rittenhouse, or High West Rendezvous)
+    - ¾ ounce Dolin Dry Vermouth
+    - ¼ ounce Amer Picon (or Bigallet China-China Amer Liqueur)
+    - ¼ ounce Luxardo maraschino liqueur
+    - 1 lemon twist
+    - "Garnish: cocktail cherry (preferably Tillen Farms Bada Bing)"
+    steps: 
+    - Combine the whiskey, vermouth, Amer Picon, and maraschino liqueur in a cocktail glass filled with ice. Stir until chilled and strain into a chilled coupe glass. Express the lemon twist over the surface of the drink and discard. Garnish with the cocktail cherry.
+    tags:
+    - stirred
+    - manhattan
+  - name: Wray & Nephew Daiquiri
+    author: Joey Dykes
+    ingredients:
+    - 2 ounces Wray & Nephew White Overproof Rum
+    - 1 ounce fresh lime juice
+    - ½ ounce rich simple syrup (2:1 sugar:water)
+    steps: 
+    - Combine the rum, lime juice, and rich simple syrup in a cocktail shaker filled with ice. Shake until chilled and strain  into a chilled coupe glass.
+    tags:
+    - shaken
+    - citrus
+    - daiquiri
+  - name: Margarita
+    author: James MacWilliams
+    ingredients:
+    - Lime wedge (for rimming)
+    - Kosher salt (for rimming)
+    - 2 ounces blanco tequila (preferably Arette Artesanal Suave)
+    - ¾ ounce curaçao (preferably Pierre Ferrand)
+    - 1 ounce fresh lime juice
+    - ½ ounce simple syrup (1:1 sugar:water)
+    - "Garnish: lime wedge"
+    steps: 
+    - Cut a small notch in the center of the lime wedge and run it around the rim of a chilled margarita glass, gently squeezing the lime as you go. Pour a small pile of kosher salt onto a plate just wider than the diameter of the glass. Tip the lime-slicked glass on its side, parallel to the plate, and gently roll the outside edge of half of the glass in the salt, coating it. Fill the glass with ice.
+    - Combine the tequila, curaçao, lime juice, and simple syrup in a cocktail shaker filled with ice. Shake until chilled and strain into the salt-rimmed margarita glass. Garnish with the lime wedge.
+    tags:
+    - shaken
+    - citrus
+    - classic
+  - name: Almost Perfect Cocktail
+    author: James MacWilliams
+    ingredients:
+    - 4 dashes Angostura bitters
+    - ½ ounce grenadine
+    - ¼ ounce Luxardo maraschino liqueur
+    - ¾ ounce Cocchi Americano
+    - ¾ ounce Averna
+    - 1½ ounces Plantation Stiggins’ Fancy Pineapple Rum
+    - "Garnish: lemon twist, edible flower"
+    steps: 
+    - Combine the bitters, grenadine, maraschino liqueur, Cocchi Americano, Averna, and rum over a large ice cube in a double old-fashioned glass. Stir gently to incorporate the ingredients. Garnish with the lemon twist and the edible flower.
+    - At Canlis, MacWilliams keeps the Averna and Cocchi Americano chilled in a refrigerator. He builds the drink over a single cube rather than chilling the glass in order to maintain the potency of flavors. In addition, even if the Canlis guest doesn’t notice, he’s drawn to the visual appeal of the liquids of varying colors and viscosity cascading over the sides of the large ice cube.
+    tags:
+    - stirred
+  - name: Brandy Old-Fashioned
+    author: Tobin Shea
+    ingredients:
+    - 2 ounces brandy (preferably Bertoux)
+    - ½ ounce Bénédictine
+    - 4 or 5 dashes Angostura bitters
+    - "Garnish: orange twist"
+    steps: 
+    - Combine the brandy, Bénédictine, and bitters in a mixing glass filled with ice. Stir until chilled and strain into a double old-fashioned glass over a large ice cube. Garnish with the orange twist.
+    tags:
+    - stirred
+    - old-fashioned
+    - classic
+  - name: Little Tokyo
+    author: Tobin Shea
+    ingredients:
+    - 1½ ounces nigori sake (preferably Momokawa)
+    - ¾ ounce Cappelletti Aperitivo Americano Rosso
+    - ¾ ounce Dolin Vermouth Rouge
+    - ¼ ounce yuzu juice
+    - "Garnish: orange twist"
+    steps: 
+    - Combine the sake, Cappelletti Aperitivo, vermouth, and yuzu juice in a mixing glass filled with ice. Stir until chilled and strain into a double old-fashioned glass over a large ice cube. Garnish with the orange twist.
+    tags:
+    - stirred
+  - name: Vieux Carré
+    author: Jason Kraft
+    ingredients:
+    - ¾ ounce overproof rye (preferably Rittenhouse or Pikesville)
+    - ¾ ounce Cognac
+    - ¾ ounce sweet vermouth
+    - ¼ ounce Bénédictine
+    - 3 dashes Peychaud’s Bitters
+    - 3 dashes Angostura bitters
+    - "Garnish: lemon twist"
+    steps: 
+    - Combine the rye, Cognac, vermouth, Bénédictine, and both bitters in a mixing glass filled with ice. Stir until chilled and strain into a chilled double old-fashioned glass over a large ice cube. Garnish with the lemon twist.
+    tags:
+    - stirred
+    - classic
+  - name: Last Word
+    author: Murray Stenson
+    ingredients:
+    - ¾ ounce gin
+    - ¾ ounce green Chartreuse
+    - ¾ ounce maraschino liqueur
+    - ¾ ounce fresh lime juice
+    steps: 
+    - Combine the gin, Chartreuse, maraschino liqueur, and lime juice in a cocktail shaker filled with ice and shake until chilled. Strain into a chilled coupe glass.
+    tags:
+    - shaken
+    - citrus
