@@ -153,3 +153,20 @@ categorize tags (currently include methods, types, bars, classics, etc; would li
 "index", in which ingredients are shown; maybe w/ descriptions & "used in <x> many recipes / used in <x>"?
 
 tsp-tbsp? batching up
+
+checkboxes: 
+	overflow-y: scroll;
+
+
+recipe items of <x> size
+when you click on them, increase <x> to <y> and add add'l metadata
+click again -> return to orig. size
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-style
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout/Block_and_Inline_Layout_in_Normal_Flow
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout/Flow_Layout_and_Overflow
+
+html > content
+css > layout & theming
+
+pick a width for the sidebar

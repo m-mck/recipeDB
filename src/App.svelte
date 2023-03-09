@@ -46,7 +46,9 @@
 
 </script>
 
-<h1>Michael's Drinks List</h1>
+<h1>What's on the menu?</h1>
 <Search bind:value={searchTerm}></Search>
 <span>Number of recipes: {recipes.length}</span>
-<RecipeList {recipes} {searchTerm}/>
+<div style="display:block">
+	<RecipeList {recipes} {searchTerm}/>
+</div>

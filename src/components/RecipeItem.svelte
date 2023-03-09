@@ -35,8 +35,13 @@
 		border: 1px solid;
 		border-color: #b5b5b5;
 		margin-bottom: 8px;
+		display: inline-block;
+		height: 300px;
+		overflow-y:auto;
 	}
 	.content {
 		padding: 0 0.5rem;
+		display: block;
+		width: 400px;
 	}
 </style>
