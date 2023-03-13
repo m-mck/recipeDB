@@ -35,8 +35,12 @@
 		border: 1px solid;
 		border-color: #b5b5b5;
 		margin-bottom: 8px;
+		margin-top: 8px;
+		margin-left: 8px;
+		margin-right: 8px;
 		display: inline-block;
-		height: 300px;
+		height: 200px;
+		width: 450px;
 		overflow-y:auto;
 	}
 	.content {

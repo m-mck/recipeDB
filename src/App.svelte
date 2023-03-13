@@ -3,6 +3,7 @@
     import { onMount } from 'svelte';
 	import yaml from 'js-yaml';
     import RecipeList from './components/RecipeList.svelte';
+	import Sidebar from './elements/Sidebar.svelte';
 	
 	let searchTerm = "";
 	let recipes = [];
@@ -46,9 +47,33 @@
 
 </script>
 
-<h1>What's on the menu?</h1>
-<Search bind:value={searchTerm}></Search>
-<span>Number of recipes: {recipes.length}</span>
-<div style="display:block">
-	<RecipeList {recipes} {searchTerm}/>
+<div class="big-daddy-div">
+	<div class="sidebar">
+	<Sidebar/>
 </div>
+<div class="main">
+	<h1>What's on the menu?</h1>
+	<Search bind:value={searchTerm}></Search>
+	<span>Number of recipes: {recipes.length}</span>
+	<div style="display:block">
+		<RecipeList {recipes} {searchTerm}/>
+	</div>
+</div>
+</div>
+
+<style>
+	.sidebar {
+		width: 450px;
+		position: sticky;
+		top: 0;
+	}
+	.main {
+		padding: 0 0.5rem;
+		display: block;
+		flex-grow: 1;
+	}
+	.big-daddy-div {
+		display: flex;
+		width: 100%;
+	}
+</style>
