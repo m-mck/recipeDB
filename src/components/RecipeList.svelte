@@ -3,6 +3,7 @@
     
     export let recipes = [];
     export let searchTerm = "";
+	export let current = -1;
 
 	$: lowercaseSearchTerm = searchTerm.toLocaleLowerCase('en-US');
 	$: filteredRecipes = recipes.filter((recipe) => {
@@ -34,7 +35,7 @@
 </script>
 
 {#each filteredRecipes as recipe, i}
-	{#if i < 500} <!-- Only show the first 500 results, much faster performance -->
+	{#if i < 250} <!-- Only show the first 250 results, much faster performance -->
 		<RecipeItem {...recipe}></RecipeItem>
 	{/if}
 {/each}

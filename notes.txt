@@ -187,3 +187,13 @@ SOURCE:
     PUNCH  
     Amaro
     Bitters
+
+----
+
+"svelte conditional classes"
+
+"css click event"
+
+https://stackoverflow.com/questions/14319274/change-css-properties-on-click
+
+when click on item, expand down to next row to keep others in spot? (?)
