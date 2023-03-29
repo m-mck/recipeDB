@@ -28,7 +28,7 @@
 		<!-- Stuff hidden when section is folded -->
 		<List title="Steps" ordered={true} optional={true} content={steps}/>
 		<Paragraph title="Notes" optional={true} content={notes}/>
-		<i><Paragraph title="Source" optional={true} content={source}/></i>
+		</i><Paragraph title="Source" optional={true} content=<i>{source}</i>/>
 		<Paragraph title="Tags" optional={true} content={(tags ?? []).join(", ")}/>
 	</details>
 </div>

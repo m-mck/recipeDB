@@ -431,3 +431,50 @@ recipes:
     - stirred
     - negroni
     - fox liquor bar
+  - name: Jägerita
+    author: David Cordoba
+    url: https://punchdrink.com/recipes/jagerita-2/
+    notes: "The Jägerita is essentially a standard Margarita with tequila swapped out in favor of the aughts’ most bro-tastic party shot, Jägermeister. Despite how it may sound on paper, the drink has gone on the win over the bar world, becoming a modern classic along the way."
+    ingredients:
+    - 2 ounces Jägermeister
+    - 1 ounce Cointreau
+    - 1 ounce lime juice
+    - 1/2 ounce simple syrup
+    - "Garnish: lime wheel"
+    steps:
+    - Combine all ingredients in a cocktail shaker with ice and shake until chilled.
+    - Strain into a coupe and garnish with a lime wheel.
+    tags:
+    - shaken
+    - citrus
+    - margarita
+  - name: Frozen Jägerita
+    author: David Cordoba
+    url: https://punchdrink.com/recipes/jagerita/
+    notes: "Portland’s Jeffrey Morgenthaler first discovered the Jägerita in London back in 2008 and was instantly enamored by it. “It’s basically an amaro sour, which is a type of drink I really love,” he says. “So it only seemed natural to try it frozen.” The recipe—perfected by Morganthaler’s former colleague, David Cordoba—delivers a playful and bitter take on a frozen Margarita. Pairing Jägermeister with sweet cointreau, lime and syrup, the Jägerita makes for an unexpectedly sophisticated frozen drink."
+    ingredients:
+    - 1 1/2 ounce Jägermeister
+    - 3/4 ounce Cointreau
+    - 3/4 ounce lime juice
+    - 3/4 ounce simple syrup
+    - "Garnish: lime wheel"
+    steps:
+    - Add all ingredients to a blender.
+    - Add ice, about six ounces crushed.
+    - Blend until smooth.
+    - Pour into a glass and garnish with a lime wheel.
+    tags:
+    - blended
+    - citrus
+    - frozen
+    - margarita
+  - name: 
+    author: 
+    url: 
+    notes: 
+    ingredients:
+    - 
+    steps:
+    - 
+    tags:
+    - 

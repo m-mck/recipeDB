@@ -63,7 +63,7 @@
 
 <style>
 	.sidebar {
-		width: 450px;
+		width: 20%;
 		position: sticky;
 		top: 0;
 	}
