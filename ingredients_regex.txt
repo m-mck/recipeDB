@@ -1,0 +1,21 @@
+Ctrl+F
+Click "Use Regular Expression (.* button)
+Click "Match case" (Aa button)
+
+
+Enter below into "Find" box
+
+[\d½¾¼\s]*g?\s*(ounces|ounce|dash|dashes|Garnish:|teaspoon|teaspoons)?\s*(.*)
+
+
+Enter below into "Replace" box
+click on "substitution" part of sidebar
+
+$2
+
+
+https://regex101.com/
+
+
+^(Garnish:?)?\s*([\d½¾¼\/]+(?>(?>\.|\s+)[\d½¾¼\/]+)?)?((?>g|oz)|\s+(?>ounces|ounce|dashes|dash|teaspoon|teaspoons|drops|drop|cup|spritzes|bar spoons|bar spoon))?\s*(.*)$
+^(Garnish:?)?\s*([\d⅛⅓½¾¼\/]+((\.|\s+)[\d⅛⅓½¾¼\/]+)?((g|oz)|\s+(ounces?|dash(es)?|teaspoons?|tablespoons?|drops?|cups?|spritz(es)?|bar\s*spoons?))?)?\s*(.*)$

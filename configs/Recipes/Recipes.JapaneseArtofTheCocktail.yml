@@ -57,7 +57,7 @@ recipes:
     ingredients:
     - 5 ounces Ginger-Lemongrass Tepache 
     - ½ ounce fresh lime juice
-    - 1¾ ounces Butterfly Pea Flower Tea-Infused Banks 5 Island Rum
+    - 1¾ ounces Butterfly Pea Flower Tea-Infused Banks 5-Island Rum
     - "Garnish: dehydrated pineapple wheel"
     steps:
     - Place an ice spear or a stack of ice cubes in a frozen highball stein, then add the tepache and lime juice. Using the back of a barspoon, float the rum on top to create a vibrant purple layer as the top third of the drink. Garnish with a dehydrated pineapple wheel.
@@ -149,7 +149,7 @@ recipes:
     author: Masahiro Urushido
     notes: This is my homage to Portland, Oregon, bartender and author Jeffrey Morgenthaler, who created an improved version of the 1970s-era amaretto sour by cutting its treacly namesake liqueur with a high-proof American whiskey to dry it out. Our riff gets an added kick from a high-proof rye, but our special Katana Kitten touch is the addition of a Salted Plum Shrub, which provides a lingering umami taste and a unique salinity. Despite its subtle flavor, this drink hits all the senses, and that’s why people order it again and again. The final touch is yukari, a Japanese seasoning made from salted and dried red shiso leaves.
     ingredients:
-    - 1¼ ounce Wild Turkey 101 rye
+    - 1¼ ounce Wild Turkey 101 Rye
     - ¾ ounce Lazzaroni amaretto
     - ¾ ounce Salted Plum Shrub
     - ¾ ounce fresh lemon juice
@@ -427,9 +427,9 @@ recipes:
     - ½ ounce Suze gentiane liqueur
     - 1 barspoon Luxardo maraschino liqueur
     - 3 dashes yuzu bitters
-    - "Garnish: orange twist"
+    - "Garnish: Orange twist"
     steps:
-    - Combine the whisky, genever, vermouth, Suze, maraschino liqueur, and bitters in a mixing glass with ice. Stir until chilled and strain into a chilled small coupe. Garnish with an orange twist.
+    - Combine the whisky, genever, vermouth, Suze, maraschino liqueur, and bitters in a mixing glass with ice. Stir until chilled and strain into a chilled small coupe. Garnish with an Orange twist.
     tags:
       - cocktails
       - stirred
@@ -482,7 +482,7 @@ recipes:
     notes: Everyone loves a piña colada. I’m particularly fond of its silky texture, creaminess, and tropical flavors. To give this cocktail a Japanese makeover, my inspiration was the use of goma (sesame seeds). In this cocktail, I use sesame paste, which adds a rich and complex sesame flavor.
     ingredients:
     - ½ ounce Black Sesame–Kokutou Cane Puree, plus more for painting the glass
-    - ¾ ounce Banks 5 Island rum
+    - ¾ ounce Banks 5-Island Rum
     - ¾ ounce Cor Cor Green Okinawan rum or Rhum Clément Première Canne
     - ½ ounce cream sherry
     - 1½ ounces Pineapple Puree
@@ -490,7 +490,7 @@ recipes:
     - ½ ounce fresh lime juice
     - "Garnish: pineapple leaf and red cherry"
     steps:
-    - Prepare a hurricane glass by painting Black Sesame and Kokutou. Paint stripes on its interior. Fill with pebble ice. Combine the Banks 5 Island rum, Okinawan rum, sherry, pineapple puree, Coco López and Amazake Mix, lime juice, and cane puree in a cocktail shaker and shake until chilled. Pour into the prepared hurricane glass. Garnish with a pineapple leaf and a red cherry.
+    - Prepare a hurricane glass by painting Black Sesame and Kokutou. Paint stripes on its interior. Fill with pebble ice. Combine the Banks 5-Island Rum, Okinawan rum, sherry, pineapple puree, Coco López and Amazake Mix, lime juice, and cane puree in a cocktail shaker and shake until chilled. Pour into the prepared hurricane glass. Garnish with a pineapple leaf and a red cherry.
     tags:
       - cocktails
       - shaken
@@ -553,7 +553,7 @@ recipes:
     notes: The inspiration for this cocktail is a classic drink from New Orleans, the Sazerac, which is very spirit-forward. In keeping with its provenance, I wanted to use exclusively American spirits. To give it a Japanese flair, I call for a fresh yuzu twist. Yuzu is traditionally available in fall and winter, but it is now grown in California. At around $3 for a small fruit, its aromatic zest is incomparable. Kakinoki means “persimmon tree” in Japanese. Back home in Minowa, there is an abundance of these trees behind our family home and on the hillside of the nearby mountains. My grandma used to pick persimmons to prepare hoshi gaki, which consisted of the fruit being peeled, smoked, and dried in long rows outside, creating a picturesque orange curtain.
     ingredients:
     - 1¼ ounces Bertoux brandy
-    - 1¼ ounces Old Overholt rye whiskey
+    - 1¼ ounces Old Overholt Rye Whiskey Whiskey
     - ½ ounce Apologue Persimmon bittersweet liqueur
     - 1 barspoon date syrup
     - 3 dashes Sangostura Bitters
@@ -610,14 +610,14 @@ recipes:
       - citrus
   - name: Myoga Fix
     author: Masahiro Urushido
-    notes: Myoga Fixserves oneThis is my take on a classic Gin Daisy cocktail using myoga, a kind of Japanese ginger sprout with a distinctly refreshing flavor. My grandparents cultivated myoga in their garden, and every year, in the spring, it would shoot up flowering buds that we would harvest together, as needed. Traditionally, the buds, which are ruddy bronze on the outside and white within, are finely cut into slivers and are used as a condiment, adorning miso soup, soba noodles, and other dishes. It has a delicate, ginger-like spiciness. In this cocktail, fresh myoga gets muddled, and its herbaceous quality is ramped up with the addition of yellow Chartreuse, which is the defining modifier of the cocktail.
+    notes: Myoga Fixserves oneThis is my take on a classic Gin Daisy cocktail using myoga, a kind of Japanese ginger sprout with a distinctly refreshing flavor. My grandparents cultivated myoga in their garden, and every year, in the spring, it would shoot up flowering buds that we would harvest together, as needed. Traditionally, the buds, which are ruddy bronze on the outside and white within, are finely cut into slivers and are used as a condiment, adorning miso soup, soba noodles, and other dishes. It has a delicate, ginger-like spiciness. In this cocktail, fresh myoga gets muddled, and its herbaceous quality is ramped up with the addition of Yellow Chartreuse, which is the defining modifier of the cocktail.
     ingredients:
     - ½ fresh myoga bud
     - ¼ ounce simple syrup
     - 1½ ounces Suntory Roku gin
     - ¾ ounce Combier liqueur
     - ½ ounce fresh lemon juice
-    - 1 barspoon yellow Chartreuse
+    - 1 barspoon Yellow Chartreuse
     - Pinch of salt
     - Splash of Champagne
     - "Garnish: fresh myoga slice"
@@ -731,9 +731,9 @@ recipes:
     - 3 ounces Charcoal-Roasted Barley and Lapsang Souchong Tea 
     - ½ ounce Vanilla Syrup 
     - 3 dashes Angostura bitters
-    - "Garnish: orange twist"
+    - "Garnish: Orange twist"
     steps:
-    - Build the drink in a double rocks glass by adding the tea, syrup, and bitters over hand-carved ice. Stir until chilled. Garnish with an orange twist.
+    - Build the drink in a double rocks glass by adding the tea, syrup, and bitters over hand-carved ice. Stir until chilled. Garnish with an Orange twist.
     tags:
       - cocktails
       - stirred
@@ -791,7 +791,7 @@ recipes:
     ingredients:
     - 1½ ounces Kakurei junmai ginjo sake umeshu (or substitute another sake-based umeshu)
     - 1½ ounces Cocchi Rosa
-    - ½ ounce Wild Turkey 101 bourbon
+    - ½ ounce Wild Turkey 101 Bourbon
     - 1 teaspoon Trimbach Mirabelle plum brandy
     - "Garnish: brandied cherry"
     steps:
@@ -962,11 +962,11 @@ recipes:
       - citrus
   - name: Hattori Hanzo
     author: Gates Otsuji
-    notes: This cocktail takes its name from the legendary katana-wielding samurai Hattori Hanzo, whose name was memorialized by Quentin Tarantino in Kill Bill. Its creator, Gates Otsuji, is the founder of Controlled Substances, a cocktail and beverage consultancy, and this martini variation exudes a wealth of subtle, delicately nuanced flavors. Gates’s inspiration was his Japanese grandmother’s goma (sesame) pickles, which were present at every family gathering. Here they are incorporated both in the glass and as a garnish. In this cocktail, he calls for “Mirror of Truth,” a lovely sake that dances gently across the palate, with a subtle grassy note to complement the fragrant botanicals of Beefeater 24 gin, especially Japanese sencha. The kombu, added to the pickling brine, provides enough umami to give heft to the cocktail and round out the edges on the palate.
+    notes: This cocktail takes its name from the legendary katana-wielding samurai Hattori Hanzo, whose name was memorialized by Quentin Tarantino in Kill Bill. Its creator, Gates Otsuji, is the founder of Controlled Substances, a cocktail and beverage consultancy, and this martini variation exudes a wealth of subtle, delicately nuanced flavors. Gates’s inspiration was his Japanese grandmother’s goma (sesame) pickles, which were present at every family gathering. Here they are incorporated both in the glass and as a garnish. In this cocktail, he calls for “Mirror of Truth,” a lovely sake that dances gently across the palate, with a subtle grassy note to complement the fragrant botanicals of Beefeater 24 London dry gin, especially Japanese sencha. The kombu, added to the pickling brine, provides enough umami to give heft to the cocktail and round out the edges on the palate.
     ingredients:
     - 2 Fresno chile slices
     - 1 drop sriracha (optional)
-    - 2 ounces Beefeater 24 gin
+    - 2 ounces Beefeater 24 London dry gin
     - 1 ounce Masumi Okuden Kantsukuri “Mirror of Truth” junmai sake
     - ½ ounce Dolin dry vermouth (or substitute Noilly Prat vermouth)
     - ½ ounce Goma Pickle Brine
@@ -1053,9 +1053,9 @@ recipes:
     - 3 brown sugar cubes
     - 2 dashes Angostura bitters
     - 2 ounces Local Whisky Blend
-    - "Garnish: orange twist"
+    - "Garnish: Orange twist"
     steps:
-    - In an old-fashioned glass, muddle the sugar cubes and bitters. Add the whisky and a large cube of ice and stir until the sugar has dissolved and the drink is chilled. Express an orange twist and place it in the cocktail.
+    - In an old-fashioned glass, muddle the sugar cubes and bitters. Add the whisky and a large cube of ice and stir until the sugar has dissolved and the drink is chilled. Express an Orange twist and place it in the cocktail.
     tags:
       - cocktails
       - stirred

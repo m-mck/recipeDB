@@ -61,7 +61,7 @@ recipes:
   - name: Banana Chip-Infused Gosling's Black Seal Rum
     steps: In a container, combine 3 cups of banana chips and one 1-liter bottle of Gosling’s Black Seal rum and stir well. Let stand at room temperature for 24 hours, stirring occasionally. Strain through a cheesecloth-lined sieve, return to the container, and refrigerate overnight. Strain through a cheesecloth-lined fine-mesh sieve.
   - name: Dried Currant-Infused Wild Turkey Rye
-    steps: In a container, combine 3 cups of dried currants and one 750-ml bottle of Wild Turkey rye and stir well. Let stand at room temperature for 48 hours, stirring daily. Strain through a cheesecloth-lined sieve.
+    steps: In a container, combine 3 cups of dried currants and one 750-ml bottle of Wild Turkey Rye and stir well. Let stand at room temperature for 48 hours, stirring daily. Strain through a cheesecloth-lined sieve.
   - name: Fig-Infused Elijah Craig Bourbon
     steps: In a container, muddle 4 fresh figs. Add one 750-ml bottle of Elijah Craig 12-year bourbon and stir well. Let stand for 1 hour, stirring occasionally. Strain through a cheesecloth-lined sieve.
   - name: Fuji Apple-Infused Famous Grouse Scotch
@@ -88,8 +88,8 @@ recipes:
     steps: In a container, combine ½ ounce of dried whole-leaf sage and one 750-ml bottle of Dolin blanc vermouth and stir well. Let stand at room temperature for 1 hour and 15 minutes, stirring occasionally. Strain through a fine-mesh sieve.
   - name: Chamomile-Infused Bianco Vermouth
     steps: In a container, combine 3 heaping tablespoons of loose chamomile tea and one 750-ml bottle of Martini bianco vermouth and stir well. Let stand at room temperature for 1 hour and 45 minutes, stirring occasionally. Strain through a cheesecloth-lined sieve.
-  - name: Chamomile-Infused Old Overholt Rye
-    steps: In a container, combine a heaping ¼ cup of loose chamomile tea and one 1-liter bottle of Old Overholt rye and stir well. Let stand at room temperature for 1 hour and 45 minutes, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Chamomile-Infused Old Overholt Rye Whiskey
+    steps: In a container, combine a heaping ¼ cup of loose chamomile tea and one 1-liter bottle of Old Overholt Rye Whiskey and stir well. Let stand at room temperature for 1 hour and 45 minutes, stirring occasionally. Strain through a cheesecloth-lined sieve.
   - name: Cinnamon Orange Tea-Infused Sweet Vermouth
     steps: In a container, combine 3 heaping tablespoons of loose Market Spice cinnamon-orange tea (marketspice.com) and one 750-ml bottle of Martini sweet vermouth and stir well. Let stand at room temperature for 1 hour and 30 minutes, stirring occasionally. Strain through a cheesecloth-lined sieve.
   - name: Coconut Green Tea-Infused Famous Grouse Scotch
@@ -111,7 +111,7 @@ recipes:
   - name: Coffee-Infused Carpano Antica Formula Vermouth
     steps: In a container, combine 3 tablespoons of whole coffee beans and one 1-liter bottle of Carpano Antica Formula vermouth and stir well. Cover and let stand at room temperature for 24 hours, stirring occasionally. Strain through a cheesecloth-lined sieve.
   - name: Pecan-Infused Buffalo Trace Bourbon
-    steps: Soak 2 cups of pecan halves in cold water for 20 minutes. Preheat the oven to 300°F. Drain the pecans well, then spread them on a rimmed baking sheet. Season with salt, pepper, and cayenne pepper and bake for 20 minutes, stirring occasionally and being careful not to burn the pecans. Let cool to room temperature. In a container, combine the pecans and one 750-ml bottle of Buffalo Trace bourbon and stir well. Let stand at room temperature for 1 week, stirring daily. Strain through a cheesecloth-lined sieve.
+    steps: Soak 2 cups of pecan halves in cold water for 20 minutes. Preheat the oven to 300°F. Drain the pecans well, then spread them on a rimmed baking sheet. Season with salt, pepper, and cayenne pepper and bake for 20 minutes, stirring occasionally and being careful not to burn the pecans. Let cool to room temperature. In a container, combine the pecans and one 750-ml bottle of Buffalo Trace Bourbon and stir well. Let stand at room temperature for 1 week, stirring daily. Strain through a cheesecloth-lined sieve.
   - name: Rose-Infused Lillet Rosé
     steps: In a container, combine 4 heaping tablespoons of dried rosebuds and one 750-ml bottle of Lillet rosé and stir well. Let stand at room temperature for 1 hour and 30 minutes, stirring occasionally. Strain through a fine-mesh sieve.
   - name: Sugar Snap Pea-Infused Plymouth Gin
@@ -165,7 +165,7 @@ recipes:
     - 2 teaspoons Vieux Pontarlier absinthe
 #Miscellany
   - name: Grenadine
-    steps: In a saucepan, combine 4 cups of organic unfiltered, unsweetened pomegranate juice and 3 cups of organic cane sugar (often labeled “evaporated cane juice”; note that this is different from turbinado sugar). Cook over medium heat, stirring constantly and without bringing to a boil, until the sugar is dissolved. Remove from the heat and let cool to room temperature. Transfer to a container and stir in 6 ounces of pomegranate molasses. Squeeze 8 half-dollar-size orange twists over the surface, discarding the twists, and stir well. Store in the refrigerator for up to 2 weeks.
+    steps: In a saucepan, combine 4 cups of organic unfiltered, unsweetened pomegranate juice and 3 cups of organic cane sugar (often labeled “evaporated cane juice”; note that this is different from turbinado sugar). Cook over medium heat, stirring constantly and without bringing to a boil, until the sugar is dissolved. Remove from the heat and let cool to room temperature. Transfer to a container and stir in 6 ounces of pomegranate molasses. Squeeze 8 half-dollar-size Orange twists over the surface, discarding the twists, and stir well. Store in the refrigerator for up to 2 weeks.
   - name: Honey Nut Cheerio-Infused Cream
     steps: In a bowl, combine 2 cups of heavy cream and 2 cups of Honey Nut Cheerios and stir gently. Cover and refrigerate for 1 hour, then strain through a cheesecloth-lined fine-mesh sieve, pressing gently on the Cheerios. Store in the refrigerator for up to 2 days.
   - name: House Horchata

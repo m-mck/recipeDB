@@ -88,7 +88,7 @@ recipes:
   - name: Rye / Bourbon Old-Fashioned
     author: 
     year: 
-    notes: "Today’s widespread experimentation notwithstanding, when you’re talking about an authentic Old-Fashioned, the central debate is always this: rye or bourbon. In the late 1800s and early 1900s, preferences were probably fairly evenly split and depended heavily on region. In the decades after Prohibition, bourbon slowly but surely developed an edge, and rye, thought old-fashioned and somewhat disreputable (The Lost Weekend, etc.), fell into eclipse. In recent years, rye has made a big comeback, so drinkers once again have a choice. Doctrinaire purists tend to insist on rye, thinking it the more historically authentic choice, but both function admirably. Simply put, bourbon will give you a mellower and sweeter cocktail, whereas rye will deliver a bit more spice and kick. Among American whiskeys that provide the best value for their price—and make an outstanding Old-Fashioned—I recommend Elijah Craig 12-year and Henry McKenna single barrel (make sure it’s the bonded) bourbons, and Rittenhouse 100-proof and Bulleit ryes. (McKenna, which can be difficult to find outside Kentucky, strikes a nice balance, spice-wise, between the Elijah Craig and Rittenhouse)."
+    notes: "Today’s widespread experimentation notwithstanding, when you’re talking about an authentic Old-Fashioned, the central debate is always this: rye or bourbon. In the late 1800s and early 1900s, preferences were probably fairly evenly split and depended heavily on region. In the decades after Prohibition, bourbon slowly but surely developed an edge, and rye, thought old-fashioned and somewhat disreputable (The Lost Weekend, etc.), fell into eclipse. In recent years, rye has made a big comeback, so drinkers once again have a choice. Doctrinaire purists tend to insist on rye, thinking it the more historically authentic choice, but both function admirably. Simply put, bourbon will give you a mellower and sweeter cocktail, whereas rye will deliver a bit more spice and kick. Among American whiskeys that provide the best value for their price—and make an outstanding Old-Fashioned—I recommend Elijah Craig 12-year and Henry McKenna single barrel (make sure it’s the bonded) bourbons, and Rittenhouse 100-proof and Bulleit Rye Whiskeys. (McKenna, which can be difficult to find outside Kentucky, strikes a nice balance, spice-wise, between the Elijah Craig and Rittenhouse)."
     ingredients:
     - 2 ounces rye or bourbon
     - 1 sugar cube (or ¼ ounce simple syrup)
@@ -190,7 +190,7 @@ recipes:
     - 1 barspoon agave nectar
     - Orange twist
     steps:
-    - Combine all the ingredients except the orange twist in an Old-Fashioned glass filled with one large ice cube. Stir until chilled. To top with a flamed orange twist, hold a piece of orange peel about the size of a silver dollar, skin side down, over the drink. Light a match and use it to warm the skin side of the peel. Holding the match a few inches above the drink, quickly squeeze the peel in the direction of the match. The oil from the peel will briefly erupt into flame, showering its essence over the drink’s surface.
+    - Combine all the ingredients except the Orange twist in an Old-Fashioned glass filled with one large ice cube. Stir until chilled. To top with a flamed Orange twist, hold a piece of orange peel about the size of a silver dollar, skin side down, over the drink. Light a match and use it to warm the skin side of the peel. Holding the match a few inches above the drink, quickly squeeze the peel in the direction of the match. The oil from the peel will briefly erupt into flame, showering its essence over the drink’s surface.
     tags:
       - old-fashioned
       - stirred
@@ -206,7 +206,7 @@ recipes:
     - 2 dashes Angostura bitters
     - Orange twist
     steps:
-    - Combine all the ingredients except the orange twist in an Old-Fashioned glass. Stir over one large ice cube until chilled. Twist a large piece of orange zest over the drink and drop into the glass.
+    - Combine all the ingredients except the Orange twist in an Old-Fashioned glass. Stir over one large ice cube until chilled. Twist a large piece of orange zest over the drink and drop into the glass.
     tags:
       - old-fashioned
       - stirred
@@ -249,12 +249,12 @@ recipes:
     notes: Miller created this cocktail for one of the waitresses at Death & Co, as her “shift drink” one evening. “Using an Old-Fashioned template, I took four of my favorite spirits at the time—this was before I became a rumhead—and blended them all together,” Miller recalls. “The drink wasn’t perfect the first time I served it, but after finding the perfect bitters combination (the Bittermens mole was the key), I was home free.” The name comes from a 1973 episode of the TV show M*A*S*H called “Deal Me Out.” In an early scene, prior to a “conference” (really a poker game), an officer is offered “Scotch, gin, vodka—for your convenience, all in the same bottle.” The mix of liquors here—actually two whiskies and two brandies—leads to a fetching and surprisingly subtle complexity. It is, indeed, not a battle of spirits but a civilized conference, one in which an assembly of grains and grapes and fruits peaceably convene to talk things out. It may just be me, but I suspect the calvados and cognac have the slight upper hand in this flavor confab. It wouldn’t be the first time the French outtalked everyone else. 
     ingredients:
     - ½ ounce Rittenhouse 100-proof rye
-    - ½ ounce Buffalo Trace bourbon
-    - ½ ounce Busnel VSOP calvados
+    - ½ ounce Buffalo Trace Bourbon
+    - ½ ounce Busnel VSOP Calvados
     - ½ ounce Hine H cognac
     - 1 teaspoon Demerara syrup
     - 2 dashes Angostura bitters
-    - 1 dash Bittermens Xocolatl mole bitters
+    - 1 dash Bittermens Xocolatl Mole Bitters
     - Orange twist
     - Lemon twist
     steps:
@@ -305,7 +305,7 @@ recipes:
     - ¼ ounce Demerara syrup
     - Orange twist
     steps:
-    - Combine all the ingredients except the orange twist in a mixing glass filled with ice and stir until chilled. Strain into a chilled cocktail glass and serve up. Cut a piece of orange peel and lightly squeeze its oils atop the cocktail.
+    - Combine all the ingredients except the Orange twist in a mixing glass filled with ice and stir until chilled. Strain into a chilled cocktail glass and serve up. Cut a piece of orange peel and lightly squeeze its oils atop the cocktail.
     tags:
       - old-fashioned
       - stirred
@@ -321,7 +321,7 @@ recipes:
     - 1 dash Angostura bitters
     - Orange twist
     steps:
-    - Combine all the ingredients except the orange twist in an Old-Fashioned glass with ice and stir until chilled. Twist a large piece of orange zest over the drink and drop into the glass.
+    - Combine all the ingredients except the Orange twist in an Old-Fashioned glass with ice and stir until chilled. Twist a large piece of orange zest over the drink and drop into the glass.
     tags:
       - old-fashioned
       - stirred
@@ -337,7 +337,7 @@ recipes:
     - 3 dashes Peychaud’s bitters
     - Orange peel
     steps:
-    - Combine all the ingredients except the orange twist in a mixing glass filled with ice and stir until chilled. Strain into an ice-filled brandy snifter. To make the garnish, cut several thin strands of orange peel and tie them together with another strand of orange peel, then drop into glass.
+    - Combine all the ingredients except the Orange twist in a mixing glass filled with ice and stir until chilled. Strain into an ice-filled brandy snifter. To make the garnish, cut several thin strands of orange peel and tie them together with another strand of orange peel, then drop into glass.
     tags:
       - old-fashioned
       - stirred
@@ -350,11 +350,11 @@ recipes:
     - 1½ ounces Rittenhouse rye
     - ¼ ounce Amaro CioCiaro
     - ¼ ounce Smoked Demerara Syrup
-    - 1 dash Bittermens Xocolatl mole bitters
+    - 1 dash Bittermens Xocolatl Mole Bitters
     - 1 dash Angostura bitters
     - Orange twist
     steps:
-    - Combine all the ingredients except the orange twist in an Old-Fashioned glass. Add one large chunk of ice and stir until chilled. To top with a flamed orange twist, hold a piece of orange peel about the size of a silver dollar, skin side down, over the drink. Light a match and use it to warm the skin side of the peel. Holding the match a few inches above the drink, quickly squeeze the peel in the direction of the match. The oil from the peel will briefly erupt into flame, showering its essence over the drink’s surface.
+    - Combine all the ingredients except the Orange twist in an Old-Fashioned glass. Add one large chunk of ice and stir until chilled. To top with a flamed Orange twist, hold a piece of orange peel about the size of a silver dollar, skin side down, over the drink. Light a match and use it to warm the skin side of the peel. Holding the match a few inches above the drink, quickly squeeze the peel in the direction of the match. The oil from the peel will briefly erupt into flame, showering its essence over the drink’s surface.
     tags:
       - old-fashioned
       - stirred
@@ -378,7 +378,7 @@ recipes:
   - name: Nuevo Viejo
     author: Jon Santer
     year: 2011
-    notes: This simple drink is a good illustration of how a slight variation in the simple building blocks of the Old-Fashioned can vastly alter the resulting drink. In outline, this is easily recognizable as an Old-Fashioned. But in character, it stands apart from its mainstream brother. The Bank Note blended Scotch—an excellent whiskey considering its very affordable price—is meaty and gamy, lacking the toasty sweet notes of bourbon. The rich maple syrup contributes to the vaguely outdoorsy feel of the cocktail. It’s a broad, boisterous Old-Fashioned with a lot of stick-to-your-ribs body. You’d want this in your camp after a day of deer hunting.If you can’t locate Miracle Mile bitters, which are produced in Los Angeles, Scrappy’s aromatic bitters and Bitter Truth aromatic bitters are recommended as substitutes. 
+    notes: This simple drink is a good illustration of how a slight variation in the simple building blocks of the Old-Fashioned can vastly alter the resulting drink. In outline, this is easily recognizable as an Old-Fashioned. But in character, it stands apart from its mainstream brother. The Bank Note blended Scotch—an excellent whiskey considering its very affordable price—is meaty and gamy, lacking the toasty sweet notes of bourbon. The rich maple syrup contributes to the vaguely outdoorsy feel of the cocktail. It’s a broad, boisterous Old-Fashioned with a lot of stick-to-your-ribs body. You’d want this in your camp after a day of deer hunting.If you can’t locate Miracle Mile bitters, which are produced in Los Angeles, Scrappy’s aromatic bitters and Bitter Truth Aromatic Bitters are recommended as substitutes. 
     ingredients:
       - 2 ounces Bank Note blended Scotch
       - ¼ ounce Grade B maple syrup
@@ -431,7 +431,7 @@ recipes:
     - 2 dashes Angostura bitters
     - Orange twist
     steps:
-    - Combine all the ingredients except the orange twist in an Old-Fashioned glass. Add one large chunk of ice and stir until chilled. Twist a large piece of orange zest over the drink and drop into the glass.
+    - Combine all the ingredients except the Orange twist in an Old-Fashioned glass. Add one large chunk of ice and stir until chilled. Twist a large piece of orange zest over the drink and drop into the glass.
     tags:
       - old-fashioned
       - stirred
@@ -507,7 +507,7 @@ recipes:
     year: 
     notes: The cobbler, a julep-like drink marked by a load of pebbled ice and various fruit adornments, is one of the most adaptable beverage models in cocktail history. The New Orleans bar Bellocq has proven this. Call out any liquor on their backbar, from Chartreuse to Madeira, and they’ll make you a cobbler out of it. Given the Old-Fashioned’s and the cobbler’s shared history with fruit, it was only natural that the two would eventually come together. Says Bellocq owner Kirk Estopinal, the drink takes its cue from the “muddled-style Old-Fashioned, the kind you used to get everywhere before the mixology movement took hold.” The result doesn’t taste very different from an Old-Fashioned with muddled fruit, just a lot more refreshing. The vanilla and powdered sugar turn the fruit “flag” into a candied postdrink treat.
     ingredients:
-    - 2 ounces Buffalo Trace bourbon
+    - 2 ounces Buffalo Trace Bourbon
     - ¼ ounce Demerara syrup
     - 2 dashes Angostura bitters
     - 1 orange wheel (½ inch thick), plus ¼ orange wheel (½ inch thick), for garnish
@@ -528,7 +528,7 @@ recipes:
     - 2 ounces Bruichladdich “Rocks” Scotch whisky
     - ¼ ounce simple syrup
     - 1 dash Peychaud’s bitters
-    - 1 dash Bittermens hopped grapefruit bitters
+    - 1 dash Bittermens Hopped Grapefruit Bitters
     - Orange twist
     - Grapefruit twist
     steps:
@@ -545,7 +545,7 @@ recipes:
     - 1 ounce Rittenhouse rye whiskey
     - 1 ounce Gosling’s Black Seal rum
     - ¼ ounce macadamia nut orgeat
-    - 2 dashes Bittermens Xocolatl mole bitters
+    - 2 dashes Bittermens Xocolatl Mole Bitters
     steps:
     - Combine all the ingredients in a mixing glass filled with ice. Stir until chilled and then strain into a chilled double Old-Fashioned glass over a single chunk of ice. If you happen to have a small umbrella or pirate-themed swizzle stick on hand, that would make an appropriate garnish.
     tags:
@@ -634,7 +634,7 @@ recipes:
     - 2 dashes Angostura bitters
     - Orange twist
     steps:
-    - Combine all the ingredients except the orange twist in a mixing glass filled with ice. Stir until chilled, then strain over one large chunk of ice in an Old-Fashioned glass. Twist a large piece of orange zest over the drink and drop into the glass.
+    - Combine all the ingredients except the Orange twist in a mixing glass filled with ice. Stir until chilled, then strain over one large chunk of ice in an Old-Fashioned glass. Twist a large piece of orange zest over the drink and drop into the glass.
     tags:
       - old-fashioned
       - stirred
@@ -659,13 +659,13 @@ recipes:
     year: 2012
     notes: The Sorghum Old-Fashioned was the very first cocktail that Robert Newton, owner of the Southern-inspired restaurant Seersucker, developed after receiving a full liquor license. “I wanted to create a drink that was classic and yet spoke to the South and the traditions we explore at the restaurant.”
     ingredients:
-    - 2 ounces Old Overholt rye
+    - 2 ounces Old Overholt Rye Whiskey
     - ¼ ounce Sorghum Syrup
     - 2 dashes Dutch’s colonial cocktail bitters
-    - 2 orange twists
+    - 2 Orange twists
     - Brandied cherry, for garnish
     steps:
-    - Combine the syrup, bitters, and 1 orange twist in a mixing glass and muddle. Add the rye, fill the glass with ice, and stir until chilled. Strain into a chilled Old-Fashioned glass over a single chunk of ice. Garnish with the other orange twist and the cherry.
+    - Combine the syrup, bitters, and 1 Orange twist in a mixing glass and muddle. Add the rye, fill the glass with ice, and stir until chilled. Strain into a chilled Old-Fashioned glass over a single chunk of ice. Garnish with the other Orange twist and the cherry.
     tags:
       - old-fashioned
       - stirred
@@ -697,7 +697,7 @@ recipes:
     - Pinch of salt
     - Orange twist
     steps:
-    - Combine all the ingredients except the orange twist in an Old-Fashioned glass. Add one large chunk of ice and stir until chilled. Twist a large piece of orange zest over the drink and drop into the glass.
+    - Combine all the ingredients except the Orange twist in an Old-Fashioned glass. Add one large chunk of ice and stir until chilled. Twist a large piece of orange zest over the drink and drop into the glass.
     tags:
       - old-fashioned
       - stirred
@@ -707,7 +707,7 @@ recipes:
     year: 2013
     notes: Perique is a liqueur made from Louisiana perique, a rare tobacco that had been cultivated in St. James Parish for centuries. Made by distiller Ted Breaux, who spearheaded the rebirth of absinthe, it is made in France and, as of this writing, is not available in the United States. However, its arrival is expected imminently. Soft and floral yet intense in flavor and long in finish, a little Perique is all that’s needed in this simple Old-Fashioned variation. Going on instinct alone, I reached for New Orleans’s own Peychaud’s bitters instead of Angostura, and damned if that wasn’t the right grace note. Local ingredients stick together. I’d suggest drinking this with an evening cigar. But really, the slightly tannic, palate-drying drink is the cigar itself. Have a glass of ice water handy. 
     ingredients:
-    - 2 ounces Buffalo Trace bourbon
+    - 2 ounces Buffalo Trace Bourbon
     - ⅛ ounce (about ¾ teaspoon) Perique liqueur
     - 1 sugar cube (or ¼ ounce simple syrup)
     - 2 dashes Peychaud’s bitters
@@ -721,9 +721,9 @@ recipes:
   - name: The Bartender
     author: Robert Simonson
     year: 2013
-    notes: Given your average modern mixologist’s love for both the Old-Fashioned and the bitter Italian digestivo Fernet Branca, the name of this drink was a foregone conclusion. This is simply an Old-Fashioned with an extra herbal, menthol punch. It’s basically a twist on the Toronto cocktail, except that drink traditionally calls for Canadian whisky and an orange twist, and is served up. I am generally partial to orange twists in my Old-Fashioned, but the extra bite and brightness of a lemon twist is a must here. Given the level of rampant invention in the cocktail community, I have little doubt that this exact drink has already been created by some bartender in some bar somewhere. But that bartender didn’t write this book.
+    notes: Given your average modern mixologist’s love for both the Old-Fashioned and the bitter Italian digestivo Fernet Branca, the name of this drink was a foregone conclusion. This is simply an Old-Fashioned with an extra herbal, menthol punch. It’s basically a twist on the Toronto cocktail, except that drink traditionally calls for Canadian whisky and an Orange twist, and is served up. I am generally partial to Orange twists in my Old-Fashioned, but the extra bite and brightness of a lemon twist is a must here. Given the level of rampant invention in the cocktail community, I have little doubt that this exact drink has already been created by some bartender in some bar somewhere. But that bartender didn’t write this book.
     ingredients:
-    - 2 ounces Buffalo Trace bourbon
+    - 2 ounces Buffalo Trace Bourbon
     - ¼ ounce Fernet Branca
     - 1 sugar cube (or ¼ ounce simple syrup)
     - 2 dashes Angostura bitters

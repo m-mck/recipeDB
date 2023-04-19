@@ -9,6 +9,7 @@ recipes:
     - 2 ounces Willett bourbon
     - ¾ ounce Amaro Nonino
     - 2 dashes Angostura aromatic bitters
+    - Honey foam
     - Shaved cocoa nibs
     steps:
     - In a mixing glass filled with ice, add the bourbon, Amaro Nonino, and bitters. Stir and strain into a chilled coupe glass. Top with the honey foam and shaved cocoa nibs. (We buy them already shaved, but if you can’t find shaved, simply buy cocoa nibs. They are readily available online, and you can shave them with a Microplane.)
@@ -28,7 +29,7 @@ recipes:
     - Orange twist, for garnish
     steps:
     - Add the allspice liqueur to a chilled rocks glass, swirl, and discard the liqueur.
-    - In a mixing glass filled with ice, add the bourbon, Tuaca, rich simple syrup, and bitters. Stir and strain into the rinsed rocks glass. Garnish with an orange twist.
+    - In a mixing glass filled with ice, add the bourbon, Tuaca, rich simple syrup, and bitters. Stir and strain into the rinsed rocks glass. Garnish with an Orange twist.
     tags:
       - canon
       - stirred
@@ -382,11 +383,11 @@ recipes:
     ingredients:
     - 2 ounces Plantation pineapple rum
     - ¾ ounce fresh lime juice
-    - ½ ounce yellow Chartreuse
+    - ½ ounce Yellow Chartreuse
     - 2 dashes Angostura aromatic bitters
     - Fresh pineapple sage leaf or lime wedge, for garnish
     steps:
-    - In a cocktail shaker filled with ice, add the rum, lime juice, yellow Chartreuse, and bitters. Shake and strain into a chilled coupe glass. Garnish with a pineapple sage leaf or lime wedge.
+    - In a cocktail shaker filled with ice, add the rum, lime juice, Yellow Chartreuse, and bitters. Shake and strain into a chilled coupe glass. Garnish with a pineapple sage leaf or lime wedge.
     tags:
       - canon
       - shaken
@@ -441,10 +442,10 @@ recipes:
       - game of roulette
   - name: The Champs-Élysées Cocktail
     author: 
-    notes: I first came across this drink, named after Paris’s touristy boulevard, in Harry Cradock’s beautiful The Savoy Cocktail Book, published in 1930. While a riff on the Sidecar, another drink that may have roots in Paris, the Champs-Élysées Cocktail is infinitely more complex, thanks to the inclusion of Chartreuse. Mr. Craddock never mentioned whether to use green or yellow Chartreuse, but I’ve always been partial to the yellow. If you choose the green, you may need to add a small dash of rich simple syrup.
+    notes: I first came across this drink, named after Paris’s touristy boulevard, in Harry Cradock’s beautiful The Savoy Cocktail Book, published in 1930. While a riff on the Sidecar, another drink that may have roots in Paris, the Champs-Élysées Cocktail is infinitely more complex, thanks to the inclusion of Chartreuse. Mr. Craddock never mentioned whether to use green or Yellow Chartreuse, but I’ve always been partial to the yellow. If you choose the green, you may need to add a small dash of rich simple syrup.
     ingredients:
     - 1½ ounces cognac
-    - ½ ounce yellow Chartreuse
+    - ½ ounce Yellow Chartreuse
     - ½ ounce fresh lemon juice
     - 1 dash Angostura aromatic bitters
     steps:
@@ -511,7 +512,7 @@ recipes:
     ingredients:
     - 1½ ounces Calvados
     - ½ ounce Bénédictine
-    - ½ ounce yellow Chartreuse
+    - ½ ounce Yellow Chartreuse
     - 1 dash fresh lemon juice
     - 1 dash Angostura bitters (optional; if you’re feeling frisky)
     - Cherry, for garnish (optional)
@@ -542,7 +543,7 @@ recipes:
     notes: This drink was originally conceived when I realized no one had ever named a drink after John Lee Hooker’s “One Bourbon, One Scotch, One Beer.” Usually, a song such as this would have a slew of drinks named after it, even though mixing those three ingredients into a tasty cocktail is actually rather difficult. This recipe is a perfect example of the rare time when an idea will come into my head but I have a heck of a time actualizing it. This drink went through many iterations before I decided on this one. Then, when I set it out into the wild, it sold like gangbusters, but not for the reason I expected. Most people were just intrigued to order a Hooker, not realizing the name actually was referring to something else—well, for me, anyway. Luckily, everyone enjoying our cocktail had a happy ending, so we didn’t have to reimburse anyone for disappointment.
     ingredients:
     - 1 ounce bourbon
-    - ½ ounce Averna amaro
+    - ½ ounce Amaro Averna
     - ½ ounce fresh orange juice
     - ¼ ounce Ardbeg single malt Scotch
     - ¼ ounce rich simple syrup (see recipe)
@@ -583,9 +584,9 @@ recipes:
     - 1 ounce bonded apple brandy
     - 1 ounce sweet vermouth
     - 1 dash Angostura aromatic bitters (optional)
-    - Lemon or orange twist, for garnish (optional)
+    - Lemon or Orange twist, for garnish (optional)
     steps:
-    - In a mixing glass filled with ice, add the cognac, brandy, vermouth, and bitters, if desired. Stir and strain into a coupe glass. Garnish with a lemon or an orange twist, if desired.
+    - In a mixing glass filled with ice, add the cognac, brandy, vermouth, and bitters, if desired. Stir and strain into a coupe glass. Garnish with a lemon or an Orange twist, if desired.
     tags:
       - canon
       - classic
@@ -619,7 +620,7 @@ recipes:
     - 2 dashes Angostura aromatic bitters
     - Orange twist, for garnish
     steps:
-    - In a mixing glass filled with ice, add the rum, Bonal Gentiane-Quina, Kahlúa, and both bitters. Stir and strain into a chilled coupe glass. Garnish with an orange twist.
+    - In a mixing glass filled with ice, add the rum, Bonal Gentiane-Quina, Kahlúa, and both bitters. Stir and strain into a chilled coupe glass. Garnish with an Orange twist.
     tags:
       - canon
       - stirred
@@ -635,7 +636,7 @@ recipes:
     - 1 dash Boker’s bitters or Angostura aromatic bitters 
     - Orange twist, for garnish
     steps:
-    - In a mixing glass filled with ice, add the rye, Amer Picon, maraschino liqueur, Bénédictine, and bitters. Stir and strain into a chilled coupe glass. Garnish with an orange twist.
+    - In a mixing glass filled with ice, add the rye, Amer Picon, maraschino liqueur, Bénédictine, and bitters. Stir and strain into a chilled coupe glass. Garnish with an Orange twist.
     tags:
       - canon
       - stirred
@@ -681,9 +682,9 @@ recipes:
     - 1 ounce Lillet Blanc
     - 2 teaspoons lingonberry syrup
     - 2 dashes peach bitters
-    - Lemon or orange twist, for garnish
+    - Lemon or Orange twist, for garnish
     steps:
-    - In a mixing glass filled with ice, add the bourbon, Lillet Blanc, lingonberry syrup, and bitters. Stir and strain into a chilled coupe glass. Garnish with a lemon or orange twist.
+    - In a mixing glass filled with ice, add the bourbon, Lillet Blanc, lingonberry syrup, and bitters. Stir and strain into a chilled coupe glass. Garnish with a lemon or Orange twist.
     tags:
       - canon
       - stirred
@@ -829,7 +830,7 @@ recipes:
     - 1½ ounces chilled soda water
     - Orange twist, for garnish
     steps:
-    - Add the Toucan Mix from an iSi soda siphon to a chilled fizz glass. Fill almost to the top and finish with a good splash of soda water. Garnish with an orange twist.
+    - Add the Toucan Mix from an iSi soda siphon to a chilled fizz glass. Fill almost to the top and finish with a good splash of soda water. Garnish with an Orange twist.
     tags:
       - canon
       - shaken
@@ -1330,7 +1331,7 @@ recipes:
       - ¼ ounce Fernet-Branca
       - Orange twist, for garnish
     steps:
-      - In a mixing glass filled with ice, add the gin, vermouth, and Fernet-Branca. Stir and strain into a chilled coupe glass. Garnish with the orange twist.
+      - In a mixing glass filled with ice, add the gin, vermouth, and Fernet-Branca. Stir and strain into a chilled coupe glass. Garnish with the Orange twist.
     tags:
       - canon
       - aged
@@ -1379,7 +1380,7 @@ recipes:
       - 4 dashes orange bitters
       - Orange twist, for garnish
     steps:
-      - In a mixing glass filled with ice, add the rye, vermouth, Amer Boudreau, and bitters. Stir and strain into a chilled coupe glass. Garnish with an orange twist.
+      - In a mixing glass filled with ice, add the rye, vermouth, Amer Boudreau, and bitters. Stir and strain into a chilled coupe glass. Garnish with an Orange twist.
     tags:
       - canon
       - stirred
@@ -1396,7 +1397,7 @@ recipes:
       - 3 dashes Angostura aromatic bitters
       - Orange twist, for garnish
     steps:
-      - In a mixing glass filled with ice, add the mezcal, vermouth, crème de mûre, and bitters. Stir and strain into a chilled coupe glass. Garnish with an orange twist.
+      - In a mixing glass filled with ice, add the mezcal, vermouth, crème de mûre, and bitters. Stir and strain into a chilled coupe glass. Garnish with an Orange twist.
     tags:
       - canon
       - stirred
@@ -1734,7 +1735,7 @@ recipes:
     ingredients:
       - 1 ounce fig bourbon (see recipe)
       - 1 ounce Cocchi Vermouth di Torino
-      - ½ ounce Averna amaro
+      - ½ ounce Amaro Averna
       - 4 dashes Boker’s Bitters or Angostura aromatic bitters Fig or cherries, for garnish
     steps:
       - In a mixing glass, add the fig bourbon, vermouth, Averna, and bitters. Stir and strain into a chilled coupe glass. Garnish with a fig or cherries.
@@ -1839,7 +1840,7 @@ recipes:
       - 1 ounce Pierre Ferrand 1840 Original Formula cognac
       - ½ ounce Plantation Original Dark rum
       - ½ ounce fresh lemon juice
-      - ¼ ounce yellow Chartreuse
+      - ¼ ounce Yellow Chartreuse
       - ¼ ounce Small Hand Foods pineapple gum syrup
       - 2 dashes Angostura aromatic bitters
       - 1 ounce dry sparkling wine
@@ -2121,15 +2122,15 @@ recipes:
       - canada
   - name: Vancouver
     author: Stan Jones
-    notes: "I was first introduced to this drink, like so many others, by browsing the encyclopedia of recipes in the 1977 edition of Stan Jones’s Complete Bar Guide. The Vancouver cocktail is right up my alley: a twist on the classic Martinez with Bénédictine replacing the maraschino liqueur. Compared to the more familiar maraschino liqueur, Benedictine is a complex herbal made with twenty-seven different plants and spices. If you prefer a drier cocktail, by all means pump up the gin to a full 2 ounces."
+    notes: "I was first introduced to this drink, like so many others, by browsing the encyclopedia of recipes in the 1977 edition of Stan Jones’s Complete Bar Guide. The Vancouver cocktail is right up my alley: a twist on the classic Martinez with Bénédictine replacing the maraschino liqueur. Compared to the more familiar maraschino liqueur, Bénédictine is a complex herbal made with twenty-seven different plants and spices. If you prefer a drier cocktail, by all means pump up the gin to a full 2 ounces."
     ingredients:
       - 1½ ounces gin
       - ¾ ounce sweet vermouth
       - ¼ ounce Bénédictine
       - 2 dashes orange bitters
-      - Lemon or orange twist, for garnish
+      - Lemon or Orange twist, for garnish
     steps:
-      - In a mixing glass filled with ice, add the gin, vermouth, Bénédictine, and bitters. Stir and strain into a chilled coupe glass. Garnish with a lemon or orange twist.
+      - In a mixing glass filled with ice, add the gin, vermouth, Bénédictine, and bitters. Stir and strain into a chilled coupe glass. Garnish with a lemon or Orange twist.
     tags:
       - canon
       - stirred
