@@ -6,7 +6,7 @@ Death & Co: Welcome Home
 ¼ ounce Lejay crème de cassis de Dijon
 ¾ ounce fresh lemon juice
 ½ ounce Demerara Syrup
-2 dashes Miracle Mile Redeye bitters
+2 dashes Miracle Mile Redeye Bitters
 Garnish: 1 lemon wheel and 1 coffee bean
 2 ounces cold seltzer
 4 ounces Alpenglow Cordial
@@ -42,13 +42,13 @@ Garnish 1 grapefruit half wheel
 2 ounces cold seltzer
 1 ounce Cucumber Magnesium Syrup
 1 ounce J. Navarre Vieux Pineau des Charentes
-¾ ounce Tyrconnell single-malt Irish whiskey
+¾ ounce Tyrconnell Single-Malt Irish Whiskey
 ¼ ounce Amaro Montenegro
 ½ teaspoon Chareau aloe liqueur
 Garnish: 1 cucumber slice
 1½ ounces dry sparkling wine
 ¾ ounce Fords gin
-¾ ounce Meletti amaro
+¾ ounce Amaro Meletti
 ½ ounce Cocchi Americano
 ¾ ounce fresh lemon juice
 ¼ ounce simple syrup
@@ -99,7 +99,7 @@ Garnish: 1 lemon wheel
 ½ ounce Reisetbauer hazelnut eau-de-vie
 ¾ ounce Strawberry Syrup
 ½ ounce fresh lemon juice
-1 teaspoon Luxardo maraschino liqueur
+1 teaspoon Luxardo Maraschino Liqueur
 1 ounce Tapiatio 110-proof tequila
 ½ ounce Tapatio Blanco tequila
 ½ ounce Empirical Spirits Habanero Spirit
@@ -125,7 +125,7 @@ Pinch of salt
 1 dash absinthe
 Garnish: 1 mint bouquet
 1 ounce cold seltzer
-1½ ounces Lustau Los Arcos amontillado sherry
+1½ ounces Lustau Los Arcos Amontillado Sherry
 1 ounce Great King St. Glasgow Blend scotch
 2 ounces Tepache
 1 teaspoon acid phosphate
@@ -142,7 +142,7 @@ Garnish: Fennel fronds
 1 ounce cold seltzer
 1 ounce Siembra Valles Ancestral tequila
 ½ ounce Lillet rosé
-½ ounce Tio Pepe fino sherry
+½ ounce Tio Pepe Fino Sherry
 1 ounce Donn’s Mix #1
 ½ ounce fresh lime juice
 1 teaspoon Cane Sugar Syrup
@@ -158,7 +158,7 @@ Garnish: 1 apple slice
 1½ ounces Greenhook Ginsmiths Old Tom gin
 ¾ ounce fresh lime juice
 ½ ounce fresh grapefruit juice
-¼ ounce Massenez crème de pêche peach liqueur
+¼ ounce Massenez Crème de Pêche
 ¼ ounce House Ginger Syrup
 ¼ ounce Cinnamon Syrup
 1 dash Angostura bitters
@@ -188,10 +188,10 @@ Garnish: 1 mint bouquet and 1 lemon wheel
 4 ½ ounces cold seltzer
 1½ ounces Suntory Toki Japanese Whisky
 ½ ounce Glasshouse shiso brandy
-¼ ounce Mathilde Poire pear liqueur
+¼ ounce Mathilde Poire
 1 teaspoon Clear Creek Williams pear brandy
 ¼ ounce simple syrup
-½ teaspoon Malic Acid solution
+½ teaspoon Malic Acid Solution
 Garnish: 1 shiso leaf
 1½ ounces cold seltzer
 1½ ounces Great King St. Glasgow Blend scotch
@@ -199,7 +199,7 @@ Garnish: 1 shiso leaf
 ¾ ounce fresh lemon juice
 ½ ounce Amaro Nonino
 ½ ounce Demerara Syrup
-1 dash Miracle Mile Redeye bitters
+1 dash Miracle Mile Redeye Bitters
 Garnish: 1 dehydrated lemon wheel
 1 lime wedge
 Aleppo salt (equal parts Aleppo pepper and kosher salt)
@@ -213,7 +213,7 @@ Aleppo salt (equal parts Aleppo pepper and kosher salt)
 Garnish: 1 dehydrated lemon wheel
 1½ ounces Plymouth Navy Strength gin
 2 teaspoons Giffard crème de pamplemousse rose
-½ teaspoon Luxardo maraschino liqueur
+½ teaspoon Luxardo Maraschino Liqueur
 ½ teaspoon Clear Creek Douglas Fir eau-de-vie
 5 ounces Fever Tree tonic
 Garnish: 1 lime wedge
@@ -275,7 +275,7 @@ Garnish: 1 strawberry and 1 orange wheel
 ¼ ounce simple syrup
 Garnish: 1 dehydrated apple slice
 2 ounces Isastegi Spanish cider
-1½ ounces Linie aquavit
+1½ ounces Linie Aquavit
 ½ ounce Laird’s bonded apple brandy
 ¾ ounce fresh lemon juice
 ½ ounce Demerara Syrup
@@ -576,7 +576,7 @@ Garnish: 1 grapefruit twist
 1 dash Dale DeGroff's pimento bitters 
 Garnish: 1 lime wheel
 1 ounce Singani 63 eau-de-vie
-1 ounce Lustau Los Arcos amontillado sherry 
+1 ounce Lustau Los Arcos Amontillado Sherry 
 ¾ ounce House Ginger Syrup
 ½ ounce fresh lime juice 
 2 dashes absinthe
@@ -662,7 +662,7 @@ Garnish: Peychaud's bitters
 1 teaspoon Fernet-Branca 
 Garnish: 2 pineapple fronds and 1 cinnamon lick
 1 ounce Chamomile-Infused Armagnac 
-1 ounce Tanqueray London dry gin 
+1 ounce Tanqueray London Dry gin 
 ½ ounce fresh pineapple juice 
 ½ ounce fresh lemon juice
 ½ ounce Cinnamon Syrup 
@@ -722,7 +722,7 @@ Garnish: 1 mint bouquet
 Garnish: Crushed pistachio
 1½ ounces Knappogue Castle 12-year Irish whiskey
 ½ ounce Reisetbauer hazelnut eau-de-vie
-¼ ounce Mathilde Poire pear liqueur
+¼ ounce Mathilde Poire
 ¾ ounce fresh lemon juice 
 ½ ounce Cane Sugar Syrup
 ½ dash Scrappy's lavender bitters 
@@ -745,7 +745,7 @@ Garnish: 1 fresh bay leaf
 ¼ ounce fresh lime juice 
 1 dash orange flower water
 Garnish: 1 lime wedge
-1½ ounces Lustau Los Arcos amontillado sherry
+1½ ounces Lustau Los Arcos Amontillado Sherry
 ½ ounce Nuestra Soledad mezcal
 ¾ ounce fresh lemon juice
 ½ ounce Cane Sugar Syrup
@@ -765,7 +765,7 @@ Garnish: Peychaud's bitters
 1½ ounces cold seltzer
 Garnish: 1 lemon wheel
 1½ ounces Old Overholt Rye Whiskey 
-¾ ounce Lustau Papirusa manzanilla sherry
+¾ ounce Lustau Papirusa Manzanilla Sherry
 ½ ounce Damoiseau VSOP rhum 
 1 ounce fresh green apple juice 
 ¾ ounce fresh lime juice 
@@ -786,7 +786,7 @@ Garnish: 1 lemon wheel
 1 teaspoon acid phosphate
 ½ teaspoon Citric Acid Solution
 1 dash Salt Solution
-1½ ounces Monkey 47 Schwarzwald dry gin 
+1½ ounces Monkey 47 Schwarzwald Dry Gin 
 ¼ ounce Reisetbauer carrot eau-de-vie
 ½ ounce Coco López cream of coconut
 ½ ounce fresh lemon juice 
@@ -820,7 +820,7 @@ Garnish: 1 orchid flower and 1 lemon wheel
 ½ ounce Zurbaran cream sherry 
 ½ ounce fresh pineapple juice
 ½ teaspoon Cruzan Black Strap rum
-1½ ounces Linie aquavit
+1½ ounces Linie Aquavit
 ½ ounce Gosling's Black Seal rum
 ¾ ounce fresh lemon juice
 ¼ ounce Cinnamon Syrup
@@ -893,11 +893,11 @@ Garnish: 1 lime wedge
 1½ ounces Spent Citrus Cordial
 2 dashes Suze orange bitters 
 Garnish: 1 dehydrated orange slice
-1½ ounces Lustau Los Arcos amontillado sherry 
+1½ ounces Lustau Los Arcos Amontillado Sherry 
 ¼ ounce House Orgeat 
 ¼ ounce Honey Syrup 
 ¼ ounce House Ginger Syrup
-½ ounce Linie aquavit 
+½ ounce Linie Aquavit 
 ½ ounce Reisetbauer carrot eau-de-vie
 ¾ ounce fresh lemon juice
 1 dash Bitter Truth Aromatic Bitters 
@@ -1026,13 +1026,13 @@ Garnish: Summer Royal tea and 1 orchid flower
 ½ ounce fresh pineapple juice
 Garnish: 1 pineapple wedge dashed with Giffard banane du Brésil
 1 ounce Highland Park 12-year single-malt scotch 
-1 ounce Lustau Los Arcos amontillado sherry
+1 ounce Lustau Los Arcos Amontillado Sherry
 ¾ ounce fresh lemon juice 
 ½ ounce House Ginger Syrup
 ½ ounce Velvet falernum 
 ¼ ounce Giffard Muroise du Val de Loire
 Garnish: 1 mint leaf
-1 ounce Monkey Shoulder Blended Malt scotch
+1 ounce Monkey Shoulder Blended Malt Scotch
 ½ ounce Wyoming Whiskey 
 ½ ounce Clear Creek Blue Plum brandy
 ¾ ounce fresh lemon juice
@@ -1047,7 +1047,7 @@ Garnish: 1 mint leaf
 ¾ ounce Appleton V/X Jamaican rum 
 ¾ ounce Wild Turkey 101 rye
 ¼ ounce Lemon Hart 151 rum 
-¼ ounce Lustau Los Arcos amontillado sherry
+¼ ounce Lustau Los Arcos Amontillado Sherry
 ¾ ounce fresh lemon juice
 ½ ounce fresh pineapple juice 
 ¼ ounce Cane Sugar Syrup
@@ -1055,7 +1055,7 @@ Garnish: 1 mint leaf
 ¼ ounce Cinnamon Syrup
 Garnish: Angostura and Peychaud's bitters, and 1 pineapple wedge
 1 ounce Spring44 vodka 
-1 ounce Tio Pepe fino sherry
+1 ounce Tio Pepe Fino Sherry
 1 teaspoon Chareau aloe liqueur
 1 teaspoon yellow Chartreuse 
 1 ounce Strawberry Aloe Syrup
@@ -1255,12 +1255,12 @@ Garnish: 1 Granny Smith apple slice
 1 ounce Rhine Hall mango brandy 
 ¾ ounce Plantation 3 Stars white rum
 ¼ ounce Neisson rhum agricole blanc
-¼ ounce Luxardo maraschino liqueur 
+¼ ounce Luxardo Maraschino Liqueur 
 ½ ounce Pineapple Gum Syrup
 ¾ ounce fresh lime juice
 2 dashes Peychaud's bitters
 6 to 8 mint leaves
-1½ ounces Bombay London dry gin
+1½ ounces Bombay London Dry gin
 ½ ounce Suze
 ¾ ounce fresh lemon juice
 ¾ ounce House Ginger Syrup
@@ -1272,7 +1272,7 @@ Garnish: Angostura and Peychaud's bitters, and 1 mint bouquet
 ¾ ounce fresh lime juice 
 ½ ounce Madras Curry Syrup 
 1 dash Angostura bitters
-1 ounce Lustau Los Arcos amontillado sherry
+1 ounce Lustau Los Arcos Amontillado Sherry
 ½ ounce Bertoux brandy
 1 teaspoon Batavia arrack
 1 teaspoon Giffard banane du Brésil
@@ -1327,7 +1327,7 @@ Garnish: 1 dehydrated orange slice
 1 dash Bitter End Moroccan Bitters
 1 ounce Siembra Valles High-Proof tequila
 1 ounce Del Maguey Santo Domingo Albarradas mezcal
-1 teaspoon Massenez crème de pêche peach liqueur
+1 teaspoon Massenez Crème de Pêche
 ¾ ounce fresh lime juice
 ¾ ounce fresh pineapple juice 
 ½ ounce Passion Fruit Syrup 
@@ -1356,7 +1356,7 @@ Garnish: 2 kiwi slices
 1 dash Angostura bitters
 Garnish: 1 cinnamon stick
 1 orange wheel
-2 ounces Lustau Palo Cortado Peninsula
+2 ounces Lustau Palo Cortado Península Sherry
 1 ounce Old Forester Signature bourbon
 ½ ounce Giffard banane du Brésil 
 ¼ ounce Ramazzotti
@@ -1383,7 +1383,7 @@ Garnish: 1 lime wheel and 1 mint bouquet
 ¾ ounce Raspberry Syrup
 1 egg white
 Garnish: Raspberry powder (see above)
-7½ ounces Tyrconnell single malt Irish whiskey
+7½ ounces Tyrconnell Single-Malt Irish Whiskey
 3 ¾ ounces Watermelon Syrup (page 288) 
 3 ¾ ounces Cocchi Americano
 3 ¾ ounces fresh lemon juice 
@@ -1439,7 +1439,7 @@ Garnish: 1 curry leaf
 ¾ ounce fresh lemon juice 
 ½ ounce simple syrup
 Garnish: 1 cucumber slice
-½ ounces Monkey Shoulder Blended Malt scotch 
+½ ounces Monkey Shoulder Blended Malt Scotch 
 ½ ounce Wyoming Whiskey 
 ½ ounce Cappelletti Vino Aperitivo
 ¾ ounce fresh lime juice
@@ -1466,14 +1466,14 @@ Garnish: 1 lime wheel
 1½ ounces Rittenhouse rye
 ½ ounce Amaro Averna
 ¾ teaspoon Leopold Bros. New York sour apple liqueur
-¾ teaspoon Luxardo maraschino liqueur 
+¾ teaspoon Luxardo Maraschino Liqueur 
 ¾ ounce fresh lemon juice
 ½ ounce Vanilla Syrup
 2 ounces Tanqueray gin 
 1 ounce fresh lime juice
 ½ ounce fresh grapefruit juice 
 ½ ounce Cane Sugar Syrup
-¼ ounce Luxardo maraschino liqueur
+¼ ounce Luxardo Maraschino Liqueur
 1 dash Bitter Truth Jerry Thomas' Own Decanter Bitters
 1 makrut lime leaf
 1½ ounces Tapatío Blanco 110 tequila
@@ -1529,7 +1529,7 @@ Garnish: 1 grapefruit twist
 ½ ounce fresh lemon juice 
 ½ ounce fresh Granny Smith apple juice
 3 cucumber slices
-1½ ounces Lustau Papirusa manzanilla sherry
+1½ ounces Lustau Papirusa Manzanilla Sherry
 ½ ounce Mahon gin
 1 teaspoon yellow Chartreuse
 ¾ ounce fresh lemon juice
@@ -1588,7 +1588,7 @@ Garnish: 1 grapefruit twist
 ¼ ounce House Orgeat 
 Garnish: Dried chamomile
 2 ounces El Tesoro Reposado tequila
-½ ounce Meletti amaro
+½ ounce Amaro Meletti
 1 teaspoon Galliano Ristretto
 1 teaspoon Vanilla Syrup 
 1 dash Bittermens Xocolatl Mole Bitters
@@ -1653,12 +1653,12 @@ Garnish: 1 lemon twist
 ½ ounce Avuá Amburana cachaça
 ¼ ounce Galliano Ristretto 
 ¼ ounce yellow Chartreuse
-1 dash Miracle Mile Redeye bitters 
+1 dash Miracle Mile Redeye Bitters 
 1 dash absinthe
 Garnish: 1 Orange twist
 1 ounce Rhine Hall mango brandy 
 1 ounce Bols genever
-1 teaspoon Luxardo maraschino liqueur
+1 teaspoon Luxardo Maraschino Liqueur
 ½ teaspoon Honey Syrup 
 1 dash House Orange Bitters
 1 dash absinthe
@@ -1674,7 +1674,7 @@ Garnish: 1 mint bouquet
 ½ ounce Bertoux brandy
 ¼ ounce Anchor Hophead vodka
 1 teaspoon Pineapple Gum Syrup
-½ teaspoon Luxardo maraschino liqueur
+½ teaspoon Luxardo Maraschino Liqueur
 1 dash Bitter Truth peach bitters 
 Garnish: 1 lemon twist
 1 ounce Pierre Ferrand 1840 cognac
@@ -1702,14 +1702,14 @@ Garnish: 1 mint bouquet, 1 orange half wheel, 1 apple slice, powdered sugar, and
 1 teaspoon Orgeat Works Macadamia Nut Syrup
 ½ teaspoon Trader Vic's macadamia nut liqueur
 Garnish: 1 Orange twist
-1½ ounces Tyrconnell single malt Irish whiskey
+1½ ounces Tyrconnell Single-Malt Irish Whiskey
 ½ ounce Navazos Palazzi oloroso rum
 2 teaspoons Gonzáles Ximénez sherry Byass Pedro
 1 teaspoon Tempus Fugit crème de banane
 Garnish: 1 Orange twist
 1 ounce Barrell Whiskey Batch 004 
 1 ounce El Dorado 15-year Demerara rum
-2 teaspoons Luxardo maraschino liqueur
+2 teaspoons Luxardo Maraschino Liqueur
 1 teaspoon Giffard passion fruit liqueur
 1 dash Bittermens 'Elemakule Tiki Bitters 
 Garnish: 1 grapefruit twist
@@ -1780,7 +1780,7 @@ Garnish: 1 mint bouquet and 1 orange half wheel
 1 teaspoon Cane Sugar Syrup
 1 dash House Orange Bitters
 1½ ounces Russell's Reserve 10-year bourbon
-½ ounce Linie aquavit
+½ ounce Linie Aquavit
 1 teaspoon Reisetbauer carrot eau-de-vie
 1 teaspoon Trader Vic's macadamia nut liqueur
 1 teaspoon House Orgeat
@@ -1855,12 +1855,12 @@ Garnish: 1 lemon twist and 1 Orange twist
 ½ ounce Peach Street Peach brandy
 ½ ounce Hidalgo Gobernador oloroso
 ¼ ounce Amaro Ciociaro 
-¼ ounce Massenez crème de pêche peach liqueur
+¼ ounce Massenez Crème de Pêche
 ¼ ounce Honey Syrup
 Garnish: 1 mint bouquet and 1 peach slice
 1 lemon wheel
 2 ounces Choya Kokuto umeshu
-1 ounce Lustau Los Arcos amontillado sherry
+1 ounce Lustau Los Arcos Amontillado Sherry
 ¼ ounce Dolin Génépy des Alpes liqueur
 ¼ ounce Cane Sugar Syrup
 Garnish: 1 lemon wheel, 1 apple slice, and 1 mint bouquet
@@ -1876,7 +1876,7 @@ Absinthe, to rinse
 ½ ounce Rittenhouse rye
 ½ ounce Jean-Luc Pasquet Marie-Framboise
 1 teaspoon Demerara Syrup
-2 dashes Miracle Mile Redeye bitters 
+2 dashes Miracle Mile Redeye Bitters 
 Garnish: 1 lemon twist
 1½ ounces Quinta do Infantado white porto
 1½ ounces Alvear Festival pale cream sherry
@@ -1900,7 +1900,7 @@ Garnish: 1 Orange twist
 1½ ounces Pistachio-Infused Rittenhouse Rye
 ½ ounce Pierre Ferrand 1840 cognac 
 1 teaspoon Demerara Syrup
-½ teaspoon Massenez crème de pêche peach liqueur
+½ teaspoon Massenez Crème de Pêche
 2 dashes Angostura bitters
 Garnish: 1 Orange twist and 1 lemon twist
 6 to 8 mint leaves
@@ -2026,7 +2026,7 @@ Reisetbauer carrot eau-de-vie, to rinse
 1 dash Bitter Truth Celery Bitters
 Garnish: 1 lemon twist
 Laphroaig 10-year scotch, to rinse
-1 ¼ ounces Monkey Shoulder scotch 
+1 ¼ ounces Monkey Shoulder Blended Malt Scotch 
 ½ ounce Pierre Ferrand 1840 cognac 
 ¼ ounce Brugal 1888 rum 
 ¼ ounce Drambuie
@@ -2080,7 +2080,7 @@ Absinthe, to rinse
 1 teaspoon Marie Brizard white crème de cacao 
 ½ teaspoon Demerara Syrup
 ½ ounce Old Grand-Dad 114 bourbon 
-½ ounce Tyrconnell single malt Irish whiskey
+½ ounce Tyrconnell Single-Malt Irish Whiskey
 ½ ounce Highland Park 12-year scotch
 ½ ounce Hibiki 12-year blended single malt Japanese whisky
 1 teaspoon Cinnamon Syrup
@@ -2138,7 +2138,7 @@ Garnish: 1 grapefruit twist
 1 teaspoon Granada-Vallet bitter pomegranate liqueur 
 1 teaspoon Galliano Ristretto
 Garnish: 1 grapefruit twist
-1½ ounces Lustau Los Arcos amontillado sherry
+1½ ounces Lustau Los Arcos Amontillado Sherry
 1½ ounces Byrrh Gran Quinquina 
 ¼ ounce Blume Marillen apricot eau-de-vie
 1 teaspoon Demerara Syrup
@@ -2147,7 +2147,7 @@ Garnish: 1 lemon twist
 1½ ounces St. George Dry Rye reposado gin 
 ¾ ounce Hangar One Buddha's Hand vodka
 ½ ounce Cocchi Americano
-1 teaspoon Luxardo maraschino liqueur
+1 teaspoon Luxardo Maraschino Liqueur
 1 dash House Orange Bitters
 1 dash absinthe
 Garnish: 1 lemon twist
@@ -2189,14 +2189,14 @@ Garnish: 1 mint bouquet
 1 ounce Red Verjus Syrup 
 1 teaspoon Cane Sugar Syrup
 Garnish: 1 orange half wheel
-1½ ounces Monkey Shoulder blended scotch
+1½ ounces Monkey Shoulder Blended Malt Scotch
 ¾ ounce Punt e Mes
-½ ounce Linie aquavit
+½ ounce Linie Aquavit
 1 teaspoon Giffard Abricot du Roussillon
 ½ teaspoon kümmel 
 Garnish: 1 lemon twist
 ¾ ounce Rittenhouse rye 
-¾ ounce Linie aquavit 
+¾ ounce Linie Aquavit 
 ½ ounce Cocchi Americano 
 ½ ounce Rare Wine Co. Boston Bual madeira
 ½ ounce Amaro Nardini
@@ -2232,17 +2232,17 @@ Sombra mezcal, to rinse
 ¾ ounce Carpano Antica Formula vermouth
 ½ ounce Hidalgo oloroso sherry 
 ¼ ounce Cynar
-1 teaspoon Luxardo maraschino liqueur
+1 teaspoon Luxardo Maraschino Liqueur
 Garnish: 1 lemon twist
 1½ ounces Suntory Roku gin 
 1½ ounces Lillet rosé
 ½ ounce Clear Creek pear brandy 
-1 teaspoon Luxardo maraschino liqueur
+1 teaspoon Luxardo Maraschino Liqueur
 1 dash Scrappy's grapefruit bitters 
 Garnish: 1 grapefruit twist
 1 ounce Del Maguey Chichicapa mezcal
 1 ounce Amaro Nardini
-1 ounce Lustau Los Arcos amontillado sherry
+1 ounce Lustau Los Arcos Amontillado Sherry
 1½ ounces Lemorton Pommeau de Normandie
 1½ ounces Escubac Botanical Spirit 
 ½ ounce Leopold Bros. New York sour apple liqueur
@@ -2265,18 +2265,18 @@ Garnish: 1 lemon twist
 Garnish: 1 apple fan
 1 ounce Asahiyama Junmai sake
 1 ounce Beniotome shochu 
-½ ounce Mathilde Poire pear liqueur 
+½ ounce Mathilde Poire 
 ½ ounce Trimbach Mirabelle plum eau-de-vie
 1 teaspoon Laphroaig 10-year scotch 
 1 dash House Orange Bitters
-1½ ounces Tyrconnell single malt Irish whiskey
+1½ ounces Tyrconnell Single-Malt Irish Whiskey
 ½ ounce Rittenhouse rye
 ½ ounce Cappelletti Vino Aperitivo 
 ½ ounce Carpano Antica Formula vermouth
 ½ teaspoon Dupont Aigre Doux
 2 dashes Angostura bitters 
 Garnish: 1 lemon twist
-1½ ounces Linie aquavit
+1½ ounces Linie Aquavit
 1 ounce Cocchi vermouth di Torino
 ¾ ounce Cynar
 1 teaspoon Reisetbauer carrot eau-de-vie 
@@ -2327,7 +2327,7 @@ Garnish: 1 Orange twist
 ¾ ounce Carpano Antica Formula vermouth
 ¼ ounce Vanilla Syrup
 1 drop Terra Spice root beer extract 
-1 dash Miracle Mile pecan bitters
+1 dash Miracle Mile Pecan Bitters
 Garnish: 1 Orange twist
 1½ ounces Dorothy Parker gin 
 1½ ounces Kamoizumi umeshu
@@ -2344,7 +2344,7 @@ Garnish: 1 Orange twist and 1 brandied cherry
 1½ ounces Craft Distillers DSP CA 162 vodka
 1 ounce Silver Needle Tea-Infused Dolin Blanc Vermouth 
 ½ ounce Ransom Gewürztraminer grappa
-1 dash Miracle Mile cucumber/orris root bitters
+1 dash Miracle Mile Cucumber Bitters
 Garnish: 1 cucumber slice
 1 ounce Rittenhouse rye 
 1 ounce Laird's bonded apple brandy
@@ -2380,7 +2380,7 @@ Garnish: 1 Orange twist
 1½ ounces Mizu lemongrass shochu 
 ¾ ounce St. George All-Purpose vodka
 ¾ ounce Cocchi Americano 
-½ teaspoon Luxardo maraschino liqueur 
+½ teaspoon Luxardo Maraschino Liqueur 
 ½ teaspoon kirschwasser
 1 dash House Orange Bitters
 1 dash absinthe
@@ -2400,7 +2400,7 @@ Garnish: 1 Orange twist
 1 ounce Taylor Fladgate ruby port 
 ½ ounce Carpano Antica Formula vermouth
 1 teaspoon Kronan Swedish Punsch 
-2 dashes Miracle Mile Redeye bitters 
+2 dashes Miracle Mile Redeye Bitters 
 Garnish: 1 brandied cherry
 1½ ounces Siembra Valles Ancestral tequila
 ¾ ounce Cocchi vermouth di Torino 
@@ -2453,7 +2453,7 @@ Garnish: 1 lemon twist
 1 ¼ ounces Domaine d'Esperance blanche Armagnac
 ¾ ounce Pineapple-Infused Tanqueray Gin
 ¾ ounce Cocchi vermouth di Torino
-1 teaspoon Luxardo maraschino liqueur
+1 teaspoon Luxardo Maraschino Liqueur
 1 dash absinthe 
 Garnish: 1 lemon twist
 1½ ounces Domaine du Manoir de Montreuil calvados
@@ -2502,11 +2502,11 @@ Garnish: Dashi Kombu-Infused Pear Brandy in an atomizer
 ¾ ounce Orleans Borbon manzanilla sherry
 ¾ ounce Dolin blanc vermouth 
 ¼ ounce green Chartreuse
-½ teaspoon Luxardo maraschino liqueur
+½ teaspoon Luxardo Maraschino Liqueur
 1 dash absinthe
 Garnish: 1 lemon twist
 2 ounces Imbue bittersweet vermouth
-¾ ounce Monkey 47 Schwarzwald dry gin
+¾ ounce Monkey 47 Schwarzwald Dry Gin
 ½ ounce Mandarine Napoléon liqueur 
 1 teaspoon Marie Brizard white crème de cacao
 1 dash House Orange Bitters
@@ -2525,7 +2525,7 @@ Garnish: 1 Orange twist
 Garnish: 1 Orange twist
 1½ ounces Noilly Prat extra dry vermouth
 1 ounce Cadenhead's Old Raj gin
-1 ounce Tio Pepe fino sherry 
+1 ounce Tio Pepe Fino Sherry 
 ¼ ounce extra-virgin olive oil 
 Garnish: 1 olive
 ¾ ounce Navazos Palazzi oloroso rum
@@ -2547,7 +2547,7 @@ Garnish: 1 grapefruit twist and 1 rhubarb ribbon on a skewer
 ½ teaspoon Clear Creek framboise eau-de-vie
 Garnish: 1 lemon twist and 1 raspberry
 1¾ ounces Suntory Haku vodka
-1 ounce Lustau Jarana fino sherry 
+1 ounce Lustau Jarana Fino Sherry 
 ¼ ounce El Dorado 3-year rum
 1 teaspoon Giffard passion fruit liqueur
 1 teaspoon Cinnamon Syrup
@@ -2558,7 +2558,7 @@ Garnish: 1 grapefruit twist
 ½ ounce Connemara Irish whisky 
 1 teaspoon Orgeat Works Macadamia Nut Syrup
 1 dash Angostura bitters
-1 dash Miracle Mile pecan bitters
+1 dash Miracle Mile Pecan Bitters
 1½ ounces Rittenhouse rye
 ¾ ounce Dolin blanc vermouth
 ¾ ounce Cappelletti Pasubio vino amaro
@@ -2638,7 +2638,7 @@ Garnish: 1 lemon twist
 1 teaspoon Cyril Zangs 00 apple cider eau-de-vie
 4 dashes absinthe
 Garnish: 1 lemon twist
-1½ ounces Monkey 47 Schwarzwald dry gin
+1½ ounces Monkey 47 Schwarzwald Dry Gin
 ¼ ounces Tozai Blossom of Peace plum wine 
 ¼ ounce Giffard Lichi-Li lychee liqueur
 1 teaspoon Rhine Hall mango brandy 
@@ -2649,7 +2649,7 @@ Garnish: 1 umeboshi plum
 1 ounce Domaine du Manoir de Montreuil Réserve calvados
 ¾ ounce Noilly Prat Ambré vermouth
 14 ounce Clear Creek cranberry liqueur
-1 teaspoon Luxardo maraschino liqueur
+1 teaspoon Luxardo Maraschino Liqueur
 1 dash House Orange Bitters
 Garnish: 1 Orange twist
 1 ounce Del Maguey Santo Domingo Albarradas mezcal
@@ -2658,7 +2658,7 @@ Garnish: 1 Orange twist
 ¼ ounce Giffard crème de pamplemousse rose
 ½ teaspoon Aperol 
 Garnish: 1 lemon twist
-1½ ounces Tyrconnell single malt Irish whiskey
+1½ ounces Tyrconnell Single-Malt Irish Whiskey
 ½ ounce Redbreast 12-year Irish whiskey
 ½ ounce Lustau manzanilla sherry
 ½ ounce Dolin blanc vermouth
@@ -2670,7 +2670,7 @@ Garnish: 1 lemon twist
 Garnish: 1 lemon twist
 1¾ ounces Beefeater London Dry gin
 ¼ ounce Clear Creek pear eau-de-vie
-1 teaspoon Mathilde Poire pear liqueur
+1 teaspoon Mathilde Poire
 ¾ ounce Cocchi Americano
 1 drop Terra Spice eucalyptus extract 
 Garnish: 1 lemon twist
@@ -2695,14 +2695,14 @@ Garnish: 1 lemon twist
 1 dash Angostura bitters 
 Garnish: 1 lemon twist
 1 ounce Siembra Valles Blanco tequila
-1 ounce Monkey 47 Schwarzwald dry gin
+1 ounce Monkey 47 Schwarzwald Dry Gin
 1 ounce Noilly Prat dry vermouth
 ¼ ounce green Chartreuse
 1 shiso leaf
 Garnish: 1 shiso leaf
 1½ ounces Cynar
 1 ounce El Dorado 8-year rum 
-1 teaspoon Luxardo maraschino liqueur
+1 teaspoon Luxardo Maraschino Liqueur
 ½ ounce Appleton Estate Signature Blend Jamaica rum
 ½ teaspoon Fernet-Branca 
 ½ dash Salt Solution
@@ -2741,19 +2741,19 @@ Garnish: 1 apple slice
 ½ ounce Pasquet Marie-Framboise
 1 teaspoon Massenez framboise eau-de-vie
 Garnish: 1 raspberry
-1½ ounces Linie aquavit
+1½ ounces Linie Aquavit
 ¾ ounce Morenita cream sherry 
 ¼ ounce Forthave Spirits Marseille amaro
 ¼ ounce Giffard banane du Brésil 
 Garnish: 1 Orange twist
-1½ ounces Louis Roque La Vielle prune eau-de-vie
+1½ ounces Louis Roque La Vieille prune eau-de-vie
 ½ ounce Amrut cask-strength single malt Indian whisky
 ½ ounce Cocchi vermouth di Torino 
 ½ ounce Henriques & Henriques 5-year vino generoso doce madeira 
 ¼ ounce Amaro Nardini
 Garnish: 1 lemon twist
 1 ounce Wild Turkey 101 rye
-1 ounce Linie aquavit
+1 ounce Linie Aquavit
 ¾ ounce Carpano Antica Formula vermouth
 ¼ ounce Kalani Ron de Coco coconut liqueur
 1 dash Bitter Truth Celery Bitters
@@ -2774,7 +2774,7 @@ Garnish: 1 lemon twist
 1 dash absinthe 
 Garnish: 1 lemon twist
 1 ounce Wild Turkey 101 rye
-1 ounce Linie aquavit 
+1 ounce Linie Aquavit 
 ¾ ounce Carpano Antica Formula vermouth
 ¼ ounce Giffard rhubarb liqueur
 1 teaspoon Combier crème de rose
@@ -2906,7 +2906,7 @@ Garnish: Tropic of Capricorn green tea leaves
 1 egg white
 ½ teaspoon Caffo Amaretto
 ¾ ounce Pierre Ferrand ambré cognac
-¾ ounce Linie aquavit 
+¾ ounce Linie Aquavit 
 ¾ ounce Peanut-Infused Lustau Don Nuño Oloroso Sherry
 ½ ounce Cane Sugar Syrup
 ¼ ounce fresh lemon juice
@@ -2914,7 +2914,7 @@ Garnish: Tropic of Capricorn green tea leaves
 Garnish: 1 piece of peanut brittle
 1½ ounces Elijah Craig 12-year bourbon
 ½ ounce Gamle Ode dill aquavit 
-1 teaspoon Massenez crème de pêche peach liqueur 
+1 teaspoon Massenez Crème de Pêche 
 ½ teaspoon Giffard menthe-pastille 
 ¾ ounce fresh lemon juice 
 ½ ounce Cane Sugar Syrup
@@ -2977,7 +2977,7 @@ Garnish: 1 Orange twist
 1 teaspoon Cane Sugar Syrup (page 47)
 2 ounces La Favorite Couer de Canne rhum agricole blanc
 2 ounces Rittenhouse rye 
-½ ounce Luxardo maraschino liqueur 
+½ ounce Luxardo Maraschino Liqueur 
 1 dash Angostura bitters
 1 dash House Orange Bitters (page 295)
 Garnish: 1 Orange twist
@@ -3073,7 +3073,7 @@ Garnish: 1 lemon twist
 5 ounces Champagne 
 Garnish: 1 lemon wheel
 ½ ounce Clear Creek pear brandy 
-¼ ounce Lustau Jarana fino sherry
+¼ ounce Lustau Jarana Fino Sherry
 1 teaspoon Fortaleza reposado tequila
 ¼ ounce Cinnamon Syrup
 ½ teaspoon Champagne Acid Solution
@@ -3097,7 +3097,7 @@ Garnish: 1 peach slice and confectioners' sugar
 Garnish: 3 apple slices on a skewer and confectioners' sugar
 1 mint bouquet
 1½ ounces Cacao Nib-Infused Pear Brandy 
-½ ounce Lustau Los Arcos amontillado sherry
+½ ounce Lustau Los Arcos Amontillado Sherry
 1 teaspoon Demerara Gum Syrup
 Vieux Pontarlier absinthe
 1½ ounces Rittenhouse rye
@@ -3132,7 +3132,7 @@ Garnish: 1 lemon twist
 Garnish: 1 orange half wheel and 1 mint bouquet
 2 lemon wedges
 2 strawberry halves
-1½ ounces Lustau Los Arcos amontillado sherry
+1½ ounces Lustau Los Arcos Amontillado Sherry
 ½ ounce Santa Teresa 1796 rum
 ¾ ounce Milk & Honey House Curaçao
 Garnish: ½ strawberry, 1 lemon wedge, and 1 mint sprig
@@ -3223,7 +3223,7 @@ Garnish: 1 lemon twist
 Garnish: 1 blood orange wheel
 1½ ounces Hayman’s Old Tom gin
 1½ ounces Carpano Antica Formula vermouth
-1 teaspoon Luxardo maraschino liqueur
+1 teaspoon Luxardo Maraschino Liqueur
 2 dashes House Orange Bitters
 Garnish: 1 lemon twist
 2 ounces Grey Goose vodka
@@ -3297,7 +3297,7 @@ Garnish: 1 lemon twist
 ¼ ounce Fusion Napa Valley verjus blanc 
 2 dashes Miracle Mile celery bitters 
 Garnish: 1 celery ribbon
-1½ ounces Lustau Los Arcos amontillado sherry
+1½ ounces Lustau Los Arcos Amontillado Sherry
 ¾ ounce Dolin blanc vermouth 
 ¾ ounce Dolin dry vermouth
 2 dashes House Orange Bitters (page 295)
@@ -3362,7 +3362,7 @@ Garnish: 1 lime wedge
 1 egg white
 Garnish: 3 drops Angostura bitters
 1½ ounces Flor de Caña 4-year white rum
-½ ounce Luxardo maraschino liqueur 
+½ ounce Luxardo Maraschino Liqueur 
 1 ounce fresh grapefruit juice
 ½ ounce fresh lime juice
 1 teaspoon simple syrup (page 45)
@@ -3391,7 +3391,7 @@ Garnish: 1 mint leaf
 ¾ ounce fresh lime juice 
 ¾ ounce House Grenadine (page 47)
 Garnish: 1 apple slice
-2 ounces London dry gin
+2 ounces London Dry gin
 ¾ ounce fresh lemon juice 
 ¾ ounce Honey Syrup (page 45)
 1½ ounces Plymouth gin 
@@ -3632,15 +3632,15 @@ Garnish: 1 peach wedge
 ¾ ounce fresh lemon juice
 ¼ ounce simple syrup (page 45) 
 Garnish: 1 thyme sprig
-1½ ounces London dry gin
+1½ ounces London Dry gin
 ¾ ounce Lillet blanc
 ¾ ounce white crème de cacao
 ¾ ounce fresh lemon juice
-¾ ounce London dry gin
+¾ ounce London Dry gin
 ¾ ounce green Chartreuse
-¾ ounce Luxardo maraschino liqueur
+¾ ounce Luxardo Maraschino Liqueur
 ¾ ounce fresh lime juice
-¾ ounce Beefeater 24 London dry gin
+¾ ounce Beefeater 24 London Dry gin
 ¾ ounce Amaro Montenegro
 ¾ ounce Giffard Crème de Pamplemousse
 ¾ ounce fresh lemon juice
@@ -3672,7 +3672,7 @@ Garnish: 1 Orange twist
 1 dash St. George absinthe 
 1 drop Salt Solution (page 298) 
 Garnish: 1 basil leaf, preferably Thai basil
-2 ounces London dry gin
+2 ounces London Dry gin
 ¾ ounce Cointreau
 ¾ ounce fresh lime juice
 1 dash Angostura bitters
@@ -3695,7 +3695,7 @@ Garnish: 1 green grape on a skewer
 ¾ ounce fresh lemon juice
 ½ ounce simple syrup (page 45)
 1 dash Angostura bitters
-¾ ounce London dry gin
+¾ ounce London Dry gin
 ¾ ounce Lillet blanc 
 ¾ ounce Cointreau 
 ¾ ounce fresh lemon juice 
@@ -3763,7 +3763,7 @@ Citric Acid Solution (page 298), if needed
 ¼ ounce fresh lime juice 
 ¼ ounce House Grenadine (page 47) 
 Garnish: 1 orange half wheel and 1 lime wedge
-2 ounces London dry gin 
+2 ounces London Dry gin 
 4 ounces cold tonic water
 Garnish: 1 lime wedge
 1½ ounces Aylesbury Duck vodka
@@ -3906,7 +3906,7 @@ Garnish: Cinnamon
 
 1 orange half wheel
 ½ strawberry 
-1½ ounces Lustau Los Arcos amontillado sherry
+1½ ounces Lustau Los Arcos Amontillado Sherry
 ½ ounce Amaro di Angostura 
 ¼ ounce La Favorite Ambre rhum agricole
 1 teaspoon Pierre Ferrand dry curaçao
@@ -3969,7 +3969,7 @@ Garnish: 1 spritz of Cruzan Black Strap rum
 4 ounces Almond Milk (page 255)
 Cereal
 1 ounce Hickory Smoke-Infused Cognac (page 290)
-1 ounce Lustau Los Arcos amontillado sherry
+1 ounce Lustau Los Arcos Amontillado Sherry
 1 teaspoon Giffard Vanilla de Madagascar
 ½ ounce Demerara Gum Syrup (page 54) 
 1 whole egg
@@ -3995,7 +3995,7 @@ Garnish: 1 lemon twist
 ¾ ounce simple syrup (page 45)
 Garnish: 1 lime wedge
 1½ ounces Pierre Ferrand 1840 Cognac
-½ ounce Lustau Los Arcos amontillado sherry
+½ ounce Lustau Los Arcos Amontillado Sherry
 ½ ounce Giffard Crème de Pamplemousse
 ¾ ounce fresh lemon juice 
 ½ ounce Vanilla Lactic Syrup (page 286)
@@ -4026,7 +4026,7 @@ Garnish: 1 lemon twist
 Garnish: 1 brandied cherry
 ½ ounce simple syrup (page 45)
 2 ounces Strawberry-Infused Cognac and Mezcal (page 293)
-1 ounce Lustau Los Arcos Amontillado sherry
+1 ounce Lustau Los Arcos Amontillado Sherry
 ¾ ounce fresh lemon juice 
 ¾ ounce Cinnamon Syrup (page 52)
 ¼ teaspoon Campari
@@ -4048,7 +4048,7 @@ Garnish: 1 lemon twist
 1 teaspoon Giffard crème de cacao 
 1 pinch cherry wood chips (enough to fill smoker)
 1½ ounces Beefeater London Dry gin
-½ ounce Linie aquavit 
+½ ounce Linie Aquavit 
 1 ounce Celery Root-Infused Dolin Blanc (page 288)
 2 dashes Miracle Mile celery bitters
 2 ounces Balvenie Doublewood 12-year scotch
@@ -4103,7 +4103,7 @@ Garnish: 1 mint sprig
 1 teaspoon dark, robust maple syrup
 Garnish: 3 thin apple slices on a skewer
 2 ounces Narutotai Ginjo Nama Genchu sake
-¼ ounce Lustau Los Arcos amontillado sherry
+¼ ounce Lustau Los Arcos Amontillado Sherry
 1 teaspoon Cherry Heering 
 ½ teaspoon Plymouth sloe gin
 ¼ ounce fresh lemon juice
@@ -4142,7 +4142,7 @@ Garnish: 1 orange wedge
 1 lemon wedge
 1 pineapple wedge
 ¾ ounce House Orgeat (page 285)
-1½ ounces Lustau Los Arcos amontillado sherry
+1½ ounces Lustau Los Arcos Amontillado Sherry
 ¾ ounce St. George spiced pear liqueur
 ½ ounce Lustau Emilín Moscatel sherry
 ¼ ounce Copper & Kings unaged apple brandy
@@ -4165,13 +4165,13 @@ Garnish: 10 toasted coconut chips
 ¾ ounce Fusion Napa Valley verjus blanc
 Garnish: 1 grapefruit half wheel
 1¾ ounces Absolut Elyx vodka 
-¼ ounce Linie aquavit
-1 ounce Lustau Jarana fino sherry
+¼ ounce Linie Aquavit
+1 ounce Lustau Jarana Fino Sherry
 1 teaspoon Giffard Abricot du Roussillon
 1 teaspoon White Honey Syrup (page 286)
 Garnish: 2 to 3 sprays of Rosemary Salt Solution (page 298)
 2 ounces Oolong-Infused Vodka (page 291)
-¾ ounce Lustau Jarana fino sherry
+¾ ounce Lustau Jarana Fino Sherry
 ½ ounce La Quintinye Vermouth Royal blanc
 ¼ ounce Cointreau
 1 dash House Orange Bitters (page 295)
@@ -4289,7 +4289,7 @@ Garnish: 1 Brandied Cherry
 1 Dash House Orange Bitters
 1 Dash Angostura Bitters
 Garnish: 1 Lemon Twist
-2 Ounces Tanqueray London Dry Gin
+2 Ounces Tanqueray London Dry gin
 ¾ Ounce Lemon Juice
 ¾ Ounce Acacia Honey Syrup
 3 Drops Scrappy’s Lavender Bitters 
@@ -4336,7 +4336,7 @@ Garnish: 1 Lemon Twist
 ½ Ounce Maraska Maraschino Liqueur
 1½ Ounces Appleton Estate Reserve Rum
 ¾ Ounce El Dorado 151 Rum
-1 Teaspoon Massenez Crème De Pêche Peach Liqueur
+1 Teaspoon Massenez Crème de Pêche
 2 Dashes Vieux Pontarlier Absinthe
 ¾ Ounce Lime Juice
 ½ Ounce Orange Juice
@@ -4424,7 +4424,7 @@ Garnish: 1 Lime Wedge
 ¾ Ounce Green Chartreuse
 ¾ Ounce Luxardo Maraschino Liqueur
 ¾ Ounce Lime Juice
-1½ Ounces Tanqueray London Dry Gin
+1½ Ounces Tanqueray London Dry gin
 ½ Ounce Dolin Dry Vermouth
 ½ Ounce Campari
 ½ Ounce Cointreau 
@@ -4455,7 +4455,7 @@ Garnish: 1 Lime Wedge
 ½ Teaspoon Massenez Kirsch Vieux Cherry Brandy 
 1 Dash House Orange Bitters
 Garnish: 1 Lemon Twist
-2½ Ounces Plymouth, Beefeater London Dry, or Tanqueray London Dry Gin
+2½ Ounces Plymouth, Beefeater London Dry, or Tanqueray London Dry gin
 1 Ounce Dolin Dry Vermouth 
 1 Dash House Orange Bitters 
 Garnish: 1 Lemon Twist
@@ -4486,7 +4486,7 @@ Garnish: 1 Lime Wheel and Candied Ginger Flag
 ½ Ounce Heavy Cream
 1 Dash Angostura Bitters 
 Garnish: Dark Chocolate
-1½ Ounces Tanqueray London Dry Gin
+1½ Ounces Tanqueray London Dry gin
 1 Ounce Campari
 1 Ounce House Sweet Vermouth 
 Garnish: 1 Orange twist
@@ -4719,7 +4719,7 @@ Garnish: 1 Lime Wheel
 ¼ Ounce Lime Juice
 ½ Ounce Simple Syrup 
 1 Grapefruit Twist
-2 Ounces Tanqueray London Dry Gin
+2 Ounces Tanqueray London Dry gin
 ½ Ounce Celery Juice
 ½ Ounce Lime Juice
 ½ Ounce Acacia Honey Syrup
@@ -4741,14 +4741,14 @@ Green Chartreuse
 ¼ Ounce Simple Syrup
 Toasted Fennel Salt Rim 
 6 Green Grapes
-1½ Ounces Bombay London Dry Gin
+1½ Ounces Bombay London Dry gin
 ½ Ounce Krogstad Aquavit
 ¼ Ounce Velvet Falernum
 ¾ Ounce Lime Juice
 ½ Ounce Grapefruit Juice
 ½ Ounce Acacia Honey Syrup
 2 Thin Cucumber Wheels
-2 Ounces Beefeater 24 London dry gin
+2 Ounces Beefeater 24 London Dry gin
 ½ Ounce Aperol
 ¾ Ounce Grapefruit Juice
 ½ Ounce Scarlet Glow Syrup 
@@ -4767,7 +4767,7 @@ Garnish: 1 Cucumber Ribbon
 Garnish: 1 Strawberry
 ½ Strawberry
 2 Cucumber Wheels
-1½ Ounces Tanqueray London Dry Gin
+1½ Ounces Tanqueray London Dry gin
 ½ Ounce Bonal Gentiane-quina
 ½ Ounce Carpano Antica Formula Vermouth
 ¾ Ounce Lemon Juice
@@ -4782,19 +4782,19 @@ Garnish: 1 Cucumber Ribbon, 1 Mint Sprig, and 1 or 2 Drops Angostura Bitters
 ¼ Ounce Marie Brizard Apricot Liqueur
 ¾ Ounce Lime Juice
 ¼ Ounce Cane Sugar Syrup
-2 Ounces Tanqueray London Dry Gin
+2 Ounces Tanqueray London Dry gin
 1 Teaspoon Luxardo Maraschino Liqueur
 1 Teaspoon Massenez Crème De Mûre Blackberry Liqueur
 ¾ Ounce Grapefruit Juice
 ½ Ounce Lime Juice
 1 Teaspoon Simple Syrup
 2 Sage Leaves
-2 Ounces Tanqueray London Dry Gin
+2 Ounces Tanqueray London Dry gin
 ¼ Ounce Crème Yvette
 ½ Ounce Lemon Juice
 ½ Ounce Pineapple Juice
 ½ Ounce Orgeat
-1½ Ounces Bombay London Dry Gin
+1½ Ounces Bombay London Dry gin
 ½ Ounce Rhum Clément Créole Shrubb
 ¾ Ounce Grapefruit Juice
 ½ Ounce Lime Juice
@@ -4813,7 +4813,7 @@ Shake All the Ingredients, Then Strain Into a Double Rocks Glass Over 1 Large Ic
 1 Ounce Lemon Juice
 1¼ Ounces Simple Syrup
 3 Raspberries
-2 Ounces Tanqueray London Dry Gin
+2 Ounces Tanqueray London Dry gin
 ¾ Ounce Boiron Kalamansi Puree
 ¼ Ounce Lemon Juice
 ¾ Ounce Simple Syrup 4 Thai Basil Leaves
@@ -4940,7 +4940,7 @@ Garnish: 1 Grapefruit Twist
 ½ Ounce Galliano L’autentico 
 1 Teaspoon Simple Syrup
 1 Dash Angostura Bitters
-1 Ounce Tanqueray London Dry Gin
+1 Ounce Tanqueray London Dry gin
 ½ Ounce Krogstad Aquavit
 ½ Ounce Linie Aquavit
 1 Ounce House Sweet Vermouth
@@ -4955,14 +4955,14 @@ Garnish: 1 Orange twist
 ¼ Ounce Green Chartreuse
 1 Dash Bitter Truth Celery Bitters
 1½ Ounces Anchor Junipero Gin
-½ Teaspoon Massenez Crème De Pêche Peach Liqueur
+½ Teaspoon Massenez Crème de Pêche
 ¼ Ounce Orgeat
 3 Dashes House Peychaud’s Bitters
 1 Dash House Orange Bitters
 ½ Ounce Club Soda
 2 Ounces Plymouth Gin
 ¾ Ounce Lustau Amontillado Sherry
-1 Teaspoon Massenez Crème De Pêche Peach Liqueur
+1 Teaspoon Massenez Crème de Pêche
 ¼ Ounce Acacia Honey Syrup 
 1 Lemon Twist
 1½ Ounces Ransom Old Tom Gin
@@ -5307,7 +5307,7 @@ Garnish: 1 Lime Wheel
 ½ Ounce Vanilla Syrup
 ¼ Ounce Passion Fruit Syrup
 ½ Ounce Club Soda 
-Garnish: Lime Zest
+Garnish: Lime zest
 1½ Ounces Cabeza Blanco Tequila
 ½ Ounce Santa Teresa Orange Liqueur
 ¾ Ounce Lime Juice
@@ -5380,7 +5380,7 @@ Kosher Salt
 Garnish: 1 Lime Wheel
 ½ Bartlett Pear, Cubed
 2 Ounces Siembra Azul Blanco Tequila
-¼ Ounce Mathilde Poire Pear Liqueur
+¼ Ounce Mathilde Poire
 ½ Ounce Lemon Juice
 ½ Ounce Simple Syrup 
 Garnish: 1 Bartlett Pear Slice
@@ -5762,7 +5762,7 @@ Garnish: 1 Orange twist
 ½ Ounce Massenez Kirsch Vieux Cherry Brandy
 1 Orange twist
 1½ Ounces Compass Box Asyla Scotch
-¼ Ounce Massenez Crème De Pêche Peach Liqueur
+¼ Ounce Massenez Crème de Pêche
 ½ Ounce Pineapple Juice
 ½ Ounce Lemon Juice
 ¼ Ounce Cumin Syrup 
@@ -5810,7 +5810,7 @@ Garnish: 1 Apple Fan
 1½ Ounces Chamomile-infused Old Overholt Rye Whiskey
 1 Ounce Knappogue Castle 12-year Irish Whiskey
 ¾ Ounce Cocchi Americano
-1 Teaspoon Massenez Crème De Pêche Peach Liqueur
+1 Teaspoon Massenez Crème de Pêche
 ½ Teaspoon Acacia Honey Syrup 
 1 Lemon Twist
 1 Ounce Rittenhouse 100 Rye
@@ -5880,7 +5880,7 @@ Club Soda
 ½ Ounce Lemon Juice
 1 Teaspoon Simple Syrup
 1 Ounces Pierre Ferrand Ambre Cognac
-¼ Ounce Mathilde Poire Pear Liqueur
+¼ Ounce Mathilde Poire
 ¼ Ounce Bénédictine
 ¾ Ounce Lemon Juice
 ¼ Ounce Cane Sugar Syrup
@@ -5935,7 +5935,7 @@ Garnish: 1 Blackberry
 ¼ Ounce Simple Syrup
 1 Ounce Louis Royer Force 53 Cognac
 1 Ounce Redbreast 12-year Irish Whiskey
-1 Teaspoon Massenez Crème De Pêche Peach Liqueur
+1 Teaspoon Massenez Crème de Pêche
 ¾ Ounce Lemon Juice
 ½ Ounce Cane Sugar Syrup 
 2 Dashes Angostura Bitters
@@ -6167,7 +6167,7 @@ Dry Champagne
 ¾ Ounce Lemon Juice
 ¾ Ounce Simple Syrup 
 Dry Champagne
-1½ Ounces Beefeater 24 London dry gin
+1½ Ounces Beefeater 24 London Dry gin
 ¼ Ounce Plymouth Sloe Gin
 ¼ Ounce Crème Yvette
 ¾ Ounce Grapefruit Juice
@@ -6175,7 +6175,7 @@ Dry Champagne
 Sparkling Rosé
 1 Orange Crescent
 1 Dash Angostura Bitters
-1 Ounce Tanqueray London Dry Gin
+1 Ounce Tanqueray London Dry gin
 ¾ Ounce Salers Gentien Aperitif
 ¾ Ounce Lemon Juice
 ½ Ounce Acacia Honey Syrup 
@@ -6464,14 +6464,14 @@ Garnish: 12 Raspberries and 6 Lemon Wheels
 Garnish: 6 Pineapple Wedges
 2 Ounces Dolin Dry Vermouth
 ¾ Ounce Amaro Ciociaro
-1 Teaspoon Massenez Crème De Pêche Peach Liqueur 
+1 Teaspoon Massenez Crème de Pêche 
 Garnish: 1 Mint Bouquet
 2 Ounces Chamomile-infused Old Overholt Rye Whiskey
 ¼ Ounce Simple Syrup 
 Garnish: 1 Mint Bouquet
 1½ Ounces Old Grand-dad 114 Bourbon
 ½ Ounce Diplomático Reserva Exclusiva Rum
-1 Teaspoon Massenez Crème De Pêche Peach Liqueur
+1 Teaspoon Massenez Crème de Pêche
 1 Teaspoon Demerara Syrup
 ¼ Ounce Smith & Cross Rum
 4 Dashes Fee Brothers Whiskey Barrel-aged Bitters 
@@ -6487,7 +6487,7 @@ Garnish: 1 Mint Bouquet
 
 1 Ounce Cognac
 1 Ounce Laird’s Bonded Apple Brandy
-1 Teaspoon Massenez Crème De Pêche Peach Liqueur
+1 Teaspoon Massenez Crème de Pêche
 1 Teaspoon Simple Syrup 
 Garnish: 1 Mint Bouquet
 1 Mint Sprig
@@ -6800,7 +6800,7 @@ Garnish: 1 Orange twist
 1 Dash Bittermens Xocolatl Mole Bitters 
 1½ Ounces Laird’s Bonded Apple Brandy
 1 Ounce Gran Classico Bitter
-¾ Ounce Mathilde Poire Pear Liqueur
+¾ Ounce Mathilde Poire
 1½ Ounces Ford’s Gin
 ¾ Ounce Dolin Blanc Vermouth
 ¾ Ounce Suze Saveur D’autrefois Liqueur 
@@ -7203,7 +7203,7 @@ Garnish: edible flower
 1 ounce Old Duff genever single malt
 1 ounce Dolin Blanc vermouth
 ½ ounce Suze gentiane liqueur
-1 barspoon Luxardo maraschino liqueur
+1 barspoon Luxardo Maraschino Liqueur
 3 dashes yuzu bitters
 Garnish: Orange twist
 Coconut Salt, for rimming the glass
@@ -7290,7 +7290,7 @@ Garnish: pea shoot
 ¾ ounce Mancino Sakura vermouth
 1½ ounces fresh pineapple juice
 ½ ounce Salted Sakura Syrup
-¼ ounce Luxardo maraschino liqueur
+¼ ounce Luxardo Maraschino Liqueur
 8 to 10 fresh mint leaves
 2 ounces bourbon
 ¼ ounce peach liqueur
@@ -7405,7 +7405,7 @@ Ginger beer
 Garnish: lemon wheel and pineapple leaf
 2 Fresno chile slices
 1 drop sriracha (optional)
-2 ounces Beefeater 24 London dry gin
+2 ounces Beefeater 24 London Dry gin
 1 ounce Masumi Okuden Kantsukuri “Mirror of Truth” junmai sake
 ½ ounce Dolin dry vermouth (or substitute Noilly Prat vermouth)
 ½ ounce Goma Pickle Brine
@@ -7530,7 +7530,7 @@ Garnish: fresh Thai basil leaf
 ⅓ ounce dry vermouth
 3 dashes rice vinegar
 Garnish: yuzu twist
-1½ ounces Tanqueray London dry gin
+1½ ounces Tanqueray London Dry gin
 ½ ounce Cointreau
 ½ ounce fresh lemon juice
 1½ ounces Krogstad Festlig aquavit
@@ -7553,7 +7553,7 @@ Lemon peel, for garnish
 4 spritzes Herbsaint
 2 ounces (60 ml) Ricou Spirits Brandy Sainte Louise
 ½ teaspoon (2.5 ml) Demerara Syrup 
-½ teaspoon (2.5 ml) Luxardo maraschino liqueur
+½ teaspoon (2.5 ml) Luxardo Maraschino Liqueur
 14 drops Peychaud’s bitters
 Lemon peel, for garnish
 5 spritzes Zirbenz stone pine liqueur
@@ -7580,7 +7580,7 @@ Orange peel, for garnish
 Orange peel, for garnish
 1½ ounces (45 ml) Henry McKenna or Evan Williams bonded bourbon
 ½ ounce (15 ml) Branca Menta
-¼ ounce (7.5 ml) Averna amaro
+¼ ounce (7.5 ml) Amaro Averna
 1 teaspoon (5 ml) Demerara Syrup 
 14 drops Regans’ orange bitters
 Grapefruit peel, for garnish
@@ -7677,7 +7677,7 @@ Orange peel, for garnish
 7 drops Fee Brothers Old Fashion bitters
 Orange peel, for garnish
 1 ounce (30 ml) El Dorado 12-year rum
-½ ounce (15 ml) Averna amaro
+½ ounce (15 ml) Amaro Averna
 ½ ounce (15 ml) Braulio amaro
 ¾ ounce (22.5 ml) cold brew concentrate
 7 drops Bittermens Xocolatl Mole Bitters
@@ -7694,7 +7694,7 @@ Orange peel, for garnish
 1 ounce (30 ml) Poli Gran Bassano bianco vermouth
 7 drops Bittercube orange bitters
 Lemon peel, for garnish
-2 ounces (60 ml) London dry gin
+2 ounces (60 ml) London Dry gin
 1 ounce (30 ml) Noilly Prat Original dry vermouth
 3 drops Regans’ orange bitters
 Lemon peel or olives skewered on a cocktail pick, for garnish
@@ -7705,7 +7705,7 @@ Lemon peel or olives skewered on a cocktail pick, for garnish
 1 teaspoon (5 ml) mirliton pickle juice (see Pickled Mirliton recipe)
 5 drops Bittermens Boston Bittahs
 Slice of Pickled Mirliton (recipe follows), skewered on a cocktail pick, for garnish
-1½ ounces (45 ml) London dry gin
+1½ ounces (45 ml) London Dry gin
 1½ ounces (45 ml) Noilly Prat Original dry vermouth
 7 drops Regans’ orange bitters
 Lemon peel, for garnish
@@ -7772,7 +7772,7 @@ Dehydrated lemon wheel (or fresh if dried is unavailable), for garnish
 ¼ ounce (7.5 ml) Cointreau
 ½ ounce (15 ml) Simple Syrup 
 ¾ ounce (22.5 ml) fresh lemon juice
-1 barspoon Luxardo maraschino liqueur
+1 barspoon Luxardo Maraschino Liqueur
 7 drops Angostura bitters
 Sugar, for the rim
 Horse’s neck lemon twist, for garnish
@@ -7851,7 +7851,7 @@ Freshly grated nutmeg, for garnish
 Pinch cayenne, for garnish
 Dehydrated lime wheel, for garnish
 
-1 ounce (30 ml) Monkey Shoulder blended malt Scotch
+1 ounce (30 ml) Monkey Shoulder Blended Malt Scotch
 1 ounce (30 ml) Nardini Mandorla
 ¾ ounce (22.5 ml) fresh lime juice
 ½ ounce (15 ml) Tempus Fugit Gran Classico bitter
@@ -8209,7 +8209,7 @@ Strawberry, for garnish
 1½ ounces (45 ml) Campari
 ¾ ounce (22.5 ml) fresh lemon juice
 ¾ ounce (22.5 ml) Black Pepper Syrup
-¾ ounce (22.5 ml) Luxardo maraschino liqueur
+¾ ounce (22.5 ml) Luxardo Maraschino Liqueur
 1½ ounces (45 ml) Rare Wine Co. Charleston Sercial Madeira
 ½ ounce (15 ml) Simple Syrup 
 2 lemon peels
@@ -8219,7 +8219,7 @@ Bitters: A Spirited History of a Classic Cure-All, With Cocktails, Recipes & For
 2 ounces rye or bourbon
 ¼ ounce Simple syrup
 3 dashes Angostura or other aromatic bitters
-Garnish: thick piece of lemon or orange zest
+Garnish: lemon zest
 2 ounces rye or bourbon
 1 ounce sweet vermouth
 1 dash Angostura or other aromatic bitters
@@ -8233,7 +8233,7 @@ Splash of absinthe, Herbsaint, or Pernod
 2 ounces rye
 ¼ ounce Simple syrup
 4 generous dashes Peychaud’s Bitters
-Garnish: thick piece of lemon zest
+Garnish: lemon zest
 1½ ounces gin
 ¾ ounce Lillet Blanc
 ¾ ounce freshly squeezed orange juice
@@ -8337,7 +8337,7 @@ Garnish: Flamed orange peel
 1 dash orange bitters
 1 dash Peychaud’s Bitters
 Garnish: lemon twist
-2 ounces London dry gin, preferably Plymouth or Bombay Sapphire
+2 ounces London Dry gin, preferably Plymouth or Bombay Sapphire
 ¾ ounce orange curaçao
 ½ ounce freshly squeezed lime juice
 1 dash Angostura bitters
@@ -8389,8 +8389,8 @@ Garnish: Orange twist
 ¼ ounce Bénédictine
 2 dashes Peychaud’s Bitters or Bitter Truth Creole Bitters
 2 dashes Angostura bitters
-Garnish: thick lemon twist
-1½ ounces London dry gin, preferably Martin Miller’s
+Garnish: lemon twist
+1½ ounces London Dry gin, preferably Martin Miller’s
 ½ ounce Dolin Vermouth de Chambéry Blanc
 1 teaspoon yellow Chartreuse
 1 dash absinthe, preferably Marteau
@@ -8412,7 +8412,7 @@ Garnish: thick clove-studded strip of orange zest
 1 ounce Fernet Branca
 1 ounce Blood Orange Reduction
 1 ounce Rye Whiskey Syrup
-Garnish: thick spiral of orange zest
+Garnish: orange zest
 2 ounces brandy
 1 ounce dry vermouth
 ½ ounce Cointreau
@@ -8460,13 +8460,13 @@ Scotch, preferably a smoky Islay-style whisky, such as Laphroaig
 ¼ ounce freshly squeezed lemon juice
 ½ ounce honey syrup
 2 dashes Snake Oil tobacco bitters or A.B. Smeby Bittering Co. Highland Heather Bitters or Regans’ Orange Bitters No. 6
-Garnish: thick piece of lemon zest
+Garnish: lemon zest
 2 ounces Mexican Coca-Cola Reduction
 1½ ounces Fernet Branca
 ¼ ounce freshly squeezed lemon juice
 2 dashes Angostura bitters
 Seltzer
-Garnish: thick piece of lemon zest
+Garnish: lemon zest
 1 ounce gin
 ¾ ounce Strega
 ¼ ounce Simple syrup
@@ -8492,8 +8492,8 @@ Garnish: lime shell and freshly ground black pepper
 2 ounces spiced rum
 1 ounce Amaro Nonino
 1 teaspoon brown sugar
-1 thick strip of lemon zest
-1 thick strip of orange zest
+1 lemon zest
+1 orange zest
 3 dashes Urban Moonshine maple bitters or homemade Apple Bitters
 Hot apple cider
 1 tablespoon unsalted butter
@@ -8501,7 +8501,7 @@ Garnish: cinnamon stick and freshly grated nutmeg
 6 black peppercorns
 ½ ounce Lemon-Basil Syrup
 3 cucumber slices
-1 ounce London dry gin
+1 ounce London Dry gin
 1 ounce Pimm’s No. 1 Cup
 ½ ounce freshly squeezed lemon juice
 2 dashes Angostura bitters
@@ -8574,7 +8574,7 @@ Garnish: lemon twist
 ¼ ounce freshly squeezed lemon juice
 1 dash Fee Brothers Whiskey Barrel–Aged Bitters
 1 dash cranberry bitters
-Garnish: thick piece of lemon zest
+Garnish: lemon zest
 2 ounces corn whiskey
 ¾ ounce Dolin Vermouth de Chambéry Blanc
 1 tablespoon chopped candied ginger
@@ -8615,7 +8615,7 @@ Champagne (preferably Bourgeois-Diaz), chilled
 Garnish: lemon twist
 2 ounces lambrusco (chilled)
 2 ounces Prosecco (chilled)
-2½ ounces London dry gin (preferably Bombay Dry Gin)
+2½ ounces London Dry gin (preferably Bombay Dry Gin)
 ½ ounce dry vermouth (preferably Dolin Dry Vermouth de Chambéry)
 2 dashes orange bitters
 Garnish: lemon twist
@@ -8681,7 +8681,7 @@ Garnish: lemon twist
 Garnish: Orange twist
 2 ounces Fords gin
 ¾ ounce Campari
-¾ ounce Lustau vermut rojo
+¾ ounce Lustau Vermut Rojo
 Garnish: Orange twist
 1 quarter-size lime disk, make sure it includes a small amount of flesh
 1 barspoon Martinique cane syrup
@@ -8771,7 +8771,7 @@ Garnish: lemon wheel, orange wheel, fresh mint sprig, Angostura bitters
 2 ounces rye whiskey (preferably Michter’s, Rittenhouse, or High West Rendezvous)
 ¾ ounce Dolin Dry Vermouth
 ¼ ounce Amer Picon (or Bigallet China-China Amer)
-¼ ounce Luxardo maraschino liqueur
+¼ ounce Luxardo Maraschino Liqueur
 1 lemon twist
 Garnish: cocktail cherry (preferably Tillen Farms Bada Bing)
 2 ounces Wray & Nephew White Overproof Rum
@@ -8786,7 +8786,7 @@ Kosher salt (for rimming)
 Garnish: lime wedge
 4 dashes Angostura bitters
 ½ ounce grenadine
-¼ ounce Luxardo maraschino liqueur
+¼ ounce Luxardo Maraschino Liqueur
 ¾ ounce Cocchi Americano
 ¾ ounce Averna
 1½ ounces Plantation Stiggins’ Fancy Pineapple Rum
@@ -8859,7 +8859,7 @@ Garnish: 1 grapefruit twist
 ¾ ounce Martini Bianco
 ¾ ounce Cynar
 Garnish: 1 grapefruit twist
-1 ounce Beefeater 24 London dry gin
+1 ounce Beefeater 24 London Dry gin
 1 ounce Punt e Mes
 1 ounce Amaro Nonino
 Garnish: 1 Orange twist
@@ -8995,7 +8995,7 @@ Garnish: 1 Orange twist
 1 ounce coffee-infused Campari
 1½ ounces Sombra mezcal or Del Maguey Vida mezcal
 Garnish: 1 orange peel
-1 ounce Beefeater 24 London dry gin
+1 ounce Beefeater 24 London Dry gin
 1 ounce Taylor Fladgate 20-Year port
 1 ounce Campari
 4 dashes 15-year balsamic vinegar made from Pedro Ximenez grapes
@@ -9288,7 +9288,7 @@ dashes peach bitters
 6 raspberries, fresh or frozen
 3 fresh raspberries, for garnish
 1 ounce bourbon
-½ ounce Averna amaro
+½ ounce Amaro Averna
 ½ ounce fresh orange juice
 ¼ ounce Ardbeg single malt Scotch
 ¼ ounce simple syrup (see recipe)
@@ -9685,7 +9685,7 @@ Fresh mint leaf, for garnish (optional)
 Fresh thyme sprig, for garnish
 1 ounce fig bourbon (see recipe)
 1 ounce Cocchi Vermouth di Torino
-½ ounce Averna amaro
+½ ounce Amaro Averna
 4 dashes Boker’s bitters (see headnote) or Angostura aromatic bitters 
 Fig or cherries, for garnish
 ¼ ounce green Chartreuse
@@ -9694,7 +9694,7 @@ Fig or cherries, for garnish
 ½ ounce fresh lemon juice
 2 dashes lavender bitters
 Pear slice, for garnish
-2 ounces Beefeater 24 London dry gin
+2 ounces Beefeater 24 London Dry gin
 1 ounce fresh lemon juice
 1 ounce gunpowder tea syrup (see recipe)
 1 large egg white
@@ -9939,7 +9939,7 @@ Fresh nutmeg, grated, for garnish
 Fresh nutmeg, grated, for garnish
 3 dashes Mace Tincture (see recipe)
 ½ ounce Lemon Sherbet (see recipe)
-2 ounces Green Tea–Infused Tanqueray London Dry Gin (see recipe)
+2 ounces Green Tea–Infused Tanqueray London Dry gin (see recipe)
 3 dashes Pernod Absinthe
 1 ounce fresh lemon juice
 1 ounce Nardini Acqua di Cedro
@@ -9994,7 +9994,7 @@ Fresh nutmeg, grated, for garnish
 3 dashes Bittermens Hopped Grapefruit Bitters
 3 dashes Eucalyptus Tincture (see recipe)
 1 ounce Pistachio Syrup (see recipe)
-2½ ounces Green Tea–Infused Tanqueray London Dry Gin (see recipe)
+2½ ounces Green Tea–Infused Tanqueray London Dry gin (see recipe)
 ½ large egg white
 ¾ ounce heavy cream
 ¾ ounce fresh lime juice
@@ -10021,7 +10021,7 @@ Fresh nutmeg, grated, for garnish
 ¾ ounce Banks 7 Rum
 ½ ounce Cruzan Blackstrap Rum
 3 dashes Dead Rabbit Orinoco Bitters or Angostura Aromatic Bitters
-2 ounces Hibiscus-Infused Tanqueray London Dry Gin (see recipe)
+2 ounces Hibiscus-Infused Tanqueray London Dry gin (see recipe)
 ¾ ounce Strawberry Cordial (see recipe)
 ¼ ounce Merlet Crème de Pêche
 ½ ounce fresh lime juice
@@ -10054,7 +10054,7 @@ Fresh nutmeg, grated, for garnish
 3 dashes Bittermens Burlesque Bitters
 3 dashes Pernod Absinthe
 1 large egg white
-2 ounces Hibiscus-Infused Tanqueray London Dry Gin (see recipe)
+2 ounces Hibiscus-Infused Tanqueray London Dry gin (see recipe)
 ¾ ounce Ginger Syrup (see recipe)
 ½ ounce Merlet Crème de Framboise
 ¾ ounce fresh lime juice
@@ -10118,7 +10118,7 @@ Fresh nutmeg, grated, for garnish
 ¾ ounce Barbadillo Fino Sherry
 1½ ounces Great King Street Blended Scotch
 Fresh nutmeg, grated, for garnish
-2 ounces Masala Chai Tea–Infused Monkey Shoulder Scotch (see recipe)
+2 ounces Masala Chai Tea–Infused Monkey Shoulder Blended Malt Scotch (see recipe)
 ¾ ounce Orgeat Syrup (see recipe)
 1 ounce oloroso sherry
 ¾ ounce fresh lemon juice
@@ -10482,13 +10482,13 @@ Lemon peel, for garnish
 ¼ ounce Pernod Absinthe
 5 dashes Bittermens Xocolatl Mole Bitters
 Orange peel, for garnish
-1½ ounces Tanqueray London Dry Gin
+1½ ounces Tanqueray London Dry gin
 1½ ounces dry vermouth
 ½ ounce maraschino liqueur
 3 dashes orange bitters
 5 dashes Pernod Absinthe
 Orange peel, for garnish
-1½ ounces Tanqueray London Dry Gin
+1½ ounces Tanqueray London Dry gin
 1½ ounces sweet vermouth
 ½ ounce Green Chartreuse
 2 dashes orange bitters
@@ -10700,7 +10700,7 @@ Wheatgrass
 3/4oz egg white
 1 1/4oz Distillerie F. Meyer Eau-de-vie de Poire William
 1/2oz Ransom Sweet Vermouth
-1/2oz Oxley Cold Distilled London Dry Gin
+1/2oz Oxley Cold Distilled London Dry gin
 3/4oz walnut orgeat
 3/4oz lemon juice
 3/4oz egg white
@@ -11109,7 +11109,7 @@ Maldon sea salt
 1 rosemary sprig, trimmed to about 2 inches (50 mm)
 1 cassia cinnamon stick, 10 inches long
 1 lemon peel, removed with peeler
-60g Tanqueray London Dry Gin
+60g Tanqueray London Dry gin
 11g Distillerie F. Meyer Eau-de-vie de Poire William
 0.8g citric acid
 50g simple syrup
@@ -11184,7 +11184,7 @@ Amaretto brown butter
 1/2oz demerara syrup
 3/4oz water
 Sherry marbles
-942g Sipsmith London Dry Gin
+942g Sipsmith London Dry gin
 75g fresh Périgord black truffles
 1 1/2oz truffled gin
 3/4oz Carpano Antica Formula Sweet Vermouth
@@ -11844,7 +11844,7 @@ cedarwood chips
 1/8oz ginger syrup
 8 drops Hawaiian black salt solution
 5 drops lapsang souchong tincture
-2oz Bombay London Dry Gin
+2oz Bombay London Dry gin
 1oz huckleberry syrup
 3/4oz lime juice
 1/4oz Averna Amaro

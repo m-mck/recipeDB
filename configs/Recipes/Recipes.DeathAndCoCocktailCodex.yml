@@ -107,7 +107,7 @@ recipes:
     notes: This vintage cocktail is an early example of bartenders swapping out sugar for a sweet, flavorful liqueur. Maraschino liqueur isn't as sweet as simple syrup (not to mention that it also has proof), so we up the quantity to ½ ounce.
     ingredients:
     - 2 ounces Rittenhouse rye 
-    - ½ ounce Luxardo maraschino liqueur 
+    - ½ ounce Luxardo Maraschino Liqueur 
     - 1 dash Angostura bitters
     - 1 dash House Orange Bitters
     - "Garnish: 1 Orange twist"
@@ -416,7 +416,7 @@ recipes:
     notes: "While the components of this cocktail other than the Champagne take up more volume than a sugar cube doused in bitters, they function in a similar way, enhancing the main spirit by amplifying flavors it already possesses: stone fruit, breadiness, nuttiness, and spice. Here we've added a new ingredient, Champagne acid, a combination of tartaric and lactic acid that enhances the tang of a dry Champagne."
     ingredients: 
     - ½ ounce Clear Creek pear brandy 
-    - ¼ ounce Lustau Jarana fino sherry
+    - ¼ ounce Lustau Jarana Fino Sherry
     - 1 teaspoon Fortaleza reposado tequila
     - ¼ ounce Cinnamon Syrup
     - ½ teaspoon Champagne Acid Solution
@@ -501,7 +501,7 @@ recipes:
     ingredients: 
     - 1 mint bouquet
     - 1½ ounces Cacao Nib-Infused Pear Brandy 
-    - ½ ounce Lustau Los Arcos amontillado sherry
+    - ½ ounce Lustau Los Arcos Amontillado Sherry
     - 1 teaspoon Demerara Gum Syrup
     steps:
     - Rub the interior of a Julep tin with the mint bouquet, then set the mint aside
@@ -632,7 +632,7 @@ recipes:
     ingredients: 
     - 2 lemon wedges
     - 2 strawberry halves
-    - 1½ ounces Lustau Los Arcos amontillado sherry
+    - 1½ ounces Lustau Los Arcos Amontillado Sherry
     - ½ ounce Santa Teresa 1796 rum
     - ¾ ounce Milk & Honey House Curaçao
     - "Garnish: ½ strawberry, 1 lemon wedge, and 1 mint sprig"
@@ -965,7 +965,7 @@ recipes:
     ingredients: 
     - 1½ ounces Hayman’s Old Tom gin
     - 1½ ounces Carpano Antica Formula vermouth
-    - 1 teaspoon Luxardo maraschino liqueur
+    - 1 teaspoon Luxardo Maraschino Liqueur
     - 2 dashes House Orange Bitters
     - "Garnish: 1 lemon twist"
     steps:
@@ -1243,7 +1243,7 @@ recipes:
       the late nineteenth century, but it remains one of our favorite cocktails today-so much so 
       that we often serve it on tap at our bars.
     ingredients: 
-    - 1½ ounces Lustau Los Arcos amontillado sherry
+    - 1½ ounces Lustau Los Arcos Amontillado Sherry
     - ¾ ounce Dolin blanc vermouth 
     - ¾ ounce Dolin dry vermouth
     - 2 dashes House Orange Bitters
@@ -1483,7 +1483,7 @@ recipes:
     notes: Grapefruit juice has a delicious bitter-tart flavor that makes it one of our favorite alternatives to lemon and lime juice in cocktails. To get an idea of how grapefruit juice affects the balance of a drink, we'll break down the classic Hemingway Daiquiri. Because grapefruit juice isn't as acidic as lime juice, simply substituting 1 ounce of it for the lime juice in our root Daiquiri recipe would yield a thin cocktail. And as you can see, the recipe for this classic variation also contains a somewhat generous amount of lime juice. Then, because both the grapefruit juice and the maraschino liqueur add sweetness, the amount of simple syrup is dialed way back. This drink is very much about the relationship between rum, grapefruit juice, and maraschino liqueur, but it gets its amazing vibrancy from the lime juice and simple syrup.
     ingredients: 
     - 1½ ounces Flor de Caña 4-year white rum
-    - ½ ounce Luxardo maraschino liqueur 
+    - ½ ounce Luxardo Maraschino Liqueur 
     - 1 ounce fresh grapefruit juice
     - ½ ounce fresh lime juice
     - 1 teaspoon simple syrup
@@ -1583,7 +1583,7 @@ recipes:
     year: 
     notes: The Boukman Daiquiri highlights an interesting way to play with the sour template - by substituting a flavorful syrup for the simple syrup. A good rule of thumb for matching flavorful syrups with citrus is that lemon juice has a soft acidity that doesn't distract from honey, whereas lime juice brings an astringency that can cut through a dense syrup or heighten the flavors in a syrup. If honey were paired with lime juice in this classic cocktail, its flavor would disappear into the background.
     ingredients: 
-    - 2 ounces London dry gin
+    - 2 ounces London Dry gin
     - ¾ ounce fresh lemon juice 
     - ¾ ounce Honey Syrup
     steps:
@@ -2465,7 +2465,7 @@ recipes:
     year: 
     notes: Swap rich crème de cacao for the Cointreau—and a little Lillet blanc to stretch out the sweetness of the cacao—and you've got yourself the 20th Century, a chocolaty cocktail that doesn't taste like liquid dessert. (You'll notice that this cocktail calls for a full ½ ounces of gin-an adjustment that's necessary because crème de cacao is sweeter and lower in proof than Cointreau.) Thanks to the bright botanicals from the gin and the acidity from both the lemon juice and the Lillet blanc, the drink gives the impression of fruity cacao nibs, rather than a decadent chocolate bar.
     ingredients: 
-    - 1½ ounces London dry gin
+    - 1½ ounces London Dry gin
     - ¾ ounce Lillet blanc
     - 34 ounce white crème de cacao
     - 34 ounce fresh lemon juice
@@ -2482,9 +2482,9 @@ recipes:
     year: 
     notes: The classic Last Word uses intensely herbaceous green Chartreuse and funky maraschino liqueur in place of the Cointreau. The two liqueurs are front and center and bring a lot of proof to the cocktail, thereby requiring the gin be reduced in proportion. In this case, the green Chartreuse and maraschino are both the dominant flavor, bringing sweetness to the cocktail and balancing the acidity of the lime juice, while the gin helps dry the cocktail out.
     ingredients: 
-    - ¾ ounce London dry gin
+    - ¾ ounce London Dry gin
     - ¾ ounce green Chartreuse
-    - ¾ ounce Luxardo maraschino liqueur
+    - ¾ ounce Luxardo Maraschino Liqueur
     - ¾ ounce fresh lime juice
     steps:
     - Shake all the ingredients with ice, then strain into a chilled coupe
@@ -2499,7 +2499,7 @@ recipes:
     year: 2013
     notes: In this cocktail, we've modified the Last Word (see left), which packs a serious punch, to create a subtler, lighter cocktail. We use an amaro as part of the base, resulting in a drink that's significantly more refreshing than the dense Last Word. Its flavor combination, grapefruit-laden pamplemousse combined with the cinnamon spice notes of Amaro Montenegro, was directly inspired by Donn's Mix No. 1, a classic tiki syrup made with grapefruit juice and cinnamon syrup.
     ingredients: 
-    - ¾ ounce Beefeater 24 London dry gin
+    - ¾ ounce Beefeater 24 London Dry gin
     - ¾ ounce Amaro Montenegro
     - ¾ ounce Giffard Crème de Pamplemousse
     - ¾ ounce fresh lemon juice
@@ -2592,7 +2592,7 @@ recipes:
     year: 
     notes: Highly potent bitters can also be added to a cocktail to help adjust the balance. As you can see, this recipe follows the same basic template as our version of Between the Sheets (page 168). Gin acts in a supporting role to Cointreau's juicy flavor and sweetness, and so by adding a dash each of both Angostura and House Orange bitters, we are able to introduce seasoning that dries out the cocktail a bit while curbing the sharpness of the lime.
     ingredients: 
-    - 2 ounces London dry gin
+    - 2 ounces London Dry gin
     - ¾ ounce Cointreau
     - ¾ ounce fresh lime juice
     - 1 dash Angostura bitters
@@ -2664,7 +2664,7 @@ recipes:
     year: 
     notes: 
     ingredients: 
-    - ¾ ounce London dry gin
+    - ¾ ounce London Dry gin
     - ¾ ounce Lillet blanc 
     - ¾ ounce Cointreau 
     - ¾ ounce fresh lemon juice 
@@ -2912,7 +2912,7 @@ recipes:
     year: 
     notes: The gin and tonic is perhaps even more popular than the Whisky Highball, perhaps because of how its two simple ingredients interact with each other. Tonic water isn't just a bitter seltzer; it also has a fair amount of sugar, giving it a sweetness that helps highlight the botanical flavors of high-proof English gin while curbing its alcohol heat.
     ingredients: 
-    - 2 ounces London dry gin 
+    - 2 ounces London Dry gin 
     - 4 ounces cold tonic water
     - "Garnish: 1 lime wedge"
     steps:
@@ -3412,7 +3412,7 @@ recipes:
     ingredients: 
     - 1 orange half wheel
     - ½ strawberry 
-    - 1½ ounces Lustau Los Arcos amontillado sherry
+    - 1½ ounces Lustau Los Arcos Amontillado Sherry
     - ½ ounce Amaro di Angostura 
     - ¼ ounce La Favorite Ambre rhum agricole
     - 1 teaspoon Pierre Ferrand dry curaçao
@@ -3618,7 +3618,7 @@ recipes:
     notes: The Campfire Flip is a smoky riff on a classic Flip. We start with a smoked ingredient, Hickory-Smoked Cognac, which we pair with sherry and a bit of vanilla liqueur. The result is a rich drink with a smoked-woody complexity that plays off the barrel-aged flavors already present in both the Cognac and the sherry.
     ingredients: 
     - 1 ounce Hickory Smoke-Infused Cognac (page 290)
-    - 1 ounce Lustau Los Arcos amontillado sherry
+    - 1 ounce Lustau Los Arcos Amontillado Sherry
     - 1 teaspoon Giffard Vanilla de Madagascar
     - ½ ounce Demerara Gum Syrup 
     - 1 whole egg
@@ -3704,7 +3704,7 @@ recipes:
     notes: 
     ingredients: 
     - 1½ ounces Pierre Ferrand 1840 Cognac
-    - ½ ounce Lustau Los Arcos amontillado sherry
+    - ½ ounce Lustau Los Arcos Amontillado Sherry
     - ½ ounce Giffard Crème de Pamplemousse
     - ¾ ounce fresh lemon juice 
     - ½ ounce Vanilla Lactic Syrup
@@ -3809,7 +3809,7 @@ recipes:
     notes: 
     ingredients: 
     - 2 ounces Strawberry-Infused Cognac and Mezcal
-    - 1 ounce Lustau Los Arcos Amontillado sherry
+    - 1 ounce Lustau Los Arcos Amontillado Sherry
     - ¾ ounce fresh lemon juice 
     - ¾ ounce Cinnamon Syrup
     - ¼ teaspoon Campari
@@ -3879,7 +3879,7 @@ recipes:
     notes: 
     ingredients: 
     - 1½ ounces Beefeater London Dry gin
-    - ½ ounce Linie aquavit 
+    - ½ ounce Linie Aquavit 
     - 1 ounce Celery Root-Infused Dolin Blanc
     - 2 dashes Miracle Mile celery bitters
     steps:
@@ -4044,7 +4044,7 @@ recipes:
     notes: 
     ingredients: 
     - 2 ounces Narutotai Ginjo Nama Genchu sake
-    - ¼ ounce Lustau Los Arcos amontillado sherry
+    - ¼ ounce Lustau Los Arcos Amontillado Sherry
     - 1 teaspoon Cherry Heering 
     - ½ teaspoon Plymouth sloe gin
     - ¼ ounce fresh lemon juice
@@ -4153,7 +4153,7 @@ recipes:
     - 1 lemon wedge
     - 1 pineapple wedge
     - ¾ ounce House Orgeat
-    - 1½ ounces Lustau Los Arcos amontillado sherry
+    - 1½ ounces Lustau Los Arcos Amontillado Sherry
     - ¾ ounce St George spiced pear liqueur
     - ½ ounce Lustau Emilín Moscatel sherry
     - ¼ ounce Copper & Kings unaged apple brandy
@@ -4212,8 +4212,8 @@ recipes:
     notes: 
     ingredients: 
     - 1¾ ounces Absolut Elyx vodka 
-    - ¼ ounce Linie aquavit
-    - 1 ounce Lustau Jarana fino sherry
+    - ¼ ounce Linie Aquavit
+    - 1 ounce Lustau Jarana Fino Sherry
     - 1 teaspoon Giffard Abricot du Roussillon
     - 1 teaspoon White Honey Syrup
     - "Garnish: 2 to 3 sprays of Rosemary Salt Solution"
@@ -4229,7 +4229,7 @@ recipes:
     notes: 
     ingredients: 
     - 2 ounces Oolong-Infused Vodka
-    - ¾ ounce Lustau Jarana fino sherry
+    - ¾ ounce Lustau Jarana Fino Sherry
     - ½ ounce La Quintinye Vermouth Royal blanc
     - ¼ ounce Cointreau
     - 1 dash House Orange Bitters

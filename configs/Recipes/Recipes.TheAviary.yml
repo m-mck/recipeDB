@@ -269,7 +269,7 @@ recipes:
     ingredients:
     - 1 1/4oz Distillerie F. Meyer Eau-de-vie de Poire William
     - 1/2oz Ransom Sweet Vermouth
-    - 1/2oz Oxley Cold Distilled London Dry Gin
+    - 1/2oz Oxley Cold Distilled London Dry gin
     - 3/4oz walnut orgeat
     - 3/4oz lemon juice
     - 3/4oz egg white
@@ -1059,7 +1059,7 @@ recipes:
     notes: 
     ingredients:
     - Oolong Upper Chamber Solids
-    - 60g Tanqueray London Dry Gin
+    - 60g Tanqueray London Dry gin
     - 11g Distillerie F. Meyer Eau-de-vie de Poire William
     - 0.8g citric acid
     - 50g simple syrup
@@ -2290,7 +2290,7 @@ recipes:
   - name: Huckleberry
     notes: 
     ingredients:
-    - 2oz Bombay London Dry Gin
+    - 2oz Bombay London Dry gin
     - 1oz huckleberry syrup
     - 3/4oz lime juice
     - 1/4oz Amaro Averna

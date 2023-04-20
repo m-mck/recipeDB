@@ -1792,7 +1792,7 @@ recipes:
   - name: Truffled Gin
     notes: 
     ingredients: 
-    - 942g Sipsmith London Dry Gin
+    - 942g Sipsmith London Dry gin
     - 75g fresh Périgord black truffles
     steps:
     - Combine gin and truffles in a blender, and blend on high speed until completely smooth. Transfer mixture to rotary vacuum evaporator distillation flask. Distill at 45°C and 80RPM, adjusting vacuum as necessary to maintain a stable boil. Do not allow mixture to boil into the cooling column. Distill mixture until no liquid remains in distillation flask. Transfer the distillate to a glass bottle and reserve.
@@ -1884,7 +1884,7 @@ recipes:
     - 1 Fresno chili
     steps:
     - Core and seed chili, and cut off ends. Halve chili lengthwise and place each half, cut side up, flat to cutting board. Remove any ribs. Trim the chili to remove as much flesh from skin as possible. Square off each half and cut lengthwise into thin strips 1/16” wide. Place the strips in ice water for 4 hours, or until strips curl tightly. Reserve the curls on a damp paper towel.
-  - name: Lime Zest
+  - name: Lime zest
     notes: 
     ingredients: 
     - 1 lime
