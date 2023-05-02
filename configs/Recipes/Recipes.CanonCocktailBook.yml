@@ -40,7 +40,7 @@ recipes:
     author: Dustin Harstaad
     notes: "Jenever goes by many names: genièvre, genever, peket, and, in English-speaking countries, Holland gin or Dutch gin. It is the national distilled spirit of the Netherlands and Belgium, and of course, the juniper-flavored predecessor of modern gin. Cynar is a bitter Italian liqueur. The Pedro Ximénez sherry is a fortified wine from a grape of the same name. This cocktail finishes with Angostura, and saline and ascorbic acid solutions to adjust the flavor profile to our liking."
     ingredients:
-    - ¼ ounce Ardbeg single malt Scotch whisky
+    - ¼ ounce Ardbeg Single Malt Scotch
     - 1 ounce genever
     - 1 ounce Cynar Italian liqueur
     - ½ ounce Heering cherry liqueur
@@ -114,7 +114,7 @@ recipes:
     - 1 ounce gin
     - ½ ounce white rum
     - ½ ounce fresh lemon juice
-    - ½ ounce Casoni 1814 aperitif liqueur
+    - ½ ounce Casoni 1814 Aperitivo
     - ½ ounce passion fruit syrup
     - 2 ounces IPA beer (not too hoppy, around 60 IBU) 
     - Edible flower, for garnish (optional)
@@ -130,7 +130,7 @@ recipes:
     notes: The combination of peach liqueur and Aperol offers both color and taste in the perfect proportion. Aperol, incidentally, is a lightly alcoholic Italian aperitif—what we used to call “Campari light”—and the featured ingredient in the famous Aperol Spritz, which originated in 1950s Italy.
     ingredients:
     - 2 ounces bourbon
-    - ½ ounce Aperol Italian liqueur
+    - ½ ounce Aperol
     - ¼ ounce peach liqueur
     - 4 dashes Angostura aromatic bitters
     - Lemon twist, for garnish
@@ -1627,7 +1627,7 @@ recipes:
     author: Jamie Boudreau
     notes: Other than a Mai Tai, this is really the first tiki drink that piqued my interest. Absinthe has a tendency to make a cocktail either transcendent or just downright horrible. Fortunately, my test pilot didn’t crash.
     ingredients:
-      - 1½ ounces Smith & Cross Traditional Jamaica rum
+      - 1½ ounces Smith & Cross Jamaican rum
       - ¾ ounce light rum
       - ¾ ounce Falernum (see recipe)
       - ½ ounce Combier triple sec

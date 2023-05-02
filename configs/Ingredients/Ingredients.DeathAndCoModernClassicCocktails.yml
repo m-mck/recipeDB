@@ -108,8 +108,8 @@ recipes:
     steps: In a container, combine 3 tablespoons of cacao nibs and one 1-liter bottle of Cabeza blanco tequila and stir well. Let stand at room temperature for 1 hour, stirring occasionally. Strain through a cheesecloth-lined sieve.
   - name: Cacao Nib-Infused Campari
     steps: In a container, combine 3 tablespoons of cacao nibs and one 750-ml bottle of Campari and stir well. Let stand at room temperature for 1 hour, stirring occasionally. Strain through a cheesecloth-lined sieve.
-  - name: Coffee-Infused Carpano Antica Formula Vermouth
-    steps: In a container, combine 3 tablespoons of whole coffee beans and one 1-liter bottle of Carpano Antica Formula vermouth and stir well. Cover and let stand at room temperature for 24 hours, stirring occasionally. Strain through a cheesecloth-lined sieve.
+  - name: Coffee-Infused Carpano Antica Formula sweet vermouth
+    steps: In a container, combine 3 tablespoons of whole coffee beans and one 1-liter bottle of Carpano Antica Formula sweet vermouth and stir well. Cover and let stand at room temperature for 24 hours, stirring occasionally. Strain through a cheesecloth-lined sieve.
   - name: Pecan-Infused Buffalo Trace Bourbon
     steps: Soak 2 cups of pecan halves in cold water for 20 minutes. Preheat the oven to 300°F. Drain the pecans well, then spread them on a rimmed baking sheet. Season with salt, pepper, and cayenne pepper and bake for 20 minutes, stirring occasionally and being careful not to burn the pecans. Let cool to room temperature. In a container, combine the pecans and one 750-ml bottle of Buffalo Trace Bourbon and stir well. Let stand at room temperature for 1 week, stirring daily. Strain through a cheesecloth-lined sieve.
   - name: Rose-Infused Lillet Rosé

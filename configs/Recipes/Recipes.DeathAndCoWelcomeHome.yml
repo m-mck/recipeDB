@@ -7,7 +7,7 @@ recipes:
     ingredients:
       - 2 ounces cold seltzer
       - 1 ounce Lemorton Selection calvados Domfrontais
-      - ½ ounce Amrut cask-strength single malt Indian whisky
+      - ½ ounce Amrut Cask-Strength Single-Malt Indian Whisky
       - ½ ounce Henriques & Henriques rainwater madeira
       - ¼ ounce Lejay crème de cassis de Dijon
       - ¾ ounce fresh lemon juice
@@ -549,7 +549,7 @@ recipes:
     notes: The addition of shiso and pear-flavored spirits makes this more interesting than the standard Japanese highball. If you don’t want to carbonate this in a whipper, you can freeze a batch of everything but the seltzer, then top it off with seltzer to serve. -MB
     ingredients:
      - 4 ½ ounces cold seltzer
-     - 1½ ounces Suntory Toki Japanese Whisky
+     - 1½ ounces Suntory Toki whisky
      - ½ ounce Glasshouse shiso brandy
      - ¼ ounce Mathilde Poire
      - 1 teaspoon Clear Creek Williams pear brandy
@@ -1194,7 +1194,7 @@ recipes:
     ingredients:
      - ¾ ounce Rittenhouse rye
      - ½ ounce Laird's bonded apple brandy 
-     - ¼ ounce Smith & Cross Jamaica rum 
+     - ¼ ounce Smith & Cross Jamaican rum 
      - ¼ ounce St. George spiced pear liqueur
      - ½ ounce fresh lemon juice 
      - ½ ounce Cane Sugar Syrup
@@ -1796,7 +1796,7 @@ recipes:
     ingredients:
      - 1 ounce Amrut cask-strength single-malt Indian whisky
      - ½ ounce El Dorado 15-year Demerara rum 
-     - ½ ounce Batavia arrack
+     - ½ ounce Batavia-Arrack Van Oosten
      - ¾ ounce fresh lime juice 
      - ¾ ounce House Grenadine
      - 6 dashes absinthe
@@ -2473,11 +2473,11 @@ recipes:
   - name: Palm Dreams
     author: Matthew Belanger
     year: 2017
-    notes: This is pretty much a classic Honeysuckle with an interesting split base and the addition of kalamansi purée. Batavia arrack comes from Indonesia, where kalamansi is a commonly used citrus; the funkiness of the arrack helps push that flavor. -MB
+    notes: This is pretty much a classic Honeysuckle with an interesting split base and the addition of kalamansi purée. Batavia-Arrack Van Oosten comes from Indonesia, where kalamansi is a commonly used citrus; the funkiness of the arrack helps push that flavor. -MB
     ingredients:
      - 1 ounce El Dorado 8-year rum 
      - ½ ounce Plantation 2000 Jamaican rum
-     - ½ ounce Batavia arrack
+     - ½ ounce Batavia-Arrack Van Oosten
      - ¾ ounce fresh lime juice 
      - ¾ ounce Honey Syrup
      - 1 teaspoon Boiron kalamansi purée
@@ -3004,7 +3004,7 @@ recipes:
     notes: I name a lot of drinks after Fugazi songs, but this was my first. It's a riff on Tyson's Fistful of Dollars, but with blackberries. -MB
     ingredients:
      - 1½ ounces Lustau Solera Reserva brandy
-     - ½ ounce Smith & Cross Jamaica rum
+     - ½ ounce Smith & Cross Jamaican rum
      - 1 ounce Donn's Mix #1
      - ½ ounce fresh lime juice
      - ¼ ounce Vanilla Syrup
@@ -3144,7 +3144,7 @@ recipes:
     year: 2014
     notes: 
     ingredients:
-     - ¾ ounce Appleton V/X Jamaican rum 
+     - ¾ ounce Appleton Estate V/X Jamaican rum 
      - ¾ ounce Wild Turkey 101 Rye
      - ¼ ounce Lemon Hart 151 rum 
      - ¼ ounce Lustau Los Arcos Amontillado Sherry
@@ -3772,7 +3772,7 @@ recipes:
     notes: 
     ingredients:
      - 1½ ounces Bertoux brandy 
-     - ½ ounce Batavia arrack
+     - ½ ounce Batavia-Arrack Van Oosten
      - ½ ounce Giffard banane du Brésil
      - ¾ ounce fresh lime juice 
      - ½ ounce Madras Curry Syrup 
@@ -3792,7 +3792,7 @@ recipes:
     ingredients:
      - 1 ounce Lustau Los Arcos Amontillado Sherry
      - ½ ounce Bertoux brandy
-     - 1 teaspoon Batavia arrack
+     - 1 teaspoon Batavia-Arrack Van Oosten
      - 1 teaspoon Giffard banane du Brésil
      - ¾ ounce fresh lime juice
      - ½ ounce Madras Curry Syrup
@@ -4147,7 +4147,7 @@ recipes:
     notes: 
     ingredients:
      - 1 ¼ ounces Krogstad aquavit
-     - ½ ounce Smith & Cross Jamaica rum 
+     - ½ ounce Smith & Cross Jamaican rum 
      - ½ ounce Giffard banane du Brésil
      - ¼ ounce Cruzan Black Strap rum 
      - 1 ounce fresh lemon juice
@@ -4233,7 +4233,7 @@ recipes:
     notes: I've always thought that curry and coconut is a fun combination, but I had never used it in a cocktail before. Scotch goes well with flavors in this unusual whiskey sour. -MB
     ingredients:
      - 1½ ounces Great King St. Glasgow Blend scotch
-     - ½ ounce Batavia arrack
+     - ½ ounce Batavia-Arrack Van Oosten
      - ½ ounce Kalani Ron de Coco coconut liqueur
      - ¾ ounce fresh lime juice
      - ½ ounce Cinnamon Syrup
@@ -4783,7 +4783,7 @@ recipes:
      - ¾ ounce Westward American single malt
      - ¾ ounce Delord 25-year bas Armagnac
      - ½ ounce Dupont Pommeau de Normande
-     - ½ teaspoon Amrut peated cask-strength single malt Indian whisky
+     - ½ teaspoon Amrut Peated Cask-Strength Single-Malt Indian Whisky
      - ½ teaspoon Vanilla Syrup
      - 1 teaspoon maple syrup
     steps:
@@ -4800,7 +4800,7 @@ recipes:
     notes: 
     ingredients:
      - 1 orange wheel
-     - 1½ ounces Carpano Antica Formula vermouth
+     - 1½ ounces Carpano Antica Formula sweet vermouth
      - ¾ ounce Fernet-Branca
      - ¾ ounce El Dorado 8-year rum
      - ½ ounce Giffard Banane du Brésil
@@ -5200,7 +5200,7 @@ recipes:
     ingredients:
      - 1 ¼ ounces Elijah Craig 12-year bourbon
      - ½ ounce Bowmore 12-Year Scotch 
-     - ¼ ounce Smith & Cross Jamaica rum 
+     - ¼ ounce Smith & Cross Jamaican rum 
      - 2 teaspoons Galliano Ristretto 
      - 1 teaspoon Giffard passion fruit liqueur
      - "Garnish: 1 Orange twist"
@@ -5242,7 +5242,7 @@ recipes:
      - ½ ounce Del Maguey Chichicapa mezcal
      - ¼ ounce Gonzáles Byass Nectar Pedro Ximénez dulce sherry
      - 1 teaspoon Honey Syrup
-     - 1 dash Bittermens Xocolati Mole Bitters
+     - 1 dash Bittermens Xocolatl Mole Bitters
      - 1 dash Habanero Tincture
     steps:
      - Stir all the ingredients over ice, then strain into a single old-fashioned glass over 1 large ice cube
@@ -5398,7 +5398,7 @@ recipes:
     notes: 
     ingredients:
      - 1½ ounces Old Forester Signature bourbon
-     - ½ ounce Smith & Cross Jamaica rum
+     - ½ ounce Smith & Cross Jamaican rum
      - ½ teaspoon Cinnamon Syrup
      - ½ teaspoon Demerara Syrup
      - ½ teaspoon Giffard passion fruit liqueur
@@ -5663,7 +5663,7 @@ recipes:
     ingredients:
      - 1 ounce Old Grand-Dad bonded bourbon
      - ½ ounce Plantation Pineapple rum
-     - ¼ ounce Smith & Cross Jamaica rum
+     - ¼ ounce Smith & Cross Jamaican rum
      - ¼ ounce Amaro Averna
      - 1 teaspoon Vanilla Syrup
      - 1 dash Angostura bitters
@@ -5759,7 +5759,7 @@ recipes:
     notes: Prizefighter #1, a vermouth and Fernet based smash from Nick Jarrett, is a one of the best modern cocktails, and this drink plays off of that while morphing into more of a cobbler. -TB
     ingredients:
      - 1 grapefruit half wheel
-     - 1½ ounces Carpano Antica Formula vermouth
+     - 1½ ounces Carpano Antica Formula sweet vermouth
      - ¾ ounce Fernet-Branca 
      - ¾ ounce Amaro Averna
      - ½ ounce Cruzan single-barrel rum 
@@ -6048,10 +6048,10 @@ recipes:
     ingredients:
      - 1 ounce Kilkerran 12-year single malt scotch
      - ¾ ounce Ron del Barrilito 3-Star rum 
-     - ¼ ounce Smith & Cross Jamaica rum
+     - ¼ ounce Smith & Cross Jamaican rum
      - ½ teaspoon crème de cacao
      - 1 teaspoon Pineapple Gum Syrup
-     - 2 dashes Bittermens Xocolati Mole Bitters
+     - 2 dashes Bittermens Xocolatl Mole Bitters
      - "Garnish: 1 lemon twist"
     steps:
      - Stir all the ingredients over ice, then strain into a single old-fashioned glass over 1 large ice cube
@@ -6112,7 +6112,7 @@ recipes:
     year: 2019
     notes: It's ironic that Old-Fashioned style cocktails are usually our most popular drinks, but often the last ones developed for a menu. Here, I started with a Toki Highball, Japan's most notable cocktail, and started deconstructing it. Toki whisky is a young blend with lots of pear, honey, and rose on the nose; Bertoux adds nuances of juicy stone fruit that intensify those flavors, while the Caol Ila pushes the Toki's subtle smoky notes. Our original intention was to add seltzer and make this into a highball, but we realized that the drink was better without bubbles. -JT
     ingredients:
-     - 1½ ounces Suntory Toki Japanese whisky
+     - 1½ ounces Suntory Toki whisky
      - ½ ounce Bertoux brandy
      - ¼ ounce Italicus Rosolio bergamot liqueur
      - ¼ ounce Caol Ila 12-year scotch
@@ -6354,7 +6354,7 @@ recipes:
      - 1½ ounces Hayman's Old Tom gin
      - ¾ ounce Cesar Florido Moscatel Dorado
      - ¼ ounce Amaro Ciociaro
-     - ½ ounce Carpano Antica Formula vermouth
+     - ½ ounce Carpano Antica Formula sweet vermouth
      - 1 dash Angostura bitters
      - 1 dash House Orange Bitters
      - "Garnish: 1 brandied cherry "
@@ -6409,7 +6409,7 @@ recipes:
     notes: This Boulevardier-style cocktail riffs on Brian Miller's Cure for Pain, with a split vermouth-port modifier. Granada-Vallet is an aperitivo made in Mexico that tastes similar to Campari, but is more dry. -MB 
     ingredients:
      - 1½ ounces Barrell Dovetail whiskey
-     - ½ ounce Carpano Antica Formula vermouth 
+     - ½ ounce Carpano Antica Formula sweet vermouth 
      - ½ ounce Dow's ruby port
      - 1 teaspoon Granada-Vallet bitter pomegranate liqueur 
      - 1 teaspoon Galliano Ristretto
@@ -6546,9 +6546,9 @@ recipes:
     notes: This is basically a classic Hanky-Panky with additional flavors of rum, banana, and eucalyptus layered on top. -MB
     ingredients:
      - 1¼ ounces Plymouth gin 
-     - 1 ounce Carpano Antica Formula vermouth
+     - 1 ounce Carpano Antica Formula sweet vermouth
      - ½ ounce Fernet-Branca
-     - ¼ ounce Smith & Cross Jamaica rum 
+     - ¼ ounce Smith & Cross Jamaican rum 
      - ¼ ounce Giffard banane du Brésil 
      - 1 drop Terra Spice eucalyptus extract
      - "Garnish: 1 mint bouquet"
@@ -6622,7 +6622,7 @@ recipes:
      - 1 ounce Paul Beau Hors d'Age cognac 
      - ½ ounce Clear Creek Douglas Fir eau-de-vie
      - ½ ounce Yellow Chartreuse V.E.P. 
-     - ½ ounce Carpano Antica Formula vermouth
+     - ½ ounce Carpano Antica Formula sweet vermouth
     steps:
      - Stir all the ingredients over ice, then strain into a chilled martini glass
      - No garnish
@@ -6714,7 +6714,7 @@ recipes:
     notes: Brandy drinks are often the last ones to be developed for a menu. We have nothing against brandy, but we're usually thinking about other spirits first. This is riff on a brandy Manhattan, splitting the aromatized wine between vermouth and sherry. Alex Day likes to say that if you want to make a Manhattan variation more interesting, add a teaspoon of maraschino liqueur, so I took his advice. -JA
     ingredients:
      - 2 ounces Hine H cognac
-     - ¾ ounce Carpano Antica Formula vermouth
+     - ¾ ounce Carpano Antica Formula sweet vermouth
      - ½ ounce Hidalgo oloroso sherry 
      - ¼ ounce Cynar
      - 1 teaspoon Luxardo Maraschino Liqueur
@@ -6847,7 +6847,7 @@ recipes:
      - 1½ ounces Tyrconnell Single-Malt Irish Whiskey
      - ½ ounce Rittenhouse rye
      - ½ ounce Cappelletti Vino Aperitivo 
-     - ½ ounce Carpano Antica Formula vermouth
+     - ½ ounce Carpano Antica Formula sweet vermouth
      - ½ teaspoon Dupont Aigre Doux
      - 2 dashes Angostura bitters 
      - "Garnish: 1 lemon twist"
@@ -6942,7 +6942,7 @@ recipes:
      - ½ ounce Cruzan Black Strap rum
      - ½ ounce Amaro Averna 
      - ¼ ounce Lustau Pedro Ximénez sherry
-     - 1 teaspoon Smith & Cross Jamaica rum
+     - 1 teaspoon Smith & Cross Jamaican rum
      - 1 teaspoon Clément Créole Shrubb
      - 1 dash Bitter End Moroccan Bitters
      - "Garnish: 1 Orange twist"
@@ -7004,7 +7004,7 @@ recipes:
     ingredients:
      - 1 ounce Tapatío Anejo tequila 
      - 1 ounce Domaine du Manoir de Montreuil calvados
-     - ¾ ounce Carpano Antica Formula vermouth
+     - ¾ ounce Carpano Antica Formula sweet vermouth
      - ¼ ounce Vanilla Syrup
      - 1 drop Terra Spice root beer extract 
      - 1 dash Miracle Mile Pecan Bitters
@@ -7042,7 +7042,7 @@ recipes:
     ingredients:
      - 1½ ounces Rittenhouse rye 
      - ½ ounce Sombra mezcal
-     - ½ ounce Carpano Antica Formula vermouth
+     - ½ ounce Carpano Antica Formula sweet vermouth
      - ¼ ounce Amaro Averna
      - 1 teaspoon Campari 
      - "Garnish: 1 Orange twist and 1 brandied cherry"
@@ -7080,7 +7080,7 @@ recipes:
      - 1 ounce Rittenhouse rye 
      - 1 ounce Laird's bonded apple brandy
      - ½ ounce Maurin Quina
-     - ¼ ounce Carpano Antica Formula vermouth
+     - ¼ ounce Carpano Antica Formula sweet vermouth
      - ¼ ounce Amaro Nardini
      - 1 teaspoon Bénédictine 
      - 1 dash Peychaud's bitters
@@ -7154,7 +7154,7 @@ recipes:
     year: 2019
     notes: Amrut tastes like scotch that was made in the tropics, I guess because that's exactly what it is—you can somehow taste the heat of Southern India in the flavor profile. Here, I pair it with flavors of coffee, passion fruit, and cardamom, a trio that has an affinity in Middle Eastern and subcontinent cuisines, underlining the idea that what grows together, goes together. -ST
     ingredients:
-     - 1½ ounces Amrut cask-strength single malt Indian whisky
+     - 1½ ounces Amrut Cask-Strength Single-Malt Indian Whisky
      - ¾ ounce Henriques & Henriques rainwater madeira
      - ¼ ounce Galliano Ristretto 
      - 1 teaspoon Giffard passion fruit liqueur
@@ -7234,7 +7234,7 @@ recipes:
     ingredients:
      - 1½ ounces Barrell Dovetail whiskey
      - 1 ounce Taylor Fladgate ruby port 
-     - ½ ounce Carpano Antica Formula vermouth
+     - ½ ounce Carpano Antica Formula sweet vermouth
      - 1 teaspoon Kronan Swedish Punsch 
      - 2 dashes Miracle Mile Redeye Bitters 
      - "Garnish: 1 brandied cherry"
@@ -7534,7 +7534,7 @@ recipes:
      - 1 ounce Tariquet 15-year Bas-Armagnac
      - ¾ ounce Avuá Amburana cachaça
      - ¼ ounce Reisetbauer hazelnut eau-de-vie
-     - ¾ ounce Carpano Antica sweet vermouth
+     - ¾ ounce Carpano Antica Formula sweet vermouth
      - 1 teaspoon Vanilla Syrup
      - 1 dash Angostura bitters
     steps:
@@ -7893,7 +7893,7 @@ recipes:
     notes: My goal was to create a three-ingredient stirred rum drink. I started with Appleton, Yellow Chartreuse, and pear liqueur, but suggested adding a little funky rum to make it more interesting. In essence, it was a simple cocktail we made more complicated because we could. -JA
     ingredients:
      - 1½ ounces Appleton Estate Signature Blend Jamaica rum 
-     - ½ ounce Smith & Cross Jamaica rum
+     - ½ ounce Smith & Cross Jamaican rum
      - ½ ounce Yellow Chartreuse 
      - ½ ounce St. George spiced pear liqueur
     steps:
@@ -8318,7 +8318,7 @@ recipes:
     notes: 
     ingredients:
      - 1½ ounces Louis Roque La Vieille prune eau-de-vie
-     - ½ ounce Amrut cask-strength single malt Indian whisky
+     - ½ ounce Amrut Cask-Strength Single-Malt Indian Whisky
      - ½ ounce Cocchi vermouth di Torino 
      - ½ ounce Henriques & Henriques 5-year vino generoso doce madeira 
      - ¼ ounce Amaro Nardini
@@ -8338,7 +8338,7 @@ recipes:
     ingredients:
      - 1 ounce Wild Turkey 101 Rye
      - 1 ounce Linie Aquavit
-     - ¾ ounce Carpano Antica Formula vermouth
+     - ¾ ounce Carpano Antica Formula sweet vermouth
      - ¼ ounce Kalani Ron de Coco coconut liqueur
      - 1 dash Bitter Truth Celery Bitters
      - "Garnish: 1 lemon twist"
@@ -8398,7 +8398,7 @@ recipes:
     ingredients:
      - 1 ounce Wild Turkey 101 Rye
      - 1 ounce Linie Aquavit 
-     - ¾ ounce Carpano Antica Formula vermouth
+     - ¾ ounce Carpano Antica Formula sweet vermouth
      - ¼ ounce Giffard rhubarb liqueur
      - 1 teaspoon Combier crème de rose
      - 1 dash absinthe 
@@ -8456,7 +8456,7 @@ recipes:
     year: 2018
     notes: 
     ingredients:
-     - 1½ ounces Suntory Toki Japanese Whisky
+     - 1½ ounces Suntory Toki whisky
      - 1 ounce Donn's Mix #1
      - ½ ounce Coco López
      - ½ ounce fresh lime juice
@@ -8496,7 +8496,7 @@ recipes:
     notes: I love Vietnamese coffee, both hot and cold, so I wanted to translate its flavors into a drink that could also be served at either temperature. -JL
     ingredients:
      - ¾ ounce Pierre Ferrand ambré cognac
-     - ½ ounce Batavia arrack
+     - ½ ounce Batavia-Arrack Van Oosten
      - ¼ ounce Grand Marnier
      - ¼ ounce Galliano Ristretto
      - ½ ounce Milk Syrup
@@ -8517,7 +8517,7 @@ recipes:
     notes: I love Vietnamese coffee, both hot and cold, so I wanted to translate its flavors into a drink that could also be served at either temperature. -JL
     ingredients:
      - ¾ ounce Pierre Ferrand ambré cognac
-     - ½ ounce Batavia arrack
+     - ½ ounce Batavia-Arrack Van Oosten
      - ¼ ounce Galliano Ristretto
      - ½ ounce Demerara Syrup
      - 3 ounces hot coffee
@@ -8556,7 +8556,7 @@ recipes:
     notes: This is probably my most conceptually driven cocktail. I went to the British Virgin Islands on vacation with my girlfriend and her family, and I learned that her mother’s favorite cocktail is the resort classic Lime in a Coconut. When we got back home, I decided to create a tiki-style drink in her honor. The drink is named after her thirty-pound cat. -AG
     ingredients:
      - 1 ounce Plantation Barbados 5-year rum
-     - ½ ounce Smith & Cross Jamaica rum
+     - ½ ounce Smith & Cross Jamaican rum
      - ½ ounce Lustau oloroso sherry
      - 1 ounce unsweetened coconut milk
      - ¾ ounce fresh lime juice
@@ -8705,7 +8705,7 @@ recipes:
     ingredients:
      - 1 ounce Rittenhouse rye
      - ½ ounce Avuá Amburana cachaça 
-     - ¼ ounce Smith & Cross Jamaica rum
+     - ¼ ounce Smith & Cross Jamaican rum
      - ¼ ounce Amaro Averna 
      - ¾ ounce Cinnamon Syrup
      - ½ ounce coconut milk
@@ -8894,7 +8894,7 @@ recipes:
      - 30 ounces whole milk
      - 33 eggs
      - One 750 ml bottle Old Grand-Dad 114 bourbon
-     - 12½ ounces Smith & Cross Jamaicia rum
+     - 12½ ounces Smith & Cross Jamaican rum
      - 12½ ounces Blandy's 5-year Malmsey madeira
      - 12½ ounces Pierre Ferrand ambré cognac
      - 20 ounces heavy cream

@@ -231,9 +231,9 @@ recipes:
       - citrus
   - name: Cool Runnings
     author: Masahiro Urushido
-    notes: The inspiration for this drink is the classic Mai Tai, a cocktail that conjures up beach vacations in many an imagination. I collaborated with one of our star bartenders, Laura McGinley, to give the drink a winter makeover. We named it Cool Runnings to salute the popular 1993 sports comedy of the same name about the improbable debut of the Jamaican bobsled team at the Alberta Winter Olympics. Batavia arrack provides some rummy funkiness and sweet potato shochu adds comforting notes of the baked, starchy tuber that go well with banana and chocolate. The Puffed Rice–Coconut Orgeat is the secret ingredient and adds a luxurious mouthfeel. For the garnish, we take Okinawan purple yams, slice them thinly, dehydrate the slices, then pulverize them into a powder that is replete with potato flavor and a stunning purple color.
+    notes: The inspiration for this drink is the classic Mai Tai, a cocktail that conjures up beach vacations in many an imagination. I collaborated with one of our star bartenders, Laura McGinley, to give the drink a winter makeover. We named it Cool Runnings to salute the popular 1993 sports comedy of the same name about the improbable debut of the Jamaican bobsled team at the Alberta Winter Olympics. Batavia-Arrack Van Oosten provides some rummy funkiness and sweet potato shochu adds comforting notes of the baked, starchy tuber that go well with banana and chocolate. The Puffed Rice–Coconut Orgeat is the secret ingredient and adds a luxurious mouthfeel. For the garnish, we take Okinawan purple yams, slice them thinly, dehydrate the slices, then pulverize them into a powder that is replete with potato flavor and a stunning purple color.
     ingredients:
-    - ¾ ounce Batavia arrack
+    - ¾ ounce Batavia-Arrack Van Oosten
     - ¾ ounce Asahi-Mannen sweet potato shochu
     - ¼ ounce Giffard crème de cacao
     - ¼ ounce Giffard crème de banane
@@ -822,7 +822,7 @@ recipes:
     ingredients:
     - 1½ ounces Iri Bancha–Infused Japanese Whisky 
     - ⅔ ounce Hojicha-Infused Campari 
-    - ⅔ ounce Carpano Antica Formula vermouth
+    - ⅔ ounce Carpano Antica Formula sweet vermouth
     - "Garnish: torched dehydrated orange slice"
     steps:
     - Build the drink by adding the whisky, Campari, and vermouth to an old-fashioned glass over ice. Stir until chilled. Garnish with a torched dehydrated orange slice.
@@ -867,7 +867,7 @@ recipes:
     ingredients:
     - 1½ ounces Sesame Oil-Washed Japanese Whisky
     - ¾ ounce ginger liqueur
-    - ¾ ounce Madeira wine (or substitute Carpano Antica Formula vermouth)
+    - ¾ ounce Madeira wine (or substitute Carpano Antica Formula sweet vermouth)
     - 2 drops Kishibori Shoyu barrel-aged soy sauce 
     - "Garnish: 1 by 3-inch rectangle nori"
     steps:

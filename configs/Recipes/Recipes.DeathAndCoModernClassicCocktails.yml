@@ -492,7 +492,7 @@ recipes:
     ingredients:
     - 2 ounces Fords gin
     - ½ ounce Contratto Americano Rosso Vermouth
-    - ½ ounce Carpano Antica Formula Vermouth
+    - ½ ounce Carpano Antica Formula sweet vermouth
     - ¼ ounce Fernet-Branca
     - "Garnish: lemon twist"
     steps:
@@ -770,7 +770,7 @@ recipes:
     notes: 
     ingredients:
     - 1½ ounces Redbreast 12-Year Irish Whiskey
-    - 1 ounce Coffee-Infused Carpano Antica Formula Vermouth
+    - 1 ounce Coffee-Infused Carpano Antica Formula sweet vermouth
     - ¼ ounce Demerara syrup
     - 1 egg yolk
     - ½ ounce heavy cream
@@ -878,7 +878,7 @@ recipes:
     year:
     notes: 
     ingredients:
-    - 1 ounce Smith & Cross rum
+    - 1 ounce Smith & Cross Jamaican rum
     - ½ ounce El Dorado 151 rum
     - ½ ounce El Dorado 3-Year rum
     - 3 dashes Kalani Ron de Coco Coconut Liqueur
@@ -982,7 +982,7 @@ recipes:
     notes: 
     ingredients:
     - 1½ ounces Old Grand-Dad 114 Bourbon
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ¼ ounce Bénédictine
     - 1 dash Bitter Truth Aromatic Bitters 
     - "Garnish: 1 Orange twist"
@@ -1065,7 +1065,7 @@ recipes:
     notes: 
     ingredients:
     - 2 ounces Compass Box Asyla Scotch
-    - ¾ ounce Carpano Antica Formula Vermouth 
+    - ¾ ounce Carpano Antica Formula sweet vermouth 
     - 2 dashes Angostura bitters
     - "Garnish: 2 brandied cherries on a cocktail pick"
     steps:
@@ -1235,7 +1235,7 @@ recipes:
     ingredients:
     - Campari
     - 1½ ounces Beefeater London Dry gin
-    - 1 ounce Carpano Antica Formula Vermouth
+    - 1 ounce Carpano Antica Formula sweet vermouth
     - 1 ounce Green Chartreuse
     - 1 dash House Orange bitters 
     - "Garnish: 1 lemon twist"
@@ -1322,7 +1322,7 @@ recipes:
     ingredients:
     - 1 ounce Rittenhouse 100 Rye
     - 1 ounce Pierre Ferrand Ambre Cognac
-    - 1 ounce Carpano Antica Formula Vermouth
+    - 1 ounce Carpano Antica Formula sweet vermouth
     - 1 teaspoon Bénédictine
     - 1 dash Angostura bitters
     - 1 dash House Peychaud’s bitters 
@@ -1400,7 +1400,7 @@ recipes:
     ingredients:
     - 3 small ripe anjou pear slices
     - 1 ounce Pennyroyal-Infused Hayman’s Old Tom gin
-    - 1 ounce Tanqueray No Ten gin
+    - 1 ounce Tanqueray No. Ten gin
     - ¾ ounce lemon juice
     - ¼ ounce orgeat
     - ¼ ounce Cinnamon Bark syrup
@@ -1659,7 +1659,7 @@ recipes:
     - 2 cucumber wheels
     - 1½ ounces Tanqueray London Dry gin
     - ½ ounce Bonal Gentiane-Quina
-    - ½ ounce Carpano Antica Formula Vermouth
+    - ½ ounce Carpano Antica Formula sweet vermouth
     - ¾ ounce lemon juice
     - ¼ ounce orgeat
     - ¼ ounce ginger syrup
@@ -1839,7 +1839,7 @@ recipes:
     year: 2008
     notes: My friends and I used to go to dolores park in san francisco and drink beer mixed with fresh fruit from the farmers’ market, like the Germans do. My favorite combination was pineapple with IPA, which inspired this drink, named after the B-side to EMF’s hit song “Unbelievable.”—TW
     ingredients:
-    - 2 ounces Tanqueray No Ten gin
+    - 2 ounces Tanqueray No. Ten gin
     - ¾ ounce Velvet Falernum 
     - 1 ounce pineapple juice
     - ½ ounce lemon juice 
@@ -1953,7 +1953,7 @@ recipes:
     notes: 
     ingredients:
     - 2 ounces Beefeater London Dry gin
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ½ ounce Cynar
     - "Garnish: 1 brandied cherry"
     steps:
@@ -2031,8 +2031,8 @@ recipes:
     notes: 
     ingredients:
     - 2 ounces Ransom Old Tom gin
-    - ½ ounce Coffee-Infused Carpano Antica Formula Vermouth
-    - ½ ounce Carpano Antica Formula Vermouth
+    - ½ ounce Coffee-Infused Carpano Antica Formula sweet vermouth
+    - ½ ounce Carpano Antica Formula sweet vermouth
     - ¼ ounce Rhum Clément Créole Shrubb 
     - 2 dashes Regans' Orange bitters
     - 1 dash Angostura bitters
@@ -2149,7 +2149,7 @@ recipes:
     ingredients:
     - 2 ounces Bols Genever
     - ½ ounce Cardamaro
-    - ½ ounce Carpano Antica Formula Vermouth
+    - ½ ounce Carpano Antica Formula sweet vermouth
     - 2 dashes Bittermens Hopped Grapefruit Bitters
     - "Garnish: 1 grapefruit twist"
     steps:
@@ -2180,7 +2180,7 @@ recipes:
     notes: 
     ingredients:
     - 2 ounces Beefeater London Dry gin
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ¼ ounce Luxardo Maraschino Liqueur
     - ¼ ounce Amaro Lucano
     steps:
@@ -2315,7 +2315,7 @@ recipes:
     year: 2008
     notes: This cocktail was inspired by what many consider the original martini recipe, which consisted of gin, Sauvignon Blanc, and grated cinnamon.—BM 
     ingredients:
-    - 1½ ounces Tanqueray No Ten gin
+    - 1½ ounces Tanqueray No. Ten gin
     - 1 ounce Morro Bay Chardonnay
     - ½ ounce Cinnamon Bark syrup 
     - "Garnish: 1 lemon twist"
@@ -2365,7 +2365,7 @@ recipes:
     year: 2011
     notes: 
     ingredients:
-    - 1 ounce Tanqueray No Ten gin
+    - 1 ounce Tanqueray No. Ten gin
     - 1 ounce Bols Genever
     - ½ ounce Grand Marnier
     - ½ teaspoon cane sugar syrup
@@ -2396,11 +2396,11 @@ recipes:
   - name: 18th Century
     author: Phil Ward
     year: 2008
-    notes: This variation on the classic 20th Century cocktail is my love letter to Batavia Arrack.—PW
+    notes: This variation on the classic 20th Century cocktail is my love letter to Batavia-Arrack Van Oosten.—PW
     ingredients:
-    - 1½ ounces Van Oosten Batavia Arrack
+    - 1½ ounces Van Oosten Batavia-Arrack Van Oosten
     - ¾ ounce Marie Brizard White Crème de Cacao
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ¾ ounce lime juice
     steps:
     - Shake all the ingredients with ice, then strain into a coupe
@@ -2530,7 +2530,7 @@ recipes:
     notes: This is basically a rum version of Brian’s Gilda cocktail, hence the name. It’s also the only drink I’ve made that uses a full two ounces of overproof rum.—TW
     ingredients:
     - Cinnamon-sugar rim
-    - 2 ounces Smith & Cross rum
+    - 2 ounces Smith & Cross Jamaican rum
     - ½ ounce pineapple juice
     - ½ ounce lime juice
     - ½ ounce Vanilla syrup
@@ -2755,10 +2755,10 @@ recipes:
   - name: Arrack Strap
     author: Brad Farran
     year: 2012 
-    notes: At some point, every Death & Co bartender takes on the challenge of Batavia Arrack. One of the best ways to combat Arrack is by balancing it with another strong flavor, in this case black strap rum.—BF
+    notes: At some point, every Death & Co bartender takes on the challenge of Batavia-Arrack Van Oosten. One of the best ways to combat Arrack is by balancing it with another strong flavor, in this case black strap rum.—BF
     ingredients:
     - 1 ounce Cruzan Black Strap rum
-    - 1 ounce Van Oosten Batavia Arrack
+    - 1 ounce Van Oosten Batavia-Arrack Van Oosten
     - 1 ounce Cocchi Vermouth di Torino
     - 1 teaspoon Campari
     - ½ teaspoon Demerara syrup
@@ -2811,7 +2811,7 @@ recipes:
     ingredients:
     - 2 ounces Pampero Aniversario rum
     - ½ ounce Lemon Hart 151 rum
-    - ½ ounce Coffee-Infused Carpano Antica Formula Vermouth
+    - ½ ounce Coffee-Infused Carpano Antica Formula sweet vermouth
     - ¼ ounce Marie Brizard White Crème de Cacao
     - ½ teaspoon Demerara syrup
     - 1 dash Bittermens Xocolatl Mole Bitters
@@ -2833,7 +2833,7 @@ recipes:
     - ½ ounce Alvear Festival Pale Cream sherry
     - ½ ounce Lustau East India Solera sherry
     - ¼ ounce Alchemia Chocolate Vodka
-    - 1 teaspoon Carpano Antica Formula Vermouth
+    - 1 teaspoon Carpano Antica Formula sweet vermouth
     - ½ teaspoon Suze Saveur D’autrefois liqueur
     - 1 dash Bittercube Cherry Bark and Vanilla bitters
     - 1 Orange twist
@@ -2901,7 +2901,7 @@ recipes:
     ingredients:
     - 1½ ounces El Dorado 15-Year rum
     - ½ ounce Santa Teresa 1796 rum
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ½ ounce Fernet-Branca
     - ¼ ounce Yellow Chartreuse
     - 1 dash Vieux Pontarlier Absinthe
@@ -2946,9 +2946,9 @@ recipes:
   - name: Passing Aden
     author: Alex Day
     year: 2008
-    notes: Batavia Arrack, with its intense, funky hogo flavor, can be a challenge to work with. Here I use it in a classic punch formula with Demerara syrup. Including a cinnamon stick when stirring the drink subtly heightens the cinnamon notes in the infused vermouth.—AD
+    notes: Batavia-Arrack Van Oosten, with its intense, funky hogo flavor, can be a challenge to work with. Here I use it in a classic punch formula with Demerara syrup. Including a cinnamon stick when stirring the drink subtly heightens the cinnamon notes in the infused vermouth.—AD
     ingredients:
-    - 2 ounces Van Oosten Batavia Arrack
+    - 2 ounces Van Oosten Batavia-Arrack Van Oosten
     - 1 ounce Cinnamon Orange Tea-Infused Sweet Vermouth
     - ¼ ounce Demerara syrup
     - 2 dashes Bitter Truth Aromatic Bitters
@@ -2998,7 +2998,7 @@ recipes:
     notes: A lot of my drinks are inspired by dessert. Sometimes an idea comes from a new flavor pairing I discover at the hands of a great pastry chef; other times it comes from a childhood favorite. This drink is loosely based on the flavors of rocky road ice cream, minus the overwhelming sweetness.—TW
     ingredients:
     - 1½ ounces Zacapa 23-Year rum
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ½ ounce Otima 10-Year Tawny Port
     - 2½ teaspoons Marie Brizard White Crème de Cacao
     - 2½ teaspoons Alchemia Chocolate Vodka
@@ -3131,7 +3131,7 @@ recipes:
     ingredients:
     - 2 orange wedges
     - 2 ounces Siete Leguas Reposado Tequila
-    - ¼ ounce Smith & Cross rum
+    - ¼ ounce Smith & Cross Jamaican rum
     - ¾ ounce lime juice
     - ½ ounce Cinnamon Bark syrup
     - ¼ ounce cane sugar syrup
@@ -3639,7 +3639,7 @@ recipes:
     notes: 
     ingredients:
     - 2 ounces El Tesoro Reposado Tequila
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ½ ounce Cynar
     - "Garnish: 1 brandied cherry"
     steps:
@@ -3686,7 +3686,7 @@ recipes:
     notes: We had a coffee pod machine at the bar that made really crappy coffee, so I would add a splash of Green Chartreuse and cinnamon syrup to make it drinkable.—JG
     ingredients:
     - 2 ounces Siete Leguas Reposado Tequila
-    - ½ ounce Coffee-Infused Carpano Antica Formula Vermouth
+    - ½ ounce Coffee-Infused Carpano Antica Formula sweet vermouth
     - ½ ounce Green Chartreuse
     - 1 teaspoon Cinnamon Bark syrup
     - 1 dash Bittermens Xocolatl Mole Bitters
@@ -3743,7 +3743,7 @@ recipes:
     - 2 ounces Siete Leguas Reposado Tequila
     - 1 ounce Morenita Cream sherry
     - ½ teaspoon Clear Creek Pear Brandy
-    - ½ teaspoon Carpano Antica Formula Vermouth
+    - ½ teaspoon Carpano Antica Formula sweet vermouth
     - ½ teaspoon agave nectar
     - 1 dash Bittermens Xocolatl Mole Bitters
     - 1 dash Angostura bitters
@@ -3866,7 +3866,7 @@ recipes:
     notes: This is one of the few tequila-based cocktails I’ve created for D&C. It’s based on the spec for a Red Hook.—BM
     ingredients:
     - 2 ounces El Tesoro Reposado Tequila
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ¼ ounce Solerno Blood Orange Liqueur 
     - 1 dash Bittermens Xocolatl Mole Bitters
     steps:
@@ -3882,8 +3882,8 @@ recipes:
     ingredients:
     - 1 ounce El Tesoro Reposado Tequila
     - ½ ounce Los Amantes Joven Mezcal
-    - ¾ ounce Carpano Antica Formula Vermouth
-    - ½ ounce Van Oosten Batavia Arrack
+    - ¾ ounce Carpano Antica Formula sweet vermouth
+    - ½ ounce Van Oosten Batavia-Arrack Van Oosten
     - ¼ ounce St Elizabeth Allspice Dram
     - ¼ ounce Bénédictine
     - 2 dashes Bittermens Xocolatl Mole Bitters
@@ -4646,7 +4646,7 @@ recipes:
     ingredients:
     - 2 ounces Caol Ila 12-Year Scotch
     - ½ ounce Galliano Ristretto
-    - 1 teaspoon Carpano Antica Formula Vermouth
+    - 1 teaspoon Carpano Antica Formula sweet vermouth
     - 2 dashes Bittermens Xocolatl Mole Bitters
     steps:
     - Stir all the ingredients over ice, then strain into a martini glass
@@ -4663,7 +4663,7 @@ recipes:
     - 1½ ounces Rittenhouse 100 Rye
     - ½ ounce Stagg Bourbon
     - ½ ounce Otima 10-Year Tawny Port
-    - ½ ounce Carpano Antica Formula Vermouth 
+    - ½ ounce Carpano Antica Formula sweet vermouth 
     - 1 teaspoon Campari
     - 1 teaspoon Marie Brizard White Crème de Cacao 
     - "Garnish: 1 Orange twist"
@@ -4714,7 +4714,7 @@ recipes:
     ingredients:
     - ¾ ounce Old Grand-Dad 114 Bourbon
     - ¾ ounce Laird’s Bonded Apple Brandy
-    - ¼ ounce Smith & Cross rum
+    - ¼ ounce Smith & Cross Jamaican rum
     - ¼ ounce Green Chartreuse
     - 1 teaspoon Cinnamon Bark syrup
     - 1 teaspoon Vanilla syrup 
@@ -4775,7 +4775,7 @@ recipes:
     notes: 
     ingredients:
     - 2 ounces Compass Box Asyla Scotch
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ¼ ounce Drambuie
     - 1 dash House Peychaud’s bitters
     steps:
@@ -4949,7 +4949,7 @@ recipes:
     notes: 
     ingredients:
     - 1½ ounces Pierre Ferrand Ambre Cognac
-    - ½ ounce Smith & Cross rum
+    - ½ ounce Smith & Cross Jamaican rum
     - ½ ounce Rhum Clément Créole Shrubb
     - ¾ ounce lemon juice
     - ¼ ounce Cinnamon Bark syrup
@@ -5304,7 +5304,7 @@ recipes:
     notes: 
     ingredients:
     - 2 ounces Hine H Cognac
-    - 1 ounce Carpano Antica Formula Vermouth
+    - 1 ounce Carpano Antica Formula sweet vermouth
     - 1 ounce Toby’s Sour Cherry Shrub
     - 1 dash House Orange bitters
     - "Garnish: 3 brandied cherries on a cocktail pick"
@@ -5359,7 +5359,7 @@ recipes:
     notes: 
     ingredients:
     - 2 ounces Laird’s Bonded Apple Brandy
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ½ ounce Cointreau
     - 1 dash Bittermens Xocolatl Mole Bitters
     steps:
@@ -5375,7 +5375,7 @@ recipes:
     ingredients:
     - 2 ounces Busnel VSOP Calvados
     - ¼ ounce Laird’s Bonded Apple Brandy
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ½ ounce St-Germain
     - 2 dashes House Peychaud’s bitters 
     - "Garnish: 1 lemon twist"
@@ -5392,7 +5392,7 @@ recipes:
     ingredients:
     - 1 ounce Hine H Cognac
     - 1 ounce Appleton Estate V/X rum
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ¼ ounce Luxardo Maraschino Liqueur 
     - 1 dash Angostura bitters
     steps:
@@ -5404,12 +5404,12 @@ recipes:
   - name: Night Owl
     author: Alex Day
     year: 2009
-    notes: This Manhattan variation uses Batavia Arrack as a modifier, which adds a bit of complexity without making the drink too funky.—AD
+    notes: This Manhattan variation uses Batavia-Arrack Van Oosten as a modifier, which adds a bit of complexity without making the drink too funky.—AD
     ingredients:
     - 2 ounces Pierre Ferrand Ambre Cognac
     - ½ ounce Punt e Mes
     - ½ ounce Lustau East India Solera sherry
-    - ¼ ounce Van Oosten Batavia Arrack
+    - ¼ ounce Van Oosten Batavia-Arrack Van Oosten
     steps:
     - Stir all the ingredients over ice, then strain into a coupe
     - No garnish
@@ -5490,7 +5490,7 @@ recipes:
     ingredients:
     - 2 ounces Busnel VSOP Calvados
     - ½ ounce Drambuie
-    - ½ ounce Carpano Antica Formula Vermouth 
+    - ½ ounce Carpano Antica Formula sweet vermouth 
     - 1 teaspoon St Elizabeth Allspice Dram
     - 1 dash Angostura bitters
     - "Garnish: 3 brandied cherries on a cocktail pick"
@@ -5627,7 +5627,7 @@ recipes:
     year: 2009
     notes: 
     ingredients:
-    - 1½ ounces Tanqueray No Ten gin
+    - 1½ ounces Tanqueray No. Ten gin
     - ½ ounce St-Germain
     - ½ ounce lemon juice
     - ½ ounce Hibiscus syrup
@@ -6086,7 +6086,7 @@ recipes:
     notes: This drink is inspired by the Chicago Cocktail from the iconic New York speakeasy Milk & Honey, which is essentially a rum Manhattan. The splash of champagne acts more like a garnish, lightening up the drink a bit.—AD
     ingredients:
     - 2 ounces El Dorado 12-Year rum
-    - 1 ounce Carpano Antica Formula Vermouth
+    - 1 ounce Carpano Antica Formula sweet vermouth
     - 1 dash Angostura bitters
     - 1 dash House Peychaud’s bitters
     - ½ ounce dry champagne 
@@ -6270,7 +6270,7 @@ recipes:
     notes: 
     ingredients:
     - 1½ ounces Amaro Nardini
-    - 1 ounce Carpano Antica Formula Vermouth
+    - 1 ounce Carpano Antica Formula sweet vermouth
     - ¼ ounce Marie Brizard White Crème de Menthe
     - ¼ ounce Marie Brizard White Crème de Cacao 
     - "Garnish: 1 Orange twist"
@@ -6346,7 +6346,7 @@ recipes:
     - 16 demerara sugar cubes
     - 10 ounces club soda
     - 6 ounces Appleton Estate V/X rum
-    - 3 ounces Van Oosten Batavia Arrack
+    - 3 ounces Van Oosten Batavia-Arrack Van Oosten
     - 1 ounce Luxardo Maraschino Liqueur
     - 3 ounces lime juice
     - 5 dashes Bitter Truth Aromatic Bitters 
@@ -6368,7 +6368,7 @@ recipes:
     ingredients:
     - 12 White sugar cubes
     - 8 ounces club soda
-    - 6 ounces Tanqueray No Ten gin
+    - 6 ounces Tanqueray No. Ten gin
     - 2 ounces Aperol
     - 2 ounces grapefruit juice
     - 2 ounces lemon juice
@@ -6702,7 +6702,7 @@ recipes:
     - 12 White sugar cubes
     - 2 ounces orgeat
     - 4 ounces Campo de Encanto Acholado Pisco
-    - 2 ounces Appleton White rum
+    - 2 ounces Appleton Estate White rum
     - 2 ounces Old Raj gin
     - 3 ounces grapefruit juice
     - 2 ounces lemon juice
@@ -6721,11 +6721,11 @@ recipes:
   - name: Pic-a-de-Crop Punch
     author: Jessica Gonzalez
     year: 2011
-    notes: The night before our menu tastings, we’re often scrambling to come up with new drinks. On a whim, I thought apricot and Batavia Arrack would pair well with the banana notes in the Plantation rum, and it worked out. This is intended to be a two-person punch, but you can easily double or triple it. Serves 2.—JG
+    notes: The night before our menu tastings, we’re often scrambling to come up with new drinks. On a whim, I thought apricot and Batavia-Arrack Van Oosten would pair well with the banana notes in the Plantation rum, and it worked out. This is intended to be a two-person punch, but you can easily double or triple it. Serves 2.—JG
     ingredients:
     - 2 ounces Plantation Barbados 5-year rum
     - ½ ounce El Dorado 151 rum
-    - ½ ounce Van Oosten Batavia Arrack
+    - ½ ounce Van Oosten Batavia-Arrack Van Oosten
     - 1 ounce Rothman & Winter Apricot liqueur
     - 1½ ounces lime juice
     - 1½ ounces pineapple juice
@@ -6910,7 +6910,7 @@ recipes:
     - ½ ounce Diplomático Reserva Exclusiva rum
     - 1 teaspoon Massenez Crème de Pêche
     - 1 teaspoon Demerara syrup
-    - ¼ ounce Smith & Cross rum
+    - ¼ ounce Smith & Cross Jamaican rum
     - 4 dashes Fee Brothers Whiskey Barrel-Aged bitters 
     - "Garnish: 1 mint bouquet"
     steps:
@@ -6918,7 +6918,7 @@ recipes:
     - Fill the tin halfway with crushed ice
     - Stir with a teaspoon, churning the ice as you go, for about 10 seconds, holding the tin by the rim so the entire tin can eventually frost up
     - Add more crushed ice to fill the tin two-thirds full and stir until the tin is completely frosted
-    - Add more ice to form a cone above the rim Float the Smith & Cross rum over the drink and top with the bitters
+    - Add more ice to form a cone above the rim Float the Smith & Cross Jamaican rum over the drink and top with the bitters
     - Garnish with the mint bouquet in the center of the ice and serve with a straw
     tags:
       - death & co
@@ -6991,7 +6991,7 @@ recipes:
     ingredients:
     - 1 mint sprig
     - 2 ounces Bols Genever
-    - ½ ounce Smith & Cross rum 
+    - ½ ounce Smith & Cross Jamaican rum 
     - 1 teaspoon Demerara syrup
     - 1 teaspoon Vanilla syrup
     - 1 dash Bitter Truth Aromatic Bitters 
@@ -7348,7 +7348,7 @@ recipes:
     year: 2009
     notes: When used judiciously, vanilla syrup can add a lot of elegance to a drink. Here it softens a big, funky rum, making it play nice with the sherry.—AD
     ingredients:
-    - 1 ounce Smith & Cross rum
+    - 1 ounce Smith & Cross Jamaican rum
     - 1½ ounces Williams & Humbert Dry Sack Medium sherry
     - ¾ ounce lime juice
     - ½ ounce cane sugar syrup 
@@ -7559,7 +7559,7 @@ recipes:
     notes: This was our original multiple-choice cocktail. It employs a template I’ve used to create a bunch of drinks - 2 ounces of booze, ¾ ounce of vermouth, and ½ ounce of something interesting—here split between Chartreuse and Bénédictine—PW
     ingredients:
     - 2 ounces Rittenhouse 100 Rye, Laird’s Bonded Apple Brandy, Santa Teresa 1796 rum, Hine H Cognac, or Famous Grouse Scotch
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ¼ ounce Yellow Chartreuse
     - ¼ ounce Bénédictine
     - 2 dashes House Peychaud’s bitters
@@ -7595,7 +7595,7 @@ recipes:
     notes: 
     ingredients:
     - 2 ounces El Tesoro Reposado Tequila, Beefeater London Dry gin, Compass Box Asyla Scotch, Rittenhouse 100 Rye, or Hine H Cognac
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ½ ounce Cynar
     - "Garnish: 1 brandied cherry"
     steps:
@@ -7945,10 +7945,10 @@ recipes:
   - name: Kingston Negroni
     author: Joaquín Simó
     year: 2009
-    notes: I created this Negroni variation immediately after I first tasted Smith & Cross rum. Only Carpano Antica has the balls to stand up to its intensity.—JS
+    notes: I created this Negroni variation immediately after I first tasted Smith & Cross Jamaican rum. Only Carpano Antica has the balls to stand up to its intensity.—JS
     ingredients:
-    - 1 ounce Smith & Cross rum
-    - 1 ounce Carpano Antica Formula Vermouth
+    - 1 ounce Smith & Cross Jamaican rum
+    - 1 ounce Carpano Antica Formula sweet vermouth
     - 1 ounce Campari 
     - "Garnish: 1 Orange twist"
     steps:
@@ -8062,9 +8062,9 @@ recipes:
   - name: Arrackuiri
     author: Phil Ward
     year: 2008
-    notes: When we first got Batavia Arrack, nobody wanted to mess with it. I was determined to use it as a base spirit, though, so I mixed it with a spoonful of pomegranate molasses, which works micacles.—PW
+    notes: When we first got Batavia-Arrack Van Oosten, nobody wanted to mess with it. I was determined to use it as a base spirit, though, so I mixed it with a spoonful of pomegranate molasses, which works micacles.—PW
     ingredients:
-    - 2 ounces Van Oosten Batavia Arrack
+    - 2 ounces Van Oosten Batavia-Arrack Van Oosten
     - ¾ ounce lime juice
     - ¾ ounce simple syrup
     - 1 teaspoon pomegranate molasses
@@ -8157,10 +8157,10 @@ recipes:
   - name: D.W.B
     author: Phil Ward
     year: 2008
-    notes: This cocktail’s name is short for “daiquiri with benefits.” La Favorite makes one hell of a daiquiri, and it gets even better with the funk of Batavia Arrack.—PW
+    notes: This cocktail’s name is short for “daiquiri with benefits.” La Favorite makes one hell of a daiquiri, and it gets even better with the funk of Batavia-Arrack Van Oosten.—PW
     ingredients:
     - 2 ounces La Favorite Rhum Agricole Blanc
-    - ½ ounce Van Oosten Batavia Arrack
+    - ½ ounce Van Oosten Batavia-Arrack Van Oosten
     - ¾ ounce lime juice
     - ½ ounce cane sugar syrup 
     - "Garnish: 1 lime wedge"
@@ -8194,7 +8194,7 @@ recipes:
     year: 2013
     notes: This started as a spin on our house gimlet, but then it took a sharp left turn. It’s a confusing drink. Arrack is a funky, weird ingredient that a lot of people don’t like. And when you see “curry” listed in the ingredients, you think it’s going to taste like indian food. Despite having so many weird ingredients, this ended up being a surprisingly approachable cocktail.—TB
     ingredients:
-    - 1 ounce Van Oosten Batavia Arrack
+    - 1 ounce Van Oosten Batavia-Arrack Van Oosten
     - 1 ounce Scarlet Ibis rum
     - 1 ounce Toby’s Lime Cordial 
     - 3 fresh curry leaves 
@@ -8537,7 +8537,7 @@ recipes:
     notes: 
     ingredients:
     - 2 ounces Scarlet Ibis rum
-    - ¾ ounce Carpano Antica Formula Vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ¼ ounce St Elizabeth Allspice Dram 
     - 2 dashes Angostura bitters 
     - "Garnish: 1 Orange twist"
@@ -8589,7 +8589,7 @@ recipes:
     ingredients:
     - 2 ounces El Tesoro Reposado Tequila
     - ½ ounce Amaro CioCiaro
-    - ½ ounce Carpano Antica Formula Vermouth
+    - ½ ounce Carpano Antica Formula sweet vermouth
     - ¼ ounce St-Germain 
     - "Garnish: 1 grapefruit twist"
     steps:

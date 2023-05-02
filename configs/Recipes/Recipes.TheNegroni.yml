@@ -3,7 +3,7 @@ recipes:
 #The Classic Negronis
   - name: Classic 1:1:1 Negroni
     author: 
-    notes: "I prefer juniper-heavy gins in my Negronis, hence Beefeater, G’Vine Nouaison, and Tanqueray lead the charge into my glass—and I tend to pour heavy when adding the gin, too. Vermouth-wise, I’m still a sucker for Noilly Prat sweet vermouth, finding it to be lush, round, and fruity, with none of the unwanted spice notes that are appearing in some of today’s newer bottlings. Yes, Carpano Antica Formula, I’m talking about you! Feel free to play with the ratios in this formula and make the drink your own. Remember, one of the cardinal rules when it comes to cocktail recipes: Nothing Is Written in Stone."
+    notes: "I prefer juniper-heavy gins in my Negronis, hence Beefeater, G’Vine Nouaison, and Tanqueray lead the charge into my glass—and I tend to pour heavy when adding the gin, too. Vermouth-wise, I’m still a sucker for Noilly Prat sweet vermouth, finding it to be lush, round, and fruity, with none of the unwanted spice notes that are appearing in some of today’s newer bottlings. Yes, Carpano Antica Formula sweet vermouth, I’m talking about you! Feel free to play with the ratios in this formula and make the drink your own. Remember, one of the cardinal rules when it comes to cocktail recipes: Nothing Is Written in Stone."
     ingredients:
     - 1 ounce gin
     - 1 ounce sweet vermouth
@@ -609,7 +609,7 @@ recipes:
     notes: "Michele says, “Because we have lot of American guests [at the Negroni Bar], I thought about making a Negroni to please the American palate. Then of course I needed a good American ingredient: bourbon.” This is a great post-prandial potion."
     ingredients:
     - ⅔ ounce Elijah Craig 12-Year bourbon
-    - 1 ounce Carpano Antica Formula vermouth
+    - 1 ounce Carpano Antica Formula sweet vermouth
     - ¾ ounce Campari
     - ½ ounce Cynar
     - 2 dashes Bittermens Xocolatl Mole Bitters
@@ -695,11 +695,11 @@ recipes:
       - stirred
   - name: Camillo en Xela
     author: Max la Rocca
-    notes: "Max, one of my favorite bartenders—we go back a few years at this point—told me the following about his Negroni variation: “The drink I made for this precious little book is called Camillo in Xela, Xela being the indigenous name for Quetzaltenango, the city in Guatemala where the House of Zacapa is located. The rum used in this recipe is aged at over 7,500 feet in elevation. Of course you all know who Camillo is…“ Being from Italy, where coffee is a very important element of the culture, I was curious to play with the toasted flavor of this amazing ingredient. It echoes the bitterness of the Campari and complements the complexity of the Carpano Antica Formula and the beautiful hints of vanilla, almond, and chocolate of the Zacapa 23. The coffee is also fitting, given that the Zacapa comes from Guatemala, one of the world’s leading producers of coffee.”"
+    notes: "Max, one of my favorite bartenders—we go back a few years at this point—told me the following about his Negroni variation: “The drink I made for this precious little book is called Camillo in Xela, Xela being the indigenous name for Quetzaltenango, the city in Guatemala where the House of Zacapa is located. The rum used in this recipe is aged at over 7,500 feet in elevation. Of course you all know who Camillo is…“ Being from Italy, where coffee is a very important element of the culture, I was curious to play with the toasted flavor of this amazing ingredient. It echoes the bitterness of the Campari and complements the complexity of the Carpano Antica Formula sweet vermouth and the beautiful hints of vanilla, almond, and chocolate of the Zacapa 23. The coffee is also fitting, given that the Zacapa comes from Guatemala, one of the world’s leading producers of coffee.”"
     ingredients:
     - 8 coffee beans
     - 1 ounce Zacapa 23-Year rum
-    - ¾ ounce Carpano Antica Formula
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ½ ounce Campari
     - "Garnish: 1 long Orange twist"
     steps:
@@ -725,10 +725,10 @@ recipes:
       - stirred
   - name: D.O.M.E. Negroni
     author: Mihai Fetcu
-    notes: Mihai is one of the most prominent bartenders in Romania, a country that seems to have way more cocktailian genii than you might think. Mihai’s use of genever in this drink is inspired—it takes the heavy vanilla edge off the Carpano Antica Formula, and it also play nice with the rest of the ingredients.
+    notes: Mihai is one of the most prominent bartenders in Romania, a country that seems to have way more cocktailian genii than you might think. Mihai’s use of genever in this drink is inspired—it takes the heavy vanilla edge off the Carpano Antica Formula sweet vermouth, and it also play nice with the rest of the ingredients.
     ingredients:
     - 1 ounce Bols Barrel-Aged Genever
-    - ⅓ ounce Carpano Antica Formula
+    - ⅓ ounce Carpano Antica Formula sweet vermouth
     - ⅓ ounce Martini & Rossi sweet vermouth
     - ⅓ ounce Dubonnet Rouge
     - 1 ounce Aperol
@@ -822,7 +822,7 @@ recipes:
     notes: "Cocktail genius Phil Ward didn’t pull any punches when he described this drink’s origins: “I was hungover and drinking Campari and soda while doing my chores at the bar. I was mulling cider and putting in the star anise just as I took a sip of Campari. I was like, Wow, could those two tyrants actually coexist? I tried it. They did.”"
     ingredients:
     - 1½ ounces El Tesoro Blanco tequila 
-    - 1 ounce Carpano Antica Formula
+    - 1 ounce Carpano Antica Formula sweet vermouth
     - 1 ounce Campari Infused With Star Anise
     steps:
     - Stir all the ingredients with ice in a mixing glass, then strain into a chilled cocktail glass.
@@ -877,7 +877,7 @@ recipes:
     notes: Makes about 23 ounces; serves about 7. This drink is named for Don Julio González-Frausto Estrada, the founder of Don Julio tequila. Jim Geurts recommends that you allow the bottled cocktail to rest for at least a few days, preferably a week, before serving. He notes that he once allowed a bottle to age for eight months and says, “The flavors keep changing.”
     ingredients:
     - 6 ounces Don Julio Reposado tequila
-    - 5½ ounces Carpano Antica Formula vermouth
+    - 5½ ounces Carpano Antica Formula sweet vermouth
     - 6½ ounces Campari
     - 5 ounces mineral water
     - 10 dashes Peychaud’s bitters

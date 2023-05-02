@@ -274,7 +274,7 @@ recipes:
     author: Turk Dietrich
     notes: "If you like Manhattans, I’ve just found your new favorite drink: Among Dreams is richer and smoother than any traditional Manhattan you’ll taste. It’s what we call an inverted Manhattan, meaning the vermouth—in this case, Carpano Antica, which was a favorite in the early days of the craft cocktail renaissance—is the base, or main ingredient, and the modifier, which is typically a fortified wine, is in this case rye whiskey. Turk balances the vanilla and orange notes of the Carpano with the herbaceousness of Chartreuse, and to kick up the proof a bit, he uses a spicy overproof rye. “I’m a sucker for aromatic bitters that have a Christmas-spice vibe, which you get from these Old-Fashioned bitters and the cinnamon from the tiki bitters,” Turk says. Because of the higher proof of the modifiers (Chartreuse is 55% ABV; the bonded rye is 50%), this tastes like an even 50-50 Manhattan even though it’s technically inverted."
     ingredients:
-    - 2 ounces (60 ml) Carpano Antica Formula vermouth
+    - 2 ounces (60 ml) Carpano Antica Formula sweet vermouth
     - ½ ounce (15 ml) green Chartreuse
     - ½ ounce (15 ml) Rittenhouse 100-proof rye
     - 9 drops Bittermens ‘Elemakule Tiki bitters
@@ -438,9 +438,9 @@ recipes:
     notes: “My goal was to do something with the dusty bottle of Licor 43 nobody seemed to want anything to do with,” Michael explains, referring to the citrus-and-vanilla-flecked liqueur that is popular in Spain but less well known here. “I figured it would be safe in this rum Manhattan variation.” For the name, Michael turned to the 1992 Hal Hartley film Simple Men, in which a heartbroken and recently swindled character utters the iconic line, “There is no such thing as adventure. There is no such thing as romance. There’s only trouble and desire.”
     ingredients:
     - 2 ounces (60 ml) El Dorado 5-year rum
-    - ½ ounce (15 ml) Smith and Cross traditional Jamaican rum
+    - ½ ounce (15 ml) Smith & Cross Jamaican rum
     - ½ ounce (15 ml) Licor 43 liqueur
-    - ¾ ounce (22.5 ml) Carpano Antica Formula vermouth
+    - ¾ ounce (22.5 ml) Carpano Antica Formula sweet vermouth
     - Orange peel, for garnish
     steps:
     - Combine all the ingredients except the garnish in a mixing glass filled with ice and stir until chilled. Strain into a chilled double old-fashioned glass over 1¼-inch (3-cm) ice cubes, garnish with the orange peel, and serve.
@@ -609,7 +609,7 @@ recipes:
     notes: Here’s another of Kirk’s dessert-influenced drinks and one of his personal faves. “En rama” is an unfiltered style of sherry, and here it contributes a rich nuttiness, which is complemented by the almondy orgeat, warm holiday spices from the bitters, and a subtle banana note from the arrack. Kirk is big into music, and this recipe gets its name from one of Bruce Springsteen’s favorite songs, “Cheree,” by the band Suicide.
     ingredients:
     - 1½ ounces (45 ml) La Gitana “en rama” sherry
-    - ¾ ounce (22.5 ml) Van Oosten Batavia arrack
+    - ¾ ounce (22.5 ml) Van Oosten Batavia-Arrack Van Oosten
     - ¼ ounce (7.5 ml) Orgeat 
     - 4 drops Fee Brothers Old Fashion bitters
     - Freshly ground nutmeg, for garnish
@@ -626,7 +626,7 @@ recipes:
     notes: "The Hurricane is one of those cocktails that gets lumped together with the Hand Grenade and frozen daiquiri as a symbol of Bourbon Street debauchery. Here’s the difference, though: I find the Hand Grenade, a sickly sweet melon concoction, pretty irredeemable. But there’s a time and a place for a frozen daiquiri, and I really like a well-made Hurricane. The Hurricane was invented at Pat O’Brien’s, a French Quarter institution that has officially been around since 1933. (Although ol’ Pat was almost certainly running a speakeasy during Prohibition: Someone once asked me to check out the old speakeasy’s location on Royal Street and St. Peter for a potential new bar.) Today, it’s a bit of a tourist trap, but if you’re in the market for dueling pianos and a flaming, neon-lit fountain, it’s worth a visit. The Hurricane is still Pat O’Brien’s signature drink. Legend has it that it was created in the 1940s when domestic spirits like whiskey were scarce but Caribbean rum was plentiful, so distributors essentially told their accounts that if they wanted the good stuff like bourbon, they had to buy large quantities of rum, too. The Hurricane was created as a way to move the cases of rum that were collecting dust. These days you can buy Pat O’Brien’s premade Hurricane mix in powdered or liquid form. I won’t speculate as to what they use to prepare their drinks at the restaurant, but I do know this: I don’t want to drink a cocktail that comes from a packet, like Kool-Aid. Our resident cocktail genius, Kirk, decided one day to reverse-engineer a Hurricane using premium rum and natural ingredients. It’s incredible and does really well at Cane & Table. You have two options when you make it at home: You can make his tropical Hurricane Syrup from scratch using passion fruit puree and guava jelly, or you can buy a high-quality fassionola, the tropical fruity syrup that is essential in this drink (and some tiki drinks), from a reputable source like Cocktail & Sons. The only dehydrated ingredient I’m allowing here is the garnish, but you can also swap in a fresh orange wheel."
     ingredients:
     - 1½ ounces (45 ml) Don Q “Cristal” blanco rum
-    - ½ ounce (15 ml) Appleton 12-year rum
+    - ½ ounce (15 ml) Appleton Estate 12-year rum
     - ¾ ounce (22.5 ml) Cocktail & Son’s fassionola, or Hurricane Syrup 
     - ¾ ounce (22.5 ml) fresh lime juice
     - Dehydrated orange wheel, for garnish
@@ -849,7 +849,7 @@ recipes:
     author: Colin Bugbee
     notes: "This drink was, in a way, a happy accident. While Colin was experimenting with the combo of funky, fruity Smith and Cross rum and the earthy French bitter aperitif Bonal, he came to a realization: “Combining Smith and Cross and Bonal pulled out these really interesting apple notes that I never really noticed before in either of them. I ran with that and tried to make an apple cider daiquiri—but without any apple ingredients. Cinnamon syrup clung to the earthiness of Bonal, and Bitter Queens’ five-spice bitters brought out the allspice notes in the rum.”"
     ingredients:
-    - ¾ ounce (22.5 ml) Smith and Cross traditional Jamaican rum
+    - ¾ ounce (22.5 ml) Smith & Cross Jamaican rum
     - ¾ ounce (22.5 ml) Bonal
     - ¾ ounce (22.5 ml) fresh lime juice
     - ¾ ounce (22.5 ml) Cinnamon Syrup 
@@ -957,9 +957,9 @@ recipes:
       - daiquiri
   - name: Defend Arrack
     author: Maksym Pazuniak
-    notes: "Not many Americans are familiar with arrack, the base spirit in this cocktail. Like rum, arrack is distilled from sugarcane—and in the case of Batavia arrack, the bottle we use at Cure, a bit of fermented red rice. Arrack is an incredibly old spirit: It originates in South Asia and, according to historians, predates rum production in the Caribbean, making it a sort of proto-rum. When Haus Alpenz started importing Batavia arrack to the United States, a lot of bartenders didn’t know what to do with it. But Maks, who was one of our opening bartenders at Cure and now co-owns the bar Jupiter Disco in Brooklyn, is the type of guy who’s always up for a challenge. He created this daiquiri variation with apricot liqueur and allspice dram and won a bunch of arrack converts in the process. For anyone who loves a daiquiri with a funky Jamaican rum like Wray & Nephew, this drink is for you."
+    notes: "Not many Americans are familiar with arrack, the base spirit in this cocktail. Like rum, arrack is distilled from sugarcane—and in the case of Batavia-Arrack Van Oosten, the bottle we use at Cure, a bit of fermented red rice. Arrack is an incredibly old spirit: It originates in South Asia and, according to historians, predates rum production in the Caribbean, making it a sort of proto-rum. When Haus Alpenz started importing Batavia-Arrack Van Oosten to the United States, a lot of bartenders didn’t know what to do with it. But Maks, who was one of our opening bartenders at Cure and now co-owns the bar Jupiter Disco in Brooklyn, is the type of guy who’s always up for a challenge. He created this daiquiri variation with apricot liqueur and allspice dram and won a bunch of arrack converts in the process. For anyone who loves a daiquiri with a funky Jamaican rum like Wray & Nephew, this drink is for you."
     ingredients:
-    - 1½ ounces (45 ml) Van Oosten Batavia arrack
+    - 1½ ounces (45 ml) Van Oosten Batavia-Arrack Van Oosten
     - ¾ ounce (22.5 ml) Giffard apricot liqueur
     - ¾ ounce (22.5 ml) fresh lime juice
     - ½ teaspoon (2.5 ml) St. Elizabeth’s allspice dram
@@ -1773,7 +1773,7 @@ recipes:
     - ¾ ounce (22.5 ml) fresh lime juice
     - ½ ounce (15 ml) Simple Syrup
     - ¼ ounce (7.5 ml) Becherovka
-    - ¼ ounce (7.5 ml) Smith and Cross traditional Jamaican rum
+    - ¼ ounce (7.5 ml) Smith & Cross Jamaican rum
     - ¼ ounce (7.5 ml) Avuá Amburana cachaça
     - Mint sprig, for garnish
     - Orange peel, for garnish
@@ -1880,7 +1880,7 @@ recipes:
     notes: "I created this drink at the height of two major cocktail trends of the last decade or so: spritzes and Toki highballs (highballs made with Japanese whiskey). I asked myself, What would happen if I combined the two? How could I get there? Kina d’Or is bitter and viscous and seemed well-suited to the spritz format. I realized I needed another element to bridge the Kina and Toki together and landed on apricot, since it’s an ingredient that works with each individually. Here in New Orleans, it’s not necessarily the heat that gets you, it’s the humidity. On muggy summer days, you’re just waiting for the dew point to break. To me, this cocktail is the liquid equivalent of that refreshing moment."
     ingredients:
     - ¾ ounce (22.5 ml) Tempus Fugit Kina l’Aéro d’Or Aperitif
-    - ¾ ounce (22.5 ml) Suntory Toki whiskey
+    - ¾ ounce (22.5 ml) Suntory Toki whisky
     - ½ teaspoon (2.5 ml) Giffard Abricot du Roussillon liqueur
     - 1½ ounces (45 ml) sparkling wine, to top
     - 1½ ounces (45 ml) soda water, to top

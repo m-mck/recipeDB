@@ -1,7 +1,7 @@
 Death & Co: Welcome Home
 2 ounces cold seltzer
 1 ounce Lemorton Selection calvados Domfrontais
-½ ounce Amrut cask-strength single malt Indian whisky
+½ ounce Amrut Cask-Strength Single-Malt Indian Whisky
 ½ ounce Henriques & Henriques rainwater madeira
 ¼ ounce Lejay crème de cassis de Dijon
 ¾ ounce fresh lemon juice
@@ -186,7 +186,7 @@ Garnish: 1 mint bouquet
 1 teaspoon acid phosphate
 Garnish: 1 mint bouquet and 1 lemon wheel
 4 ½ ounces cold seltzer
-1½ ounces Suntory Toki Japanese Whisky
+1½ ounces Suntory Toki whisky
 ½ ounce Glasshouse shiso brandy
 ¼ ounce Mathilde Poire
 1 teaspoon Clear Creek Williams pear brandy
@@ -399,7 +399,7 @@ Garnish: 1 apple fan
 Garnish: 1 apple slice and 1 mint bouquet
 ¾ ounce Rittenhouse rye
 ½ ounce Laird's bonded apple brandy 
-¼ ounce Smith & Cross Jamaica rum 
+¼ ounce Smith & Cross Jamaican rum 
 ¼ ounce St. George spiced pear liqueur
 ½ ounce fresh lemon juice 
 ½ ounce Cane Sugar Syrup
@@ -601,7 +601,7 @@ Garnish: 1 edible flower
 Garnish: 1 grapefruit twist
 1 ounce Amrut cask-strength single-malt Indian whisky
 ½ ounce El Dorado 15-year Demerara rum 
-½ ounce Batavia arrack
+½ ounce Batavia-Arrack Van Oosten
 ¾ ounce fresh lime juice 
 ¾ ounce House Grenadine
 6 dashes absinthe
@@ -829,7 +829,7 @@ Garnish: 1 orchid flower and 1 lemon wheel
 1 egg white
 1 ounce El Dorado 8-year rum 
 ½ ounce Plantation 2000 Jamaican rum
-½ ounce Batavia arrack
+½ ounce Batavia-Arrack Van Oosten
 ¾ ounce fresh lime juice 
 ¾ ounce Honey Syrup
 1 teaspoon Boiron kalamansi purée
@@ -999,7 +999,7 @@ Garnish: 1 raspberry and 1 mint bouquet
 3 drops orange flower water
 1 egg white
 1½ ounces Lustau Solera Reserva brandy
-½ ounce Smith & Cross Jamaica rum
+½ ounce Smith & Cross Jamaican rum
 1 ounce Donn's Mix #1
 ½ ounce fresh lime juice
 ¼ ounce Vanilla Syrup
@@ -1044,7 +1044,7 @@ Garnish: 1 mint leaf
 ¾ ounce fresh lemon juice
 ½ ounce Raspberry Syrup
 ½ ounce Calpico (a concentrated yogurt drink available at Asian markets)
-¾ ounce Appleton V/X Jamaican rum 
+¾ ounce Appleton Estate V/X Jamaican rum 
 ¾ ounce Wild Turkey 101 rye
 ¼ ounce Lemon Hart 151 rum 
 ¼ ounce Lustau Los Arcos Amontillado Sherry
@@ -1267,14 +1267,14 @@ Garnish: 1 Granny Smith apple slice
 ¼ ounce Velvet falernum
 Garnish: Angostura and Peychaud's bitters, and 1 mint bouquet
 1½ ounces Bertoux brandy 
-½ ounce Batavia arrack
+½ ounce Batavia-Arrack Van Oosten
 ½ ounce Giffard banane du Brésil
 ¾ ounce fresh lime juice 
 ½ ounce Madras Curry Syrup 
 1 dash Angostura bitters
 1 ounce Lustau Los Arcos Amontillado Sherry
 ½ ounce Bertoux brandy
-1 teaspoon Batavia arrack
+1 teaspoon Batavia-Arrack Van Oosten
 1 teaspoon Giffard banane du Brésil
 ¾ ounce fresh lime juice
 ½ ounce Madras Curry Syrup
@@ -1394,7 +1394,7 @@ Garnish: Raspberry powder (see above)
 5 ounces dry sparkling wine 
 Garnish: Lemon wheels
 1 ¼ ounces Krogstad aquavit
-½ ounce Smith & Cross Jamaica rum 
+½ ounce Smith & Cross Jamaican rum 
 ½ ounce Giffard banane du Brésil
 ¼ ounce Cruzan Black Strap rum 
 1 ounce fresh lemon juice
@@ -1424,7 +1424,7 @@ Garnish: 2 pineapple fronds and 1 small dried chile
 10 dashes Angostura bitters
 Garnish: 1 small cube of bread soaked in 151-proof rum, 1 empty lime shell, and ground cinnamon
 1½ ounces Great King St. Glasgow Blend scotch
-½ ounce Batavia arrack
+½ ounce Batavia-Arrack Van Oosten
 ½ ounce Kalani Ron de Coco coconut liqueur
 ¾ ounce fresh lime juice
 ½ ounce Cinnamon Syrup
@@ -1607,11 +1607,11 @@ Garnish: 1 lemon twist
 ¾ ounce Westward American single malt
 ¾ ounce Delord 25-year bas Armagnac
 ½ ounce Dupont Pommeau de Normande
-½ teaspoon Amrut peated cask-strength single malt Indian whisky
+½ teaspoon Amrut Peated Cask-Strength Single-Malt Indian Whisky
 ½ teaspoon Vanilla Syrup
 1 teaspoon maple syrup
 1 orange wheel
-1½ ounces Carpano Antica Formula vermouth
+1½ ounces Carpano Antica Formula sweet vermouth
 ¾ ounce Fernet-Branca
 ¾ ounce El Dorado 8-year rum
 ½ ounce Giffard Banane du Brésil
@@ -1742,7 +1742,7 @@ Garnish: 1 lemon twist
 Garnish: 1 Orange twist
 1 ¼ ounces Elijah Craig 12-year bourbon
 ½ ounce Bowmore 12-Year Scotch 
-¼ ounce Smith & Cross Jamaica rum 
+¼ ounce Smith & Cross Jamaican rum 
 2 teaspoons Galliano Ristretto 
 1 teaspoon Giffard passion fruit liqueur
 Garnish: 1 Orange twist
@@ -1757,7 +1757,7 @@ Garnish: 1 Orange twist and nutmeg
 ½ ounce Del Maguey Chichicapa mezcal
 ¼ ounce Gonzáles Byass Nectar Pedro Ximénez dulce sherry
 1 teaspoon Honey Syrup
-1 dash Bittermens Xocolati Mole Bitters
+1 dash Bittermens Xocolatl Mole Bitters
 1 dash Habanero Tincture
 Strega, to rinse
 1 ounce Hampden Estate Single Jamaican rum
@@ -1807,7 +1807,7 @@ Garnish: 1 grapefruit twist
 1 drop Terra Spice root beer extract 
 Garnish: 1 Orange twist
 1½ ounces Old Forester Signature bourbon
-½ ounce Smith & Cross Jamaica rum
+½ ounce Smith & Cross Jamaican rum
 ½ teaspoon Cinnamon Syrup
 ½ teaspoon Demerara Syrup
 ½ teaspoon Giffard passion fruit liqueur
@@ -1892,7 +1892,7 @@ Garnish: 1 lemon twist
 Garnish: 1 basil sprig
 1 ounce Old Grand-Dad bonded bourbon
 ½ ounce Plantation Pineapple rum
-¼ ounce Smith & Cross Jamaica rum
+¼ ounce Smith & Cross Jamaican rum
 ¼ ounce Amaro Averna
 1 teaspoon Vanilla Syrup
 1 dash Angostura bitters
@@ -1923,7 +1923,7 @@ Garnish: 1 Orange twist
 1 dash House Orange Bitters
 Garnish: 1 lemon twist
 1 grapefruit half wheel
-1½ ounces Carpano Antica Formula vermouth
+1½ ounces Carpano Antica Formula sweet vermouth
 ¾ ounce Fernet-Branca 
 ¾ ounce Amaro Averna
 ½ ounce Cruzan single-barrel rum 
@@ -2013,10 +2013,10 @@ Garnish: 1 mint bouquet and dark chocolate
 Garnish: 1 Orange twist and 1 cinnamon stick
 1 ounce Kilkerran 12-year single malt scotch
 ¾ ounce Ron del Barrilito 3-Star rum 
-¼ ounce Smith & Cross Jamaica rum
+¼ ounce Smith & Cross Jamaican rum
 ½ teaspoon crème de cacao
 1 teaspoon Pineapple Gum Syrup
-2 dashes Bittermens Xocolati Mole Bitters
+2 dashes Bittermens Xocolatl Mole Bitters
 Garnish: 1 lemon twist
 Reisetbauer carrot eau-de-vie, to rinse
 1 ounce St. George dry rye reposado gin
@@ -2035,7 +2035,7 @@ Laphroaig 10-year scotch, to rinse
 2 dashes Peychaud's bitters
 2 dashes Angostura bitters 
 Garnish: 1 Orange twist
-1½ ounces Suntory Toki Japanese whisky
+1½ ounces Suntory Toki whisky
 ½ ounce Bertoux brandy
 ¼ ounce Italicus Rosolio bergamot liqueur
 ¼ ounce Caol Ila 12-year scotch
@@ -2117,7 +2117,7 @@ Garnish: 1 lemon twist
 1½ ounces Hayman's Old Tom gin
 ¾ ounce Cesar Florido Moscatel Dorado
 ¼ ounce Amaro Ciociaro
-½ ounce Carpano Antica Formula vermouth
+½ ounce Carpano Antica Formula sweet vermouth
 1 dash Angostura bitters
 1 dash House Orange Bitters
 Garnish: 1 brandied cherry 
@@ -2133,7 +2133,7 @@ Garnish: 1 grapefruit wheel
 1 dash Scrappy's grapefruit bitters 
 Garnish: 1 grapefruit twist
 1½ ounces Barrell Dovetail whiskey
-½ ounce Carpano Antica Formula vermouth 
+½ ounce Carpano Antica Formula sweet vermouth 
 ½ ounce Dow's ruby port
 1 teaspoon Granada-Vallet bitter pomegranate liqueur 
 1 teaspoon Galliano Ristretto
@@ -2178,9 +2178,9 @@ Garnish: 1 lemon twist
 1 teaspoon St-Germain elderflower liqueur
 Garnish: 1 grapefruit twist
 1 ¼ ounces Plymouth gin 
-1 ounce Carpano Antica Formula vermouth
+1 ounce Carpano Antica Formula sweet vermouth
 ½ ounce Fernet-Branca
-¼ ounce Smith & Cross Jamaica rum 
+¼ ounce Smith & Cross Jamaican rum 
 ¼ ounce Giffard banane du Brésil 
 1 drop Terra Spice eucalyptus extract
 Garnish: 1 mint bouquet
@@ -2203,7 +2203,7 @@ Garnish: 1 lemon twist
 1 ounce Paul Beau Hors d'Age cognac 
 ½ ounce Clear Creek Douglas Fir eau-de-vie
 ½ ounce yellow Chartreuse V.E.P. 
-½ ounce Carpano Antica Formula vermouth
+½ ounce Carpano Antica Formula sweet vermouth
 1 ounce Four Roses single barrel bourbon
 1 ounce Domaine du Manoir de Montreuil calvados
 ¾ ounce Zurbaran cream sherry 
@@ -2229,7 +2229,7 @@ Sombra mezcal, to rinse
 ¼ ounce Kronan Swedish Punsch
 1 teaspoon Cane Sugar Syrup
 2 ounces Hine H cognac
-¾ ounce Carpano Antica Formula vermouth
+¾ ounce Carpano Antica Formula sweet vermouth
 ½ ounce Hidalgo oloroso sherry 
 ¼ ounce Cynar
 1 teaspoon Luxardo Maraschino Liqueur
@@ -2272,7 +2272,7 @@ Garnish: 1 apple fan
 1½ ounces Tyrconnell Single-Malt Irish Whiskey
 ½ ounce Rittenhouse rye
 ½ ounce Cappelletti Vino Aperitivo 
-½ ounce Carpano Antica Formula vermouth
+½ ounce Carpano Antica Formula sweet vermouth
 ½ teaspoon Dupont Aigre Doux
 2 dashes Angostura bitters 
 Garnish: 1 lemon twist
@@ -2302,7 +2302,7 @@ Garnish: 1 lemon twist
 ½ ounce Cruzan Black Strap rum
 ½ ounce Amaro Averna 
 ¼ ounce Lustau Pedro Ximénez sherry
-1 teaspoon Smith & Cross Jamaica rum
+1 teaspoon Smith & Cross Jamaican rum
 1 teaspoon Clément Créole Shrubb
 1 dash Bitter End Moroccan Bitters
 Garnish: 1 Orange twist
@@ -2324,7 +2324,7 @@ Garnish: 1 cucumber ribbon on a skewer
 Garnish: 1 Orange twist
 1 ounce Tapatío Anejo tequila 
 1 ounce Domaine du Manoir de Montreuil calvados
-¾ ounce Carpano Antica Formula vermouth
+¾ ounce Carpano Antica Formula sweet vermouth
 ¼ ounce Vanilla Syrup
 1 drop Terra Spice root beer extract 
 1 dash Miracle Mile Pecan Bitters
@@ -2337,7 +2337,7 @@ Garnish: 1 Orange twist
 Garnish: 1 umeboshi plum
 1½ ounces Rittenhouse rye 
 ½ ounce Sombra mezcal
-½ ounce Carpano Antica Formula vermouth
+½ ounce Carpano Antica Formula sweet vermouth
 ¼ ounce Amaro Averna
 1 teaspoon Campari 
 Garnish: 1 Orange twist and 1 brandied cherry
@@ -2349,7 +2349,7 @@ Garnish: 1 cucumber slice
 1 ounce Rittenhouse rye 
 1 ounce Laird's bonded apple brandy
 ½ ounce Maurin Quina
-¼ ounce Carpano Antica Formula vermouth
+¼ ounce Carpano Antica Formula sweet vermouth
 ¼ ounce Amaro Nardini
 1 teaspoon Bénédictine 
 1 dash Peychaud's bitters
@@ -2371,7 +2371,7 @@ Garnish: 1 lemon twist
 ½ ounce Cinnamon Syrup
 1 dash Angostura bitters 
 Garnish: 1 orange half wheel and 2 raspberries and/or blackberries on a skewer, 1 cinnamon stick
-1½ ounces Amrut cask-strength single malt Indian whisky
+1½ ounces Amrut Cask-Strength Single-Malt Indian Whisky
 ¾ ounce Henriques & Henriques rainwater madeira
 ¼ ounce Galliano Ristretto 
 1 teaspoon Giffard passion fruit liqueur
@@ -2398,7 +2398,7 @@ Garnish: 1 dehydrated apple slice
 Garnish: 1 Orange twist
 1½ ounces Barrell Dovetail whiskey
 1 ounce Taylor Fladgate ruby port 
-½ ounce Carpano Antica Formula vermouth
+½ ounce Carpano Antica Formula sweet vermouth
 1 teaspoon Kronan Swedish Punsch 
 2 dashes Miracle Mile Redeye Bitters 
 Garnish: 1 brandied cherry
@@ -2495,7 +2495,7 @@ Garnish: Dashi Kombu-Infused Pear Brandy in an atomizer
 1 ounce Tariquet 15-year Bas-Armagnac
 ¾ ounce Avuá Amburana cachaça
 ¼ ounce Reisetbauer hazelnut eau-de-vie
-¾ ounce Carpano Antica sweet vermouth
+¾ ounce Carpano Antica Formula sweet vermouth
 1 teaspoon Vanilla Syrup
 1 dash Angostura bitters
 1½ ounces Dorothy Parker gin 
@@ -2604,7 +2604,7 @@ Garnish: 1 lemon twist
 ½ teaspoon kümmel liqueur 
 Garnish: 1 pickled carrot or 1 pickled radish slice
 1½ ounces Appleton Estate Signature Blend Jamaica rum 
-½ ounce Smith & Cross Jamaica rum
+½ ounce Smith & Cross Jamaican rum
 ½ ounce yellow Chartreuse 
 ½ ounce St. George spiced pear liqueur
 1½ ounces Lustau manzanilla sherry 
@@ -2747,14 +2747,14 @@ Garnish: 1 raspberry
 ¼ ounce Giffard banane du Brésil 
 Garnish: 1 Orange twist
 1½ ounces Louis Roque La Vieille prune eau-de-vie
-½ ounce Amrut cask-strength single malt Indian whisky
+½ ounce Amrut Cask-Strength Single-Malt Indian Whisky
 ½ ounce Cocchi vermouth di Torino 
 ½ ounce Henriques & Henriques 5-year vino generoso doce madeira 
 ¼ ounce Amaro Nardini
 Garnish: 1 lemon twist
 1 ounce Wild Turkey 101 rye
 1 ounce Linie Aquavit
-¾ ounce Carpano Antica Formula vermouth
+¾ ounce Carpano Antica Formula sweet vermouth
 ¼ ounce Kalani Ron de Coco coconut liqueur
 1 dash Bitter Truth Celery Bitters
 Garnish: 1 lemon twist
@@ -2775,7 +2775,7 @@ Garnish: 1 lemon twist
 Garnish: 1 lemon twist
 1 ounce Wild Turkey 101 rye
 1 ounce Linie Aquavit 
-¾ ounce Carpano Antica Formula vermouth
+¾ ounce Carpano Antica Formula sweet vermouth
 ¼ ounce Giffard rhubarb liqueur
 1 teaspoon Combier crème de rose
 1 dash absinthe 
@@ -2793,7 +2793,7 @@ Garnish: 1 grapefruit twist
 ¾ ounce heavy cream
 6 to 8 mint leaves
 Garnish: 1 mint leaf
-1½ ounces Suntory Toki Japanese Whisky
+1½ ounces Suntory Toki whisky
 1 ounce Donn's Mix #1
 ½ ounce Coco López
 ½ ounce fresh lime juice
@@ -2808,14 +2808,14 @@ Garnish: Toasted coconut flakes and grapefruit zest
 ½ ounce fresh pineapple juice 
 Garnish: Campari-Infused Toasted Coconut (page 300)
 ¾ ounce Pierre Ferrand ambré cognac
-½ ounce Batavia arrack
+½ ounce Batavia-Arrack Van Oosten
 ¼ ounce Grand Marnier
 ¼ ounce Galliano Ristretto
 ½ ounce Milk Syrup
 1 ounce cold brew coffee
 Garnish: 1 dehydrated lemon wheel
 ¾ ounce Pierre Ferrand ambré cognac
-½ ounce Batavia arrack
+½ ounce Batavia-Arrack Van Oosten
 ¼ ounce Galliano Ristretto
 ½ ounce Demerara Syrup
 3 ounces hot coffee
@@ -2827,7 +2827,7 @@ Garnish: Grand Marnier cream (4 ounce Grand Marnier whisked with 1 ounce heavy c
 ½ ounce fresh lemon juice
 Garnish: 1 scoop oat milk sorbet
 1 ounce Plantation Barbados 5-year rum
-½ ounce Smith & Cross Jamaica rum
+½ ounce Smith & Cross Jamaican rum
 ½ ounce Lustau oloroso sherry
 1 ounce unsweetened coconut milk
 ¾ ounce fresh lime juice
@@ -2877,7 +2877,7 @@ Garnish: 1 apple fan and 1 cinnamon stick
 Garnish: 1 coffee bean
 1 ounce Rittenhouse rye
 ½ ounce Avuá Amburana cachaça 
-¼ ounce Smith & Cross Jamaica rum
+¼ ounce Smith & Cross Jamaican rum
 ¼ ounce Amaro Averna 
 ¾ ounce Cinnamon Syrup
 ½ ounce coconut milk
@@ -2944,7 +2944,7 @@ Garnish: Dark chocolate
 30 ounces whole milk
 33 eggs
 One 750 ml bottle Old Grand-Dad 114 bourbon
-12½ ounces Smith & Cross Jamaicia rum
+12½ ounces Smith & Cross Jamaican rum
 12½ ounces Blandy's 5-year Malmsey madeira
 12½ ounces Pierre Ferrand ambré cognac
 20 ounces heavy cream
@@ -2964,7 +2964,7 @@ Garnish: 1 Orange twist and 1 lemon twist
 ¼ ounce Bénédictine
 2 dashes Peychaud's bitters
 Garnish: 1 lemon twist
-2 ounces Carpano Antica Formula vermouth
+2 ounces Carpano Antica Formula sweet vermouth
 ½ teaspoon simple syrup (page 45)
 2 dashes Angostura bitters 1 dash orange bitters
 Garnish: 1 lemon twist
@@ -3219,10 +3219,10 @@ Garnish: 1 brandied cherry
 Garnish: 1 lemon twist
 1 ounce Rittenhouse rye
 ½ ounce Pierre Ferrand 1840 Cognac
-1½ ounces Blood Orange-Infused Carpano Antica Formula
+1½ ounces Blood Orange-Infused Carpano Antica Formula sweet vermouth
 Garnish: 1 blood orange wheel
 1½ ounces Hayman’s Old Tom gin
-1½ ounces Carpano Antica Formula vermouth
+1½ ounces Carpano Antica Formula sweet vermouth
 1 teaspoon Luxardo Maraschino Liqueur
 2 dashes House Orange Bitters
 Garnish: 1 lemon twist
@@ -3235,7 +3235,7 @@ Garnish: 1 lemon twist
 Garnish: 1 lemon twist
 1 ounce Highland Park 12-year scotch
 1 ounce Aviation gin
-½ ounce Carpano Antica sweet vermouth
+½ ounce Carpano Antica Formula sweet vermouth
 ¼ ounce Giffard Abricot du Roussillon
 ¼ ounce Ramazzotti
 Garnish: 1 mint leaf
@@ -3251,7 +3251,7 @@ Garnish: 1 brandied cherry
 Garnish: 1 lemon twist
 1½ ounces Hayman's Old Tom gin 
 ½ ounce Busnel VSOP Calvados
-¾ ounce Carpano Antica Formula vermouth
+¾ ounce Carpano Antica Formula sweet vermouth
 1 teaspoon Strega
 1 dash Bitter Truth Aromatic Bitters
 Garnish: 1 brandied cherry
@@ -3277,13 +3277,13 @@ Garnish: 1 strawberry slice
 ¾ ounce Suze
 Garnish: 1 Orange twist
 1½ ounces Siembra Azul reposado tequila
-½ ounce Carpano Antica Formula vermouth
+½ ounce Carpano Antica Formula sweet vermouth
 ½ ounce Dolin dry vermouth
 ½ ounce Campari
 1 dash Angostura bitters 
 Garnish: 1 Orange twist
 1½ ounces Elijah Craig Small Batch bourbon
-¾ ounce Carpano Antica Formula vermouth
+¾ ounce Carpano Antica Formula sweet vermouth
 ¾ ounce Campari
 Garnish: 1 brandied cherry
 1½ ounces Rittenhouse rye
@@ -3367,7 +3367,7 @@ Garnish: 3 drops Angostura bitters
 ½ ounce fresh lime juice
 1 teaspoon simple syrup (page 45)
 Garnish: 1 lime wedge
-1¼ ounces Appleton Signature Blend rum
+1¼ ounces Appleton Estate Signature Blend rum
 1¼ ounces Ron del Barrilito 3-Star rum
 ¾ ounce Hamilton Demerara 151 Overproof rum
 ½ ounce Donn's Mix No. 1 (page 295)
@@ -3736,7 +3736,7 @@ Garnish: 1 lemon wedge
 2 ounces Hakashu 12-year Japanese whisky
 4 ounces cold seltzer
 1 ounce Campari
-1 ounce Carpano Antica Formula vermouth
+1 ounce Carpano Antica Formula sweet vermouth
 4 ounces cold seltzer
 Garnish: 1 orange half wheel and a small bottle of cold seltzer
 
@@ -3751,7 +3751,7 @@ Garnish: 1 grapefruit wedge
 ¼ ounce fresh lime juice
 4 ounces cold Coca-Cola
 Garnish: 1 lime wedge
-1 ounce Carpano Antica Formula vermouth
+1 ounce Carpano Antica Formula sweet vermouth
 1 ounce Campari
 1 ounce cold prosecco 
 Garnish: 1 orange wedge
@@ -4015,7 +4015,7 @@ Garnish: Nutmeg
 1 dash Bittermens Xocolatl Mole Bitters
 Garnish: 1 Orange twist
 2 ounces Compass Box Oak Cross scotch
-½ ounce Carpano Antica Formula vermouth
+½ ounce Carpano Antica Formula sweet vermouth
 ½ ounce Dolin dry vermouth
 2 dashes Angostura bitters 
 Garnish: 1 lemon twist
@@ -4040,7 +4040,7 @@ Garnish: 1 whole strawberry, cut through the tip, leaving stem end intact
 1 drop Salt Solution (page 298) 
 Garnish: 1 spray of Cedar Tincture (page 298)
 2 ounces Compass Box Asyla scotch
-¾ ounce Carpano Antica Formula vermouth
+¾ ounce Carpano Antica Formula sweet vermouth
 ¼ ounce Bénédictine 
 Garnish: 1 lemon twist
 1¾ ounces Graham Cracker Infused Elijah Craig Single-Barrel Bourbon (page 290)
@@ -4053,7 +4053,7 @@ Garnish: 1 lemon twist
 2 dashes Miracle Mile celery bitters
 2 ounces Balvenie Doublewood 12-year scotch
 1 ounce tawny port
-½ ounce Carpano Antica Formula vermouth
+½ ounce Carpano Antica Formula sweet vermouth
 1 dash Angostura bitters
 1 ounce Pierre Ferrand Pineau des Charentes
 ½ ounce Singani 63
@@ -4201,7 +4201,7 @@ Garnish: 3 sprays of Islay scotch and 1 piece of candied ginger on a skewer
 1 teaspoon House Ginger Syrup (page 48)
 Garnish: 1 Orange twist
 2 ounces Balvenie Doublewood 12-year scotch
-¾ ounce Carpano Antica Formula vermouth
+¾ ounce Carpano Antica Formula sweet vermouth
 1 dash Angostura bitters
 Garnish: 1 brandied cherry on a skewer
 2½ ounces water 
@@ -4404,7 +4404,7 @@ Garnish: 1 Lime Wedge
 Garnish: 1 Mint Leaf
 2 Ounces Fords Gin
 ½ Ounce Contratto Americano Rosso Vermouth
-½ Ounce Carpano Antica Formula Vermouth
+½ Ounce Carpano Antica Formula sweet vermouth
 ¼ Ounce Fernet-branca 
 Garnish: Lemon Twist
 2 Ounces Flor De Caña Extra-dry White Rum
@@ -4480,7 +4480,7 @@ Garnish: 1 Mint Bouquet
 Club Soda
 Garnish: 1 Lime Wheel and Candied Ginger Flag
 1½ Ounces Redbreast 12-year Irish Whiskey
-1 Ounce Coffee-infused Carpano Antica Formula Vermouth
+1 Ounce Coffee-infused Carpano Antica Formula sweet vermouth
 ¼ Ounce Demerara Syrup
 1 Egg Yolk
 ½ Ounce Heavy Cream
@@ -4511,7 +4511,7 @@ Garnish: 1 Lime Wheel
 ¾ Ounce Lime Juice
 2 Dashes House Peychaud’s Bitters 
 Garnish: 1 Lime Wedge
-1 Ounce Smith & Cross Rum
+1 Ounce Smith & Cross Jamaican rum
 ½ Ounce El Dorado 151 Rum
 ½ Ounce El Dorado 3-year Rum
 3 Dashes Kalani Ron De Coco Coconut Liqueur
@@ -4551,7 +4551,7 @@ Port Au Prince
 6 Drops Bittermens ’elemakule Tiki Bitters 
 Garnish: 1 Pineapple and Brandied Cherry Flag
 1½ Ounces Old Grand-dad 114 Bourbon
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ¼ Ounce Bénédictine
 1 Dash Bitter Truth Aromatic Bitters 
 Garnish: 1 Orange twist
@@ -4579,7 +4579,7 @@ Vieux Pontarlier Absinthe
 ¼ Ounce Massenez Kirsch Vieux Cherry Brandy 2 Dashes Vieux Pontarlier Absinthe
 Garnish: 1 Lemon Twist
 2 Ounces Compass Box Asyla Scotch
-¾ Ounce Carpano Antica Formula Vermouth 
+¾ Ounce Carpano Antica Formula sweet vermouth 
 2 Dashes Angostura Bitters
 Garnish: 2 Brandied Cherries on a Cocktail Pick
 ¾ Ounce Lemon Hart 151 Rum
@@ -4631,7 +4631,7 @@ Garnish: 1 Mint Leaf
 1 Teaspoon Simple Syrup
 Garnish: 1 Mint Sprig
 1½ Ounces Beefeater London Dry gin
-1 Ounce Carpano Antica Formula Vermouth
+1 Ounce Carpano Antica Formula sweet vermouth
 1 Ounce Green Chartreuse
 1 Dash House Orange Bitters 
 Garnish: 1 Lemon Twist
@@ -4653,7 +4653,7 @@ Garnish: 1 Lemon Twist
 Garnish: 1 Lemon Twist
 1 Ounce Rittenhouse 100 Rye
 1 Ounce Pierre Ferrand Ambre Cognac
-1 Ounce Carpano Antica Formula Vermouth
+1 Ounce Carpano Antica Formula sweet vermouth
 1 Teaspoon Bénédictine
 1 Dash Angostura Bitters
 1 Dash House Peychaud’s Bitters 
@@ -4769,7 +4769,7 @@ Garnish: 1 Strawberry
 2 Cucumber Wheels
 1½ Ounces Tanqueray London Dry gin
 ½ Ounce Bonal Gentiane-quina
-½ Ounce Carpano Antica Formula Vermouth
+½ Ounce Carpano Antica Formula sweet vermouth
 ¾ Ounce Lemon Juice
 ¼ Ounce Orgeat
 ¼ Ounce Ginger Syrup
@@ -4861,7 +4861,7 @@ Garnish: 1 Fresh Kaffir Lime Leaf
 1 Dash House Orange Bitters 
 Garnish: 1 Apple Fan
 2 Ounces Beefeater London Dry gin
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ½ Ounce Cynar
 Garnish: 1 Brandied Cherry
 2 Ounces Beefeater London Dry gin
@@ -4883,8 +4883,8 @@ Garnish: 1 Brandied Cherry
 ¼ Ounce Cynar
 1 Teaspoon Luxardo Maraschino Liqueur
 2 Ounces Ransom Old Tom Gin
-½ Ounce Coffee-infused Carpano Antica Formula Vermouth
-½ Ounce Carpano Antica Formula Vermouth
+½ Ounce Coffee-infused Carpano Antica Formula sweet vermouth
+½ Ounce Carpano Antica Formula sweet vermouth
 ¼ Ounce Rhum Clément Créole Shrubb 
 2 Dashes Regans’ Orange Bitters
 1 Dash Angostura Bitters
@@ -4923,7 +4923,7 @@ Garnish: 1 Lemon Twist
 Garnish: 1 Orange twist
 2 Ounces Bols Genever
 ½ Ounce Cardamaro
-½ Ounce Carpano Antica Formula Vermouth
+½ Ounce Carpano Antica Formula sweet vermouth
 2 Dashes Bittermens Hopped Grapefruit Bitters
 Garnish: 1 Grapefruit Twist
 2 Ounces Plymouth Gin
@@ -4932,7 +4932,7 @@ Garnish: 1 Grapefruit Twist
 ¼ Ounce Orange Juice
 4 Dashes House Peychaud’s Bitters
 2 Ounces Beefeater London Dry gin
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ¼ Ounce Luxardo Maraschino Liqueur
 ¼ Ounce Amaro Lucano
 2 Grapefruit Twists
@@ -5000,9 +5000,9 @@ Ounces Beefeater London Dry gin
 ¾ Ounce Dolin Dry Vermouth
 ¼ Ounce Cynar
 ¼ Ounce Luxardo Maraschino Liqueur
-1½ Ounces Van Oosten Batavia Arrack
+1½ Ounces Van Oosten Batavia-Arrack Van Oosten
 ¾ Ounce Marie Brizard White Crème De Cacao
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ¾ Ounce Lime Juice
 Shake All the Ingredients With Ice, Then Strain Into a Coupe. No Garnish.
 1½ Ounces La Favorite Rhum Agricole Blanc
@@ -5044,7 +5044,7 @@ Garnish: House Peychaud’s Bitters
 1 Dash Angostura Bitters 
 Garnish: 3 Cucumber Wheels
 Cinnamon-sugar Rim
-2 Ounces Smith & Cross Rum
+2 Ounces Smith & Cross Jamaican rum
 ½ Ounce Pineapple Juice
 ½ Ounce Lime Juice
 ½ Ounce Vanilla Syrup
@@ -5120,7 +5120,7 @@ Garnish: 1 Granny Smith Apple Slice
 1 Teaspoon Cane Sugar Syrup
 2 Dashes Bittermens Xocolatl Mole Bitters
 1 Ounce Cruzan Black Strap Rum
-1 Ounce Van Oosten Batavia Arrack
+1 Ounce Van Oosten Batavia-Arrack Van Oosten
 1 Ounce Cocchi Vermouth Di Torino
 1 Teaspoon Campari
 ½ Teaspoon Demerara Syrup
@@ -5140,7 +5140,7 @@ Garnish: Nutmeg
 ½ Ounce Green Chartreuse
 2 Ounces Pampero Aniversario Rum
 ½ Ounce Lemon Hart 151 Rum
-½ Ounce Coffee-infused Carpano Antica Formula Vermouth
+½ Ounce Coffee-infused Carpano Antica Formula sweet vermouth
 ¼ Ounce Marie Brizard White Crème De Cacao
 ½ Teaspoon Demerara Syrup
 1 Dash Bittermens Xocolatl Mole Bitters
@@ -5151,7 +5151,7 @@ Garnish: 1 Orange twist
 ½ Ounce Alvear Festival Pale Cream Sherry
 ½ Ounce Lustau East India Solera Sherry
 ¼ Ounce Alchemia Chocolate Vodka
-1 Teaspoon Carpano Antica Formula Vermouth
+1 Teaspoon Carpano Antica Formula sweet vermouth
 ½ Teaspoon Suze Saveur D’autrefois Liqueur
 1 Dash Bittercube Cherry Bark and Vanilla Bitters
 1 Orange twist
@@ -5174,7 +5174,7 @@ Garnish: 1 Orange twist
 Garnish: 1 Lime Wheel
 1½ Ounces El Dorado 15-year Rum
 ½ Ounce Santa Teresa 1796 Rum
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ½ Ounce Fernet-branca
 ¼ Ounce Yellow Chartreuse
 1 Dash Vieux Pontarlier Absinthe
@@ -5187,7 +5187,7 @@ Garnish: 1 Orange twist
 ½ Ounce Cruzan Black Strap Rum 1 Ounce Dolin Rouge Vermouth
 1 Teaspoon Lazzaroni Amaretto
 1 Dash Fee Brothers Whiskey Barrel-aged Bitters
-2 Ounces Van Oosten Batavia Arrack
+2 Ounces Van Oosten Batavia-Arrack Van Oosten
 1 Ounce Cinnamon Orange Tea–infused Sweet Vermouth
 ¼ Ounce Demerara Syrup
 2 Dashes Bitter Truth Aromatic Bitters
@@ -5204,7 +5204,7 @@ Garnish: 1 Lemon Twist
 1 Teaspoon Grenadine
 1 Dash House Peychaud’s Bitters
 1½ Ounces Zacapa 23-year Rum
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ½ Ounce Otima 10-year Tawny Port
 2½ Teaspoons Marie Brizard White Crème De Cacao
 2½ Teaspoons Alchemia Chocolate Vodka
@@ -5250,7 +5250,7 @@ Smoked Salt
 2 Dashes Angostura Bitters
 2 Orange Wedges
 2 Ounces Siete Leguas Reposado Tequila
-¼ Ounce Smith & Cross Rum
+¼ Ounce Smith & Cross Jamaican rum
 ¾ Ounce Lime Juice
 ½ Ounce Cinnamon Bark Syrup
 ¼ Ounce Cane Sugar Syrup
@@ -5409,7 +5409,7 @@ Garnish: 2 Dashes Angostura Bitters and 1 Mint Sprig
 ½ Ounce (Scant) Yellow Chartreuse
 ¼ Teaspoon Cinnamon Bark Syrup
 2 Ounces El Tesoro Reposado Tequila
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ½ Ounce Cynar
 Garnish: 1 Brandied Cherry
 1½ Ounces Sombra Mezcal
@@ -5423,7 +5423,7 @@ Garnish: 1 Brandied Cherry
 ¼ Ounce Clear Creek Pear Brandy
 Garnish: 1 Fuji Apple Slice
 2 Ounces Siete Leguas Reposado Tequila
-½ Ounce Coffee-infused Carpano Antica Formula Vermouth
+½ Ounce Coffee-infused Carpano Antica Formula sweet vermouth
 ½ Ounce Green Chartreuse
 1 Teaspoon Cinnamon Bark Syrup
 1 Dash Bittermens Xocolatl Mole Bitters
@@ -5444,7 +5444,7 @@ Kosher Salt
 2 Ounces Siete Leguas Reposado Tequila
 1 Ounce Morenita Cream Sherry
 ½ Teaspoon Clear Creek Pear Brandy
-½ Teaspoon Carpano Antica Formula Vermouth
+½ Teaspoon Carpano Antica Formula sweet vermouth
 ½ Teaspoon Agave Nectar
 1 Dash Bittermens Xocolatl Mole Bitters
 1 Dash Angostura Bitters
@@ -5486,13 +5486,13 @@ Del Maguey Vida Mezcal
 1 Dash House Orange Bitters
 1 Grapefruit Twist
 2 Ounces El Tesoro Reposado Tequila
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ¼ Ounce Solerno Blood Orange Liqueur 
 1 Dash Bittermens Xocolatl Mole Bitters
 1 Ounce El Tesoro Reposado Tequila
 ½ Ounce Los Amantes Joven Mezcal
-¾ Ounce Carpano Antica Formula Vermouth
-½ Ounce Van Oosten Batavia Arrack
+¾ Ounce Carpano Antica Formula sweet vermouth
+½ Ounce Van Oosten Batavia-Arrack Van Oosten
 ¼ Ounce St. Elizabeth Allspice Dram
 ¼ Ounce Bénédictine
 2 Dashes Bittermens Xocolatl Mole Bitters
@@ -5747,12 +5747,12 @@ Garnish: 1 Lemon Twist
 1 Lemon Twist
 2 Ounces Caol Ila 12-year Scotch
 ½ Ounce Galliano Ristretto
-1 Teaspoon Carpano Antica Formula Vermouth
+1 Teaspoon Carpano Antica Formula sweet vermouth
 2 Dashes Bittermens Xocolatl Mole Bitters
 1½ Ounces Rittenhouse 100 Rye
 ½ Ounce Stagg Bourbon
 ½ Ounce Otima 10-year Tawny Port
-½ Ounce Carpano Antica Formula Vermouth 
+½ Ounce Carpano Antica Formula sweet vermouth 
 1 Teaspoon Campari
 1 Teaspoon Marie Brizard White Crème De Cacao 
 Garnish: 1 Orange twist
@@ -5769,7 +5769,7 @@ Garnish: 1 Orange twist
 Garnish: 1 Pineapple Leaf
 ¾ Ounce Old Grand-dad 114 Bourbon
 ¾ Ounce Laird’s Bonded Apple Brandy
-¼ Ounce Smith & Cross Rum
+¼ Ounce Smith & Cross Jamaican rum
 ¼ Ounce Green Chartreuse
 1 Teaspoon Cinnamon Bark Syrup
 1 Teaspoon Vanilla Syrup 
@@ -5786,7 +5786,7 @@ Garnish: 1 Orange twist
 1 Ounce Ramazzotti
 1 Dash House Orange Bitters
 2 Ounces Compass Box Asyla Scotch
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ¼ Ounce Drambuie
 1 Dash House Peychaud’s Bitters
 1 Ounce Laphroaig 10-year Scotch
@@ -5840,7 +5840,7 @@ Garnish: 1 Braeburn Apple Slice
 ½ Ounce Acacia Honey Syrup 
 Garnish: 1 Cinnamon Stick
 1½ Ounces Pierre Ferrand Ambre Cognac
-½ Ounce Smith & Cross Rum
+½ Ounce Smith & Cross Jamaican rum
 ½ Ounce Rhum Clément Créole Shrubb
 ¾ Ounce Lemon Juice
 ¼ Ounce Cinnamon Bark Syrup
@@ -5958,7 +5958,7 @@ Garnish: 3 Brandied Cherries on a Cocktail Pick
 2 Dashes House Peychaud’s Bitters 
 Garnish: 1 Apple Slice
 2 Ounces Hine H Cognac
-1 Ounce Carpano Antica Formula Vermouth
+1 Ounce Carpano Antica Formula sweet vermouth
 1 Ounce Toby’s Sour Cherry Shrub
 1 Dash House Orange Bitters
 Garnish: 3 Brandied Cherries on a Cocktail Pick
@@ -5979,24 +5979,24 @@ Garnish: 3 Brandied Cherries on a Cocktail Pick
 1 Lemon Twist
 Garnish: 1 Fuji Apple Slice
 2 Ounces Laird’s Bonded Apple Brandy
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ½ Ounce Cointreau
 1 Dash Bittermens Xocolatl Mole Bitters
 2 Ounces Busnel VSOP Calvados
 ¼ Ounce Laird’s Bonded Apple Brandy
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ½ Ounce St-germain
 2 Dashes House Peychaud’s Bitters 
 Garnish: 1 Lemon Twist
 1 Ounce Hine H Cognac
 1 Ounce Appleton Estate V/x Rum
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ¼ Ounce Luxardo Maraschino Liqueur 
 1 Dash Angostura Bitters
 2 Ounces Pierre Ferrand Ambre Cognac
 ½ Ounce Punt E Mes
 ½ Ounce Lustau East India Solera Sherry
-¼ Ounce Van Oosten Batavia Arrack
+¼ Ounce Van Oosten Batavia-Arrack Van Oosten
 2 Ounces Hine H Cognac
 ¾ Ounce Cocchi Americano
 ¾ Ounce Dolin Rouge Vermouth
@@ -6020,7 +6020,7 @@ Garnish: 1 Grapefruit Twist
 1 Dash Bittermens Hopped Grapefruit Bitters
 2 Ounces Busnel VSOP Calvados
 ½ Ounce Drambuie
-½ Ounce Carpano Antica Formula Vermouth 
+½ Ounce Carpano Antica Formula sweet vermouth 
 1 Teaspoon St. Elizabeth Allspice Dram
 1 Dash Angostura Bitters
 Garnish: 3 Brandied Cherries on a Cocktail Pick
@@ -6192,7 +6192,7 @@ Dry Champagne
 Dry Champagne
 Stir All the Ingredients (Except the Champagne) Over Ice, Then Strain Into a Coupe. Top With Champagne. No Garnish.
 2 Ounces El Dorado 12-year Rum
-1 Ounce Carpano Antica Formula Vermouth
+1 Ounce Carpano Antica Formula sweet vermouth
 1 Dash Angostura Bitters
 1 Dash House Peychaud’s Bitters
 ½ Ounce Dry Champagne 
@@ -6252,7 +6252,7 @@ Garnish: 1 Orange Wedge
 ½ Ounce Acacia Honey Syrup 
 Garnish: 1 Cucumber Ribbon
 1½ Ounces Amaro Nardini
-1 Ounce Carpano Antica Formula Vermouth
+1 Ounce Carpano Antica Formula sweet vermouth
 ¼ Ounce Marie Brizard White Crème De Menthe
 ¼ Ounce Marie Brizard White Crème De Cacao 
 Garnish: 1 Orange twist
@@ -6278,7 +6278,7 @@ Garnish: 1 Celery Stick
 16 Demerara Sugar Cubes
 10 Ounces Club Soda
 6 Ounces Appleton Estate V/x Rum
-3 Ounces Van Oosten Batavia Arrack
+3 Ounces Van Oosten Batavia-Arrack Van Oosten
 1 Ounce Luxardo Maraschino Liqueur
 3 Ounces Lime Juice
 5 Dashes Bitter Truth Aromatic Bitters 
@@ -6405,7 +6405,7 @@ Garnish: 6 Grapefruit Wheels
 12 White Sugar Cubes
 2 Ounces Orgeat
 4 Ounces Campo De Encanto Acholado Pisco
-2 Ounces Appleton White Rum
+2 Ounces Appleton Estate White rum
 2 Ounces Old Raj Gin
 3 Ounces Grapefruit Juice
 2 Ounces Lemon Juice
@@ -6413,7 +6413,7 @@ Garnish: 6 Grapefruit Wheels
 Garnish: 6 Lemon Wheels
 2 Ounces Plantation Barbados 5-year Rum
 ½ Ounce El Dorado 151 Rum
-½ Ounce Van Oosten Batavia Arrack
+½ Ounce Van Oosten Batavia-Arrack Van Oosten
 1 Ounce Rothman & Winter Apricot Liqueur
 1½ Ounces Lime Juice
 1½ Ounces Pineapple Juice
@@ -6473,7 +6473,7 @@ Garnish: 1 Mint Bouquet
 ½ Ounce Diplomático Reserva Exclusiva Rum
 1 Teaspoon Massenez Crème de Pêche
 1 Teaspoon Demerara Syrup
-¼ Ounce Smith & Cross Rum
+¼ Ounce Smith & Cross Jamaican rum
 4 Dashes Fee Brothers Whiskey Barrel-aged Bitters 
 Garnish: 1 Mint Bouquet
 2 Mint Sprigs
@@ -6492,7 +6492,7 @@ Garnish: 1 Mint Bouquet
 Garnish: 1 Mint Bouquet
 1 Mint Sprig
 2 Ounces Bols Genever
-½ Ounce Smith & Cross Rum 1 Teaspoon Demerara Syrup
+½ Ounce Smith & Cross Jamaican rum 1 Teaspoon Demerara Syrup
 1 Teaspoon Vanilla Syrup
 1 Dash Bitter Truth Aromatic Bitters 
 Garnish: 1 Mint Bouquet
@@ -6599,7 +6599,7 @@ Garnish: 1 Mint Sprig
 ¾ Ounce Cinnamon Bark Syrup 
 Angostura Bitters
 Garnish: 1 Cinnamon Stick
-1 Ounce Smith & Cross Rum
+1 Ounce Smith & Cross Jamaican rum
 1½ Ounces Williams & Humbert Dry Sack Medium Sherry
 ¾ Ounce Lime Juice
 ½ Ounce Cane Sugar Syrup 
@@ -6666,7 +6666,7 @@ Garnish: 1 Orange Wheel
 Club Soda
 Garnish: 3 Brandied Cherries on a Cocktail Pick
 2 Ounces Rittenhouse 100 Rye, Laird’s Bonded Apple Brandy, Santa Teresa 1796 Rum, Hine H Cognac, or Famous Grouse Scotch
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ¼ Ounce Yellow Chartreuse
 ¼ Ounce Bénédictine
 2 Dashes House Peychaud’s Bitters
@@ -6676,7 +6676,7 @@ Garnish: 3 Brandied Cherries on a Cocktail Pick
 ¾ Ounce Simple Syrup 3 Blackberries
 ½ Ounce Luxardo Maraschino Liqueur
 2 Ounces El Tesoro Reposado Tequila, Beefeater London Dry gin, Compass Box Asyla Scotch, Rittenhouse 100 Rye, or Hine H Cognac
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ½ Ounce Cynar
 Garnish: 1 Brandied Cherry
 1 Ounce Beefeater London Dry gin, Appleton Estate V/x Rum, Siembra Azul Blanco Tequila, Compass Box Asyla Scotch, Calvados, or Hine H Cognac
@@ -6781,8 +6781,8 @@ Garnish: 1 Orange Coin
 1 Ounce Plymouth Sloe Gin
 1 Ounce Campari
 Garnish: 1 Raspberry
-1 Ounce Smith & Cross Rum
-1 Ounce Carpano Antica Formula Vermouth
+1 Ounce Smith & Cross Jamaican rum
+1 Ounce Carpano Antica Formula sweet vermouth
 1 Ounce Campari 
 Garnish: 1 Orange twist
 1 Ounce Sombra Mezcal
@@ -6811,7 +6811,7 @@ Garnish: 1 Lemon Twist
 ¾ Ounce Lime Juice
 ½ Ounce Cane Sugar Syrup 
 Garnish: 1 Lime Wedge
-2 Ounces Van Oosten Batavia Arrack
+2 Ounces Van Oosten Batavia-Arrack Van Oosten
 ¾ Ounce Lime Juice
 ¾ Ounce Simple Syrup
 1 Teaspoon Pomegranate Molasses
@@ -6843,7 +6843,7 @@ Garnish: 1 Lime Wedge
 ½ Teaspoon Acid Phosphate 
 Garnish: 1 Lime Wedge
 2 Ounces La Favorite Rhum Agricole Blanc
-½ Ounce Van Oosten Batavia Arrack
+½ Ounce Van Oosten Batavia-Arrack Van Oosten
 ¾ Ounce Lime Juice
 ½ Ounce Cane Sugar Syrup 
 Garnish: 1 Lime Wedge
@@ -6851,7 +6851,7 @@ Garnish: 1 Lime Wedge
 ¾ Ounce Lime Juice
 ¾ Ounce Simple Syrup 
 Garnish: 1 Lime Wedge
-1 Ounce Van Oosten Batavia Arrack
+1 Ounce Van Oosten Batavia-Arrack Van Oosten
 1 Ounce Scarlet Ibis Rum
 1 Ounce Toby’s Lime Cordial
 3 Fresh Curry Leaves 
@@ -6946,7 +6946,7 @@ Garnish: 1 Lime Wedge
 ½ Ounce Aperol
 ¼ Ounce Yellow Chartreuse
 2 Ounces Scarlet Ibis Rum
-¾ Ounce Carpano Antica Formula Vermouth
+¾ Ounce Carpano Antica Formula sweet vermouth
 ¼ Ounce St. Elizabeth Allspice Dram 
 2 Dashes Angostura Bitters 
 Garnish: 1 Orange twist
@@ -6962,7 +6962,7 @@ Garnish: 1 Orange twist
 1 Dash Angostura Bitters
 2 Ounces El Tesoro Reposado Tequila
 ½ Ounce Amaro Ciociaro
-½ Ounce Carpano Antica Formula Vermouth
+½ Ounce Carpano Antica Formula sweet vermouth
 ¼ Ounce St-germain 
 Garnish: 1 Grapefruit Twist
 1½ Ounces Apricot-infused Famous Grouse Scotch
@@ -7134,7 +7134,7 @@ Lemon wedge, for rimming the glass
 ½ ounce fresh lemon juice
 ½ ounce Pandan Syrup
 Soda water, chilled
-¾ ounce Batavia arrack
+¾ ounce Batavia-Arrack Van Oosten
 ¾ ounce Asahi-Mannen sweet potato shochu
 ¼ ounce Giffard crème de cacao
 ¼ ounce Giffard crème de banane
@@ -7350,7 +7350,7 @@ Garnish: brandied cherry
 Garnish: edible blueberry-lemon sorbet violet flower (available online)
 1½ ounces Iri Bancha–Infused Japanese Whisky 
 ⅔ ounce Hojicha-Infused Campari 
-⅔ ounce Carpano Antica Formula vermouth
+⅔ ounce Carpano Antica Formula sweet vermouth
 Garnish: torched dehydrated orange slice
 1 ounce The SG Club Kome shochu (or substitute any rice shochu)
 1 ounce umeshu (plum liqueur)
@@ -7365,7 +7365,7 @@ Hitachino Nest Weizen (or substitute any hefeweizen beer)
 Garnish: an ornate lemon garnish
 1½ ounces Sesame Oil-Washed Japanese Whisky
 ¾ ounce ginger liqueur
-¾ ounce Madeira wine (or substitute Carpano Antica Formula vermouth)
+¾ ounce Madeira wine (or substitute Carpano Antica Formula sweet vermouth)
 2 drops Kishibori Shoyu barrel-aged soy sauce 
 Garnish: 1 by 3-inch rectangle nori
 Salt, for rimming the glass
@@ -7628,7 +7628,7 @@ Mint sprig, for garnish
 1 ounce (30 ml) Cinzano Rosso vermouth
 14 drops Angostura bitters
 Orange peel, for garnish
-2 ounces (60 ml) Carpano Antica Formula vermouth
+2 ounces (60 ml) Carpano Antica Formula sweet vermouth
 ½ ounce (15 ml) green Chartreuse
 ½ ounce (15 ml) Rittenhouse 100-proof rye
 9 drops Bittermens ‘Elemakule Tiki bitters
@@ -7683,9 +7683,9 @@ Orange peel, for garnish
 7 drops Bittermens Xocolatl Mole Bitters
 Lemon peel, for garnish
 2 ounces (60 ml) El Dorado 5-year rum
-½ ounce (15 ml) Smith and Cross traditional Jamaican rum
+½ ounce (15 ml) Smith & Cross Jamaican rum
 ½ ounce (15 ml) Licor 43 liqueur
-¾ ounce (22.5 ml) Carpano Antica Formula vermouth
+¾ ounce (22.5 ml) Carpano Antica Formula sweet vermouth
 Orange peel, for garnish
 
 4 spritzes Herbsaint
@@ -7746,12 +7746,12 @@ Orange peel, for garnish
 7 drops Peychaud’s bitters
 Sage leaf, for garnish
 1½ ounces (45 ml) La Gitana “en rama” sherry
-¾ ounce (22.5 ml) Van Oosten Batavia arrack
+¾ ounce (22.5 ml) Van Oosten Batavia-Arrack Van Oosten
 ¼ ounce (7.5 ml) Orgeat 
 4 drops Fee Brothers Old Fashion bitters
 Freshly ground nutmeg, for garnish
 1½ ounces (45 ml) Don Q “Cristal” blanco rum
-½ ounce (15 ml) Appleton 12-year rum
+½ ounce (15 ml) Appleton Estate 12-year rum
 ¾ ounce (22.5 ml) Cocktail & Son’s fassionola, or Hurricane Syrup 
 ¾ ounce (22.5 ml) fresh lime juice
 Dehydrated orange wheel, for garnish
@@ -7830,7 +7830,7 @@ Mint sprig, for garnish
 1 ounce (30 ml) fresh lemon juice
 ½ ounce (15 ml) Honey Syrup 
 21 drops Angostura bitters, plus 5 for garnish
-¾ ounce (22.5 ml) Smith and Cross traditional Jamaican rum
+¾ ounce (22.5 ml) Smith & Cross Jamaican rum
 ¾ ounce (22.5 ml) Bonal
 ¾ ounce (22.5 ml) fresh lime juice
 ¾ ounce (22.5 ml) Cinnamon Syrup 
@@ -7871,7 +7871,7 @@ Lemon peel, for garnish
 ½ ounce (15 ml) Braulio amaro
 ½ ounce (15 ml) Demerara Syrup
 7 drops Bitter Truth Aromatic Bitters
-1½ ounces (45 ml) Van Oosten Batavia arrack
+1½ ounces (45 ml) Van Oosten Batavia-Arrack Van Oosten
 ¾ ounce (22.5 ml) Giffard apricot liqueur
 ¾ ounce (22.5 ml) fresh lime juice
 ½ teaspoon (2.5 ml) St. Elizabeth’s allspice dram
@@ -8159,7 +8159,7 @@ Lemon peel, for garnish
 ¾ ounce (22.5 ml) fresh lime juice
 ½ ounce (15 ml) Simple Syrup
 ¼ ounce (7.5 ml) Becherovka
-¼ ounce (7.5 ml) Smith and Cross traditional Jamaican rum
+¼ ounce (7.5 ml) Smith & Cross Jamaican rum
 ¼ ounce (7.5 ml) Avuá Amburana cachaça
 Mint sprig, for garnish
 Orange peel, for garnish
@@ -8194,7 +8194,7 @@ Lemon peel, for garnish
 2 ounces (60 ml) soda water
 Lemon wheel, for garnish
 ¾ ounce (22.5 ml) Tempus Fugit Kina l’Aéro d’Or Aperitif
-¾ ounce (22.5 ml) Suntory Toki whiskey
+¾ ounce (22.5 ml) Suntory Toki whisky
 ½ teaspoon (2.5 ml) Giffard Abricot du Roussillon liqueur
 1½ ounces (45 ml) sparkling wine, to top
 1½ ounces (45 ml) soda water, to top
@@ -8566,7 +8566,7 @@ Garnish: lemon twist
 1 ounce Cynar
 1 ounce aquavit
 2 dashes Fee Brothers peach bitters
-1½ ounces 101-proof Wild Turkey rye
+1½ ounces Wild Turkey 101 Rye
 ½ ounce Punt e Mes
 ¼ ounce St. Elizabeth Allspice Dram
 ¾ ounce Cider Reduction
@@ -8716,11 +8716,11 @@ Garnish: lemon twist
 2 ounces New York Distilling Company Ragtime Rye
 ½ ounce Bigallet China-China Amer
 ½ ounce Suze
-½ ounce sweet vermouth (preferably equal parts Cinzano Rosso and Carpano Antica Formula)
+½ ounce sweet vermouth (preferably equal parts Cinzano Rosso and Carpano Antica Formula sweet vermouth)
 5 dashes St. Elizabeth Allspice Dram
 Garnish: lemon twist and Orange twist
 2 ounces rye whiskey
-1 ounce sweet vermouth (preferably Carpano Antica Formula)
+1 ounce sweet vermouth (preferably Carpano Antica Formula sweet vermouth)
 2 dashes Angostura bitters
 Garnish: Luxardo cherry
 3 ounces Citadelle gin
@@ -9001,7 +9001,7 @@ Garnish: 1 orange peel
 4 dashes 15-year balsamic vinegar made from Pedro Ximenez grapes
 Garnish: 1 orange peel and 1 square piece of lemon zest
 ⅔ ounce Elijah Craig 12-Year bourbon
-1 ounce Carpano Antica Formula vermouth
+1 ounce Carpano Antica Formula sweet vermouth
 ¾ ounce Campari
 ½ ounce Cynar
 2 dashes Bittermens Xocolatl Mole Bitters
@@ -9031,7 +9031,7 @@ Garnish: 1 roasted fig (prepared as in the recipe for Bulleit Bourbon Infused wi
 Garnish: 1 Orange twist
 8 coffee beans
 1 ounce Zacapa 23-Year rum
-¾ ounce Carpano Antica Formula
+¾ ounce Carpano Antica Formula sweet vermouth
 ½ ounce Campari
 Garnish: 1 long Orange twist
 1 ounce Plymouth gin
@@ -9039,7 +9039,7 @@ Garnish: 1 long Orange twist
 1 ounce Yellow Chartreuse Infused With Serranos
 Garnish: 1 Orange twist and 1 slice chile peppers
 1 ounce Bols Barrel-Aged Genever
-⅓ ounce Carpano Antica Formula
+⅓ ounce Carpano Antica Formula sweet vermouth
 ⅓ ounce Martini & Rossi sweet vermouth
 ⅓ ounce Dubonnet Rouge
 1 ounce Aperol
@@ -9072,7 +9072,7 @@ Garnish: 1 Orange twist
 1½ ounces Campari 
 Garnish: 1 orange spiral made with a channel knife
 1½ ounces El Tesoro Blanco tequila 
-1 ounce Carpano Antica Formula
+1 ounce Carpano Antica Formula sweet vermouth
 1 ounce Campari Infused With Star Anise
 1 ounce Hendrick’s gin
 1 ounce Lillet Blanc
@@ -9085,7 +9085,7 @@ Garnish: 1 small grapefruit slice or 1 grapefruit twist
 5 (750 mL) bottles sweet vermouth
 5 (750 mL) bottles Campari
 6 ounces Don Julio Reposado tequila
-5½ ounces Carpano Antica Formula vermouth
+5½ ounces Carpano Antica Formula sweet vermouth
 6½ ounces Campari
 5 ounces mineral water
 10 dashes Peychaud’s bitters
@@ -9117,7 +9117,7 @@ Honey foam
 ⅛ ounce simple syrup (see recipe)
 4 dashes chocolate bitters
 Orange twist, for garnish
-¼ ounce Ardbeg single malt Scotch whisky
+¼ ounce Ardbeg Single Malt Scotch
 1 ounce jenever
 ounce Cynar Italian liqueur
 ½ ounce Heering cherry liqueur
@@ -9147,12 +9147,12 @@ Lime wedge, for garnish
 ounce gin
 ½ ounce white rum
 ½ ounce fresh lemon juice
-½ ounce Casoni 1814 aperitif liqueur
+½ ounce Casoni 1814 Aperitivo
 ½ ounce passion fruit syrup
 ounces IPA beer (not too hoppy, around 60 IBU, or International Bittering Units) 
 Edible flower, for garnish (optional)
 2 ounces bourbon
-½ ounce Aperol Italian liqueur
+½ ounce Aperol
 ¼ ounce peach liqueur
 4 dashes Angostura aromatic bitters
 Lemon twist, for garnish
@@ -9649,7 +9649,7 @@ Pineapple wedge, for garnish
 ⅛ ounce grenadine
 2 strips grapefruit zest
 Fresh mint leaves and lime wedge, for garnish
-1½ ounces Smith & Cross Traditional Jamaica rum
+1½ ounces Smith & Cross Jamaican rum
 ¾ ounce light rum
 ¾ ounce Falernum (see recipe)
 ½ ounce Combier triple sec
@@ -9864,7 +9864,7 @@ Lime twist for garnish (optional)
 The Dead Rabbit Drinks Manual: Secret Recipes and Barroom Tales from Two Belfast Boys Who Conquered the Cocktail World	
 8 limes
 2 cups granulated sugar
-25 ounces Batavia Arrack Van Oosten
+25 ounces Batavia-Arrack Van Oosten Van Oosten
 25 ounces Earl Grey tea, cold
 1 cup coconut palm sugar
 6½ ounces fresh lime juice
@@ -10497,7 +10497,7 @@ Orange peel, for garnish
 Orange peel, for garnish
 1 ounce Plymouth Sloe Gin
 ¾ ounce Jameson Black Barrel Irish Whiskey
-¾ ounce Carpano Antica Formula Sweet Vermouth
+¾ ounce Carpano Antica Formula sweet vermouth
 ¼ ounce The Bitter Truth Violet Liqueur
 2 dashes Bittermens Burlesque Bitters
 1 ounce Piper-Heidsieck Cuvée Brut
@@ -10633,7 +10633,7 @@ The Aviary
 1/2oz lime juice
 3/4oz Dos Maderas 5+3 Aged Rum
 3/4oz Banks 5-Island Rum
-3/4oz Smith & Cross Rum
+3/4oz Smith & Cross Jamaican rum
 1oz Novo Fogo Silver Cachaça
 1oz Sauternes
 3/4oz Rhine Hall Cherry Brandy
@@ -10799,7 +10799,7 @@ reserved Gosling’s spheres
 20 drops salt solution
 1 nutmeg
 1 nutmeg ice chip
-1 allspice ice hip
+1 allspice ice chip
 2 black cardamom ice chips
 2 Angostura cinnamon ice chips
 3 white peach ice chips
@@ -10807,7 +10807,7 @@ reserved Gosling’s spheres
 Single portion, or 6oz batch, reserved in small carafe
 Mace tincture
 278g hazelnut orgeat
-234g Batavia-Arrack van Oosten
+234g Batavia-Arrack Van Oosten
 20g Bittermens Boston Bittahs
 9.5g The Bitter End Moroccan Bitters
 1oz cold water
@@ -10880,7 +10880,7 @@ Bitters foam
 3.5g honeybush tea
 89g Mitcher’s US*1 Kentucky Straight Rye Whiskey
 67g Fusion Verjus Blanc
-27g Carpano Antica Formula Sweet Vermouth
+27g Carpano Antica Formula sweet vermouth
 1.5g Angostura Orange Bitters
 22g simple syrup
 160g water
@@ -11012,7 +11012,7 @@ Maldon sea salt
 600g whole milk
 200g white chocolate
 25g Orange peel
-80g Matusalem Platino Rum
+80g Matusalem Platinon rum
 32g sugar
 1.5g kosher salt
 1g guar gum
@@ -11157,13 +11157,13 @@ Amaretto brown butter
 2 slices ginger, 1/8” thick
 3 lemon wheels, 1/8” thick
 1oz Citadelle Gin
-1oz Carpano Antica Formula Sweet Vermouth
+1oz Carpano Antica Formula sweet vermouth
 3/4oz Campari
 5 drops Regans’ Orange Bitters
 5 drops Fee Brothers Orange Bitters
 1oz water
 178g Citadelle Gin
-193g Carpano Antica Formula Sweet Vermouth
+193g Carpano Antica Formula sweet vermouth
 123g Campari
 1.3g Regans’ Orange Bitters
 1.2g Fee Brothers Orange Bitters
@@ -11187,7 +11187,7 @@ Sherry marbles
 942g Sipsmith London Dry gin
 75g fresh Périgord black truffles
 1 1/2oz truffled gin
-3/4oz Carpano Antica Formula Sweet Vermouth
+3/4oz Carpano Antica Formula sweet vermouth
 1/2oz Campari
 1 1/2oz water
 25g fresh raspberries
@@ -11205,10 +11205,10 @@ Sherry marbles
 56g Compass Box Great King St. Glasgow Blend Scotch Whisky
 61g Grand Marnier liqueur
 96g Drambuie liqueur
-1/2oz Carpano Antica Formula Sweet Vermouth
+1/2oz Carpano Antica Formula sweet vermouth
 1/2oz Green Chartreuse
 1/2oz Plymouth Original Gin
-93g Carpano Antica Formula Sweet Vermouth
+93g Carpano Antica Formula sweet vermouth
 90g Green Chartreuse
 83g Plymouth Original Gin
 93g water
@@ -11440,7 +11440,7 @@ single portion, or 3oz batch
 1/2oz Lustau San Emilio Pedro Ximénez Sherry
 1 drop The Bitter Truth Chocolate Bitters
 2oz oated whiskey
-1/2oz Carpano Antica Formula Sweet Vermouth
+1/2oz Carpano Antica Formula sweet vermouth
 1/2oz Amaro Lucano
 1/2oz Lustau San Emilio Pedro Ximénez Sherry
 2 droppers Bittered Sling Zingiber Crabapple Bitters
@@ -11537,7 +11537,7 @@ falernum marbles
 1/4oz Luxardo Maraschino Liqueur
 2 dashes Regans’ Orange Bitters
 1 1/2oz Knob Creek Single Barrel Reserve bourbon
-1oz Carpano Antica Formula Sweet Vermouth
+1oz Carpano Antica Formula sweet vermouth
 3/4oz Campari
 1oz Rittenhouse Bottled in Bond Rye Whiskey
 1oz Punt e Mes
@@ -11774,7 +11774,7 @@ Thai spice coffee grounds
 3/4oz BroVo Amaro by Peter Kim (2014)
 1/2oz Rhine Hall Mango Brandy
 1/4oz Green Chartreuse
-1/4oz Smith & Cross Rum
+1/4oz Smith & Cross Jamaican rum
 4 dashes (about 80 drops) Angostura Aromatic Bitters
 3 drops smoked salt solution
 ancho pepper tincture
@@ -11856,7 +11856,7 @@ black peppercorns
 1 1/4oz Lustau Península Palo Cortado Sherry
 1/2oz Lustau San Emilio Pedro Ximénez Sherry
 1/2oz Bigallet China-China Amer
-1/2oz Carpano Antica Formula Sweet Vermouth
+1/2oz Carpano Antica Formula sweet vermouth
 2 drops smoked salt solution
 5 drops coriander tincture
 1oz Beefeater London Dry gin - 1970s gallon
@@ -11868,7 +11868,7 @@ black peppercorns
 3/4oz simple syrup
 1 1/2oz Beefeater London Dry gin - 1970s half-gallon
 3/4oz Campari Cordial - 1970s
-3/4oz Carpano Biano - 1970s
+3/4oz carpano bianco - 1970s
 3 dashes Regans’ Orange Bitters
 1 lemon peel, removed with peeler
 1 1/2oz Tanqueray Sweet Gin - 1900s
@@ -11969,7 +11969,7 @@ small wood chips
 1 lemon peel
 70g Averna Amaro
 66g Zaya Gran Reserva Rum
-15g Smith & Cross Rum, optional
+15g Smith & Cross Jamaican rum, optional
 43g Licor 43 Original
 2g Angostura Aromatic Bitters
 1 vanilla bean
@@ -12080,7 +12080,7 @@ small wood chips
 45g Pierre Ferrand 1840 Cognac
 44g Rhine Hall Cherry Brandy
 26g Pierre Ferrand Dry Curaçao
-22g Smith & Cross Rum
+22g Smith & Cross Jamaican rum
 5 whole cardamom pods
 500g water
 350g fresh raspberries

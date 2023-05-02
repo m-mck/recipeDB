@@ -58,7 +58,7 @@ recipes:
     year:
     notes: In the early days of cocktails, vermouth was becoming popular in America and found its way into the Old-Fashioned template, resulting in this nuanced, low-ABV sipper. This classic recipe also demonstrates that not all Old-Fashioned-style drinks are served over ice in rocks glasses.
     ingredients:
-    - 2 ounces Carpano Antica Formula vermouth
+    - 2 ounces Carpano Antica Formula sweet vermouth
     - ½ teaspoon simple syrup
     - 2 dashes Angostura bitters 1 dash orange bitters
     - "Garnish: 1 lemon twist"
@@ -950,7 +950,7 @@ recipes:
     ingredients: 
     - 1 ounce Rittenhouse rye
     - ½ ounce Pierre Ferrand 1840 Cognac
-    - 1½ ounces Blood Orange-Infused Carpano Antica Formula
+    - 1½ ounces Blood Orange-Infused Carpano Antica Formula sweet vermouth
     - "Garnish: 1 blood orange wheel"
     steps:
     - Stir all the ingredients over ice, then strain into a chilled coupe
@@ -964,7 +964,7 @@ recipes:
     notes: True, the Martini and its variations typically involve a simple harmony of spirit and vermouth, but as just mentioned, a host of cocktails in its extended family also include a small amount of liqueur. In the Martinez, just 1 teaspoon of maraschino liqueur brings both fruitiness and astringency, qualities that pair beautifully with the vanilla flavors in aged spirits and sweet vermouth. When coming up with Martinez variations, the liqueur is a great place to start, given that there are so many interesting choices to explore, from Bénédictine, which introduces a honeyed sweetness and herbal undertones, to fruit liqueurs, such as peach, apricot, or raspberry.
     ingredients: 
     - 1½ ounces Hayman’s Old Tom gin
-    - 1½ ounces Carpano Antica Formula vermouth
+    - 1½ ounces Carpano Antica Formula sweet vermouth
     - 1 teaspoon Luxardo Maraschino Liqueur
     - 2 dashes House Orange Bitters
     - "Garnish: 1 lemon twist"
@@ -1005,7 +1005,7 @@ recipes:
     ingredients: 
     - 1 ounce Highland Park 12-year scotch
     - 1 ounce Aviation gin
-    - ½ ounce Carpano Antica sweet vermouth
+    - ½ ounce Carpano Antica Formula sweet vermouth
     - ¼ ounce Giffard Abricot du Roussillon
     - ¼ ounce Ramazzotti
     - "Garnish: 1 mint leaf"
@@ -1032,7 +1032,7 @@ recipes:
       - death & co
       - stirred
       - classic
-  - name: Poet’s Dream
+  - name: Poet's Dream
     author: 
     year: 
     notes: As you may recall from the Improved Whiskey Cocktail, the term improved refers to adding a bit of highly flavorful liqueur to a basic cocktail. This is a valuable way of thinking about how seemingly minor adjustments can create distinctive new variations. In the Poet's Dream, a basic Martini is "improved" by backing off on the vermouth a bit and including a bit of herbaceous Bénédictine.
@@ -1056,7 +1056,7 @@ recipes:
     ingredients: 
     - 1½ ounces Hayman's Old Tom gin 
     - ½ ounce Busnel VSOP Calvados
-    - ¾ ounce Carpano Antica Formula vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - 1 teaspoon Strega
     - 1 dash Bitter Truth Aromatic Bitters
     - "Garnish: 1 brandied cherry"
@@ -1161,7 +1161,7 @@ recipes:
       quality of the tequila.
     ingredients: 
     - 1½ ounces Siembra Azul reposado tequila
-    - ½ ounce Carpano Antica Formula vermouth
+    - ½ ounce Carpano Antica Formula sweet vermouth
     - ½ ounce Dolin dry vermouth
     - ½ ounce Campari
     - 1 dash Angostura bitters 
@@ -1186,7 +1186,7 @@ recipes:
       Campari and vermouth promotes the whiskey's flavor just enough that it asserts itself.
     ingredients: 
     - 1½ ounces Elijah Craig Small Batch bourbon
-    - ¾ ounce Carpano Antica Formula vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ¾ ounce Campari
     - "Garnish: 1 brandied cherry"
     steps:
@@ -1508,7 +1508,7 @@ recipes:
       your area, the key is to ensure the mix of a Jamaican rum, an aged Spanish style rum, and 
       aged 151 rum (also known as firewater). Drink with caution.
     ingredients: 
-    - 1¼ ounces Appleton Signature Blend rum
+    - 1¼ ounces Appleton Estate Signature Blend rum
     - 1¼ ounces Ron del Barrilito 3-Star rum
     - ¾ ounce Hamilton Demerara 151 Overproof rum
     - ½ ounce Donn's Mix No 1
@@ -2799,7 +2799,7 @@ recipes:
       A staple aperitif cocktail, the Americano is like a Negroni (a member of the Martini family, page 89) in which the gin has been replaced with seltzer, transforming it into a Highball with a split base of Campari and sweet vermouth. Both ingredients are rich and bitter, even though they're lower in alcohol, which allows this basic Highball format to work without any modifications. That said, the orange garnish is important for this cocktail: it perfumes the nose, and its flavors slowly seep into the drink as it's consumed. We highly recommend having extra cold seltzer on hand to frequently top off an Americano, ideally in the late afternoon with a good book.
     ingredients: 
     - 1 ounce Campari
-    - 1 ounce Carpano Antica Formula vermouth
+    - 1 ounce Carpano Antica Formula sweet vermouth
     - 4 ounces cold seltzer
     - "Garnish: 1 orange half wheel and a small bottle of cold seltzer"
     steps:
@@ -2858,7 +2858,7 @@ recipes:
     year: 
     notes: Remember the Americano from the section "Experimenting with the Core and Seasoning"? What if we were to replace the seltzer with sparkling wine? The delicious result is a classic Negroni Sbagliato. Because the sparkling wine has more flavor than seltzer, less is used, resulting in a cocktail that dances between bitter, sweet, and refreshing.
     ingredients: 
-    - 1 ounce Carpano Antica Formula vermouth
+    - 1 ounce Carpano Antica Formula sweet vermouth
     - 1 ounce Campari
     - 1 ounce cold prosecco 
     - "Garnish: 1 orange wedge"
@@ -3773,7 +3773,7 @@ recipes:
     notes: 
     ingredients: 
     - 2 ounces Compass Box Oak Cross scotch
-    - ½ ounce Carpano Antica Formula vermouth
+    - ½ ounce Carpano Antica Formula sweet vermouth
     - ½ ounce Dolin dry vermouth
     - 2 dashes Angostura bitters 
     - "Garnish: 1 lemon twist"
@@ -3846,7 +3846,7 @@ recipes:
     notes: 
     ingredients: 
     - 2 ounces Compass Box Asyla scotch
-    - ¾ ounce Carpano Antica Formula vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - ¼ ounce Bénédictine 
     - "Garnish: 1 lemon twist"
     steps:
@@ -3896,7 +3896,7 @@ recipes:
     ingredients: 
     - 2 ounces Balvenie Doublewood 12-year scotch
     - 1 ounce tawny port
-    - ½ ounce Carpano Antica Formula vermouth
+    - ½ ounce Carpano Antica Formula sweet vermouth
     - 1 dash Angostura bitters
     steps:
     - Stir all the ingredients over ice, then strain into a chilled Nick & Nora glass
@@ -4319,7 +4319,7 @@ recipes:
     notes: 
     ingredients: 
     - 2 ounces Balvenie Doublewood 12-year scotch
-    - ¾ ounce Carpano Antica Formula vermouth
+    - ¾ ounce Carpano Antica Formula sweet vermouth
     - 1 dash Angostura bitters
     - "Garnish: 1 brandied cherry on a skewer"
     steps:

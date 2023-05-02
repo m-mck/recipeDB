@@ -121,7 +121,7 @@ Vanilla Lactic Syrup
 vanilla extract
 vanilla bean soda
 vanilla bean
-Van Oosten Batavia Arrack
+Van Oosten Batavia-Arrack Van Oosten
 Urban Moonshine maple bitters
 unsweetened pure cranberry juice
 unsweetened coconut milk
@@ -281,7 +281,7 @@ Teaspoon Crème Yvette
 Teaspoon Clear Creek Pear Brandy
 Teaspoon Cinnamon Bark SyrupTeaspoon Cinnamon Bark Syrup
 Teaspoon Cinnamon Bark Syrup Teaspoon Demerara Syrup
-Teaspoon Carpano Antica Formula Vermouth
+Teaspoon Carpano Antica Formula sweet vermouth
 Teaspoon Cane Sugar SyrupTeaspoon Cane Sugar Syrup
 Teaspoon Campari
 Teaspoon Bénédictine
@@ -341,8 +341,8 @@ sweetened condensed milk
 sweet vermouthsweet vermouth
 sweet vermouth, preferably Carpano Antica
 sweet vermouth, perferably Carpano Antica
-sweet vermouth (preferably equal parts Cinzano Rosso and Carpano Antica Formula)
-sweet vermouth (preferably Carpano Antica Formula)
+sweet vermouth (preferably equal parts Cinzano Rosso and Carpano Antica Formula sweet vermouth)
+sweet vermouth (preferably Carpano Antica Formula sweet vermouth)
 sweet vermouth
 sweet potato syrup
 Svöl Swedish Style Aquavit
@@ -356,8 +356,8 @@ superfine sugar
 super sweet 100 tomatoes
 Suntory Whisky Toki
 Suntory Toki whisky
-Suntory Toki Japanese Whisky
-Suntory Toki Japanese whisky
+Suntory Toki whisky
+Suntory Toki whisky
 Suntory Roku ginSuntory Roku gin
 Suntory Kakubin, strategically stored in the home freezer (feel free to substitute your favorite whisky)
 Suntory Hakushu 12-year Whiskey
@@ -520,13 +520,13 @@ smoked paprika
 Smoked milk
 Smoked Lemonade
 smoke bomb solution
-Smith & Cross Traditional Jamaica rum
-Smith & Cross Rum, optional
-Smith & Cross Rum Teaspoon Demerara Syrup
-Smith & Cross Rum
-Smith & Cross Jamaicia rum
+Smith & Cross Jamaican rum
+Smith & Cross Jamaican rum, optional
+Smith & Cross Jamaican rum Teaspoon Demerara Syrup
+Smith & Cross Jamaican rum
+Smith & Cross Jamaican rum
 Smith & Cross Jamaican Rum
-Smith & Cross Jamaica rumSmith & Cross Jamaica rum
+Smith & Cross Jamaican rumSmith & Cross Jamaican rum
 small wood chips
 small sprig rosemary
 small slice ginger
@@ -1201,7 +1201,7 @@ oz carrot top soda
 oz carrot rooibos syrup
 oz carrot juice, extracted with juicer
 oz carrot cake rum
-oz Carpano Antica Formula Sweet Vermouth
+oz Carpano Antica Formula sweet vermouth
 oz carbonated milk punch
 oz Campari, chilled thoroughly in freezer
 oz Botran Reserva Rum
@@ -1432,7 +1432,7 @@ Maurin Quina Apéritifnectarine vermouth
 Maurin Quina
 Mauresque: Orgeat Syrup
 Maudite strong dark ale or similar ale
-Matusalem Platino Rum
+Matusalem Platinon rum
 Matusalem Gran Reserva 15-year Rum
 Matsutake-Porcini Syrup
 Mathilde Poire
@@ -2439,7 +2439,7 @@ es Boker’s Bitters
 es bitters
 es Bittermens Xocolatl Mole Bitterses Bittermens Xocolatl Mole Bitters
 es Bittermens Xocolatl Mole Bitters
-es Bittermens Xocolati Mole Bitters
+es Bittermens Xocolatl Mole Bitters
 es Bittermens Orchard Street Celery Shrub
 es Bittermens Hopped Grapefruit Bitters
 es Bittermens Hellfire Habanero Shrub
@@ -2991,7 +2991,7 @@ Cognac (preferably Gilles Brisson VS)
 Cognac
 cognac
 Coffee-Infused Kalani Coconut Liqueur (page 290)
-Coffee-infused Carpano Antica Formula Vermouth
+Coffee-infused Carpano Antica Formula sweet vermouth
 coffee-infused Campari
 Coffee- and Chile-infused Campari
 coffee liqueur (preferably Caffé Lolita)
@@ -3217,7 +3217,7 @@ cassia cinnamon sticks, cracked into small pieces
 cassia cinnamon sticks
 cassia cinnamon stick, 10 inches long
 cassia cinnamon stick
-Casoni 1814 aperitif liqueur
+Casoni 1814 Aperitivo
 cask ale
 Casa Noble Reposado TequilaCascahuin 48 Plata tequila
 Casa Noble Reposado Tequila
@@ -3226,16 +3226,16 @@ carrots, grated
 carrot top distillate
 carrot juice, extracted with juicer
 carrot greens
-Carpano Biano - 1970s
+carpano bianco - 1970s
 Carpano Bianco VermouthCarpano Bianco vermouth
 Carpano Bianco Vermouth
-Carpano Antica sweet vermouth
-Carpano Antica Formula VermouthCarpano Antica Formula Vermouth
-Carpano Antica Formula vermouthCarpano Antica Formula vermouth
-Carpano Antica Formula vermouth
-Carpano Antica Formula Sweet Vermouth
 Carpano Antica Formula sweet vermouth
-Carpano Antica Formula
+Carpano Antica Formula sweet vermouthCarpano Antica Formula sweet vermouth
+Carpano Antica Formula sweet vermouthCarpano Antica Formula sweet vermouth
+Carpano Antica Formula sweet vermouth
+Carpano Antica Formula sweet vermouth
+Carpano Antica Formula sweet vermouth
+Carpano Antica Formula sweet vermouth
 carob syrup
 Cardamom-Infused St-Germain
 Cardamom Pods
@@ -3399,7 +3399,7 @@ blueberry
 blueberries
 bloody mary batch
 blood oranges
-Blood Orange-Infused Carpano Antica Formula
+Blood Orange-Infused Carpano Antica Formula sweet vermouth
 blood orange wheel
 blood Orange twist
 Blood Orange Syrup
@@ -3445,7 +3445,7 @@ black cardamom pods, lightly crushed
 black cardamom pods
 black cardamom ice chips
 Bitters foam
-Bittermens Xocolati Mole Bitters
+Bittermens Xocolatl Mole Bitters
 Bittermens Orange Cream Citrate
 Bittermens New Orleans coffee liqueur
 Bittermens Hopped Grapefruit Bitters
@@ -3483,9 +3483,9 @@ bee pollen
 Becherovka
 Bay Leaf Syrup
 bay leaf
-Batavia-Arrack van Oosten
-Batavia Arrack Van Oosten
-Batavia arrack
+Batavia-Arrack Van Oosten
+Batavia-Arrack Van Oosten Van Oosten
+Batavia-Arrack Van Oosten
 Basil-infused Dolin Blanc VermouthBecherovka Bitters
 Basil Syrup
 Basil Stem Syrup
@@ -3603,9 +3603,9 @@ apricot liqueur
 Après-Ski Tincture
 Applewood smoked salt
 applewood chips
-Appleton White Rum
-Appleton V/X Jamaican rum
-Appleton Signature Blend rum
+Appleton Estate White rum
+Appleton Estate V/X Jamaican rum
+Appleton Estate Signature Blend rum
 Appleton Estate V/X rum
 Appleton Estate V/x Rum
 Appleton Estate Signature rum
@@ -3652,8 +3652,8 @@ Ancho Reyes Chile Liqueur
 Ancho Reyes Ancho Chile Liqueur
 ancho pepper tincture
 Ancho Chile-infused Dolin Rouge Vermouth
-Amrut peated cask-strength single malt Indian whisky
-Amrut cask-strength single malt Indian whisky
+Amrut Peated Cask-Strength Single-Malt Indian Whisky
+Amrut Cask-Strength Single-Malt Indian Whisky
 amontillado sherry
 American Fruits Black Currant Cordial
 Amer Picon - 1940s
@@ -3730,7 +3730,7 @@ Orange Crescents
 springs fresh mint
 kiwi slices
 190-proof neutral grain spirit
-101-proof Wild Turkey Rye
+Wild Turkey 101 Rye
 100- or 101-proof rye
 toasted coconut chips
 Meyer lemon wheels
@@ -3768,7 +3768,7 @@ Wild Sardinia mirto liqueur
 Varnelli Sibilla amaro
 Tempus Fugit crème de menthe
 St-Germain elderflower liqueur
-Smith and Cross traditional Jamaican rum
+Smith & Cross Jamaican rum
 Pierre Ferrand orange curaçao
 La Cigarrera manzanilla sherryOrgeat
 Hamilton pimento dram
@@ -3800,7 +3800,7 @@ mirliton pickle juice (see Pickled Mirliton recipe)
 DuBois Petite Canne sugarcane syrup
 Demerara Syrup
 Vieux Pontarlier absinthe
-Van Oosten Batavia arrack
+Van Oosten Batavia-Arrack Van Oosten
 Uruapan charanda blanco
 Tullamore D.E.W. Irish whiskey
 Stoupakis Homeric mastiha liqueur
@@ -3867,7 +3867,7 @@ Valdespino moscatel sherry
 Valdespino Amontillado sherry
 Valdespino amontillado sherry
 Tempus Fugit Kina l’Aéro d’Or Aperitif
-Suntory Toki whiskey
+Suntory Toki whisky
 Rucolino amaro
 Pepita Orgeat
 Maurin Quina Le Puy liqueur
@@ -3919,5 +3919,5 @@ Braulio amaro
 Branca Menta
 Boomsma Cloosterbitter liqueur
 Augier cognac
-Appleton 12-year rum
+Appleton Estate 12-year rum
 Alessio Chinato vermouth
