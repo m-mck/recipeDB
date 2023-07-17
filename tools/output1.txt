@@ -1682,7 +1682,7 @@ Fever-Tree Bitter Lemon or high-quality tonic water
 Fever-Tree Bitter Lemon soda
 Fever-Treeginger beer
 Fever-Tree Indian tonic water
-Fever-Treesparkling lemon
+Fever-Tree Sparkling Lemon
 Fever-Tree tonic water
 fidencio clásico mezcal
 fields of france tea syrup
@@ -3671,7 +3671,7 @@ siete leguas blanco tequila
 siete leguas reposado tequila
 silver cachaça
 silver needle tea-infused dolin blanc vermouth
-simmple syrup
+simple syrup
 simple syrup
 simple syrup (1:1 sugar:water)
 simple syrup (2:1)
@@ -4024,7 +4024,7 @@ thin apple slices on a skewer
 thin cucumber wheels
 thin fennel slices, 8 grapefruit quarters, and 5 lime wheels, plus more for garnishing each glass
 thin orange wheel
-thin slices of cucumber
+cucumber slices
 thyme sprig
 thyme-picpoul syrup (see recipe)
 tia maria coffee liqueur
@@ -4258,7 +4258,7 @@ woody creek vodka
 worcestershire crème fraîche
 worcestershire ice cube
 worcestershire sauce
-worcestershire ship
+worcestershire chip
 wray & nephew jamaican rum
 wray & nephew jamaican rum in an atomizer
 wray & nephew overproof jamaica rum

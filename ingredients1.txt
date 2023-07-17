@@ -2310,7 +2310,7 @@ fig juice
 fig bourbon
 fields of france tea syrup
 Fever-Tree tonic waterFever-Tree tonic water
-Fever-TreeSparkling Lemon
+Fever-Tree Sparkling Lemon
 Fever-Tree Indian tonic water
 Fever-Tree Bitter Lemon or high-quality tonic water
 Fever-Tree tonic

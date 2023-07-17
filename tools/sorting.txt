@@ -14,6 +14,12 @@
             byrrh gran quinquina
             byrrh grand quinquina
         lillet rouge
+        lillet blanc
+	        lillet blanc - 1970s
+	        lillet blanc infused with herbs de provence
+        lillet rose
+	        lillet rosé
+	        rose-infused lillet rosé
         absentroux
         port
             clonakilty port cask
@@ -130,6 +136,44 @@
         fukucho moon on the water junmai ginjō saké
         koshi no kanbai sai junmai ginjō saké    
     LIQUEURS
+        combier crème de rose
+        crème de banane
+        crème de cassis
+        crème de mure
+        crème de mûre
+        crème de violette
+        gabriel boudier crème de cassis de dijon
+        green crème de menthe
+        jacoulot crème de cassis de dijon
+        lejay crème de cassis de dijon
+        marie brizard white crème de menthe
+        massenez crème de pêche
+        merlet crème de fraise des bois
+        merlet crème de pêche
+        merlet crème de poire williams
+        white crème de menthe
+        rothman & winter crème de violette
+        giffard abricot du roussillon    
+        giffard apricot
+        giffard banane du brésil
+        giffard cassis noir du bourgogne
+        giffard crème de banane
+        giffard crème de cacao
+        giffard crème de cacao blanc
+        giffard crème de châtaigne
+        giffard crème de fraise des bois
+        giffard crème de framboise
+        giffard crème de mûre
+        giffard crème de pamplemousse
+        giffard crème de pamplemousse rose
+        giffard crème de pêche
+        giffard crème de pêche de vigne
+        giffard menthe pastille
+        giffard menthe-pastille
+        giffard muroise du val de loire
+        giffard vanilla de madagascar
+        giffard vanille de madagascar
+        giffard white crème de cacao
         sapin
         chinato
         Salers Gentiane
@@ -157,12 +201,12 @@
                 brovo orange curaçao
                 curaçao, preferably pierre ferrand    
                 dry curaçao
-                gabriel boudier curaçao         
-                grand marnier or orange curaçao
+                gabriel boudier curaçao
                 milk & honey house curaçao
                 orange curaçao
                 Pierre Ferrand Dry Curaçao
                 grand marnier
+                    grand marnier cream
         nut liqueur
             walnut liqueur
         ancho reyes ancho chile liqueur
@@ -214,7 +258,7 @@
         domaine de canton ginger liqueur
         don ciccio & figli finocchietto fennel liqueur
         don ciccio & figli ginocchietto fennel liqueur
-        drambuie liqueur
+        drambuie
         dumante verdenoce pistachio liqueur
         elderflower liqueur
         emile pernot fraise de boise liqueur, to rinse
@@ -222,11 +266,14 @@
         faretti biscotti famosi liqueur
         faretti biscotti liqueur
         fennel liqueur
+        fernet-vallet
         fernet-branca
             fernet branca
+                fernet-branca menta
             branca menta
                 brancamenta
-        Galliano L'autentico liqueur
+        galliano l'autentico
+        galliano ristretto
         giffard abricot du roussillon liqueur
         giffard apricot liqueur
         giffard blue curaçao liqueur
@@ -348,7 +395,7 @@
         umenoyado yuzu shu liqueur
         vanilla liqueur
         varnelli l’anice secco speciale liqueur
-        velvet falernum liqueur
+        velvet falernum
         falernum
         vicardio dragancello liqueur
         wild sardinia mirto liqueur
@@ -395,6 +442,11 @@
         becherovka
         bénédictine
         crème de cacao, teardrop's diy recipe
+        mathilde poire
+        crème de cacao
+        marie brizard white crème de cacao
+        giffard crème de cacao
+        white crème de cacao
     VERMOUTH
         sweet vermouth
             Carpano Antica Formula sweet vermouth
@@ -506,6 +558,7 @@
         white vermouth
         cola lustau rosé vermut
     AMARO
+        jägermeister
         bruto americano
         campari
             hojicha-infused campari
@@ -617,6 +670,11 @@
         SCOTCH
             Single Malt Scotch
                 aberlour 12-year-old single malt scotch whisky
+                connemara peated single malt
+                egan’s fortitude single malt
+                knappogue castle 12 single malt
+                the sexton single malt
+                westward american single malt
             famous grouse scotch
             compass box asyla scotch
             ardbeg single malt scotch
@@ -690,6 +748,8 @@
             Hibiki Japanese Harmony whisky
                 truffle butter-washed whisky
         Irish Whisky
+            slane
+                slane blended
             roe & co
             west cork 12 rum cask
             apricot-infused famous grouse scotch
@@ -710,6 +770,7 @@
             tullamore d.e.w. caribbean rum cask
             tullamore d.e.w. original
             green spot single pot still
+                raspberry-infused green spot
             redbreast 12 single pot still
             redbreast lustau single pot still
             teeling single pot still
@@ -718,6 +779,10 @@
             kilbeggan single grain
 	            sesame-infused kilbeggan single grain
             tyrconnell 10 madeira cask
+            teeling blackpitts peated single malt
+            teeling single grain
+            teeling small batch
+                mango-infused teeling small batch
         baker’s bourbon
         benton’s bacon fat-infused bourbon
         benton’s bacon fat-washed four roses bourbon
@@ -1098,7 +1163,8 @@
         silver cachaça
         unaged cachaça
         yaguara ouro cachaça
-    MILKS
+    MILKS & CREAM
+        hot milk
         2% milk
         almond milk
         buttermilk
@@ -1106,6 +1172,14 @@
         oat milk
         skim milk
         whole milk
+        heavy cream
+            cream
+            wet cream
+            honey cream
+            honey nut cheerio-infused cream
+        sour cream
+        marcona rice milk
+        jasmine rice milk
     EGGS
         egg
             egg white
@@ -1121,6 +1195,8 @@
             small or medium egg 
         aquafaba
     SYRUPS
+        Donn's Spices
+            Don's Spices
         demerara syrup
             rich demerara syrup
         honey syrup
@@ -1143,6 +1219,7 @@
             sunflower orgeat
             walnut orgeat
             kurumi orgeat
+            oat-geat
         american fruits black currant cordial
         apple-coriander beer syrup
         banana syrup
@@ -1255,13 +1332,12 @@
         milk syrup
         nutmeg syrup
         old fashioned syrup
-        or 4 dashes of gum syrup
+        gum syrup
         orange cream syrup
         orgeat syrup
         orgeat works macadamia nut syrup
-        orgeat, preferably orgeat works t’orgeat toasted almond syrup    other half forever ever ipa
-        oz rich cane sugar syrup
-        oz. simple syrup
+        orgeat
+        rich cane sugar syrup
         pandan syrup
         papaya syrup
         parrot syrup
@@ -1301,15 +1377,12 @@
         salted lime syrup
         salted sakura syrup
         sarsaparilla demerara syrup
-        scant ½ ounce coriander syrup
-        scant ¼ ounce (7.5 ml) demerara syrup
-        scant ¼ ounce demerara syrup
+        coriander syrup
+        demerara syrup
         scarlet glow syrup
         shio koji pandan syrup
         shiso syrup
-        simmple syrup
-        simple syrup
-        simple syrup 3 blackberries
+        simple syrup 
         small hand foods pineapple gum syrup
         smoked demerara syrup
         sorghum syrup
@@ -1477,6 +1550,16 @@
             salted plum shrub
             cucumber and basil shrub 
     SPECIALIZED INGREDIENTS
+        smoked milk
+        strawberry water
+        honey foam
+        fresno chile slices
+        fresno curl
+        fresno discs
+        fresno pudding
+        cigar
+        worcestershire crème fraîche
+        o'doyle rules batch
         beer foam
         breakfast cream
         cedar spice aroma
@@ -1538,9 +1621,11 @@
         compressed celery stalk
         compressed pear cubes
     SODAS 
+        sparkling water
         7-up or sprite
         cane cola
         coca-cola
+            mexican coca-cola
         casamara club como soda
         ginger
             ginger kombucha
@@ -1602,6 +1687,9 @@
         cold seltzer
         seltzer water
         seltzer
+        Fever-Tree tonic
+        Fever-Tree Sparkling Lemon
+        tepache
     GIN
         New American
             anchor genevieve gin
@@ -1672,8 +1760,9 @@
         Old Tom gin
             Hayman's Old Tom Gin
                 pennyroyal-infused Hayman's Old Tom gin
-            Ransom Old Tom gin
-            Greenhook Ginsmiths Old Tom ginn
+            Ransom Old Tom Gin
+                coriander-infused ransom old tom
+            Greenhook Ginsmiths Old Tom Gin
         Hendrick's gin 
         nikka coffey gin
         Plymouth Gin
@@ -1811,6 +1900,19 @@
         strawberry-infused sombra mezcal
         fidencio clásico mezcal    
     GARNISHES
+        radish
+            radish baton
+            radish moon
+        blackberry
+            blackberries
+        strawberry
+            strawberries
+            strawberry slices
+        bamboo leaves
+        plum
+            umeboshi plum
+        thyme
+            thyme sprig
         cilantro
             cilantro leaves
             cilantro sprig
@@ -1819,6 +1921,7 @@
             raspberries
         origami paper crane
         coffee bean
+            coffee beans
         butterfly peas
             dried blue butterfly pea flowers
         cucumber
@@ -1835,8 +1938,9 @@
         lemon
             lemon twist
             lemon wheel
-            an ornate lemon garnish
+            ornate lemon garnish
             lemon zest
+            lemon coin
         lime
             lime twist
             lime wheel
@@ -1864,6 +1968,7 @@
             orange coin
             orange powder
             orange flag
+            orange disc
         blood orange
             blood orange cells
             blood orange slice
@@ -1871,6 +1976,7 @@
             blood orange wedge
             blood orange wheel
                 blood oranges, cut into wheels
+            blood orange crescents
         air-dried makrut lime leaves
         salt
             aleppo salt
@@ -1954,6 +2060,7 @@
             apple slice
                 apple fan
                 fuji apple slice
+                braeburn apple slice
         cinnamon
             cinnamon stick
                 cassia cinnamon stick
@@ -1970,6 +2077,7 @@
             orchid flower
             edible blueberry-lemon sorbet violet flower
             viola flower
+            rinsed shiozakura blossom
         parasol
         grapefruit
             grapefruit coin
@@ -2012,6 +2120,7 @@
         olive
             castelvetrano olives
             kombu-brined olive
+            pyrolized olive
         cocktail onion
         cucumber wheels
         lemon quarter-wheels
@@ -2042,6 +2151,15 @@
         star anise
         whole star anise
         coconut flakes
+        tangerine
+        dried apple slice   
+        dried apricot
+        dried banana chip
+        dried bay leaf
+        dried chamomile
+        dried orange
+        dried papaya
+        dried rose petals
     BITTERS
         abbott’s bitters
         aromatic bitters
@@ -2259,6 +2377,7 @@
             lime leaf tincture
             parsley tincture
             popcorn tincture
+            ancho pepper tincture
     ABSINTHE
         herbsaint
         la muse verte absinthe 
@@ -2318,6 +2437,7 @@
         all-purpose flour
         allspice berries
         anko
+        citric acid
         woodchips
             applewood chips
         champagne acid
@@ -2537,6 +2657,7 @@
         grace rum cor cor red white rum
         bacardi ron superior limited edition
     ICE
+        crushed ice
         allspice ice chip
         angostura cinnamon ice chips
         anise marbles
@@ -2558,11 +2679,15 @@
         white peach cinnamon ice chips
         white peach ice chips
         worcestershire ice cube
+        worcestershire chip
         madeira ice cubes
         lemon micro pearls
         cinnamon micro pearls
-    TINCTURES
-        ancho pepper tincture
+        falernum marbles
+        fall spice ice
+        fresno ice
+        raspberry marbles
+        red pepper marbles
     SHERRY
         Amontillado Sherry
             alexander jules amontillado sherry
@@ -2646,6 +2771,8 @@
         bols genever
             grilled pineapple-infused bols genever
         bols barrel-aged genever
+        old duff dutch genever
+        old duff genever single malt
     SUGAR
         confectioners' sugar
         brown sugar
@@ -2669,6 +2796,8 @@
         demerara sugar
         lump sugar
     FOOD
+        dark chocolate
+        salami
         queso fresco, crumbled
         cereal
         fruit leather
@@ -2686,6 +2815,8 @@
             coffee ice cream
         sorbet
             chartreuse sorbet
+            lemon sorbet
+            oat milk sorbet
         coco lópez
             coco lopez
         butter
@@ -2741,6 +2872,10 @@
         strawberry puree
         umeboshi (pickled plum) puree
     BEER
+        other half forever ever ipa
+        uncommon brewers siamese twin ale
+        glass of pilsner
+        nonalcoholic lager
         beer, preferably lager
         peekskill sour ale
         belgian-style wheat beer   
@@ -2800,6 +2935,11 @@
         cava
         dry sparkling white wine
     COFFEE, TEA & VERJUS
+        drip coffee
+        hot coffee
+            hot brewed coffee
+            hot, strong coffee
+        double-brewed coffee
         red shiso tea
         brewed coffee
             brewed sumatra mandheling filtered coffee
@@ -2839,6 +2979,8 @@
         cold-brew coffee concentrate
         cold brew coffee
         cold brew concentrate
+        fresh-brewed espresso
+        freshly brewed espresso
     MIXES
         base spirit
         basic bloody mary mix
@@ -2847,6 +2989,18 @@
             hot water
             boiling water
         bergerac mix
+        normandie club bloody mary mix
+        chilled toucan mix
+        amazake mix
+        coconut mix
+        Donn's Mix
+        donn's mix no 1
+        improved gardenia mix
+        papaya mix    
+        passion fruit-yuzu sour mix
+        pendennis mix
+        verde mix
+        zombie mix
     EXTRACTS
         cinnamon extract
         eucalyptus extract
@@ -2859,14 +3013,17 @@
         vanilla extract
         root beer extract
     WINES
+        dry lambrusco wine
         white wine
+            dry white wine
             tintero grangia bianco
             auslese riesling
             full-bodied white wine, such as a chardonnay
         red wine
             dry red wine
             medium-bodied red wine
-            medium-bodied red wine
+            gamay red wine
+            red rioja wine
         château cantegril sauternes
         château la fleur d'or sauternes
         chateau laribotte sauternes
@@ -2880,3 +3037,7 @@
         rosé crémant  
         sparkling rosé
         lustau rosé vermut    
+        charles fournier riesling
+        dry riesling
+        sauvignon blanc
+
