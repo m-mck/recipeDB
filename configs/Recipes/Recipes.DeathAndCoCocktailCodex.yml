@@ -829,7 +829,7 @@ recipes:
       the Douglas fir eau-de-vie. The result is a cocktail that answers the question that inspired 
       it: "What would a Martini consumed on a mountaintop in December taste like?"
     ingredients: 
-    - 1 ounces Tanqueray gin
+    - 1 ounces Tanqueray London Dry gin
     - ¼ ounce Clear Creek Douglas fir brandy
     - ½ ounce La Quintinye Vermouth Royal blanc
     - ½ ounce Boissiere dry vermouth 
@@ -963,7 +963,7 @@ recipes:
     year: 
     notes: True, the Martini and its variations typically involve a simple harmony of spirit and vermouth, but as just mentioned, a host of cocktails in its extended family also include a small amount of liqueur. In the Martinez, just 1 teaspoon of maraschino liqueur brings both fruitiness and astringency, qualities that pair beautifully with the vanilla flavors in aged spirits and sweet vermouth. When coming up with Martinez variations, the liqueur is a great place to start, given that there are so many interesting choices to explore, from Bénédictine, which introduces a honeyed sweetness and herbal undertones, to fruit liqueurs, such as peach, apricot, or raspberry.
     ingredients: 
-    - 1½ ounces Hayman’s Old Tom gin
+    - 1½ ounces Hayman's Old Tom gin
     - 1½ ounces Carpano Antica Formula sweet vermouth
     - 1 teaspoon Luxardo Maraschino Liqueur
     - 2 dashes House Orange Bitters
@@ -1106,7 +1106,7 @@ recipes:
       liqueurs or other amari for the Campari, and adjusting the balance of ingredients so they 
       harmonize as a whole.
     ingredients: 
-    - 1 ounce Tanqueray gin 
+    - 1 ounce Tanqueray London Dry gin 
     - 1 ounce Carpano Antica Formula sweet vermouth
     - 1 ounce Campari
     - "Garnish: 1 orange half wheel"
@@ -2572,7 +2572,7 @@ recipes:
     ingredients: 
     - 5 basil leaves, preferably Thai basil 
     - ½ ounce simple syrup 
-    - 1½ ounces Bombay gin 
+    - 1½ ounces Bombay London Dry gin 
     - ½ ounce blanc vermouth
     - ½ ounce Chareau aloe liqueur
     - ¾ ounce fresh lemon juice 
@@ -3669,7 +3669,7 @@ recipes:
     year: 
     notes: 
     ingredients: 
-    - 2½ ounces Tanqueray gin 
+    - 2½ ounces Tanqueray London Dry gin 
     - ¼ ounce Dolin dry vermouth 
     - ¼ ounce Dolin blanc vermouth 
     - 1 dash House Orange Bitters
@@ -3722,7 +3722,7 @@ recipes:
     notes: 
     ingredients: 
     - 2 ounces Domaine de Montreuil Pays d'Auge Réserve Calvados
-    - 4 ounces cold Fever Tree tonic water
+    - 4 ounces cold Fever-Tree tonic water
     steps:
     - Pour the Calvados into a Highball glass, then add 3 ice cubes
     - Stir for 3 seconds
@@ -4468,7 +4468,7 @@ recipes:
     - ½ ounce Plymouth sloe gin
     - ¼ ounce Clear Creek blue plum brandy
     - ¾ ounce Aperol
-    - 1 teaspoon St Elizabeth allspice dram
+    - 1 teaspoon St. Elizabeth Allspice Dram
     - "Garnish: 1 Orange twist"
     steps:
     - Stir all the ingredients over ice, then strain into a double Old-Fashioned glass over 1 large ice cube

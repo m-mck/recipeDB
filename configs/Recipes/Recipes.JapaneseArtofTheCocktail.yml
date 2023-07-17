@@ -196,7 +196,7 @@ recipes:
     author: Masahiro Urushido
     notes: This exuberant swizzle gets its name from Calpico, a Japanese soft drink I loved during my childhood, which has a milky, yogurt-like flavor. It gets a decidedly more adult kick with the addition of fragrant gin and nigori sake, which is unfiltered and has a cloudy or milky appearance and a silky mouthfeel on the palate. A bit of blue curaçao keeps things vibrant, along with some bubbles from a dry sparkling wine, and this colorful drink is garnished with a bright red cocktail cherry. At Katana Kitten, we prefer the cherries from the brand Filthy Food, since their vibrant color is natural. A sprinkling of freshly ground sansho peppercorns imparts a unique aroma.
     ingredients:
-    - ¾ ounce Bombay Sapphire East gin
+    - ¾ ounce Bombay Sapphire East Dry gin
     - ¾ ounce nigori sake
     - ¾ ounce Calpico concentrate
     - ¼ ounce Giffard blue curaçao liqueur
@@ -443,7 +443,7 @@ recipes:
     - 1 ounce High West Campfire whiskey
     - 1 ounce Dolin Blanc vermouth
     - ¾ ounce Passion Fruit-Yuzu Sour Mix
-    - Fever-Tree Sparkling Lemon
+    - Fever-TreeSparkling Lemon
     - "Garnish: Coconut Salt and dehydrated lemon slice"
     steps:
     - Rim a highball glass with coconut salt. Combine the whiskey, vermouth, and sour mix in a cocktail shaker with ice. Shake and strain into a highball glass over an ice spear or stack of ice cubes. Top with sparkling lemonade and gently stir. Garnish with coconut salt and dehydrated lemon slice.
@@ -664,7 +664,7 @@ recipes:
     author: Masahiro Urushido
     notes: "As a huge fan of bourbon, I wanted to create a cocktail grounded in the classics that nods to Japan. This is a traditional Mint Julep variation. Peaches grow abundantly in the South, and are celebrated in many local drinks and dishes. Meanwhile, Nagano is famous for its stone fruits, including peaches (momo), plums, ume, and apricots. For this recipe, I use bourbon, a smidgen of peach liqueur, mint, and sugar. To this, I add an oleo-saccharum perfumed by preserved sakura (cherry blossom) leaves. They add a distinct herbaceousness and salinity that go well with the bourbon, and a touch of ginger acts as a bridge between the spirit and the peach flavor. Pro tip: Instead of muddling the mint leaves, rub them on the inside surface of the julep cup to really extract their fragrant essence."
     ingredients:
-    - 8 to 10 fresh mint leaves
+    - 8 to 10 mint leaves
     - 2 ounces bourbon
     - ¼ ounce peach liqueur
     - ½ ounce Sakura Leaf Oleo-Saccharum
@@ -1132,7 +1132,7 @@ recipes:
     - 1 fresh shiso leaf
     - 1 slice English cucumber
     - 1¾ ounces Kamoizumi umeshu
-    - 1¼ ounces Hendrick’s gin
+    - 1¼ ounces hendrick's gin
     - 1 teaspoon Chareau aloe liqueur (or substitute green Chartreuse)
     - "Garnish: a cucumber coin pierced by a fresh shiso leaf"
     steps:
@@ -1209,7 +1209,7 @@ recipes:
     author: Mari Kamata
     notes: This cocktail created by Mari Kamata, beverage manager at the Peninsula Tokyo, has a cinematic inspiration. It takes its name from a 1949 noir film starring Humphrey Bogart, the first Hollywood production filmed in postwar Japan. It tells the tale of Bogart’s hard-boiled character returning to Japan to check on his bar and gambling den, Tokyo Joe. He discovers his Japanese wife has divorced him in absentia, thinking he was a casualty of the war and, simultaneously, finds himself at odds with the Japanese mafia. While good ultimately triumphs, the protagonist’s fate is left ambiguous.
     ingredients:
-    - 1 ounce Bombay Sapphire gin
+    - 1 ounce Bombay Sapphire East Dry gin
     - ¾ ounce umeshu
     - ⅓ ounce Drambuie
     - 1 ounce cranberry juice

@@ -295,7 +295,7 @@ recipes:
     ingredients:
      - 2 ounces dry sparkling wine
      - 1 ounce Paul Beau VS cognac
-     - ½ ounce Reisetbauer hazelnut eau-de-vie
+     - ½ ounce Reisetbauer Hazelnut eau-de-vie
      - ¾ ounce Strawberry Syrup
      - ½ ounce fresh lemon juice
      - 1 teaspoon Luxardo Maraschino Liqueur
@@ -331,8 +331,8 @@ recipes:
     ingredients:
      - 2 ounces dry sparkling wine
      - 2 green apple slices
-     - 1 ounce Tanqueray gin
-     - ½ ounce Salers Gentien aperitif
+     - 1 ounce Tanqueray London Dry gin
+     - ½ ounce Salers Gentiane Aperitif
      - ¾ ounce fresh lemon juice
      - ¾ ounce Honey Syrup
      - 2 dashes Bitter Truth Celery Bitters
@@ -355,7 +355,7 @@ recipes:
     ingredients:
      - 1½ ounces cold seltzer
      - 1½ ounces Lustau Papirusa Manzanilla Sherry
-     - ¾ ounce Perry’s Tot Navy Strength Gin
+     - ¾ ounce Perry's Tot Navy Strength gin
      - ½ ounce Don Ciccio & Figli Ginocchietto fennel liqueur
      - ¼ ounce Clear Creek pear eau-de-vie
      - ¾ ounce fresh lemon juice
@@ -399,7 +399,7 @@ recipes:
     year: 2019
     notes: Everyone at Death & Co. loves Clear Creek pear eau-de-vie, but it's extra special to me. The first time I injured myself at work (I sliced my finger on a vegetable peeler), I was nursing my wound in the back, and Alex Day brought me a glass of Clear Creek eau-de-vie to cheer me up. That’s when I fell in love with the product. I based this low-ABV drink on the combination of pear and fennel; the rest of the ingredients fell into place to make a beautiful highball. -AH
     ingredients:
-     - ¾ ounce Plymouth Navy Strength gin
+     - ¾ ounce Plymouth Navy-Strength gin
      - ¾ ounce Clear Creek pear eau-de-vie
      - ½ ounce Don Ciccio & Figli Finocchietto fennel liqueur
      - ½ ounce fresh lime juice
@@ -424,7 +424,7 @@ recipes:
      - 1 ounce Siembra Valles Ancestral tequila
      - ½ ounce Lillet rosé
      - ½ ounce Tio Pepe Fino Sherry
-     - 1 ounce Donn’s Mix #1
+     - 1 ounce Donn's Mix #1
      - ½ ounce fresh lime juice
      - 1 teaspoon Cane Sugar Syrup
      - 1 dash Bittermens Xocolatl Mole Bitters
@@ -511,7 +511,7 @@ recipes:
      - 3 ounces cold seltzer
      - 1 ounce Spring44 vodka
      - ¾ ounce white port
-     - ¼ ounce Salers Gentien aperitif
+     - ¼ ounce Salers Gentiane Aperitif
      - 1 ounce Apple Cordial
      - "Garnish: 1 mint bouquet"
     steps:
@@ -528,7 +528,7 @@ recipes:
     year: 2018
     notes: Forthave is an intensely bitter amaro that tastes like rhubarb and eucalyptus. I based this wintry spritz on a drink that Al Sotack created called the Poison Ivy, so I named it after another female comic book villain. -MB
     ingredients:
-     - 1½ ounces Fever Tree tonic
+     - 1½ ounces Fever-Tree tonic
      - 1½ ounces Bonal Gentiane-Quina
      - 1 ounce Domaine du Manoir de Montreuil calvados
      - ½ teaspoon Forthave Spirits Marseille amaro
@@ -597,7 +597,7 @@ recipes:
      - 1 lime wedge
      - Aleppo salt (equal parts Aleppo pepper and kosher salt)
      - 1 ounce cold seltzer
-     - 1½ ounces Tanqueray gin
+     - 1½ ounces Tanqueray London Dry gin
      - ½ Emile Pernot Liqueur de Sapin
      - 1 teaspoon Bigallet thyme liqueur
      - ¾ ounce fresh lemon juice
@@ -618,11 +618,11 @@ recipes:
     year: 2017
     notes: This is an elevated gin and tonic riff that includes the grapefruit and maraschino duo from a Hemingway Daiquiri, with some Douglas Fir eau-de-vie for pineyness. At the bar we carbonated and bottled each serving of the drink, which was such a pain in the ass to do. The juice wasn’t worth the squeeze, as they say, so it makes more sense to build it in a Collins glass. -JA
     ingredients:
-     - 1½ ounces Plymouth Navy Strength gin
+     - 1½ ounces Plymouth Navy-Strength gin
      - 2 teaspoons Giffard crème de pamplemousse rose
      - ½ teaspoon Luxardo Maraschino Liqueur
      - ½ teaspoon Clear Creek Douglas Fir eau-de-vie
-     - 5 ounces Fever Tree tonic
+     - 5 ounces Fever-Tree tonic
      - "Garnish: 1 lime wedge"
     steps:
       - Combine all of the ingredients except the tonic in a Collins glass, then fill the glass with ice cubes
@@ -735,7 +735,7 @@ recipes:
     notes: 
     ingredients:
      - 1 ounce cold seltzer
-     - 1 ounce Tanqueray 10 gin
+     - 1 ounce Tanqueray No. Ten gin
      - 1 ounce Lustau manzanilla sherry
      - ¾ ounce fresh lemon juice
      - ½ ounce St-Germain elderflower liqueur
@@ -825,7 +825,7 @@ recipes:
      - ½ ounce Laird’s bonded apple brandy
      - ¾ ounce fresh lemon juice
      - ½ ounce Demerara Syrup
-     - ½ ounce Don’s Spices
+     - ½ ounce Don's Spices
      - "Garnish: 1 apple fan"
     steps:
       - Pour the cider into a Collins glass
@@ -1016,7 +1016,7 @@ recipes:
     ingredients:
      - 1 ounce cold seltzer
      - 1½ ounces Henriques & Henriques rainwater madeira
-     - ½ ounce St. George Dry Rye reposado gin
+     - ½ ounce St. George Dry Rye Reposado gin
      - 1 ounce fresh pineapple juice 
      - ¾ ounce fresh lemon juice
      - ½ ounce simple syrup
@@ -1579,7 +1579,7 @@ recipes:
     year: 2020
     notes:
     ingredients:
-     - 1 ¼ ounces Tanqueray gin
+     - 1 ¼ ounces Tanqueray London Dry gin
      - ¾ ounce St. George Green Chile vodka
      - ¾ ounce fresh lime juice
      - ½ ounce Cane Sugar Syrup 
@@ -1698,7 +1698,7 @@ recipes:
     year: 2014
     notes: 
     ingredients:
-     - 1½ ounces Tanqueray gin 
+     - 1½ ounces Tanqueray London Dry gin 
      - ½ ounce Bonal Gentiane-Quina
      - ¾ ounce fresh lime juice 
      - ½ ounce fresh grapefruit juice 
@@ -1999,7 +1999,7 @@ recipes:
     year: 2017
     notes: Gin and rum aren't usually paired in a cocktail, so I challenged myself to build a drink around the combination, using the Saturn, a gin-based tiki classic, as inspiration. -MB
     ingredients:
-     - 1½ ounces Tanqueray gin 
+     - 1½ ounces Tanqueray London Dry gin 
      - ½ ounce Rhum JM VSOP 
      - ¾ ounce fresh lime juice
      - ½ ounce Orgeat Works Macadamia Nut Syrup 
@@ -2084,7 +2084,7 @@ recipes:
     notes: They say some of the best songs are written in five minutes; likewise, this drink basically wrote itself during a subway ride. Our friend Natasha David made a Pimm's and carrot-based drink called the Wildcat at her bar, Nitecap, so I borrowed that combo and added a dill note from the aquavit. This bright-orange drink looks gorgeous, and with its mint garnish, a lot like a carrot.-JW
     ingredients:
      - 1 ounce Pimm's No. 1
-     - ¾ ounce Tanqueray gin 
+     - ¾ ounce Tanqueray London Dry gin 
      - ¾ ounce fresh lemon juice
      - ¼ ounce Gamle Ode dill aquavit 
      - 1 ounce fresh carrot juice
@@ -2149,7 +2149,7 @@ recipes:
     notes: 
     ingredients:
      - 1½ ounces Knappogue Castle 12-year Irish whiskey
-     - ½ ounce Reisetbauer hazelnut eau-de-vie
+     - ½ ounce Reisetbauer Hazelnut eau-de-vie
      - ¼ ounce Mathilde Poire
      - ¾ ounce fresh lemon juice 
      - ½ ounce Cane Sugar Syrup
@@ -2307,7 +2307,7 @@ recipes:
     ingredients:
      - 2 ounces Eric Bordelet Poire Authentique pear cider
      - ¾ ounce Château du Tariquet 15-year Armagnac
-     - ½ ounce Reisetbauer hazelnut eau-de-vie
+     - ½ ounce Reisetbauer Hazelnut eau-de-vie
      - ¼ ounce Clear Creek pear brandy
      - ¾ ounce fresh lemon juice 
      - ½ ounce Vanilla Syrup
@@ -2498,7 +2498,7 @@ recipes:
     ingredients:
      - 2 ounces tonic water
      - 1 ounce Quinta do Infantado white port
-     - 1 ounce Salers Gentien aperitif 
+     - 1 ounce Salers Gentiane Aperitif 
      - 1 ounce fresh lemon juice
      - ¼ ounce simple syrup 
      - 2 dashes Peychaud's bitters 
@@ -3833,7 +3833,7 @@ recipes:
     year: 2016
     notes: Tyson challenged us to put orange juice on the menu, as we always have a surplus of oranges left over from making twists. This one is a riff on the Cobra's Fang, a classic tiki drink. -JA
     ingredients:
-     - 1½ ounces St. George dry rye reposado gin
+     - 1½ ounces St. George Dry Rye Reposado gin
      - ½ ounce Perry's Tot Navy Strength gin
      - ¾ ounce fresh lime juice
      - ½ ounce fresh orange juice
@@ -4371,7 +4371,7 @@ recipes:
     year: 2014
     notes: 
     ingredients:
-     - 2 ounces Tanqueray gin 
+     - 2 ounces Tanqueray London Dry gin 
      - 1 ounce fresh lime juice
      - ½ ounce fresh grapefruit juice 
      - ½ ounce Cane Sugar Syrup
@@ -5884,7 +5884,7 @@ recipes:
      - ¾ ounce Scarlet Ibis Trinidad rum
      - ¼ ounce Lost Spirits Navy Style rum 
      - ½ ounce Kalani Ron de Coco coconut liqueur
-     - 1 teaspoon Reisetbauer hazelnut eau-de-vie
+     - 1 teaspoon Reisetbauer Hazelnut eau-de-vie
      - 1 dash Fee Brothers whiskey barrel-aged bitters 
      - "Garnish: 1 lemon twist"
     steps:
@@ -6067,7 +6067,7 @@ recipes:
     notes: I always wanted to make a gin-based Sazerac, and I'm a big fan of Phil Ward's Elder Fashion, which combines gin and St-Germain in an Old-Fashioned. I found that gin and tequila work very well together; tequila is grassy, gin is herbaceous, and those flavors are adjacent to one another. I opted for a reposado tequila to give the drink that oaky quality you expect in an Old-Fashioned. -DA
     ingredients:
      - Reisetbauer carrot eau-de-vie, to rinse
-     - 1 ounce St. George dry rye reposado gin
+     - 1 ounce St. George Dry Rye Reposado gin
      - ¾ ounce Ocho reposado tequila
      - ¼ ounce Coriander-Infused Ransom Old Tom
      - 1 teaspoon agave nectar
@@ -6373,7 +6373,7 @@ recipes:
     ingredients:
      - 1 ounce St. George Terroir gin
      - 1 ounce Cocchi Americano
-     - ½ ounce Salers Gentien aperitif
+     - ½ ounce Salers Gentiane Aperitif
      - ½ ounce Pajarote Toronja Arandense & Romero Licor
      - "Garnish: 1 grapefruit wheel"
     steps:
@@ -6446,7 +6446,7 @@ recipes:
     year: 2019
     notes: Buddha's Hand vodka is flavored with the zest of the finger-shaped citrus and adds an intense perfume to this Vesper variation. -MB
     ingredients:
-     - 1½ ounces St. George Dry Rye reposado gin 
+     - 1½ ounces St. George Dry Rye Reposado gin 
      - ¾ ounce Hangar One Buddha's Hand vodka
      - ½ ounce Cocchi Americano
      - 1 teaspoon Luxardo Maraschino Liqueur
@@ -6467,7 +6467,7 @@ recipes:
     notes: I love the simplicity of equal-parts cocktails, like the Negroni or Naked and Famous. In this one, I was trying to marry an Islay gin and an Islay scotch, with the Génépy and absinthe tying everything on the midpalate. -MH
     ingredients:
      - ¾ ounce Laphroaig 10-year scotch 
-     - ¾ ounce The Botanist gin
+     - ¾ ounce Botanist gin
      - ¾ ounce Dolin blanc vermouth
      - ¾ ounce Dolin dry vermouth
      - 1 teaspoon Dolin Génépy des Alpes liqueur
@@ -6526,7 +6526,7 @@ recipes:
     year: 2014
     notes: 
     ingredients:
-     - 1¾ ounces Pineapple-Infused Tanqueray Gin 
+     - 1¾ ounces Pineapple-Infused Tanqueray London Dry gin 
      - ½ ounce Dolin dry vermouth
      - ¼ ounce El Dorado 3-year rum
      - ¼ ounce Combier pamplemousse rose liqueur
@@ -7401,7 +7401,7 @@ recipes:
     notes: Unaged Armagnac is fun to play around with; I usually treat it like a grappa or pisco. Here, I pair it with pineapple-infused gin in a Martinez variation. -JO
     ingredients:
      - 1 ¼ ounces Domaine d'Esperance blanche Armagnac
-     - ¾ ounce Pineapple-Infused Tanqueray Gin
+     - ¾ ounce Pineapple-Infused Tanqueray London Dry gin
      - ¾ ounce Cocchi vermouth di Torino
      - 1 teaspoon Luxardo Maraschino Liqueur
      - 1 dash absinthe 
@@ -7533,7 +7533,7 @@ recipes:
     ingredients:
      - 1 ounce Tariquet 15-year Bas-Armagnac
      - ¾ ounce Avuá Amburana cachaça
-     - ¼ ounce Reisetbauer hazelnut eau-de-vie
+     - ¼ ounce Reisetbauer Hazelnut eau-de-vie
      - ¾ ounce Carpano Antica Formula sweet vermouth
      - 1 teaspoon Vanilla Syrup
      - 1 dash Angostura bitters
@@ -8027,7 +8027,7 @@ recipes:
     year: 2017
     notes: 
     ingredients:
-     - 1 ounce St. George dry rye reposado gin
+     - 1 ounce St. George Dry Rye Reposado gin
      - 1 ounce Domaine du Manoir de Montreuil Réserve calvados
      - ¾ ounce Noilly Prat Ambré vermouth
      - 14 ounce Clear Creek cranberry liqueur
@@ -8580,9 +8580,9 @@ recipes:
     notes: 
     ingredients:
      - 1½ ounces Bimini gin
-     - ½ ounce Perry’s Tot Navy Strength gin
+     - ½ ounce Perry's Tot Navy Strength gin
      - ½ ounce Aperol
-     - 1 ounce Donn’s Mix #1
+     - 1 ounce Donn's Mix #1
      - ½ ounce fresh lemon juice
      - ½ ounce Coco López cream of coconut
      - "Garnish: 1 orchid flower and 1 cinnamon stick"

@@ -195,7 +195,7 @@ The Negroni: Drinking to La Dolce Vita, With Recipes & Lore
 The Macallan 12-year scotch whiskey
 The Japanese Art of the Cocktail
 The Canon Cocktail Book: Recipes from the Award-Winning BarThe Dead Rabbit Drinks Manual: Secret Recipes and Barroom Tales from Two Belfast Boys Who Conquered the Cocktail World
-The Botanist gin
+Botanist gin
 The Bitter Truth Violet Liqueur
 The Bitter Truth EXR Amaro
 The Bitter Truth Chocolate Bitters
@@ -271,7 +271,7 @@ Teaspoon Galliano Ristretto
 Teaspoon Fusion Verjus Blanc Small Pinch of Kosher Salt
 Teaspoon Fernet-branca
 Teaspoon Espresso-infused Demerara Syrup
-Teaspoon Donn’s Spices #2Teaspoon Donn’s Spices #2
+Teaspoon Donn's Spices #2Teaspoon Donn's Spices #2
 Teaspoon Demerara Syrup
 Teaspoon Del Maguey Chichicapa Mezcal
 Teaspoon Cynar
@@ -310,9 +310,9 @@ Tanqueray No. Ten Gin
 Tanqueray No. Ten gin
 Tanqueray Malacca gin
 Tanqueray London Dry gin
-Tanqueray Gin Infused with Lemon Balm
-Tanqueray gin
-Tanqueray 10 gin
+Tanqueray London Dry gin Infused with Lemon Balm
+Tanqueray London Dry gin
+Tanqueray No. Ten gin
 Tangerine, Peeled
 Tangerine Sherbet
 tamarind nectar
@@ -439,9 +439,9 @@ St. George Green Chile VodkaSt. George green chile vodka
 St. George Green Chile Vodka
 St. George Green Chile vodka
 St. George green chile vodka
-St. George Dry Rye reposado ginSt. George Dry Rye reposado gin
-St. George dry rye reposado gin
-St. George Dry Rye Gin
+St. George Dry Rye Reposado ginSt. George Dry Rye Reposado gin
+St. George Dry Rye Reposado gin
+St. George Dry Rye Reposado gin
 St. George California rice shochu
 St. George Bruto Americano
 St. George Botanivore Gin
@@ -461,7 +461,7 @@ spritzes Zirbenz stone pine liqueur
 spritzes Pagès Verveine Velay Extra liqueur
 spritzes Herbsaint
 spritzes Angostura bitters
-spritz Tanqueray gin
+spritz Tanqueray London Dry gin
 spritz Peychaud’s bitters
 spritz of Cruzan Black Strap rum
 spritz Angostura bitters
@@ -671,8 +671,8 @@ Salted Butter–Washed Whiskey
 Salt, for rimming the glass
 Salt SolutionSalt Solution
 salt
-Salers Gentien aperitifSalers Gentien aperitif
-Salers Gentien Aperitif
+Salers Gentiane AperitifSalers Gentiane Aperitif
+Salers Gentiane Aperitif
 Salers Gentiane Aperitif
 Salers Gentiane aperitif
 Salers Aperitif La Bounoux GentianeSalers Gentiane
@@ -794,7 +794,7 @@ Rémy Martin 1738 Cognac
 Remy Martin 1738 Cognac
 Rémy Martin 1738 Accord Royal Cognac
 Reisetbauer sloeberry gin
-Reisetbauer hazelnut eau-de-vie
+Reisetbauer Hazelnut eau-de-vie
 Reisetbauer carrot eau-de-vieReisetbauer carrot eau-de-vie
 Reisetbauer carrot eau-de-vie, to rinse
 Reisetbauer Blue gin
@@ -916,9 +916,9 @@ poblano pepper tincture
 Plymouth, Beefeater London Dry, or Tanqueray London Dry gin
 Plymouth sloe ginPlymouth sloe gin
 Plymouth Sloe Gin
-Plymouth Original Gin
-Plymouth or Sipsmith sloe gin
-Plymouth Navy Strength gin
+Plymouth gin
+Plymouth Sloe gin or Sipsmith Sloe gin
+Plymouth Navy-Strength gin
 Plymouth ginPlymouth gin
 Plymouth Gin, Scarlet Ibis Rum, Laird’s Bonded Apple Brandy, or Siembra Azul Blanco Tequila
 Plymouth Gin, Scarlet Ibis Rum, Bernheim Wheat Whiskey, Rittenhouse 100 Rye, Laird’s Bonded Apple Brandy, or Hine H Cognac
@@ -952,7 +952,7 @@ pinot noir
 Pink Peppercorn Syrup
 Ping-pong Cocktail
 Pineau des CharentesPineau des Charentes
-Pineapple-Infused Tanqueray GinPineapple-Infused Tanqueray Gin
+Pineapple-Infused Tanqueray London Dry ginPineapple-Infused Tanqueray London Dry gin
 Pineapple-Infused Pisco
 Pineapple-infused Flor De Caña Extra-dry White Rum
 Pineapple Wedges
@@ -988,9 +988,9 @@ pinch freshly-grated nutmeg
 pinch fennel pollen
 pinch cherry wood chips (enough to fill smoker)
 Pinch cayenne
-Pimm’s No.1
-Pimm’s No. Cup
-Pimm’s No. 1
+Pimm's No. 1
+Pimm's No. 1 No. Cup
+Pimm's No. 1
 Pimm's No. 1
 Pimento Dram
 pilsner malt
@@ -1021,9 +1021,9 @@ Peychaud’s bitters
 Peychaud’s aromatic bitters
 Peychaud's bitters
 Petite Canne Martinique Sugar Cane Syrup
-Perry’s Tot Navy-strength GinPerry’s Tot Navy-strength Gin
-Perry’s Tot Navy Strength Gin
-Perry’s Tot Navy Strength gin
+Perry's Tot Navy Strength ginPerry's Tot Navy Strength gin
+Perry's Tot Navy Strength gin
+Perry's Tot Navy Strength gin
 Perry's Tot Navy Strength ginPerry's Tot Navy Strength gin
 Perroquet: Marie Brizard Crème de Menthe
 pernod-dusted Buddha’s hand cube
@@ -1038,7 +1038,7 @@ Perfect Purée kiwi purée
 Perfect Purée guava purée
 Père Magloire Calvados XO
 peppermint tea, cold
-Pennyroyal-infused Hayman’s Old Tom Gin
+Pennyroyal-infused Hayman's Old Tom gin
 Pendennis Mix
 Pellehaut Armagnac
 peel from 1orange, removed in one continuous spiral strip
@@ -1176,7 +1176,7 @@ oz gingerbread syrup
 oz Fusion Verjus Blanc
 oz Fords Gin
 oz finger lime cordial
-oz Fever Tree Tonic Water
+oz Fever-Tree Tonic Water
 oz Evil Twin Bushido (recipe below)
 oz Eagle Rare Bourbon Whiskey
 oz E&J Burke Jamaican Rum - 1943
@@ -1285,7 +1285,7 @@ olive on a skewer
 olive oil
 olive
 Old Weller Antique 107 Bourbon
-Old Tom gin, preferably Ransom Old Tom
+Ransom Old Tom gin
 Old Raj Gin
 Old Raj 110-proof dry gin
 Old Pulteney 12 Year Single Malt Scotch Whisky
@@ -1457,8 +1457,8 @@ Martini Rosso vermouth
 Martini BiancoMartini Riserva Speciale Ambrato vermouth di Torino
 Martini & Rossi Gran Lusso vermouth
 Martini & Rossi bianco vermouth
-Martin Miller’s Westbourne-strength Gin
-Martin Miller’s Gin
+Martin Miller’s Westbourne Strength gin
+Martin Miller’s London Dry gin
 Marteau absinthe
 marshmallow and Earl Grey tea smoke
 Mars Iwai 45 Japanese whisky
@@ -1554,7 +1554,7 @@ Los Arcos amontillado sherry
 Los Amantes Joven Mezcal
 Lorenzo Inga My Amaro
 Long Orange twists
-London Dry gin, preferably Plymouth or Bombay Sapphire
+London Dry Plymouth Gin or Bombay Sapphire
 London Dry gin
 Local Whisky Blend
 Lo-Fi gentian amaro
@@ -1815,7 +1815,7 @@ Journeyman Road’s End White Rum
 Joto yuzu sake
 Joto junmai nigori sake
 Johnnie Walker Gold Reserve
-John D. Taylor’s Velvet falernum
+John D. Taylor's Velvet Falernum
 Jim Beam Single Barrel Bourbon
 jenever
 Jean-Luc Pasquet Pineau des Charentes
@@ -1925,7 +1925,7 @@ Herbsaint
 Henriques & Henriques rainwater madeira
 Hennessy Black cognacHenriques & Henriques 5-year vino generoso doce madeira
 Hendrick’s Quinetum
-Hendrick’s gin
+hendrick's gin
 heirloom tomatoes, coarsely chopped
 heirloom tomatoes
 heirloom tomato juice, extracted with juicer
@@ -1934,8 +1934,8 @@ Heavy CreamHeavy Cream
 heavy creamheavy cream
 heavy cream
 hazelnut orgeat
-Hayman’s Old Tom Gin
-Hayman’s Old Tom gin
+Hayman's Old Tom gin
+Hayman's Old Tom gin
 Hayman's Old Tom ginHayman's Old Tom gin
 Harmless Harvest coconut waterHarmless Harvest coconut water
 Hard cider
@@ -2088,8 +2088,8 @@ Ginger beer
 ginger beer
 Ginger ale
 ginger ale
-gin, preferably Plymouth
-gin, preferably Beefeater
+Plymouth Gin
+London Dry gin
 gin or vodka
 gin (preferably London Dry style, like Beefeater or Tanqueray)
 gin (preferably London Dry or Plymouth)
@@ -2152,8 +2152,8 @@ Gamle Ode dill aquavitGamle Ode dill aquavit
 Gamay red wine
 Galliano RistrettoGalliano Ristretto
 Galliano Ristretto
-Galliano L’autenticoGalliano L’autentico
-Galliano L’Autentico
+Galliano L'autenticoGalliano L'autentico
+Galliano L'autentico
 Galliano l'AutenticoGalliano l'Autentico
 galangal syrup
 galangal
@@ -2229,8 +2229,8 @@ fresh myoga bud
 fresh mint sprig and sour cherry
 Fresh mint sprig
 fresh mint sprig
-Fresh mint leaves and lime wedge
-fresh mint leaves
+mint leaves and lime wedge
+mint leaves
 Fresh mint leaf and orange zest (optional)
 Fresh mint leaf (optional)
 fresh makrut lime leaf
@@ -2282,7 +2282,7 @@ Fortaleza reposado tequila
 Fords gin (or your favorite London dry-style gin)
 Fords Gin
 Fords gin
-Ford’s Gin
+Fords gin
 flowering green or opal basil
 Flor De Caña Extra-dry White Rum
 Flor De Caña 7-year Rum
@@ -2310,10 +2310,10 @@ fig juice
 fig bourbon
 fields of france tea syrup
 Fever-Tree tonic waterFever-Tree tonic water
-Fever-Tree Sparkling Lemon
+Fever-TreeSparkling Lemon
 Fever-Tree Indian tonic water
 Fever-Tree Bitter Lemon or high-quality tonic water
-Fever Tree tonic
+Fever-Tree tonic
 Fernet-Vallet
 Fernet-BrancaFernet-Branca
 Fernet-brancaFernet-branca
@@ -2622,7 +2622,7 @@ drops Bittermens Hopped Grapefruit Bitters
 drops Bittermens Hellfire Habanero Shrub
 drops Bittermens Burlesque Bitters
 drops Bittermens Boston Bittahs
-drops Bittermens ‘Elemakule Tiki bittersDrops Bittermens ’elemakule Tiki Bitters
+drops Bittermens 'Elemakule Tiki BittersDrops Bittermens 'Elemakule Tiki Bitters
 drops Bittercube orange bitters
 drops Bitter Truth cucumber bitters
 drops Bitter Truth Celery Bitters
@@ -2685,12 +2685,12 @@ Dos Maderas PX 5+5 Aged Rum
 Dos Maderas 5+3 Aged Rum
 Dorothy Parker GinDrambuie
 Dorothy Parker ginDorothy Parker gin
-Donn’s Spices #2Donn’s Spices #2
-Donn’s Mix #1
+Donn's Spices #2Donn's Spices #2
+Donn's Mix #1
 Donn's Mix No. (page 295)
 Donn's Mix #1
-Donn Mix
-Don’s Spices
+Donn's Mix
+Don's Spices
 Don's Spices
 Don Julio Reposado tequila
 Don Julio Blanco TequilaDry Champagne Garnish:
@@ -2800,7 +2800,7 @@ Dashes House Orange BittersDashes House Orange Bitters
 Dashes Fee Brothers Whiskey Barrel-aged BittersDashes Fee Brothers Whiskey Barrel-aged Bitters
 Dashes Bittermens Xocolatl Mole BittersDashes Bittermens Xocolatl Mole Bitters
 Dashes Bittermens Hopped Grapefruit Bitters
-Dashes Bittermens ‘elemakule Tiki BittersDashes Bittermens Hellfire Habanero Shrub
+Dashes Bittermens 'Elemakule Tiki BittersDashes Bittermens Hellfire Habanero Shrub
 Dashes Bittercube Cherry Bark and Vanilla Bitters
 Dashes Bitter Truth Celery Bitters
 Dashes Bitter Truth Aromatic BittersDashes Bitter Truth Aromatic Bitters
@@ -2818,8 +2818,8 @@ Dash Fee Brothers Whiskey Barrel-aged Bitters Dry Champagne
 Dash Dale Degroff’s Pimento Bitters
 Dash Bittermens Xocolatl Mole BittersDash Bittermens Xocolatl Mole Bitters
 Dash Bittermens Hopped Grapefruit BittersDash Bittermens Hopped Grapefruit Bitters
-Dash Bittermens ’elemakule Tiki Bitters Garnish: Lime WheelDash Bittermens Hellfire Habanero Shrub
-Dash Bittercube Cherry Bark and Vanilla BittersDash Bittermens ’elemakule Tiki Bitters
+Dash Bittermens 'Elemakule Tiki Bitters Garnish: Lime WheelDash Bittermens Hellfire Habanero Shrub
+Dash Bittercube Cherry Bark and Vanilla BittersDash Bittermens 'Elemakule Tiki Bitters
 Dash Bitter Truth Jerry Thomas’ Bitters Garnish: Orange twist
 Dash Bitter Truth Celery BittersDash Bitter Truth Jerry Thomas’ Bitters
 Dash Bitter Truth Aromatic BittersDash Bitter Truth Aromatic Bitters
@@ -2974,7 +2974,7 @@ cold tonic watercold tonic water
 cold seltzercold seltzer
 cold proseccocold prosecco
 cold prosecco or dry Champagne-style sparkling wine
-cold Fever Tree tonic watercold Homemade Grapefruit Soda (page 295)
+cold Fever-Tree tonic watercold Homemade Grapefruit Soda (page 295)
 cold dry sparkling winecold dry sparkling wine
 cold Coca-Colacold dry Champagne
 cold cava
@@ -3373,14 +3373,14 @@ Booker's bourbon
 bonded rye
 bonded bourbon
 bonded apple brandy
-Bonal Gentiane-Quina Apéritif
+Bonal Gentiane-Quina
 Bonal Gentiane-Quina
 Bonal Gentiane-quina
-Bombay Sapphire gin
-Bombay Sapphire East gin
-Bombay Sapphire East Dry Gin
+Bombay Sapphire East Dry gin
+Bombay Sapphire East Dry gin
+Bombay Sapphire East Dry gin
 Bombay London Dry gin
-Bombay gin
+Bombay London Dry gin
 Bols Genever
 Bols Barrel-Aged Genever
 Bols Barrel-aged Genever
@@ -3736,7 +3736,7 @@ toasted coconut chips
 Meyer lemon wheels
 teaspoon phosphoric acid solution (see page 194)
 absinthe
-(3.75 ml) Tempus Fugit Gran Classico bitter
+(3.75 ml) Tempus Fugit Gran Classico
 Marie Brizard Apry apricot liqueur
 Fernet-Branca
 St-GermainTumugi Syrup
@@ -3762,14 +3762,14 @@ anko (sweetened red bean paste)
 (750 mL) bottle Campari
 (750 mL) bottle sweet vermouth
 Oloroso sherry
-Bombay dry gin
+Bombay London Dry gin
 Zucca Rabarbaro amaro
 Wild Sardinia mirto liqueur
 Varnelli Sibilla amaro
 Tempus Fugit crème de menthe
 St-Germain elderflower liqueur
 Smith & Cross Jamaican rum
-Pierre Ferrand orange curaçao
+Pierre Ferrand Dry Curaçao
 La Cigarrera manzanilla sherryOrgeat
 Hamilton pimento dram
 Giffard crème de pêche liqueur
@@ -3785,7 +3785,7 @@ Sazerac rye or Evan Williams single-barrel bourbon
 Sazerac rye
 Ricou Spirits Brandy Sainte Louise
 Rare Wine Co. Charleston Sercial Madeira
-Pimm’s No. Cup liqueur
+Pimm's No. 1 No. Cup liqueur
 Ojen
 Lillet Blanc
 Jack Daniel’s Master Distiller #2 or Single Barrel Select whiskey
@@ -3811,7 +3811,7 @@ Sheep Dip 8-year pure malt Scotch
 Sainte Louise brandy
 Rare Wine Savannah Verdelho Madeira
 Plymouth gin
-Pierre Ferrand pineau des Charantes
+pierre ferrand pineau des charentes
 Pierre Ferrand 1840 cognac
 Noilly Prat Original dry vermouth
 La Quintinye Royal blanc vermouth
@@ -3830,7 +3830,7 @@ Bols genever
 Bols barrel-aged genever
 Banks 7-Island golden rum
 Woodford Reserve rye whiskey
-Tempus Fugit Kina l’Aéro d’Or apéritif
+Tempus Fugit Kina L'Aéro D'Or Aperitif
 Simple Syrup
 Siembra Valles blanco tequila
 Ron Hacienda Santa Ana overproof rum
@@ -3866,7 +3866,7 @@ Acqua di Cedro
 Valdespino moscatel sherry
 Valdespino Amontillado sherry
 Valdespino amontillado sherry
-Tempus Fugit Kina l’Aéro d’Or Aperitif
+Tempus Fugit Kina L'Aéro D'Or Aperitif
 Suntory Toki whisky
 Rucolino amaro
 Pepita Orgeat
@@ -3890,19 +3890,19 @@ Black Pepper Syrup
 Belle de Brillet pear liqueur
 St. Elizabeth’s allspice dram
 Giffard Abricot du Roussillon liqueur
-Bittermens ‘Elemakule Tiki bittersDemerara Syrup
+Bittermens 'Elemakule Tiki BittersDemerara Syrup
 Varnelli Amaro Sibilla
-Tempus Fugit Gran Classico bitter
+Tempus Fugit Gran Classico
 Tempranillo, or another medium-to-full-bodied red wine, to top
 Tabasco Shrub
 Svol aquavit
 Suze d’Autrefois liqueur
 Sipsmith navy-strength gin
 Siembra Azul añejo tequila
-Salers Gentiane Apéritif
+Salers Gentiane Aperitif
 Sage Syrup
 Rittenhouse 100-proof rye
-Pierre Ferrand curaçao
+Pierre Ferrand Dry Curaçao
 Park VSOP cognac
 Nardini Mandorla grappa
 Montanaro bianco vermouth
@@ -3910,11 +3910,11 @@ Licor 43 liqueur
 Lazzaroni amaretto
 Guaycura damiana liqueur
 Galliano
-Ford’s gin
+Fords gin
 Clear Creek pear brandy
 Cappelletti aperitivo
 Cantaloupe Syrup
-Bristow Reserve barrelaged gin
+Bristow Reserve Barrelaged gin
 Braulio amaro
 Branca Menta
 Boomsma Cloosterbitter liqueur

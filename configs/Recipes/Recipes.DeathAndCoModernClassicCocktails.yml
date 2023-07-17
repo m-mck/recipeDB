@@ -420,7 +420,7 @@ recipes:
     year:
     notes: 
     ingredients:
-    - 2 ounces Perry’s Tot Navy-Strength gin
+    - 2 ounces Perry's Tot Navy Strength gin
     - 1½ ounces Toby’s Lime Cordial  
     - "Garnish: 1 lime wedge"
     steps:
@@ -654,7 +654,7 @@ recipes:
     year:
     notes: 
     ingredients:
-    - 1½ ounces Hayman’s Old Tom gin
+    - 1½ ounces Hayman's Old Tom gin
     - ½ ounce Ransom Old Tom gin
     - 1 ounce House Sweet Vermouth
     - ½ teaspoon Luxardo Maraschino Liqueur
@@ -966,7 +966,7 @@ recipes:
     - ½ ounce pineapple juice
     - ¼ ounce grenadine
     - 1 teaspoon ginger syrup
-    - 6 drops Bittermens ’Elemakule Tiki bitters 
+    - 6 drops Bittermens 'Elemakule Tiki Bitters 
     - "Garnish: 1 pineapple and brandied cherry flag"
     steps:
     - Short shake all the ingredients with 3 ice cubes, then strain into a pilsner glass filled with crushed ice
@@ -1084,7 +1084,7 @@ recipes:
     - ¾ ounce Lemon Hart Original rum
     - ½ ounce Appleton Estate V/X rum
     - ¼ ounce Velvet Falernum
-    - ¼ ounce Donn’s Spices #2
+    - ¼ ounce Donn's Spices #2
     - ½ ounce orange juice
     - ½ ounce lime juice
     - ½ ounce Acacia Honey syrup 
@@ -1380,7 +1380,7 @@ recipes:
     - 1½ ounces Ron del Barrilito 3-Star rum
     - 1 ounce Lemon Hart 151 rum
     - ¾ ounce Zombie Mix
-    - ½ ounce Donn’s Spices #2
+    - ½ ounce Donn's Spices #2
     - ¾ ounce lime juice
     - 1 dash Angostura bitters 
     - "Garnish: 1 mint sprig"
@@ -1399,7 +1399,7 @@ recipes:
     notes: 
     ingredients:
     - 3 small ripe anjou pear slices
-    - 1 ounce Pennyroyal-Infused Hayman’s Old Tom gin
+    - 1 ounce Pennyroyal-Infused Hayman's Old Tom gin
     - 1 ounce Tanqueray No. Ten gin
     - ¾ ounce lemon juice
     - ¼ ounce orgeat
@@ -1458,9 +1458,9 @@ recipes:
     year: 2009
     notes: A handful of tiki-style drinks are gin based, most famously the Singapore Sling. This is a variation on that classic.—JS
     ingredients:
-    - 1½ ounces Hayman’s Old Tom gin
+    - 1½ ounces Hayman's Old Tom gin
     - ½ ounce El Dorado 12-Year rum
-    - ¾ ounce Donn’s Spices #2
+    - ¾ ounce Donn's Spices #2
     - 1 dash Vieux Pontarlier Absinthe
     - 1 ounce pineapple juice
     - ½ ounce lime juice
@@ -1479,7 +1479,7 @@ recipes:
     year: 2013
     notes: Kaffir lime is a great way to add brightness to summer cocktails. The gin in this drink was named after Matthew Perry—not the actor, but the original commandant of the Brooklyn navy yard from 1841 to 1843.—TB
     ingredients:
-    - 1½ ounces Perry’s Tot Navy-Strength gin
+    - 1½ ounces Perry's Tot Navy Strength gin
     - ½ ounce Kronan Swedish Punsch
     - ¼ ounce Velvet Falernum
     - ¾ ounce lime juice
@@ -1653,7 +1653,7 @@ recipes:
   - name: Overhead Smash
     author: Joaquín Simó
     year: 2011
-    notes: This is a reverse-engineered Pimm’s Cup. The combination of bonal (an amaro-like french aperitif), Carpano Antica, and gin creates a quaff similar to Pimm’s, but with a more complex flavor profile.—JS
+    notes: This is a reverse-engineered Pimm's No. 1 Cup. The combination of bonal (an amaro-like french aperitif), Carpano Antica, and gin creates a quaff similar to Pimm's No. 1, but with a more complex flavor profile.—JS
     ingredients:
     - ½ strawberry
     - 2 cucumber wheels
@@ -1755,7 +1755,7 @@ recipes:
     notes: I don’t remember creating this drink. It was the Fourth of July and we had our slowest night ever, so Brian and I closed early, drank a few Zombie Punches, and went back to his apartment, where we kept making drinks. I woke up the next morning with this recipe scribbled on a piece of paper in my pocket.—TW
     ingredients:
     - 1½ ounces Plymouth gin
-    - ½ ounce Donn’s Spices #2
+    - ½ ounce Donn's Spices #2
     - 3 dashes Kalani Ron de Coco Coconut Liqueur
     - ½ ounce grapefruit juice
     - ½ ounce lime juice
@@ -1809,7 +1809,7 @@ recipes:
     year: 2008
     notes: 
     ingredients:
-    - 2 ounces Hayman’s Old Tom gin
+    - 2 ounces Hayman's Old Tom gin
     - ¼ ounce Rothman & Winter Crème de Violette
     - ¾ ounce lime juice
     - ½ ounce grapefruit juice
@@ -1826,7 +1826,7 @@ recipes:
     year: 2012
     notes: This isn’t technically a shaken cocktail—if anything it’s a boilermaker—but it’s a refreshing gin drink nonetheless.—TW
     ingredients:
-    - 1 ounce Perry’s Tot Navy-Strength gin 
+    - 1 ounce Perry's Tot Navy Strength gin 
     - Doc’s Hard Apple Cider
     steps:
     - Fill a pilsner glass with ice cubes and add the gin
@@ -1892,10 +1892,10 @@ recipes:
   - name: Tom Bomb
     author: Jillian Vose
     year: 2011
-    notes: This was my first Death & Co drink. It uses the popular tiki flavor combination of pineapple, lemon, and spice, the latter in Donn’s Spices #2.—JV
+    notes: This was my first Death & Co drink. It uses the popular tiki flavor combination of pineapple, lemon, and spice, the latter in Donn's Spices #2.—JV
     ingredients:
     - 1½ ounces Ransom Old Tom gin
-    - ¼ ounce Donn’s Spices #2
+    - ¼ ounce Donn's Spices #2
     - ½ ounce lemon juice
     - ½ ounce pineapple juice
     - ¼ ounce orgeat
@@ -1982,7 +1982,7 @@ recipes:
     year: 2008
     notes: The sweetness of the Old Tom gin is softened by calvados in this Martinez variation.—AD
     ingredients:
-    - 1½ ounces Hayman’s Old Tom gin
+    - 1½ ounces Hayman's Old Tom gin
     - 1 ounce Martini Sweet Vermouth
     - ½ ounce Busnel VSOP Calvados 
     - 1 teaspoon Strega
@@ -2066,7 +2066,7 @@ recipes:
     year: 2011
     notes: 
     ingredients:
-    - 1½ ounces Martin Miller’s Westbourne-Strength gin
+    - 1½ ounces Martin Miller’s Westbourne Strength gin
     - 1 ounce Alvear Festival Pale Cream sherry
     - ¾ ounce Cocchi Americano
     - 1 teaspoon Luxardo Maraschino Liqueur
@@ -2196,7 +2196,7 @@ recipes:
     ingredients:
     - 2 grapefruit twists
     - 2 ounces Tanqueray No. Ten gin
-    - ½ ounce Galliano L’autentico 
+    - ½ ounce Galliano L'autentico 
     - 1 teaspoon simple syrup
     - 1 dash Angostura bitters
     steps:
@@ -2330,7 +2330,7 @@ recipes:
     year: 2009
     notes: 
     ingredients:
-    - 1½ ounces Martin Miller’s Westbourne-Strength gin
+    - 1½ ounces Martin Miller’s Westbourne Strength gin
     - ¾ ounce Lillet Blanc
     - ½ ounce Sauvignon Blanc
     - ¼ ounce St-Germain
@@ -2348,7 +2348,7 @@ recipes:
     year: 2011
     notes: 
     ingredients:
-    - 1½ ounces Hayman’s Old Tom gin
+    - 1½ ounces Hayman's Old Tom gin
     - ½ ounce Bols Genever
     - ¾ ounce Ancho Chile-Infused Dolin Rouge Vermouth
     - 1 teaspoon Galliano Ristretto
@@ -2632,7 +2632,7 @@ recipes:
     ingredients:
     - 1 ounce Ron del Barrilito 3-Star rum
     - 1 ounce Busnel VSOP Calvados
-    - ½ teaspoon Donn’s Spices #2
+    - ½ teaspoon Donn's Spices #2
     - ½ ounce lemon juice
     - ½ ounce maple syrup
     - 1 teaspoon pumpkin puree
@@ -2649,7 +2649,7 @@ recipes:
     notes: Mount Pelée is a volcano that erupted on Martinique in 1902, resulting in the worst volcanic disaster of the twentieth century.—TW
     ingredients:
     - 1½ ounces Rhum JM 100-Proof Agricole Blanc
-    - 1½ ounces Donn’s Spices #2
+    - 1½ ounces Donn's Spices #2
     - 2 dashes Vieux Pontarlier Absinthe
     - ¾ ounce lime juice
     - ½ ounce grenadine
@@ -3215,7 +3215,7 @@ recipes:
     - ¼ ounce St-Germain
     - ½ ounce grapefruit juice
     - ½ ounce lime juice
-    - ½ ounce Donn’s Mix #1
+    - ½ ounce Donn's Mix #1
     - 1 teaspoon cane sugar syrup
     steps:
     - Rinse a coupe with absinthe and dump
@@ -3566,11 +3566,11 @@ recipes:
     - ¾ ounce El Tesoro Reposado Tequila
     - ¼ ounce Del Maguey Chichicapa Mezcal 
     - 1 ounce Ron del Barrilito 3-Star rum
-    - ½ ounce Galliano L’autentico
+    - ½ ounce Galliano L'autentico
     - 1 dash Vieux Pontarlier Absinthe
     - 1 ounce lime juice
     - ½ ounce agave nectar
-    - 1 dash Bittermens ’Elemakule Tiki bitters 
+    - 1 dash Bittermens 'Elemakule Tiki Bitters 
     - "Garnish: 1 lime wheel"
     steps:
     - Shake all the ingredients with ice, then strain into an Old-Fashioned glass over 1 large ice cube
@@ -3604,7 +3604,7 @@ recipes:
     notes: 
     ingredients:
     - 1½ ounces Chinaco Verde Blanco Tequila
-    - ½ teaspoon St Elizabeth Allspice Dram
+    - ½ teaspoon St. Elizabeth Allspice Dram
     - 1½ ounces fuji apple juice
     - ¾ ounce lemon juice
     - ½ ounce Acacia Honey syrup
@@ -3761,7 +3761,7 @@ recipes:
     - 1½ ounces Pueblo Viejo Añejo Tequila
     - ½ ounce Los Amantes Joven Mezcal
     - ¾ ounce Lillet Blanc
-    - 1 teaspoon Donn’s Spices #2 
+    - 1 teaspoon Donn's Spices #2 
     - "Garnish: 1 Orange twist"
     steps:
     - Stir all the ingredients over ice, then strain into a coupe
@@ -3884,7 +3884,7 @@ recipes:
     - ½ ounce Los Amantes Joven Mezcal
     - ¾ ounce Carpano Antica Formula sweet vermouth
     - ½ ounce Van Oosten Batavia-Arrack Van Oosten
-    - ¼ ounce St Elizabeth Allspice Dram
+    - ¼ ounce St. Elizabeth Allspice Dram
     - ¼ ounce Bénédictine
     - 2 dashes Bittermens Xocolatl Mole Bitters
     steps:
@@ -4054,7 +4054,7 @@ recipes:
     - ½ ounce Combier Pamplemousse Rose Liqueur
     - ¾ ounce lemon juice
     - ½ ounce Cinnamon Bark syrup
-    - 1 dash Bittermens ’Elemakule Tiki bitters 
+    - 1 dash Bittermens 'Elemakule Tiki Bitters 
     - "Garnish: 1 grapefruit twist"
     steps:
     - Shake all the ingredients with ice, then strain into a coupe
@@ -5491,7 +5491,7 @@ recipes:
     - 2 ounces Busnel VSOP Calvados
     - ½ ounce Drambuie
     - ½ ounce Carpano Antica Formula sweet vermouth 
-    - 1 teaspoon St Elizabeth Allspice Dram
+    - 1 teaspoon St. Elizabeth Allspice Dram
     - 1 dash Angostura bitters
     - "Garnish: 3 brandied cherries on a cocktail pick"
     steps:
@@ -5592,7 +5592,7 @@ recipes:
     - ¼ ounce Velvet Falernum
     - ½ ounce lime juice
     - ¼ ounce Acacia Honey syrup
-    - 1 dash Bittermens ’Elemakule Tiki bitters 
+    - 1 dash Bittermens 'Elemakule Tiki Bitters 
     - Doc’s Hard Pear cider
     steps:
     - Stir all the ingredients (except the cider) in a mixing glass over ice, then strain into a flute
@@ -5970,7 +5970,7 @@ recipes:
     notes: 
     ingredients:
     - 1½ ounces Chamomile-Infused Old Overholt Rye Whiskey
-    - ¼ ounce Galliano L’autentico
+    - ¼ ounce Galliano L'autentico
     - ¾ ounce lemon juice
     - ½ ounce Acacia Honey syrup 
     - Dry champagne
@@ -6030,7 +6030,7 @@ recipes:
     - 1 orange crescent
     - 1 dash Angostura bitters
     - 1 ounce Tanqueray London Dry gin
-    - ¾ ounce Salers Gentien Aperitif
+    - ¾ ounce Salers Gentiane Aperitif
     - ¾ ounce lemon juice
     - ½ ounce Acacia Honey syrup 
     - Dry champagne
@@ -6167,7 +6167,7 @@ recipes:
     ingredients:
     - 1½ ounces bergerac mix
     - 1 ounce Bols Barrel-Aged Genever
-    - ½ ounce Hayman’s Old Tom gin
+    - ½ ounce Hayman's Old Tom gin
     - ½ ounce Bénédictine
     - 1 dash Vieux Pontarlier Absinthe
     - 1 dash Bittermens Xocolatl Mole Bitters 
@@ -6390,7 +6390,7 @@ recipes:
     notes: 
     ingredients:
     - 8 ounces Elijah Craig 12-Year Bourbon
-    - 4 ounces Donn’s Spices #2
+    - 4 ounces Donn's Spices #2
     - 3 ounces lemon juice
     - 4 ounces blueberry syrup
     - 6 ounces club soda 
@@ -6412,7 +6412,7 @@ recipes:
     ingredients:
     - 3 ounces Chamomile-Infused Old Overholt Rye Whiskey
     - 3 ounces Old Weller Antique 107 Bourbon
-    - 3 ounces Donn’s Mix #1
+    - 3 ounces Donn's Mix #1
     - 1½ ounces grapefruit juice
     - 1½ ounces lemon juice
     - ¾ ounce Acacia Honey syrup
@@ -6437,7 +6437,7 @@ recipes:
     - 12 demerara sugar cubes
     - 7½ ounces club soda
     - 6 ounces Fuji Apple-Infused Famous Grouse Scotch
-    - 1½ ounces St Elizabeth Allspice Dram
+    - 1½ ounces St. Elizabeth Allspice Dram
     - 4½ ounces fuji apple juice
     - 3 ounces lemon juice
     - 6 dashes House Peychaud’s bitters 
@@ -6485,7 +6485,7 @@ recipes:
     - 3 ounces Bonal Gentiane-Quina
     - 3 ounces St-Germain
     - ¾ ounce Rothman & Winter Apricot liqueur
-    - ½ ounce Donn’s Spices #2 
+    - ½ ounce Donn's Spices #2 
     - 3 ounces lime juice
     - 3 ounces orange juice
     - ½ ounce cane sugar syrup
@@ -6513,7 +6513,7 @@ recipes:
     - 4½ ounces Appleton Estate V/X rum
     - 3 ounces Gosling’s Black Seal rum
     - 1½ ounces El Dorado 151 rum
-    - 4½ ounces Donn’s Mix #1
+    - 4½ ounces Donn's Mix #1
     - 3 ounces lemon juice
     - 1½ ounces pineapple juice
     - 3 dashes Angostura bitters 
@@ -6581,7 +6581,7 @@ recipes:
     - 9 White sugar cubes
     - 9 blackberries
     - 6 ounces club soda
-    - 6 ounces Hayman’s Old Tom gin
+    - 6 ounces Hayman's Old Tom gin
     - ¾ ounce Luxardo Maraschino Liqueur 
     - scant ¾ ounce St. George Absinthe
     - 3 ounces orange juice
@@ -6679,7 +6679,7 @@ recipes:
     - 8 ounces club soda
     - 6 ounces Lustau East India Solera sherry
     - 3 ounces Pecan-Infused Buffalo Trace Bourbon
-    - ½ ounce St Elizabeth Allspice Dram 
+    - ½ ounce St. Elizabeth Allspice Dram 
     - 2 ounces lime juice
     - 1 ounce pineapple juice
     - 2 dashes Bittermens Xocolatl Mole Bitters
@@ -7151,7 +7151,7 @@ recipes:
     year: 2009
     notes: I wanted to come up with a Ramos gin Fizz that was less of a pain in the ass to make (you have to shake them forever). Replacing the egg with yogurt and lemon curd did the trick.—JS
     ingredients:
-    - 2 ounces Martin Miller’s Westbourne-Strength gin
+    - 2 ounces Martin Miller’s Westbourne Strength gin
     - ½ ounce lemon juice
     - ½ ounce orgeat
     - 1 teaspoon greek yogurt
@@ -7911,7 +7911,7 @@ recipes:
     year: 2013
     notes: Some drinks are just happy accidents. One night I saw several bottles sitting next to each other behind the bar, and I thought, why not? I started playing around with them in Negroni proportions, and it worked.—ST
     ingredients:
-    - ¾ ounce Perry’s Tot Navy-Strength gin
+    - ¾ ounce Perry's Tot Navy Strength gin
     - ¾ ounce Plymouth Sloe gin
     - ½ ounce Aperol
     - ½ ounce Pierre Ferrand Dry Curaçao 
@@ -8028,7 +8028,7 @@ recipes:
     year: 2009
     notes: 
     ingredients:
-    - 1½ ounces ford’s gin
+    - 1½ ounces Fords gin
     - ¾ ounce Dolin Blanc vermouth
     - ¾ ounce Suze Saveur D’autrefois liqueur 
     - "Garnish: 1 lemon twist"
@@ -8294,7 +8294,7 @@ recipes:
     notes: 
     ingredients:
     - 2 ounces Scarlet Ibis rum
-    - ¼ ounce St Elizabeth Allspice Dram
+    - ¼ ounce St. Elizabeth Allspice Dram
     - ¾ ounce lime juice
     - ¾ ounce simple syrup 
     - "Garnish: 1 lime wedge"
@@ -8538,7 +8538,7 @@ recipes:
     ingredients:
     - 2 ounces Scarlet Ibis rum
     - ¾ ounce Carpano Antica Formula sweet vermouth
-    - ¼ ounce St Elizabeth Allspice Dram 
+    - ¼ ounce St. Elizabeth Allspice Dram 
     - 2 dashes Angostura bitters 
     - "Garnish: 1 Orange twist"
     steps:
@@ -8700,7 +8700,7 @@ recipes:
     - ½ ounce Cocchi Vermouth di Torino
     - ½ ounce Morenita Cream sherry 
     - 1 teaspoon simple syrup
-    - 2 dashes Bittermens ‘Elemakule Tiki bitters
+    - 2 dashes Bittermens 'Elemakule Tiki Bitters
     - 1 dash Bitter Truth Jerry Thomas’ bitters 
     - "Garnish: 1 Orange twist"
     steps:

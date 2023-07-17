@@ -27,7 +27,7 @@ recipes:
     author: Aaron Polsky
     notes: Using winter clementines, Aaron Polsky of New York City’s Mulberry Project created this orange cobbler whose citrusy edges are rounded out with Bittermens Orange Cream Citrate, a throwback to the soda fountain counters of yore.
     ingredients:
-    - 2 ounces Ford's gin
+    - 2 ounces Fords gin
     - ¾ ounce lemon juice
     - ¾ ounce simmple syrup
     - 6 segments clementines
@@ -62,8 +62,8 @@ recipes:
     author: Bobby Heugel
     notes: Top honors in our blind tasting of freezer Martinis went to Bobby Heugel, the Houston-based cocktail bar owner and a known Martini obsessive. The panel recognized this drink’s classic London-dry profile and embraced it right off. (Heugel has been selling this rendition as a 750 ml “Bobby’s Martini” at his bars Anvil Bar & Refuge and Tongue-Cut Sparrow.) Yields 1 liter.
     ingredients:
-    - 12 1/2 ounces gin, preferably Tanqueray
-    - 4 1/2 ounces gin, preferably Tanqueray 10 Gin
+    - 12 1/2 ounces Tanqueray London Dry gin
+    - 4 1/2 ounces Tanqueray No. Ten gin
     - 7 1/2 ounces dry vermouth, preferably Noilly Prat Extra Dry
     - 9 1/2 ounces filtered water
     steps:
@@ -176,7 +176,7 @@ recipes:
     url: https://punchdrink.com/recipes/juliet-romeo/
     notes: When Toby Maloney opened The Violet Hour, one of the first serious craft cocktail bars to open in no-nonsense Chicago, in 2007, he wanted to create a gin cocktail that would appeal to gin haters. The result was the Juliet & Romeo, a mix of gin, lime juice, cucumber, sugar, mint, salt and rose water. “I wanted it to taste like a walk through an English garden,” says Maloney. His plan succeeded. The drink has been among the top two sellers for the last 12 years; in 2019, the bar sold an average of 20 a day. To put that in perspective, only the Old-Fashioned sells more. “It’s as close to a house drink as we have,” says Maloney. It’s also jumped to other bars in town. The day Maloney sees it on the most menus? Valentine’s Day, naturally.
     ingredients:
-    - 2 ounces London Dry gin, preferably Beefeater
+    - 2 ounces London Dry gin
     - 3/4 ounce lime juice
     - 3/4 ounce simple syrup
     - 3 slices cucumber
@@ -248,7 +248,7 @@ recipes:
     url: https://punchdrink.com/recipes/brave-benbow/
     notes: While consulting for British-themed bar and restaurant Dear Bushwick, Natasha David envisioned the menu as the documented travels of a Naval officer sailing around the world. “I always think of salt and Campari as going well together,” says David of combining the Italian bitter with salted lime cordial. “I think of them like herbs and salt in cooking—they have the ability to bring everything together.” A loose play on the Gin Sour, the Brave Benbow combines two historic styles of gin—Navy strength and Old Tom—and is named for a British admiral.
     ingredients:
-    - 3/4 ounce gin, Navy Strength (preferably Perry's Tot)
+    - 3/4 ounce navy strength gin (preferably Perry's Tot)
     - 3/4 ounce Old Tom gin (preferably Hayman's)
     - 1/4 ounce Campari
     - 1 1/2 ounces salted lime cordial (see Editor's Note below)
@@ -287,17 +287,17 @@ recipes:
   - name: Hot Penicillin
     author: 
     url: https://punchdrink.com/recipes/hot-penicillin/
-    notes: Named for its so-called healing properties, the Penicillin—bartender Sam Ross’ smoky and spicy twist on a Whiskey Sour—has become a modern classic in the cocktail canon. Victoria presents a cold-weather update by warming it up, literally, with hot apple cider sweetened with a fragrant honey syrup. The familiar Scotch whisky of the original gets a spicy kick of ginger root from Fever-Tree Ginger Beer, and added brightness from fresh lemon. “It’s warming, with a smoky spice flavor,” she says, “and perfect for transitioning into winter.”
+    notes: Named for its so-called healing properties, the Penicillin—bartender Sam Ross’ smoky and spicy twist on a Whiskey Sour—has become a modern classic in the cocktail canon. Victoria presents a cold-weather update by warming it up, literally, with hot apple cider sweetened with a fragrant honey syrup. The familiar Scotch whisky of the original gets a spicy kick of ginger root from Fever-TreeGinger Beer, and added brightness from fresh lemon. “It’s warming, with a smoky spice flavor,” she says, “and perfect for transitioning into winter.”
     ingredients:
     - 1 ounce Monkey Shoulder Blended Malt Scotch Whisky
     - 1 ounce hot apple cider
     - 1/2 ounce fresh lemon juice
     - 1/4 ounce honey syrup (2:1 honey to water)
-    - Fever-Tree Ginger Beer
+    - Fever-TreeGinger Beer
     steps:
     - Temper a mug with hot water to warm.
     - Discard hot water and combine Scotch, cider, lemon juice and honey syrup in the mug.
-    - Top with Fever-Tree Ginger Beer.
+    - Top with Fever-TreeGinger Beer.
     - Garnish with a lemon wheel.
     tags:
     - citrus
@@ -359,9 +359,9 @@ recipes:
   - name: Obituary
     author: William Elliott
     url: https://punchdrink.com/recipes/obituary/
-    notes: "This recipe reflects the current Martini palate at Maison Premiere—far drier than in the early days. William Elliott likes old standby Hayman’s London dry here for the gin (just like in the original 3:1 spec circa 2011), but also suggests Thomas Dakin Red Cole Manchester gin for a slightly more adventurous Obituary, with spicy notes of horseradish."
+    notes: "This recipe reflects the current Martini palate at Maison Premiere—far drier than in the early days. William Elliott likes old standby Hayman's London dry here for the gin (just like in the original 3:1 spec circa 2011), but also suggests Thomas Dakin Red Cole Manchester gin for a slightly more adventurous Obituary, with spicy notes of horseradish."
     ingredients:
-    - 2 3/4 ounces gin, preferably Hayman’s London dry or Thomas Dakin Red Cole
+    - 2 3/4 ounces gin, preferably Hayman's London dry or Thomas Dakin Red Cole
     - 1/2 ounce dry vermouth, preferably Bordiga Extra Dry
     - 6 dashes absinthe, preferably La Muse Verte
     - "Garnish: lemon twist, discarded"

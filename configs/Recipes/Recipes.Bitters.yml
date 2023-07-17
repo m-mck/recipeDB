@@ -162,10 +162,10 @@ recipes:
       - shaken
   - name: Corn 'n' Oil
     author: 
-    notes: Seattle barman Keith Waldbauer has turned me on to many memorable cocktails, but I am particularly indebted to him as the man who first put a Corn ’n’ Oil in my hands. The name and origin of this cocktail remain as murky as the blackstrap rum used in the drink, but it hails from Barbados and makes great use of falernum, a Caribbean liqueur made from an infusion of rum and sugarcane syrup spiced with ginger, lime, cloves, and almonds. There are plenty of recipes online to experiment with if you’re interested in making your own falernum, which is a staple ingredient in many tropical and tiki drinks, but John D. Taylor’s Velvet falernum, which dates back to 1890 according to some, will do the trick. When I asked Keith about the backstory of the Corn ’n’ Oil, he said that most people come to it via the recipe on the back of the John D. Taylor bottle, but, as with many great drinks consumed in Seattle, all roads lead back to Murray Stenson, who helped popularize the drink at the Zig Zag Café, where they doctor it with an extra splash of Coca-Cola. You can substitute another dark rum, but you’ll miss out on the sweet depth and dark molasses flavor of the Cruzan Black Strap. Considering its own Caribbean background, Angostura is the bitters of choice here, but swapping in Bittercube Blackstrap Bitters would be a choice play.
+    notes: Seattle barman Keith Waldbauer has turned me on to many memorable cocktails, but I am particularly indebted to him as the man who first put a Corn ’n’ Oil in my hands. The name and origin of this cocktail remain as murky as the blackstrap rum used in the drink, but it hails from Barbados and makes great use of falernum, a Caribbean liqueur made from an infusion of rum and sugarcane syrup spiced with ginger, lime, cloves, and almonds. There are plenty of recipes online to experiment with if you’re interested in making your own falernum, which is a staple ingredient in many tropical and tiki drinks, but John D. Taylor's Velvet Falernum, which dates back to 1890 according to some, will do the trick. When I asked Keith about the backstory of the Corn ’n’ Oil, he said that most people come to it via the recipe on the back of the John D. Taylor bottle, but, as with many great drinks consumed in Seattle, all roads lead back to Murray Stenson, who helped popularize the drink at the Zig Zag Café, where they doctor it with an extra splash of Coca-Cola. You can substitute another dark rum, but you’ll miss out on the sweet depth and dark molasses flavor of the Cruzan Black Strap. Considering its own Caribbean background, Angostura is the bitters of choice here, but swapping in Bittercube Blackstrap Bitters would be a choice play.
     ingredients:
     - 2 ounces blackstrap rum, preferably Cruzan Black Strap
-    - ½ ounce John D. Taylor’s Velvet falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - ¼ ounce freshly squeezed lime juice
     - 2 to 3 dashes Angostura bitters
     - "Garnish: lime wedge"
@@ -298,7 +298,7 @@ recipes:
     author: 
     notes: At the height of the martini boom of the 1990s, so-called “martinis” were made with vodka instead of gin and typically served in birdbath-sized glasses (not unlike the one Vince Vaughn hoists on the poster for Swingers). At the same time, “-tini” became the suffix appended to any number of questionable concoctions. The first martinis, served in the late 1800s, were often made with Old Tom gin and sweet vermouth (see the Martinez), but around 1906 the marriage of gin and dry vermouth became the standard. In The Joy of Mixology, Gary Regan points out that around this time a kiss of orange bitters showed up in the drink. Orange bitters remained a part of the dry martini up through the 1930s, but by the 1950s the bitters had disappeared just as the quantity of vermouth trickled down from a healthy pour to a drop to just a vapor.
     ingredients:
-    - 1½ ounces gin, preferably Plymouth
+    - 1½ ounces Plymouth Gin
     - ½ ounce dry vermouth
     - 1 dash orange bitters
     - "Garnish: lemon twist"
@@ -313,7 +313,7 @@ recipes:
     author: 
     notes: "We know that this recipe was first captured in print in the 1887 edition of Jerry Thomas’s How to Mix Drinks, but, as with so many great drinks, the details of its origin remain fuzzy. One popular tale has Thomas, then working at San Francisco’s Occidental Hotel, serving it to a Gold Rush-era traveler on his way to Martinez, California. Regardless of the drink’s true provenance, I have to agree with Gary Regan, who, in The Joy of Mixology, writes: “This drink, I believe, was born of the Manhattan and is the father, or perhaps grandfather, of the Dry Gin Martini.” Later he adds, “Theoretically, at least, the Martinez was a variation on the Manhattan, and the Martini is, for all intents and purposes, a Martinez.” In place of the Old Tom gin, a slightly sweeter gin that was popular in the mid-1800s but dried up after Prohibition, I like to use Ransom Old Tom, which hails from Sheridan, Oregon. What makes Ransom so unique is their use of malted barley-based and corn-based spirits, which they allow to mellow in wine barrels, giving the gin its distinctive straw-colored hue. Note the 2:1 vermouth to gin ratio. Some contemporary versions of this drink flip that ratio, or they split the difference and use equal parts. I encourage you to at least try the original version. It’s sweeter than you might be used to, but never cloying, and aromatic as all hell. And it’s a history lesson in a glass."
     ingredients:
-    - 1 ounce Old Tom gin, preferably Ransom Old Tom
+    - 1 ounce Ransom Old Tom gin
     - 2 ounces sweet vermouth, perferably Carpano Antica
     - 1 teaspoon maraschino liqueur
     - 2 dashes Boker’s Bitters or Angostura bitters
@@ -373,7 +373,7 @@ recipes:
     author: 
     notes: “The favourite cocktail of the Pegu Club, Burma, and one that has traveled, and is asked for, around the world,” writes Harry Craddock in The Savoy Cocktail Book (1930) of the Pegu Club’s namesake cocktail. Although the sun has set on the original British colonial gentlemen’s club, cocktail authority Audrey Saunders named her popular Soho cocktail lounge after the storied Burma club, helping keep the Pegu Club name, and the cocktail, from becoming history.
     ingredients:
-    - 2 ounces London Dry gin, preferably Plymouth or Bombay Sapphire
+    - 2 ounces London Dry Plymouth Gin or Bombay Sapphire
     - ¾ ounce orange curaçao
     - ½ ounce freshly squeezed lime juice
     - 1 dash Angostura bitters
@@ -389,7 +389,7 @@ recipes:
     author: 
     notes: "Just two ingredients: gin and bitters. Anything but demure, the Pink Gin was a favorite of the Royal Navy in the nineteenth century, as bitters worked its magic curing everything from seasickness to indigestion. You can see why warm gin and bitters didn’t catch on like a cosmopolitan, but this bitters-stained cocktail makes for an elegant and potent affair. In Vintage Cocktails and Forgotten Spirits, Ted Haigh suggests serving this icy cold with six “goodly dashes” of bitters. I’d start with four and take it up to six if that’s your game. A traditional method of introducing the bitters to the gin is to sprinkle the Angostura into a coupe glass and twist and turn the glass around until the glass is coated. Since warm gin and bitters isn’t everyone’s cup of tea, I prefer to serve the Pink Gin chilled to the bone. Try it. As David Wondrich said of the Pink Gin in Esquire, “It’s considerably smoother than one has any right to expect.”"
     ingredients:
-    - 2 ounces gin, preferably Plymouth
+    - 2 ounces Plymouth Gin
     - 4 to 6 dashes Angostura bitters
     steps:
     - Combine the gin and bitters in a mixing glass filled with ice. Stir until chilled and strain into a chilled coupe glass.
@@ -532,9 +532,9 @@ recipes:
 #New-Look Cocktails
   - name: The 5th Avenue Cocktail
     author: Jim Romdall
-    notes: Native Seattle barman Jim Romdall created this cocktail as a tribute to the tony address of Vessel, the bar he co-owned and managed. Playing around with Dolin Vermouth de Chambéry Blanc as a starting point, he soon came up with a cocktail that highlights the vermouth’s delicate flavor but also possesses the right amount of acidity from the lemon bitters and the citrus notes of the Martin Miller’s gin. Vessel moved from their Fifth Avenue location in late 2010, but by the time you’re reading this they will have set up shop at a new location in Seattle to continue the excellent level of service and creativity that helped garner the bar national attention.
+    notes: Native Seattle barman Jim Romdall created this cocktail as a tribute to the tony address of Vessel, the bar he co-owned and managed. Playing around with Dolin Vermouth de Chambéry Blanc as a starting point, he soon came up with a cocktail that highlights the vermouth’s delicate flavor but also possesses the right amount of acidity from the lemon bitters and the citrus notes of the Martin Miller’s London Dry gin. Vessel moved from their Fifth Avenue location in late 2010, but by the time you’re reading this they will have set up shop at a new location in Seattle to continue the excellent level of service and creativity that helped garner the bar national attention.
     ingredients:
-    - 1½ ounces London Dry gin, preferably Martin Miller’s
+    - 1½ ounces Martin Miller’s London Dry gin gin
     - ½ ounce Dolin Vermouth de Chambéry Blanc
     - 1 teaspoon Yellow Chartreuse
     - 1 dash absinthe, preferably Marteau
@@ -797,20 +797,20 @@ recipes:
       - heated
   - name: Pith Helmet
     author: 
-    notes: In an article entitled “The New Antiquarians,” the New York Times profiled the stylish sisters Hollister and Porter Hovey, whose windowless loft in the Williamsburg neighborhood of Brooklyn is packed to the ceiling with a curated collection of mounted animal trophies, vintage tennis rackets, steamer trunks, apothecary ephemera, fencing gear, and eccentric headgear, including several pith helmets. They even have their own crest. If Little Edie and Richie Tenenbaum set up house together, it might look like the Hoveys’. Based on photos on Hollister’s popular blog, I was pleased to see that the Hoveys also like to keep a few bottles of bitters on hand. This twist on a Pimm’s Cup amps up the gin-based Pimm’s No. 1 Cup with an additional slug of British dry gin (Bombay will work, but the Hoveys might call for Old Raj). The lemon-basil syrup, cucumber, and black pepper present an earthy, vegetal undertone against the lemon juice and crisp bitter lemon tonic, and the bitters help bring it all together.
+    notes: In an article entitled “The New Antiquarians,” the New York Times profiled the stylish sisters Hollister and Porter Hovey, whose windowless loft in the Williamsburg neighborhood of Brooklyn is packed to the ceiling with a curated collection of mounted animal trophies, vintage tennis rackets, steamer trunks, apothecary ephemera, fencing gear, and eccentric headgear, including several pith helmets. They even have their own crest. If Little Edie and Richie Tenenbaum set up house together, it might look like the Hoveys’. Based on photos on Hollister’s popular blog, I was pleased to see that the Hoveys also like to keep a few bottles of bitters on hand. This twist on a Pimm's No. 1 Cup amps up the gin-based Pimm's No. 1 with an additional slug of British dry gin (Bombay will work, but the Hoveys might call for Old Raj). The lemon-basil syrup, cucumber, and black pepper present an earthy, vegetal undertone against the lemon juice and crisp bitter lemon tonic, and the bitters help bring it all together.
     ingredients:
     - 6 black peppercorns
     - ½ ounce Lemon-Basil Syrup
     - 3 cucumber slices
     - 1 ounce London Dry gin
-    - 1 ounce Pimm’s No. 1 Cup
+    - 1 ounce Pimm's No. 1
     - ½ ounce freshly squeezed lemon juice
     - 2 dashes Angostura bitters
     - 2 dashes celery bitters
     - Fever-Tree Bitter Lemon or high-quality tonic water
     - "Garnish: basil leaf, cucumber slice, and freshly ground black pepper"
     steps:
-    - Lightly crack the peppercorns using a mortar and pestle and transfer to a shaker along with the lemon-basil syrup and cucumber slices. Muddle the ingredients until the cucumbers have become one with the syrup. Fill the shaker halfway with ice, then add the gin, Pimm’s, lemon juice, and both bitters. Shake until chilled and strain into an ice-filled highball glass and top with the Fever-Tree Bitter Lemon. Garnish with a basil leaf and a cucumber slice and dust with a grind of pepper.
+    - Lightly crack the peppercorns using a mortar and pestle and transfer to a shaker along with the lemon-basil syrup and cucumber slices. Muddle the ingredients until the cucumbers have become one with the syrup. Fill the shaker halfway with ice, then add the gin, Pimm's No. 1, lemon juice, and both bitters. Shake until chilled and strain into an ice-filled highball glass and top with the Fever-Tree Bitter Lemon. Garnish with a basil leaf and a cucumber slice and dust with a grind of pepper.
     tags:
       - new-look cocktails
       - shaken
@@ -855,7 +855,7 @@ recipes:
     author: Don Lee
     notes: I first encountered the Sawyer after a late-night gustatory marathon at Momofuku Ko, the twelve-stool East Village restaurant famous for its elaborate and inventive omakase-style tasting menu and a sometimes confounding online reservation system. Even though I had been served far too many courses to remember—the scribbles in my Moleskine notebook that night went from their normal, barely legible state to cave paintings—I left not with a sense of overstuffed food coma, but rather an enlightened eater’s high. Despite the subzero temperatures that bitter January night, I wasn’t ready to call it quits just yet. A nightcap seemed in order, so I walked over to Ko’s sister restaurant, Ssäm Bar. Don Lee, who spent time at PDT and was then the bar manager for the Momofuku empire, was behind the stick at Ssäm Bar that night, and when I told him I was looking for a post-Ko digestif, he went to work and presented me with the Sawyer, an icy, bitters-soaked twist on a gimlet doctored with nearly thirty dashes of bitters. Don explained that the drink was inspired by wd-50 chef Wylie Dufresne (who loves gin) and was named after Wylie’s daughter. The Sawyer is no longer on the menu at Ssäm Bar, but ask nicely and most of the bartenders will know what you’re after.
     ingredients:
-    - 2 ounces gin, preferably Beefeater
+    - 2 ounces London Dry gin
     - ½ ounce freshly squeezed lime juice
     - ½ ounce Simple syrup
     - 14 dashes Angostura bitters
