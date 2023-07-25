@@ -1,5 +1,5 @@
 {
     "yaml.schemas": {
-        "public/RecipesSchema.json": "**/Recipes*.yml"
+        "public/RecipesSchema.json": "configs/Recipes/*.yml"
     }
 }
