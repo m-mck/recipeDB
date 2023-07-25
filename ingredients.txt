@@ -1569,7 +1569,7 @@ Garnish: 1 lemon wheel
 Garnish: 1 mint bouquet and dried banana slices
 2 ounces High West Silver oat whiskey
 ¾ ounce Dolin blanc vermouth 
-½ ounce Combier pamplemousse rose liqueur
+½ ounce Combier crème de pamplemousse
 ½ ounce Clarified Lime Juice
 1 teaspoon Cinnamon Syrup
 1 dash Bittermens 'Elemakule Tiki Bitters 
@@ -1933,7 +1933,7 @@ Garnish: 1 mint bouquet, 2 raspberries, 2 blackberries, and powdered sugar
 1 lime coin (a quarter-size piece of rind with some flesh attached)
 1½ ounces Cobrafire eau-de-vie de raisin 
 ½ ounce Clear Creek Douglas fir eau-de-vie
-2 teaspoons Giffard Lichi-Li lychee liqueur
+2 teaspoons Giffard Lichi-Li liqueur
 1 teaspoon Marie Brizard white crème de cacao
 1 ¼ ounces Tapatío Blanco 110 tequila 
 ½ ounce Del Maguey San Luis del Rio mezcal
@@ -1943,7 +1943,7 @@ Garnish: 1 mint bouquet, 2 raspberries, 2 blackberries, and powdered sugar
 1 dash House Orange Bitters
 ½ dash Bittermens Hellfire Habanero Shrub
 Absinthe, to rinse 
-Emile Pernot Fraise de Boise liqueur, to rinse
+Emile Pernot Fraise de Bois liqueur, to rinse
 1½ ounces Campo de Encanto Acholado pisco
 ½ ounce Kappa pisco
 ¾ ounce Cocchi Americano
@@ -2174,7 +2174,7 @@ Garnish: 1 lemon twist
 1¾ ounces Pineapple-Infused Tanqueray London Dry gin 
 ½ ounce Dolin dry vermouth
 ¼ ounce El Dorado 3-year rum
-¼ ounce Combier pamplemousse rose liqueur
+¼ ounce Combier crème de pamplemousse
 1 teaspoon St-Germain elderflower liqueur
 Garnish: 1 grapefruit twist
 1 ¼ ounces Plymouth gin 
@@ -2441,7 +2441,7 @@ Garnish: 1 lemon twist
 2 ounces Wild Turkey 101 Rye 
 ¾ ounce Dolin dry vermouth
 ½ ounce Cynar
-1 teaspoon Combier pamplemousse rose liqueur
+1 teaspoon Combier crème de pamplemousse
 ½ teaspoon St-Germain elderflower liqueur 
 Garnish: 1 grapefruit twist
 1 ¼ ounces Rabbit Hole bourbon
@@ -2640,7 +2640,7 @@ Garnish: 1 lemon twist
 Garnish: 1 lemon twist
 1½ ounces Monkey 47 Schwarzwald Dry Gin
 ¼ ounces Tozai Blossom of Peace plum wine 
-¼ ounce Giffard Lichi-Li lychee liqueur
+¼ ounce Giffard Lichi-Li liqueur
 1 teaspoon Rhine Hall mango brandy 
 1 dash absinthe
 ½ teaspoon Cane Sugar Syrup
@@ -2662,7 +2662,7 @@ Garnish: 1 lemon twist
 ½ ounce Redbreast 12-year Irish whiskey
 ½ ounce Lustau manzanilla sherry
 ½ ounce Dolin blanc vermouth
-1 teaspoon Combier rose liqueur
+1 teaspoon Combier crème de rose
 1 teaspoon Campari
 1 teaspoon Cane Sugar Syrup
 1 dash Peychaud's bitters
@@ -2717,7 +2717,7 @@ Garnish: 1 orange half wheel
 1½ ounces Beefeater London Dry gin
 ½ ounce Singani 63 eau-de-vie 
 ½ ounce Dolin blanc vermouth 
-¼ ounce Giffard Lichi-Li lychee liqueur
+¼ ounce Giffard Lichi-Li liqueur
 1 teaspoon Raspberry Syrup
 1 dash Peychaud's bitters
 1 dash absinthe
@@ -3970,7 +3970,7 @@ Garnish: 1 spritz of Cruzan Black Strap rum
 Cereal
 1 ounce Hickory Smoke-Infused Cognac (page 290)
 1 ounce Lustau Los Arcos Amontillado Sherry
-1 teaspoon Giffard Vanilla de Madagascar
+1 teaspoon giffard vanille de madagascar
 ½ ounce Demerara Gum Syrup (page 54) 
 1 whole egg
 Garnish: Cinnamon and nutmeg
@@ -4004,7 +4004,7 @@ Garnish: 1 lemon twist
 4 ounces cold Fever-Tree tonic water
 1½ ounces aged rum
 ½ ounce coffee liqueur
-¼ ounce Faretti Biscotti Famosi liqueur 
+¼ ounce Faretti Biscotti liqueur 
 1 ounce heavy cream
 1 whole egg 
 Garnish: Nutmeg
@@ -4220,7 +4220,7 @@ Garnish: 1 lemon wheel and 1 brandied cherry on a skewer
 ¾ ounce Sauternes wine 
 ¼ ounce Grand Marnier
 1 teaspoon Giffard Crème de Pêche
-½ teaspoon Giffard Menthe Pastille
+½ teaspoon Giffard Menthe-Pastille
 Garnish: 1 mint sprig
 1 ounce Dolin blanc vermouth
 ¼ ounce St. George raspberry brandy
@@ -5456,7 +5456,7 @@ Garnish: 1 Orange twist
 1½ Ounces Del Maguey Espadin Especial Mezcal
 1½ Ounces La Cigarrera Manzanilla Sherry
 ½ Ounce Bénédictine
-½ Teaspoon Rothman & Winter Pear Liqueur
+½ Teaspoon Rothman & Winter Orchard pear liqueur
 ½ Teaspoon Agave Nectar
 1 Dash Bar Code Baked Apple Bitters
 1 Dash Bitter Truth Aromatic Bitters 
@@ -5545,7 +5545,7 @@ Garnish: 1 Orange twist
 1 Teaspoon Grenadine 
 Garnish: 1 Fresh Curry Leaf
 2 Ounces High West Silver Oat Whiskey
-½ Ounce Combier Pamplemousse Rose Liqueur
+½ Ounce Combier crème de pamplemousse
 ¾ Ounce Lemon Juice
 ½ Ounce Cinnamon Bark Syrup
 1 Dash Bittermens 'Elemakule Tiki Bitters 
@@ -6009,7 +6009,7 @@ Garnish: 1 Lemon Twist
 1 Dash House Peychaud’s Bitters
 2 Ounces Waqar Pisco
 ¾ Ounce Dolin Dry Vermouth
-½ Ounce Combier Pamplemousse Rose Liqueur
+½ Ounce Combier crème de pamplemousse
 ½ Ounce St-germain
 ¼ Ounce Velvet Falernum 
 Garnish: 1 Grapefruit Twist
@@ -6837,7 +6837,7 @@ Garnish: 1 Lime Wedge
 ¾ Ounce El Dorado 3-year Rum
 ½ Ounce Banks 5-Island White Rum
 ½ Ounce Dolin Blanc Vermouth
-½ Ounce Combier Pamplemousse Rose Liqueur
+½ Ounce Combier crème de pamplemousse
 ½ Teaspoon Kirsch
 ½ Teaspoon Luxardo Maraschino Liqueur
 ½ Teaspoon Acid Phosphate 
@@ -7872,7 +7872,7 @@ Lemon peel, for garnish
 ½ ounce (15 ml) Demerara Syrup
 7 drops Bitter Truth Aromatic Bitters
 1½ ounces (45 ml) Van Oosten Batavia-Arrack Van Oosten
-¾ ounce (22.5 ml) Giffard apricot liqueur
+¾ ounce (22.5 ml) Giffard Abricot du roussillon 
 ¾ ounce (22.5 ml) fresh lime juice
 ½ teaspoon (2.5 ml) St. Elizabeth’s allspice dram
 Orange peel
@@ -8474,7 +8474,7 @@ Garnish: lemon zest
 Chilled Champagne or sparkling wine
 Garnish: Orange twist
 ¾ ounce Clear Creek apple brandy
-¾ ounce St. Germain elderflower liqueur
+¾ ounce St-Germain elderflower liqueur
 1 dash Fee Brothers Whiskey Barrel–Aged Bitters or Fee Brothers Old Fashion Aromatic Bitters
 Chilled Champagne or sparkling wine
 Garnish: freshly grated nutmeg
@@ -8588,7 +8588,7 @@ San Pellegrino Aranciata
 Garnish: lime wedge
 2 ounces Partida reposado tequila
 2 teaspoons of Regans’ Orange Bitters No. 6
-2 teaspoons St. Germain elderflower liqueur
+2 teaspoons St-Germain elderflower liqueur
 1 teaspoon superfine sugar
 Lemon twist
 
@@ -9119,7 +9119,7 @@ Honey foam
 Orange twist, for garnish
 ¼ ounce Ardbeg Single Malt Scotch
 1 ounce jenever
-ounce Cynar Italian liqueur
+ounce Cynar
 ½ ounce Heering cherry liqueur
 ½ ounce Lustau Pedro Ximénez sherry
 dashes Angostura aromatic bitters
@@ -10135,7 +10135,7 @@ Fresh nutmeg, grated, for garnish
 Fresh nutmeg, grated, for garnish
 1 ounce Strawberry Cordial (see recipe)
 1½ ounces Rémy Martin VSOP Cognac
-¼ ounce Combier Liqueur de Rose
+¼ ounce Combier crème de rose
 ¼ ounce Pernod Absinthe
 ¾ ounce fresh lemon juice
 2 dashes Bittermens Burlesque Bitters
@@ -10829,7 +10829,7 @@ Bitters foam
 1/4oz Aperol
 50g Olmeca Altos Plata Tequila
 50g Fusion Verjus Blanc
-27g St. Germain Liqueur
+27g St-Germain elderflower liqueur
 25g Tio Pepe Fino Sherry
 17g Elijah Craig Small Batch Bourbon Whiskey
 1g Angostura Orange Bitters
@@ -12008,7 +12008,7 @@ small wood chips
 80g sugar
 450g peach nectar
 100g water
-60g St. Germain Elderflower Liqueur
+60g St-Germain elderflower liqueur
 2 lemons
 130g sugar
 500g water
