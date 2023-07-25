@@ -35,6 +35,7 @@ module.exports = (options = {}) => {
                 const content = fs.readFileSync(target);
                 json.push(yaml.load(content));
             }
+            fs.mkdirSync(path.dirname(outputFile), {"recursive": true}); // many redundant args
             fs.writeFileSync(outputFile, JSON.stringify(json, (key, value) => {
                 if (value == null) {
                     return undefined;
