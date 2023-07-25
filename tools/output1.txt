@@ -95,7 +95,7 @@
 (22.5 ml) fresh lemon juice
 (22.5 ml) fresh lime juice
 (22.5 ml) fresh orange juice
-(22.5 ml) giffard apricot liqueur
+(22.5 ml) Giffard Abricot du roussillon 
 (22.5 ml) grenadine
 (22.5 ml) inocente fino sherry
 (22.5 ml) jägermeister
@@ -1211,7 +1211,7 @@ coffee beans and grated nutmeg for each serving
 coffee ice cube
 coffee liqueur
 coffee liqueur (preferably caffé lolita)
-coffee liqueur, preferably new deal
+New Deal coffee liqueur
 coffee vermouth
 coffee- and chile-infused campari
 coffee-infused campari
@@ -1255,13 +1255,13 @@ combier crème de rose
 combier kümmel
 combier kümmel liqueur
 combier liqueur
-combier liqueur de pamplemousse rose
-combier liqueur de rose
+Combier crème de pamplemousse rose
+Combier crème de rose
 combier l’original
 combier l’original triple sec
-combier pamplemousse grapefruit liqueur
-combier pamplemousse rose liqueur
-combier rose liqueur
+Combier crème de pamplemousse
+Combier crème de pamplemousse
+Combier crème de rose
 combier triple sec
 compass box asyla scotch
 compass box great king st. glasgow blend scotch whisky
@@ -1367,7 +1367,7 @@ cutty sark prohibition edition blended scotch whisky
 cynar
 cynar 70 proof amaro
 cynar amaro
-cynar italian liqueur
+Cynar
 cynar or cynar 70
 cynar, to rinse
 cyril zangs 00 apple cider eau-de-vie
@@ -1612,7 +1612,7 @@ elijah craig small batch bourbon whiskey
 elisir novasalus vino amaro
 elixir combier
 elote-infused elijah craig bourbon
-emile pernot fraise de boise liqueur, to rinse
+Emile Pernot Fraise de Bois liqueur, to rinse
 emile pernot liqueur de sapin
 emilio hidalgo fino sherry
 empirical spirits habanero spirit
@@ -1645,7 +1645,7 @@ falernum (see recipe)
 falernum marbles
 fall spice ice
 famous grouse scotch
-faretti biscotti famosi liqueur
+Faretti Biscotti liqueur
 faretti biscotti liqueur
 fat grapefruit twist
 fausse piste garde manger syrah
@@ -1864,7 +1864,7 @@ giffard crème de banane
 giffard crème de cacao
 giffard crème de cacao (white)
 giffard crème de cacao (white) liqueur
-giffard crème de cacao blanc
+Giffard white crème de cacao
 giffard crème de châtaigne
 giffard crème de fraise des bois
 giffard crème de fraise des bois strawberry liqueur
@@ -1879,15 +1879,15 @@ giffard crème de pêche de vigne
 giffard elderflower liqueur
 giffard fruit de la passion liqueur
 giffard lichi-li liqueur
-giffard lichi-li lychee liqueur
-giffard menthe pastille
+Giffard Lichi-Li liqueur
+Giffard Menthe-Pastille
 giffard menthe-pastille
 giffard menthe-pastille liqueur
 giffard muroise du val de loire
 giffard passion fruit liqueur
 giffard rhubarb liqueur
-giffard rhubarbe liqueur
-giffard vanilla de madagascar
+Giffard rhubarb liqueur
+giffard vanille de madagascar
 giffard vanille de madagascar
 giffard white crème de cacao
 gilles brisson pineau des charentes
@@ -3480,7 +3480,7 @@ rothman & winter crème de violette
 rothman & winter orchard apricot liqueur
 rothman & winter orchard cherry liqueur
 rothman & winter orchard pear liqueur
-rothman & winter pear liqueur
+Rothman & Winter Orchard pear liqueur
 rothman and winter orchard apricot liqueur
 royal combier
 royal combier grande orange liqueur
@@ -3511,7 +3511,7 @@ rye whiskey (preferably michter’s, rittenhouse, or high west rendezvous)
 rye whiskey (preferably old grand-dad bonded)
 rye whiskey (preferably rittenhouse)
 rye whiskey syrup
-rye whiskey, preferably rittenhouse
+Rittenhouse rye whiskey
 rye, preferably rittenhouse
 rye-dusted buddha’s hand cube
 rémy martin 1738 accord royal cognac
@@ -3807,7 +3807,7 @@ sriracha (optional)
 St. Elizabeth Allspice Dram
 st george absinthe
 st george raspberry brandy
-st george spiced pear liqueur
+St. George spiced pear liqueur
 st-germain
 st-germain elderflower liqueur
 st-germain elderflower liqueur (if necessary)
@@ -3830,8 +3830,8 @@ st. george raspberry eau-de-vie
 st. george raspberry liqueur
 st. george spiced pear liqueur
 st. george terroir gin
-st. germain elderflower liqueur
-st. germain liqueur
+St-Germain elderflower liqueur
+St-Germain elderflower liqueur
 st. james royal ambre rhum agricole
 stagg bourbon
 star anise

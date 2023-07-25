@@ -242,7 +242,7 @@ Teaspoon St. George Absinthe
 Teaspoon St. Elizabeth Allspice Dram
 Teaspoon St-germain
 Teaspoon Simple SyrupTeaspoon Simple Syrup
-Teaspoon Rothman & Winter Pear Liqueur
+Teaspoon Rothman & Winter Orchard pear liqueur
 Teaspoon Rothman & Winter Apricot Liqueur
 Teaspoon Pumpkin Puree
 Teaspoon Pumpkin Butter
@@ -422,9 +422,9 @@ Star anise
 star anise
 Stagg Bourbon
 St. James Royal Ambre Rhum Agricole
-St. Germain Liqueur
-St. Germain Elderflower Liqueur
-St. Germain elderflower liqueur
+St-Germain elderflower liqueur
+St-Germain elderflower liqueur
+St-Germain elderflower liqueur
 St. George Terroir GinSt. George Terroir gin
 St. George Terroir Gin
 St. George Terroir gin
@@ -2101,15 +2101,15 @@ Giffard White Crème de Cacao
 Giffard white crème de cacao
 Giffard Vanille de Madagascar (a vanilla liqueur)
 Giffard Vanille de Madagascar
-Giffard Vanilla de Madagascar
+giffard vanille de madagascar
 Giffard rhubarb liqueurGiffard rhubarb liqueur
 Giffard passion fruit liqueur
 Giffard Muroise du Val de Loire
 Giffard Menthe-PastilleGiffard menthe-pastille
 Giffard Menthe-Pastille
 Giffard menthe-pastille
-Giffard Menthe Pastille
-Giffard Lichi-Li lychee liqueur
+Giffard Menthe-Pastille
+Giffard Lichi-Li liqueur
 Giffard elderflower liqueur
 Giffard Crème de PêcheGiffard crème de pêche
 Giffard Crème de Pêche de Vigne
@@ -2339,7 +2339,7 @@ Fee Brothers Black Walnut Bitters
 Fausse Piste Garde Manger Syrah
 fat grapefruit twist
 Faretti biscotti liqueur
-Faretti Biscotti Famosi liqueur
+Faretti Biscotti liqueur
 Famous Grouse scotchFamous Grouse scotch
 Famous Grouse Scotch
 falernum marbles
@@ -2475,7 +2475,7 @@ Empirical Spirits Onyx Blend
 Empirical Spirits Habanero Spirit
 Emilio Hidalgo Fino Sherry
 Emile Pernot Liqueur de Sapin
-Emile Pernot Fraise de Boise liqueur, to rinse
+Emile Pernot Fraise de Bois liqueur, to rinse
 Elote-Infused Elijah Craig Bourbon
 Élixir CombierEspresso-infused Demerara Syrup
 Élixir combier
@@ -2843,7 +2843,7 @@ daikon juice (see Note)
 D’arbo Elderflower Syrup
 D’arbo Elderflower syrup
 Cyril Zangs 00 apple cider eau-de-vieCyril Zangs 00 apple cider eau-de-vie
-Cynar Italian liqueur
+Cynar
 Cynar Amaro
 Cynar 70 Proof Amaro
 Cynar
@@ -2953,12 +2953,12 @@ Compass Box Asyla Scotch
 Compass Box Asyla scotch
 Combine the bourbon, elderflower liqueur, and lime juice in a cocktail shaker filled with ice. Shake until chilled and strain into a pint-size Mason jar filled with ice. Top with ginger beer. Garnish with the lime wheel.
 Combier triple sec
-Combier rose liqueur
+Combier crème de rose
 Combier Roi Rene Rouge Cherry Liqueur
-Combier Pamplemousse Rose Liqueur
-Combier pamplemousse rose liqueur
+Combier crème de pamplemousse
+Combier crème de pamplemousse
 Combier Pamplemousse Rose
-Combier Liqueur de Rose
+Combier crème de rose
 Combier liqueur
 Combier Kümmel
 Combier Elisir
@@ -3876,7 +3876,7 @@ Lemon-Orange Oleo Syrup or Cocktail & Sons Oleo Saccharum syrup
 La Quintinye royal blanc vermouth
 Inocente fino sherry
 Grenadine
-Giffard apricot liqueur
+Giffard Abricot du roussillon 
 Fernando de Castilla cream sherry
 Falcon Spirits Amaro Aplomado
 Dubonnet Rouge Grand Aperitif

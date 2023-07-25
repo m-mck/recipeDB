@@ -1,4 +1,5 @@
     FORTIFIED WINES
+        chinato
         red macvin du jura
         cocchi barolo
         maurin quina
@@ -91,13 +92,10 @@
         masahiro shuzō shimauta awamori
         fukucho forgotten fortune junmai
         tumugi
-        mirin
-        chiyonosono shared promise junmai
-        akashi-tai tokubetsu honjōzo saké
-        amabuki gin no kurenai junmai
+        mirin   
+        akashi-tai tokubetsu honjōzo saké     
         amazake
-            amazaké
-        kakurei junmai ginjo sake umeshu
+            amazaké       
         nanbu bijin muto umeshu plum sake
         shochu
             iichiko saiten barley shōchū
@@ -131,9 +129,17 @@
             the sg club kome shochu
             yamasemi rice shochu
             awa no kaori sudachi chū
-        asahiyama junmai sake
         joto yuzu sake
         junmai sake
+            chiyonosono shared promise junmai
+            fukucho moon on the water junmai ginjō saké
+            koshi no kanbai sai junmai ginjō saké
+            dassai 50 junmai daiginjo sake   
+            kuroushi omachi junmai ginjo sake
+            musashino junmai daiginjo sake
+            asahiyama junmai sake
+            kakurei junmai ginjo sake umeshu
+            amabuki gin no kurenai junmai
         kamoizumi 2-year red maple sake
         kamoizumi red maple sake
         masumi okuden kantsukuri “mirror of truth” junmai sake
@@ -144,101 +150,157 @@
         unfiltered sake
         yuzu sake
         saika yuzu shu sake
-        dassai 50 junmai daiginjo sake   
-        kuroushi omachi junmai ginjo sake
-        musashino junmai daiginjo sake
         narutotai ginjo nama genchu sake
         dewazikura tobiroku sparkling sake
-        chiyonosono shared promise junmai saké
-        fukucho moon on the water junmai ginjō saké
-        koshi no kanbai sai junmai ginjō saké    
     LIQUEURS
-        guillaumette l’authentique génépi
-        limoncello
-            meletti limoncello
-        nardini acqua di cedro
-        p. garnier maraschino - 1940s
-        pasquet marie-framboise
-        pimento dram
+        HERBAL LIQUEUR
+            guillaumette l’authentique génépi
+            génépi
+            escubac botanical spirit
+            dolin génépy le chamois
+            ojen
+            don ciccio & figli nocino
+            dimmi liquore di milano
+            kronan swedish punsch
+            strega
+            art in the age root liqueur
+            avèze gentiane liqueur
+                aveze
+            bigallet thyme liqueur
+            boomsma cloosterbitter liqueur
+            dolin génépy des alpes liqueur
+            goldwasser liqueur
+        LEMON LIQUEUR
+            limoncello
+                meletti limoncello
+            nardini acqua di cedro
+        MARASCHINO LIQUEUR
+            p. garnier maraschino - 1940s
+            maraschino liqueur
+            maraska maraschino liqueur
+            house maraschino liqueur
+        RASPBERRY LIQUEUR
+            pasquet marie-framboise
+            emile pernot fraise de boise liqueur
+        PIMENTO DRAM
             hamilton pimento dram
-        pernod
-        pastis
-        pimm's no. 1
-        red bitter
-        génépi
-        escubac botanical spirit
-        forthave spirits red aperitivo
-        dolin génépy le chamois
-        contratto aperitif
-        contratto fernet
-        jeppson’s malört
-        kümmel
+        BANANA LIQUEUR
+            pyrolized banana liquor
+            crème de banane
+            giffard crème de banane liqueur
+            giffard banane du brésil
+            giffard crème de banane
+            tempus fugit crème de banane
+        ANISE LIQUEUR
+            pernod
+            pastis
+        GIN LIQUEUR
+            pimm's no. 1
+        RED BITTERS
+            red bitter
+            forthave spirits red aperitivo
+            contratto aperitif
+            caffo red bitter
+        FERNET
+            contratto fernet
+        MALÖRT
+            jeppson’s malört
+        KÜMMEL
             combier kümmel
-        yuzushu
+        YUZUSHU
             tsukasa botan yama yuzu-shu
-        pyrolized banana liquor
-        ojen
-        don ciccio & figli nocino
-        midori
-        dimmi liquore di milano
-        cherry heering
-        chambord
-        combier crème de rose
-        crème de banane
-        crème de cassis
-        crème de mure
-        crème de mûre
-        crème de violette
-        gabriel boudier crème de cassis de dijon
-        green crème de menthe
-        jacoulot crème de cassis de dijon
-        lejay crème de cassis de dijon
-        marie brizard white crème de menthe
-        massenez crème de pêche
-        merlet crème de fraise des bois
-        merlet crème de pêche
-        merlet crème de poire williams
-        white crème de menthe
-        rothman & winter crème de violette
-        giffard abricot du roussillon    
-        giffard apricot
-        giffard banane du brésil
-        giffard cassis noir du bourgogne
-        giffard crème de banane
-        giffard crème de cacao
-        giffard crème de cacao blanc
-        giffard crème de châtaigne
-        giffard crème de fraise des bois
-        giffard crème de framboise
-        giffard crème de mûre
-        giffard crème de pamplemousse
-        giffard crème de pamplemousse rose
-        giffard crème de pêche
-        giffard crème de pêche de vigne
-        giffard menthe pastille
-        giffard menthe-pastille
-        giffard muroise du val de loire
-        giffard vanilla de madagascar
-        giffard vanille de madagascar
-        giffard white crème de cacao
-        sapin
-        chinato
-        kronan swedish punsch
-        Salers Gentiane
+        MELON LIQUEUR
+            midori
+        CHERRY LIQUEUR
+            cherry heering
+            brovo boomerang
+        RASPBERRY LIQUEUR
+            chambord
+            giffard crème de framboise
+        ROSE LIQUEUR
+            combier crème de rose
+            distillerie g. miclo rose liqueur
+        BLACKCURRANT LIQUEUR
+            crème de cassis
+            gabriel boudier crème de cassis de dijon
+            jacoulot crème de cassis de dijon
+            lejay crème de cassis de dijon
+            giffard cassis noir du bourgogne
+            clear creek cassis liqueur
+            current cassis blackcurrant liqueur
+        BLACKBERRY LIQUEUR
+            crème de mûre
+            crème de mure
+            giffard crème de mûre
+        VIOLET LIQUEUR
+            crème de violette
+                rothman & winter crème de violette
+            crème yvette liqueur
+        MINT LIQUEUR
+            green crème de menthe
+            white crème de menthe
+                giffard menthe-pastille
+                marie brizard white crème de menthe
+        PEACH LIQUEUR
+            massenez crème de pêche
+            merlet crème de pêche
+            giffard crème de pêche
+            giffard crème de pêche de vigne
+            briottet crème de peche
+            giffard crème de pêche
+        STRAWBERRY LIQUEUR
+            merlet crème de fraise des bois
+            giffard crème de fraise des bois
+        PEAR LIQUEUR
+            merlet crème de poire williams
+            belle de brillet pear liqueur
+            clear creek pear liqueur
+            st. george spiced pear liqueur
+            pür likör williams pear liqueur
+            rothman & winter orchard pear liqueur
+        APRICOT LIQUEUR
+            giffard abricot du roussillon    
+            giffard apricot
+            rothman & winter orchard apricot liqueur
+        CHOCOLATE LIQUEUR
+            giffard crème de cacao
+            brovo chocolate liqueur
+            distillerie de biercée noir d’ivoire liqueur
+        WHITE CHOCOLATE LIQUEUR
+            giffard white crème de cacao
+            crème de cacao
+            marie brizard white crème de cacao
+            giffard crème de cacao
+            white crème de cacao
+        CHESTNUT LIQUEUR
+            giffard crème de châtaigne
+        GRAPEFRUIT LIQUEUR
+            crème de pamplemousse
+                giffard crème de pamplemousse
+                combier crème de pamplemousse
+            crème de pamplemousse rose
+                giffard crème de pamplemousse rose
+                combier crème de pamplemousse rose
+        MUROISE LIQUEUR
+            giffard muroise du val de loire
+        VANILLA LIQUEUR
+            giffard vanille de madagascar
+        FIR & PINE LIQUEUR
+            sapin
+            zirbenz stone pine liqueur
+            emile pernot liqueur de sapin
+        SALERS GANTIANE
             Salers Gentiane Aperitif
             salers apéritif
             salers aperitif la bounoux gentiane
-        singani 63
-        singani
-        strega
-        st. elizabeth allspice dram
-        laurent cazottes 72 tomatoes
-        caffo red bitter
-        briottet crème de peche
-        brovo boomerang
-        elixir combier
+        ALLSPICE & PIMENTO LIQUEUR
+            st. elizabeth allspice dram
+            the bitter truth pimento dram
+        TOMATO LIQUEUR
+            laurent cazottes 72 tomatoes
+        ELIXIR COMBIER
             élixir combier
-        orange liqueur
+        ORANGE LIQUEUR
             cointreau
             bigallet china-china amer
             combier l’original
@@ -257,107 +319,83 @@
                 grand marnier
                     grand marnier cream
                     grand marnier cuvée centenaire
-        nut liqueur
+        WALNUT LIQUEUR
             walnut liqueur
-        ancho reyes ancho chile liqueur
-        apologue persimmon bittersweet liqueur
-        apologue saffron liqueur
-        apricot liqueur
-            rothman & winter orchard apricot liqueur
-        art in the age root liqueur
-        avèze gentiane liqueur
-        banana liqueur
-        bärenjäger honey liqueur
-        belle de brillet pear liqueur
-        bigallet thyme liqueur
-        bittermens new orleans coffee liqueur
-        boomsma cloosterbitter liqueur
-        brovo chocolate liqueur
-        brovo ginger liqueur
-        caffé lolita coffee liqueur
-        cardamaro liqueur
-        chamomile grappa liqueur, chilled
-        chareau aloe liqueur
-        cherry heering liqueur
-        chilled maraschino liqueur
-        clear creek cassis liqueur, to top
-        clear creek cranberry liqueur
-        clear creek pear liqueur
-        coconut liqueur
-        coffee liqueur
-        coffee liqueur, preferably new deal
-        coffee-infused kalani coconut liqueur
-        combier crème de pamplemousse rosé liqueur
-        combier crème de pamplemousse rose pink grapefruit liqueur
-        combier kümmel liqueur
-        combier liqueur
-        combier liqueur de pamplemousse rose
-        combier liqueur de rose
-        combier pamplemousse grapefruit liqueur
-        combier pamplemousse rose liqueur
-        combier rose liqueur
-        crème de violette liqueur
-        crème yvette
-            crème yvette liqueur
-        current cassis blackcurrant liqueur
-        cynar italian liqueur
-        del maguey crema de mezcal liqueur
-        distillerie de biercée noir d’ivoire liqueur
-        distillerie g. miclo rose liqueur
-        dolin génépy des alpes liqueur
-        domaine de canton ginger liqueur
-        don ciccio & figli finocchietto fennel liqueur
-        drambuie
-        dumante verdenoce pistachio liqueur
-        elderflower liqueur
-        emile pernot fraise de boise liqueur, to rinse
-        emile pernot liqueur de sapin
-        faretti biscotti famosi liqueur
-        faretti biscotti liqueur
-        fennel liqueur
-        fernet-vallet
-        fernet-branca
-            fernet branca
-                fernet-branca menta
-            branca menta
+        CHILE LIQUEUR
+            ancho reyes ancho chile liqueur
+        PERSIMMON LIQUEUR
+            apologue persimmon bittersweet liqueur
+        SAFFRON LIQUEUR
+            apologue saffron liqueur
+        HONEY LIQUEUR
+            bärenjäger honey liqueur
+        COFFEE LIQUEUR
+            bittermens new orleans coffee liqueur
+            new deal coffee liqueur
+            caffé lolita coffee liqueur
+        GINGER LIQUEUR
+            brovo ginger liqueur
+            domaine de canton ginger liqueur
+        ALOE LIQUEUR
+            chareau aloe liqueur
+        CHAMOMILE LIQUEUR
+            chamomile grappa liqueur
+        CRANBERRY LIQUEUR
+            clear creek cranberry liqueur
+        COCONUT LIQUEUR
+            kalani coconut rum liqueur
+            kalani ron de coco coconut liqueur
+            coffee-infused kalani coconut liqueur
+        KÜMMEL LIQUEUR
+            combier kümmel liqueur
+        MEZCAL LIQUEUR
+            del maguey crema de mezcal liqueur
+        FENNEL LIQUEUR
+            don ciccio & figli finocchietto fennel liqueur
+        SCOTCH LIQUEUR
+            drambuie
+        WALNUT LIQUEUR
+            dumante verdenoce pistachio liqueur
+        ELDERFLOWER LIQUEUR
+            giffard elderflower liqueur
+            pür likör blossom elderflower liqueur
+            st-germain elderflower liqueur
+                cardamom-infused st-germain
+                st-germain
+        FERNET
+            fernet-vallet
+            fernet-branca
+                fernet branca
+            fernet-branca menta
+                branca menta
                 brancamenta
+        BISCOTTI LIQUEUR    
+            faretti biscotti liqueur
         galliano l'autentico
         galliano ristretto
-        giffard abricot du roussillon liqueur
-        giffard apricot liqueur
         giffard blue curaçao liqueur
         giffard caribbean pineapple liqueur
-        giffard crème de banane liqueur
         giffard crème de cacao (white) liqueur
         giffard crème de fraise des bois strawberry liqueur
         giffard crème de framboise liqueur
         giffard crème de pamplemousse rose liqueur
-        giffard crème de pêche liqueur
-        giffard elderflower liqueur
         giffard fruit de la passion liqueur
         giffard lichi-li liqueur
-        giffard lichi-li lychee liqueur
         giffard menthe-pastille liqueur
         giffard passion fruit liqueur
         giffard rhubarb liqueur
-        giffard rhubarbe liqueur
         gilka kaiser-kümmel liqueur
-        ginger liqueur
-        goldwasser liqueur
         granada-vallet bitter pomegranate liqueur
         grand brulot coffee liqueur
         grand marnier liqueur
         greenhook ginsmiths beach plum gin liqueur
         guaycura damiana liqueur
         heering cherry liqueur
-        house maraschino liqueur
         italicus bergamot liqueur
         italicus rosolio bergamot liqueur
         italicus rosolio di bergamotto bergamot liqueur
         kahlúa coffee liqueur
         kahlúa midnight or other coffee liqueur
-        kalani coconut rum liqueur
-        kalani ron de coco coconut liqueur
         koval chrysanthemum & honey liqueur
         koval chrysanthemum and honey liqueur
         koval cranberry gin liqueur
@@ -373,8 +411,6 @@
         luxardo maraschino liqueur
         mandarine napoléon grande cuvée orange liqueur
         mandarine napoléon liqueur
-        maraschino liqueur
-        maraska maraschino liqueur
         marie brizard apricot liqueur
         marie brizard apry apricot liqueur
         marolo milla grappa and chamomile liqueur
@@ -395,20 +431,12 @@
         parfait amour liqueur
         passion fruit liqueur, preferably passoã
         patxaran liqueur
-        peach liqueur
-        pear liqueur
         perique liqueur
         Pimm's No. 1 liqueur
-        pür likör blossom elderflower liqueur
-        pür likör williams pear liqueur
-        raspberry liqueur
-        rose liqueur
         rothman & winter apricot liqueur
         rothman & winter cherry liqueur
         rothman & winter orchard apricot liqueur
         rothman & winter orchard cherry liqueur
-        rothman & winter orchard pear liqueur
-        rothman & winter pear liqueur
         rothman and winter orchard apricot liqueur
         royal combier grande orange liqueur
         royal combier
@@ -419,17 +447,8 @@
         somrus chai cream liqueur
         sorel liqueur
         sour cherry liqueur
-        spiced pear liqueur
-        st george spiced pear liqueur
-        st-germain elderflower liqueur
-            cardamom-infused st-germain
-            st-germain
-        st. elizabeth allspice dram liqueur
         st. george nola coffee liqueur
         st. george raspberry liqueur
-        st. george spiced pear liqueur
-        st. germain elderflower liqueur
-        st. germain liqueur
         stoupakis homeric mastiha liqueur
         strawberry liqueur
         suze d’autrefois liqueur
@@ -441,7 +460,6 @@
         tuaca
             tuaca liqueur
         umenoyado yuzu shu liqueur
-        vanilla liqueur
         varnelli l’anice secco speciale liqueur
         falernum
             house-made falernum
@@ -452,7 +470,6 @@
         wild sardinia mirto liqueur
         xila licor de agave liqueur
         yuzuri liqueur
-        zirbenz stone pine liqueur
         zoco pacharán navarro liqueur
         chartreuse
             green chartreuse
@@ -470,9 +487,6 @@
             caffo amaretto
             lazzaroni amaretto
             luxardo amaretto
-        allspice dram
-            the bitter truth pimento dram
-        tempus fugit crème de banane
         tempus fugit crème de cacao
         tempus fugit crème de menthe
         tempus fugit crème de noyaux
@@ -494,10 +508,6 @@
         bénédictine
         crème de cacao, teardrop's diy recipe
         mathilde poire
-        crème de cacao
-        marie brizard white crème de cacao
-        giffard crème de cacao
-        white crème de cacao
     VERMOUTH
         priorat natur vermut
         lustau vermut blanco
@@ -617,6 +627,7 @@
         cola lustau rosé vermut
     AMARO
         luxardo bitter rosso
+        cardamaro liqueur
         luxardo bitter bianco
         st. george bruto americano
         vittone fernet menta
@@ -731,6 +742,26 @@
             templeton rye
             wild turkey 101 rye
             wild turkey rye
+            bulleit rye whiskey
+            chamomile-infused old overholt rye whiskey
+            chamomile-infused rye whiskey
+            cody road rye whiskey
+            high west rendezvous rye whiskey
+            high-proof rye whiskey
+            jack daniel’s single barrel rye whiskey
+            mitcher’s us*1 kentucky straight rye whiskey
+            old overholt 5-year rye whiskey - 1940s
+            old overholt rye whiskey
+            old overholt rye whiskey whiskey
+            old overholt straight rye whiskey
+            overproof rye whiskey
+            pikesville straight rye whiskey
+            rittenhouse 100 rye whiskey
+            rittenhouse bottled in bond rye whiskey
+            rittenhouse rye whiskey
+            straight rye whiskey
+            wild turkey 101 rye whiskey
+            woodford reserve rye whiskey
         SCOTCH
             johnnie walker gold reserve
             compass box orangerie
@@ -942,13 +973,9 @@
             barrell dovetail whiskey
         barrell whiskey batch 004
         bernheim wheat whiskey
-        bulleit rye whiskey
         bushmills irish whiskey
         canadian whiskey or rye
-        chamomile-infused old overholt rye whiskey
-        chamomile-infused rye whiskey
         clontarf 1014 irish whiskey
-        cody road rye whiskey
         connemara peated single malt irish whiskey
         death’s door white whiskey
         del bac distiller's cut single malt whiskey
@@ -956,15 +983,12 @@
         george dickel no. 1 white corn whiskey
         grilled apricot-infused irish whiskey
         high west campfire whiskey
-        high west rendezvous rye whiskey
         high west silver oat whiskey
         high west silver western oat whiskey
         high west silver whiskey western oat
         high west western oat silver whiskey
-        high-proof rye whiskey
         irish whiskey
         j. rieger kansas city whiskey
-        jack daniel’s single barrel rye whiskey
         jameson black barrel blended irish whiskey
         jameson black barrel irish whiskey
             hibiscus-infused jameson black barrel
@@ -995,34 +1019,19 @@
         kilbeggan irish whiskey
         knappogue castle 12-year irish whiskey
         mellow corn whiskey
-        mitcher’s us*1 kentucky straight rye whiskey
         navazos palazzi overseas malt whiskey
         oated whiskey
-        old overholt 5-year rye whiskey - 1940s
-        old overholt rye whiskey
-        old overholt rye whiskey whiskey
-        old overholt straight rye whiskey
-        overproof rye whiskey
         peach whiskey
-        pikesville straight rye whiskey
         pineapple-infused dead rabbit whiskey
         redbreast 12-year irish whiskey
-        rittenhouse 100 rye whiskey
-        rittenhouse bottled in bond rye whiskey
-        rittenhouse rye whiskey
         rye or canadian whiskey
-        rye whiskey    
-        rye whiskey, preferably rittenhouse
         salted butter-washed whiskey    
-        straight rye whiskey
         suntory hakushu 12-year whiskey
         tullamore d.e.w. irish whiskey
         tyrconnell single-malt irish whiskey
         whiskey
         whiskey, preferably yamazaki 12-year single malt or rittenhouse 100-proof rye
-        wild turkey 101 rye whiskey
         wine-glass of whiskey
-        woodford reserve rye whiskey
         wyoming whiskey
         yamazaki 12-year whiskey
         corn whiskey
@@ -1040,10 +1049,12 @@
         north shore distillery aquavit
         o.p. anderson aquavit
         svol aquavit
-        svöl swedish style aquavit
+            svöl swedish style aquavit
         unaged aquavit
         krogstad aquavit
     BRANDY
+        singani 63
+        singani        
         rhine hall la normande
         rhine hall la normande pommeau
         cat bran
@@ -1492,7 +1503,6 @@
         rooibos tea syrup
         rosemary simple syrup
         rosemary syrup
-        rye whiskey syrup
         sage and green tea syrup
         sage beer syrup
         sage syrup
@@ -1548,6 +1558,7 @@
         yuzu-lemon sherbet syrup
         zunda syrup
         fuji apple-maple sherbet
+        rye whiskey syrup
         cordials
             apple cordial
             finger lime coconut cordial
@@ -1973,6 +1984,13 @@
         suntory roku gin
         truffled gin
         earl grey gin
+    GENEVER
+        bols genever
+            grilled pineapple-infused bols genever
+        bols barrel-aged genever
+        old duff dutch genever
+        old duff genever single malt
+        rutte old simon genever
     TEQUILA
         cielo rojo bacanora
         blanco tequila
@@ -3096,13 +3114,6 @@
         williams & humbert dry sack sherry
         zurbaran cream sherry
         manzanilla la gitana en rama
-    GENEVER
-        bols genever
-            grilled pineapple-infused bols genever
-        bols barrel-aged genever
-        old duff dutch genever
-        old duff genever single malt
-        rutte old simon genever
     SUGAR
         confectioners' sugar
         brown sugar
