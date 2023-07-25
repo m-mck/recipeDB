@@ -3,10 +3,12 @@ recipes:
 
 #
   - name: 
+    author: 
+    url: 
     notes: 
-    ingredients: 
-    - 
-    - 
+    ingredients:
     - 
     steps:
+    - 
+    tags:
     - 

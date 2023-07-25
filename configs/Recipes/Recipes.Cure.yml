@@ -321,7 +321,7 @@ recipes:
       - manhattans
       - manhattan
       - stirred
-  - name: Ceasse and Desist
+  - name: Cease and Desist
     author: Maksym Pazuniak
     notes: "Here’s another inverted Manhattan variation that I love because it’s a showcase for so many of the ingredients we were obsessed with when we first opened Cure. First there’s the bitter, orange-scented aperitivo Punt e Mes, which we were intrigued by because of the way it straddles the vermouth and amaro categories. Then there’s the rye, an ingredient that is integral to many classic New Orleans cocktails but had completely fallen out of favor after Prohibition and was only just creeping back into the marketplace seventy-five years later. Last there’s Fernet-Branca, an aggressively bitter liqueur that some people hate but that bartenders love to order to prove their bona fides. (Ordering a shot of Fernet used to be called the “bartender’s handshake.”) As far as the name is concerned: Kirk and Maks wrote and self-published a cocktail book in 2009 called Rogue Cocktails that became a kind of underground hit among cocktail aficionados. Unfortunately, the Oregon-based craft brewery Rogue wasn’t such a fan of the title. At least Maks got a good drink name out of their cease-and-desist letter."
     ingredients:
@@ -452,8 +452,8 @@ recipes:
 
 #Chapter 3: Martinis
   - name: Dauphine’s Martini
-    author: "My go-to martini order is actually an inverted martini. I’m kind of a lightweight (and not trying to win any races to the bottom of the bottle), so a standard martini has the tendency to knock me on my ass. At our Washington, D.C., restaurant, Dauphine’s, we serve what I like to think of as an inverted-plus martini: two parts vermouth, one part gin, but with a navy-strength gin to give it a bit more oomph. We spritz the glass with anise to give it that extra New Orleansy touch. That may seem sacrilegious to martini purists, but in fact, martinis were often “improved” with absinthe in the early 1900s, so it’s not such a historical anomaly."
-    notes: 
+    author: 
+    notes: "My go-to martini order is actually an inverted martini. I’m kind of a lightweight (and not trying to win any races to the bottom of the bottle), so a standard martini has the tendency to knock me on my ass. At our Washington, D.C., restaurant, Dauphine’s, we serve what I like to think of as an inverted-plus martini: two parts vermouth, one part gin, but with a navy-strength gin to give it a bit more oomph. We spritz the glass with anise to give it that extra New Orleansy touch. That may seem sacrilegious to martini purists, but in fact, martinis were often “improved” with absinthe in the early 1900s, so it’s not such a historical anomaly."
     ingredients:
     - 4 spritzes Herbsaint
     - 1 ounce (30 ml) Plymouth navy-strength gin

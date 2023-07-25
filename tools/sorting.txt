@@ -1809,7 +1809,7 @@
         compressed pear cubes
     SODAS 
         spuma paoletti
-        ice-cold root beer
+        root beer
         mineral water
             topo chico sparkling mineral water
         sparkling water
@@ -1861,20 +1861,17 @@
                 doc’s hard pear cider
                 eric bordelet poire authentique
         apple celery soda
-        chilled soda water
         soda water
         bubbly water
         calpico
             calpico concentrate
-        chilled dry lime soda
+        chilled DRY lime soda
         dry blood orange soda
         dry rhubarb soda
         dry vanilla soda
         Fever-Tree Bitter Lemon soda
-        san bitter or other nonalcoholic red bitter soda
         sanbitter
         cold homemade grapefruit soda
-        grapefruit soda
         san pellegrino pompelmo grapefruit soda
         grapefruit soda
         cold seltzer

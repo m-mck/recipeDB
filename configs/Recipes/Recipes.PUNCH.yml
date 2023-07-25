@@ -468,13 +468,26 @@ recipes:
     - citrus
     - frozen
     - margarita
-  - name: 
-    author: 
-    url: 
-    notes: 
+  - name: Flaming Jäger
+    author: Dave Arnold
+    url: https://punchdrink.com/recipes/flaming-jager/
+    notes: “Jagermeister is nice burned,” says Dave Arnold. “A lot of bitter liqueurs are nice when they are burned.” For this drink, he applies a flame to caramelize the sugar in the liqueur as well as to heat it, yielding a warming, gently spiced drink.
     ingredients:
-    - 
+    - 2 teaspoons sugar
+    - 2 ounces Jägermeister
+    - 1/4 ounce lemon juice
+    - 1 pinch salt
+    - 2 ounces water
+    - orange twist
     steps:
-    - 
+    - Heat sugar in a saucepan, until caramelized.
+    - Add Jägermeister, lemon juice and salt to pan.
+    - Use a long-handled match or kitchen torch to apply flame to the contents of the pan; it should catch fire.
+    - Add water, dousing the fire. Add more water if needed to extinguish the flame.
+    - Scrape the insides of the pan and briefly stir to combine.
+    - Pour into mug and garnish with orange twist.
     tags:
-    - 
+    - flame
+    - heated
+    - stirred
+    - existing conditions

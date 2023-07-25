@@ -61,6 +61,9 @@ recipes:
   - name: Banana Chip-Infused Gosling's Black Seal Rum
     steps: In a container, combine 3 cups of banana chips and one 1-liter bottle of Gosling’s Black Seal rum and stir well. Let stand at room temperature for 24 hours, stirring occasionally. Strain through a cheesecloth-lined sieve, return to the container, and refrigerate overnight. Strain through a cheesecloth-lined fine-mesh sieve.
   - name: Dried Currant-Infused Wild Turkey Rye
+    ingredients:
+        - 3 cups dried currants
+        - One 750-ml bottle of Wild Turkey Rye
     steps: In a container, combine 3 cups of dried currants and one 750-ml bottle of Wild Turkey Rye and stir well. Let stand at room temperature for 48 hours, stirring daily. Strain through a cheesecloth-lined sieve.
   - name: Fig-Infused Elijah Craig Bourbon
     steps: In a container, muddle 4 fresh figs. Add one 750-ml bottle of Elijah Craig 12-year bourbon and stir well. Let stand for 1 hour, stirring occasionally. Strain through a cheesecloth-lined sieve.
@@ -69,7 +72,7 @@ recipes:
   - name: Granny Smith Apple-Infused Rhum Barbancourt
     steps: In a container, combine 4 coarsely chopped Granny Smith apples (cores, peels, and all) and one 750-ml bottle of Barbancourt white rum and stir well. Let stand at room temperature for 1 week, stirring daily. Strain through a cheesecloth-lined sieve.
   - name: Grapefruit-Infused Punt e Mes
-    steps: In a container, combine the zest of 2 Ruby Red grapefruits and one 750-ml bottle of Punt e Mes and stir well. Cover and refrigerate for 24 hours. Strain through a fine-mesh sieve.
+    steps: In a container, combine the zest of 2 ruby red grapefruits and one 750-ml bottle of Punt e Mes and stir well. Cover and refrigerate for 24 hours. Strain through a fine-mesh sieve.
   - name: Pineapple-Infused Flor de Caña Extra-dry White Rum
     steps: In a container, combine 3 cups of cubed pineapple and one 750-ml bottle of Flor de Caña extra-dry white rum and stir well. Cover and refrigerate for 5 days, stirring daily. Strain through a cheesecloth-lined sieve.
   - name: Spiced Pear-Infused Siembra Azul Blanco Tequila
@@ -136,7 +139,7 @@ recipes:
     ingredients: 
     - 2 parts grapefruit juice (preferably from ruby red grapefruits)
     - 1 part cinnamon bark syrup    
-  - name: Donn's Spices #2
+  - name: Donn's Spices No. 2
     ingredients: 
     - 1 part vanilla syrup
     - 1 part St. Elizabeth Allspice Dram   

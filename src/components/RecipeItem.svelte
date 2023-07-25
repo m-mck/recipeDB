@@ -14,6 +14,11 @@
 	export let tags = [];
 	export let current = "";
 	export let isOpen = false;
+	export let isPinned = false;
+
+	function togglePin() {
+		isPinned = !isPinned
+	}
 </script>
 
 <div class="{isOpen ? 'item-expanded' : 'item'}">
@@ -21,10 +26,13 @@
 		<!-- Stuff shown even when section is folded (because it's inside <summary>)-->
 		<summary>
 			<Header title="Recipe Name" content={name ?? "Untitled Drink"}/>
+			<button type="button" on:click={togglePin}>
+				<i class="{isPinned ? 'bi bi-heart-fill' : 'bi bi-heart'}"></i>
+				<!-- bonus fun for silly beans{isPinned === true ? 'hooray!' : 'no good!'}-->
+			</button>
 			<ParagraphNoBreak title="Author:" optional={true} content={author}/>
 			<List title="Ingredients" ordered={false} optional={false} content={ingredients ?? [ "No ingredients listed" ]}/>
 		</summary>
-
 		<!-- Stuff hidden when section is folded -->
 		<List title="Steps" ordered={true} optional={true} content={steps}/>
 		<Paragraph title="Notes" optional={true} content={notes}/>
@@ -53,6 +61,16 @@
 		width: 95%;
 		overflow-wrap:normal;
 	}
+	.header {
+		margin-bottom: 8px;
+		margin-top: 8px;
+		margin-left: 8px;
+		margin-right: 8px;
+		width: 70%;
+		display: inline-block;
+		overflow-y:auto;
+		/* font-family:'Libre Caslon Text'; */	
+	}
 	.item-expanded {
 		border: 1px solid;
 		border-color: #b5b5b5;
@@ -66,4 +84,11 @@
 		overflow-y:auto;
 		/* font-family:'Libre Caslon Text'; */
 	}
+	/* button css things
+	.button{
+		xxxxx
+		is-pinned/etc ---- sim 2 is-expanded etc
+		<div class="{isPinned ? 'hooray!' : 'no good!'}">
+	} 
+	*/
 </style>

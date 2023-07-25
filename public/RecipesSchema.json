@@ -42,7 +42,9 @@
           "The Dead Rabbit Drinks Manual: Secret Recipes and Barroom Tales From Two Belfast Boys Who Conquered the Cocktail Workd",
           "Modern Classic Cocktails",
           "The Drunken Botanist",
-          "I'm Just Here for the Drinks"
+          "I'm Just Here for the Drinks",
+          "The Dead Rabbit",
+          "Epicurious"
         ]
       },
       "recipes": {
@@ -230,7 +232,8 @@
                     "aki: autumn",
                     "fuyu: winter",
                   "freezer bar",
-                  "hunt + alpine club"
+                  "hunt + alpine club",
+                  "existing conditions"
                 ]
               }
             }
