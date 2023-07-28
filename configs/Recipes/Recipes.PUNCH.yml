@@ -491,3 +491,19 @@ recipes:
     - heated
     - stirred
     - existing conditions
+  - name: Nuclear Daiquiri
+    author: Gregor de Gruyther
+    url: https://punchdrink.com/recipes/nuclear-daiquiri/
+    notes: Spawned in the late aughts at LAB—London’s influential high-energy, high-volume bar—this spin on a classic has had a cult following since its creation in 2005. More recently, the drink has united online cocktail enthusiasts who are in search of the best substitute for green Chartreuse, the drink’s key ingredient, which has become increasingly scarce. 
+    ingredients:
+    - 1 ounce overproof unaged Jamaican rum, preferably Wray & Nephew
+    - 1 ounce lime juice
+    - 3/4 ounce green Chartreuse
+    - 1/4 ounce falernum
+    steps:
+    - Combine all ingredients in a cocktail shaker with ice and shake until chilled.
+    - Strain into a coupe or cocktail glass.
+    tags:
+    - shaken
+    - daiquiri
+    - citrus

@@ -14,10 +14,12 @@
 	export let tags = [];
 	export let current = "";
 	export let isOpen = false;
-	export let isPinned = false;
+	export let onPinnedChanged;
+	export let isPinned;
 
 	function togglePin() {
-		isPinned = !isPinned
+		isPinned.update((v) => !v);
+		onPinnedChanged($isPinned);
 	}
 </script>
 
@@ -27,8 +29,8 @@
 		<summary>
 			<Header title="Recipe Name" content={name ?? "Untitled Drink"}/>
 			<button type="button" on:click={togglePin}>
-				<i class="{isPinned ? 'bi bi-heart-fill' : 'bi bi-heart'}"></i>
-				<!-- bonus fun for silly beans{isPinned === true ? 'hooray!' : 'no good!'}-->
+				<i class="{$isPinned ? 'bi bi-heart-fill' : 'bi bi-heart'}"></i>
+				<!-- bonus fun for silly beans: {isPinned === true ? 'hooray!' : 'no good!'}-->
 			</button>
 			<ParagraphNoBreak title="Author:" optional={true} content={author}/>
 			<List title="Ingredients" ordered={false} optional={false} content={ingredients ?? [ "No ingredients listed" ]}/>

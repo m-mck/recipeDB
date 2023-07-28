@@ -6,23 +6,42 @@
 	import Sidebar from './elements/Sidebar.svelte';
 	import CheckboxTree from './elements/CheckboxTree.svelte';
 	import { initCheckboxTree } from './elements/createCheckboxTree.js';
+  	import { get, writable } from 'svelte/store';
+
 	let searchTerm = "";
 	let recipes = [];
+	let pinnedRecipes = new Set();
 	
-	async function loadRecipes(configFileName) {
-		const response = await fetch(configFileName) // Load the config file
-		const responseText = await response.text();
-		const configObject = yaml.load(responseText);
-		
-		const recipesSource = configObject.source; // Grab the "source:" string from the config object
-		for (let recipe of configObject.recipes) {
-			recipe["source"] = recipesSource; // Assign it to each recipe, so it can be used later
+	$: lowercaseSearchTerm = searchTerm.toLocaleLowerCase('en-US');
+	$: filteredRecipes = recipes.filter((recipe) => {
+		if (get(recipe.isPinned)) {
+			return false;
 		}
-		
-		// Set recipes equal to a list containing all the elements already within
-		// recipes, and all of the elements within configObject.recipes
-		recipes = [...recipes, ...configObject.recipes];
-	}
+		if (!lowercaseSearchTerm) {
+			return true;
+		}
+		if (recipe.name != null && recipe.name.toLocaleLowerCase('en-US').includes(lowercaseSearchTerm)) {
+			return true;
+		}
+		if (recipe.author != null && recipe.author.toLocaleLowerCase('en-US').includes(lowercaseSearchTerm)) {
+			return true;
+		}
+		if (recipe.ingredients) {
+			for (let item of recipe.ingredients) {
+				if (item != null && item.toLocaleLowerCase('en-US').includes(lowercaseSearchTerm)) {
+					return true;
+				}
+			}
+		}
+		if (recipe.tags) {
+			for (let item of recipe.tags) {
+				if (item != null && item.toLocaleLowerCase('en-US').includes(lowercaseSearchTerm)) {
+					return true;
+				}
+			}
+		}
+		return false;
+	})
 	
 	onMount(() => {
 		fetch("recipes.json").then((value) => value.text()).then((text) => {
@@ -39,6 +58,16 @@
 					for (let field in globals) {
 						recipe[field] = globals[field];
 					}
+					recipe["isPinned"] = writable(false);
+					recipe["onPinnedChanged"] = (isPinned) => {
+						if (isPinned) {
+							pinnedRecipes.add(recipe);
+							pinnedRecipes = pinnedRecipes;
+						} else {
+							pinnedRecipes.delete(recipe);
+							pinnedRecipes = pinnedRecipes;
+						}
+					};
 					recipes.push(recipe);
 				}
 			}
@@ -84,9 +113,8 @@
 		<h1>What's on the menu?</h1>
 		<Search bind:value={searchTerm}></Search>
 		<span>Number of recipes: {recipes.length}</span>
-		<div style="display:block">
-			<RecipeList {recipes} {searchTerm}/>
-		</div>
+		<RecipeList recipes={[...pinnedRecipes.values()]}/>
+		<RecipeList recipes={filteredRecipes}/>
 	</div>
 </div>
 
