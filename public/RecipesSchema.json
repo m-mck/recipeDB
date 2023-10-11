@@ -42,9 +42,6 @@
           "The Dead Rabbit Drinks Manual: Secret Recipes and Barroom Tales From Two Belfast Boys Who Conquered the Cocktail World",
           "Modern Classic Cocktails",
           "The Drunken Botanist",
-<<<<<<< Updated upstream
-          "I'm Just Here for the Drinks"
-=======
           "I'm Just Here for the Drinks",
           "The Dead Rabbit",
           "Epicurious",
@@ -56,7 +53,6 @@
           "The Maison Premiere Almanac: Cocktails, Oysters, Absinthe, and Other Essential Nutrients for the Sensualist, Aesthete, and Flaneur",
           "The Martini Cocktail: A Meditation on the World's Greatest Drink, With Recipes",
           "The Craft Cocktail Party: Delicious Drinks for Every Occasion"
->>>>>>> Stashed changes
         ]
       },
       "recipes": {
@@ -247,10 +243,6 @@
                     "aki: autumn",
                     "fuyu: winter",
                   "freezer bar",
-<<<<<<< Updated upstream
-                  "hunt + alpine club"
-                ]
-=======
                   "hunt + alpine club",
                   "existing conditions",
                   "clover club",
@@ -301,7 +293,6 @@
                       "the craft cocktail party: cinco de mayo",
                       "the craft cocktail party: derby day"
                 ]   
->>>>>>> Stashed changes
               }
             }
           }

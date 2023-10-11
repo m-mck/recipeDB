@@ -21,3 +21,5 @@ things to do!
         [ ] 
 
 svelte repl -> shows u what code will do
+
+add 

@@ -152,9 +152,6 @@ categorize tags (currently include methods, types, bars, classics, etc; would li
 
 "index", in which ingredients are shown; maybe w/ descriptions & "used in <x> many recipes / used in <x>"?
 
-<<<<<<< Updated upstream
-tsp-tbsp? batching up
-=======
 tsp-tbsp? batching up
 
 checkboxes: 
@@ -213,4 +210,3 @@ lookup: call object and get key
 ----
 
 array; gather inputs based on selection; submit 2 search w/ AND
->>>>>>> Stashed changes

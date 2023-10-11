@@ -414,26 +414,6 @@ recipes:
     - sours
     - citrus
     - hunt + alpine club
-<<<<<<< Updated upstream
-  - name: The Black Stallion Sets Sail
-    author: John Parra & Kyle Hankin
-    url: https://punchdrink.com/recipes/the-black-stallion-sets-sail/
-    notes: "Consider this a neo-tiki Negroni, with blackstrap rum and Ferrari (Fernet mixed with Campari) taking the place of traditional gin and Campari. Part of the Autostrada menu at Fox Liquor Bar, this drink was inspired by Giuseppe Gonzalez‘s revamp of the Jungle Bird. The blackstrap rum gives it a rich, molasses-y spice, while the Ferrari offers herbal bitterness."
-    ingredients:
-    - 3 drops saline solution (Add 1/2 ounce kosher salt to 2 ounces of water and stir until dissolved)
-    - 1 ounce Cocchi di Torino
-    - 1 ounce Ferrari (1:1, Fernet-Branca:Campari)
-    - 1 ounce blackstrap rum, preferably Cruzan
-    - "Garnish: 1 orange twist"
-    steps:
-    - In a mixing glass, combine the saline, Cocchi, Ferrari and rum. Add one large cube of ice and stir until very cold.
-    - Strain into a rocks glass over large cube of ice. Garnish with orange twist and serve.
-    tags:
-    - stirred
-    - negroni
-    - fox liquor bar
-   - name: 
-=======
   - name: Jägerita
     author: David Cordoba
     url: https://punchdrink.com/recipes/jagerita-2/
@@ -890,11 +870,14 @@ recipes:
     - 5 basil leaves
     - "Garnish: basil leaf"
     steps:
+    - Muddle the basil leaves in the bottom of a cocktail shaker.
+    - Add all other ingredients and ice.
+    - Shake until chilled, about 15 seconds.
+    - Fine strain into a chilled coupe and garnish with a basil leaf.
+    tags:
     - shaken
     - citrus
     - gimlet
-    tags:
-    - 
   - name: Long Island Bar Gimlet
     author: Toby Cecchini
     url: https://punchdrink.com/recipes/long-island-bar-gimlet/
@@ -1139,51 +1122,28 @@ recipes:
     - stirred
     - citrus
   - name: Piña Colada Milk Punch
->>>>>>> Stashed changes
     author: 
-    url: 
-    notes: 
+    url: https://punchdrink.com/recipes/pina-colada-milk-punch/
+    notes: How do you take a drink whose essence relies on both a beach and a blender and make it the sort of drink you’d sip near the fire? The Piña Colada so singularly symbolizes summer it seems an almost impossible feat to make it winter appropriate. Almost. This here Piña Colada Milk Punch maintains the essence of the drink’s tropical spirit with coconut water, pineapple juice, rum (and velvet falernum for extra credit), but it’s transformed by adding scalded milk, clarifying the mixture with a cheese cloth and then ladling it, punch-style, on the rocks. Serves 8-10.
     ingredients:
-    - 
+    - 14 ounces aged rum, preferably Plantation 5-Year
+    - 8 ounces coconut water
+    - 4 ounces velvet falernum
+    - 1 ounce demerara syrup (1:1, sugar:water)
+    - 4 ounces pineapple juice
+    - 3 ounces lime juice
+    - 6 ounces milk
+    - "Garnish: pineapple slice, maraschino cherry"
     steps:
-    - 
+    - Pour the rum, coconut water, Velvet falernum, pineapple juice, lime juice, and demerara syrup into a heatsafe mixing bowl.
+    - Over medium-low heat, heat the milk in a saucepan, stirring continuously until the milk begins to bubble around the edges (taking care not to let it boil).
+    - Add the milk to the mixing bowl, stir until it begins to coagulate, and let the mixture sit for 15 minutes.
+    - Strain through a cheesecloth or coffee filter until the mixture is clarified.
+    - Ladle into cups over ice, and garnish with a cherry, pineapple slice, or both.
     tags:
-    - 
-      - name: 
-    author: 
-    url: 
-    notes: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - 
-      - name: 
-    author: 
-    url: 
-    notes: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - 
-      - name: 
-    author: 
-    url: 
-    notes: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-<<<<<<< Updated upstream
-    - 
-       
-=======
     - stirred
-    - manhattan
+    - citrus
+    - punch
   - name: Smooth as Butter
     author: Daniel Villa
     url: https://punchdrink.com/recipes/smooth-as-butter/
@@ -1341,4 +1301,3 @@ recipes:
     tags:
     - stirred
     - manhattan
->>>>>>> Stashed changes
