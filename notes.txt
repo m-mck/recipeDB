@@ -153,3 +153,60 @@ categorize tags (currently include methods, types, bars, classics, etc; would li
 "index", in which ingredients are shown; maybe w/ descriptions & "used in <x> many recipes / used in <x>"?
 
 tsp-tbsp? batching up
+
+checkboxes: 
+	overflow-y: scroll;
+
+
+recipe items of <x> size
+when you click on them, increase <x> to <y> and add add'l metadata
+click again -> return to orig. size
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/border-style
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout/Block_and_Inline_Layout_in_Normal_Flow
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout/Flow_Layout_and_Overflow
+
+html > content
+css > layout & theming
+
+pick a width for the sidebar
+
+----
+
+PREP METHOD / STYLE:
+
+    shaken 
+    stirred
+    heated
+    caffeinated
+    room temperature
+    freezer bar
+
+SOURCE:
+
+    PUNCH  
+    Amaro
+    Bitters
+
+----
+
+"svelte conditional classes"
+
+"css click event"
+
+https://stackoverflow.com/questions/14319274/change-css-properties-on-click
+
+when click on item, expand down to next row to keep others in spot? (?)
+
+----
+
+object -> each key = unicode; other side (value) = fraction
+lookup: call object and get key
+
+----
+
+"show up only when X" -> "conditional <x> (div, style, etc.)"
+
+----
+
+array; gather inputs based on selection; submit 2 search w/ AND

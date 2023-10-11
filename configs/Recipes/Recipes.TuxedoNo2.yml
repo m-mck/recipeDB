@@ -1,0 +1,22 @@
+source: "Tuxedo No. 2"
+recipes:
+
+#
+  - name: Scorched Earth
+    author: Nicholas Hearin
+    url: https://tuxedono2.com/scorched-earth-cocktail-recipe
+    notes: "The scorched earth is a wild and daring twist on the Negroni. It was created by Nicholas Hearin at Restaurant Eugene, before getting broader attention through an article written by Gary “Gaz” Regan for the SF Gate in 2007. The article is a bit weird and rambly, but does include the oldest version of this recipe we could track down. Gaz did not include it in his now-classic The Joy of Mixology from 2004, or even more curiously, as one of the sixty-some Negroni variations published in his 2013 book The Negroni (it must have been edged out by the Negroni popsicle or Negroni popcorn). More recently, folks have swapped out the brandy base of this drink with mezcal. We aren’t sure exactly when this change occurred, but it was a wise move: the spirit's sweet and smoky nose makes hay with the orange peel and Campari. Even better, the adventurous Oaxacan spirit slots in perfectly with the recipe’s bold, mysterious name. Cynar is the backbone of this drink—and an amazing choice—but we’re going to make a bold proclamation: we think it’s better with Zucca. If you have this offbeat Italian aperitif lying around, give it a shot. The rhubarb works well with the fruity nose, and the smoky finish adds a head-turning layer of complexity. On the whole, it’s a blazingly bitter drink that dutifully explores deep, bold, and fruity flavors. Give it a try on a night when subtlety sounds like a loser’s game. You won’t be disappointed."
+    ingredients:
+    - 1 oz. mezcal
+    - 1 oz. Cynar (classic) or Zucca
+    - 1 oz. Campari
+    - 2 dashes orange bitters
+    - "Garnish: 1 orange peel"
+    steps:
+    - Combine all ingredients with ice in a mixing glass and stir.
+    - Strain into a double rocks glass over ice.
+    - Flame orange peel and garnish.
+    tags:
+    - flame
+    - stirred
+    - negroni
