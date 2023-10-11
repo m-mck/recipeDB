@@ -1,0 +1,120 @@
+source: Imbibe
+recipes:
+
+#
+  - name: Bala de Canon
+    author: Bobby Heugel
+    url: https://imbibemagazine.com/recipe/bala-de-canon-cocktail/
+    notes: In this cantaloupe cocktail from Houston bartender Bobby Heugel, melons blend beautifully with the flavor of tequila (Heugel recommends using the higher-proof Tequila Cabeza), and the chia-seed and cantaloupe garnish reflects a traditional combination in regions of Mexico.
+    ingredients:
+    - 2 oz. blanco tequila
+    - 1 oz. cantalope purée
+    - 1/2 oz agave nectar
+    - 1/4 oz fresh lemon juice
+    - "Garnish: 2 cantaloupe balls on a skewer, dusted with chia seeds"
+    steps:
+    - Shake ingredients with ice and strain into a rocks glass filled with fresh ice. Garnish.
+    tags:
+      - shaken
+      - citrus
+  - name: Melones con Ají
+    author: Greg Hoitsma
+    url: https://imbibemagazine.com/recipe/melones-con-aji/
+    notes: Fresh citrus, cucumber, and melon playing off the savory notes of paprika and cayenne in this summery gin cocktail.
+    ingredients:
+    - 1 1/2 oz. Hendricks gin
+    - 2 oz. cantaloupe purée
+    - 1 oz. lime juice
+    - 1 1/2 tbsp. baker's sugar
+    - 1 oz. cucumber water
+    - "Garnish: lime zest, paprika, and cayenne"
+    steps:
+    - Combine first 4 ingredients in a shaker and shake to chill. 
+    - Float the cucumber water on top and dust with lime zest and a mix of paprika and cayenne pepper.
+    tags:
+      - shaken
+      - citrus
+  - name: Cantaloupe Sbagliato
+    author: Rick Nani
+    url: https://imbibemagazine.com/recipe/cantaloupe-sbagliato/
+    notes: Who says a Sbagliato can't be seasonal? At Cecconi's in Miami Beach, fresh cantaloupe brings a summery flavor to the Negroni riff.
+    ingredients:
+    - 1 oz. Aperol
+    - 1 oz. blanc vermouth
+    - 1 oz. cantaloupe juice
+    - Prosecco, to top
+    - "Garnish: cantaloupe spear and mint sprig"
+    steps:
+    - Combine the first 3 ingredients in a shaker with ice and shake to chill. Strain into a wine glass over fresh ice. Stir briefly to incorporate. Top with sparkling wine and garnish.
+    tags:
+      - sparkling
+      - negroni
+  - name: Satold Ya So
+    author: Chloe Fisher
+    url: https://imbibemagazine.com/recipe/sotold-ya-so-sotol-cocktail/
+    notes: Two types of sotol—aged and unaged—create a complex base in this recipe from Rules & Regs in Austin. “Cantaloupe juice lengthens the cocktail and plays into the tropical notes of the sotol, while the lime and agave nectar balance it out with acidity and sweetness,” says bartender Chloe Fisher.
+    ingredients:
+    - 3/4 oz. unaged sotol
+    - 3/4 oz. añejo sotol 
+    - 1/2 oz. yellow Chartreuse
+    - 1 oz. cantaloupe juice
+    - 1/2 oz. fresh lime juice
+    - 1/4 oz. agave nectar
+    - "Garnish: cantaloupe on a pick dusted with tajin"
+    steps:
+    - Add all the ingredients to a shaker, fill with ice and shake vigorously. 
+    - Strain into a rocks glass, fill with crushed ice and garnish.
+    tags:
+      - shaken
+      - citrus
+      - margarita
+  - name: Cantaloupe Paloma
+    author: Leo Robitschek
+    url: https://imbibemagazine.com/recipe/cantaloupe-paloma/
+    notes: Leo Robitschek, beverage director of Brooklyn’s rooftop bar elNico, found inspiration for his Cantaloupe Paloma during a trip to Spain. Who knew a simple salad with cantaloupe and jamón ibérico “that was surprisingly fresh and delicious” would resonate as much as it did? “When I got back home, I started playing with mezcal and cantaloupe, creating the Paloma,” Robitschek says. He captures the essence of summer by using cantaloupe juice and the soft floral notes from jasmine-infused agave syrup.
+    ingredients:
+    - 1 oz. Los 7 Misterios Doba Yej mezcal
+    - 3/4 oz. Jasmine-Infused Agave syrup.
+    - 3/4 oz. lemon juice
+    - 1 1/2 oz. cantaloupe juice
+    - 5 oz. club soda
+    steps:
+    - Salt the rim of a glass, fill with ice, and set aside. 
+    - In a shaker, combine all of the ingredients except the club soda, add ice, then shake vigorously. 
+    - Add the club soda to the shaker, then pour the cocktail into the prepared glass.
+    tags:
+      - shaken
+      - citrus
+  - name: The Departed
+    author: Sandy De Almeida
+    url: https://imbibemagazine.com/recipe/rum-cocktail-the-departed/
+    notes: This rum cocktail from Sandy De Almeida’s home bar in Toronto is bittersweet, with a touch of smoke.
+    ingredients:
+    - 1 oz. El Dorado 12-Year-Old Rum
+    - 1 oz. Campari
+    - 3/4 oz. Averna
+    - 1/2 oz. Enmascarado mezcal
+    - 1 dash Peychaud's bittersweet
+    - "Garnish: orange twist"
+    steps:
+    - Stir all the ingredients with ice to chill, then strain into an ice-filled glass. Garnish.
+    tags:
+      - stirred
+      - negroni
+  - name: Squeaky Wheel
+    author: Nicholas Bennett
+    url: https://imbibemagazine.com/recipe/squeaky-wheel-mezcal-negroni/
+    notes: “The squeaky wheel gets the oil, my father always used to tell me. This cocktail demands that level of attention,” says Nicholas Bennett of Cedric’s at the Shed of this Mezcal Negroni. “I enjoy the combination of coffee and bitters, and I will occasionally add a touch of Angostura to my coffee in the morning, so the blend of St. George NOLA Coffee Liqueur and Campari was almost a no-brainer when I was developing this Negroni variation. The splash of amaretto really rounds out the cocktail.”
+    ingredients:
+    - 1 oz. Mezcal
+    - 1 oz. Campari
+    - 3/4 oz. coffee Liqueur
+    - 1/4 oz. amaretto
+    - 2 dashes Angostura bitters
+    - "Garnish: orange twist"
+    steps:
+    - Stir all the ingredients together in a mixing tin with ice, then strain into a rocks glass over fresh ice.
+    - Express the oils of the orange peel over the top of the drink and use as a garnish.
+    tags:
+      - stirred
+      - negroni

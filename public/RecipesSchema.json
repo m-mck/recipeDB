@@ -44,7 +44,9 @@
           "The Drunken Botanist",
           "I'm Just Here for the Drinks",
           "The Dead Rabbit",
-          "Epicurious"
+          "Epicurious",
+          "Tavern Law",
+          "Imbibe"
         ]
       },
       "recipes": {
@@ -233,7 +235,13 @@
                     "fuyu: winter",
                   "freezer bar",
                   "hunt + alpine club",
-                  "existing conditions"
+                  "existing conditions",
+                  "clover club",
+                  "the violet hour",
+                  "dante",
+                  "leyenda",
+                  "gimlet",
+                  "maison premiere"
                 ]
               }
             }

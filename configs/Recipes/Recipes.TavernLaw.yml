@@ -1,0 +1,104 @@
+source: "Tavern Law"
+recipes:
+
+#
+  - name: Needle & Thread No. 1
+    author: 
+    year: 2023
+    notes: Served to Michael.
+    ingredients:
+    - 1 1/2 oz. Fernet Lario
+    - 1/2 oz. Plantation O.F.T.D. Rum
+    - 1 oz. Damiana Herb liqueur
+    - 1 barspoon orange blossom
+    steps:
+    - Combine all ingredients with ice and stir.
+    - Strain into a metal chalice or cocktail glass.
+    - No garnish.
+    tags:
+    - stirred
+  - name: Needle & Thread No. 2
+    author: 
+    year: 2023
+    notes: Served to Michael.
+    ingredients:
+    - 1 1/2 oz. Batavia Arrack van Oosten
+    - 3/4 oz. Fernet Lario
+    - 3/4 oz. sake
+    steps:
+    - Combine all ingredients with ice and stir.
+    - Strain into a coupe glass.
+    - No garnish.
+    tags:
+    - stirred
+  - name: Needle & Thread No. 3
+    author: 
+    year: 2023
+    notes: Served to Kate.
+    ingredients:
+    - 1 1/2 oz. gin
+    - 3/4 oz. St. George Spiced Pear liqueur
+    - 3/4 oz. lemon juice
+    - 1/2 oz. nectarine syrup
+    - 1 dash Angostura bitters
+    steps:
+    - Combine all ingredients in a mixing tin. Add ice and shake until chilled.
+    - Double-strain into a chilled coupe.
+    tags:
+    - shaken
+    - citrus
+  - name: Needle & Thread No. 4
+    author: 
+    year: 2023
+    notes: Served to Kate. (Specs are very rough.)
+    ingredients:
+    - 3/4 oz. Buffalo Trace bourbon
+    - 3/4 oz. gin
+    - 1/2 oz. Lillet blanc
+    - 1/2 oz. Nardini Acqua di Cedro
+    - 1/4 oz. lavender syrup
+    - "Garnish: edible flower"
+    steps:
+    - Combnine all ingredients except for the garnish in a mixing tin with ice.
+    - Shake untili chilled.
+    - Double-strain into a rocks glass over a single large ice cube.
+    - Garnish with the edible flower.
+    tags:
+    - shaken
+    - citrus
+  - name: Needle & Thread No. 5
+    author: 
+    year: 2023
+    notes: Served to Walter.
+    ingredients:
+    - 1 1/2 oz. Los Vecinos del Campo mezcal
+    - 3/4 oz. lemon juice
+    - 3/4 oz. St. George Spiced Pear liqueur
+    - 1/2 oz. St. Elizabeth Allspice Dram
+    - 1/2 oz. pear brandy
+    - 1/4 oz. demerara syrup
+    steps:
+    - Combine all ingredients in a mixing tin with ice.
+    - Shake until well chilled.
+    - Double-strain into a chilled coupe.
+    tags:
+    - shaken
+    - citrus
+  - name: Needle & Thread No. 6
+    author: 
+    year: 2023
+    notes: Served to Walter. Made with Bacoo rum; most likely 5-year, 8-year, or 12-year. "Cardamom," here, is interpreted to mean a whole pod, muddled. However, it might also work with 1/4 oz. cardamom syrup.
+    ingredients:
+    - 1 1/2 oz Bacoo rum 8- Year
+    - 3/4 oz. Sennza Autumn Amaro
+    - 3/4 oz. Brucato Woodlands Amaro
+    - 1 or 2 cardamom pods
+    - "Garnish: dried morel mushroom, skewererd"
+    steps:
+    - Muddle the cardamom pods in the bottom of a shaking tin until lightly broken up.
+    - Add ice and the remaining ingredients except for the garnish.
+    - Stir until chilled.
+    - Double-strain into a chilled coupe.
+    - Garnish with the mushroom. 
+    tags:
+    - stirred
