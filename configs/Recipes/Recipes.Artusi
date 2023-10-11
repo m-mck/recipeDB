@@ -1,0 +1,62 @@
+source: "Artusi"
+recipes:
+
+#
+  - name: Gun Shy
+    author: Alfredo
+    notes: 
+    year: 2023
+    ingredients:
+    - 1 1/2 oz Rittenhouse 100 rye
+    - 1/2 oz Amaro Sfumato
+    - 3/4 oz lemon juice
+    - 1/2 oz grenadine
+    - "Garnish: orange twist" 
+    steps:
+    - Combine all ingredients except the garnish in a mixing tin with ice.
+    - Shake until chilled.
+    - Double-strain into a chilled coupe.
+    - Garnish with the orange twist.
+    tags:
+    - shaken
+    - citrus
+  - name: Nazca Witch
+    author: Alfredo
+    notes: 
+    year: 2023
+    ingredients:
+    - 1 1/2 oz Macchu Pisco
+    - 3/4 oz Carpano Antica dry vermouth
+    - 3/4 oz Strega
+    - 1 barspoon Becherovka
+    - "Garnish: lemon twist"
+    steps:
+    - Combine all ingredients except the garnish in a mixing tin with ice.
+    - Stir until chilled.
+    - Strain into a chilled rocks glass over one large ice cube.
+    - Garnish with the lemon twist.
+    tags:
+    - stirred
+    - old-fashioned
+  - name: Gravity Sour
+    author: Christian
+    year: 2022
+    notes: 
+    ingredients:
+    - 1 glass Underberg
+    - 3/4 oz lemon juice
+    - 1/2 oz honey syrup (2:1)
+    - 1 1/2 oz bourbon
+    - 1/2 oz Mirto Verde
+    - 1 1/2 oz egg white (approx 1 whole egg white)
+    steps:
+    - Put a straw in a double old-fashioned glass.
+    - Overturn the Underberg into the glass, setting the bottle on the straw.
+    - Combine all ingredients in a mixing tin without ice.
+    - Dry shake.
+    - Fill a double old-fashioned glass to the top with crushed ice.
+    - Add ice to the mixing tin and shake until chilled.
+    - Strain into the old-fashioned glass.
+    tags:
+    - shaken
+    - citrus

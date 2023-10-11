@@ -1,0 +1,23 @@
+things to do!
+
+[ ] filtering per ingredient type / tag
+    [ ] bracket ingredients, so as to tell the code which parts are ingredients vs. measurements / et cetera
+        [ ] 
+
+[ ] sort tags
+
+[ ] finalize rum sorting (do you want "light rum" etc?)
+
+[ ] create a UI for entering recipes
+    [ ] smth om the website that makes txt file out of entered recipes
+        [ ] developer.mozilla.org -> "the input (form inpuut) element
+        [ ] 
+        [ ] 
+        [ ] 
+        [ ] 
+        [ ] 
+        [ ] 
+        [ ] 
+        [ ] 
+
+svelte repl -> shows u what code will do
