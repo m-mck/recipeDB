@@ -861,12 +861,13 @@
             bank note scotch
             banksy scotch mix
             blended scotch
-            blended scotch, such as bank note or famous grouse
+                blended scotch, such as bank note or famous grouse
             bowmore 12 peated single malt scotch
             bowmore 12-year scotch
             bowmore 18-year-old single malt scotch whisky
             bruichladdich “rocks” scotch whisky
             bruichladdich port charlotte 7-year scotch
+            bruichladdich the classic laddie
             caol ila 12-year scotch
             chamomile scotch    
             chivas regal 12-year blended scotch whisky
@@ -888,16 +889,15 @@
             islay single malt scotch, preferably laphroaig 10-year
             kilchoman machir bay single malt scotch
             kilkerran 12-year single malt scotch
-            laphroaig 10 year old scotch
-            laphroaig 10 year old scotch whisky
-            laphroaig 10-year islay single-malt scotch
-            laphroaig 10-year scotch
-            laphroaig 10-year scotch, to rinse
-            laphroaig 10-year single malt scotch
-            laphroaig 12-year scotch
-            laphroaig scotch
-            laphroaig scotch, to rinse
-            laphroaig select scotch whisky
+            Laphroaig
+                laphroaig 10 year old scotch
+                laphroaig 10 year old scotch whisky
+                laphroaig 10-year islay single-malt scotch
+                laphroaig 10-year scotch
+                laphroaig 10-year single malt scotch
+                laphroaig 12-year scotch
+                laphroaig scotch
+                laphroaig select scotch whisky
             macallan 15-year scotch
             macallan fine oak 10-year scotch
             monkey shoulder blended malt scotch
@@ -905,9 +905,6 @@
             old pulteney 12 year single malt scotch whisky
             peated scotch whiskey  
             raisin-infused scotch
-            scotch
-            scotch, preferably a smoky islay-style whisky, such as laphroaig
-            scotch, preferably bruichladdich the classic laddie
             sheep dip 8-year pure malt scotch    
             shichimi salt
             speyside single malt scotch    
@@ -2504,7 +2501,8 @@
         bitter truth jerry thomas decanter bitters
         bitter truth jerry thomas' own decanter bitters
         bitter truth jerry thomas’ bitters
-        bitter truth lemon bitters or homemade meyer lemon bitters
+        bitter truth lemon bitters
+        homemade meyer lemon bitters
         bitter truth peach bitters
         bittercube blackstrap bitters
         bittercube cherry bark and vanilla bitters
@@ -2514,7 +2512,8 @@
         bittermen's citron sauvage
         Bittermens 'Elemakule Tiki Bitters
         bittermens boston bittahs
-        bittermens boston bittahs or homemade grapefruit bitters
+        bittermens boston bittahs
+        homemade grapefruit bitters
         bittermens burlesque bitters
         bittermens hellfire habanero shrub
         bittermens hopped grapefruit bitters
@@ -2552,8 +2551,6 @@
         dashes bittermens orchard street celery bitters
         dr. adam elmegirab’s boker’s bitters
         dutch’s colonial cocktail bitters
-        each aromatic, orange, and chocolate bitters
-        expressed then discarded lemon twist and angostura bitters swirl
         fee brothers cardamom bitters
         fee brothers gin barrel-aged orange bitters
         fee brothers old fashion bitters
@@ -2564,13 +2561,12 @@
         fee brothers west indian orange bitters
         angostura bitters
         fee brothers whiskey barrel–aged bitters
-        fee brothers whiskey barrel–aged bitters or fee brothers old fashion aromatic bitters
+        fee brothers old fashion aromatic bitters
         generous dashes peychaud’s bitters
         grapefruit bitters
         hella bitter citrus bitters
         homemade coffee-pecan bitters or 
         house cardamom bitters
-        house cardamon bitters
         house orange bitters
         house orange bitters club soda
         house peychaud’s bitters
@@ -2579,9 +2575,6 @@
         lemon wheel, orange wheel, fresh mint sprig, angostura bitters
         lime bitters
         matcha bitters
-        mint bouquet and angostura bitters
-        mint bouquet and peychaud's bitters
-        mint leaf, 1 dash of rosewater, 3 dashes of angostura bitters.
         miracle mile castilian bitters
         miracle mile celery bitters
         miracle mile chocolate chile bitters
@@ -2594,24 +2587,19 @@
         miracle mile yuzu bitters
         mists angostura bitters
         mole bitters
-        of regans’ orange bitters no. 6
+        regans’ orange bitters no. 6
         dashes wormwood bitters
         peychaud’s bitters
         orange bitters
-        orange bitters, preferably equal parts fee brothers west indian orange bitters and regans’ orange bitters no. 6
         scrappy's cardamom bitters
         peach bitters
         pechaud’s bitters
-        per bittered sling moondog aromatic bitters
-        pers bittered sling zingiber crabapple bitters
-        pers bittermens hellfire habanero shrub    peychaud's bitters
-        peychaud's bitters, plus more
+        bittered sling moondog aromatic bitters
+        bittered sling zingiber crabapple bitters
+        bittermens hellfire habanero shrub
+        peychaud's bitters
         peychaud’s aromatic bitters
-        peychaud’s bitters
-        peychaud’s bitters or bitter truth creole bitters
-        peychaud’s bitters, for garnish
-        peychaud’s bitters, plus 7 drops for garnish
-        pineapple wedge and angostura bitters
+        bitter truth creole bitters
         regan’s orange bitters
         regan’s orange bitters no. 6
         regans' orange bitters
@@ -2626,7 +2614,6 @@
         scrappy’s celery bitters
         scrappy’s lavender bitters
         scrappy’s lime bitters or homemade key lime bitters
-        several dashes angostura bitters
         snake oil tobacco bitters or a.b. smeby bittering co. highland heather bitters or regans’ orange bitters no. 6
         sprays peychaud’s bitters
         suze orange bitters
@@ -2638,7 +2625,6 @@
         the bitter truth creole bitters
         the bitter truth jerry thomas’ own decanter bitters
         the japanese bitters yuzu bitters
-        angostura bitters
         peychaud’s bitters
         angostura bitters
         angostura or other aromatic bitters
@@ -2951,15 +2937,15 @@
             st. james royal ambre rhum agricole
             la favorite rhum agricole blanc coeur de canne    
         ???
-            banana rum
-            dead rabbit jamaica rum blend
             demerara rum
-            e&j burke jamaican rum - 1943
             jamaican rum
+                e&j burke jamaican rum - 1943
                 overproof jamaican rum
+                dead rabbit jamaica rum blend
         Spiced & Flavored Rum
             Bacardi Oakheart
                 buttered rum
+            banana rum
             captain morgan original spiced rum 
             Old New Orleans Cajun Spice Rum
                 carrot cake rum
@@ -3460,9 +3446,7 @@ whiskey
     rye
     bourbon
     indian
-
 gin
     new american
     london dry
     sloe
-
