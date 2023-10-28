@@ -206,3 +206,7 @@ lookup: call object and get key
 ----
 
 "show up only when X" -> "conditional <x> (div, style, etc.)"
+
+----
+
+array; gather inputs based on selection; submit 2 search w/ AND

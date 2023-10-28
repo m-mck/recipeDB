@@ -1,0 +1,884 @@
+source: "Beta Cocktails"
+recipes:
+
+#
+  - name: Angostura Sour
+    author: Charles H. Baker & Kirk Estopinal
+    notes: Two years later it still amazes us that the first recipe in rogue cocktails was a potable abstract of our entire philosophy. Thank you Charles H. Baker.
+    ingredients:
+    - 1 1/2 oz Angostura bitters
+    - 3/4 oz lime juice
+    - 1 oz simple syrup
+    - one egg white
+    steps:
+    - Dry shake the egg white and lime juice.
+    - Add the remaining ingredients, ice, and shake hard. Strain into a chilled cocktail glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Arbitrary Nature of Time
+    author: Maks Pazuniak
+    notes: I mean, have you ever really thought about it?
+    ingredients:
+    - 1 1/2 oz Wild Turkey 101
+    - 1 oz Campari
+    - 3/4 oz Cherry Heering
+    - 1 dash Regan's Orange bitters
+    - 2 dashes Bittermens Mole bitters
+    - "Garnish: orange twist"
+    steps:
+    - Stir and strain over a large rock. Garnish.
+    tags:
+    - stirred
+  - name: Ashtray Heart
+    author: Erik Ellestad
+    notes: 
+    ingredients:
+    - mezcal, to rinse
+    - 1 oz Smith & Cross
+    - 1 oz Punt e Mes
+    - 1 oz dry vermouth
+    - "Garnish: 1 grapefruit twist, discarded"
+    steps:
+    - Stir and strain into a coupe rinsed with smokey mezcal. Express the oil from a grapefruit twist and discard.
+    tags:
+    - stirred
+  - name: Art of Choke
+    author: Kyle Davidson
+    notes: When was the last time that you created a brand new drink template? It's hard to do, unless you're Kyle Davidson and you break breans like Daryl Dawkins breaks backboards.
+    ingredients:
+    - 1 oz white rum
+    - 1 oz Cynar
+    - 1/8 oz lime juice
+    - 1/8 oz demerara syrup (2:1)
+    - heavy 1/4 oz green Chartreuse
+    - Fresh mint sprig
+    - "Garnish: mint sprig"
+    steps:
+    - Muddle a mint sprig in the mixing glass with the other ingredients.
+    - Add ice, stir, and strain over fresh ice in a rocks glass. 
+    - Garnish with an artfully positioned mint sprig.
+    tags:
+    - stirred
+    - citrus
+  - name: Bitter Giuseppe
+    author: Stephen Cole
+    notes: 
+    ingredients:
+    - 2 oz Cynar
+    - 3/4 oz Carpano Antica Formula vermouth
+    - 2 dashes Regan's Orange bitters
+    - Slice of lemon with a little meat
+    steps:
+    - Build in a rocks glass.
+    - Slice lemon and squeeze over glass with oils spraying over top and about 11-15 drops of juice going into the glass.
+    - Stir.
+    - Garnish with the same lemon slice.
+    tags:
+    - stirred
+    - citrus
+  - name: Black Cat
+    author: Nicholas Jarrett
+    notes: You know what rules? Simple cocktails made ethereal via layered flavors and nuance.
+    ingredients:
+    - 1 oz Chihicapa mezcal
+    - 1/2 oz Hayman's Old Tom gin
+    - 1/2 oz Ransom Old Tom gin
+    - 3/4 oz Punt e Mes
+    - 3/4 oz Lustau Amontillado sherry
+    - Grapefruit peel
+    - 1 teaspoon sugar cane syrup
+    - "Garnish: grapefruit twist"
+    steps:
+    - Muddle grapefruit with sugar cane syrup in a mixing glass.
+    - Add remaining ingredients and stir.
+    - Strain into a chilled coupe.
+    - Garnish with a grapefruit twist.
+    tags:
+    - stirred
+  - name: Broken Shoe Shiner
+    author: Stephen Cole
+    notes: Another original rogue cocktail, this one is still just as fucked sounding as it was the first time around. And still just as delicious.
+    ingredients:
+    - 1 oz Pernod
+    - 1 oz Aperol
+    - 1 oz Benedictine
+    - 1 oz pineapple juice
+    - 1 oz lemon juice
+    - One egg white
+    - "Garnish: Rose water"
+    steps:
+    - Dry shake the egg white and lemon juice.
+    - Add remaining ingredients and ice. Shake hard.
+    - Strain into a chilled cocktail glass and garnish with 9 drops of rose water.
+    tags:
+    - 
+  - name: Burned Popcorn
+    author: Kyle Davidson
+    notes: 
+    ingredients:
+    - 1 1/2 oz Buffalo Trace
+    - 1/4 oz El Dorado Aged Rum (at least 15 years)
+    - 1/8 oz demerara syrup (2:1)
+    - 1 dash Angostura
+    - 1 dash Regan's Orange Bitters
+    - 3 orange swaths
+    - "Garnish: 1 orange twist"
+    steps:
+    - Flame 3 orange swaths in a rocks glass, fully expressing and igniting all oil.
+    - Stir and strain.
+    - Garnish with an orange twist.
+    tags:
+    - flame
+    - stirred
+  - name: Campari Martini
+    author: Maks Pazuniak
+    notes: Salt!
+    ingredients:
+    - 3 oz Campari
+    - Heavy pinch of salt, to taste (For better dissolution, make a salt tincture (3 parts water to 1 part salt.))
+    - "Garnish: orange twist"
+    steps:
+    - Stir and strain into a coupe.
+    - Garnish with an orange twist.
+    tags:
+    - stirred
+    - martini
+  - name: DLB
+    author: Don Lee
+    notes: I had to ask Don Lee for this recipe so many times that by the time I got around to making it for the first time I was sick of it. But it's pretty brilliant. -Maks
+    ingredients:
+    - 1 oz Rhum Barbancourt 8 Year
+    - 1/2 oz Fernet Branca
+    - 1/2 oz lemon juice
+    - 1/2 oz simple syrup
+    - 1/2 oz Angostura Bitters
+    - 1/2 oz Angostura Orange Bitters
+    - 1/4 oz Peychaud's Bitters
+    steps:
+    - Shake and strain into a coupe.
+    tags:
+    - shaken
+    - citrus
+  - name: Easy Does It
+    author: Toby Maloney
+    notes: 
+    ingredients:
+    - 1 oz Plymouth gin
+    - 1/2 oz Aperol
+    - 1/4 oz Campari
+    - 1 oz grapefruit juice
+    - 1/2 oz simple syrup (1:1)
+    - "Garnish: 3 raspberries on a skewer"
+    steps:
+    - Shake and strain over a rock.
+    - Garnish with 3 raspberries on a skewer.
+    tags:
+    - 
+  - name: Eeyor's Requiem
+    author: Toby Maloney
+    notes: Bitter layered on bitter given a backbone of proof and a measure of levity from the vermouth. Advanced cocktail construction.
+    ingredients:
+    - 1 1/2 oz Campari
+    - 1/2 oz Tanqueray
+    - 1/4 oz Cynar
+    - small 1/4 oz Fernet-Branca
+    - 1 oz Dolin Blanc
+    - 15 drops 50/50 bitters
+    - 3 orange peels
+    steps:
+    - Stir and strain into a coupe.
+    - Express the oil from 3 orange peels and discard.
+    tags:
+    - stirred
+    - negroni
+  - name: Elk's Own (Variation)
+    author: Paul Mcgee
+    notes: 
+    ingredients:
+    - 1 1/2 oz Evan Williams Black
+    - 1/2 oz ruby port
+    - 1/2 oz lemon juice
+    - 1/2 oz simple syrup
+    - 1/4 oz Cynar
+    - egg white
+    - Nux Alipna Walnut liqueur, to rinse
+    steps:
+    - Shake and double-strain into an old-fashioned glass rinsed with Rux Alpina Walnut liqueur. No rocks.
+    tags:
+    - shaken
+    - sazerac
+    - citrus
+  - name: Defend Arrack
+    author: Maks Pazuniak
+    notes: 
+    ingredients:
+    - 1 1/2 oz Batavia Arrack
+    - 3/4 oz Marie Brizard Apry
+    - 3/4 oz lime juice
+    - 1/8 oz St. Elizabeth Allspice Dram
+    - "Garnish: orange twist"
+    steps:
+    - Shake and strain into a coupe.
+    - Express the oil from an orange twist and discard.
+    tags:
+    - shaken
+    - citrus
+  - name: The Fall of Man
+    author: Maks Pazuniak
+    notes: Please note that Zwack does not work as a substitute for Unicum.
+    ingredients:
+    - 1 oz bourbon
+    - 1 oz Unicum
+    - 1/4 oz Cointreau
+    - 1/4 oz Cherry Heering
+    - 1/4 oz Punt e Mes
+    - 5 swaths of orange peel
+    steps:
+    - Prepare a rocks glass by seasoning the ice with the oil of five swaths of orange peel, dropping the peels inside after expressing the oil.
+    - Build in a mixing glass, stir, and strain into the rocks glass with the seasoned ice.
+    tags:
+    - stirred
+  - name: Fatigue
+    author: Troy Sidle
+    notes: 
+    ingredients:
+    - 1 oz Jack Daniels
+    - 1 oz Maraschino liqueur
+    - 1 oz Angostura bitters
+    - "Garnish: grapefruit twist"
+    steps:
+    - Shake and strain into a coupe.
+    - Garnish with a grapefruit twist.
+    tags:
+    - shaken
+  - name: Felonious Monk
+    author: Tim Lacrey
+    notes: Do you remember when you were a kid and you would try to invent new flavor combinations at the Burger King soda fountain by mixing Coke and Dr. Pepper with a splash of Sprite? This cocktail is like that one time that you fucking nailed it.
+    ingredients:
+    - 1 1/2 oz Miller's Westbourne
+    - 1 1/4 oz lemon juice
+    - 3/4 oz Yellow Chartreuse
+    - 1/2 oz Benedictine
+    - 3 dashes Angostura bitters
+    - 1 egg white
+    - 1 1/2 oz Belgian abbey beer
+    - "Garnish: orange peel rosette"
+    steps:
+    - Combine all ingredients except beer in a shaker and dry shake.
+    - Add ice and shake.
+    - Add beer to an ice-filled collins glass.
+    - Strain cocktail into glass.
+    - Garnish with an orangeg peel rosette.
+    tags:
+    - citrus
+    - beer
+    - shaken
+  - name: Fernet Sling
+    author: Maks Pazuniak
+    notes: This cocktail tastes like what I imagine a weird soda from a weird country that I've never been to tastes like. I'm sure to the locals it's totally normal, but to you, you're all like "What is this, pine tree-grasshopper toothpaste soda?" - Maks
+    ingredients:
+    - 2 oz Fernet Branca
+    - 3/4 oz Carpano Antica Formula vermouth
+    - 1/2 oz lemon juice
+    - heavy 1/4 oz demerara syrup (2:1)
+    - soda water, to top
+    - "Garnish: fat orange twist"
+    steps:
+    - Shake and strain into a collins glass.
+    - Top with soda water.
+    - Garnish with a fat orange twist.
+    tags:
+    - shaken
+    - citrus
+  - name: Good Things Come
+    author: Jeff Grdinich
+    notes: 
+    ingredients:
+    - 1 3/4 oz Redbreast
+    - 1/2 oz Pedro Ximenez sherry
+    - 1/2 oz Fernet-Branca
+    - 1/4 oz Yellow Chartreuse
+    - 1 dash Scrappy's Lavender Bitters
+    steps:
+    - Stir and strain into a coupe.
+    tags:
+    - stirred
+  - name: The End of the Road
+    author: Chris McMillian
+    notes: There are no words to describe how awed and excited we are to include a cocktail from Mister Chris McMillian in this book.
+    ingredients:
+    - 1 oz Laphroaig 10-year
+    - 1 oz Campari
+    - 1 oz Green Chartreuse
+    steps:
+    - Stir and strain into a coupe.
+    tags:
+    - stirred
+  - name: Gunshop Fizz
+    author: Kirk Estopinal & Maks Pazuniak
+    notes: This ended up being the signature cocktail of the original book and one that we're still proud of.
+    ingredients:
+    - 2 oz Peychaud's Bitters
+    - 1 oz lemon juice
+    - 1 oz simple syrup
+    - 2 strawberries
+    - 3 cucumber slices
+    - 3 swaths of grapefruit peel
+    - 3 swaths of orange peel
+    - Sanbitter, to top
+    - "Garnish: cucumber slice"
+    steps:
+    - Add all the ingredients except Sanbitter into a mixing tin.
+    - Muddle and set aside for two minutes to allow the flavors to blend.
+    - Add ice, shake and strain over fresh ice in a collins glass.
+    - Top with Sanbitter. Garnish with a cucumber slice.
+    tags:
+    - shaken
+    - citrus
+  - name: Heart of Glass
+    author: Troy Sidle
+    notes: 
+    ingredients:
+    - 1 1/2 oz Eagle Rare 10-Year Bourbon
+    - 3/4 oz Carpano Antica Formula vermouth
+    - 3/4 oz Cynar
+    - 17 drops Angostura bitters
+    - 1/2 oz water
+    - Orange peels
+    steps:
+    - Rinse a rocks glass with Eagle Rare 10-year Bourbon.
+    - Pour 1 1/2 oz. of bourbon into a second glass.
+    - Add the vermouth and Cynar to the glass.
+    - Add the Angostura bitters.
+    - Add just enough water to remove the burn of the bourbon but not so much that you needlessly dilute it; start with half an ounce.
+    - Zest a lot of orange oil in. 
+    - Pour into the first glass.
+    tags:
+    - stirred
+  - name: All's Fair
+    author: Kirk Estopinal
+    notes: 
+    ingredients:
+    - 1 1/2 oz El Dorado 12-Year Rum
+    - 3/4 oz Carpano Antica Formula vermouth
+    - 1/2 oz Marie Brizard orange curacao
+    - 2 dashes Bittermen's Mole bitters
+    - 8 drops salt tincture
+    - "Garnish: orange twist"
+    steps:
+    - Stir and strain into a coupe.
+    - Garnish with the orange twist.
+    tags:
+    - stirred
+    - manhattan
+  - name: Flip Out
+    author: Kirk  Estopinal
+    notes: 
+    ingredients:
+    - 1 1/2 oz Carpano Antica Formula vermouth
+    - 3/4 oz El Dorado 12-Year Rum
+    - approx. 1/4 oz Marie Brizard orange curacao
+    - 2 dashes Bittermen's Mole bitters
+    - 8 drops salt tincture
+    - Whole egg
+    - "Garnish: orange twist"
+    steps:
+    - Shake and strain into a coupe.
+    - Express the oil from an orange twist and discard.
+    tags:
+    - shaken
+  - name: Hotel Room Temperature
+    author: Kirk Estopinal
+    notes: The idea for this is conceptual, though the drinks themselves are quite pleasing. The title is an homage to two song titles about the regretful aspects of love. "All's Fair" is an 'island' Manhattan and is a nod to the beginnings of love in all its fancy glory and style. Think vacations and summer vibes. The "Flip Out" should be obvious. The "Hotel Room Temperature" is representative of dishonest behavior, and so is served at room temperature. As if our hero is mixing drinks at the end of the night without his tools or ice. It's an exercise in texture and the fact that assembly can, and does, adjust the entire profile of the same ingredients.
+    ingredients:
+    - 1 1/2 oz Carpano antica formula vermouth
+    - 3/4 oz El Dorado 12-Year Rum
+    - approx. 1/4 oz Marie Brizard orange curacao
+    - 2 dashes Bittermen's Mole bitters
+    - 8 drops salt tincture
+    - "Garnish: orange twist"
+    steps:
+    - Build in a rocks glass, no ice. This is a room temperature cocktail. Garnish with an orange twist.
+    tags:
+    - stirred
+  - name: Heering Flip
+    author: Maks Pazuniak
+    notes: 
+    ingredients:
+    - 2 oz Cherry Heering
+    - generous 1/2 oz Bittermen's Mole bitters
+    - One whole egg
+    - Pinch of salt
+    - "Garnish: 3 drops Bittermen's Mole bitters"
+    steps:
+    - Shake and strain over a large rock.
+    - Garnish with three drops of Mole bitters.
+    tags:
+    - shaken
+  - name: Infernal Architect
+    author: Colin Shearn
+    notes: One of our favorite recent trends is the room-temperature cocktail. And one of our favorite bartenders is Colin Shearn. That makes this cocktail like the little shaded part where the two circles overlap in a Venn diagram, except more badass.
+    ingredients:
+    - 1 1/4 oz Laird's Applejack
+    - 1/2 oz Nardini
+    - 1/2 oz Strega
+    - St. Elizabeth Allspice Dram, to rinse
+    steps:
+    - Rinse a coupe with allspice dram.
+    - Build in coupe.
+    - This is a room-temperature cocktail.
+    tags:
+    - stirred
+  - name: Italian Heirloom
+    author: Maks Pazuniak
+    notes: 
+    ingredients:
+    - 2 oz Cynar
+    - 1/2 oz blended Scotch
+    - 1/2 oz Laphroaig 10-year
+    - Pinch of salt
+    - 5 swaths of lemon peel
+    - "Garnish: lemon twist"
+    steps:
+    - Build in a mixing glass, expressing the lemon peels and dropping them into the glass.
+    - Stir and strain into a coupe.
+    - Garnish with a lemon twist.
+    tags:
+    - stirred
+  - name: La Cola Nostra
+    author: Don Lee
+    notes: 
+    ingredients:
+    - 1 1/2 oz Ron Zacapa 23
+    - 1 oz Averna
+    - 3/4 oz lime juice
+    - 1/2 oz simple syrup
+    - 1/4 oz pimento dram.
+    - 2 oz Champagne
+    - "Garnish: lime wheel"
+    steps:
+    - Shake and strain everything except the Champagne into a Collins glass.
+    - Top with 2 oz of Champagne.
+    - Garnish with a lime wheel.
+    tags:
+    - shaken
+    - citrus
+    - sparkling
+  - name: The Last Mechanical Art
+    author: Maks Pazuniak
+    notes: I played with the proportions on this cocktail quite a bit, and kept coming back to the equal parts construction. I'm a sucker for eual parts. Is the cocktail perfectly balanced? Probably not, but perfection is overrated. -Maks
+    ingredients:
+    - 3/4 oz Chichicapa mezcal
+    - 3/4 oz Cynar
+    - 3/4 oz Punt e Mes
+    - 3/4 oz Campari
+    - "Garnish: orange twist"
+    steps:
+    - Stir and strain into a chilled coupe.
+    - Garnish with an orange twist.
+    tags:
+    - stirred
+  - name: Little Secrets
+    author: Brad Bolt
+    notes: 
+    ingredients:
+    - 1 oz St. Germain
+    - 1 oz El Dorado 5-Year
+    - 1/2 oz El Dorado High Strength rum
+    - approx. 3/4 oz lime juice
+    - 9 drops Fee's Rhubarb bitters
+    - "Garnish: mint sprig"
+    steps:
+    - Shake and strain into a coupe.
+    - Garnish with a mint sprig.
+    tags:
+    - shaken
+    - citrus
+  - name: A Moment of Silence
+    author: Maks Pazuniak
+    notes: 
+    ingredients:
+    - 1 1/2 oz rye whiskey
+    - 1 oz Marie Brizard Apry
+    - 1/2 oz Averna
+    - 1/2 oz Angostura bitters
+    - 1/4 oz Laird's Apple Brandy (100-proof)
+    - Campari, to rinnse
+    - "Garnish: orange twist"
+    steps:
+    - Season rocks with Campari in a rocks glass.
+    - Stir the ingredients in a mixing glass and strain over the seasoned rocks.
+    - Garnish with an orange twist.
+    tags:
+    - stirred
+  - name: Nana Ester
+    author: Kirk Estopinal
+    notes: Wine cocktails are the new beer cocktails.
+    ingredients:
+    - 1 1/2 oz Shiraz or Zinfandel
+    - 1/2 oz Bunratty Potcheen
+    - 3/4 oz lemon juice
+    - 1/2 oz simple syrup (1:1)
+    - 5 drops orange flower water
+    steps:
+    - Shake and strain into a coupe.
+    tags:
+    - shaken
+    - citrus
+  - name: Notwist
+    author: Ciaran Wiese
+    notes: 
+    ingredients:
+    - 1/2 oz Laphroaig cask Strength
+    - 1/2 oz Bols Genever
+    - 1/2 oz Crema de mezcal
+    - 1 tsp Maraschino liqueur
+    - 1 tsp demerara syrup (1:1)
+    - 1 dash absinthe
+    - 1 dash Fee Brothers Aromatic bitters
+    - "Garnish: lemon twist"
+    steps:
+    - Stir and strain over a large rock.
+    - Garnish with a lemon twist.
+    tags:
+    - stirred
+  - name: Pare de Sufrir
+    author: Misty Kalkofen
+    notes: 
+    ingredients:
+    - 1 1/2 oz Lustau Pedro Ximenez San Emilio sherry
+    - 5/8 oz Chichicapa mezcal
+    - 1/2 oz Galliano Ristretto
+    - 1/4 oz Amaro Lucano
+    - 1 dash Angostura bitters
+    - 1 dash Bitter Truth Aromatic bitters
+    - "Garnish: grated canela"
+    steps:
+    - Stir all ingredients in a chilled mixing glass without ice.
+    - Strain into an espresso cup. 
+    - This is a room temperature cocktail.
+    - Garnish with a small amount of grated canela.
+    tags:
+    - stirred
+  - name: The Nervous Light of Sunday
+    author: Mike Yusko
+    notes: 
+    ingredients:
+    - 1 1/2 oz Tanqueray
+    - 1 oz lemon juice
+    - 3/4 oz Luxardo bitter
+    - 1/2 oz simple syrup
+    - 14 drops Fee's Old-Fashioned bitters
+    - 14 drops Fee's Grapefruit bitters
+    - "Garnish: grapefruit twist"
+    steps:
+    - Shake and strain over a large piece of ice in a rocks glass.
+    - Garnish with a grapefruit twist.
+    tags:
+    - shaken
+    - citrus
+  - name: Riddles in the Dark
+    author: Al Sotack
+    notes: We could wax poetic on the harmony and narrative of this cocktail, or we could point out that it tastes like an oatmeal raisin cookie.
+    ingredients:
+    - 1 1/2 oz rye whiskey
+    - 3/4 oz Carpano Antica Formula vermouth
+    - 1/2 oz Pedro Ximenez sherry
+    - 1/4 oz Nardini Amaro
+    - 1/2 teaspoon R&W Orchard Cherry
+    - 8 drops Bitter End Moroccan bitters
+    - "Garnish: lemon peel"
+    steps:
+    - Stir and strain into a coupe.
+    - Express the oil of a lemon peel and discard.
+    tags:
+    - stirred
+  - name: The Red Light
+    author: Charles Joly
+    notes: 
+    ingredients:
+    - 1 1/4 oz Bols Genever
+    - 1 1/4 oz Grand Marnier
+    - 1/3 oz Underberg
+    steps:
+    - Stir and strain into a coupe.
+    tags:
+    - stirred
+  - name: Sue Ellen
+    author: Chris Hannah
+    notes: 
+    ingredients:
+    - 1 oz Southern Comfort
+    - 1/2 oz Cynar
+    - 1/2 oz Amaro Cora
+    - 2 oz cranberry juice
+    - 1 oz club soda
+    - "Garnish: 1 lime wheel and a dash of Fernet-Branca"
+    steps:
+    - Build in a collins glass with ice and stir.
+    - Top with 1 oz of club soda.
+    - Garnish with a dash of Fernet-Branca and a lime wheel.
+    tags:
+    - stirred
+  - name: The Search for Delicious
+    author: Kirk Estopinal
+    notes: 
+    ingredients:
+    - One "bakers" pinch of sea salt`
+    - 2 oz Cynar
+    - 3/4 oz Punt e Mes
+    - 15-21 drops of lemon juice
+    - 6 dashes Regan's bitters
+    - 2 pinches sea salt
+    - 5 swaths of lemon peel
+    steps:
+    - Start with one "bakers" pinch of salt in a rocks glass. Add the Cynar and briefly stir.
+    - Add the Punt e Mes, bitters, lemon juice, and ice.
+    - Stir briefly to incorporate.
+    - Taste, looking for only the faintest hint of salt.
+    - If your drink tastes salty, throw out your first attempt and adjust the salt level.
+    - When the salt level is correct, express the oil from 5 swaths of lemon peel onto the surface of the cocktail.
+    - Drop one of the expressed lemon peels in alongside the side of the glass, skin side facing in.
+    - An 1/8 rim of salt will allow your guest to experiment with a few salty sips.
+    - This will make the following sips pleasantly sweet, and that will make your brain hurt.
+    tags:
+    - stirred
+  - name: Six Inch Gold Blade
+    author: Al Sotack
+    notes: 
+    ingredients:
+    - 1 1/2 oz Smith and Cross
+    - 1/2 oz Punt e Mes
+    - 1/2 oz Nardini Amaro
+    - 1/2 oz Campari
+    - 1/2 teaspoon Laphroaig
+    - 2 dahes Angostura bitters
+    - 1 dash Bittermen's Mole bitters
+    - "Garnish: one orange peel" 
+    steps:
+    - Stir and strain into a coupe.
+    - Express the oil from and orange peel and discard.
+    tags:
+    - stirred
+  - name: Speaking in Tongues
+    author: Mike Ryan
+    notes: 
+    ingredients:
+    - 1 oz Chichicapa mezcal
+    - 1 oz Luxardo Amaro Abano
+    - 3/4 oz lemon juice
+    - 3/4 oz simple syrup (1:1)
+    - 3 hard dashes Angostura
+    - 1 strawberry
+    - "Garnish: 3 drops Angostura bitters"
+    steps:
+    - Muddle the strawberry in a shaking tin.
+    - Add the remaining ingredients.
+    - Shake and strain.
+    - Garnish with 3 drops Angostura.
+    tags:
+    - shaken
+    - citrus
+  - name: Spice Trade
+    author: Kirk Estopinal
+    notes: This drink is fucking metal! I wanted to make a Weeper's Joy, but I couldn't remember the recipe. Voila! The Spice Trade. Happy accident! It's like three ships from different parts of the world crashed and the resulting mixture of worlds was metallicaly delicious. -Kirk
+    ingredients:
+    - 1 oz Gilka Kummel
+    - 1 oz Herbsaint Legendre
+    - 3/4 oz Marie Brizard orange curacao
+    - 2 dashes Angostura bitters
+    steps:
+    - Stir and strain into a coupe.
+    tags:
+    - stirred
+  - name: The Start and Finish
+    author: Rhiannon Enlil
+    notes: 
+    ingredients:
+    - 1 1/2 oz Averna
+    - 1/2 oz Lillet Blonde
+    - 1/2 oz dry vermouth
+    - 1/2 oz absinthe verte
+    - 1 dash Regan's orange bitters
+    - "Garnish: orange twist"
+    steps:
+    - Stir and strain over ice in a rocks glass.
+    - Garnish with an orange twist.
+    tags:
+    - stirred
+  - name: Teenage Riot
+    author: Tonia Guffey
+    notes: 
+    ingredients:
+    - 1 1/2 oz Cynar
+    - 1 1/2 oz Rittenhouse rye
+    - 1/2 oz Dolin dry vermouth
+    - 1/2 oz Lustau Dry Amontillado sherry
+    - 2 dashes Regan's orange bitters
+    - "Garnish: flamed orange twist"
+    steps:
+    - Stir and strain into a coupe.
+    - Garnish with the flamed lemon twist.
+    tags:
+    - stirred
+    - flame
+  - name: Tiger Balm
+    author: Kirk Estopinal
+    notes: 
+    ingredients:
+    - 2 oz Brugal Anejo
+    - 3/4 oz lime juice
+    - 1/2 oz demerara syrup (2:1)
+    - 1/4 oz Fernet-Branca Menta
+    - "Garnish: mint leaf"
+    steps:
+    - Shake and strain the ingredients into a chilled cocktail glass.
+    - Garnish with a mint leaf, slapping the leaf to express its oils.
+    tags:
+    - shaken
+    - citrus
+  - name: Thrilla in Manilla
+    author: David Wondrich
+    notes: Lambanog is a type of clear Philippine coconut-palm brandy. Since this is difficult to impossible to find, any white spirit that's light, clean, and floral will do, although you may have to tinker with the name of the drink. Pisco is a good place to start. To make the Jaggery syrup, melt 2 pounds of jaggery in 16 oz. water over a low flame until all is dissolved. This is easier if you hack the loaves it comes in into small pieces first. Bottle and keep refrigerated; this stuff will ferment on you.
+    ingredients:
+    - 2 oz Queen-brand Lambanog
+    - 1/2 oz Old Grand-Dad 100-proof bourbon
+    - 1/2 oz lime juice
+    - 2 barspoons Jaggery syrup
+    - 1 dash Angostura bitters
+    - "Garnish: lime wheel"
+    steps:
+    - Shake and strain into a chilled cocktail glass.
+    - Garnish with a lime wheel.
+    tags:
+    - shaken
+    - citrus
+  - name: Transatlantic Giant
+    author: Colin Shearn
+    notes: Nailing the proportions could not have been easy on this one. A lot of strong flavors that want to pull the drink away from its natural center, but Colin got them all to fall in line.
+    ingredients:
+    - 1 1/2 oz Buffalo Trace
+    - 1/2 oz Smith & Cross
+    - 1/2 oz Cynar
+    - 1/2 oz Sloe gin
+    - 1/2 oz Creme de Cacao
+    - 3 dashes Angostura bitters
+    steps:
+    - Stir and strain into a coupe.
+    tags:
+    - stirred
+  - name: Trans-Europe Express
+    author: Ciaran Wiese
+    notes: 
+    ingredients:
+    - 3/4 oz Macallan Single Malt
+    - 3/4 oz Campari
+    - 3/4 oz Punt e Mes
+    - 3/4 oz Yellow Chartreuse
+    - 1 dash Peychaud's bitters
+    - 1 dash Regan's Orange bitters
+    - Green Chartreuse, to rinse
+    steps:
+    - Stir and strain into a coupe rinsed with Green Chartreuse.
+    tags:
+    - stirred
+  - name: Under the Volcano
+    author: Kyle Davidson
+    notes: This is entirely tangential, but this drink makes me want to say, "I'm under a volcano? No, you're under a volcano!" -Maks
+    ingredients:
+    - 2 oz Tesoro Anejo
+    - 3/4 oz lime juice
+    - 1/4 oz Yellow Chartreuse
+    - 1/2 oz Cynar
+    - 1/4 oz agave nectar
+    steps:
+    - Shake and strain into a coupe.
+    tags:
+    - shaken
+    - citrus
+  - name: The Vellocet
+    author: Kirk Estopinal
+    notes: 
+    ingredients:
+    - 2 oz Green Chartreuse
+    - 1 1/4 oz pineapple juice
+    - 3/4 oz lime juice
+    - 1/2 oz falernum
+    - 2 dashes Angostura bitters
+    - 2 dashes Peychaud's bitters
+    - "Garnish: mint sprig"
+    steps:
+    - Build the cocktail in a collins glass filled with crushed ice.
+    - Swizzle until frost forms on the outside of the glass.
+    - Garnish with a mint sprig.
+    - "'Blue blazer' green Chartreuse (1/4 oz) on top of mint to burn."
+    tags:
+    - citrus
+    - stirred
+    - flame
+  - name: Viggo Cocktail
+    author: Chris Amirault
+    notes: 
+    ingredients:
+    - 1 oz Bluecoat gin
+    - 1/2 oz Aalboarg Akvavit
+    - 1/2 M&R sweet vermouth
+    - 1/3 oz lemon juice
+    - 1/4 oz simple syrup (1:1)
+    - 1 dash Angostura bitters
+    - 1/2 kirby cucumber, diced
+    steps:
+    - Shake and double-strain into a coupe.
+    tags:
+    - shaken
+    - citrus
+  - name: The Warning Label
+    author: Maks Pazuniak
+    notes: 
+    ingredients:
+    - 1 oz Cynar
+    - 1 oz Demerara 151 rum
+    - 1 oz Punt e Mes
+    - 1 dash Regan's orange bitters
+    - 1 dash grapefruit bitters
+    - Campari, to rinse
+    - "Garnish: lemon twist"
+    steps:
+    - Stir and strain into a chilled cocktail glass rinsed with Campari.
+    - Garnish with a lemon twist.
+    tags:
+    - stirred
+  - name: West Indian Summer
+    author: Rhiannon Enlil
+    notes: 
+    ingredients:
+    - 1 1/2 oz Gilka Kummel
+    - 1 oz Old Raj gin
+    - 1/2 oz lemon juice
+    - 1 barspoon Maraschino liqueur
+    - 1 barspoon simple syrup (1:1)
+    - 1 barspoon Regan's Orange bitters
+    - "Garnish: orange twist"
+    steps:
+    - Stir and strain into a coupe.
+    - Garnish with an orange twist.
+    tags:
+    - stirred
+    - citrus
+  - name: 2 Cups of Blood
+    author: Tonia Guffey
+    notes: 
+    ingredients:
+    - 3/4 oz Bittermen's Mole bitters
+    - 3/4 oz Suze
+    - 3/4 oz Punt e Mes
+    - 3/4 oz Mezcal Vida
+    - 1 barspoon agave syrup (2:1)
+    - 2 dahes Regan's orange bitters
+    - "Garnish: grapefruit peel"
+    steps:
+    - Stir and strain into a coupe.
+    - Express the oil from a grapefruit peel and discard.
+    tags:
+    - stirred

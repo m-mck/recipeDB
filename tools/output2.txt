@@ -1557,7 +1557,7 @@ george dickel no. 1 white corn whiskey
 george dickel no. 1 white corn whisky
 george dickel rye
 germain robin craft method brandy
-germain-robin craft-method brandy
+Germain Robin Craft Method brandy
 giffard abricot du roussillon
 giffard abricot du roussillon liqueur
 giffard aperitif syrup
@@ -1571,7 +1571,7 @@ giffard cassis noir du bourgogne
 giffard crème de banane
 giffard crème de banane liqueur
 giffard crème de cacao
-giffard crème de cacao (white) liqueur
+Giffard white crème de cacao
 Giffard white crème de cacao
 giffard crème de châtaigne
 giffard crème de fraise des bois
@@ -1781,7 +1781,7 @@ heaping spoonfuls (about 48g) ginger snow
 heavy cream
 heavy cream, 1 barspoon sugar, fresh mint sprig
 heavy cream, to top
-heering cherry liqueur
+cherry heering liqueur
 hefeweizen beer
 hella bitter citrus bitters
 hendrick's gin
@@ -1985,7 +1985,7 @@ kosher salt, for rimming
 koshi no kanbai sai junmai ginjō saké
 koshian syrup
 koval chrysanthemum & honey liqueur
-koval chrysanthemum and honey liqueur
+Koval Chrysanthemum & Honey liqueur
 koval cranberry gin liqueur
 koval rose hip liqueur
 krogstad aquavit
@@ -2807,7 +2807,7 @@ parsley tincture
 partida reposado tequila
 pasquet marie-framboise
 pasquet pineau des charentes
-passion fruit liqueur, preferably passoã
+Passoã passion fruit liqueur
 passion fruit puree
 passion fruit syrup
 passion fruit-yuzu sour mix
@@ -3180,7 +3180,7 @@ rothman & winter orchard apricot liqueur
 rothman & winter orchard cherry liqueur
 rothman & winter orchard pear liqueur
 Rothman & Winter Orchard pear liqueur
-rothman and winter orchard apricot liqueur
+Rothman & Winter orchard apricot liqueur
 royal combier
 royal combier grande orange liqueur
 royal combier liqueur
@@ -3859,7 +3859,7 @@ vermouth del professore rosso
 vermouth di torino, preferably cocchi
 vermouth limoncello
 vermouth limoncello, chilled
-vicardio dragancello liqueur
+Vicardio dragoncello liqueur
 victory prima pils
 vieux pontarlier absinthe
 vieux pontarlier absinthe, for atomizer

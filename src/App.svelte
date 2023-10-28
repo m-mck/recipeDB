@@ -12,7 +12,35 @@
 	let recipes = [];
 	let pinnedRecipes = new Set();
 	
-	$: lowercaseSearchTerm = searchTerm.toLocaleLowerCase('en-US');
+	function createSearchToken(searchTerm) {
+		if (searchTerm.startsWith('!')) {
+			return {
+				term: searchTerm.substr(1),
+				exclude: true
+			};
+		} else {
+			return {
+				term: searchTerm,
+				exclude: false
+			};
+		}
+	}
+
+	$: searchTokens = searchTerm
+		.toLocaleLowerCase('en-US')
+		.split(',')
+		.map((term) => term.trim())
+		.map(createSearchToken);
+
+	function matchesSearchTerms(str) {
+		for (let termObj of searchTokens) {
+			if (str.includes(termObj.term) == termObj.exclude) {
+				return false;
+			}
+		}
+		return true;
+	}
+
 	$: filteredRecipes = recipes.filter((recipe) => {
 		if (get(recipe.isPinned)) {
 			return false;
@@ -20,16 +48,16 @@
 		if (!lowercaseSearchTerm) {
 			return true;
 		}
-		if (recipe.name != null && recipe.name.toLocaleLowerCase('en-US').includes(lowercaseSearchTerm)) {
-			return true;
+		if (recipe.name != null && matchesSearchTerms(recipe.name) == false) {
+			return false
 		}
-		if (recipe.author != null && recipe.author.toLocaleLowerCase('en-US').includes(lowercaseSearchTerm)) {
-			return true;
+		if (recipe.author != null && matchesSearchTerms(recipe.author) == false) {
+			return false;
 		}
 		if (recipe.ingredients) {
 			for (let item of recipe.ingredients) {
-				if (item != null && item.toLocaleLowerCase('en-US').includes(lowercaseSearchTerm)) {
-					return true;
+				if (item != null && matchesSearchTerms(item) == false) {
+					return false;
 				}
 			}
 		}

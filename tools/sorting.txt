@@ -1,9 +1,13 @@
     FORTIFIED WINES
         chinato
-        red macvin du jura
+        macvin du jura
+            red macvin du jura
+            château d’arlay macvin du jura blanc mistelle
         cocchi barolo
         maurin quina
+        tresmontaine "tabacal" rancio sec
         dubonnet rouge
+            mulled dubonnet
         casoni 1814 aperitivo
         cocchi americano
             cocchi americano bianco
@@ -152,9 +156,17 @@
         saika yuzu shu sake
         narutotai ginjo nama genchu sake
         dewazikura tobiroku sparkling sake
+        tozai blossom of peace plum wine
     LIQUEURS
         HERBAL LIQUEUR
+            xila licor de agave liqueur
+            aveze
+            Tempus Fugit Gran Classico
+            Batavia-Arrack Van Oosten
+            wild sardinia mirto liqueur
+            vicardio dragoncello liqueur
             guillaumette l’authentique génépi
+            pajarote toronja arandense & romero licor
             génépi
             escubac botanical spirit
             dolin génépy le chamois
@@ -164,12 +176,30 @@
             kronan swedish punsch
             strega
             art in the age root liqueur
+            zoco pacharán navarro liqueur
+            patxaran liqueur
             avèze gentiane liqueur
                 aveze
             bigallet thyme liqueur
             boomsma cloosterbitter liqueur
             dolin génépy des alpes liqueur
             goldwasser liqueur
+            galliano l'autentico
+            guaycura damiana liqueur
+            italicus bergamot liqueur
+            italicus rosolio bergamot liqueur
+            italicus rosolio di bergamotto bergamot liqueur
+            licor 43 liqueur
+            lionel osmin estela tannat-malbec vin de liqueur
+            massenez garden party basil liqueur
+            bénédictine
+            maurin quina le puy liqueur
+            pagès verveine velay extra liqueur
+            parfait amour liqueur
+            sorel liqueur
+            becherovka
+            bäska snaps med malört
+            Tempus Fugit Kina L'Aéro D'Or Aperitif
         LEMON LIQUEUR
             limoncello
                 meletti limoncello
@@ -179,9 +209,11 @@
             maraschino liqueur
             maraska maraschino liqueur
             house maraschino liqueur
+            luxardo maraschino liqueur
         RASPBERRY LIQUEUR
             pasquet marie-framboise
             emile pernot fraise de boise liqueur
+            giffard crème de framboise liqueur
         PIMENTO DRAM
             hamilton pimento dram
         BANANA LIQUEUR
@@ -194,8 +226,12 @@
         ANISE LIQUEUR
             pernod
             pastis
+            stoupakis homeric mastiha liqueur
+            varnelli l’anice secco speciale liqueur
         GIN LIQUEUR
             pimm's no. 1
+            greenhook ginsmiths beach plum gin liqueur
+            koval cranberry gin liqueur
         RED BITTERS
             red bitter
             forthave spirits red aperitivo
@@ -203,10 +239,12 @@
             caffo red bitter
         FERNET
             contratto fernet
+            tempus fugit spirits fernet del frate angelico
         MALÖRT
             jeppson’s malört
         KÜMMEL
             combier kümmel
+            gilka kaiser-kümmel liqueur
         YUZUSHU
             tsukasa botan yama yuzu-shu
         MELON LIQUEUR
@@ -214,12 +252,18 @@
         CHERRY LIQUEUR
             cherry heering
             brovo boomerang
+            leopold bros. michigan tart cherry liqueur
+            sour cherry liqueur
+            rothman & winter cherry liqueur
+            rothman & winter orchard cherry liqueur
         RASPBERRY LIQUEUR
             chambord
             giffard crème de framboise
+            st. george raspberry liqueur
         ROSE LIQUEUR
             combier crème de rose
             distillerie g. miclo rose liqueur
+            koval rose hip liqueur
         BLACKCURRANT LIQUEUR
             crème de cassis
             gabriel boudier crème de cassis de dijon
@@ -232,15 +276,18 @@
             crème de mûre
             crème de mure
             giffard crème de mûre
+            massenez crème de mûre blackberry liqueur
         VIOLET LIQUEUR
             crème de violette
                 rothman & winter crème de violette
             crème yvette liqueur
         MINT LIQUEUR
             green crème de menthe
+                tempus fugit crème de menthe
             white crème de menthe
                 giffard menthe-pastille
                 marie brizard white crème de menthe
+                tempus fugit white crème de menthe
         PEACH LIQUEUR
             massenez crème de pêche
             merlet crème de pêche
@@ -248,6 +295,8 @@
             giffard crème de pêche de vigne
             briottet crème de peche
             giffard crème de pêche
+            mathilde peach liqueur
+            mathilde pêche liqueur
         STRAWBERRY LIQUEUR
             merlet crème de fraise des bois
             giffard crème de fraise des bois
@@ -262,10 +311,20 @@
             giffard abricot du roussillon    
             giffard apricot
             rothman & winter orchard apricot liqueur
+            marie brizard apricot liqueur
+            marie brizard apry apricot liqueur
+            luxardo apricot liqueur
+            rothman & winter apricot liqueur
+            toasted almond-infused apricot liqueur
+            tempus fugit crème de noyaux
         CHOCOLATE LIQUEUR
             giffard crème de cacao
             brovo chocolate liqueur
             distillerie de biercée noir d’ivoire liqueur
+            crème de cacao, teardrop's diy recipe
+            tempus fugit spirits crème de cacao
+            tempus fugit spirits crème de cacao a la vanilla
+            meletti cioccolato liqueur
         WHITE CHOCOLATE LIQUEUR
             giffard white crème de cacao
             crème de cacao
@@ -304,9 +363,13 @@
             cointreau
             bigallet china-china amer
             combier l’original
+            royal combier
+            mandarine napoléon liqueur
+            rhum clément créole shrubb
             curaçao
                 curacao
                 blue curaçao
+                    giffard blue curaçao liqueur
                     giffard blue curaçao
                     senior & co. blue curaçao
                 brovo orange curaçao
@@ -319,8 +382,14 @@
                 grand marnier
                     grand marnier cream
                     grand marnier cuvée centenaire
+            amer picon
+                amer boudreau
+            mandarine napoléon grande cuvée orange liqueur
+            santa teresa orange liqueur
+            solerno blood orange liqueur
         WALNUT LIQUEUR
-            walnut liqueur
+            nux alpina black walnut liqueur
+            nux alpina walnut liqueur
         CHILE LIQUEUR
             ancho reyes ancho chile liqueur
         PERSIMMON LIQUEUR
@@ -329,10 +398,18 @@
             apologue saffron liqueur
         HONEY LIQUEUR
             bärenjäger honey liqueur
+            koval chrysanthemum & honey liqueur
         COFFEE LIQUEUR
             bittermens new orleans coffee liqueur
             new deal coffee liqueur
             caffé lolita coffee liqueur
+            galliano ristretto
+            grand brulot coffee liqueur
+            kahlúa coffee liqueur
+            kahlúa midnight
+            mr. black coffee liqueur
+            st. george nola coffee liqueur
+            tia maria coffee liqueur
         GINGER LIQUEUR
             brovo ginger liqueur
             domaine de canton ginger liqueur
@@ -340,6 +417,7 @@
             chareau aloe liqueur
         CHAMOMILE LIQUEUR
             chamomile grappa liqueur
+            marolo milla grappa and chamomile liqueur
         CRANBERRY LIQUEUR
             clear creek cranberry liqueur
         COCONUT LIQUEUR
@@ -369,262 +447,172 @@
             fernet-branca menta
                 branca menta
                 brancamenta
-        BISCOTTI LIQUEUR    
+        BISCOTTI LIQUEUR
             faretti biscotti liqueur
-        galliano l'autentico
-        galliano ristretto
-        giffard blue curaçao liqueur
-        giffard caribbean pineapple liqueur
-        giffard crème de cacao (white) liqueur
-        giffard crème de fraise des bois strawberry liqueur
-        giffard crème de framboise liqueur
-        giffard crème de pamplemousse rose liqueur
-        giffard fruit de la passion liqueur
-        giffard lichi-li liqueur
-        giffard menthe-pastille liqueur
-        giffard passion fruit liqueur
-        giffard rhubarb liqueur
-        gilka kaiser-kümmel liqueur
-        granada-vallet bitter pomegranate liqueur
-        grand brulot coffee liqueur
-        grand marnier liqueur
-        greenhook ginsmiths beach plum gin liqueur
-        guaycura damiana liqueur
-        heering cherry liqueur
-        italicus bergamot liqueur
-        italicus rosolio bergamot liqueur
-        italicus rosolio di bergamotto bergamot liqueur
-        kahlúa coffee liqueur
-        kahlúa midnight or other coffee liqueur
-        koval chrysanthemum & honey liqueur
-        koval chrysanthemum and honey liqueur
-        koval cranberry gin liqueur
-        koval rose hip liqueur
-        l’orgeat almond liqueur
-        lazzaroni amaretto liqueur
-        leopold bros. michigan tart cherry liqueur
-        leopold bros. new york sour apple liqueur
-        licor 43 liqueur
-        lionel osmin estela tannat-malbec vin de liqueur
-        liqueur griottine morand cherry brandy
-        luxardo apricot liqueur
-        luxardo maraschino liqueur
-        mandarine napoléon grande cuvée orange liqueur
-        mandarine napoléon liqueur
-        marie brizard apricot liqueur
-        marie brizard apry apricot liqueur
-        marolo milla grappa and chamomile liqueur
-        massenez crème de mûre blackberry liqueur
-        massenez garden party basil liqueur
-        mathilde peach liqueur
-        mathilde pêche liqueur
-        maurin quina le puy liqueur
-        meletti cioccolato liqueur
-        merlet crème de fraise des bois strawberry liqueur
-        midori melon liqueur
-        mr. black coffee liqueur
-        myrus nutmeg liqueur
-        nux alpina black walnut liqueur
-        nux alpina walnut liqueur
-        orange liqueur
-        pagès verveine velay extra liqueur
-        parfait amour liqueur
-        passion fruit liqueur, preferably passoã
-        patxaran liqueur
-        perique liqueur
-        Pimm's No. 1 liqueur
-        rothman & winter apricot liqueur
-        rothman & winter cherry liqueur
-        rothman & winter orchard apricot liqueur
-        rothman & winter orchard cherry liqueur
-        rothman and winter orchard apricot liqueur
-        royal combier grande orange liqueur
-        royal combier
-        sake-based yuzu liqueur
-        santa teresa orange liqueur
-        scant barspoon luxardo maraschino liqueur
-        solerno blood orange liqueur
-        somrus chai cream liqueur
-        sorel liqueur
-        sour cherry liqueur
-        st. george nola coffee liqueur
-        st. george raspberry liqueur
-        stoupakis homeric mastiha liqueur
-        strawberry liqueur
-        suze d’autrefois liqueur
-        suze gentiane liqueur
-        suze saveur d’autrefois liqueur
-        tia maria coffee liqueur
-        toasted almond-infused apricot liqueur
-        trader vic's macadamia nut liqueur
-        tuaca
+        PINEAPPLE LIQUEUR
+            giffard caribbean pineapple liqueur
+        PASSIONFRUIT LIQUEUR
+            giffard passion fruit liqueur
+            passoã passion fruit liqueur
+        LYCHEE LIQUEUR
+            giffard lichi-li liqueur
+        RHUBARB LIQUEUR
+            giffard rhubarb liqueur
+        POMEGRANATE LIQUEUR
+            granada-vallet bitter pomegranate liqueur
+        NUTMEG LIQUEUR
+            myrus nutmeg liqueur
+        ALMOND LIQUEUR
+            l’orgeat almond liqueur
+        APPLE LIQUEUR
+            leopold bros. new york sour apple liqueur
+        TOBACCO LIQUEUR
+            perique liqueur
+        YUZU LIQUEUR
+            sake-based yuzu liqueur
+            yuzuri liqueur
+            umenoyado yuzu shu liqueur
+        CHAI LIQUEUR
+            somrus chai cream liqueur
+        SUZE
+            suze d’autrefois liqueur
+            suze gentiane liqueur
+            suze saveur d’autrefois liqueur
+            suze apéritif
+            strawberry infused suze-cappelletti mixture
+        MACADAMIA NUT LIQUEUR
+            trader vic's macadamia nut liqueur
+        TUACA
             tuaca liqueur
-        umenoyado yuzu shu liqueur
-        varnelli l’anice secco speciale liqueur
-        falernum
+        FALERNUM
             house-made falernum
             velvet falernum
                 John D. Taylor's Velvet Falernum
                 tailor velvet falernum
-        vicardio dragancello liqueur
-        wild sardinia mirto liqueur
-        xila licor de agave liqueur
-        yuzuri liqueur
-        zoco pacharán navarro liqueur
-        chartreuse
+        CHARTREUSE
             green chartreuse
                 chartreuse élixir végétal
                 green chartreuse v.e.p.
             yellow chartreuse
                 yellow chartreuse infused with serranos
                 yellow chartreuse v.e.p.
-        orange liqueur
-            amer picon
-                amer boudreau
-        frangelico
+        FRANGELICO
                 aggazzotti nocino riserva
-        amaretto
+        AMARETTO
             caffo amaretto
             lazzaroni amaretto
             luxardo amaretto
-        tempus fugit crème de cacao
-        tempus fugit crème de menthe
-        tempus fugit crème de noyaux
-        Tempus Fugit Gran Classico
-        Tempus Fugit Kina L'Aéro D'Or Aperitif
-        tempus fugit spirits crème de cacao
-        tempus fugit spirits crème de cacao a la vanilla
-        tempus fugit spirits fernet del frate angelico
-        tempus fugit white crème de menthe
-        pajarote toronja arandense & romero licor
-        Aveze
-        bailey's irish cream
-        suze
-            suze apéritif
-            strawberry infused suze-cappelletti mixture
-        bäska snaps med malört
-        Batavia-Arrack Van Oosten
-        becherovka
-        bénédictine
-        crème de cacao, teardrop's diy recipe
-        mathilde poire
+            lazzaroni amaretto liqueur
+        CREAM LIQUEUR
+            bailey's irish cream      
     VERMOUTH
-        priorat natur vermut
-        lustau vermut blanco
-        lustau vermut rojo
         sweet vermouth
+            cinzano rosso vermouth
+            nectarine vermouth
+            cola lustau rosé vermut
+            vermouth del professore rosso
+            ransom sweet vermouth
+            gonzález byass la copa vermouth
+            imbue bittersweet vermouth
+            homemade vermouth
+            del professore vermouth rosso
+            cinzano sweet vermouth
+            honeysuckle vermouth
+            house sweet vermouth
+            contratto americano rosso vermouth
+            cinzano orancio vermouth
+            noilly prat ambré vermouth
+            noilly prat sweet vermouth
             Carpano Antica Formula sweet vermouth
+                blood orange-infused Carpano Antica Formula sweet vermouth
+                cinnamon orange tea-infused sweet vermouth
+                coffee vermouth
+                coffee-infused Carpano Antica Formula sweet vermouth    
             Cinzano Rosso vermouth
+            martini & rossi ambrato vermouth
             punt e mes
                 grapefruit-infused punt e mes
             noilly prat sweet vermouth
             alessio chinato vermouth
             amber vermouth
+            dolin rogue vermouth
+            dolin rouge vermouth
+            dolin sweet vermouth
+            dolin vermouth rouge
+            sweet (red) vermouth
+            martini riserva speciale ambrato vermouth di torino
+            martini rosso vermouth
+            martini sweet vermouth
             cocchi di torino
+                cocchi vermouth di torino
+                vermouth di torino, preferably cocchi
+                cocchi storico vermouth di torino
+                birch-infused cocchi vermouth di torino
             cocchi storico di torino
             dolin rogue vermouth
                 ancho chile-infused dolin rouge vermouth
+            priorat natur vermut
+            lustau vermut rojo
+            martini & rossi fiero
+            berto rosso vermouth
+            martini & rossi gran lusso vermouth
+            martini & rossi red vermouth
+            martini & rossi riserva speciale ambrato vermouth
+            martini & rossi riserva speciale rubino vermouth
+            martini & rossi sweet vermouth
         dry vermouth
+            boissiere dry vermouth
+            noilly prat dry vermouth
+            noilly prat dry vermouth - 1940s
+            noilly prat extra dry vermouth
+            noilly prat original dry vermouth
+            noilly prat original dry vermouth
+            mancino sakura vermouth
+            japanese bermutto or dry vermouth
+            léonce vermouth
+            dry white vermouth
+            dolin dry vermouth
+                watermelon-infused dolin dry vermouth
+            dolin dry vermouth de chambéry
+            dolin vermouth de chambéry dry
+            dry vermouth, preferably bordiga extra dry
+            dry vermouth, preferably dolin
+            dry vermouth, preferably noilly prat extra dry
+            la quintinye extra dry royal vermouth
+            la quintinye vermouth royal extra dry
+            mancino vermouth secco
         blanc vermouth
             atsby armadillo cake vermouth
+            noilly prat blanc vermouth - 1900s
+            poli gran bassano bianco vermouth
+            sage-infused dolin blanc vermouth
+            silver needle tea-infused dolin blanc vermouth
+            thai basil blanc vermouth
+            martini bianco
+            montanaro bianco vermouth
             dolin blanc vermouth
                 celery root-infused dolin blanc
-        banana-infused dolin blanc vermouth
-        martini bianco
-        martini & rossi fiero
-        basil-infused dolin blanc vermouth
-        bèrto aperitiv dla tradission bianco vermouth
-        berto rosso vermouth
-        birch-infused cocchi vermouth di torino
-        blanc vermouth
-        blanc vermouth, preferably dolin
-        blood orange-infused Carpano Antica Formula sweet vermouth
-        boissiere dry vermouth
-        sweet vermouth
-        thai basil blanc vermouth, chilled
-        sweet vermouth
-        carpano antica formula sweet vermouth
-        carpano bianco vermouth
-            carpano bianco - 1970s
-        chamomile blanc vermouth
-        chamomile-infused bianco vermouth
-        cinnamon orange tea-infused sweet vermouth
-        cinzano orancio vermouth
-        cinzano rosso vermouth
-        cinzano sweet vermouth
-        dry white vermouth
-        cocchi storico vermouth di torino
-        cocchi vermouth di torino
-        coffee vermouth
-        coffee-infused Carpano Antica Formula sweet vermouth    
-        contratta vermouth bianco
-        contratto americano rosso vermouth
-        del professore vermouth rosso
-        dolin blanc vermouth
-        dolin dry vermouth
-        dolin dry vermouth de chambéry
-        dolin rogue vermouth
-        dolin rouge vermouth
-        dolin sweet vermouth
-        dolin vermouth de chambéry blanc
-        dolin vermouth de chambéry dry
-        dolin vermouth rouge
-        dry vermouth
-        dry vermouth, preferably bordiga extra dry
-        dry vermouth, preferably dolin
-        dry vermouth, preferably noilly prat extra dry
-        earl grey-infused dolin blanc vermouth
-        full-bodied sweet vermouth
-        gonzález byass la copa vermouth
-        homemade vermouth
-        honeysuckle vermouth
-        house sweet vermouth
-        imbue bittersweet vermouth
-        japanese bermutto or dry vermouth
-        la quintinye blanc vermouth
-        la quintinye extra dry royal vermouth
-        la quintinye royal blanc vermouth
-        la quintinye vermouth royal blanc
-        la quintinye vermouth royal extra dry
-        léonce vermouth
-        mancino sakura vermouth
-        mancino vermouth secco
-        martini & rossi ambrato vermouth
-        martini & rossi bianco vermouth
-        martini & rossi gran lusso vermouth
-        martini & rossi red vermouth
-        martini & rossi riserva speciale ambrato vermouth
-        martini & rossi riserva speciale rubino vermouth
-        martini & rossi sweet vermouth
-        martini bianco
-        martini riserva speciale ambrato vermouth di torino
-        martini rosso vermouth
-        martini sweet vermouth
-        montanaro bianco vermouth
-        nectarine vermouth
-        noilly prat ambré vermouth
-        noilly prat blanc vermouth - 1900s
-        noilly prat dry vermouth
-        noilly prat dry vermouth - 1940s
-        noilly prat extra dry vermouth
-        noilly prat original dry vermouth
-        noilly prat sweet vermouth
-        poli gran bassano bianco vermouth
-        punt e mes vermouth
-        ransom sweet vermouth
-        sage-infused dolin blanc vermouth
-        silver needle tea-infused dolin blanc vermouth
-        sweet (red) vermouth
-        sweet vermouth
-        thai basil blanc vermouth
-        noilly prat original dry vermouth
-        vermouth del professore rosso
-        vermouth di torino, preferably cocchi
-        vermouth limoncello
-        vermouth limoncello, chilled
-        watermelon-infused dolin dry vermouth
-        white vermouth
-        cola lustau rosé vermut
+                banana-infused dolin blanc vermouth
+                thai basil blanc vermouth
+                basil-infused dolin blanc vermouth
+                chamomile blanc vermouth
+                chamomile-infused bianco vermouth
+            la quintinye blanc vermouth
+                la quintinye royal blanc vermouth
+                la quintinye vermouth royal blanc
+            lustau vermut blanco
+            martini bianco
+            earl grey-infused dolin blanc vermouth
+            bèrto aperitiv dla tradission bianco vermouth
+            white vermouth
+            carpano bianco vermouth
+                carpano bianco - 1970s
+            contratta vermouth bianco
+            dolin vermouth de chambéry blanc
+            martini & rossi bianco vermouth
+        et cetera
+            vermouth limoncello
+            lustau rosé vermut
     AMARO
         luxardo bitter rosso
         cardamaro liqueur
@@ -703,13 +691,101 @@
         underberg
     WHISKEY
         BOURBON
+            high west campfire whiskey
+            westland sherry wood american single malt whiskey
+            corn whiskey
+            wyoming whiskey
+            mellow corn whiskey
+                salted butter-washed whiskey
+            bernheim wheat whiskey
+                lavender-infused bernheim original wheat whiskey
+            death’s door white whiskey
+            j. rieger kansas city whiskey
+            george dickel no. 1 white corn whiskey
+            george dickel no. 1 white corn whisky
+            del bac distiller's cut single malt whiskey
+            barrell dovetail whiskey
+            barrell whiskey batch 004
+            oated whiskey
+            peach whiskey
+            evan williams single-barrel whiskey
+            high west silver oat whiskey
+            high west silver western oat whiskey
+            high west silver whiskey western oat
+            high west western oat silver whiskey
             elijah craig 12-year bourbon
             angel’s envy kentucky straight bourbon whiskey
             balcones brimstone whisky
+            baker’s bourbon
+            four roses
+                four roses single barrel bourbon
+                benton’s bacon fat-washed four roses bourbon
+            benton’s bacon fat-infused bourbon
+            blanton’s single barrel bourbon whiskey
+            bonded bourbon
+            booker's bourbon
+            bourbon, preferably a pre-prohibition style like old forester
+            bourbon, preferably booker’s
+            bourbon, preferably buffalo trace
+            bourbon, preferably bulleit
+            bourbon, preferably knob creek
+            buffalo trace bourbon
+            bulleit bourbon
+            bulleit bourbon infused with skillet-roasted figs and pears
+            coconut-infused bourbon
+            eagle rare 10-year bourbon
+            eagle rare bourbon whiskey
+            eagle rare kentucky straight bourbon whiskey
+            elijah craig 12-year bourbon
+            elijah craig bourbon
+            elijah craig small batch bourbon
+            elijah craig small batch bourbon whiskey
+            elote-infused elijah craig bourbon
+            evan williams "black label" bourbon
+            evan williams bonded bourbon
+            evan williams single barrel bourbon
+            evan williams single-barrel bourbon
+            fig bourbon    
+            fig-infused elijah craig bourbon
+            frozen bourbon
+            graham cracker infused elijah craig single-barrel bourbon
+            henry mckenna or evan williams bonded bourbon
+            j.t.s. brown bottled in bond bourbon
+            j.t.s. brown kentucky bourbon
+            knob creek 100 bourbon
+            knob creek single barrel reserve bourbon
+            maker’s mark private select aviary barrel bourbon
+            mic drop bourbon 
+            old forester 100 bourbon
+            old forester classic 86 proof bourbon
+            old forester signature bourbon
+            old grand-dad 114 bourbon
+            old grand-dad bonded bourbon
+            old grand-dad bourbon
+            old weller antique 107 bourbon
+            old grand-dad 114 bourbon
+            peanut-infused bourbon    
+            pecan-infused buffalo trace bourbon
+            pistachio-infused elijah craig bourbon
+            rabbit hole bourbon
+            russell's reserve 10-year bourbon
+            russell’s reserve 10-year bourbon
+            rye or bourbon
+            s.p. lancaster bourbon - 1932    
+            sazerac rye or evan williams single-barrel bourbon
+            stagg bourbon
+            tea-infused bourbon
+            thai chile-infused bourbon
+            weller special reserve bourbon   
+            wild turkey 101 bourbon
+            willett bourbon
+            woodford reserve bourbon
         RYE
             Wild Turkey 101 Rye
                 bonded rye
             bonded rye, 50% alcohol or stronger
+            rittenhouse 100-proof rye
+            canadian whiskey or rye
             dried currant-infused wild turkey rye
             george dickel rye
             high west double rye
@@ -764,6 +840,10 @@
             woodford reserve rye whiskey
         SCOTCH
             johnnie walker gold reserve
+            compass box the peat monster
+            naked grouse whisky
+            glen grant 10-year whisky
+            navazos palazzi overseas malt whiskey
             compass box orangerie
             Single Malt Scotch
                 aberlour 12-year-old single malt scotch whisky
@@ -781,12 +861,13 @@
             bank note scotch
             banksy scotch mix
             blended scotch
-            blended scotch, such as bank note or famous grouse
+                blended scotch, such as bank note or famous grouse
             bowmore 12 peated single malt scotch
             bowmore 12-year scotch
             bowmore 18-year-old single malt scotch whisky
             bruichladdich “rocks” scotch whisky
             bruichladdich port charlotte 7-year scotch
+            bruichladdich the classic laddie
             caol ila 12-year scotch
             chamomile scotch    
             chivas regal 12-year blended scotch whisky
@@ -808,16 +889,15 @@
             islay single malt scotch, preferably laphroaig 10-year
             kilchoman machir bay single malt scotch
             kilkerran 12-year single malt scotch
-            laphroaig 10 year old scotch
-            laphroaig 10 year old scotch whisky
-            laphroaig 10-year islay single-malt scotch
-            laphroaig 10-year scotch
-            laphroaig 10-year scotch, to rinse
-            laphroaig 10-year single malt scotch
-            laphroaig 12-year scotch
-            laphroaig scotch
-            laphroaig scotch, to rinse
-            laphroaig select scotch whisky
+            Laphroaig
+                laphroaig 10 year old scotch
+                laphroaig 10 year old scotch whisky
+                laphroaig 10-year islay single-malt scotch
+                laphroaig 10-year scotch
+                laphroaig 10-year single malt scotch
+                laphroaig 12-year scotch
+                laphroaig scotch
+                laphroaig select scotch whisky
             macallan 15-year scotch
             macallan fine oak 10-year scotch
             monkey shoulder blended malt scotch
@@ -825,9 +905,6 @@
             old pulteney 12 year single malt scotch whisky
             peated scotch whiskey  
             raisin-infused scotch
-            scotch
-            scotch, preferably a smoky islay-style whisky, such as laphroaig
-            scotch, preferably bruichladdich the classic laddie
             sheep dip 8-year pure malt scotch    
             shichimi salt
             speyside single malt scotch    
@@ -839,9 +916,31 @@
             unpeated single malt scotch
             chivas regal 18
         Japanese whisky
+            nikka taketsuru whisky
+            shiitake-infused hibiki harmony whisky
             akashi japanese whisky
+            whisky dashi
+            local whisky blend
             akashi umé whisky
             hibiki 12-year blended single malt japanese whisky
+            suntory kakubin
+            chilled japanese whisky
+            hakashu 12-year japanese whisky
+            iri bancha–infused japanese whisky
+            mars iwai 45 japanese whisky
+            mars iwai 45 japanese whisky in the freezer
+            nikka coffey grain japanese whisky
+            nikka miyagikyo single malt japanese whisky
+            salt-roasted sweet potato-infused japanese whisky
+            strawberry and pomegranate-infused japanese whisky    
+            sesame oil-washed japanese whisky
+            japanese whiskey
+            shot cold suntory toki whisky
+            suntory hakashu 12-year whisky
+            suntory toki whisky   
+            suntory hakushu 12-year whiskey
+            yamazaki 12-year whisky
+                yamazaki 12-year whiskey
             Hibiki Japanese Harmony whisky
                 truffle butter-washed whisky
         Irish Whisky
@@ -863,14 +962,17 @@
             west cork glengarriff bog oak charred cask
             west cork glengarriff peat charred cask finish
             dead rabbit
+                pineapple-infused dead rabbit whiskey 
             clonakilty bordeaux cask single grain
             bushmills the original
+            connemara irish whisky
             slane
                 slane blended
             roe & co
             west cork 12 rum cask
             apricot-infused famous grouse scotch
             jameson original irish whiskey
+            hibiscus-infused jameson black barrel
             powers three swallow single pot still
                 butternut squash seed oil-washed powers three swallow
                 corn silk tea–infused powers three swallow
@@ -886,6 +988,7 @@
             tullamore d.e.w. 12
             tullamore d.e.w. caribbean rum cask
             tullamore d.e.w. original
+                tullamore d.e.w. irish whiskey
             green spot single pot still
                 raspberry-infused green spot
             redbreast 12 single pot still
@@ -901,142 +1004,20 @@
             teeling small batch
                 sesame-infused teeling small batch
                 mango-infused teeling small batch
-        suntory kakubin
-        baker’s bourbon
-        benton’s bacon fat-infused bourbon
-        benton’s bacon fat-washed four roses bourbon
-        blanton’s single barrel bourbon whiskey
-        bonded bourbon
-        booker's bourbon
-        bourbon barrel stave
-        bourbon barrel stave section.
-        bourbon or rye
-        bourbon, preferably a pre-prohibition style like old forester
-        bourbon, preferably booker’s
-        bourbon, preferably buffalo trace
-        bourbon, preferably bulleit
-        bourbon, preferably knob creek
-        buffalo trace bourbon
-        bulleit bourbon
-        bulleit bourbon infused with skillet-roasted figs and pears
-        coconut-infused bourbon
-        eagle rare 10-year bourbon
-        eagle rare bourbon whiskey
-        eagle rare kentucky straight bourbon whiskey
-        elijah craig 12-year bourbon
-        elijah craig bourbon
-        elijah craig small batch bourbon
-        elijah craig small batch bourbon whiskey
-        elote-infused elijah craig bourbon
-        evan williams "black label" bourbon
-        evan williams bonded bourbon
-        evan williams single barrel bourbon
-        evan williams single-barrel bourbon
-        fig bourbon    
-        fig-infused elijah craig bourbon
-        four roses single barrel bourbon
-        frozen bourbon
-        graham cracker infused elijah craig single-barrel bourbon
-        henry mckenna or evan williams bonded bourbon
-        j.t.s. brown bottled in bond bourbon
-        j.t.s. brown kentucky bourbon
-        knob creek 100 bourbon
-        knob creek single barrel reserve bourbon
-        maker’s mark private select aviary barrel bourbon
-        mic drop bourbon 
-        old forester 100 bourbon
-        old forester classic 86 proof bourbon
-        old forester signature bourbon
-        old grand-dad 114 bourbon
-        old grand-dad bonded bourbon
-        old grand-dad bourbon
-        old weller antique 107 bourbon
-        old grand-dad 114 bourbon
-        peanut-infused bourbon    
-        pecan-infused buffalo trace bourbon
-        pistachio-infused elijah craig bourbon
-        rabbit hole bourbon
-        russell's reserve 10-year bourbon
-        russell’s reserve 10-year bourbon
-        rye or bourbon
-        s.p. lancaster bourbon - 1932    
-        sazerac rye or evan williams single-barrel bourbon
-        stagg bourbon
-        tea-infused bourbon
-        thai chile-infused bourbon
-        weller special reserve bourbon   
-        wild turkey 101 bourbon
-        willett bourbon
-        woodford reserve bourbon
-        amrut cask-strength single-malt indian whisky
-            amrut peated cask-strength single-malt indian whisky
-            barrell dovetail whiskey
-        barrell whiskey batch 004
-        bernheim wheat whiskey
-        bushmills irish whiskey
-        canadian whiskey or rye
-        clontarf 1014 irish whiskey
-        connemara peated single malt irish whiskey
-        death’s door white whiskey
-        del bac distiller's cut single malt whiskey
-        evan williams single-barrel whiskey
-        george dickel no. 1 white corn whiskey
-        grilled apricot-infused irish whiskey
-        high west campfire whiskey
-        high west silver oat whiskey
-        high west silver western oat whiskey
-        high west silver whiskey western oat
-        high west western oat silver whiskey
-        irish whiskey
-        j. rieger kansas city whiskey
-        jameson black barrel blended irish whiskey
-        jameson black barrel irish whiskey
-            hibiscus-infused jameson black barrel
-        chilled japanese whisky
-        connemara irish whisky
-        george dickel no. 1 white corn whisky
-        glen grant 10-year whisky
-        hakashu 12-year japanese whisky
-        iri bancha–infused japanese whisky
-        local whisky blend
-        mars iwai 45 japanese whisky
-        mars iwai 45 japanese whisky in the freezer
-        naked grouse whisky
-        nikka coffey grain japanese whisky
-        nikka miyagikyo single malt japanese whisky
-        nikka taketsuru whisky
-        peated whisky, preferably compass box the peat monster
-        salt-roasted sweet potato-infused japanese whisky
-        shiitake-infused hibiki harmony whisky
-        shot cold suntory toki whisky
-        strawberry and pomegranate-infused japanese whisky    
-        suntory hakashu 12-year whisky
-        suntory toki whisky   
-        whisky dashi
-        yamazaki 12-year whisky
-        sesame oil-washed japanese whisky
-        japanese whiskey
-        kilbeggan irish whiskey
-        knappogue castle 12-year irish whiskey
-        mellow corn whiskey
-        navazos palazzi overseas malt whiskey
-        oated whiskey
-        peach whiskey
-        pineapple-infused dead rabbit whiskey
-        redbreast 12-year irish whiskey
-        rye or canadian whiskey
-        salted butter-washed whiskey    
-        suntory hakushu 12-year whiskey
-        tullamore d.e.w. irish whiskey
-        tyrconnell single-malt irish whiskey
-        whiskey
-        whiskey, preferably yamazaki 12-year single malt or rittenhouse 100-proof rye
-        wine-glass of whiskey
-        wyoming whiskey
-        yamazaki 12-year whiskey
-        corn whiskey
-        bushmills original irish whiskey
-        lavender-infused bernheim original wheat whiskey
+            bushmills irish whiskey
+            clontarf 1014 irish whiskey
+            connemara peated single malt irish whiskey
+            grilled apricot-infused irish whiskey
+            jameson black barrel blended irish whiskey
+            jameson black barrel irish whiskey
+            kilbeggan irish whiskey
+            knappogue castle 12-year irish whiskey
+            redbreast 12-year irish whiskey
+            tyrconnell single-malt irish whiskey
+            bushmills original irish whiskey
+        Indian Whisky
+            amrut cask-strength single-malt indian whisky
+                amrut peated cask-strength single-malt indian whisky
     AQUAVIT
         aged aquavit
         barrel-aged gammal krogstad aquavit
@@ -1053,15 +1034,35 @@
         unaged aquavit
         krogstad aquavit
     BRANDY
-        singani 63
-        singani        
+        singani 63 eau-de-vie
+        singani
         rhine hall la normande
         rhine hall la normande pommeau
         cat bran
         träkal
         tuaca
+        asbach uralt brandy
+        asbach uralt german brandy
+        bertoux brandy
+        copper & kings immature brandy
+        earl grey tea-infused brandy
+        germain robin craft method brandy
+        glasshouse shiso brandy
+        glasshouse trade winds garam masala brandy
+        korbel brandy
+        lustau brandy de jerez    
+        lustau solera reserva brandy
+        ricou spirits brandy sainte louise
+        sainte louise brandy
+        torres 15-year brandy
         kirsch
             kirschwasser
+        cherry brandy
+            liqueur griottine morand cherry brandy
+            clear creek cherry brandy
+            massenez kirsch vieux cherry brandy
+            rhine hall cherry brandy
+            unaged cherry brandy
         cherry kirsch
             massenez kirschwasser
             massenez kirsch
@@ -1072,8 +1073,16 @@
             grappa di arneis
             nardini mandorla grappa
             ransom gewürztraminer grappa
+            clear creek muscat grappa
+            clear creek pinot grigio grappa
+            clear creek pinot noir grappa
         Apple brandy
             aged apple brandy
+            reisetbauer apple eau-de-vie
+            rhine hall apple eau-de-vie
+            cyril zangs 00 apple cider eau-de-vie
+            clear creek 2-year apple eau-de-vie
+            bonded apple brandy
             pommeau
                 pommeau de normandie
                 lemorton pommeau de normandie
@@ -1085,102 +1094,83 @@
                 laird’s bonded applejack
             laird’s bonded apple brandy
             neversink apple apéritif
-        aquavit, rum or brandy
-        asbach uralt brandy
-        asbach uralt german brandy
-        bertoux brandy
-        blackberry brandy
-        bonded apple brandy
-        brandy
-        brown butter-infused apple brandy
-        cacao nib-infused pear brandy
-        christian drouin “blanche de normandie” apple brandy
-        clear creek 2-year apple brandy
-        clear creek 8-year apple brandy
-        clear creek apple brandy
-        clear creek blue plum brandy
-        clear creek cherry brandy
-        clear creek douglas fir brandy
-        clear creek eau-de-vie pomme 8 year apple brandy
-        clear creek pear brandy
-        clear creek raspberry brandy
-        clear creek reserve apple brandy
-        clear creek williams pear brandy
-        clear creek 2-year apple eau-de-vie
-        clear creek douglas fir eau de vie
-        clear creek douglas fir eau-de-vie
-        clear creek framboise eau-de-vie
-        clear creek mirabelle eau-de-vie
-        clear creek mirabelle plum
-        clear creek mirabelle plum eau-de-vie
-        clear creek muscat grappa
-        clear creek pear eau-de-vie
-        clear creek pinot grigio grappa
-        clear creek pinot noir grappa
-        copper & kings floodwall apple brandy
-        copper & kings immature brandy
-        copper & kings unaged apple brandy
-        dashi kombu-infused pear brandy
-        dashi kombu-infused pear brandy in an atomizer
-        drouin blanche de normandie apple brandy
-        earl grey tea-infused brandy
-        germain robin craft method brandy
-        germain-robin craft-method brandy
-        glasshouse shiso brandy
-        glasshouse trade winds garam masala brandy
-        korbel brandy
-        laird's 100-proof straight apple brandy
-        laird's bonded apple brandy
-        laird’s 12-year apple brandy
-        laird’s bonded apple brandy
-        laird’s bonded apple brandy scant
-        laird’s bottled-in-bond apple brandy
-        laird’s jersey lightning apple brandy
-        laird’s straight apple brandy
-        laird’s straight apple brandy, warmed to 50°c
-        lustau brandy de jerez    
-        lustau solera reserva brandy
-        massenez kirsch vieux cherry brandy
-        clear creek pear brandy
-        mirabelle plum brandy
-        peach street peach brandy
-        raspberry brandy
-        rhine hall apple brandy
-        rhine hall cherry brandy
-        rhine hall mango brandy
-        rhine hall oak aged apple brandy
-        rhine hall peach brandy
-        rhine hall strawberry brandy
-        ricou spirits brandy sainte louise
-        sainte louise brandy
-        st george raspberry brandy
-        st. george pear brandy
-        st. george raspberry brandy
-        torres 15-year brandy
-        trimbach mirabelle plum brandy
-        unaged cherry brandy
-        unaged pear brandy
-        apricot eau de vie
-        carrot eau de vie
-        distillerie de biercée orangine eau de vie
-        blume marillen apricot eau-de-vie
-        cobrafire eau-de-vie de raisin
-        cyril zangs 00 apple cider eau-de-vie    
-        distillerie f. meyer eau-de-vie de framboise
-        distillerie f. meyer eau-de-vie de poire william
-        framboise eau-de-vie
-        louis roque la vieille prune eau-de-vie
-        massenez framboise eau-de-vie
-        reisetbauer apple eau-de-vie
-        Reisetbauer Carrot eau-de-vie
-        Reisetbauer Hazelnut eau-de-vie
-        rhine hall apple eau-de-vie
-        singani 63 eau-de-vie
-        st. george aqua perfecta basil eau-de-vie
-        st. george pear eau-de-vie
-        st. george raspberry eau-de-vie
-        trimbach mirabelle plum eau-de-vie   
-        pear eau-de-vie
+            brown butter-infused apple brandy
+                    christian drouin “blanche de normandie” apple brandy
+            laird's 100-proof straight apple brandy
+            laird's bonded apple brandy
+            laird’s 12-year apple brandy
+            laird’s bonded apple brandy
+            laird’s bonded apple brandy scant
+            laird’s bottled-in-bond apple brandy
+            laird’s jersey lightning apple brandy
+            laird’s straight apple brandy
+            clear creek 2-year apple brandy
+            clear creek 8-year apple brandy
+            clear creek apple brandy
+            clear creek eau-de-vie pomme 8 year apple brandy
+            clear creek reserve apple brandy
+            drouin blanche de normandie apple brandy
+            copper & kings floodwall apple brandy
+            copper & kings unaged apple brandy
+            rhine hall apple brandy
+            rhine hall oak aged apple brandy
+        Plum brandy
+            clear creek blue plum brandy
+            clear creek mirabelle eau-de-vie
+            clear creek mirabelle plum
+            clear creek mirabelle plum eau-de-vie
+            mirabelle plum brandy
+            trimbach mirabelle plum brandy
+            trimbach mirabelle plum eau-de-vie
+        Pear brandy
+            cacao nib-infused pear brandy
+            pear eau-de-vie
+            clear creek pear brandy
+            clear creek williams pear brandy
+            clear creek pear eau-de-vie
+            dashi kombu-infused pear brandy
+            dashi kombu-infused pear brandy in an atomizer
+            st. george pear brandy
+            st. george pear eau-de-vie
+            distillerie f. meyer eau-de-vie de poire william
+            unaged pear brandy
+        Douglas fir brandy
+            clear creek douglas fir brandy
+            clear creek douglas fir eau de vie
+            clear creek douglas fir eau-de-vie
+        Raspberry brandy
+            clear creek raspberry brandy
+            clear creek framboise eau-de-vie
+            st. george raspberry brandy
+            st george raspberry brandy
+            distillerie f. meyer eau-de-vie de framboise
+            framboise eau-de-vie
+            massenez framboise eau-de-vie
+            st. george raspberry eau-de-vie
+        Blackberry brandy
+        Peach brandy
+            peach street peach brandy
+            rhine hall peach brandy
+        Mango brandy
+            rhine hall mango brandy
+        Strawberry brandy
+            rhine hall strawberry brandy
+        Carrot brandy
+            Carrot eau de vie
+            Reisetbauer carrot eau-de-vie
+        Apricot brandy
+            apricot eau de vie
+            blume marillen apricot eau-de-vie
+        Orange brandy
+            distillerie de biercée orangine eau de vie
+        Raisin brandy
+            cobrafire eau-de-vie de raisin
+        Prune brandy
+            louis roque la vieille prune eau-de-vie
+        Hazelnut brandy
+            Reisetbauer hazelnut eau-de-vie
+        Basil brandy
+            st. george aqua perfecta basil eau-de-vie
         cognac
             augier cognac
             cognac
@@ -1281,7 +1271,7 @@
         silver cachaça
         unaged cachaça
         yaguara ouro cachaça
-    MILKS & CREAM
+    //MILKS & CREAM
         hot milk
         2% milk
         almond milk
@@ -1307,7 +1297,7 @@
             coconut water
                 harmless harvest coconut water
             house coconut cream
-    EGGS
+    //EGGS
         egg
             egg white
             egg yolk
@@ -1321,7 +1311,7 @@
             small egg white
             small or medium egg 
         aquafaba
-    SYRUPS
+    //SYRUPS
         Donn's Spices
             Don's Spices
         demerara syrup
@@ -1580,7 +1570,7 @@
         oleo saccharum
             sakura leaf oleo-saccharum
             lime oleo-saccharum
-    CITRUS & JUICES
+    //CITRUS & JUICES
         turmeric citrus
         mango nectar
         watermelon juice
@@ -1652,7 +1642,7 @@
         tart cherry juice
         unsweetened pure cranberry juice
         yuzu juice
-    VINEGARS, OILS & BRINES
+    //VINEGARS, OILS & BRINES
         15-year balsamic vinegar made from pedro ximenez grapes
         aged balsamic vinegar
         cane vinegar
@@ -1686,7 +1676,7 @@
             clement creole shrubb
             salted plum shrub
             cucumber and basil shrub 
-    SPECIALTY INGREDIENTS
+    //SPECIALTY INGREDIENTS
         hopped lime acid
         green curry spice blend
         meringue
@@ -1884,6 +1874,13 @@
         san pellegrino aranciata
         san pellegrino limonata
     GIN
+        Japanese gin
+            nikka coffey gin
+            ki no bi kyoto dry gin
+                the kyōto distillery ki no bi kyōto dry gin
+                the kyōto distillery ki no tea kyōto dry gin
+                the kyōto distillery ki no tou old tom gin
+                suntory roku gin
         New American
             anchor genevieve gin
             anchor junipero gin
@@ -1902,7 +1899,6 @@
             reisetbauer sloeberry gin
         aviation gin
             aviation gin infused with mozzarella and parmesan
-        banana gin
         barrel-aged gin
         Dry gin
             London Dry gin
@@ -1957,7 +1953,6 @@
                 coriander-infused ransom old tom
             Greenhook Ginsmiths Old Tom Gin
         Hendrick's gin 
-        nikka coffey gin
         Plymouth Gin
             Plymouth Navy-Strength gin
             plymouth gin infused with saffron
@@ -1971,16 +1966,13 @@
             Reisetbauer Sloeberry gin
             sipsmith sloe gin
         g’vine nouaison gin
-        ki no bi kyoto dry gin
-            the kyōto distillery ki no bi kyōto dry gin
-            the kyōto distillery ki no tea kyōto dry gin
-            the kyōto distillery ki no tou old tom gin
         mahon gin
         sipsmith v.j.o.p. gin    
         spring44 mountain gin
-        suntory roku gin
-        truffled gin
-        earl grey gin
+        Infusions
+            truffled gin
+            earl grey gin
+            banana gin
     GENEVER
         bols genever
             grilled pineapple-infused bols genever
@@ -1989,84 +1981,80 @@
         old duff genever single malt
         rutte old simon genever
     TEQUILA
-        cielo rojo bacanora
         blanco tequila
             7 leguas blanco tequila
+            ocho 2012 plata tequila
+            olmeca altos plata tequila
+            siembra valles ancestral tequila
+            siembra valles high-proof tequila
+            tapiatio 110-proof tequila
+            el tesoro platinum tequila
+            kombu-infused tequila
+            milk-washed tequila
+            tequila cabeza
+            cacao nib-infused calle 23 tequila
+            cascahuin 48 plata tequila
+            cielo rojo bacanora
+            cabeza blanco tequila
+            cabrito blanco tequila
+            cacao nib-infused cabeza blanco tequila
+            calle 23 blanco tequila
+            chamomile-infused blanco tequila
+            chinaco verde blanco tequila
+            cimarron blanco tequila
+            cimarrón blanco tequila
+            don julio blanco tequila
+            el jimador blanco tequila    
+            el tesoro blanco tequila
+            espolón blanco tequila
+            jalapeño blanco tequila
+            jalapeño-infused siembra azul blanco tequila
+            jalapeño-infused siembra valles blanco tequila
+            lapsang souchong-infused siembra azul blanco tequila
+            olmeca altos blanco tequila
+            pueblo viejo blanco tequila
+            siembra azul blanco tequila
+            siembra valles blanco tequila
+            siete leguas blanco tequila
+            spiced pear-infused siembra azul blanco tequila
+            tapatío 100 blanco tequila
+            tapatio 110 blanco tequila
+            tapatío blanco 110 tequila
+            tapatio blanco tequila
+            tequila blanco
+            tequila fortaleza blanco
+            siembra azul blanco tequila
         añejo tequila
+            el jimador añejo tequila
+            el tesoro añejo tequila
+            tapatío anejo tequila
+            pueblo viejo añejo tequila
+            siembra azul añejo tequila
+            siete leguas añejo tequila
         reposado tequila
             El Tesoro Reposado tequila
             arette artesanal suave blanco tequila
-        blanco tequila
-        cabeza blanco tequila
-        cabrito blanco tequila
-        cacao nib-infused cabeza blanco tequila
-        cacao nib-infused calle 23 tequila
-        calle 23 blanco tequila
-        calle 23 reposado tequila
-        casa noble reposado tequila
-        cascahuin 48 plata tequila
-        centinela reposado tequila
-        chamomile-infused blanco tequila
-        chinaco verde blanco tequila
-        cimarron blanco tequila
-        cimarrón blanco tequila
-        cimarron reposado tequila
-        don julio blanco tequila
-        don julio reposado tequila
-        dried mango-infused calle 23 reposado tequila
-        el jimador añejo tequila
-        el jimador blanco tequila    
-        el tesoro añejo tequila
-        el tesoro blanco tequila
-        el tesoro platinum tequila
-        espolón blanco tequila
-        fortaleza reposado tequila
-        jalapeño blanco tequila
-        jalapeño-infused siembra azul blanco tequila
-        jalapeño-infused siembra valles blanco tequila
-        kombu-infused tequila
-        lapsang souchong-infused siembra azul blanco tequila
-        milagro reposado tequila
-        milk-washed tequila
-        ocho 2012 plata tequila
-        ocho reposado tequila
-        olmeca altos blanco tequila
-        olmeca altos plata tequila
-        olmeca altos reposado tequila
-        olmeca altos tequila reposado
-        partida reposado tequila
-        pueblo viejo añejo tequila
-        pueblo viejo blanco tequila
-        pueblo viejo reposado tequila
-        queen of earl tea-infused siembra azul reposado tequila
-        reposado tequila
-        shots olmeca altos plata tequila
-        siembra azul añejo tequila
-        siembra azul blanco tequila
-        siembra azul reposado tequila
-        siembra azúl reposado tequila
-        siembra valles ancestral tequila
-        siembra valles blanco tequila
-        siembra valles high-proof tequila
-        siembre azul reposado tequila
-        siete leguas añejo tequila
-        siete leguas blanco tequila
-        siete leguas reposado tequila
-        spiced pear-infused siembra azul blanco tequila
-        tapatío 100 blanco tequila
-        tapatio 110 blanco tequila
-        tapatío anejo tequila
-        tapatío blanco 110 tequila
-        tapatio blanco tequila
-        tapatío reposado tequila
-        tapiatio 110-proof tequila
-        tequila
-        tequila base
-        tequila blanco
-        tequila cabeza
-        tequila fortaleza blanco
-        siembra azul blanco tequila
-        el tesoro reposado tequila
+            calle 23 reposado tequila
+            casa noble reposado tequila
+            centinela reposado tequila
+            cimarron reposado tequila
+            don julio reposado tequila
+            dried mango-infused calle 23 reposado tequila
+            fortaleza reposado tequila
+            milagro reposado tequila
+            ocho reposado tequila
+            olmeca altos reposado tequila
+            olmeca altos tequila reposado
+            partida reposado tequila
+            pueblo viejo reposado tequila
+            queen of earl tea-infused siembra azul reposado tequila
+            reposado tequila
+            siembra azul reposado tequila
+            siembra azúl reposado tequila
+            siembre azul reposado tequila
+            siete leguas reposado tequila
+            tapatío reposado tequila
+            el tesoro reposado tequila
     MEZCAL
         agave de cortes mezcal
         árbol-infused del maguey vida mezcal
@@ -2082,6 +2070,7 @@
         del maguey tobala mezcal
         del maguey tobalá mezcal
         del maguey vida mezcal
+        derrumbes san luis potosí
         don amado rústico mezcal
         el buho mezcal
         los amantes joven mezcal    
@@ -2102,7 +2091,7 @@
         strawberry-infused cognac and mezcal
         strawberry-infused sombra mezcal
         fidencio clásico mezcal    
-    GARNISHES
+    //GARNISHES
         guajillo chile chocolate, for grating
         micro lucky plum sorrel leaf
         red chili flakes
@@ -2490,7 +2479,7 @@
         pickled rakkyō
         pickled red onion
         wheatgrass
-    BITTERS
+    //BITTERS
         abbott’s bitters
         aromatic bitters
             angostura aromatic bitters (OR angostura bitters)
@@ -2512,7 +2501,8 @@
         bitter truth jerry thomas decanter bitters
         bitter truth jerry thomas' own decanter bitters
         bitter truth jerry thomas’ bitters
-        bitter truth lemon bitters or homemade meyer lemon bitters
+        bitter truth lemon bitters
+        homemade meyer lemon bitters
         bitter truth peach bitters
         bittercube blackstrap bitters
         bittercube cherry bark and vanilla bitters
@@ -2522,7 +2512,8 @@
         bittermen's citron sauvage
         Bittermens 'Elemakule Tiki Bitters
         bittermens boston bittahs
-        bittermens boston bittahs or homemade grapefruit bitters
+        bittermens boston bittahs
+        homemade grapefruit bitters
         bittermens burlesque bitters
         bittermens hellfire habanero shrub
         bittermens hopped grapefruit bitters
@@ -2560,8 +2551,6 @@
         dashes bittermens orchard street celery bitters
         dr. adam elmegirab’s boker’s bitters
         dutch’s colonial cocktail bitters
-        each aromatic, orange, and chocolate bitters
-        expressed then discarded lemon twist and angostura bitters swirl
         fee brothers cardamom bitters
         fee brothers gin barrel-aged orange bitters
         fee brothers old fashion bitters
@@ -2572,13 +2561,12 @@
         fee brothers west indian orange bitters
         angostura bitters
         fee brothers whiskey barrel–aged bitters
-        fee brothers whiskey barrel–aged bitters or fee brothers old fashion aromatic bitters
+        fee brothers old fashion aromatic bitters
         generous dashes peychaud’s bitters
         grapefruit bitters
         hella bitter citrus bitters
         homemade coffee-pecan bitters or 
         house cardamom bitters
-        house cardamon bitters
         house orange bitters
         house orange bitters club soda
         house peychaud’s bitters
@@ -2587,9 +2575,6 @@
         lemon wheel, orange wheel, fresh mint sprig, angostura bitters
         lime bitters
         matcha bitters
-        mint bouquet and angostura bitters
-        mint bouquet and peychaud's bitters
-        mint leaf, 1 dash of rosewater, 3 dashes of angostura bitters.
         miracle mile castilian bitters
         miracle mile celery bitters
         miracle mile chocolate chile bitters
@@ -2602,24 +2587,19 @@
         miracle mile yuzu bitters
         mists angostura bitters
         mole bitters
-        of regans’ orange bitters no. 6
+        regans’ orange bitters no. 6
         dashes wormwood bitters
         peychaud’s bitters
         orange bitters
-        orange bitters, preferably equal parts fee brothers west indian orange bitters and regans’ orange bitters no. 6
         scrappy's cardamom bitters
         peach bitters
         pechaud’s bitters
-        per bittered sling moondog aromatic bitters
-        pers bittered sling zingiber crabapple bitters
-        pers bittermens hellfire habanero shrub    peychaud's bitters
-        peychaud's bitters, plus more
+        bittered sling moondog aromatic bitters
+        bittered sling zingiber crabapple bitters
+        bittermens hellfire habanero shrub
+        peychaud's bitters
         peychaud’s aromatic bitters
-        peychaud’s bitters
-        peychaud’s bitters or bitter truth creole bitters
-        peychaud’s bitters, for garnish
-        peychaud’s bitters, plus 7 drops for garnish
-        pineapple wedge and angostura bitters
+        bitter truth creole bitters
         regan’s orange bitters
         regan’s orange bitters no. 6
         regans' orange bitters
@@ -2634,7 +2614,6 @@
         scrappy’s celery bitters
         scrappy’s lavender bitters
         scrappy’s lime bitters or homemade key lime bitters
-        several dashes angostura bitters
         snake oil tobacco bitters or a.b. smeby bittering co. highland heather bitters or regans’ orange bitters no. 6
         sprays peychaud’s bitters
         suze orange bitters
@@ -2646,7 +2625,6 @@
         the bitter truth creole bitters
         the bitter truth jerry thomas’ own decanter bitters
         the japanese bitters yuzu bitters
-        angostura bitters
         peychaud’s bitters
         angostura bitters
         angostura or other aromatic bitters
@@ -2739,7 +2717,6 @@
         jalapeño-infused vodka
         karlsson’s gold vodka
         nikka coffey vodka
-        nikka coffey vodka
         oolong-infused vodka
         p3 placid vodka
         smirnoff vodka - 1970s gallon
@@ -2751,12 +2728,11 @@
         suntory haku vodka
         vanilla vodka
         vanilla-flavored vodka
-        vodka
         woody creek vodka
         spice-infused vodka
         suntory haku vodka
         grey goose vodka
-    KITCHEN SCIENCE
+    //KITCHEN SCIENCE
         hickory liquid smoke
         glucose
         gelée terrine
@@ -2781,24 +2757,167 @@
             champagne acid solution
         xanthan gum
     RUM
-        milk-washed rum
-        uruapan charanda blanco
-        aged rum
-        añejo rum
-        light rum
+        Pot Still Lightly Aged
+            lemon hart 151 demerara rum
+            lemon hart 151 rum
+            lemon hart original rum
+            el dorado high-strength 151 rum
+            hamilton demerara 151 overproof rum
+            hamilton 151 demerara rum
+            hamilton jamaican pot still black rum
+            hamilton jamaican pot still gold rum
+            hampden estate single jamaican rum
+            lost spirits navy style rum
+            wray & nephew jamaican rum
+            wray & nephew overproof jamaica rum
+            wray & nephew overproof rum
+            wray & nephew white overproof rum
+            wray and nephew white overproof rum
+        Blended Lightly Aged
+            uruapan charanda blanco
+            smith & cross jamaican rum
+            scarlet ibis rum
+                scarlet ibis trinidad rum
+                the scarlet ibis trinidad rum
+            probitas white blended rum
+            plantation barbados 5-year rum
+                toasted pecan-infused plantation rum
+            diplomático blanco reserve rum
+            diplomatico blanco rum
+            diplomático planas rum
+            matusalem gran reserva 15-year rum
+            mount gay black barrel rum
+            mt. gay black barrel rum 
+            mount gay eclipse rum
+            mount gay silver rum
+        Blended Aged
+            cockspur 12-year rum
+            zaya gran reserva rum
+            santa teresa 1796 rum
+            santa teresa rum
+            ron zacapa 23 rum
+            zacapa 23-year rum
+            zacapa 23 rum
+            ron del barrilito 3-star rum
+            plantation o.f.t.d. overproof rum
+            plantation 2000 jamaican rum
+            navazos palazzi oloroso rum
+            matusalem platinon rum
+            marsh house rum
+            caña brava 7-year rum
+            bacardi 8-year reserva rum
+            ron hacienda santa ana overproof rum
+            Appleton Estate 12-year rum
+            appleton estate 12 year jamaica rum
+            appleton estate 21-year jamaica rum
+            appleton estate rare blend 12-year
+            appleton estate reserve blend rum
+            appleton estate reserve jamaica rum
+            appleton estate reserve rum
+            appleton estate signature blend jamaica rum
+            appleton estate signature rum
+            appleton estate v/x jamaican rum
+            appleton estate v/x rum
+            appleton estate signature blend rum
+            banks 5 island blend white rum
+            banks 5 island white rum
+            banks 5-island rum
+                butterfly pea flower tea-infused banks 5-island rum
+            banks 5-island white rum
+            banks 7 golden age rum
+            banks 7-island golden rum
+            rhum clément v.s.o.p.
+            rhum jm vsop
+            Rhum J.M. VSOP
+            bacardi 8-year aged rum
+            bacardí reserva ocho rum
+            el dorado 15-year rum
+            el dorado 15 year rum
+            el dorado 5-year rum
+            el dorado 8-year rum
+            el dorado 12 year old rum
+            el dorado 12-year demerara rum
+            el dorado 12-year rum
+                sesame-infused rum
+            el dorado 151 rum
+            cruzan single-barrel rum
+            pampero aniversario rum
+            dos maderas 5+3 aged rum
+            dos maderas px 5+5 aged rum
+            diplomático reserva exclusiva rum
+        Column Still Aged
+            barbancourt 15-year rum
+            rum fire rum
+            brugal 1888 rum
+            barbancourt 3-star rum
+            barbancourt 8-year rum
+            botran reserva rum
+            plantation original dark rum
+                brain rum
+            plantation original dark rum 73% overproof
+            rhum barbancourt
+                granny smith apple-infused rhum barbancourt
+            flor de caña 4-year rum
+                flor de cana 4-year white rum
+                flor de caña 4-year white rum
+                flor de caña 4 year extra seco white rum
+                summer royale tea-infused flor de caña white rum
+            flor de caña 7-year rum
+            flor de caña extra-dry white rum 
+                pineapple-infused flor de caña extra-dry white rum
+            english harbour 5-year rum
+            flor de caña 12 year aged rum
+            el dorado white rum
+                coconut-infused el dorado white rum
+        Black Blended
+            gosling's black seal rum
+            gosling’s black seal rum
+                banana chip-infused gosling’s black seal rum
+            goslings black seal rum
+            blackstrap rum
+                cruzan black strap rum
+                cruzan blackstrap rum
+                    thai spice rum
+            blackwell’s black gold special reserve rum
+            coruba dark rum
+        Black Blended Overproof
+        Cane AOC Martinique Rhum Agricole Blanc
+            la favorite blanc martinique rhum
+            clairin sajous rum
+            clairin vaval haitian rum
+            cor cor green okinawan rum
+            grace rum cor cor green
+            rhum clément première canne
+            cor cor red okinawan rum
+            damoiseau 110-proof rum
+            grace rum cor cor red white rum
+        Cane AOC Martinique Rhum Agricole Vieux
+
+        Aged Rum
+        Añejo Rum
+            brugal añejo rum
+        Light Rum
             angostura 5-year rum
-        bacardi 8-year reserva rum
-        damoiseau vsop rhum
-        granny smith apple-infused rhum barbancourt
-        la favorite blanc martinique rhum
-        rhum clément créole shrubb
-        rhum clément v.s.o.p.
-        rhum jm blanc
-        rhum jm blanc 100
-        rhum jm vsop
-        Rhum J.M. VSOP
-        Appleton Estate 12-year rum
-        rhum agricole
+            journeyman road’s end white rum
+            casa magdalena ron blanco rum
+            caña brava white rum
+            brugal white rum
+            barbancourt white rum
+            appleton estate white rum
+            rhum jm blanc
+            rhum jm blanc 100
+            bacardi ron superior limited edition
+            bacardí carta blanca rum
+            bacardi heritage rum
+            bacardi superior white rum
+            plantation 3 stars rum
+                plantation 3 stars white rum
+                carrot-infused plantation 3 stars white rum
+            el dorado 3-year rum
+            el dorado cask-aged 3-year demerara rum    
+            white rum        
+        Rhum Agricole
+            damoiseau vsop rhum
             clément v.s.o.p. rhum agricole vieux
             damoiseau vsop rhum agricole
             la favorite ambre rhum agricole
@@ -2817,185 +2936,26 @@
             rhum jm vo rhum agricole
             st. james royal ambre rhum agricole
             la favorite rhum agricole blanc coeur de canne    
-        appleton estate 12 year jamaica rum
-        appleton estate 21-year jamaica rum
-        appleton estate rare blend 12-year
-        appleton estate reserve blend rum
-        appleton estate reserve jamaica rum
-        appleton estate reserve rum
-        appleton estate signature blend jamaica rum
-        appleton estate signature rum
-        appleton estate v/x jamaican rum
-        appleton estate v/x rum
-        appleton estate signature blend rum
-        appleton estate white rum
-        bacardi 8-year aged rum
-        bacardí carta blanca rum
-        bacardi heritage rum
-        bacardí reserva ocho rum
-        bacardi superior white rum
-        banana chip-infused gosling’s black seal rum
-        banana rum
-        banks 5 island blend white rum
-        banks 5 island white rum
-        banks 5-island rum
-        banks 5-island white rum
-        banks 7 golden age rum
-        banks 7-island golden rum
-        barbancourt 15-year rum
-        barbancourt 3-star rum
-        barbancourt 8-year rum
-        barbancourt white rum
-        blackstrap rum
-        blackstrap rum
-        blackwell’s black gold special reserve rum
-        botran reserva rum
-        marsh house rum
-        brain rum
-        pampero aniversario rum    
-        pampero aniversario rum    
-        brugal 1888 rum
-        brugal añejo rum
-        brugal white rum
-        buttered rum
-        butterfly pea flower tea-infused banks 5-island rum
-        caña brava 7-year rum
-        caña brava rum
-        caña brava white rum
-        pampero aniversario rum    
-        pampero aniversario rum    
-        captain morgan original spiced rum
-        pampero aniversario rum    
-        carrot cake rum
-        carrot-infused plantation 3 stars white rum
-        casa magdalena ron blanco rum
-        chorizo rum
-        clairin sajous rum
-        clairin vaval haitian rum
-        cockspur 12-year rum
-        coconut-infused el dorado white rum
-        cor cor green okinawan rum or rhum clément première canne
-        cor cor red okinawan rum
-        coruba dark rum
-        cruzan black strap rum
-        cruzan blackstrap rum
-        cruzan single-barrel rum
-        pampero aniversario rum    
-        damoiseau 110-proof rum
-        dead rabbit jamaica rum blend
-        demerara rum, preferably el dorado 8-year or hamilton 86 demerara river rum
-        diplomático blanco reserve rum
-        diplomatico blanco rum
-        diplomático exclusiva reserva rum
-        diplomático planas rum
-        diplomático reserva exclusiva rum
-        don q “cristal” blanco rum
-        dos maderas 5+3 aged rum
-        dos maderas px 5+5 aged rum
-        e&j burke jamaican rum - 1943
-        el dorado 12 year old rum
-        el dorado 12-year demerara rum
-        el dorado 12-year rum
-        el dorado 15-year demerara rum
-        el dorado 15-year rum
-        el dorado 151 rum
-        el dorado 3-year rum
-        el dorado 5-year rum
-        el dorado 8-year rum
-        el dorado cask-aged 3-year demerara rum
-        el dorado high-strength 151 rum
-        pampero aniversario rum    
-        english harbour 5-year rum
-        pampero aniversario rum    
-        flor de caña 12 year aged rum
-        flor de caña 4 year extra seco white rum
-        flor de caña 4-year rum
-        flor de cana 4-year white rum
-        flor de caña 4-year white rum
-        flor de caña 7-year rum
-        flor de caña extra-dry white rum
-        pampero aniversario rum    
-        pampero aniversario rum  
-        gosling's black seal rum
-        gosling’s black seal rum
-        goslings black seal rum
-        grace rum cor cor green
-        pampero aniversario rum    
-        hamilton 151 demerara rum
-        hamilton demerara 151 overproof rum
-        hamilton gold rum
-        hamilton jamaican pot still black rum
-        hamilton jamaican pot still gold rum
-        hampden estate single jamaican rum
-        pampero aniversario rum    
-        jamaican rum
-        journeyman road’s end white rum
-        lemon hart 151 demerara rum
-        lemon hart 151 rum
-        lemon hart original rum
-        light rum
-        pampero aniversario rum    
-        pampero aniversario rum    
-        lost spirits navy style rum
-        pampero aniversario rum    
-        matusalem gran reserva 15-year rum
-        matusalem platinon rum
-        mezcal, preferably derrumbes san luis potosí
-        mount gay black barrel rum
-        mount gay eclipse rum
-        mount gay silver rum
-        mt. gay black barrel rum
-        pampero aniversario rum    
-        navazos palazzi oloroso rum
-        cruzan black strap rum
-        overproof jamaican rum
-        plantation pineapple stiggins fancy rum
-        pampero aniversario rum    
-        pineapple-infused flor de caña extra-dry white rum
-        plantation 2000 jamaican rum
-        plantation 3 stars rum
-        plantation 3 stars white rum
-        plantation 5-year-old barbados rum
-        plantation barbados 5-year rum
-        plantation o.f.t.d. overproof rum
-        plantation original dark rum
-        plantation original dark rum 73% overproof
-        plantation pineapple rum
-        plantation stiggins’ fancy pineapple rum
-        probitas white blended rum
-        pampero aniversario rum    
-        ron del barrilito 3-star rum
-        ron hacienda santa ana overproof rum
-        ron zacapa 23 rum
-        pampero aniversario rum
-        rum fire rum
-        santa teresa 1796 rum
-        santa teresa rum
-        scarlet ibis rum
-        scarlet ibis trinidad rum
-        sesame-infused rum
-        smith & cross jamaican rum
-        spiced rum    
-        summer royale tea-infused flor de caña white rum
-        thai spice rum
-        the scarlet ibis trinidad rum
-        toasted pecan-infused plantation rum
-        pampero aniversario rum    
-        white rum
-        white rum, preferably flor de caña or ron botran
-        wray & nephew jamaican rum
-        wray & nephew jamaican rum
-        wray & nephew overproof jamaica rum
-        wray & nephew overproof rum
-        wray & nephew white overproof rum
-        wray and nephew white overproof rum
-        zacapa 23 rum
-        zacapa 23-year rum
-        zaya gran reserva rum
-        pampero aniversario rum    
-        grace rum cor cor red white rum
-        bacardi ron superior limited edition
-    ICE
+        ???
+            demerara rum
+            jamaican rum
+                e&j burke jamaican rum - 1943
+                overproof jamaican rum
+                dead rabbit jamaica rum blend
+        Spiced & Flavored Rum
+            Bacardi Oakheart
+                buttered rum
+            banana rum
+            captain morgan original spiced rum 
+            Old New Orleans Cajun Spice Rum
+                carrot cake rum
+            spiced rum
+            plantation pineapple rum
+                plantation stiggins’ fancy pineapple rum
+                plantation pineapple stiggins fancy rum
+        Gold Rum
+            hamilton gold rum     
+    //ICE
         crushed ice
         allspice ice chip
         angostura cinnamon ice chips
@@ -3030,88 +2990,89 @@
         smoked paprika ice
         green pepper marbles
     SHERRY
-        hidalgo gobernador oloroso
-        gonzález byass noé pedro ximénez
-        cesar florido moscatel dorado
+        Palo Cortado Sherry
+            lustau península palo cortado sherry
+            lustau palo cortado península sherry
+        Moscatel Sherry
+            valdespino moscatel sherry
+            lustau emilín moscatel sherry
+        Dry Sack Sherry
+            williams & humbert dry sack medium sherry
+            williams & humbert dry sack sherry
+        Solera Sherry
+            east india solera sherry
+            lustau east india solera sherry
+            cesar florido moscatel dorado
         Amontillado Sherry
             alexander jules amontillado sherry
             barbadillo principe amontillado sherry
+            dry amontillado sherry
+            los arcos amontillado sherry
+            lustau amontillado sherry
+            lustau los arcos amontillado sherry
+            principe amontillado sherry
+            valdespino amontillado sherry
+            valdespino contrabandista medium dry amontillado sherry
+        Manzanilla Sherry
+            bodegas yuste aurora manzanilla sherry
+            la gitana “en rama” sherry
+            manzanilla sherry, chilled
+            fino, manzanilla, or amontillado sherry
+            la cigarrera manzanilla sherry
+            la gitana manzanilla sherry
+            la guita manzanilla sherry
+            lustau manzanilla papirusa sherry
+            lustau manzanilla sherry
+            lustau papirusa manzanilla sherry
+            manzanilla sherry
+            orleans borbón manzanilla fino sherry
+            orleans borbon manzanilla sherry
+            manzanilla la gitana en rama
         Fino Sherry
             alexander jules fino sherry
+            emilio hidalgo fino sherry
+            fernando de castilla fino sherry
+            inocente fino sherry
+            lustau “solera reserva” fino jarana sherry
+            lustau jarana fino sherry
+            lustau puerto fino sherry
+            tio pepe fino sherry
+            valdespino inocente fino sherry
         Cream Sherry
             alvear festival pale cream sherry
             alvear pale cream sherry
-        barbadillo oloroso sherry
-        barbadillo pedro ximénez sherry
-        bodegas yuste aurora manzanilla sherry
-        fino sherry
-        manzanilla sherry, chilled
-        cream sherry
-        dark sherry, such as oloroso
-        dry amontillado sherry
-        dry sherry
-        east india sherry
-        east india solera sherry
-        el maestro sierra 15-year oloroso sherry
-        el maestro sierra oloroso 15-year sherry
-        emilio hidalgo fino sherry
-        fernando de castilla cream sherry
-        fernando de castilla fino sherry
-        fino sherry
-        fino, manzanilla, or amontillado sherry
-        gonzáles byass nectar pedro ximénez dulce sherry
-        gonzáles ximénez sherry byass pedro
-        gonzález byass matusalem oloroso sherry
-        gonzález byass nectar pedro ximénez dulce sherry
-        hidalgo oloroso sherry
-        inocente fino sherry
-        la cigarrera manzanilla sherry
-        la gitana “en rama” sherry
-        la gitana manzanilla sherry
-        la guita manzanilla sherry
-        los arcos amontillado sherry
-        lustau “solera reserva” fino jarana sherry
-        lustau amontillado sherry
-        lustau don nuño oloroso sherry
-        lustau don nuño sherry
-        lustau east india solera sherry
-        lustau emilín moscatel sherry
-        lustau jarana fino sherry
-        lustau los arcos amontillado sherry
-        lustau manzanilla papirusa sherry
-        lustau manzanilla sherry
-        lustau oloroso sherry
-        lustau palo cortado península sherry
-        lustau papirusa manzanilla sherry
-        lustau pedro ximénez san emilio sherry
-        lustau pedro ximénez sherry
-        lustau península palo cortado sherry
-        lustau puerto fino sherry
-        lustau px sherry
-        lustau san emilio pedro ximénez sherry
-        manzanilla sherry
-        morenita cream sherry
-        moscatel sherry
-        mulled pedro ximénez sherry
-        oloroso sherry
-        orleans borbón manzanilla fino sherry
-        orleans borbon manzanilla sherry
-        palo cortado sherry
-        peanut-infused lustau don nuño oloroso sherry
-        pedro ximénez sherry
-        principe amontillado sherry
-        tio pepe fino sherry
-        valdespino amontillado sherry
-        valdespino contrabandista medium dry amontillado sherry
-        valdespino don gonzalo oloroso vos sherry
-        valdespino inocente fino sherry
-        valdespino moscatel sherry
-        westland sherry wood american single malt whiskey
-        williams & humbert dry sack medium sherry
-        williams & humbert dry sack sherry
-        zurbaran cream sherry
-        manzanilla la gitana en rama
-    SUGAR
+            fernando de castilla cream sherry
+            morenita cream sherry
+            zurbaran cream sherry
+        Oloroso Sherry
+            dark sherry, such as oloroso
+            east india sherry
+            lustau don nuño sherry
+            hidalgo gobernador oloroso
+            dry sherry
+            barbadillo oloroso sherry
+            el maestro sierra 15-year oloroso sherry
+            el maestro sierra oloroso 15-year sherry
+            gonzález byass matusalem oloroso sherry
+            hidalgo oloroso sherry
+            lustau don nuño oloroso sherry
+            lustau oloroso sherry
+            oloroso sherry
+            peanut-infused lustau don nuño oloroso sherry
+            valdespino don gonzalo oloroso vos sherry
+        Ximénez Sherry
+            gonzález byass noé pedro ximénez
+            lustau px sherry
+            barbadillo pedro ximénez sherry
+            gonzáles byass nectar pedro ximénez dulce sherry
+            gonzáles ximénez sherry byass pedro
+            gonzález byass nectar pedro ximénez dulce sherry
+            lustau pedro ximénez san emilio sherry
+            lustau pedro ximénez sherry
+            lustau san emilio pedro ximénez sherry
+            mulled pedro ximénez sherry
+            pedro ximénez sherry
+    //SUGAR
         confectioners' sugar
         brown sugar
         brown sugar cordial
@@ -3133,7 +3094,7 @@
         white sugar cube
         demerara sugar
         lump sugar
-    FOOD
+    //FOOD
         ground chili
         sweet potato chips
         green yuzu kosho
@@ -3257,41 +3218,50 @@
         whole green cardamom pod
         worcestershire sauce
     BEER
-        la trappe quadrupel
-        maudite strong dark ale or similar ale
-        sixpoint brewery alpenflo lager
-        victory prima pils
-        dogfish head festina pêche berliner weisse
-        other half forever ever ipa
-        uncommon brewers siamese twin ale
-        glass of pilsner
-        nonalcoholic lager
-        beer, preferably lager
-        peekskill sour ale
-        belgian-style wheat beer   
-        blanche de bruxelles beer
-        cask ale
-        mexican lager beer, such as modelo especial
-        sapporo beer
-        cold blanche de bruxelles beer
-        hefeweizen beer
-        hoppy (or substitute any nonalcoholic beer)
-        negra modelo beer
-        stout beer
-        terra spice root beer extract
-        westbrook gose beer    
+        bruxelles beer
+            blanche de bruxelles beer
+        trappist
+            la trappe quadrupel
+        ale
+            maudite strong dark ale or similar ale
+            uncommon brewers siamese twin ale
+            peekskill sour ale
+            cask ale
+            irish red ale
+            hefeweizen beer
+        ipa
+            other half forever ever ipa
+            ipa beer
+            bell’s ipa
+            green flash ipa
+            stillwater nu-tropic ipa
+        lager
+            nonalcoholic lager
+            sapporo beer
+            negra modelo beer
+            beer, preferably lager
+            sixpoint brewery alpenflo lager
+            mexican lager beer, such as modelo especial
+            full sail session black lager
+            brooklyn brewery oktoberfest lager
+        pilsner
+            glass of pilsner
+            victory prima pils            
+        berliner weisse
+            dogfish head festina pêche berliner weisse
+            evil twin bushido
+        wheat beer
+            belgian-style wheat beer
+            hitachino nest weizen
+            westbrook gose beer
+        n/a beer
+            hoppy (or substitute any nonalcoholic beer)
+            nonalcoholic lager
+        stout
+            stout beer
+            mackeson stout
+            guinness stout
         one 12-ounce bottle of beer, preferably mexican beer or shiner bock
-        ipa beer
-        bell’s ipa
-        full sail session black lager
-        irish red ale
-        brooklyn brewery oktoberfest lager
-        green flash ipa
-        stillwater nu-tropic ipa
-        mackeson stout
-        guinness stout
-        evil twin bushido
-        hitachino nest weizen
     SPARKLING WINES
         hot bancha
         moscato d’asti
@@ -3322,13 +3292,13 @@
         lambrusco
             dry lambrusco
         etienne dupont cidre
-        dry sparkling rosé wine
         dry sparkling wine
-        dry white sparkling wine
+            dry sparkling rosé wine
+            dry white sparkling wine
+            dry sparkling white wine
         california brut sparkling wine
         cava
-        dry sparkling white wine
-    COFFEE, TEA, HOT CHOCOLATE, LEMONADE & VERJUS
+    //COFFEE, TEA, HOT CHOCOLATE, LEMONADE & VERJUS
         kabosu lemonade
         smoked lemonade
         ground coffee
@@ -3386,7 +3356,7 @@
         fresh-brewed espresso
         freshly brewed espresso
         house horchata
-    MIXES
+    //MIXES
         ocean spray cranberry cocktail
         tom and jerry batter
         micahlada base
@@ -3411,8 +3381,9 @@
         pendennis mix
         verde mix
         zombie mix
-    EXTRACTS
+    //EXTRACTS
         cinnamon extract
+        terra spice root beer extract
         eucalyptus extract
         good-quality vanilla extract
         terra spice birch extract
@@ -3422,22 +3393,21 @@
         terra spice orange extract
         vanilla extract
         root beer extract
-    WINES
-        grüner veltliner wine
-        macvin du jura
-        manos negras malbec
-        mulled dubonnet
-        tozai blossom of peace plum wine
-        tresmontaine "tabacal" rancio sec
-        hot jasmine mulled wine
-        dry lambrusco wine
+    //WINES
         white wine
             dry white wine
             tintero grangia bianco
-            auslese riesling
             full-bodied white wine, such as a chardonnay
             sage white wine
             white floc de gascogne
+            cold, crisp white or rosé wine
+            reisling
+                dry riesling
+                charles fournier riesling
+                auslese riesling
+            hot jasmine mulled wine
+            sauvignon blanc
+            grüner veltliner wine
         red wine
             dry red wine
             medium-bodied red wine
@@ -3447,27 +3417,36 @@
             saintsbury sonoma coast pinot noir
             fausse piste garde manger syrah
             saint cosme crozes-hermitage
+            manos negras malbec
         sauternes
             château cantegril sauternes
             château la fleur d'or sauternes
             chateau laribotte sauternes
-        château d’arlay macvin du jura blanc mistelle
         chardonnay
-        dry, unoaked chardonnay
-        morro bay chardonnay    
-        cold, crisp white or rosé wine
-        dry sparkling rosé
-        r&r rosé
-        rosé crémant  
-        sparkling rosé
-        lustau rosé vermut    
-        charles fournier riesling
-        dry riesling
-        sauvignon blanc
-    MISC. SPIRITS
+            dry, unoaked chardonnay
+            morro bay chardonnay    
+        rosé
+            cold, crisp white or rosé wine
+            dry sparkling rosé
+            r&r rosé
+            rosé crémant  
+            sparkling rosé    
+    //MISC. SPIRITS
         empirical spirits habanero spirit
         empirical spirits onyx blend
         sotol por siempre
         seedlip grove 42 citrus
         seedlip spice 94
         ocho cientos blanco sotol
+
+whiskey 
+    scotch
+    irish
+    japanese
+    rye
+    bourbon
+    indian
+gin
+    new american
+    london dry
+    sloe
