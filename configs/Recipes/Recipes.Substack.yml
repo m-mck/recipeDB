@@ -1,0 +1,42 @@
+source: "Substack"
+recipes:
+
+#
+  - name: Cherry Lady
+    author: Jackson Mercier
+    url: 
+    notes: 
+    year: 2023
+    ingredients:
+    - 3/4 ounce apple brandy
+    - 3/4 ounce gin
+    - 1/2 ounce lemon juice
+    - 1/2 ounce simple syrup
+    - 1/2 ounce tart cherry juice
+    steps:
+    - Combine the ingredients in a cocktail shaker half filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe.
+    tags:
+    - shaken
+    - citrus
+  - name: Her Name Is Rio
+    author: Abigail Gullo
+    url: 
+    notes: 
+    year: 2021
+    ingredients:
+    - 2 ounces cachaça
+    - 3/4 ounce sweet tea syrup (either commercial brand or simple syrup made with brewed tea instead of water)
+    - Juice of 1 lime
+    - 1 egg white
+    - 2 to 3 fresh pitted cherries
+    steps:
+    - Muddle the cherries in a cocktail shaker with the sweet tea syrup. 
+    - Add the lime juice, egg white and cachaça. 
+    - Dry shake without ice. 
+    - Add ice and shake until chilled, about 15 seconds. 
+    - Double strain into chilled cocktail glass.
+    tags:
+    - shaken
+    - citrus
