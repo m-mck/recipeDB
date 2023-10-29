@@ -539,3 +539,264 @@ recipes:
     steps:
       - Preheat an oven to 275°F. Spread 40 grams of milk powder (Villa recommends Anthony’s or Hoosier Hill Farm dry milk powders) on a sheet pan lined with parchment paper. Toast in the oven for 15 minutes.
       - In a saucepan, bring 8 ounces of water to a simmer. Whisk in the toasted milk powder and 1/2 gram of salt. Reduce the heat to low, and allow to rehydrate for at least 5 minutes. Remove from heat and let cool. Whisk well (or use an immersion blender) before using in milk punch.
+  - name: Banana Bunch Liqueur
+    notes:
+    ingredients:
+      - 500 milliliters 99 Bananas liqueur
+      - 75 grams freeze-dried bananas
+    steps:
+      - Combine the ingredients in a container and infuse for 24 hours. Fine-strain, then bottle. Keeps, refrigerated, for 6 months.
+  - name: Dave Arnold's Chocolate Bitters
+    notes:
+    ingredients:
+      - 350 milliliters 80-proof neutral spirit
+      - 100 grams cacao nibs, preferably Valrhona
+      - 3 grams mace
+      - 1.5 grams dried gentian
+      - 1.5 grams quassia bark
+    steps:
+      - Break up the mace, then combine all of the ingredients in a cream whipper. 
+      - Charge with two 7.5 gram N2O chargers and allow the mixture to infuse for 1 hour. 
+      - Vent all at once with the spigot pointed up into a container to catch any spray. 
+      - Let the mixture settle in the whipper until the bubbling stops (around 5 minutes). 
+      - Strain the infusion, pressing the solids to extract the most liquid. 
+      - Fine-strain, then bottle. 
+      - Keeps indefinitely at room temperature.
+  - name: Champurrado
+    notes:
+    ingredients:
+      - 16 ounces milk
+      - 3 ounces Demerara sugar
+      - 1/3 cup masa harina (yellow corn flour)
+      - 2 1/2 ounces white chocolate nibs
+      - 4 cinnamon sticks
+      - 2 pieces star anise
+      - 1 teaspoon salt
+    steps:
+      - Add all ingredients to a pot over low heat and bring to a low simmer while whisking occasionally. (Make sure to not let it get too hot; you don't want to scald the milk.) Simmer for 8 minutes, whisking every 1 to 2 minutes.
+      - Remove from heat and allow to cool. Use a coarse strainer to strain out the spices. (It’s OK to keep some spice flecks and fat components from the white chocolate; those provide flavor.)
+  - name: Porter Reduction
+    notes:
+    ingredients:
+      - 24 ounces porter
+      - 12 ounces Demerara sugar
+    steps:
+      - Over low heat, reduce the porter by half, but do not boil. Once reduced, remove from heat. Add the sugar and whisk to dissolve.
+  - name: Almond Jello
+    notes:
+    ingredients:
+      - 1/4 cup cold water
+      - 1 packet powdered gelatin, such as Knox Gelatine
+      - 2 cups hot whole milk
+      - 1/3 cup sugar
+      - 2 tablespoons almond extract
+    steps:
+      - Bloom the gelatin in the cold water. Add the hot milk, sugar and almond extract, and stir to combine. Refrigerate for at least 4 hours, until jello sets.
+  - name: Clarified Lemon Juice
+    notes:
+    ingredients:
+      - fresh lemon juice
+      - water
+      - agar-agar powder
+    steps:
+      - For every 1000 grams of fresh juice, set aside 100 grams of water and 2 1/2 grams of agar-agar powder.
+      - Bring the water to a boil, then immediately sprinkle the agar-agar evenly into water while whisking continuously for 1 minute.
+      - Remove from heat and immediately whisk in the fresh juice for 1 minute.
+      - Transfer the juice and agar mixture to a shallow pan over an ice bath, and allow to set slightly into a loose gel consistency. Meanwhile, line a strainer or chinois with cheesecloth or a coffee filter and set it over a container.
+      - Ladle the gel gently into the center of the lined strainer and let strain for approximately 4 to 6 hours. Refrigerate the clarified juice.
+  - name: Clarified Orange Juice
+    notes:
+    ingredients:
+      - fresh orange juice
+      - water
+      - agar-agar powder
+    steps:
+      - For every 1000 grams of fresh juice, set aside 100 grams of water and 2 1/2 grams of agar-agar powder.
+      - Bring the water to a boil, then immediately sprinkle the agar-agar evenly into water while whisking continuously for 1 minute.
+      - Remove from heat and immediately whisk in the fresh juice for 1 minute.
+      - Transfer the juice and agar mixture to a shallow pan over an ice bath, and allow to set slightly into a loose gel consistency. Meanwhile, line a strainer or chinois with cheesecloth or a coffee filter and set it over a container.
+      - Ladle the gel gently into the center of the lined strainer and let strain for approximately 4 to 6 hours. Refrigerate the clarified juice.
+  - name: Hibiscus-Infused Rum
+    notes:
+    ingredients:
+      - 2 tablespoons dried hibiscus flowers
+      - 8 ounces aged Puerto Rican rum, preferably Don Q 7-year
+    steps:
+      - Steep the hibiscus flowers in the rum for at least 1 hour and up to 24 hours for richer color and flavor. Strain and store in an airtight glass container.
+  - name: Lavender Tincture
+    notes:
+    ingredients:
+      - 8 ounces vodka
+      - 1/4 cup dried lavender buds
+    steps:
+      - Add the vodka and lavender buds to a glass jar and seal it. Shake the contents and place out of direct sunlight. 
+      - Let sit for at least 48 hours and up to 2 weeks, giving the jar a shake once in a while. 
+      - Strain through a fine sieve, gently pressing the lavender to extract liquid, then transfer to a clean, airtight glass jar. 
+      - Transfer the desired amount to an atomizer.
+  - name: Lacto-Fermented Cherry Syrup
+    notes:
+    ingredients:
+      - 2 pounds fresh cherries
+      - 1 1/2 tablespoons (15 grams) kosher salt
+      - 2 cups (415 grams) water
+      - sugar
+    steps:
+      - Halve and pit the cherries. Toss in salt to coat. Add to a glass fermenting jar with a fermentation weight.
+      - Cover with the water and seal with an airlock lid. Allow to ferment at room temperature for about 2 days. (You will see bubbles begin to appear in the jar.) After 2 days, move the jar into the refrigerator.
+      - After 4 days, the juice in the jar should be ready. Remove as much as you’d like.
+      - Weigh the juice, and add an equal amount of white sugar. Combine, stirring over very low heat until the sugar has dissolved. Store, refrigerated, for up to 2 weeks.
+  - name: Brown Butter-Washed Rye
+    notes:
+    ingredients:
+      - 15 grams unsalted butter
+      - 750 milliliters rye whiskey
+    steps:
+      - Put butter in a small saucepan over medium heat. Stir gently as the butter melts. The butter will begin to bubble and foam; continue stirring. As the foam subsides, you should see the butter turning brown, with toasted milk solids on the bottom. Remove from the heat.
+      - Combine the melted brown butter with the whiskey in a resealable container.
+      - Allow to sit at room temperature for 1 hour, then place in the freezer. The butter will solidify quickly, and after about 2 hours you should be able to remove it from the freezer. Pass the whiskey through a cheesecloth-lined strainer, then bottle and store.
+  - name: Clarified Sour Apple Cordial
+    notes: If a juicer isn’t available, or you are pressed for time, use store-bought 100 percent apple juice, such as Martinelli’s. Just make sure there is no sediment or anything cloudy in the juice.
+    ingredients:
+      - Granny smith apples
+      - sugar
+      - malic acid
+      - ascordbic acid
+      - citric acid
+    steps:
+      - Using a juicer, feed Granny Smith apples into the machine, then pass the juice through a fine-mesh strainer, then through a coffee filter. 
+      - The juice will be cloudy at first, but when it starts to run clear, transfer the strainer to a new container to collect the clear juice. 
+      - Add the cloudy juice back to the strainer until it, too, is clear. 
+      - Weigh the clarified juice and add 40 percent of its weight in sugar to a saucepan. 
+      - Add half of the juice and stir over low heat just until the sugar dissolves. 
+      - Remove from heat and add the remaining juice. 
+      - Weigh the juice-sugar mixture and add, by weight, 3 percent malic acid, 0.5 percent ascorbic acid and 1.5 percent citric acid.
+  - name: Curry Leaf-Infused Oat Milk
+    notes:
+    ingredients:
+      - 186 grams oat milk
+      - 2 grams fresh curry leaves
+    steps:
+      - Add the oat milk to a saucepan over low heat, then add the curry leaves. Allow to infuse, covered, for 20 minutes, then remove from heat and let sit for another 30 minutes. Strain out the leaves.
+  - name: Lactic Acid Simple Syrup
+    notes:
+    ingredients:
+      - 200 grams sugar
+      - 200 grams water
+      - 1 1/2 grams lactic acid
+    steps:
+      - Combine all ingredients in a saucepan over low heat and stir until the acid is fully dissolved.
+  - name: Cola Syrup
+    notes:
+    ingredients:
+      - 1 part Coca-Cola
+      - 2 parts white sugar
+    steps:
+      - Measure the ingredients by weight, then add to a saucepan over low heat until the sugar has dissolved. Let cool then bottle and store in the refrigerator.
+  - name: Hibiscus-Habanero Syrup
+    notes:
+    ingredients:
+      - 400g sugar
+      - 400g water
+      - 60g dried hibiscus flowers
+      - 50g habanero pepper, sliced
+      - 1 vanilla bean
+      - 5 orange peels
+    steps:
+      - Combine the sugar and water in a saucepan set over medium high heat. Add hibiscus flowers, habanero, vanilla bean and orange peels. Bring the mixture to a boil, then allow it to cool before straining.
+  - name: Coconut Syrup
+    notes:
+    ingredients:
+      - 500 grams sugar
+      - 250 grams water
+      - 125 grams coconut oil
+    steps:
+      - "Make a 2:1 simple syrup by combining the sugar and hot water into a vessel and stir until the sugar dissolves."
+      - Add coconut oil to the mixture while it is still hot and stir to incorporate. 
+      - Leave the mixture out at room temperature for 4 hours, stirring occasionally and then freeze it for at least 4 hours or overnight. 
+      - The coconut oil will freeze as a cap on top of the liquid.
+      - Gently remove it and then strain the liquid into a new container. 
+      - Store covered in the refrigerator.
+  - name: Passion Fruit Syrup
+    notes:
+    ingredients:
+      - 1 cup water
+      - 1 cup passion fruit purée
+      - 3 cups white sugar
+    steps:
+      - Combine all ingredients in a saucepan over low heat and stir until fully incorporated. Let cool, then fine strain into a bottle.
+  - name: Cinnamon Syrup
+    notes:
+    ingredients:
+      - 3 3/4 grams Cassia cinnamon sticks, lightly toasted and broken up
+      - 3/4 gram Ceylon cinnamon sticks, lightly toasted and broken up
+      - 2 cups water
+      - 1 quart sugar
+    steps:
+      - In a saucepan, bring the water to a boil, add the cinnamon sticks and sugar and stir until dissolved. Let cool, then strain into a bottle.
+  - name: Grilled Pineapple Demerara Syrup
+    notes:
+    ingredients:
+      - maple syrup
+      - Demerara syrup
+      - Pineapple
+    steps:
+      - Combine equal parts maple syrup and Demerara syrup (2:1 Demerara sugar dissolved in hot water). 
+      - Grill pineapple until caramelized. 
+      - For every ½ ounce of syrup, add a half-moon of grilled pineapple, chopped into small pieces.
+      - Infuse overnight, then strain.
+  - name: Jungle Batch
+    notes:
+    ingredients:
+      - 1 1/4 ounces El Dorado 8 Year rum
+      - 3/4 ounce Clairin Casimir rum 
+      - 1/4 ounce Giffard Banane du Brésil
+    steps:
+      - Combine all ingredients in a container and stir.
+  - name: Oat Syrup
+    notes:
+    ingredients:
+      - 1 cup gluten-free oats
+      - 4 cups water
+      - cane sugar
+    steps:
+      - Rinse and soak oats overnight.
+      - Discard water, and add 4 cups of fresh water to rinsed oats in a Vitamix. 
+      - Blend for 1 to 2 minutes. 
+      - Strain mixture, discard oats. 
+      - Measure 3 parts oat milk, 4 parts cane sugar (about 24 ounces oat milk to 32 ounces cane sugar). 
+      - Blend very well until syrup is not grainy.
+  - name: Cinnamon Bark Syrup
+    notes:
+    ingredients:
+      - 25 grams cinnamon bark
+      - 2 cups sugar
+      - 2 cups water
+    steps:
+      - Add cinnamon bark to a pot with muddle until broken up into small pieces. Toast cinnamon over burner until fragrant. Add sugar and water, then bring to a boil for 5 minutes. Allow to cool, then pour into a nonreactive container and store overnight. Strain through a chinois, then store in a container. Keeps up to 1 month.
+  - name: Cinnamon Oat Syrup
+    notes:
+    ingredients:
+      - 3 parts oat syrup
+      - 1 part cinnamon bark syrup
+    steps:
+      - To make the cinnamon oat syrup, combine 3 parts oat syrup and 1 part cinnamon bark syrup.
+  - name: Mamajuana
+    notes:
+    ingredients:
+      - 1 ounce honey
+      - pre-packaged botanicals
+      - 1 ounce red wine
+      - 750ml unaged rum
+    steps:
+      - To make mamajuana, Yoldin Castillo recommends buying pre-packaged botanicals and adding an ounce of honey, an ounce of red wine, then filling the rest of the bottle with unaged rum. Let sit for three months, then strain off the liquid and dispose of it (it will be too bitter from the bark) and refill with the same ingredients and let sit for an additional three weeks before using.
+  - name: Almazara Oleo Saccharum
+    notes:
+    ingredients:
+      - 125 grams lemon peels
+      - 125 grams lime peels
+      - 125 grams orange peels
+      - 125 grams grapefruit peels
+      - 500 grams white sugar
+      - 500 grams water
+    steps:
+      - In a container, macerate 500 grams of citrus peels (125 grams each of lemon, lime, orange and grapefruit) with 500 grams of white sugar, until mixed. Add 500 grams of room-temperature water and mix until sugar dissolves. When the sugar dissolves, cover and let the mixture rest in a place where it does not receive direct sunlight. Stir once daily for 7 to 10 days to properly mix flavors. Remove the citrus peels, strain the liquid into a separate container to remove any pieces of fruit or sugar that remain, then bottle and refrigerate. Best used within 2 weeks.

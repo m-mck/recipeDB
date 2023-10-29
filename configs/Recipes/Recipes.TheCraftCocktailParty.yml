@@ -26,7 +26,7 @@ recipes:
     - summer
     - shaken
     - sparkling
-    -- citrus
+    - citrus
   - name: Maria sin Sangre
     author: 
     notes: Think of this drink as a Bloody Mary on the fly. Forget the canned tomato juice; here, the freshness of summer's favorite fruit is muddled directly into the drink. To make this drink in larger yields, pulse the tomatoes and basil in a food processor 5 or 6 times, then strain through a fine-mesh sieve or a piece of cheesecloth and discard the solids.
@@ -572,7 +572,7 @@ recipes:
     - "the craft cocktail party: from tiki to modern tropical"
     - summer
     - shaken
-    - citrus``
+    - citrus
   - name: Pele's Wrath
     author: 
     notes: In Hawaii, Pele is the goddess of fire; she’s the one who causes volcanoes to erupt. When I was creating a cocktail menu for the Andaz Wailea in Maui, I wanted to include this drink, but the cultural advisor, Kainoa, insisted that we change the name so as not to anger Pele.
