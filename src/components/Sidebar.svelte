@@ -2,15 +2,17 @@
 <script>
     import {
         searchTerm,
-        filteredRecipes
+        filteredRecipes,
+		tags
     } from '../funcs.js';
-
-	export let width;
 </script>
 
-<div class="sidebar" bind:clientWidth={width}>
+<div class="sidebar">
     <input class="search-box" type="search" bind:value={$searchTerm} />
     <span>Showing {$filteredRecipes.length} recipes</span>
+	<p>
+		{@html [...$tags.values()]}
+	</p>
 </div>
 
 <style>
@@ -20,7 +22,9 @@
 		/*width: 20%;*/
 		position: sticky;
 		top: 0;
-		flex: 1 0.7 200px;
+		flex: 1 0.7 300px;
+		max-width: 350px;
+		overflow-y: auto;
 	}
 
 	.search-box {

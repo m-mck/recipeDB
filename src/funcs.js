@@ -5,6 +5,7 @@ import { writable, derived } from 'svelte/store';
 // somehow, we'll still have the data we need in these stores.
 export const searchTerm = writable('');
 export const recipes = writable([]);
+export const tags = writable([]);
 export const filteredRecipes = derived([recipes, searchTerm], ([$recipes, $searchTerm], set) => {
     set($recipes.filter((recipe) => {
         let lowercaseSearchTerm = $searchTerm.toLocaleLowerCase('en-US');
@@ -38,25 +39,35 @@ export const filteredRecipes = derived([recipes, searchTerm], ([$recipes, $searc
     }));
 });
 
-export function formatRecipes(jsonText) {
-    let configs = JSON.parse(jsonText);
-    let recipes = []
+export function fetchRecipes() {
+    fetch("recipes.json")
+        .then((response) => response.text())
+        .then((jsonText) => {
+            let configs = JSON.parse(jsonText);
+            let newRecipes = []
+            let newTags = new Set();
+        
+            for (let config of configs) {
 
-    for (let config of configs) {
-        let globals = {};
-        for (let field in config) {
-            if (field === "recipes") {
-                continue;
+                let globals = {};
+                for (let field in config) {
+                    if (field === "recipes") {
+                        continue;
+                    }
+                    globals[field] = config[field];
+                }
+
+                for (let recipe of config.recipes) {
+                    for (let field in globals) {
+                        recipe[field] = globals[field];
+                    }
+                    recipe["tags"]?.forEach(tag => newTags.add(tag));
+                    recipe["isPinned"] = writable(false);
+                    newRecipes.push(recipe);
+                }
             }
-            globals[field] = config[field];
-        }
-        for (let recipe of config.recipes) {
-            for (let field in globals) {
-                recipe[field] = globals[field];
-            }
-            recipe["isPinned"] = writable(false);
-            recipes.push(recipe);
-        }
-    }
-    return recipes;
+
+            recipes.set(newRecipes);
+            tags.set(newTags);
+        });
 }

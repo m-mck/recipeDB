@@ -1,25 +1,36 @@
 <script>
 	import { onMount } from 'svelte';
 	import { initCheckboxTree } from './elements/createCheckboxTree.js';
-  	import { get, readable, writable } from 'svelte/store';
+  	import { get, writable } from 'svelte/store';
     import Header from './elements/Header.svelte';
     import List from './elements/List.svelte';
     import Paragraph from './elements/Paragraph.svelte';
-	import { formatRecipes, recipes, filteredRecipes } from './funcs.js';
     import RecipeCard from './components/RecipeCard.svelte';
     import IconButton from './elements/IconButton.svelte';
     import HeaderButton from './elements/HeaderButton.svelte';
     import Sidebar from './components/Sidebar.svelte';
+	import {
+		fetchRecipes,
+		filteredRecipes
+	} from './funcs.js';
 
 	let pinnedRecipes = new Set();
 	let featuredRecipe = writable(undefined);
 	let currentListView = writable('list');
-	let sidebarWidth;
 	let contentWidth;
+	let isSidebarTabbed = false;
 
-	$: isSidebarTabbed = isSidebarTabbed ?? false
-		? contentWidth < 1100
-		: sidebarWidth < 200;
+	$: {
+		const widthThreshold = 900;
+		if (contentWidth < widthThreshold && !isSidebarTabbed) {
+			isSidebarTabbed = true;
+		} else if (contentWidth >= widthThreshold && isSidebarTabbed) {
+			isSidebarTabbed = false;
+			if (get(currentListView) == 'sidebar') {
+				currentListView.set('list');
+			}
+		}
+	}
 
 	$: featuredRecipePinned = $featuredRecipe?.isPinned ?? writable(false);
 
@@ -27,11 +38,7 @@
 		? "Pinned (" + pinnedRecipes.size + ")"
 		: "Pinned"
 	
-	onMount(() => fetch("recipes.json")
-        .then((response) => response.text())
-		.then((jsonText) => {
-			recipes.set(formatRecipes(jsonText));
-		}));
+	onMount(fetchRecipes);
 
 	function onPinClick() {
 		get(featuredRecipe).isPinned.update((value) => {
@@ -82,7 +89,7 @@
 	</div>
 	<div class="content" bind:clientWidth={contentWidth}>
 		{#if !isSidebarTabbed}
-			<Sidebar bind:width={sidebarWidth} />
+			<Sidebar />
 		{/if}
 		<div class="recipe-column">
 			<div class="recipe-column-buttons">
