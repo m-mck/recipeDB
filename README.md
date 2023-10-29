@@ -1,6 +1,6 @@
 # SneakyPiglet.github.io
 
-This is the backing code for building <https://SneakyPiglet.github.io>
+This is the backing code for building <https://SneakyPiglet.github.io/recipeDB>
 
 ## Get started
 

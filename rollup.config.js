@@ -11,7 +11,7 @@ const glob = require("glob");
 
 const production = !process.env.ROLLUP_WATCH;
 
-const recipeConfigs = glob.sync("./configs/**/{Ingredients.*.yml,Recipes.*.yml}");
+const recipeConfigs = glob.sync("./configs/**/{Secondaries.*.yml,Recipes.*.yml}");
 
 function serve() {
 	let server;

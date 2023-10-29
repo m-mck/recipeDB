@@ -1,164 +1,212 @@
 <script>
-	import Search from './components/Search.svelte';
 	import { onMount } from 'svelte';
-	import yaml from 'js-yaml';
-	import RecipeList from './components/RecipeList.svelte';
-	import Sidebar from './elements/Sidebar.svelte';
-	import CheckboxTree from './elements/CheckboxTree.svelte';
 	import { initCheckboxTree } from './elements/createCheckboxTree.js';
   	import { get, writable } from 'svelte/store';
+    import Header from './elements/Header.svelte';
+    import List from './elements/List.svelte';
+    import Paragraph from './elements/Paragraph.svelte';
+    import RecipeCard from './components/RecipeCard.svelte';
+    import IconButton from './elements/IconButton.svelte';
+    import HeaderButton from './elements/HeaderButton.svelte';
+    import Sidebar from './components/Sidebar.svelte';
+	import {
+		fetchRecipes,
+		filteredRecipes
+	} from './funcs.js';
 
-	let searchTerm = "";
-	let recipes = [];
 	let pinnedRecipes = new Set();
-	
-	function createSearchToken(searchTerm) {
-		if (searchTerm.startsWith('!')) {
-			return {
-				term: searchTerm.substr(1),
-				exclude: true
-			};
-		} else {
-			return {
-				term: searchTerm,
-				exclude: false
-			};
+	let featuredRecipe = writable(undefined);
+	let currentListView = writable('list');
+	let contentWidth;
+	let isSidebarTabbed = false;
+
+	$: {
+		const widthThreshold = 900;
+		if (contentWidth < widthThreshold && !isSidebarTabbed) {
+			isSidebarTabbed = true;
+		} else if (contentWidth >= widthThreshold && isSidebarTabbed) {
+			isSidebarTabbed = false;
+			if (get(currentListView) == 'sidebar') {
+				currentListView.set('list');
+			}
 		}
 	}
 
-	$: searchTokens = searchTerm
-		.toLocaleLowerCase('en-US')
-		.split(',')
-		.map((term) => term.trim())
-		.map(createSearchToken);
+	$: featuredRecipePinned = $featuredRecipe?.isPinned ?? writable(false);
 
-	function matchesSearchTerms(str) {
-		for (let termObj of searchTokens) {
-			if (str.includes(termObj.term) == termObj.exclude) {
-				return false;
-			}
-		}
-		return true;
-	}
-
-	$: filteredRecipes = recipes.filter((recipe) => {
-		if (get(recipe.isPinned)) {
-			return false;
-		}
-		if (!lowercaseSearchTerm) {
-			return true;
-		}
-		if (recipe.name != null && matchesSearchTerms(recipe.name) == false) {
-			return false
-		}
-		if (recipe.author != null && matchesSearchTerms(recipe.author) == false) {
-			return false;
-		}
-		if (recipe.ingredients) {
-			for (let item of recipe.ingredients) {
-				if (item != null && matchesSearchTerms(item) == false) {
-					return false;
-				}
-			}
-		}
-		if (recipe.tags) {
-			for (let item of recipe.tags) {
-				if (item != null && item.toLocaleLowerCase('en-US').includes(lowercaseSearchTerm)) {
-					return true;
-				}
-			}
-		}
-		return false;
-	})
+	$: pinnedButtonName = pinnedRecipes.size > 0
+		? "Pinned (" + pinnedRecipes.size + ")"
+		: "Pinned"
 	
-	onMount(() => {
-		fetch("recipes.json").then((value) => value.text()).then((text) => {
-			let configs = JSON.parse(text);
-			for (let config of configs) {
-				let globals = {};
-				for (let field in config) {
-					if (field === "recipes") {
-						continue;
-					}
-					globals[field] = config[field];
-				}
-				for (let recipe of config.recipes) {
-					for (let field in globals) {
-						recipe[field] = globals[field];
-					}
-					recipe["isPinned"] = writable(false);
-					recipe["onPinnedChanged"] = (isPinned) => {
-						if (isPinned) {
-							pinnedRecipes.add(recipe);
-							pinnedRecipes = pinnedRecipes;
-						} else {
-							pinnedRecipes.delete(recipe);
-							pinnedRecipes = pinnedRecipes;
-						}
-					};
-					recipes.push(recipe);
-				}
+	onMount(fetchRecipes);
+
+	function onPinClick() {
+		get(featuredRecipe).isPinned.update((value) => {
+			if (!value) {
+				pinnedRecipes.add(get(featuredRecipe));
+				pinnedRecipes = pinnedRecipes;
+			} else {
+				pinnedRecipes.delete(get(featuredRecipe));
+				pinnedRecipes = pinnedRecipes;
 			}
-			recipes = recipes; // svelte update
+			return !value;
 		});
-	});
+	}
+
 	let contents = {
 		name: "Rye",
 		children: [
-		{
-			name: "Buffalo Trace",
-			children: [],
-		},
-		{
-			name: "Rittenhouse",
-			children: [
 			{
-				name: "Chamomile-infused Rittenhouse",
+				name: "Buffalo Trace",
 				children: [],
 			},
 			{
-				name: "Some other thing",
-				children: []
-			},
-			{
-				name: "Some piece of crap",
-				children: []
+				name: "Rittenhouse",
+				children: [
+					{
+						name: "Chamomile-infused Rittenhouse",
+						children: [],
+					},
+					{
+						name: "Some other thing",
+						children: []
+					},
+					{
+						name: "Some piece of crap",
+						children: []
+					}
+				]
 			}
-			]
-		}
 		]
 	}
 	
 	const { item, updater } = initCheckboxTree(contents);
 </script>
 
-<div class="big-daddy-div">
-	<div class="sidebar">
-		<Sidebar/>
-		<CheckboxTree {item} {updater}/>
+<div class="main-container">
+	<div class="header">
+		<h1>RecipeDB</h1>
 	</div>
-	<div class="main">
-		<h1>What's on the menu?</h1>
-		<Search bind:value={searchTerm}></Search>
-		<span>Number of recipes: {recipes.length}</span>
-		<RecipeList recipes={[...pinnedRecipes.values()]}/>
-		<RecipeList recipes={filteredRecipes}/>
+	<div class="content" bind:clientWidth={contentWidth}>
+		{#if !isSidebarTabbed}
+			<Sidebar />
+		{/if}
+		<div class="recipe-column">
+			<div class="recipe-column-buttons">
+				{#if isSidebarTabbed}
+					<HeaderButton name="Search" on:click={() => currentListView.set('sidebar')} />
+				{/if}
+				<HeaderButton name="All" on:click={() => currentListView.set('list')} />
+				<HeaderButton name={pinnedButtonName} on:click={() => currentListView.set('pinned')} />
+			</div>
+			{#if $currentListView == 'pinned'}
+				<div class="recipe-list">
+					{#each [...pinnedRecipes.values()] as recipe, i}
+						<RecipeCard {recipe} {featuredRecipe}/>
+					{/each}
+				</div>
+			{:else if $currentListView == 'list'}
+				<div class="recipe-list">
+					{#each $filteredRecipes as recipe, i}
+						{#if i < 100} <!-- Only show the first 100 results, much faster performance -->
+							<RecipeCard {recipe} {featuredRecipe}/>
+						{/if}
+					{/each}
+				</div>
+			{:else if $currentListView == 'sidebar'}
+				<Sidebar />
+			{/if}
+		</div>
+		<div class="featured-recipe">
+			{#if $featuredRecipe}
+				<div class="favorite-button">
+					<IconButton iconName={$featuredRecipePinned ? 'heart-fill' : 'heart'} on:click={onPinClick}/>
+				</div>
+				<Header 
+					title="Recipe Name"
+					content={$featuredRecipe?.name ?? "Untitled Drink"}/>
+				<Paragraph
+					title="Author"
+					optional={true}
+					content={$featuredRecipe?.author}/>
+				<List
+					title="Ingredients"
+					ordered={false}
+					content={$featuredRecipe?.ingredients}/>
+				{#if $featuredRecipe?.steps?.length > 1 ?? false}
+					<List
+						title="Steps"
+						ordered={true}
+						optional={true}
+						content={$featuredRecipe?.steps}/>
+				{:else}
+					<Paragraph
+						title="Steps"
+						content={$featuredRecipe.steps}/>
+				{/if}
+				<Paragraph
+					title="Notes"
+					optional={true}
+					content={$featuredRecipe?.notes}/>
+				<Paragraph
+					title="Source"
+					optional={true}
+					content={$featuredRecipe?.source}/>
+				<Paragraph
+					title="Tags"
+					optional={true}
+					content={($featuredRecipe?.tags ?? []).join(", ")}/>
+			{/if}
+		</div>
 	</div>
 </div>
 
 <style>
-	.sidebar {
-		width: 20%;
-		position: sticky;
-		top: 0;
+	.header {
+		height: 80px;
 	}
-	.main {
-		padding: 0 0.5rem;
-		display: block;
-		flex-grow: 1;
-	}
-	.big-daddy-div {
+	.content {
+		flex: 1 1 auto;
+		flex-flow: row;
 		display: flex;
-		width: 100%;
+		max-height: 100%;
+		overflow-y: auto; /* prevents recipelist from pushing this into being gigantic */
+		margin-bottom: 16px;
+		gap: 24px;
+	}
+	.recipe-list {
+		padding: 16px;
+		display: block;
+		max-width: 600px;
+		height: auto;
+		overflow-y: auto;
+		border: solid 1px #000000;
+		flex: 1;
+	}
+	.featured-recipe {
+		border: solid 1px #000000;
+		padding: 12px;
+		position: sticky;
+		flex: 1 1 400px;
+		overflow-y: auto;
+	}
+	.main-container {
+		display: flex;
+		flex-flow: column;
+		max-width: 1500px;
+		height: 100%;
+		margin: 0 auto; /* centers div */
+		padding: 0 16px; /* gives buffer when squeezing it too small */
+	}
+	.favorite-button {
+		position: absolute;
+		right: 10px;
+		top: 10px;
+	}
+	.recipe-column {
+		display: flex;
+		flex-direction: column;
+		flex: 1 1 400px;
+		max-width: 500px;
 	}
 </style>
