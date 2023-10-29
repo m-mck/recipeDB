@@ -13,7 +13,7 @@
 
 <style>
 	.header {
-		padding: 4px;
-		flex: 1;
+		font-size: larger;
+		margin: 8px;
 	}
 </style>
