@@ -1,0 +1,140 @@
+source: "Spritz"
+hidden: true
+recipes:
+
+#
+  - name: Papaya Shrub
+    notes: 
+    ingredients: 
+    - 5 to 8 chunks papaya
+    - 1 cup rice wine vinegar
+    - ¼ cup sugar
+    steps:
+    - Add all ingredients to a saucepan. 
+    - Simmer over very low heat for 20 minutes. 
+    - Cool for at least 30 minutes. 
+    - Strain, bottle, and refrigerate for up to one month.
+  - name: Caraway-Infused Cocchi Americano
+    notes: 
+    ingredients: 
+    - 2 tablespoons caraway seeds
+    - 750 mL Cocchi Americano
+    steps:
+    - Mix 2 tablespoons caraway seeds with 750 ml of Cocchi Americano. Let infuse for 2 hours, strain, and rebottle.
+  - name: Reduced Blood Orange Juice
+    notes: 
+    ingredients: 
+    - 1 quart Moro blood orange juice
+    steps:
+    - Pour 1 quart Moro blood orange juice into a saucepan and simmer over low heat for 30 to 45 minutes or until it has reduced to 1 cup. 
+    - Store extra in the fridge for up to one week.
+  - name: Dehydrated Blood Orange Slice
+    notes: 
+    ingredients: 
+    - 1 blood orange
+    steps:
+    - Slice a blood orange into ⅛-inch slices and place them in a dehydrator for 8 hours.
+  - name: Ancho-Infused Moscatel Sherry
+    notes: Infused sherry can also be used for any cocktail recipe that calls for moscatel sherry, or as a spicy sweetener for classic drinks like the Old-Fashioned.
+    ingredients: 
+    - Dried ancho chile
+    - 750 mL bottle of Moscatel sherry
+    steps:
+    - Chop a dried ancho chile in half and remove the seeds.
+    - Submerge the seeded chile in a 750 ml bottle of sherry and let infuse for 2 hours.
+    - Strain, rebottle, and refrigerate for up to one month.
+  - name: Basil-Infused Dolin Blanc Vermouth
+    notes: 
+    ingredients: 
+    - 4 to 6 basil leaves, or 8 to 10 basil leaves
+    - 375mL, or 750mL, of Dolin Blanc Vermouth
+    steps:
+    - Combine the basil leaves and Dolin Blanc.
+    - Let infuse for 2 hours.
+    - Strain and rebottle.
+    - If you don't have time for infusing, gently mududle 4 to 6 basil leaves into the drink.
+  - name: Cranberry Shrub
+    notes: Yields approximately 2 cups.
+    ingredients: 
+    - 1 cup apple cider vinegar
+    - 1 cup water
+    - 1 cup sugar
+    - 1/2 cup frozen cranberries
+    steps:
+    - Add apple cider vinegar, water, sugar, and frozen cranberries in a saucepan over medium-high heat. 
+    - Bring to a boil, stir, and reduce the heat and simmer for 10 minutes, or until the sugar has dissolved, crushing the cranberries occasionally to release their juices. 
+    - Cool, strain, bottle, and refrigerate for up to one month.
+  - name: Ginger Syrup
+    notes: Yields approximately 1 cup.
+    ingredients: 
+    - 1/2 cup fresh ginger juice
+    - 1/2 cup sugar
+    steps:
+    - Combine the juice and sugar in a saucepan over very low heat until the sugar is dissolved. 
+    - Remove from the heat and let sit for at least 30 minutes. 
+    - Bottle and store in the refrigerator for up to one month.
+  - name: Grape Syrup
+    notes: Yields approximately 1 1/2 cups.
+    ingredients: 
+    - 2 cups purple slipskin grapes, such as Concord or Cabernet Sauvignon
+    - 1 cup sugar
+    - 1 cup water
+    steps:
+    - Combine all of the ingredients in a saucepan over low heat. 
+    - Crush and muddle the grapes and stir until the sugar is dissolved. 
+    - Remove from the heat and let sit for at least 30 minutes. 
+    - Strain, bottle, and store in the refrigerator for up to one month.
+  - name: Honey Syrup
+    notes: Yields approximately 1 1/2 cups.
+    ingredients: 
+    - 1 cup honey
+    - 1/2 cup water
+    steps:
+    - Combine the honey and water in a saucepan over very low heat. 
+    - Stir until the honey is dissolved. 
+    - Remove from the heat and let sit for at least 30 minutes. 
+    - Bottle and store in the refrigerator for up to one month.
+  - name: Lemon Syrup
+    notes: Yields approximately 1 1/4 cups.
+    ingredients: 
+    - 1 cup lemon juice
+    - 1 cup sugar
+    steps:
+    - Combine the lemon juice and sugar in a saucepan over very low heat. 
+    - Stir until the sugar is dissolved. 
+    - Remove from the heat and let sit for at least 30 minutes. 
+    - Bottle and store in the refrigerator for up to one month.
+  - name: Raspberry Syrup
+    notes: Yields approximately 2 cups.
+    ingredients: 
+    - 1 cup raspberries
+    - 2 cups sugar
+    - 1 cup water
+    steps:
+    - In a saucepan, crush and muddle the raspberries. 
+    - Add the sugar and water and heat over low heat, stirring until the sugar is dissolved. 
+    - Be careful not to boil, so the raspberries do not burn. 
+    - Remove from the heat and let sit for at least 30 minutes. 
+    - Strain, bottle, and store in the refrigerator for up to one month.
+  - name: Simple Syrup
+    notes: Yields approximately 1 1/4 cups.
+    ingredients: 
+    - 1 cup sugar
+    - 1 cup water
+    steps:
+    - Combine the sugar and water in a saucepan over very low heat. 
+    - Stir until the sugar is dissolved. 
+    - Remove from the heat and let sit for at least 30 minutes. 
+    - Bottle and store in the refrigerator for up to one month.
+  - name: Vanilla Syrup
+    notes: Yields approximately 1 1/4 cups.
+    ingredients: 
+    - 1 cup sugar
+    - 1 cup water
+    - 1 vanilla bean
+    steps:
+    - Combine the sugar and water in a saucepan. 
+    - Split open the vanilla bean with a small knife and scrape the contents into the pan; add the bean pod. 
+    - Turn the heat on low and stir until the sugar is dissolved. 
+    - Remove from the heat and let sit for at least 30 minutes. 
+    - Strain, bottle, and store in the refrigerator for up to one month.

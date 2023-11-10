@@ -7,6 +7,7 @@ recipes:
     url: 
     notes: 
     year: 2023
+    glassware: 
     ingredients:
     - 3/4 ounce apple brandy
     - 3/4 ounce gin
@@ -25,6 +26,7 @@ recipes:
     url: 
     notes: 
     year: 2021
+    glassware: 
     ingredients:
     - 2 ounces cachaça
     - 3/4 ounce sweet tea syrup (either commercial brand or simple syrup made with brewed tea instead of water)
@@ -38,5 +40,28 @@ recipes:
     - Add ice and shake until chilled, about 15 seconds. 
     - Double strain into chilled cocktail glass.
     tags:
+    - shaken
+    - citrus
+  - name: Smoky, Artsy, Autumnal Sour
+    author: 
+    url: 
+    notes: 
+    year: 2023
+    glassware: 
+    ingredients:
+    - ⅜ ounce 3:1 honey syrup
+    - ⅜ ounce ginger syrup
+    - ¾ ounce fresh lemon juice
+    - ¼ ounce smoky Scotch, preferably Laphroaig 10
+    - 1¾ ounce apple brandy, preferably Laird’s Straight Bottled-in-Bond
+    - Mist of Angostura bitters from a spray bottle
+    steps:
+    - Combine all ingredients except Angostura bitters in a cocktail shaker.
+    - Add ice, then shake until chilled, about 10-12 seconds. 
+    - Strain into a rocks glass over a single large piece of ice. 
+    - Using a small spray bottle, spray a mist layer of Angostura onto the top of the drink. (If you don’t have a mist bottle, simply take a scant barspoon of Angostura bitters and very gently pour it over the top of the drink. You’re trying to float a very, very fine layer of bitters at the top of the mix.)
+    tags:
+    - autumn
+    - peaty
     - shaken
     - citrus

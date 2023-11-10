@@ -3,6 +3,7 @@ recipes:
 
   - name: Split Second
     notes: 
+    glassware: 
     ingredients: 
     - 1 oz Plantation Pineapple Stiggins Fancy Rum
     - ¾ oz Jameson Original Irish Whiskey

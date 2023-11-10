@@ -6,6 +6,7 @@ recipes:
     author: 
     year: 2023
     notes: Served to Michael.
+    glassware: 
     ingredients:
     - 1 1/2 oz. Fernet Lario
     - 1/2 oz. Plantation O.F.T.D. Rum
@@ -21,6 +22,7 @@ recipes:
     author: 
     year: 2023
     notes: Served to Michael.
+    glassware: 
     ingredients:
     - 1 1/2 oz. Batavia Arrack van Oosten
     - 3/4 oz. Fernet Lario
@@ -35,6 +37,7 @@ recipes:
     author: 
     year: 2023
     notes: Served to Kate.
+    glassware: 
     ingredients:
     - 1 1/2 oz. gin
     - 3/4 oz. St. George Spiced Pear liqueur
@@ -51,6 +54,7 @@ recipes:
     author: 
     year: 2023
     notes: Served to Kate. (Specs are very rough.)
+    glassware: 
     ingredients:
     - 3/4 oz. Buffalo Trace bourbon
     - 3/4 oz. gin
@@ -70,6 +74,7 @@ recipes:
     author: 
     year: 2023
     notes: Served to Walter.
+    glassware: 
     ingredients:
     - 1 1/2 oz. Los Vecinos del Campo mezcal
     - 3/4 oz. lemon juice
@@ -88,6 +93,7 @@ recipes:
     author: 
     year: 2023
     notes: Served to Walter. Made with Bacoo rum; most likely 5-year, 8-year, or 12-year. "Cardamom," here, is interpreted to mean a whole pod, muddled. However, it might also work with 1/4 oz. cardamom syrup.
+    glassware: 
     ingredients:
     - 1 1/2 oz Bacoo rum 8- Year
     - 3/4 oz. Sennza Autumn Amaro

@@ -6,6 +6,7 @@ recipes:
     author: Alfredo
     notes: 
     year: 2023
+    glassware: 
     ingredients:
     - 1 1/2 oz Rittenhouse 100 rye
     - 1/2 oz Amaro Sfumato
@@ -24,6 +25,7 @@ recipes:
     author: Alfredo
     notes: 
     year: 2023
+    glassware: 
     ingredients:
     - 1 1/2 oz Macchu Pisco
     - 3/4 oz Carpano Antica dry vermouth
@@ -42,6 +44,7 @@ recipes:
     author: Christian
     year: 2022
     notes: 
+    glassware: 
     ingredients:
     - 1 glass Underberg
     - 3/4 oz lemon juice

@@ -1,0 +1,875 @@
+source: "Spritz"
+recipes:
+
+#Classic Spritzes
+  - name: Venetian Spritz
+    author: 
+    notes: The spritz that launched a thousand spritzes, the Venetian Spritz is made with a range of bitter liqueurs, including the ubiquitous Aperol from Padua and the more locally beloved Select (thought to be the original bitter used in the Venetian Spritz). Always garnished with a skewered olive and a slice of citrus, this style of spritz is the most widely recognized classic and the standard-bearer of spritz living across Italy.
+    glassware: 
+    ingredients:
+    - 2 ounces Aperol, Campari, Contratto Aperitif, Contratto Bitter, Maura Vergano Americano, or Cappelletti Aperitivo Americano
+    - 3 to 4 ounces Prosecco
+    - 2 ounces soda water
+    - "Garnish: olive and orange half-wheel"
+    steps:
+    - Build the ingredients in a rocks or wine glass, over ice, and add the garnish.
+    tags:
+    - spritz
+    - classic spritzes
+    - stirred
+  - name: Negronio Sbagliato
+    author: 
+    notes: The legendary Bar Basso in Milan (which originally opened in 1933 and moved to its current space in 1947) claims provenance of this buoyant little cousin to the Negroni, whose sbagliato addendum means “mistaken” or “incorrect” in Italian. Basso’s jovial proprietor Maurizio Stocchetto entertains guests with an origin tale citing his father, Mirko—a legendary midcentury barman and the owner of Bar Basso beginning in 1967—as the “accidental” inventor of the drink in the early 1970s, substituting prosecco for gin. Most impressively, the bar serves its sbagliato in a giant handblown goblet complete with an ice block the size of a car battery.
+    glassware: 
+    ingredients:
+    - 1 ounce Campari
+    - 1 ounce sweet vermouth
+    - 3 ounces Prosecco
+    - "Garnish: orange half-wheel"
+    steps:
+    - Build the ingredients in a rocks glass over ice and add the garnish.
+    tags:
+    - spritz
+    - classic spritzes
+    - stirred
+    - negroni
+  - name: White Spritz
+    author: 
+    notes: The first vestige of spritz ancestry, the white spritz or spritz liscio was likely—as the Italian mythos goes—born in Hapsburg-occupied northern Italy in the nineteenth century, when Austrian soldiers introduced the practice of adding a spritz of water to the region’s wines, in an effort to make them more pleasing to their Riesling-weaned palates. This version, with soda water, emerged in the first years of the twentieth century, and is a malleable blueprint created to suit each drinker’s palate. Simply add a splash of homemade syrup or fruit liqueur to a base of white wine and soda, and garnish with abandon.
+    glassware: 
+    ingredients:
+    - 4 ounces dry white wine
+    - 2 ounces soda water
+    - 1/2 ounce lemon syrup
+    - "Garnish: seasonal citrus, herbs, or fruit"
+    steps:
+    - Build the ingredients in a wine glass over ice and add the garnish.
+    tags:
+    - spritz
+    - classic spritzes
+    - stirred
+  - name: Bicicletta
+    author: 
+    notes: Either a white spritz with the addition of Campari or a Venetian Spritz that calls for white wine instead of prosecco, the Bicicletta is named for the mode of transportation in which its drinkers toddle home after several drinks at the local café. Originating in Lombardia in northwest Italy in the 1930s, it’s almost exclusively consumed with Campari everywhere except Brescia.
+    glassware: 
+    ingredients:
+    - 1 to 2 ounces Campari
+    - 3 ounces white wine
+    - Soda water
+    - "Garnish: lemon half-wheel"
+    steps:
+    - Build the ingredients in a wine glass over ice and add the garnish.
+    tags:
+    - spritz
+    - classic spritzes
+    - stirred
+
+#Modern Spritzes
+  - name: Rosé All Day
+    author: Gabriel Orta & Elad Zvi
+    notes: 
+    glassware: 
+    ingredients:
+    - The sunshine-soaked cult of rosé has finally reached fever pitch and is now making regular appearances in cocktails all over America. Here it shows up—rather appropriately—in a spritz variation at Miami Beach’s Broken Shaker, a backyard cocktail grove of palm trees and beautiful pool-goers who line up for seasonal caipirinhas and mojitos every day of the year. The rosé creates a background for bittersweet Cocchi Americano and sweet-and-sour papaya shrub, all bound together with a dose of prosecco.
+    steps:
+    - 2 ounces rosé
+    - 1 ounce Cocchi Americano
+    - 1 ounce Papaya Shrub
+    - 1/2 ounces fresh lemon juice
+    - 1 ounce prosecco
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+    - sparkling
+    - citrus
+  - name: Tarocco Spritz
+    author: 
+    notes: Inspired by a cocktail from New York City bartender Natasha David, the crimson-colored Tarocco Spritz is a nod to the flavor and color of the Sicilian Tarocco orange, often referred to as the “half-blood orange.” A mixed-heritage cocktail, this drink has a bumped-up base of gin to match the vibrant bitter aperitivo liqueur Cappelletti. The drink’s acidity comes courtesy of blood orange, lemon juice, and prosecco, bound together by the unlikely addition of vanilla, which complements Cappelletti’s notes of spice and oxidation.
+    glassware: 
+    ingredients:
+    - 1 ounce gin
+    - 1/2 ounce Cappelletti
+    - 3/4 ounce fresh blood orange juice
+    - 1/2 ounce fresh lemon juice
+    - 1/2 ounce vanilla syrup
+    - 2 ounces Prosecco
+    - "Garnish: blood orange wheel"
+    steps:
+    - Add the gin, Cappelletti, orange juice, lemon juice, and vanilla syrup to a cocktail shaker. 
+    - Add ice and shake until chilled. 
+    - Strain over fresh ice, top with the prosecco, and add the garnish.
+    tags:
+    - spritz
+    - modern spritzes
+    - shaken
+    - citrus
+  - name: Rib Tickler
+    author: Alex Day
+    notes: This drink was born out of the idea to create a more sippable, bubbly White Negroni (a variation on the classic using Suze, gin, and Lillet Blanc or blanc vermouth). To start, bartender Alex Day was set on maintaining the White Negroni’s most distinctive element—bitter, gentian-forward Suze. From there, he built in a sour recipe with lemon juice, St-Germain, and simple syrup, and maintained its backbone with dry, spicy Dolin. Though the drink doesn’t contain a traditional prosecco topper, it has the lighthearted spritz spirit with its bittersweet twinge, sunshine yellow hue, and bubbly personality.
+    glassware: 
+    ingredients:
+    - 2 ounces Dolin dry vermouth
+    - 3/4 ounce Suze
+    - 1/2 ounce St-Germain
+    - 1/2 ounce lemon juice
+    - 1/4 ounce simple syrup
+    - Soda water
+    steps:
+    - Pour the vermouth, Suze, St-Germain, lemon juice, and simple syrup in a wine glass over ice. 
+    - Top with soda water and add the garnish.
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+    - nitecap
+    - citrus
+    - low-abv
+    - negroni
+  - name: Viking Culture
+    author: Natasha David
+    notes: Charged with conceptualizing a cocktail menu for Sunshine Co., a Brooklyn bar without a full liquor license, Natasha David was challenged to formulate drinks with the visage of a “real” cocktail, minus the hard spirits. One such result, the Viking Culture is meant to evoke the flavors of Scandinavia via aquavit and the men “with big, bushy red beards” who drink it, as David puts it. Mimicking aquavit with caraway seed–infused Cocchi Americano, David added the natural flavor pairing of peach, using preserves to create a textural layer. It’s all blended together with a good shake and then ushered into sturdy Viking bliss with a topper of sparkling wine.
+    glassware: 
+    ingredients:
+    - 2 ounces Caraway-Infused Cocchi Americano
+    - 3/4 ounce lemon juice
+    - 1/4 ounce simple syrup
+    - 1 tablespoon peach preserves (perferably Bonne Maman)
+    - Sparkling wine
+    steps:
+    - Add the Cocchi Americano, the lemon juice, simple syrup, and peach preserves to a cocktail shaker. 
+    - Add ice and shake until chilled. 
+    - Double-strain into a coupe glass and top with the sparkling wine and garnish.
+    - The remaining infused Cocchi can be added as the base flavor to a simple White Spritz. 
+    - Alternatively, the recipe can be halved or quartered and made in a clean, empty bottle to avoid surplus.
+    tags:
+    - spritz
+    - modern spritzes
+    - shaken
+    - citrus
+    - low-abv
+  - name: Alpine SPritz
+    author: 
+    notes: Made with a list of ingredients meant to channel the cool, glacial ferocity of the Alps, this spritz has a base of Braulio, an Italian alpine bitter that tastes of menthol and bittersweet pine. The acidic Riesling, homemade grape syrup, and aromatic rosemary garnish add a layered complexity that continues to linger after the first sip.
+    glassware: 
+    ingredients:
+    - 3/4 ounce Amaro Braulio
+    - 1 ounce Riesling
+    - 1/2 ounce simple syrup
+    - 3 ounces Crémant d'Alsace
+    - "Garnish: rosemary sprig"
+    steps:
+    - Build the ingredients in a double rocks or wine glass over ice and add the garnish.
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+  - name: Nero Chinato Spritz
+    author: Daniel Zacharczuk
+    notes: "Testing dozens of spritzes for this book revealed a universal truth: Cocchi Americano makes every spritz taste and feel good. Like lying-near-a-body-of-sun-warmed-water good, or lounging-in-a-lawn-chair-at-sunset good. The bittersweet quinine-flavored aperitivo is also the thing that makes this spritz taste like an effervescent blackberry popsicle. Equal parts cobbler (thanks to the muddled fruit) and Collins-royale (by way of lemon and Champagne), this purple mess of a cocktail is meant for those previously mentioned moments in the sun."
+    glassware: 
+    ingredients:
+    - 4 blackberries
+    - 3/4 ounce lemon juice
+    - 2 1/2 ounces Cocchi Americano
+    - Champagne or sparkling wine
+    - Soda water
+    - "Garnish: 2 to 3 blackberries on a skewer"
+    steps:
+    - In a Collins glass, muddle the blackberries. 
+    - Add ice, the lemon juice, and the Cocchi Americano. 
+    - Top with equal parts Champagne and soda water and add the garnish.
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+    - sparkling
+    - citrus
+  - name: Blood Orange
+    author: Matthew Biancaniello
+    notes: Matthew Biancaniello’s specialty is hyperseasonal drinking. Each week, he forages through L.A.’s farmers’ markets and green spaces for the best produce available—filling in the gaps with goods from his own garden—and sets it all up like a veritable juice stand (plus booze). This garnet-colored cousin of the mimosa makes the most of winter’s sexiest commodity, blood orange juice, which is further intensified into a reduction and lifted up with a mix of bubbly rosé and the wine-based bitter Cappelletti.
+    glassware: 
+    ingredients:
+    - 3 ounces sparkling dry rosé
+    - 3/4 ounce Cappelletti
+    - 1 ounce reduced blood orange juice
+    - "Garnish: dehydrated blood orange slice or a thin slice of blood orange"
+    steps:
+    - Build the ingredients in a Champagne flute or wine glass over ice. 
+    - Cut a small slit in the dehydrated blood orange slice and arrange it on the side of the flute.
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+    - citrus
+  - name: Unnamed Go-To
+    author: Greg Best
+    notes: Greg Best’s Unnamed Go-To may be the formula that comes closest—philosophically speaking—to the ideal modern spritz recipe. Experimental, somewhat haphazard, and undeniably refreshing, this cooling mixture is the definition of insouciant style.
+    glassware: 
+    ingredients:
+    - 2-ish ounces Cocchi Americano
+    - 1/2-ish ounce fino sherry
+    - 1 barspoon or so lemon juice
+    - 2 dashes Bittermens Orange Creme Citrate
+    - 2 ounces tonic water
+    - 2 ounces cava or prosecco
+    - "Garnish: orange, lemon, and lime peels"
+    steps:
+    - Unceremoniously (and without regard to 'making a mess') assemble all ingredients over crappy refirgerator ice in a large tumbler.
+    - If need be, add more of either or both bubbly components to fill the glass.
+    - Add a large, hastily cut orange peel as well as that of lemon or lime.
+    - Haul ass out to the pool where friends are already drinking cheap cold canned beer.
+    - Make all envious.
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+    - citrus
+    - sparkling
+  - name: PUNCH House Spritz
+    author: 
+    notes: Everyone should have a house spritz—a seasonal standard whose proportions are known by heart and ingredients are stocked easily. This is ours. A simple riff on the classic spritz formula originally built to highlight Lini’s fruity, irresistible lambrusco rosato, this has become a spring-summer staple for both of us. Gentian-tinged Cocchi Americano plays the bitter role, while sour grapefruit acts as a foil to its sweetness, simultaneously pumping up the volume on the lambrusco. Built in a pitcher or portioned out in a wine glass, it’s a drink that embodies the spritz philosophy of being both beautiful and simple.
+    glassware: 
+    ingredients:
+    - 2 ounces Cocchi Americano
+    - 4 ounces Lini Lambrusco Rosato
+    - 1 ounce fresh grapefruit juice
+    - 1 ounce soda water
+    - "Garnish: grapefruit half-wheel"
+    steps:
+    - Build the ingredients in a rocks or wine glass over ice and add the garnish.
+    - To batch this drink, combine 3 cups labrusco, 1 1/2 cups Cocchi Americano, and 3/4 cups fresh grapefruit juice in a pitcher. Divide the mixture between 4-6 ice-filled glasses. Top each with 1-2 ounces soda water. Garnish with a grapefruit wheel.
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+    - sparkling
+  - name: Appennini Spritz
+    author: Adam Bernbach
+    notes: Admittedly obsessed with the luscious, bitter allure of Barolo Chinato, Adam Bernbach saw an opportunity to introduce the quinine-fortified wine to the classic Negroni Sbagliato template. Here, he switches the traditional sweet vermouth element for Cocchi’s Barolo Chinato and matches it to the wine-based red bitter Cappelletti. The cocktail borrows its name from the chain of mountains that run the length of peninsular Italy, the Apennines.
+    glassware: 
+    ingredients:
+    - 1 ounce Cocchi Barolo Chinato
+    - 1 ounce Cappelletti
+    - 2 ounces cava (if substituting prosecco, add 1/2 ounce lemon juice)
+    - "Garnish: orange half-wheel with seasonal fruit"
+    steps:
+    - Build the ingredients in a rocks glass over ice and add the garnish.
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+  - name: Hugo Spritz
+    author: 
+    notes: Reportedly born in South Tyrol along the Italian-Austrian border, the Hugo is a sort of modern incarnation of the white spritz, and a regional competitor to the Aperol Spritz. It was first conceived in the mid-aughts by South Tyrolean Roland Gruber, who originally used lemon syrup, rather than the more common sciroppo di sambuco (elderflower syrup), often called acqua santa (holy water) locally. It’s since become a regional phenomenon, having been commercially co-opted by an Italian company and bottled as a ready-to-drink cocktail, but the original is still a staple in Austria and Germany. Because fresh elderflower isn’t available in the United States, the most widely available replacement is a splash of St-Germain elderflower liqueur.
+    glassware: 
+    ingredients:
+    - 1/2 ounce St-Germain
+    - Mint sprig
+    - 4 ounces prosecco
+    - 1 ounce soda water
+    - "Garnish: mint sprig and lemon wheel"
+    steps:
+    - Add the St-Germain and mint sprig to a wine glass. Gently muddle together and let sit for 3 minutes.
+    - Add ice, the prosecco, and the soda water.
+    - Stir gently to combine and add the garnish.
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+  - name: Amarena Spritz
+    author: 
+    notes: "The Amarena Spritz combines three northern Italian traditions into one drink: Punt e Mes and Carpano Bianco vermouths from Piedmont, wild brandied amarena cherries from Bologna (though fresh, black cherries are a lovely substitute come summer), and balsamic vinegar from Modena. The brandied cherry syrup and vinegar form a proto-shrub whose sweet-sour nature is a savory foil to Carpano Bianco and bitter, spicy Punt e Mes."
+    glassware: 
+    ingredients:
+    - 2 brandied cherries (preferably Fabbri Amarena) or 3 fresh cherries, pitted
+    - 1 teaspoon high-quality balsamic vinegar
+    - 1 ounce Punt e Mes
+    - 1 ounce Carpano Bianco
+    - 2 ounces prosecco
+    - 2 ounces soda water
+    - "Garnish: 2 to 3 brandied cherries (perferably Fabbri Amarena)"
+    steps:
+    - In a Collins or rocks glass, muddle the cherries with the balsamic vinegar.
+    - Add the Punt e Mes, the Carpano Bianco, and ice.
+    - Top with the prosecco and soda water and add the garnish.
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+  - name: Byrrh It's Cold Outside
+    author: Natasha David
+    notes: From a winter menu at NYC’s Nitecap, the Byrrh It’s Cold Outside is a punny moniker for a rather serious spritz. Two intense sherries—one infused with the slow burn of ancho chile—meet Byrrh, the wine and mistelle–based French quinquina wine, and cranberries, whose deep sour quality is preserved in apple cider vinegar. While all of these ingredients might seem oddly matched, the earthy complexity of both sherries combined with the fruity brightness of Byrrh and cranberry is a curiously warming and balanced mix perfect for a cold winter night.
+    glassware: 
+    ingredients:
+    - 3/4 ounce Byrrh Grand Quinquina
+    - 3/4 ounce Lustau Amontillado Sherry
+    - 1/2 ounce Ancho-Infused Moscatel Sherry
+    - 3/4 ounce Cranberry Shrub
+    - 1/2 ounce lemon juice
+    - 1 1/2 ounces sparkling wine
+    - "Garnish: lemon wheel"
+    steps:
+    - Add the Byrrh, sherries, shrub, and lemon juice to a cocktail shaker with ice. 
+    - Shake briefly, and strain into a Collins glass over crushed ice. Top with the sparkling wine and add garnish.
+    tags:
+    - spritz
+    - modern spritzes
+    - shaken
+    - citrus
+    - nitecap
+  - name: Mai Tai Spritz
+    author: Martin Cate
+    notes: Like the many maligned Mai Tai recipes floating about in the cocktail ether, the originator of this tiki classic has been muddied, with accounts naming Don the Beachcomber and others fingering his rival, Victor “Trader Vic” Bergeron. Either way, Vic’s version is the one that lingers as the canonical formula. Austere compared to many kitchen sink–style tiki drinks, the Mai Tai pairs lime, almond syrup (orgeat), dry curacao, and, often, two styles of rum—Jamaican and Martinican. Martin Cate’s spritz-ified version pares down the rum content in lieu of a Champagne topper in a nod to Trader Vic’s French heritage.
+    glassware: 
+    ingredients:
+    - "Garnish: mint sprig and lime wheel"
+    steps:
+    - 1/2 ounce lime juice
+    - 1/2 ounce orgeat
+    - 1/2 ounce Pierre Ferrand Dry Orange Curaçao
+    - 1 ounce Denizen Merchant's Reserve Rum (or Appleton Estate Reserve Rum)
+    - 4 ounces chilled Brut Champagne
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+    - smuggler's cove
+    - mai tai
+    - sparkling
+    - citrus
+  - name: Spritzz
+    author: Jim Meehan
+    notes: Jim Meehan created this melding of Italo-Hungarian ingredients for the Caffé della Posta in Bolgheri, Italy, in 2011. Zwack siblings Sandor and Izabella (who produce Zwack amaro and Unicum in Hungary) opened the café in the town where they spent summers until 1987. Upon invitation, Meehan crafted a menu for them that would wed their portfolio with that of Italy’s own iconic ingredients. With a flavor reminiscent of caramelized citrus rinds, this cocktail was originally called the Carducci Spritz, so named for the Italian poet Giosuè Carducci who hailed from Tuscany.
+    year: 2011
+    glassware: 
+    ingredients:
+    - 2 ounces Pellegrino Aranciata
+    - 1 1/2 ounces Zwack Amaro
+    - 2 ounces prosecco
+    - "Garnish: orange half-wheel"
+    steps:
+    - Build the ingredients over ice in a rocks glass and add the garnish.
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+    - pdt
+  - name: Viva Alberti
+    author: Will Elliott
+    notes: The base ingredient in Will Elliott’s complex spritz is the idiosyncratic saffron-infused Strega, a brilliant yellow bitter liqueur whose name means “witch” in Italian. Named after Giuseppe Alberti, who founded the Strega distillery in 1860 in Benevento, Italy, this herbal, savory spritz boldly carries his name forth.
+    glassware: 
+    ingredients:
+    - 1 ounce Strega
+    - 1/2 ounce cognac
+    - 1 teaspoon Cappelletti
+    - 1/2 ounce lemon juice
+    - 3 dashes Angostura Orange bittersweet
+    - High-quality sparkling wine
+    - "Garnish: orange twist"
+    steps:
+    - Add the Strega, cognac, Cappelletti, lemon juice, andd bitters to a wine glass.
+    - Add cracked ice and stir until chilled.
+    - Top with sparkling wine and add the garnish.
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+    - maison premiere
+    - citrus
+  - name: Wildair Spritz
+    author: Jorge Riera
+    notes: This naturalist take on the spritz has become a staple at the New York natural wine bar Wildair. A combination of Mauro Vergano Americano, which is made from Grignolino grapes sourced from Piedmontese natural wine producer Cascina Tarijn, and Les Capriades Pet’Sec—a dry, slightly cloudy pétillant naturel (natural) sparkling wine from the Loire Valley. Wine director Jorge Riera first encountered a version of the drink at the wedding of Loire winemaker Thierry Puzelat, when Puzelat decadently suggested pouring a little of Vergano’s aperitivo into a glass of Emmanuel Lassaigne’s brut Champagne. (If you cannot find Capriades Pet’Sec, try subbing in a col fondo-style prosecco.)
+    glassware: 
+    ingredients:
+    - 2 ounces Vergano Americano
+    - Les Capriades Pet'Sec, to top
+    - "Garnish: orange twist"
+    steps:
+    - Add 3 cubes of ice to a wine glass.
+    - Add the Vergano Americano and top with Pet'Sec.
+    - Garnish with an orange twist.
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+  - name: Everything's Coming Up Rosé
+    author: Natasha David
+    notes: This explosion of flower-garnished pinkness was inspired by a traditional sangria template, but instead of white or red wine, Natasha David swapped in rosé and layered it with a splash of bitter Aperol and the subtly sweet punch of Lillet Rosé. Hibiscus tea comes into play with a dry floral note, which is all smoothed together with a little citrus and a topper of sparkling wine.
+    glassware: 
+    ingredients:
+    - 2 ounces dry rosé
+    - 1 ounce Lillet Rosé
+    - 1 ounce hibiscus tea
+    - 1/2 ounce lemon juice
+    - 1/2 ounce simple syrup
+    - 1/4 ounce Aperol
+    - 1 ounce sparkling wine
+    - "Garnish: lemon wheel, grapefruit slice, and edible flowers"
+    steps:
+    - Pour the rosé, Lillet Rosé, tea, lemon juice, simple syrup, and Aperol over three ice cubes in a wine glass.
+    - Top with more ice and sparkling wine and add the garnish.
+    tags:
+    - spritz
+    - modern spritzes
+    - stirred
+    - nitecap
+    - citrus
+  - name: Safe Passage
+    author: Keneniah Bystrom
+    notes: This drink is a riff on another cocktail called the Sweet Olive, which hails from the beloved Brooklyn restaurant Franny’s. Keneniah Bystrom created the Safe Passage to guide his restaurant through a party in honor of Franny’s recently released cookbook. Swapping the Sweet Olive’s Meletti Amaro for Amaro Nardini—which is infused with bitter gentian and fresh peppermint—Bystrom created a softly bitter spritz whose salty complexity matches the sweet citrus of Aperol and the bitter twinge of Nardini.
+    glassware: 
+    ingredients:
+    - 1 ounce Amaro Nardini
+    - 1/4 ounce Aperol
+    - 1/4 ounce lemon juice
+    - 1/4 ounce Castelvetrano olive brine
+    - 2 1/2 ounces prosecco
+    - "Garnish: 2 Castelvetrano olives"
+    steps:
+    - Add Amaro Nardini, Aperol, lemon juice,, and olive brine to a cocktail shaker.
+    - Add ice and shake until chilled.
+    - Strain into a chilled coupe or cocktail glass.
+    - Top with prosecco and garnish with the olives.
+    tags:
+    - spritz
+    - modern spritzes
+    - shaken
+    - citrus
+  - name: Aperol Betty
+    author: 
+    notes: The Aperol Betty is barely more than a glorified, bittersweet Mimosa. At Terroni in Los Angeles, Aperol is mixed with fresh orange and grapefruit juices, both of which freshen up the liqueur’s bite, and then topped with prosecco for a cooler-style spritz that is appropriate morning, noon, or night.
+    glassware: 
+    ingredients:
+    - 2 ounces Aperol
+    - 1 ounce fresh orange juice
+    - 1/2 ounce fresh grapefruit juice
+    - 3 ounces prosecco
+    - "Garnish: orange wheel"
+    steps:
+    - Add all ingredients to a cocktail shaker, add ice, and shake.
+    - Strain over ice into a rocks or Collins glass.
+    - Top with prosecco and garnish with an orange wheel.
+    tags:
+    - spritz
+    - modern spritzes
+    - shaken
+    - citrus
+
+#Spritz Cousins
+  - name: Americano
+    author: 
+    notes: Though popular history dictates that the Americano was named for the American tourists who took to the eye-catching crimson aperitivo, it’s more likely that the name derives from the word amer, which means “bitter” in Italian. But before it was ever called the Americano, and before it included soda water, it was the Milano-Torino for its base flavors—bitter red Campari and herbaceous sweet vermouth—which hail from Milan and Turin respectively. Invented in the first decades of the twentieth century, the drink is documented for the first time in Ferruccio Mazzon’s Guida al Barman (1920). It’s become one of Italy’s most famous mixed drinks, ultimately laying the foundation for the bittersweet Negroni, which was supposedly conceived in the 1930s in Florence.
+    glassware: 
+    ingredients:
+    - 1 1/2 ounces Campari
+    - 1 1/2 ounces sweet vermouth
+    - Soda water, to top
+    - "Garnish: orange half-wheel"
+    steps:
+    - Pour the Campari and vermouth into a Collins glass over ice.
+    - Top with soda water and garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - stirred
+  - name: Americano Perfecto
+    author: Damon Boelte
+    notes: Damon Boelte’s clever twist on the Americano turns the traditional aperitivo into a Franco-Italian shandy. Where the standard Americano pairs equal parts bitter Campari with sweet vermouth, the Perfecto splits the sweet in half with two different vermouths—brutish Carpano and the fruitier French Dolin Rouge—to create a more nuanced sweetness. The traditional topper of soda water is then replaced with pilsner beer for a refreshing, malty, bittersweet beer cocktail.
+    glassware: 
+    ingredients:
+    - 1 1/2 ouncces Campari
+    - 3/4 ounces Dolin Rouge
+    - 3/4 ounces Carpano Antica
+    - 4 ounces pilsner
+    - "Garnish: orange wheel"
+    steps:
+    - Pour the Campari and vermouths into a Collins glass over ice.
+    - Slowly top with the pilsner and add the garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - stirred
+    - beer
+  - name: Coffee Spritz
+    author: 
+    notes: Coffee is perhaps not the most intuitive base for a spritz, but this drink takes its inspiration from the traditional Italian pre-aperitivo—afternoon espresso—and manages to make it surprisingly brunch-appropriate. Dark, rich Sicilian amaro combines with aged rum and vanilla syrup to form a base not unlike root beer. With the addition of cold-brewed coffee and egg white, it becomes nearly a coffee float, which is fully realized with a topper of soda water and sparkling wine. Altogether, this creamy cocktail has the feeling of an old-fashioned chocolate egg cream, with an Italian soul.
+    glassware: 
+    ingredients:
+    - 2 ounces soda water
+    - 3/4 ounces Averna
+    - 1/2 ounces aged rum (preferably Flor de Caña 12)
+    - 1/2 ounce vanilla syrup
+    - 1 1/2 ounced cold-brewed coffee
+    - 1 egg white
+    - Prosecco
+    steps:
+    - Pour the soda water into a Collins glass.
+    - Combine the Averna, rum, syrup, coffee, and egg white in a cocktail shaker and shake without ice.
+    - Add ice and shake until chilled.
+    - Strain into a Collinns glass and let sit for 10 seconds, then top with prosecco until foam rises above the glass.
+    tags:
+    - spritz
+    - spritz cousins
+    - shaken
+    - caffeinated
+  - name: Punch Romaine
+    author: 
+    notes: Served as the sixth course of the Titanic’s final first-class dinner, the Punch Romaine’s claim to fame is a rather morbid one. Had it not been the palate cleanser between the meat and squab courses that April evening, it might have been better remembered for its famous originator—French chef Georges Auguste Escoffier—or the fact that it’s an utterly divine, citrusy aperitif. The original Punch Romaine took more the form of a granita—a popular in-between course in those years—than a cocktail, but here it’s been updated to a frothy spritz served over a heaping mound of crushed ice.
+    glassware: 
+    ingredients:
+    - 1 egg white
+    - 1 ounce white rum
+    - 1/2 ounce simple syrup
+    - 1/2 ounce lemon juice
+    - 1 ounce orange juice
+    - Champagne or sparkling wine
+    - "Garnish: orange peel"
+    steps:
+    - Combine the egg white, rum, simple syrup, lemon juice, and orange juice in a cocktail shaker.
+    - Shake without ice, then add ice and shake again until chilled.
+    - Strain over crushed ice into a snifter or rocks glass.
+    - Top with Champagne and garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - shaken
+    - citrus
+  - name: Sensa Spritz
+    author: 
+    notes: Each spring, for over a thousand years, Venice has celebrated its Festa della Sensa, or the city’s marriage to the sea. A ritual that recognizes the island people’s dependence on the Adriatic for their livelihood, Sensa was, and still is, initiated with a parade of boats and the tossing of a gold ring into the sea on the day of the Ascension. Meant to evoke the lagoon waters surrounding Venice, the Sensa Spritz is cool, dry, and mildly bitter with a base of Salers, a French aperitif, and dry vermouth bound together with the cooling herbaceousness of cucumber.
+    glassware: 
+    ingredients:
+    - Pinch of sea salt
+    - 1/2 ounce simple syrup
+    - 2 cucumber slices
+    - 3/4 ounce Salers
+    - 3/4 ounce Dolin dry vermouth
+    - 1/2 ounce lime juice
+    - Soda water
+    - "Garnish: cucumber ribbon or spear"
+    steps:
+    - In a cocktail shaker, muddle the sea salt and simple syrup with the cucumber slices.
+    - Add the Salers, vermouth, and lime juice.
+    - Add ice and shake until chilled.
+    - Strain into a Collins glass over ice, top with soda water, and add the garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - shaken
+    - citrus
+    - low-abv
+  - name: Shore Leave Spritz
+    author: Matthew Belanger
+    notes: Matt Belanger likes to “shoehorn tiki into everything,” as he puts it, which is reflected in the perpetually tropical cocktail menu at Brooklyn’s Donna. Based on tiki baron Don the Beachcomber’s 1941 recipe for Navy Grog, this drink stays true to its maritime origins but lightens the usual three-ounce rum base in favor of a small dose of navy-strength gin and Cocchi Americano to create the sort of spicy, juicy cocktail you’d want to drink while on dry land.
+    glassware: 
+    ingredients:
+    - 1 1/2 ounces Cocchi Americano
+    - 1/2 ounce Perry's Tot gin
+    - 3/4 ounce lime juice
+    - 3/4 ounce grapefruit juice
+    - 1/2 ounce honey syrup
+    - 1/2 teaspoon vanilla syrup
+    - 1/2 teaspoon allspice dram
+    - 1 ounce soda water
+    - "Garnish: grapefruit half-wheel and a cinnamon stick"
+    steps:
+    - Combine the Cocchi Americano, gin, lime juice, grapefruit juice, honey syrup, vanilla syrup, and allspice dram into a cocktail shaker.
+    - Add ice and shake briefly.
+    - Strain over crushed ice into a hurricane glass.
+    - Top with the soda water and add the garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - shaken
+    - donna
+    - citrus
+  - name: Rome With a View
+    author: Michael McIlroy
+    notes: A riff on the Americano blueprint, the Rome with a View substitutes dry vermouth for sweet and builds a sour formula into the tall cooler, giving it a kicky vibe. Bracingly bittersweet, it nearly conjures warm late afternoons looking out over the Eternal City. Michael McIlroy’s lit-minded cocktail is so slurpable and eye-catching, it’s become something of a modern classic on the East Coast.
+    glassware: 
+    ingredients:
+    - 1 ounce Campari
+    - 1 ounce dry vermouth
+    - 1 ounce lime juice
+    - 3/4 ounce simple syrup
+    - Soda water
+    - "Garnish: orange half-wheel"
+    steps:
+    - Combine the Campari, vermouth, lime juice, and simple syrup in a cocktail shaker.
+    - Add ice and shake until chilled.
+    - Strain over ice into a Collins glass.
+    - Top with soda water and add the garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - shaken
+    - citrus
+  - name: Sippy Cup
+    author: Leo Robitschek
+    notes: While giving this recipe a test run, Leo Robitschek tried it out on a friend who declared the kicky gingery result so drinkable that even a kid would like it. He then suggested it might be served in a sippy cup to his own two rambunctious children—who were also present—to calm them down. Of course they did no such thing, but the name stuck. A combination of sweet vermouth, Sicilian amaro, tart lime, and extra-peppery ginger syrup, the Sippy Cup is fit for all thirsty adults in need of a little sedating.
+    glassware: 
+    ingredients:
+    - 3/4 ounce ginger syrup
+    - 1 ounce lime juice
+    - 1 ounce Cocchi Vermouth di Torino
+    - 1 1/2 ounces Averna
+    - 2 dashes Angostura bitters
+    - 1 ounce soda water
+    - "Garnish: orange half-wheel and 3 mint sprigs"
+    steps:
+    - Combine the ginger syrup, lime juice, vermouth, and Averna in a cocktail shaker. 
+    - Add ice and shake. 
+    - Strain into a highball glass over ice. 
+    - Add Angostura and top with the soda water. 
+    - Pinch the orange half-wheel together and skewer through the ends. 
+    - Place the mint sprigs through the center and garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - shaken
+    - citrus
+  - name: White Port & Tonic
+    author: 
+    notes: The Portuguese White Port & Tonic contains the same aperitivo-driven spirit as the Italian white spritz and the Spanish gin and tonic. A mash-up of the two, this drink is a simple mixture of slightly off-dry port made from white grapes—most often used in pre-dinner cocktails or punch in Portugal’s Douro Valley—and the bracing fresh and bitter bite of tonic. The result is a simple vinous drink with a bit more background and punch than the classic white spritz. For a variation with just a bit more intrigue, muddle a few leaves of mint at the bottom of the glass with a few dashes of orange bitters and then top with port and tonic.
+    glassware: 
+    ingredients:
+    - 2 ounces white port
+    - 4 ounces tonic (preferably Fever-Tree)
+    - 1/2 ounces lemon juice
+    - "Garnish: lemon half-wheel and mint sprig"
+    steps:
+    - Build the ingredients in a highball glass over ice and add the garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - stirred
+    - citrus
+  - name: Tinto de Verano
+    author: 
+    notes: Perhaps the Tinto de Verano (literally “summer red wine”) is Spain’s equivalent of a basic spritz. There it’s cut with gaseosa, a lemon-flavored soda, and can be found already mixed and bottled at the grocery store. Simpler than Sangria and lower in alcohol than the country’s other national obsession, the “Gin-Tonic” as they call it, this version freshens up the typical formula with red wine, homemade lemon syrup, and a long pour of soda water for a surprisingly light and poppy Spanish spritz.
+    glassware: 
+    ingredients:
+    - 3 ounces full-bodied and dry red wine
+    - 1 ounce lemon syrup
+    - Soda water, to top
+    - "Garnish: lemon, orange, or other seasonal fruit peels"
+    steps:
+    - Add wine and lemon syrup to a shaker. 
+    - Add ice and shake gently until chilled. 
+    - Pour over ice into a tumbler or wine glass. Top with soda and garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - shaken
+    - citrus
+  - name: Scroppino
+    author: 
+    notes: In the Venetian dialect, sgropin, meaning “to untie,” is a play on the duty of the digestivo drink to provide postprandial relief. Supposedly concocted in sixteenth-century Venice as a palate cleanser between courses—in which case it resembled a sorbetto more than a cocktail—the Sgroppino has taken on the modern duality of slushy aperitivo cocktail and dessert-y digestivo. It’s sometimes made with grappa, but this version uses vodka to let the Veneto’s sparkling wine come to the forefront.
+    glassware: 
+    ingredients:
+    - 3/4 ounces vodka (Preferably a citrus vodka)
+    - 1/2 cup lemon sorbetto
+    - 1 ounce prosecco
+    - "Garnish: mint sprig"
+    steps:
+    - Combinie all ingredients in a cocktail shaker.
+    - Whip quickly with a whisk until smooth and uniform in texture.
+    - Pour into a small rocks glass and garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - frozen
+  - name: Mont Blanc Fizz
+    author: Dan Sabo
+    notes: This cocktail was born from Dan Sabo’s simple desire to create a sour using the saffron-infused Amaro Meletti. Needing to balance the drink’s rich bitterness, Sabo added the cognac-based orange liqueur Grand Marnier, thus uniting two Alpine spirits in one glass. The intensely fluffy head—courtesy of an egg white and a good dry shake (shaking without ice)—bears a resemblance to Europe’s highest peak, Mont Blanc.
+    glassware: 
+    ingredients:
+    - 1 egg white
+    - 1 1/4 ounces Amaro Meletti
+    - 1/2 ounce Grand Marnier
+    - 1/2 ounce lemon juice
+    - 1/4 ounce orgeat
+    - 2 dashes Angostura bitters
+    - Soda water
+    - "Garnish: orange peel"
+    steps:
+    - Combine the egg white, Amaro Meletti, Grand Marnier, lemon juice, orgeat, and bitters in a cocktail shaker and shake without ice.
+    - Add a mix of crushed and cubed ice.
+    - Shake until the tin is very cold.
+    - Strain into a highball glass.
+    - Wait 10 seconds and top with soda water.
+    - Add the garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - shaken
+    - citrus
+  - name: Cold in the Shadows
+    author: Pamela Wiznitzer
+    notes: An ode to Northern California, the Cold in the Shadows hints at San Francisco’s chilly umbra, even in the warmest of months. Each ingredient is connected to the region— the IPA from the Anderson Valley, Campari, whose headquarters are housed in San Francisco, and St. George from Alameda—and blended together in what drinks like a bitter shandy.
+    glassware: 
+    ingredients:
+    - 1 ounce Campari
+    - 1/2 ounce St. George Raspberry Liqueur
+    - 1/2 ounce honey syrup
+    - 1 ounce lime juice
+    - 1 1/2 ounces Anderson Valley IPA
+    - "Garnish: lime wheel and orange wheel"
+    steps:
+    - Combine the Campari, raspberry liqueur, honey syrup, and lime juice in a cocktail shaker. 
+    - Shake quickly with a couple of ice cubes, then add the IPA.
+    - Strain into a highball glass over crushed ice and garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - shaken
+    - citrus
+    - beer
+  - name: Diamond Spritz Fizz
+    author: Isaac Shumway
+    notes: The Diamond Fizz was born around the turn of this century, when the fizz was hitting the big time in American bars. A deceptively strong and highly drinkable mixture, it replaces the Gin Fizz’s soda water with Champagne, transforming it into a royale of sorts. Isaac Shumway’s spritz-ified version replaces the gin with Aperol and dry vermouth, the sugar with honey syrup and amaro, and the lemon juice with orange juice. The result is a fluffy orange cloud of a cocktail that tastes something like a bitter Orange Julius.
+    glassware: 
+    ingredients:
+    - 1 1/2 ounces Aperol
+    - 1/4 ounce lemon juice
+    - 1/2 ounce Dolin dry vermouth
+    - 1/2 ounce honey syrup
+    - 1/4 ounce Gran Classico Bitter Amaro
+    - 1 teaspoon orange juice
+    - 1 egg white
+    - 2 1/2 ounce sparkling wine
+    - "Garnish: orange twist"
+    steps:
+    - Add the Aperol, lemon juice, vermouth, syrup, Gran Classico, orange juice, and egg white to a cocktail shaker. 
+    - Shake without ice, and then add ice and shake very hard for 20 seconds. 
+    - Strain into a Collins glass over a very small amount of ice. 
+    - Slowly top with the sparkling wine and add the garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - shaken
+    - citrus
+  - name: Sangrita
+    author: 
+    notes: This drink was a favorite of Jinx Falkenburg, one of America’s first supermodels in the 1930s and 1940s, and was—according to her—popular amongst Mexican bullfighters. A regular at New York’s star-studded Stork Club, Falkenburg lent this recipe to Lucius Beebe as he was penning the Stork’s narrative history, which includes the favorite drinks of a dozen other Broadway and Hollywood icons. Incidentally, the Sangrita is closely related to the Claret Lemonade, another red wine–based cocktail popular in the nineteenth century.
+    glassware: 
+    ingredients:
+    - 2 ounced red wine
+    - 1 ounce pineapple juice
+    - 3/4 ounce simple syrup
+    - 3/4 ounce lime juice
+    - Soda water
+    - "Garnish: pineapple wedge and lime wheel"
+    steps:
+    - Add the red wine, pineapple juice, simple syrup, and lime juice to a highball glass over ice.
+    - Top with soda water and add the garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - stirred
+    - citrus
+  - name: Hungry Hungry Hipster
+    author: Toby Maloney
+    notes: Several years ago at a sports bar in Williamsburg, Brooklyn—spiritual home of the hipster—bartender Toby Maloney was introduced to the “bro-mosa,” an ironic play on the Mimosa consisting of Miller High Life and orange juice. He was happily surprised at how well orange complemented the Champagne of Beers’ maltiness, and decided to integrate the discovery into his own bars, where oranges usually languished after being stripped of their peels for garnish. Maloney added another layer of complexity with Zwack, a Hungarian amaro, for a more bitter play on the bro-mosa.
+    glassware: 
+    ingredients:
+    - 2 ounces Zwack
+    - 1 ounce orange juice
+    - 3/4 ounce lemon juice
+    - Miller High Life, to top
+    - "Garnish: orange half-wheel"
+    steps:
+    - Combine the Zwack, orange juice, and lemon juice in a cocktail shaker. 
+    - Add ice and shake until chilled.
+    - Strain into a Collins glass over ice, top with Miller High Life, and add the garnish. 
+    tags:
+    - spritz
+    - spritz cousins
+    - shaken
+    - citrus
+    - beer
+    - the violet hour
+  - name: Pink Lemonade à la Playboy
+    author: 
+    notes: In the 1971 edition of Playboy’s Host & Bar Book by Thomas Mario, a recipe for a boozy pink lemonade peers out between a Pineapple Mint Cooler and a Pink Rum and Tonic (don’t ask). A rosé-based approximation of Playboy’s kitschy blueprint, this drink adds Giffard’s pink grapefruit liqueur for extra depth and texture. Soda water gives it that all-important sparkle.
+    glassware: 
+    ingredients:
+    - 2 ounces rosé
+    - 1 ounce lemon juice
+    - 1 ounce orange juice
+    - 1/2 ounce Giffard Pamplemousse Rose Liqueur
+    - Soda water, to top
+    - "Garnish: lemon wheel and brandied cherry" 
+    steps:
+    - Pour the rosé, lemon juice, orange juice, and liqueur into a Collins glass or large tumbler over ice.
+    - Top with soda water and add the garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - stirred
+    - citrus
+  - name: Tunnel Vision
+    author: Alex Day
+    notes: The Tunnel Vision was born of Alex Day’s desire to create a drink that was simultaneously refreshing and savory, the latter of which is achieved with herb-infused vermouth and high-proof pear eau de vie. The drink’s real inspiration is hidden in its name, a phrase that describes Day’s blinding obsession with the combination when he dreamed up this tall, strange beauty.
+    glassware: 
+    ingredients:
+    - 2 ounces Basil-Infused Dolin Blanc vermouth
+    - 1/2 ounce Pear Eau de Vie
+    - 1/2 ounce lime juice
+    - 1/2 ounce simple syrup
+    - 2 dashes absinthe
+    - Soda water, to top
+    - "Garnish: basil sprig and lime wheel"
+    steps:
+    - Add ice and shake until chilled.
+    - Strain into a Collins glass over ice and add the garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - shaken
+    - citrus
+    - death & co
+  - name: Second Serve
+    author: Dan Greenbaum
+    notes: Built with the sensibility of a Collins (spirit + citrus + sugar + soda), the Second Serve is Dan Greenbaum’s nod to the soft-hitting elegance of tennis. Crisp, refreshing fino sherry mixes with sweet, herbal Montenegro, and is stretched into a cooling, bubbly aperitivo with piquant lime, sugar, and soda.
+    glassware: 
+    ingredients:
+    - 1 ounce Amaro Montenegro
+    - 1 ounce fino sherry
+    - 1 ounce lime juice
+    - 3/4 ounce simple syrup
+    - Soda water
+    - "Garnish: orange half-wheel"
+    steps:
+    - Combine the Amaro Montenegro, sherry, lime juice, and simple syrup in a cocktail shaker.
+    - Shake and strain into a Collins glass over cubed ice.
+    - Top with the soda water and add the garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - citrus
+    - low-abv
+    - shaken
+  - name: Bitter Intentions
+    author: Bobby Heugel
+    notes: Combining the spirit of the Americano with the attitude of a sour, Bobby Heugel’s Bitter Intentions is a playful riff on two classic cocktail archetypes. Because Campari can skew sweet, the addition of lemon mellows the combination but still allows the underlying bitter to come through. As always, soda completes and balances the drink, tying it all up with an elegant, bubbly bow.
+    glassware: 
+    ingredients:
+    - 1 1/2 ounces soda water
+    - 2 ounces Campari
+    - 3/4 ounce lemon juice
+    - 3/4 ounce simple syrup
+    - 1 ounce sweet vermouth (Preferably Carpano Antica Formula)
+    - "Garnish: orange slice"
+    steps:
+    - Pour the soda water into a Collins glass without ice.
+    - Combine the Campari, lemon juice, and simple syrup in a cocktail shaker.
+    - Add ice and shake.
+    - Strain into the Collins glass over ice.
+    - Add cracked ice, top with the vermouth, and add the garnish.
+    tags:
+    - spritz
+    - spritz cousins
+    - shaken
+    - citrus

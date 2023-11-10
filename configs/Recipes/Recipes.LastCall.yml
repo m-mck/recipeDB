@@ -3,6 +3,7 @@ recipes:
 
   - name: Suze and Tonic
     author: Lauren Corriveau & Natasha David
+    glassware: 
     ingredients:
     - 2 ounces Suze
     - Tonic water
@@ -13,6 +14,7 @@ recipes:
     - stirred
   - name: Susan Lucci
     author: Lauren Corriveau & Natasha David
+    glassware: 
     ingredients:
     - ¾ ounce Suze
     - ¾ ounce Amaro Lucano
@@ -22,6 +24,7 @@ recipes:
     - shot
   - name: Margarita
     author: Lauren Corriveau & Natasha David
+    glassware: 
     ingredients:
     - Lime wedge (for rimming)
     - Kosher salt (for rimming)
@@ -38,6 +41,7 @@ recipes:
     - classic
   - name: Manhattan
     author: Aaron Polsky
+    glassware: 
     ingredients:
     - 2 ounces rye whiskey (preferably 18-year-old Sazerac)
     - 1 ounce Cocchi Vermouth di Torino
@@ -51,6 +55,7 @@ recipes:
     - manhattan
   - name: French 75
     author: William Elliou
+    glassware: 
     ingredients:
     - 1 ounce Cognac (preferably Gourry de Chadeville)
     - ¼ ounce simple syrup (1:1 sugar:water)
@@ -66,6 +71,7 @@ recipes:
     - sparkling
   - name: Night Moves
     author: Guido Martelli
+    glassware: 
     ingredients:
     - 2 ounces lambrusco, chilled
     - 2 ounces Prosecco, chilled
@@ -76,6 +82,7 @@ recipes:
     - stirred
   - name: Martini (Extra Dry)
     author: Guido Martelli
+    glassware: 
     ingredients:
     - 2½ ounces London Dry gin (preferably Bombay London Dry gin)
     - ½ ounce dry vermouth (preferably Dolin Dry Vermouth de Chambéry)
@@ -89,6 +96,7 @@ recipes:
     - martini
   - name: Recoil
     author: Dylan O’Brien & Jon Santer
+    glassware: 
     ingredients:
     - 2 ounces bourbon (preferably Bulleit)
     - ¾ ounce St-Germain elderflower liqueur
@@ -102,6 +110,7 @@ recipes:
     - citrus
   - name: Revolver
     author: Dylan O'Brien & Jon Santer
+    glassware: 
     ingredients:
     - 2 ounces bourbon (preferably Bulleit)
     - ½ ounce Tia Maria coffee liqueur
@@ -115,6 +124,7 @@ recipes:
     - manhattan
   - name: Last Word
     author: Joseph Stinchcomb
+    glassware: 
     ingredients:
     - 1 ounce green Chartreuse
     - ¾ ounce gin (preferably London Dry style, like Beefeater or Tanqueray)
@@ -128,6 +138,7 @@ recipes:
     - classic
   - name: The Clyde
     author: Joseph Stinchcomb
+    glassware: 
     ingredients:
     - 2 ounces blanco tequila
     - ¾ ounce Rooibos Tea Syrup
@@ -141,6 +152,7 @@ recipes:
     - citrus
   - name: Sazerac
     author: Greg Best
+    glassware: 
     ingredients:
     - ½ ounce absinthe or Herbsaint (for rinsing, or do as Best does and just leave it in there)
     - 2 ounces rye whiskey (preferably barrel proof)
@@ -156,6 +168,7 @@ recipes:
     - classic
   - name: Death Row Sazerac
     author: Greg Best
+    glassware: 
     ingredients:
     - 1 ounce absinthe or Herbsaint (for rinsing, or do as Best does and just leave it in there)
     - 4½ ounces rye whiskey (preferably barrel proof)
@@ -170,6 +183,7 @@ recipes:
     - sazerac
   - name: Grasshopper
     author: Jeffrey Morgenthaler
+    glassware: 
     ingredients:
     - 1½ ounces green crème de menthe
     - 1½ ounces white crème de cacao
@@ -185,6 +199,7 @@ recipes:
     - classic
   - name: Appetizer a la Italienne
     author: Ezra Star
+    glassware: 
     ingredients:
     - 2 ounces Cocchi Vermouth di Torino
     - 1 ounce Fernet-Branca
@@ -196,6 +211,7 @@ recipes:
     - stirred
   - name: Iced Tea
     author: Damon Boelthe
+    glassware: 
     ingredients:
     - Lipton tea bags
     - Cold water
@@ -206,6 +222,7 @@ recipes:
     - n/a
   - name: Hard Start
     author: Damon Boelthe
+    glassware: 
     ingredients:
     - ½ ounce Fernet-Branca
     - ½ ounce Brancamenta
@@ -215,6 +232,7 @@ recipes:
     - shot
   - name: Old-Fashioned
     author: Andrew Volk & Briana Volk
+    glassware: 
     ingredients:
     - 2 ounces rye whiskey (preferably Old Grand-Dad Bonded)
     - 1 teaspoon rich simple syrup (2:1 sugar:water)
@@ -228,6 +246,7 @@ recipes:
     - classic
   - name: Trident
     author: Andrew Volk & Briana Volk
+    glassware: 
     ingredients:
     - 1 ounce aquavit (preferably House Spirits Krogstad)
     - 1 ounce Cynar
@@ -240,6 +259,7 @@ recipes:
     - stirred
   - name: Mezcal Negroni
     author: Brian Bartels
+    glassware: 
     ingredients:
     - 1 ounce mezcal (preferably Del Maguey Vida)
     - 1 ounce Campari
@@ -252,6 +272,7 @@ recipes:
     - negroni
   - name: Negroni
     author: Shelby Allison & Paul McGee
+    glassware: 
     ingredients:
     - 2 ounces Fords gin
     - ¾ ounce Campari
@@ -265,6 +286,7 @@ recipes:
     - classic
   - name: Ti' Punch
     author: Shelby Allison & Paul McGee
+    glassware: 
     ingredients:
     - 1 quarter-size lime disk, make sure it includes a small amount of flesh
     - 1 barspoon Martinique cane syrup
@@ -277,6 +299,7 @@ recipes:
     - citrus
   - name: The Assassin's Handbook
     author: Paul MacDonald
+    glassware: 
     ingredients:
     - 1 ounce Jamaican rum (preferably Appleton Signature Blend)
     - ¾ ounce Cognac (preferably Gilles Brisson VS)
@@ -290,6 +313,7 @@ recipes:
     - stirred
   - name: Martini (50/50 With All the Garnishes)
     author: Anu Apte-Elford & Chris Elford
+    glassware: 
     ingredients:
     - 1½ ounces gin (preferably London Dry or Plymouth)
     - 1½ ounces dry vermouth (preferably Noilly Prat for London Dry or Dolin for Plymouth)
@@ -301,6 +325,7 @@ recipes:
     - martini
   - name: Sazerac
     author: Anu Apte-Elford & Chris Elford
+    glassware: 
     ingredients:
     - Splash of absinthe (for rinsing)
     - 2 ounces high-proof rye whiskey (preferably Wild Turkey 101)
@@ -315,6 +340,7 @@ recipes:
     - classic
   - name: Daiquiri
     author: Anu Apte-Elford & Chris Elford
+    glassware: 
     ingredients:
     - 2 ounces Banks 5 Island White Rum
     - ¾ fresh lime juice
@@ -328,6 +354,7 @@ recipes:
     - daiquiri
   - name: Strawberry Daiquiri
     author: Josh Jancewicz
+    glassware: 
     ingredients:
     - 2½ ounces white rum
     - 1½ ounces strawberry puree
@@ -345,6 +372,7 @@ recipes:
     - trick dog
   - name: Cosmopolitan
     author: Toby Cecchini
+    glassware: 
     ingredients:
     - 1½ ounces Absolut Citron vodka
     - ¾ ounce Cointreau
@@ -358,6 +386,7 @@ recipes:
     - citrus
   - name: The Erin
     author: Toby Cecchini
+    glassware: 
     ingredients:
     - 2 ounces New York Distilling Company Ragtime Rye
     - ½ ounce Bigallet China-China Amer
@@ -371,6 +400,7 @@ recipes:
     - stirred
   - name: Manhattan
     author: Graham Miller
+    glassware: 
     ingredients:
     - 2 ounces rye whiskey
     - 1 ounce sweet vermouth (preferably Carpano Antica Formula sweet vermouth)
@@ -384,6 +414,7 @@ recipes:
     - stirred
   - name: Martini (3:1)
     author: Jabriel Donohue
+    glassware: 
     ingredients:
     - 3 ounces Citadelle gin
     - 1 ounce Dolin Dry Vermouth
@@ -396,6 +427,7 @@ recipes:
     - martini
   - name: Jet Pilot
     author: Martin Cate
+    glassware: 
     ingredients:
     - 1 ounce Coruba Dark Rum
     - ¾ ounce Appleton Estate Rare Blend 12-Year
@@ -414,6 +446,7 @@ recipes:
     - tiki
   - name: Last Man Standing
     author: Benjamin Hash & Matt Russell
+    glassware: 
     ingredients:
     - ¾ ounce Campari
     - ¾ ounce Fernet-Branca
@@ -427,6 +460,7 @@ recipes:
     - stirred
   - name: Kona Swizzle
     author: Travis Brown
+    glassware: 
     ingredients:
     - 2 ounces rum (preferably an aged Martinique rhum agricole, like Clément)
     - 1 ounce fresh lime juice
@@ -441,6 +475,7 @@ recipes:
     - citrus
   - name: Tequila Gimlet
     author: Ariel Arce
+    glassware: 
     ingredients:
     - 2 ounces blanco tequila
     - 1 ounce fresh lime juice
@@ -453,6 +488,7 @@ recipes:
     - citrus
   - name: Death in the Afternoon
     author: Ryan Kim
+    glassware: 
     ingredients:
     - 1 ounce absinthe
     - Champagne or sparkling wine
@@ -463,6 +499,7 @@ recipes:
     - sparkling
   - name: Grilled Apricot Iced Tea
     author: Chad Spangler
+    glassware: 
     ingredients:
     - 2 ounces Grilled Apricot-Infused Irish Whiskey
     - 2 ounces Cold-Steeped Black Tea
@@ -476,6 +513,7 @@ recipes:
     - citrus
   - name: Stiggins' Sherry Cobbler
     author: Laura Kelton
+    glassware: 
     ingredients:
     - ½ ounce Demerara simple syrup (1:1 Demerara sugar:water)
     - 1 large orange wheel
@@ -492,6 +530,7 @@ recipes:
     - citrus
   - name: Brooklyn
     author: Miles Macquarrie
+    glassware: 
     ingredients:
     - 2 ounces rye whiskey (preferably Michter’s, Rittenhouse, or High West Rendezvous)
     - ¾ ounce Dolin Dry Vermouth
@@ -506,6 +545,7 @@ recipes:
     - manhattan
   - name: Wray & Nephew Daiquiri
     author: Joey Dykes
+    glassware: 
     ingredients:
     - 2 ounces Wray & Nephew White Overproof Rum
     - 1 ounce fresh lime juice
@@ -518,6 +558,7 @@ recipes:
     - daiquiri
   - name: Margarita
     author: James MacWilliams
+    glassware: 
     ingredients:
     - Lime wedge (for rimming)
     - Kosher salt (for rimming)
@@ -535,6 +576,7 @@ recipes:
     - classic
   - name: Almost Perfect Cocktail
     author: James MacWilliams
+    glassware: 
     ingredients:
     - 4 dashes Angostura bitters
     - ½ ounce grenadine
@@ -550,6 +592,7 @@ recipes:
     - stirred
   - name: Brandy Old-Fashioned
     author: Tobin Shea
+    glassware: 
     ingredients:
     - 2 ounces brandy (preferably Bertoux)
     - ½ ounce Bénédictine
@@ -563,6 +606,7 @@ recipes:
     - classic
   - name: Little Tokyo
     author: Tobin Shea
+    glassware: 
     ingredients:
     - 1½ ounces nigori sake (preferably Momokawa)
     - ¾ ounce Cappelletti Aperitivo Americano Rosso
@@ -575,6 +619,7 @@ recipes:
     - stirred
   - name: Vieux Carré
     author: Jason Kraft
+    glassware: 
     ingredients:
     - ¾ ounce overproof rye (preferably Rittenhouse or Pikesville)
     - ¾ ounce Cognac
@@ -590,6 +635,7 @@ recipes:
     - classic
   - name: Last Word
     author: Murray Stenson
+    glassware: 
     ingredients:
     - ¾ ounce gin
     - ¾ ounce green Chartreuse

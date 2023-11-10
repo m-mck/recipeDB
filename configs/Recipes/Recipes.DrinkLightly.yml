@@ -5,6 +5,7 @@ recipes:
 #Gulpable Thirst Quenchers
   - name: Pinkies Out
     notes: Well, this is THE drink, the one that started this whole crazy journey, the inspired by but totally not White Wine Spritz. This cocktail was created for Nitecap’s inaugural menu. I had set up a wine tasting with one of our reps who specialized in eastern European wines, and one sip of an unctuous, dry Slovenian bottle had me immediately thinking about putting it in a cocktail. The wine reminded me a lot of Lillet; with a floral nose and honey-like finish, it was begging to be spritzified. I know there are a lot of wine people rolling their eyes right now, but trust me, this cocktail is an homage to the wine, its maker, and my mother, and you don’t want to insult my mother, right?!
+    glassware: 
     ingredients:
     - 2 ounces [dry orange wine]
     - 1 ounce [Cocchi Americano Bianco]
@@ -21,6 +22,7 @@ recipes:
       - cider
   - name: Crimson Sour
     notes: I’m one of those people who dreads winter. Yeah, yeah, snow is pretty, but I’d never willingly go play in it. That’s what sand is for. But sitting by the fireplace is so romantic. (You know what’s more romantic than sitting by a fireplace in a fleece pajama set? Sitting on a beach, topless, with sweat beads glistening on my bronzed skin as the sun shines down on me with all her glory.) I’ll give winter one thing, though—citrus season. Ah, yes, the time of year when bright-hued Meyer lemons make regular old lemons hide with shame, when it’s not just grapefruits but also pomelos and flame grapefruits. And, of course, the mighty blood orange in all its stain-inducing power. Besides being glorious to look at, it is beautifully sweet and possesses an intoxicating, almost overripe, raspberry taste. This recipe is built around highlighting all of the blood orange’s gorgeous qualities.
+    glassware: 
     ingredients:
     - 1½ ounces full-bodied sweet vermouth
     - ¾ ounce fresh lemon juice
@@ -37,6 +39,7 @@ recipes:
       - shaken
   - name: Throwback
     notes: This is basically like the best adult soda you’ve ever had. I grew up in a home where it was all health food all the time. While other kids in elementary school got cookies in their lunch boxes, I got licorice sticks. And I’m not talking about chewy, sweet licorice Twizzlers; I’m talking literal sticks, like branches from a licorice tree. Yeah, I was the biracial kid chewing on a stick. It went great (Mom—I know you had the best intentions!). So, you can imagine how little soda we drank. I got one Coca-Cola on my birthday, one Shirley Temple when we went to our favorite Chinese restaurant when we visited my grandmother each year, and one root beer float to accompany burgers at our yearly pilgrimage to Smokehouse. I treated that root beer float as if God had presented herself to me in drink form. To this day, an ice-cold root beer, preferably over a mountain of crushed ice, is my favorite soda treat. But now I’m a big girl, so here is my adult version of soda.
+    glassware: 
     ingredients:
     - 2 ounces Suze apéritif
     - ¾ ounce fresh lemon juice
@@ -54,6 +57,7 @@ recipes:
       - shaken
   - name: Giggle Fit
     notes: I was first introduced to aquavit when I joined the opening team of Vandaag, an ambitious Scandinavian restaurant with one of the best, in my humble opinion, bar programs ever created. At the helm of the bar was Katie Stipe, a true mentor and now dear friend. I hadn’t ever given aquavit much thought before, but Katie’s application of it made me see it in a whole new light. Now, I have a lot of feelings about aquavit—adoration, love, obsession, to name a few. It’s bright yet also intensely earthy and can be dressed up to look either very serious or playful and carefree. As the flavor profile of aquavit is very bold, it needs equally intense flavors to play with, and so I immediately reached for my bottle of carrot eau de vie. Oh, you don’t have a bottle of carrot eau de vie lying around? Well, you should, because it’s magic in a bottle. Each sip of carrot eau de vie takes you on a literal journey of eating a carrot that’s been freshly plucked from the ground—you get the dirt, the bitterness of the carrot tops, and the sweet almost candy-like flavor of the flesh.
+    glassware: 
     ingredients:
     - 1 ounce Lillet Rosé
     - ¾ ounce unaged aquavit (preferably Krogstad)
@@ -72,6 +76,7 @@ recipes:
       - citrus
   - name: Magic Moment
     notes: Call me crazy, but whenever I’m drinking an Aperol Spritz, I want to eat a beet salad. Also (and the Italians are going to ban me from their country for this), I want to garnish my Aperol Spritz with a grapefruit crescent rather than the recommended orange slice. Why? Because my palate craves bright, bitter, juicy citrus with the bittersweet voluptuous qualities of Aperol. To balance everything out, I picked pisco for its beautiful fragrant bouquet and to add a little je ne sais quoi. I’ll be the first to admit that this drink reads strange, but trust me, it’s a flavorful and nuanced sour. Yes, it requires a little more prep work than other recipes, but the result is worth it. Plus, you can always repurpose your bottle of beet-infused Aperol for a next-level Aperol Spritz.
+    glassware: 
     ingredients:
     - 1½ ounces Beet Aperol
     - ¾ ounce fresh grapefruit juice
@@ -88,6 +93,7 @@ recipes:
       - citrus
   - name: Kitty Cat Chronicles
     notes: "If a cocktail could be a season, this one would be that little sliver in time at the end of summer: it’s still sort of warm during the day, but a few leaves are starting to change color. You decided to cook your dinner on the grill, and finally, after months of sweating while manning the BBQ, you are perfectly comfortable, but once the sun sets, you have to put on a sweater. So, it’s an homage to the almost too ripe fig that you’ve sneakily plucked from your neighbors (hey, the branch was technically on your property line) and the promise of ripe pears to come. And even though there is no single ingredient that is smoky, collectively this combination somehow ends up tasting toasty and grilled."
+    glassware: 
     ingredients:
     - 1½ ounces Lillet Rouge
     - ¾ ounce Bonal Gentiane-Quina
@@ -105,6 +111,7 @@ recipes:
       - citrus
   - name: Wiggle Room
     notes: A Whiskey Highball and a Vermouth and Soda walk into a bar, fall in love, and elope to a tropical island. That’s my sales pitch for this drink. But if you want to get a bit more in depth, I came up with this drink during my coconut obsession phase. I was deep into it at this point and wanted to make a Madeira Piña Colada, which never quite worked out, but I did discover that the flavor combination of madeira and coconut was a delightful one. The madeira here is infused with toasted coconut flakes, which also automatically gives the delicate wine more body, making it perfect for shaking up in a cocktail.
+    glassware: 
     ingredients:
     - 1½ ounces Toasted Coconut Madeira
     - 1 ounce Salted Lemon-Lime Cordial
@@ -121,6 +128,7 @@ recipes:
       - citrus
   - name: Wildcat
     notes: There is something insanely delicious about just-juiced carrot juice. Specifically, just-juiced carrot juice poured over a mountain of crushed ice. The flavor is intensely earthy with a hint of delectable sweetness. It’s also slightly bitter, so it really just gets your taste buds working. I usually stay clear of cocktails I call “salad cocktails,” that is, cocktails that have muddled this and muddled that and this herb and that herb and the juice of this vegetable and that vegetable. I guess you could say I overcame my own prejudice, and this is my version of a salad cocktail, completely making carrot juice the star.
+    glassware: 
     ingredients:
     - 2 seedless cucumber slices
     - 1½ ounces Pimm's No. 1
@@ -140,6 +148,7 @@ recipes:
       - citrus
   - name: Smiley Smile
     notes: This is a highball that gives you a little joyful shiver. The inspiration was the Gin and Tonic, and before you say anything, I know there is neither gin nor tonic in this recipe. This drink is kind of like method acting, a sensory experience guided by memory. Okay, I feel like I might be losing you, but stick with me. You’re in a nightclub, the music is so loud you can feel it vibrating in your feet, there’s strobe lights, you’re sweaty, and your drink is empty. You make it up to the bar, the bartender is slammed, you want something refreshing, so you order a Gin and Tonic. The first sip is kind of overwhelming because it seems like you just took a huge gulp of gin and your tongue sort of tingles and feels a little numb, but in a pleasant way. A few sips in, the ingredients have mixed together and mellowed out. Yuzu does that same thing for me, and I love it!
+    glassware: 
     ingredients:
     - 1 ounce manzanilla sherry
     - ½ ounce Suze apéritif
@@ -157,6 +166,7 @@ recipes:
       - citrus
   - name: Third Date
     notes: To me, the third date was always the “all right, I’m definitely into you, I thought about what to wear since our last date, now tell me some of your dirty secrets and let’s see if there is still a spark” date. In other words, you need a drink that (1) keeps you on your toes (you might need to run), (2) has some comforting flavors (exposing deep truths about yourself is scary), and (3) is delicious (because). So, cheers to your dating life and the utter craziness that is dating in the twenty-first century, and hopefully you want to make sweet, sweet love to this drink all night long.
+    glassware: 
     ingredients:
     - 1½ ounces sweet vermouth (preferably Carpano Antica)
     - ¾ ounce fresh lemon juice
@@ -174,6 +184,7 @@ recipes:
       - citrus
   - name: Endless Spring
     notes: This drink is beautifully simple and is all about the glorious strawberry. The cocktail calls for only half of a muddled strawberry, which may seem like so little, but this mighty berry is bursting with flavor. Another reason I can get away with using so little actual strawberry in this drink is because all the other ingredients bring out the strawberry-ness of that one little half. The Lillet Rosé is delicate and nuanced and reminds me of the stems and tops of a strawberry where there might still be a tiny bit of green. Amaro Ramazzotti, on the other hand, is deep and rich, voluptuous and ripe. And any strawberry worth talking about is equally as tart as it is sweet, thus the choice of lemon juice and a neutral sweetener such as simple syrup.
+    glassware: 
     ingredients:
     - 1 ounce Lillet Rosé
     - ¾ ounce Amaro Ramazzotti
@@ -190,6 +201,7 @@ recipes:
       - citrus
   - name: Permission Slip
     notes: A Rum and Coke is just so gloriously delicious sometimes. When I get that intense, albeit rare, craving for an ice-cold, bubbly, vanilla-y, cinnamon-y Coke, nothing can satisfy me until I get that first gulp of sugary goodness. After a few sips I usually feel like I’ve been hit over the head, so I wanted to soften the blow when I translated this love into cocktail form. This drink uses cola extract in place of its soda counterpart, so the final product has all the flavors of that nostalgic sip but in its purest form and minus the headache. I also opted not to top this cocktail with seltzer and instead gave it a rich texture by way of fresh pineapple juice.
+    glassware: 
     ingredients:
     - 1½ ounces Cola Lustau Rosé Vermut
     - ¾ ounce fresh pineapple juice
@@ -207,6 +219,7 @@ recipes:
       - citrus
   - name: Party City
     notes: There is a very ill-named cocktail called the Mexican Firing Squad. While the name leaves much to be desired, the actual drink is outrageously tasty. I love this drink so much that we served it at our wedding. And let me tell you, we had a dance party of such epic proportions that I’m amazed no one fainted in the August heat of New York City. It was a sweaty lovefest, and I was grateful my wedding dress was short and backless. But for many of the party revelers, the day that followed was a hangover of epic proportions. So now, years later, this is my “thank you and sorry” to all my wedding guests—a truly chuggable version of its boozy predecessor.
+    glassware: 
     ingredients:
     - 1½ ounces Neversink Apple Apéritif
     - ¾ ounce fresh lemon juice
@@ -224,6 +237,7 @@ recipes:
       - citrus
   - name: Bamboozicle
     notes: Like I’ve mentioned before, I’m always on a quest to spread the sherry love. As a loyal fan of the classic Bamboo cocktail (we had an adapted version of it on draft at Nitecap since day one), I wanted to present the drink in a less serious format while still maintaining and honoring its core recipe. Enter my brilliant husband, Jeremy, who some consider the slushy king. He said, “Wouldn’t it be funny if you turned the Bamboo into a slushy?” I indeed thought it was a hilarious idea (bartenders have a weird sense of humor). In transforming the Bamboo, I was inspired by a trio of iconic blended cocktails—the Piña Colada, Margarita, and fruit Daiquiri. While this drink is most certainly perfect for an extra-hot day, it is also transportive during those long snowy winters.
+    glassware: 
     ingredients:
     - 1½ ounces amontillado sherry
     - 1 ounce Simple Syrup
@@ -242,6 +256,7 @@ recipes:
       - blended
   - name: Day Trip
     notes: The simple yet enchanting mixture of lemonade and beer is one I’ve been sipping on for years. It’s a fantastic way to elongate the already low-ABV beer into a truly sessionable beverage best accompanied by a burger and fries. It is no secret that the mixture of hops and citrus makes for a delightful pairing. Although this combination originally hails from Germany, I opted for a Belgian-style wheat beer to get that extra dose of hazy lemon. This cocktail is best enjoyed when served cold cold cold, so it should be drunk efficiently and refilled on the regular.
+    glassware: 
     ingredients:
     - 1½ ounces Aperitivo Cappelletti
     - ¾ ounce fresh lime juice
@@ -259,6 +274,7 @@ recipes:
       - beer
   - name: Sweet Nothings
     notes: The Pimm's No. 1 Cup—a refreshing cooler traditionally served with citrus, fresh fruit, and ginger ale—is as delightful as it sounds. But it’s also a little prim and proper and flesh-colored pantyhose-y. It’s what aristocrats drink while watching a tennis match or taking evening strolls in their perfectly manicured gardens while their children play with the nanny, all wearing matching outfits. I mean, that’s lovely and all, but I’m already yawning. So this version is a little grittier. In place of sugary ginger ale, we use a syrup made from fresh ginger, making it earthy, spicy, and deep. I’ve added a spoonful of blueberry preserves to coat your mouth and linger gloriously. Bubbles take form in Lambrusco, and I urge you to seek out a dry one, maybe even natural, to give it an added layer of funky vibez.
+    glassware: 
     ingredients:
     - 1 ounce Contratto Aperitif
     - ¾ ounce fresh lemon juice
@@ -277,6 +293,7 @@ recipes:
       - sparkling
   - name: Words of Wisdom
     notes: This highball is all about comfort and nostalgia. While sage is said to ward off evil spirits, it also has an immediate calming effect on me (perhaps because it wards off evil spirits). On the nose, it always reminds me of eucalyptus with a spritz of fresh lemon oil, warm and inviting, while also having an unexpected edge, a rawness. It’s sort of like a rugged mountain man with a sensitive side. To calm the slight bitterness in the sage, I chose honey, and the combination creates a wonderful, almost fuzzy sensation on the tongue. That, along with the bubbles from the tonic water, make this serious-on-paper cocktail much more youthful.
+    glassware: 
     ingredients:
     - 2 ounces Sage White Wine
     - ¼ ounce Honey Syrup
@@ -292,6 +309,7 @@ recipes:
       - stirred
   - name: Green and Chill
     notes: Celery is a truly an underappreciated vegetable. It gets painstakingly chopped into fine delicate pieces by cooks to be braised and sautéed with little regard from the eater, who just cares about the short rib. It’s the vegetable left sitting lonely on the crudités platter; the garnish that gets violently ripped out of the Bloody Mary, abandoned on the table at the end of the meal along with the dirty napkins and check presenter. So I implore you, go get yourself a celery stick, break it in half, and take a good, deep whiff of its inviting, cooling, and crisp smell. Now take a bite. There’s that initial satisfying crunch, which is quickly followed by a wave of vegetal yet sweet water. It’s truly a glorious vegetable bursting with flavor, and this cocktail celebrates it. And please, don’t forget the garnish on this one! It’s there for a reason.…
+    glassware: 
     ingredients:
     - 1½ ounces White Floc de Gascogne
     - ¾ ounce fresh lime juice
@@ -308,6 +326,7 @@ recipes:
       - citrus
   - name: Dancing Queen
     notes: Amaretto has an undeserved bad reputation. Once mixed into an Amaretto Sour, it’s the cocktail of choice of sorority houses. And honestly that’s not even a sting against sorority houses, but aimed at the makers of sour mix from a soda gun, which causes this drink to become a sugary, mouth-numbing hangover from hell. I, like many other people, swore off this drink, until one day, the Goddess of Balance showed me the way. Fresh juice from an actual lemon replaced sour mix and was properly balanced with not only the simple syrup but the inherently sugary amaretto. I guess you could say I’ve rekindled my romance with this massively misunderstood liqueur.
+    glassware: 
     ingredients:
     - 1½ ounces Vermouth Limoncello
     - 1 ounce fresh lemon juice
@@ -325,6 +344,7 @@ recipes:
       - citrus
   - name: En Vogue
     notes: Cocktails with red wine are often related back to sangría. It’s a very democratic cocktail, shared among friends with different likes and dislikes, poured out of a communal pitcher, often enjoyed during a family-style meal. It’s an easy cocktail, almost too easy. So, well, I wanted to complicate things a bit and stir sh*t up. Hello, green Chartreuse! The recipe calls for only a quarter ounce of this pungent, wild herbal liqueur that dates back centuries, but boy, does it make an impact. When combined with rich, dark crème de cassis, you’ll kind of feel like you are getting away with something, and let me tell you, it feels good.
+    glassware: 
     ingredients:
     - 2 ounces full-bodied red wine
     - ½ ounce fresh lemon juice
@@ -341,6 +361,7 @@ recipes:
       - citrus
   - name: Friendship Bracelet
     notes: This cocktail is inspired by my dear friend Lauren Corriveau, who was once my right-hand wing-woman at Nitecap. Additionally, Lauren might like French fries more than I do. There have been times when Lauren and I visited multiple bars in one night and ordered French fries at each along the way, for comparison’s sake, you know. Research. Lauren has this ability to take flavors that I personally think sound pretty muddy together and magically turn them into the most delicious drinks ever. I think it’s one of her many superpowers. One such flavor combination was a cocktail with red bell pepper juice and raspberry. In my mind it sounded terrible! But I would pretty much follow Lauren into a burning building, so I took a tiny sip, followed by another sip, followed by another. I couldn’t put it down. It was so unbelievably good! This is an homage of sorts, with a double dose of raspberry taking the form of a syrup and a preserve.
+    glassware: 
     ingredients:
     - 1½ ounces H&H Rainwater Madeira
     - ¾ ounce fresh lemon juice
@@ -358,6 +379,7 @@ recipes:
       - citrus
   - name: Dance Anthem
     notes: There are a lot of strong players in this drink, and at first glance I get that it might seem a little overwhelming. But surprisingly, this drink is a pretty easygoing, vegetal refresher. It kind of hits your body in the way biting into a Popsicle does, and you feel it all the way from your toes to your head. Pastis has this incredible cooling effect that sort of takes you out of your body. Cachaça, usually a free spirit, plays an uncharacteristic role in this formula as the grounding force. Together they lift the bright green, clean, crisp notes of the bell pepper. Lime peel is intensely fragrant, so by adding it directly to your drink, you infuse an entire dimension of flavor. You get texture, bitterness, and an almost piney quality that complements the pastis—like glitter on the dance floor.
+    glassware: 
     ingredients:
     - 4 juicy lime wedges
     - 1 ounce Carpano Bianco vermouth
@@ -374,6 +396,7 @@ recipes:
       - citrus
   - name: State of Mind
     notes: Oh, Thai basil, how I love thee! Unlike Genovese basil, also known as Italian basil, the Thai variety has notes of anise and even a slight bit of spice. I was first introduced to Thai basil–infused blanc vermouth while working behind the bar at Mayahuel, an agave mecca. Already an avid fan of blanc vermouth (it’s my go-to in a simple one-and-one highball), the addition of this fragrant and savory herb blew me away. Its presence was undeniable, and even though it has intense flavors, it didn’t take away from all the delicate floral notes in the vermouth. In fact, it seemed to enhance them. This cocktail is dry, vegetal, and overwhelmingly thirst quenching. Be prepared to drink more than one.
+    glassware: 
     ingredients:
     - 1 seedless cucumber slice
     - 1 ounce fino sherry
@@ -390,6 +413,7 @@ recipes:
       - citrus
   - name: Splish Splash
     notes: August in New York City. It’s the muggiest, sweatiest, why-do-I-have-to-wear-clothes-to-work kind of hot. It’s depressing, it’s suffocating, and it feels like there is no relief…until…you walk past a fire hydrant propelling a cool shower of rain into the sky. As it hits your skin, you feel renewed, even if for just that brief moment. All at once there’s a little hop and skip in your walk, and getting to your next appointment doesn’t feel all that awful anymore.… This drink does all that.
+    glassware: 
     ingredients:
     - 2 shiso leaves	
     - 3 ounces fresh watermelon juice
@@ -403,6 +427,7 @@ recipes:
       - stirred
   - name: Stoop Sipper
     notes: "Never ever in my life have I thought about, ordered, or craved iced tea. Until I’m at someone’s house and they offer it to me. Then I will accept the glass without much fanfare, take a sip, and exclaim, “Why on earth don’t I drink this supremely delicious and refreshing beverage more often?” And then somehow another year passes without another iced tea. When I started conceptualizing this book, I wrote myself a reminder: Iced tea is your friend. So here it is. My slightly spiked, smoky, cherry pit, marzipan, peachy, cooler iced tea."
+    glassware: 
     ingredients:
       - 4 ounces chilled oolong tea	
       - 2 ounces Maurin Quina
@@ -416,6 +441,7 @@ recipes:
       - stirred
   - name: High and Low
     notes: Originally hailing from a coffee shop named Koppi in Sweden, the Coffee and Tonic is a mixture of cold brew coffee and tonic water served over ice. It has amassed a loyal, if not almost cultlike, following in the US. I’ll be honest, when I first heard of this combination, I may have gagged a little. But then I reminded myself to remain open-minded, and after finally trying one, yup, I agreed—it was simply delicious! One version I gleefully slurped was garnished with a Luxardo maraschino cherry, and it was that combination that inspired this cocktail. Honestly, this is one of my favorite recipes in this collection of many, and I’d love for you to just stop reading and make one for yourself, so please, don’t let me stand in your way.
+    glassware: 
     ingredients:
     - 1½ ounces umeshu
     - 1 ounce cold brew coffee
@@ -430,6 +456,7 @@ recipes:
       - stirred
   - name: High Tide
     notes: One of my all-time favorite “tricks” is adding a teaspoon of peated scotch whiskey to tart and juicy cocktails. Few things make such a big impact in such a small package. It adds a completely unexpected layer of flavor without hijacking the rest of the ingredients. I always think of it as a sort of wink at the end of a story, a little secret between my closest inner circle and myself. Here, the small pour of scotch, or as I like to call it smoky honey juice, is accompanied by a minuscule pour of potent, lush, and almost candy-like peach liqueur, creating a combination so highbrow/lowbrow, I almost can’t stand it. This cocktail is for my sister, Alma, who I feel like would read this list of ingredients and be tickled. So here is my almost, maybe kind of tropical, but not really, dry sherry refresher.	
+    glassware: 
     ingredients:
     - 1½ ounces amontillado sherry
     - ¾ ounce fresh lemon juice
@@ -447,6 +474,7 @@ recipes:
       - citrus
   - name: Forever Crush
     notes: Honestly, this cocktail is all about making you feel giddy. A double dose of tartness makes you scrunch your nose. And I can’t really think of anything more delicious than pineapples soaked in all the roasty juices of mezcal. There’s something about this combination that just oozes eternal youth, open roads, messy hair, ripped jeans (from being lived in, not from some designer slashing them open and charging you more), and a life without alarm clocks.
+    glassware: 
     ingredients:
     - 1½ ounces Cocchi Americano Bianco
     - ¾ ounce fresh lemon juice
@@ -462,6 +490,7 @@ recipes:
       - citrus
   - name: Suze and Elderflower Tonic
     notes: 
+    glassware: 
     ingredients:
       - 2 ounces Suze apéritif
       - 4 ounces Fever-Tree Elderflower Tonic Water
@@ -474,6 +503,7 @@ recipes:
       - stirred
   - name: Wine and Peach
     notes: 
+    glassware: 
     ingredients:
     - 5 ounces Grüner Veltliner wine
     - 1 teaspoon peach liqueur
@@ -486,6 +516,7 @@ recipes:
       - stirred
   - name: Rosé Vermouth and Soda
     notes: 
+    glassware: 
     ingredients:
     - 2 ounces Cola Lustau Rosé Vermut
     - 4 ounces Topo Chico sparkling mineral water
@@ -498,6 +529,7 @@ recipes:
       - stirred
   - name: Beer and Bitter
     notes: 
+    glassware: 
     ingredients:
     - 9 ounces Belgian-style wheat beer
     - 1 ounce red bitter of your choice, chilled
@@ -513,6 +545,7 @@ recipes:
 #Slow Sippers
   - name: Landscape Painting
     notes: "Spazieren is a German word that, like many German words, is very specific but doesn’t quite have an English equivalent. Spazieren means to take a walk, but it’s not just a walk, it’s more of a stroll, one you take out of pure enjoyment and ideally in nature, like in a forest. I haven’t been back to Germany in a long time to be able to check ye old walk in the Black Forest off my bucket list yet, so in its place I made a cocktail inspired by what I imagine this walk would be like. And the garnish is important: three, yes, precisely three, brandied cherries, to be delicately eaten, one by one, making sure to save one cherry for that perfect final sip."
+    glassware: 
     ingredients:
     - 2 ounces Carpano Antica Formula sweet vermouth
     - ¾ ounce rye whiskey
@@ -528,6 +561,7 @@ recipes:
       - stirred
   - name: Centerfold
     notes: There is nothing traditional about this cocktail. Yes, it’s somewhat reminiscent of a classic Martini, but even its barely pale green color suggests that you have signed yourself up for something a little out of the ordinary. The bright, crisp heat of a jalapeño is a natural friend of the almost musky and juicy mango, but throw in a flowering, earthy bouquet of alpine herbs, and you’ll find yourself in a threesome you never knew you wanted or needed.
+    glassware: 
     ingredients:
     - 1½ ounces white vermouth
     - ¾ ounce Jalapeño Blanco Tequila
@@ -541,6 +575,7 @@ recipes:
       - stirred
   - name: Same Difference
     notes: This cocktail is very clearly inspired by the formidable Negroni—a drink that I adore and have a hard time turning down. But the Negroni is not for the faint of heart (or for those who accidentally drink on an empty stomach), as it packs a punch. Here is my version that is meant to make you slow down and nonchalantly play footsie with your new flame.
+    glassware: 
     ingredients:
     - 1½ ounces fino sherry
     - 1 ounce Cocchi Americano Rosa
@@ -556,6 +591,7 @@ recipes:
       - negroni
   - name: Panda-Monium
     notes: There’s nothing quite like a perfectly tailored monochrome pantsuit. It casts a striking silhouette in spite of its simplicity. Or maybe precisely because of its simplicity. And so, I will not try to complicate the intro to this cocktail and will instead let you unbutton your blazer and sip away.
+    glassware: 
     ingredients:
     - 1½ ounces amontillado sherry
     - 1½ ounces Cocchi Americano Rosa
@@ -570,6 +606,7 @@ recipes:
       - stirred
   - name: Sin-a-Rama
     notes: I call this a segue cocktail, a cocktail to bridge the gap between two different styles. It may sound crazy, but think of this drink as a sort of hybrid Martini Sour (did I just blow your mind!?). If you lean toward shaken refreshing drinks but want to dip your toes into the stirred cocktail world, this might be the gentle transition you are looking for. It’s juicy yet rich. It’s tart yet silky. The combination of pommeau and Cocchi Americano creates an apple flavor that’s ripe and crunchy yet somehow caramelized and baked. Throw in a little tropical surprise by way of passion fruit and you’ve got yourself the perfect intro to a cocktail that makes you ponder and dig a little deeper.	
+    glassware: 
     ingredients:
     - 1½ ounces pommeau
     - 1 ounce Cocchi Americano Bianco
@@ -585,6 +622,7 @@ recipes:
       - stirred
   - name: Reluctant Star
     notes: If I were to suggest a food pairing in this book, it would be to accompany this cocktail with a scoop of rich, creamy vanilla ice cream. And I’m going to get a bit snobby for a second here. I’m not talking Breyer’s. I’m talking decadent Tahitian vanilla ice cream. You know, the kind where you’re in the ice cream aisle, staring at all your options, and one tub costs $2.99 while the other costs $8.99 and you’re like, “But it’s just vanilla ice cream. How much better can one be than the other?!” And have I told you all about my love of combining aged apple brandy with aquavit before? Because it’s an important love that I feel in every limb of my body. When combined, they basically make a cookie. And if I haven’t managed to sell you on this cocktail yet, even after mentioning pie, ice cream, and cookies, then I’m not sure if I’m qualified to endorse anything ever again.
+    glassware: 
     ingredients:
     - 1½ ounces Pineau des Charantes
     - ¾ ounce Cocchi Americano Bianco
@@ -600,6 +638,7 @@ recipes:
       - stirred
   - name: Still-Life
     notes: What I love about an Old-Fashioned is that it transforms over time. Your first sip can almost take you by surprise. It’s sharp. It’s biting. But with each sip, you can see corners turning into rounded edges. When I started thinking about creating a low-ABV version of this iconic cocktail, I wanted it to take you on the same kind of journey. Imagine this cocktail as a conversation about a rather heated topic. There may be conflict at first, but by the end, there is some sort of resolution, a coming together. And hopefully the drink helped.
+    glassware: 
     ingredients:
     - 1 ounce H&H Rainwater Madeira
     - ½ ounce Amaro Nonino
@@ -616,6 +655,7 @@ recipes:
       - old-fashioned
   - name: Wish List
     notes: This oddball of a highball should be sipped in the same manner as one would a Manhattan—slowly, pondering the meaning of something big. Since this drink has soda pop in it, that something big can certainly be whether or not Jen and Brad had the best couples style ever (remember their effortless matching cargo pants phase?!).
+    glassware: 
     ingredients:
     - 2 ounces Punt e Mes
     - ¼ ounce Amaro Meletti
@@ -631,6 +671,7 @@ recipes:
       - stirred
   - name: Important People
     notes: Out of all of the cocktails in this book, I’d say that this is the most serious. Maybe that’s just because we all have this preconceived notion that Cognac is very fancy-pants, which, yeah, okay, it is, but fancy shouldn’t mean inaccessible. This recipe calls for a tiny measure of that good stuff, which gives the sherry and vermouth that extra va-va-voom factor. I'm not a cigar smoking kind of girl, but if I were, I would, with 100 percent certainty, pair my mighty puffing stick with this beverage. I’d also like to point out that this is one of those drinks where glassware makes an impact. The double rocks glass you choose for this should ideally have a heavy base, perhaps made of (faux) crystal, and feel sturdy. Basically, you’ll instantly become very important.
+    glassware: 
     ingredients:
     - 1 ounce oloroso sherry	
     - ¾ ounce amber vermouth
@@ -646,6 +687,7 @@ recipes:
       - stirred
   - name: Fair Play
     notes: When it comes to culinary achievements, the French are venerable hitmakers! Who can turn down a steaming bowl of moules frites? A perfectly flaky, indulgently buttery croissant? A crisp, cascading glass of Champagne? Not I! Wine—they’ve got it! Cognac—yup! But we don’t often think of the French when it comes to bitter liqueurs, and that, my friends, is where we’ve all taken a giant misstep. Enter my bestie, Suze. Yes, bitter, but also floral, savory, piney, and an all-around delight of an apéritif. Now combine that with Lillet Blanc and you’ve got yourself a vanilla- and orange-scented cloud of happiness.
+    glassware: 
     ingredients:
     - 1½ ounces Lillet Blanc
     - ½ ounce Suze apéritif
@@ -661,6 +703,7 @@ recipes:
       - stirred
   - name: Easy Access
     notes: I’m not gonna lie, this cocktail is a strange bird. I guess, when you think about it, peacocks are pretty strange birds, but who doesn’t appreciate a good peacock sighting? While I would never dare compare a cocktail creation to the spectacular workings of Mother Nature, I find this unusual combination of ingredients a delightful surprise. If a holiday cinnamon cookie got a tropical twist and was topped with celebratory bubbles, this would be the result.
+    glassware: 
     ingredients:
     - 1 ounce Lillet Rouge
     - ½ ounce Jamaican rum
@@ -677,6 +720,7 @@ recipes:
       - sparkling
   - name: Golden Fantasy
     notes: I’m usually pretty willing to let people substitute ingredients if they can’t find what’s called for, but I’m going to be very strict here—if you can’t get your hands on a bottle of brandy made from mirabelle plums, then PLEASE do not make this cocktail. I know it might sound absolutely absurd to have an entire experience hinge on a teaspoon of plum brandy, but that is precisely what I’m saying. My ego thanks you in advance.
+    glassware: 
     ingredients:
     - 2½ ounces umeshu
     - ½ ounce Japanese whiskey
@@ -690,6 +734,7 @@ recipes:
       - stirred
   - name: Love Language
     notes: Can you think of anything more delectable, more joyous, or more satisfying than a fresh, perfectly ripe, juicy, fragrant tomato?! Nor can I! To me, tomato season officially means summer. And summer means dips in the lake, a rotation of vegetables on the grill, and the never-ending, relentless search for the perfect dress that is simultaneously flattering and bag-like. When I think Martini, however, I don’t immediately think “Yum, refreshing!” Well, you guessed it—I’m here to change your mind. The key to this cocktail is making sure that it is colder than cold. I recommend that your sherry, vermouth, and Lillet come straight from the fridge when mixing this recipe up, so if you’re using unopened bottles, definitely chill them beforehand.
+    glassware: 
     ingredients:
     - 1 ripe cherry tomato
     - 1½ ounces Lillet Rosé
@@ -705,6 +750,7 @@ recipes:
       - stirred
   - name: Press Pause
     notes: "This is my ode to the Pisco Sour. And yes, I am aware that this cocktail does not have (1) pisco, (2) citrus, or (3) egg white, all defining factors of the Pisco Sour…but I swear, it is indeed inspired by a Pisco Sour. In place of pisco, I’ve enlisted the forces of what shall here on out be known as the Grapey Triumvirate: Floc de Gascogne, Singani, and grappa. I find that both Pisco and FDG have these totally wild floral notes, while Singani is like diving into a bouquet of blossoming pink roses. The grappa, on the other hand, is a bit more rugged and gives the drink a little edge. It’s fascinating to compare three entirely different spirits, from opposite sides of the world, all made from the same raw material, and see how they can complement and extract new flavors from each other. While you will most certainly need to activate your imagination to experience this parallel Pisco Sour universe, it is precisely imagination that we adults could use more of in our daily lives."
+    glassware: 
     ingredients:
     - 2½ ounces white Floc de Gascogne
     - ½ ounce Singani (preferably Singani 63)
@@ -719,6 +765,7 @@ recipes:
       - stirred
   - name: Promise Julep
     notes: You’ve had an intense day at work, followed by a crowded commute home. The shoes you’ve been wearing all day have left your toes cramped and your back aching. YOU JUST WANT PIZZA FROM THAT ONE PLACE, but it’s Monday and they are closed Mondays, which you didn’t know, so you fantasized about their pizza all throughout your dreadful day and were counting on said pizza as the reward to get you through it all. You are supremely disappointed but then remember you have a mediocre frozen pizza that you can heat up. You go ahead and do that because sometimes we must settle, but your body is still filled with rage. Because you are a problem solver and an overachiever, you think of the perfect task to calm your nerves. You grab a ziplock bag, fill it with ice, take hold of a hammer, and start banging away. Ta-da, you have crushed ice. You add some booze and after one sip, you remember that most problems are solved by liquids on crushed ice. Your pizza is ready and it’s the most delicious pizza you’ve ever eaten. You didn’t want to deal with that oversized pizza box anyway.
+    glassware: 
     ingredients:
     - 5 or 6 mint leaves
     - 2 ounces pommeau
@@ -734,6 +781,7 @@ recipes:
       - stirred
   - name: Summer Feelings
     notes: This cocktail reminds me of lace. And I’m not talking about some lace doily your relative has framed in their kitchen. I’m talking couture runway lace. It’s delicate. It’s intricate. It’s glamorous. Made even more gorgeous by a sparkly embellishment here and there. The ingredients combined here are like soft whispers, punctuated by different botanicals, each patiently waiting its turn to reveal itself. But honestly, all poetry aside, this drink is just super fun, full of surprises, and very pretty to look at.
+    glassware: 
     ingredients:
     - 2½ ounces white vermouth
     - ½ ounce pisco
@@ -748,6 +796,7 @@ recipes:
       - stirred
   - name: Adore You
     notes: Listen, as a bartender that makes fancy-schmancy cocktails, I’m not supposed to love a good old Dirty Martini. But I do and have zero shame about it, and neither should you. Honestly, what is better than a Martini and a salt lick all in one devilish liquid package? But I am supposed to make fancy-schmancy drinks (and since I just can’t help myself), I’ve “done it up” a bit. Without the texture of gin or vodka, I opted for Cocchi Americano. While slightly bitter, there is no denying that Cocchi Americano also introduces some fruity notes, so to balance those out and truly adhere to the essence of this savory classic, a quick toasted-caraway infusion keeps this drink in the earthy realm where it deserves to be.
+    glassware: 
     ingredients:
     - 2 ounces dry vermouth
     - ¾ ounce Caraway Cocchi Americano Bianco
@@ -761,6 +810,7 @@ recipes:
       - stirred
   - name: Sherry and Vermouth
     notes: 
+    glassware: 
     ingredients:
     - 2 ounces amontillado sherry
     - 2 ounces white vermouth
@@ -773,6 +823,7 @@ recipes:
       - stirred
   - name: Apple and PDC
     notes: 
+    glassware: 
     ingredients:
     - 2 ounces Neversink Apple Apéritif
     - ½ ounce Pineau des Charantes
@@ -786,6 +837,7 @@ recipes:
       - swizzle
   - name: Port and Amaro
     notes: 
+    glassware: 
     ingredients:
     - 2 ounces white port
     - ¼ ounce Forthave Spirits Marseille Amaro
@@ -800,6 +852,7 @@ recipes:
 #Decadent Treats
   - name: Blank Space
     notes: Growing up, we didn’t go out to restaurants or cafés much. My mother saved money every way she could, so eating out when we could just “make something even better at home,” as she liked to say, seemed like a frivolity. Of course, everyone, including my mom, needs the occasional meal out, even if it’s just to break the monotony of doing dishes every night, so every now and then my mother and I would venture to the Indian restaurant down the street. It was a special occasion made even more special by the addition of their mango lassi. I knew that my mom considered this part of the order completely superfluous but also acknowledged what a treat it was for me, and thus it went against her rational mind and gave in to just being in the moment.
+    glassware: 
     ingredients:
     - 1½ ounces amontillado sherry
     - 1½ ounces Mango-Honey Syrup
@@ -816,6 +869,7 @@ recipes:
       - citrus
   - name: One Up
     notes: Many folks misconstrue white créme de cacao and that’s a shame because it is SO GOOD. I think when most people read “crème de cacao” on a cocktail menu, they immediately think the cocktail will be cloyingly sweet. Well people, with all due respect, we aren’t making giant chocolate martinis served in garish glasses with some sort of absurd crumbled candy cane rim here. So please, rid yourself of your preconceived prejudices against this perfectly wonderful liqueur and you’ll open yourself up to a whole other dimension of mouth treats.
+    glassware: 
     ingredients:
     - ¾ ounce amontillado sherry
     - ¾ ounce white crème de cacao
@@ -830,6 +884,7 @@ recipes:
       - shaken
   - name: Class Act
     notes: Friends, this cocktail is simply about bringing you joy. No-nonsense, unapologetic joy. Because if fresh, frothy pineapple juice combined with spiced pears can’t bring you joy, then I’m not sure anything can. It’s the kind of drink I would enjoy if, say, someone wanted to surprise me with breakfast in bed (hint, hint), or as a way to elongate a perfectly spectacular day for just a few more blissful moments.
+    glassware: 
     ingredients:
     - 1 ounce Pineau des Charantes
     - ¾ ounce fresh pineapple juice
@@ -847,6 +902,7 @@ recipes:
       - citrus
   - name: Highball to Heaven
     notes: After a busy day of running around, doing this and that, there is nothing quite as satisfying as fixing yourself a proper cocktail. I call this adulting. The second I enter my house, my pants fly off faster than you can say “clove-studded orange crescent,” and I realign and recalibrate with this ultra-luxe highball that feels part sophisticated screen siren and part off-duty club kid.
+    glassware: 
     ingredients:
     - 2 ounces Clove White Port
     - 1½ ounces Orange Cream Syrup
@@ -861,6 +917,7 @@ recipes:
       - shaken
   - name: In Her Glory
     notes: Somehow nothing feels more extravagant than popping a bottle of bubbles open and gleefully pouring them over crushed ice. Perhaps it’s because it feels a little like an act of rebellion. Something that might make a Champagne snob shudder in horror. You’re doing what with that?! But you know better than to just conform, so why not make juleps with bubbly wine and why not combine an ingredient from South America with an ingredient from Japan? This rebel without a cause veers far from the original julep (which dates back to the 1800s), and the result is a cocktail that’s both supremely floral and downright musky.
+    glassware: 
     ingredients:
     - 5 or 6 mint leaves
     - 3 ounces dry white sparkling wine
@@ -878,6 +935,7 @@ recipes:
       - julep
   - name: Flip the Script
     notes: In a past life, I was an actress. After college, my life revolved around auditioning. Many days were spent running from one audition to the next, back to back, for hours on end, leaving little time to eat. So, like any clear-thinking thespian, I would sometimes make a quick stop at a bar and drink a Guinness, because if you didn’t know, Guinness basically counts as food, as it’s rich in iron and very filling. After my fortifying liquid meal, I would continue on with my auditions. And now that I read this all back to myself, I can’t help but think that perhaps this is why I never made it as an actress. Well, anyhow, here is my jazzed-up stout beer cocktail that somehow tastes like cake.
+    glassware: 
     ingredients:
     - 2 ounces red Macvin du Jura
     - 1 ounce barista-quality oat milk (preferably Oatly)
@@ -895,6 +953,7 @@ recipes:
       - beer
   - name: It's a Mood
     notes: As a teenager, I would say, I was pretty good about keeping my cool in public. Sure, I had a crush on a certain member of the Backstreet Boys, but when I purchased, of course totally ironically, a ticket to see the Backstreet Boys at an arena that was three hours away, because I had a great sense of humor, it was just to have a fun night with my girlfriend. You know, because it was funny! Did totally cool and collected teenage Natasha who smoked cigarettes in between class hurl her body over a wall of screaming girls so that she could try to touch one of the Backstreet Boys as they passed by? Oh yes. Yes, she did. So, let me just say, the color of this cocktail is enough to send any human with even a slight detection of hormones into a complete frenzy. But don’t worry, the flavors of this teenage dream are all grown up.
+    glassware: 
     ingredients:
     - 2 ounces Bruto Americano
     - 1½ ounces fresh pineapple juice
@@ -912,6 +971,7 @@ recipes:
       - citrus
   - name: Island Life
     notes: Building on the floral notes of Amaro Montenegro, this cocktail is balanced by the earthy calm of amontillado sherry and the dry, clean salinity of fino sherry. I love the oddball combination of sherry and amaro for this, but orange juice is the key. With its tart sweetness, orange juice adds a plump and juicy component if balanced properly.
+    glassware: 
     ingredients:
     - 1 ounce Amaro Montenegro
     - ¾ ounce amontillado sherry
@@ -930,6 +990,7 @@ recipes:
       - citrus
   - name: Party Wine
     notes: Oh, this old thing? You know that response you give when you know you look absolutely stunning but don’t want to sound like you are your own hype person. That’s this drink. It requires a little behind-the-scenes prep, but come showtime, this is shockingly easy to throw together on the spot. Having one person over? Perfect, just quickly whip this up. Having ten people over? Also perfect, as this cocktail is built in the glass, and all you need to do is create a little production line and dole them out.
+    glassware: 
     ingredients:
     - ½ ounce Mulled Wine Reduction
     - 2 dashes Angostura bitters
@@ -942,6 +1003,7 @@ recipes:
       - stirred
   - name: Four on the Floor
     notes: I think this cocktail speaks to Suze’s incredible versatility. It’s an ingredient you rarely see outside the standard-plus-soda or White Negroni. You’ve heard me sing multiple praises to this bottle of wonder before, but this joyful iteration makes you feel like you just belly-laughed after hearing the dirtiest joke of all time. The rich caramelized banana liqueur, the hints of golden raisins from the sauterne, and the way it’s almost dripping overripe tropical fruit from the rum are all in stark contrast to Suze’s bright and bitter kick, making this cocktail a wonderfully naughty contradiction.	
+    glassware: 
     ingredients:
     - 1 ounce Suze apéritif
     - ¾ ounce sauterne
@@ -955,6 +1017,7 @@ recipes:
       - stirred
   - name: Rice Dreamz
     notes: Fluffy, whipped clouds of rice pudding covered in a blanket of soft marshmallows. If this is your idea of heaven, well then, congratulations, because you have reached nirvana. Now, in order to achieve nirvana, one does of course have to be willing to put in a little rigorous work behind the scenes. To achieve ultimate cushy-level enlightenment, one must follow proper technique. The process—or if we are going to continue this outrageous metaphor of mine, the path—is strangely satisfying, and that first transformative sip, where your lips just sort of sink into a pillow of downy feathers, is entirely fantastical.
+    glassware: 
     ingredients:
     - 2 ounces unfiltered sake
     - 1 ounce Vanilla Syrup
@@ -975,6 +1038,7 @@ recipes:
       - citrus
   - name: Premier Suite
     notes: One of my absolutely favorite indulgences is to take a buttery, flaky almond croissant and smear each bite, yes each bite, with a generous glob of additional butter. It’s one of those indulgences that I think I’ve only been able to give in to while staying in a hotel. Therefore, doing so while wearing a plush terry robe post hot bath soak and with the television playing in the background is also mandatory. Anyways, this drink is inspired by that very specific morning at a hotel.
+    glassware: 
     ingredients:
     - 1½ ounces Lustau Rosé Vermut
     - 1 ounce Pistachio Syrup
@@ -989,6 +1053,7 @@ recipes:
       - shaken
   - name: Dripping in Rubies
     notes: This is all about letting yourself be in a festive mood! It’s one of those drinks that pretty much anyone with a beating heart will enjoy. You can dance while holding it. You can hug while holding it. It’s bubbly, a pretty deep red, and it has drippy cherries by way of Maurin Quina. What’s not to like? And best of all, it comes together so easily and is filled to the brim with impactful, warming flavors. Completely suitable for both a snow-covered holiday soirée or summer solstice under a blanket of stars.
+    glassware: 
     ingredients:
     - 2 ounces full-bodied red wine
     - 1 ounce Maurin Quina
@@ -1005,6 +1070,7 @@ recipes:
       - sparkling
   - name: Hot Buttered Sherry
     notes: No one, not a single person, even those who, like me, loathe cold weather can deny the enchanting combination of a roaring fire and a warming cocktail. There is something wonderful about the simplicity of hot water and booze, but you didn’t come here for some spiked hot water; you came here to indulge a bit, so indulge you shall.
+    glassware: 
     ingredients:
     - 5 ounces cold-pressed apple cider
     - 1½ ounces Pedro Ximénez sherry
@@ -1020,6 +1086,7 @@ recipes:
       - heated
   - name: Candy Rush
     notes: Growing up, I loved those hard candies that came in small metal tins. The candies were a variety of fruit flavors, each shaped according to their fruit identity. It’s the kind of candy a grandparent would call a sweety and are probably always on sale at the drugstore. This drink is an ode to that way-too-sweet sucker from the past, but hopefully it boasts more characteristics than just sugar.
+    glassware: 
     ingredients:
     - 1½ ounces tawny port
     - ¾ ounce fresh lemon juice
@@ -1036,6 +1103,7 @@ recipes:
       - shaken
   - name: Cat Eye
     notes: There’s a certain elegance and mystery to this cocktail that I can’t quite put my finger on (and I will also say that calling my own cocktail elegant and mysterious feels entirely pompous and uncomfortable). But this one is a sort of strange puzzle, and with each sip you discover something new. I love drinks like that. Ones that feel like they are moving with you. That’s the brilliance of a complex liqueur such as Strega and the almost animated expression of a well-made fruit brandy working in harmony with some solid, definitive base spirits. I also kind of adore how “easy” this reads on paper but what a complete and utter journey this drink is in real life.
+    glassware: 
     ingredients:
     - 1½ ounces Lillet Blanc
     - 1 ounce dry vermouth
@@ -1050,6 +1118,7 @@ recipes:
       - stirred
   - name: Sunshine Shuttle
     notes: Honestly, there’s not much to say here because all you really need to know is that this cocktail has ice cream. However, since I have your attention, I might as well talk a little about this vermouth-based limoncello and why I’m obsessed with it. If you’ve ever had the pleasure of sipping on straight-out-of-the-freezer limoncello in a teeny-tiny cordial glass, you’ll understand the undeniable joy that comes with this experience. The lemon-bomb liqueur itself is bright yellow, perfectly sweet and viscous, but with a pronounced bitterness. I hope this cocktail-sundae can be shared with people that you simply adore, especially those who appreciate a heavy-handed rainbow sprinkle.
+    glassware: 
     ingredients:
     - 1 overly generous scoop of vanilla ice cream
     - 1½ ounces Vermouth Limoncello, chilled
@@ -1063,6 +1132,7 @@ recipes:
       - low-abv
   - name: Color Me Dazzled
     notes: Although popular in France, the Mauresque, a cocktail made by assembling pastis, orgeat, and water over ice, gets little airtime here in the States. It’s a strangely delicious concoction and one that I wish I thought of drinking more often. In this little play on that classic, I’ve replaced the water with freshly pressed Granny Smith apple juice and poured the mix over my fun-loving standby, crushed ice. It’s a simple twist that makes a big impact.
+    glassware: 
     ingredients:
     - 3 ounces fresh Granny Smith apple juice
     - 1½ ounces Oat-geat
@@ -1076,6 +1146,7 @@ recipes:
       - shaken
   - name: Be Right Back
     notes: Scooping a well-made sorbet is so unbelievably satisfying. It’s firm with just the right amount of soft give. It curls itself into a perfectly coiled scoop. Your spoon is met with plush resistance, but you’re able to make yourself the most glorious bite. When you finally get to taste it, it’s an intense sugar rush that is immediately met with a swift wave of tart, tingly fruit. Well, this cocktail is inspired by my fantasy sorbet flavor, and by that I mean it literally doesn’t exist, but I wish it did. In the fantasy sorbet isle, this flavor is equally fruity and bitter and tastes like you’re walking under a blossoming cherry tree.
+    glassware: 
     ingredients:
     - 1½ ounces red Macvin du Jura
     - ¾ ounce fresh grapefruit juice
@@ -1094,6 +1165,7 @@ recipes:
       - citrus
   - name: Adjacent Move
     notes: This devilish cocktail should envelop you like a fleece-lined cashmere blanket. Each sip should relax your shoulders that much more, warming your soul and making that catastrophic run-in with your ex earlier in the day feel like a distant, blurry memory. Also, you were wearing those jeans that make your butt look great, so why are we even calling it catastrophic? Back to the drink, which is served warm and whose spoonful of melted coconut oil goes fantastically well with the notes of golden raisins from the PDC and cinnamon from the aged rum. But don’t worry, this drink isn’t heavy or overly rich. It’s that perfect amount of decadence to help ease the worry of the day. Or the perfect reward after catching another glimpse of your butt in those jeans.
+    glassware: 
     ingredients:
     - 1½ ounces Pineau des Charantes
     - ¾ ounce Cardamaro
@@ -1111,6 +1183,7 @@ recipes:
       - heated
   - name: Lillet and Cassis
     notes: 
+    glassware: 
     ingredients:
     - 2 ounces Lillet Blanc
     - 1 ounce Current Cassis blackcurrant liqueur
@@ -1123,6 +1196,7 @@ recipes:
       - stirred
   - name: Coffee and Sherry
     notes: 
+    glassware: 
     ingredients:
     - 5 ounces hot coffee
     - ¾ ounce Mulled Wine Reduction
@@ -1137,6 +1211,7 @@ recipes:
       - caffeinated
   - name: Averna and Cream
     notes: 
+    glassware: 
     ingredients:
     - 2 ounces Amaro Averna
     - 1 ounce organic heavy cream
@@ -1148,6 +1223,7 @@ recipes:
       - stirred
   - name: Coco Madeira and Como
     notes: 
+    glassware: 
     ingredients:
     - 2 ounces Toasted Coconut Madeira
     - 4 ounces Casamara Club Como soda
@@ -1162,6 +1238,7 @@ recipes:
 #Party Starters
   - name: Journey to the Milky Way
     notes: Imagine if a flawless glass of white wine ate a hallucinogenic mushroom. As the magical mind trip sets sail, it rides illuminated waves under a glistening moon. “I want to be the most luscious version of myself I can be!” the glass of wine exclaims. The moon smiles with an iridescent, knowing glow. “Fill me with your magic,” whispers the glass of wine, mouth agape. A torrential storm of stars starts falling from the sky. Neon rainbows appear and push their way in front of heavy clouds. Happy cows are leaping. Pineapples shine golden in the sun. The glass of wine takes a deep, meditative breath. It is perfect. Did I go too far? Slash yes, this is a white wine milk punch, and it is really yummy and I’m so excited for you to try it, thanks so much. Serves 5 or 6.
+    glassware: 
     ingredients:
     - 8 ounces organic grass-fed (if possible) whole milk
     - 1 (750 ml) bottle full-bodied white wine, such as a chardonnay
@@ -1177,6 +1254,7 @@ recipes:
       - stirred
   - name: Flower Power
     notes: Cucumber juice can quite literally create magic! If the word freshness had a taste, it would be just-juiced cucumber. It has the ability to awaken all senses, make you feel completely alert, and transform your mental mindset. Combine that with the bright green herbs in dry vermouth and you’ve already got yourself a winning duo—that admittedly is a bit predictable. As a little surprise, I’ve added the almost hay-like flavor of saffron, a true earthy delight. It’s just the slightest little crinkle that takes you somewhere unexpected. Serves 4 to 6.
+    glassware: 
     ingredients:
     - 8 ounces dry vermouth
     - 4 ounces fresh cucumber juice
@@ -1195,6 +1273,7 @@ recipes:
       - citrus
   - name: The Happiest Mulled Wine in All the Land
     notes: I’m going to say it. If you don’t like a mug filled with warming mulled wine, I think you are a person who refuses to let joy into your life. And I say that being a person who throughout this entire book hasn’t criticized anyone’s personal likes or dislikes, because that is precisely what they are—personal. But when it comes to hot, spiced wine-soup, I have to put my foot down. I’m convinced that the reason you didn’t like it is because you had one that was just downright bad, but please give this recipe a whirl, because what is more welcoming than a home that’s fragrantly brimming with star anise–laced warmth? Serves 6 to 8.
+    glassware: 
     ingredients:
     - 1 (750 ml) bottle dry red wine
     - 8 ounces Becherovka
@@ -1215,6 +1294,7 @@ recipes:
       - heated
   - name: Pool Party
     notes: This is a truly sessionable cooler. I can’t think of anything better to sip on during the day with friends. It’s light, refreshing, vegetal, juicy, and most importantly just super delicious. It also speaks volumes to the beauty of no frills—it’s simply fresh ingredients mixed in the right proportions. To make this drink even more perfect, there is no shaking or fine straining or double shaking. Life does not get any easier than this (she says after instructing you to juice three different kinds of fruit). Serves 4 to 6.
+    glassware: 
     ingredients:
     - 8 ounces white vermouth (preferably Cinzano bianco)
     - 4 ounces fresh Granny Smith apple juice
@@ -1234,6 +1314,7 @@ recipes:
       - citrus
   - name: If These Walls Could Talk
     notes: In the fantasy world I’ve created for this punch, Bianca Jagger, Cher, and Diana Ross are just casually throwing things into a hollowed-out disco ball. “Diana, do you have an apron I can borrow?” asks Cher. “I don’t want to get any sugar on this Bob Mackie sweatshirt.”			“Darling, I’m just going to throw a couple of these cinnamon sticks into your simple syrup!” exclaims Bianca in another one of her nonchalant moments of brilliance. “Let me pop these bubbles,” says Diana, grabbing an unsuspecting bottle from her icebox. “What a delight. This is a bottle of red bubbles!”	“Fabulous,” cheers Bianca and Cher in unison. And, well, there you have it. Serves 6 to 8.
+    glassware: 
     ingredients:
     - 8 ounces amontillado sherry
     - 3 ounces fresh lemon juice
@@ -1251,6 +1332,7 @@ recipes:
       - citrus
   - name: Forever More
     notes: In the Hollywood version of what people drink in the French countryside, the story would focus on this apple- and pear-forward, woodsy sparkler. So grab a handful of friends who like to wear silk headscarves and perfectly knit soft cardigans, hop on your vintage bicycles, and pedal on down that cobblestone side street, because there’s a pitcher of fruity delights awaiting you in a field of wildflowers. Serves 8 to 10.
+    glassware: 
     ingredients:
     - 4 ounces Bonal Gentiane-Quina
     - 4 ounces pommeau
@@ -1270,6 +1352,7 @@ recipes:
       - sparkling
   - name: Earth Tones
     notes: An Aperol Spritz but make it dirty. And I mean that in the best way possible. If you’re looking for something a little more rugged, with a bit more grit, this is like the Aperol Spritz ditched the piazza for the mountains and is taking a hike after a rainstorm. Boots are muddied, wild strawberries are foraged, and the sparkling wine is chilled in a…um…waterfall! Serves 6 to 8.
+    glassware: 
     ingredients:
     - 10 ounces Beet Aperol
     - 2 ounces strawberry liqueur
@@ -1286,6 +1369,7 @@ recipes:
       - stirred
   - name: Golden Hour
     notes: This combination hits all the right spots—it’s tart, juicy, bubbly, and dry. In fact, this people-pleaser that will certainly unify those from all walks of life is kind of like a teacher’s pet, too—it’s almost annoyingly easy to drink at any time of day, for any occasion or non-occasion. Serves 4 to 6.
+    glassware: 
     ingredients:
     - 6 ounces Pineau des Charantes
     - 2 ounces fresh grapefruit juice	
@@ -1305,6 +1389,7 @@ recipes:
       - shaken
   - name: Jam Session
     notes: Introduce acid and bubble into a cocktail with kombucha. This effervescent, living beverage has the sort of bracing acidity you can’t quite get enough of, which keeps you engaged and drinking swig after swig. Pair that with the natural sweetness and hydrating power of watermelon juice and you might as well call yourself a self-care expert. Serves 6 to 8.
+    glassware: 
     ingredients:
     - 1 (750 ml) bottle fino sherry
     - 1 (375 ml) bottle ginger kombucha
@@ -1319,6 +1404,7 @@ recipes:
       - stirred
   - name: Trophy Garden
     notes: For those days when I am dreaming about a kitchen garden in my future, because who doesn’t need a perfect little garden conveniently located right off the side of their kitchen door dedicated to growing the ingredients of a perfect tomato sauce? It all seems very grown-up and lovely and aspirational, and it would be the sort of garden where I would grow fennel and wild elderflower and then just whip something together when unexpected company showed up at my door while my hair is perfectly messy, and I suddenly turn into Nigella Lawson. Serves 4 to 6.
+    glassware: 
     ingredients:
     - 6 ounces Salers Gentiane Aperitif
     - 3 ounces fresh grapefruit juice
@@ -1337,6 +1423,7 @@ recipes:
       - citrus
   - name: Be Your Own Valentine
     notes: There’s a certain group of so-called experts in drinking culture who like to shame people for liking delicious things because they’ve deemed them “basic” (whatever that means). I have a feeling that this seemingly “simple” punch would fall into that category, but don’t be bullied into their quite frankly boring, one-dimensional way of thinking. I call on you to embrace this not at all frou-frou, pink as all hell, strawberry-mint dream of a punch, edible flower garnish and all. Serves 8 to 10.
+    glassware: 
     ingredients:
     - 3 whole strawberries, leaves removed
     - 10 ounces Lillet Rosé
@@ -1356,6 +1443,7 @@ recipes:
       - shaken
   - name: Club Scene
     notes: This is that drink everyone is sipping on at the very end of the party. The music is loud. The makeup is runny. Shoes are off not because people are too wobbly on their feet; they are off so that the dancing can continue. Buttons are undone because shirts can be constricting, and you’ve still got hours of revelry in you. This cocktail is all about awakening your senses and letting that yuzu juice tingle and tickle your tongue. Also, if I haven’t already talked about my love of Suze + passion fruit, let me tell you that it’s a combination I love with such intensity that I physically have to restrain myself from putting them into every single cocktail. Serves 4 to 6.
+    glassware: 
     ingredients:
     - 8 ounces dry white wine
     - 4 ounces Suze apéritif
@@ -1374,6 +1462,7 @@ recipes:
       - citrus
   - name: Smash Up
     notes: Blood oranges are technically in season for like twenty-four hours a year, and I look forward to it every time. There is, strangely, something quite vampire-esque about the taste, a sort of metallic, very mineral-forward, sweet juiciness. When combined with either lemon or lime juice, it takes on all sorts of bright, cheerful characteristics as well, while still maintaining some of its mystery. It’s this flavor combination that drew me to pair it with East India sherry, a sherry that feels luxurious as it’s so full of seductive deep raisin notes. Serves 6 to 8.
+    glassware: 
     ingredients:
     - 8 ounces East India sherry
     - 4 ounces white rum (preferably Owney’s)
@@ -1393,6 +1482,7 @@ recipes:
       - citrus
   - name: No Bad Days
     notes: The idea behind this one is that it’s almost too easy to make, so it’s perfectly acceptable for one of the ingredients to be an infusion. Each ingredient on its own, while supremely delicious, is what I like to describe as soft. But when brought together, they are transformed into a vibrant tour de force. I simply adore this cocktail and created it with a wide range of palates in mind. It’s kind of like a peace offering between the Martini drinker and the Sour drinker, brought together by the harmony of a big bowl of booze. Serves 10 to 14.
+    glassware: 
     ingredients:
     - 1 (750 ml) bottle dry sparkling wine, chilled
     - 1 (750 ml) bottle Thai Basil Blanc Vermouth, chilled
@@ -1409,6 +1499,7 @@ recipes:
       - stirred
   - name: Get It Done
     notes: I remember being introduced to the art of the Michelada pretty late into my bartending journey, when I started working behind the bar at Mayahuel. While Mayahuel certainly didn’t invent the Michelada (a traditional Mexican beverage dating back almost one hundred years), the bartenders there were well versed in coming up with some pretty epic variations. In this version, I’ve replaced the tomato element with a smoky ancho chile by way of Ancho Reyes, which adds a beautiful earthy layer to this otherwise refreshing, sharp cocktail. It’s the perfect partner to an extravagant snack setup. Serves 6 to 8.
+    glassware: 
     ingredients:
     - 2 (12-ounce) bottles Mexican lager beer, such as Modelo Especial
     - 4 ounces fresh pineapple juice	
@@ -1427,6 +1518,7 @@ recipes:
       - citrus
   - name: Kiss 'n' Tell
     notes: Maybe you’ve been trying to find an excuse to wear your feather-adorned kitten heels. Or maybe it’s your velvet slippers. Whichever footwear choice speaks to you most is the kind of mood you need to bring to serving this Martini-esque crowd sipper. If you happen to have a sunken living room, you get bonus points. Serves 4 to 6.
+    glassware: 
     ingredients:
     - 10 ounces dry vermouth
     - 6 ounces Salers Gentiane Aperitif
@@ -1442,6 +1534,7 @@ recipes:
       - stirred
   - name: Wine and Pear
     notes: Serves 4 to 6.
+    glassware: 
     ingredients:
     - 1 (750 ml) bottle Auslese Riesling, chilled
     - 1 mini (50 ml) bottle Clear Creek Pear Brandy, chilled
@@ -1454,6 +1547,7 @@ recipes:
       - stirred
   - name: Amaro and Bubbles
     notes: Serves 4 to 6.
+    glassware: 
     ingredients:
     - 1 (750 ml) bottle dry Lambrusco wine
     - 5 ounces Amaro Ramazzotti
@@ -1468,6 +1562,7 @@ recipes:
       - stirred
   - name: Cello and Partayyy
     notes: Serves 4 to 6.
+    glassware: 
     ingredients:
     - 1 (750 ml) bottle dry sparkling wine
     - 10 ounces Vermouth Limoncello
@@ -1484,6 +1579,7 @@ recipes:
 # The Celebration Never Stops
   - name: Mental Note
     notes: The awe-inspiring color of this drink is vibrant enough to wake you from the depths of a deep, satisfying slumber. The first sip is intended to give you a little spark of electricity that you can feel all the way down in your toes. Tart but unwaveringly earthy, it’s equally comforting and life-giving. And then of course there is our bestie, crushed ice, which makes this combination taste that much better. Go ahead and choose joy today.
+    glassware: 
     ingredients:
     - 2 ounces fresh grapefruit juice
     - 1 ounce fresh lemon juice
@@ -1500,6 +1596,7 @@ recipes:
       - shaken
   - name: T.B.D.
     notes: When you plan a surprise party for someone, there are only two ways it can go. Either they will love it, be overcome with happy warm feelings, and passionately kiss you as they fight back tears, or they will give you a look so sharp it cuts your soul, and you feel instant regret for having devoted days of your life to bring this moment to fruition. Well, just ignore the possibility of the second outcome, and sink deep into scenario number one. That’s this drink. It’s your favorite person’s birthday and it’s going to be totally great. This drink starts out totally lovely, perhaps even comfortingly predictable, and then you get a hit of the yuzu koshu and your day has suddenly turned into a past-midnight fête.
+    glassware: 
     ingredients:
     - 2 ounces fresh orange juice
     - 1½ ounces Vanilla Syrup
@@ -1518,6 +1615,7 @@ recipes:
       - shaken
   - name: Morning Routine
     notes: The world’s most delightful glass of grown-up milk. And even though you are an adult, I do feel the need to warn you that the garnish is indeed on fire, so please avoid planting your face on it.
+    glassware: 
     ingredients:
     - 4 ounces barista-quality oat milk (preferably Oatly)
     - ½ ounce Cinnamon Syrup
@@ -1533,6 +1631,7 @@ recipes:
       - flame
   - name: See You on Wednesday
     notes: Do you ever take that first big satisfying sip of a Margarita and think to yourself, “This tastes life-giving and cleansing!” If you answered with a resounding YES, then this is the cure to your craving. This is every juicy, spicy, savory dream wrapped up in a festive salt-speckled bow. I often find drinking celery juice on its own a little, shall we say, lacking, so the gooey yum of the agave nectar is there to give this drink some texture and weight.
+    glassware: 
     ingredients:
     - 2 jalapeño slices
     - 1 cilantro sprig
@@ -1550,6 +1649,7 @@ recipes:
       - citrus
   - name: Dreaming in Pink
     notes: Watermelon juice is basically the universe’s gift to humans who are parched but bored by water. When watermelon is ultra-ripe, all you have to do is look at it and it basically juices itself. I love a touch of savory with pretty much anything sweet, and a little touch of a neutral yet flavorful vinegar can make such a dramatic impact. Throw a few fresh, equally-in-season basil leaves into the mix and you can basically just sit back and let Mother Nature do her thing. And if you’re not already wearing a straw hat, I highly recommend putting one on.
+    glassware: 
     ingredients:
     - 5 ounces fresh watermelon juice
     - 1 tablespoon unseasoned rice vinegar
@@ -1563,6 +1663,7 @@ recipes:
       - shaken
   - name: Go-Go Time
     notes: When I was a teenager, spiced chai became all the rage among my group of friends. We would buy that almost unbearably sweet chai concentrate in a paper carton, mix it with milk, talk about our feelings, and absolutely not ever smoke a cigarette with it. This drink calls for chilled, brewed chai, and it’s a choose-your-own-adventure-type call. If you want to keep it light, simply brew your tea in hot water, or, for something more decadent, make a milk tea by steeping your tea in the warmed milk of your choice, though I recommend full-fat cow’s milk or macadamia milk, which pairs lovely with the pineapple.
+    glassware: 
     ingredients:
     - 3 ounces chilled brewed spiced chai
     - 1 ounce coconut milk
@@ -1577,6 +1678,7 @@ recipes:
       - shaken
   - name: Shock Value
     notes: Once I passed the thirty-years-old mark, I, like many adults before me, invested in my first pair of well-made jeans. Oh, the difference! I wasn’t tugging them back up every two seconds, their material felt sturdy, my bum never looked better. And that brings me to lemonade. Who doesn’t love lemonade? But just as with jeans, there’s lemonade and there’s LEMONADE. I love mine with a higher-than-usual lemon-to-sugar ratio, because I want my face to scrunch up as if I were taking a generous bite from a lemon wedge. This recipe is the upgrade you’ve been looking for, even if you are under thirty.
+    glassware: 
     ingredients:
     - 1 whole green cardamom pod
     - 2 ounces fresh lemon juice
@@ -1592,6 +1694,7 @@ recipes:
       - citrus
   - name: Sweet Relief
     notes: My cure for the Something & Tonic craving that packs a flavorful punch. It’s ideal for sipping while feeling at peace, dancing under a flickering strobe light. But also equally as enjoyable sunbathing, bum out, on your rooftop. An invigorating experience you’ll feel in your whole body.
+    glassware: 
     ingredients:
     - 2 ounces Salted Lemon-Lime Cordial
     - ½ ounce Cinnamon Syrup
@@ -1607,6 +1710,7 @@ recipes:
       - citrus
   - name: Shimmy Right
     notes: This drink is inspired by my love of grilled red bell peppers. Large get-togethers at our house in the summer almost always mean a large platter of grilled vegetables. My favorite is always the pepper, smothered in good olive oil and plenty of salt. I had experimented with grilling the peppers for this drink before juicing, but of course that meant sacrificing their brilliant sweetness and crispness, which would have been a real bummer to lose. Enter hickory liquid smoke. I was able to keep everything tasting fresh while adding a powerful baseline of gritty smokiness.
+    glassware: 
     ingredients:
     - 2 ounces fresh red bell pepper juice
     - 1 ounce fresh lemon juice
@@ -1623,6 +1727,7 @@ recipes:
       - citrus
   - name: Vitamin Parade
     notes: Pure liquid fortification. Combining two of my favorites here, freshly pressed carrot and pineapple juices, with the clean spicy notes of the ginger makes this an ideal companion to raucous conversation or a lively, straight-out-of-bed solo morning. Your body should feel good about drinking this, look forward to it, maybe even crave it so much that you make it part of your weekly rotation of self-care rituals.
+    glassware: 
     ingredients:
     - 2 ounces fresh carrot juice
     - ¾ ounce fresh pineapple juice
@@ -1640,6 +1745,7 @@ recipes:
       - citrus
   - name: Adult Supervision
     notes: I think I could sip on this all day, every day. There’s something strikingly elegant about this drink. But at the same time, it certainly doesn’t take itself too seriously. Inspired by my love of Shirley Temples as a child, which I only got to drink once a year when we visited my grandmother and had dinner at the Golden Dragon, where we feasted on paper-wrapped chicken and thick sauce-drenched rice noodles.
+    glassware: 
     ingredients:
     - 1 ounce Raspberry Syrup
     - ¾ ounce white verjus
@@ -1653,6 +1759,7 @@ recipes:
       - stirred
   - name: Hit List
     notes: There’s not much I need to say about this drink except that it’s as refreshing as walking into the walk-in cooler during a hot summer shift. Juicy and tart with a little kick from the fresh ginger, it’s easy to lose track of how many you’ve drunk, thus I’ve made this sans alcohol.			
+    glassware: 
     ingredients:
     - 2 ounces fresh pineapple juice
     - ½ ounce fresh lime juice
@@ -1668,6 +1775,7 @@ recipes:
       - citrus
   - name: Happy Place
     notes: You know what I love? Salad dressing. I’m not talking creamy ranch or Caesar (though my obsession with finding the perfect Caesar salad is pretty infamous among my circle of friends). I’m talking vinaigrette. I like my dressing to be so vinegary that it gives me a shiver. I often combine different vinegars on one salad, then different mustards and honeys, too. The best bite of salad is when the salad is gone, and you get to grab a spoon and just drink the veggie-soaked puddle of dressing remaining in the bottom of the bowl. This drink is my socially acceptable salad-dressing juice cocktail.
+    glassware: 
     ingredients:
     - 3 ounces fresh carrot juice
     - ¾ ounce fresh lime juice
@@ -1685,6 +1793,7 @@ recipes:
       - citrus
   - name: Carrot and Bitter
     notes: 
+    glassware: 
     ingredients:
     - 2 ounces carrot juice
     - 3 ounces Sanbitter or other nonalcoholic red bitter soda
@@ -1697,6 +1806,7 @@ recipes:
       - stirred
   - name: Beet and Ginger
     notes: 
+    glassware: 
     ingredients:
     - ½ ounce beet juice
     - 5 ounces ginger beer
@@ -1708,6 +1818,7 @@ recipes:
       - the celebration never stops
   - name: Mango and Tonic
     notes: 
+    glassware: 
     ingredients:
     - 1 ounce mango vinegar
     - 5 ounces Fever-Tree Mediterranean Tonic Water

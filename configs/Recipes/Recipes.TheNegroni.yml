@@ -4,6 +4,7 @@ recipes:
   - name: Classic 1:1:1 Negroni
     author: 
     notes: "I prefer juniper-heavy gins in my Negronis, hence Beefeater, G’Vine Nouaison, and Tanqueray lead the charge into my glass—and I tend to pour heavy when adding the gin, too. Vermouth-wise, I’m still a sucker for Noilly Prat sweet vermouth, finding it to be lush, round, and fruity, with none of the unwanted spice notes that are appearing in some of today’s newer bottlings. Yes, Carpano Antica Formula sweet vermouth, I’m talking about you! Feel free to play with the ratios in this formula and make the drink your own. Remember, one of the cardinal rules when it comes to cocktail recipes: Nothing Is Written in Stone."
+    glassware: 
     ingredients:
     - 1 ounce gin
     - 1 ounce sweet vermouth
@@ -19,6 +20,7 @@ recipes:
   - name: Torino-Milano
     author: 
     notes: Look here for the fabulous floral notes that Amaro Cora brings to this party in a glass. You’ll likely find hints of orange zest and cinnamon, too.
+    glassware: 
     ingredients:
     - 1½ ounces Amaro Cora
     - 1½ ounces Campari
@@ -32,6 +34,7 @@ recipes:
   - name: Milano-Torino
     author: 
     notes: Martini Rosso is a great sweet vermouth, with a style that’s lighter than the heavy berry notes found in, say, Noilly Prat. As such, it’s a perfect sister for Campari, since each allows the other to tango in her own style, never bumping into each other and always keeping the same beat.
+    glassware: 
     ingredients:
     - 1½ ounces Martini Rosso vermouth
     - 1½ ounces Campari
@@ -45,6 +48,7 @@ recipes:
   - name: Americano
     author: 
     notes: Sorry to say that the Americano walks a different street than I, but if you’re seeking a refreshing quaff, it might very well work for you. Whatever you do, though, don’t even get your nose close to an Americano if there’s no Orange twist in there.
+    glassware: 
     ingredients:
     - 1½ ounces Campari
     - 1½ ounces sweet vermouth
@@ -60,6 +64,7 @@ recipes:
   - name: Negroni Sbagliato
     author: 
     notes: The house specialty at the legendary Bar Basso in Milan is the Negroni Sbagliato, which translates as “wrong” or “mistaken” Negroni—a fitting name for a cocktail born from a happy mistake. When making a Negroni in the late 1980s, a bartender grabbed a bottle of spumante instead of gin. The drink was an instant hit, and it soon became the bar’s signature cocktail.
+    glassware: 
     ingredients:
     - 1 ounces sweet vermouth
     - 1 ounces Campari
@@ -76,6 +81,7 @@ recipes:
   - name: My Old Pal (1992 Version)
     author: 
     notes: "According to Scotsman Adam Elmegirab, creator of Dr. Adam Elmegirab’s Bitters, “The Old Pal, or ‘My Old Pal,’ first shows up in the 1922 edition of Harry’s ABC of Cocktails. But oddly, in 1927, Arthur Moss credits the drink to one ‘Sparrow’ Robertson, sporting editor of the New York Tribune, in the appendix of Harry McElhone’s Barflies and Cocktails.” Not solely due to its cloudy origins, this is one of those cocktail recipes that drives so-called experts absolutely mad. Most people will tell you that the Old Pal is made with Campari, dry vermouth, and rye whiskey—sort of a rye Negroni. But Adam’s research complicates things a bit. He notes that a conflicting recipe appears in the 1927 book: “I remember way back in 1878, on the thirtieth of February to be exact, when the writer was discussing the subject with my old pal ‘Sparrow’ Robertson and he said to yours truly, ‘Get away with that stuff, my old pal, here’s the drink I invented when I fired the pistol the first time at the Powderhall foot races and you can’t go wrong if you put a bet down on ⅓ Canadian Club, ⅓ Eyetalian Vermouth, and ⅓ Campari,’ and then he told the writer that he would dedicate this cocktail to me, and call it, My Old Pal.” There’s no denying that My Old Pal has a Negroni-style template, but if Sparrow Robertson really did invent this drink in 1878, then the My Old Pal predates the Negroni by over forty years. Interesting trivia, if nothing else. Now, here’s where the modern-day expert’s feathers will get ruffled: the 1927 book calls for “Eyetalian Vermouth,” meaning sweet vermouth. Whatever type of vermouth you use, this cocktail works best with a good straight rye; try using Michter’s, Rittenhouse 100, or Sazerac."
+    glassware: 
     ingredients:
     - 1½ ounces straight Rye whiskey
     - 1 ounce Campari
@@ -89,6 +95,7 @@ recipes:
   - name: My Old Pal (1927 Version)
     author: 
     notes: "According to Scotsman Adam Elmegirab, creator of Dr. Adam Elmegirab’s Bitters, “The Old Pal, or ‘My Old Pal,’ first shows up in the 1922 edition of Harry’s ABC of Cocktails. But oddly, in 1927, Arthur Moss credits the drink to one ‘Sparrow’ Robertson, sporting editor of the New York Tribune, in the appendix of Harry McElhone’s Barflies and Cocktails.” Not solely due to its cloudy origins, this is one of those cocktail recipes that drives so-called experts absolutely mad. Most people will tell you that the Old Pal is made with Campari, dry vermouth, and rye whiskey—sort of a rye Negroni. But Adam’s research complicates things a bit. He notes that a conflicting recipe appears in the 1927 book: “I remember way back in 1878, on the thirtieth of February to be exact, when the writer was discussing the subject with my old pal ‘Sparrow’ Robertson and he said to yours truly, ‘Get away with that stuff, my old pal, here’s the drink I invented when I fired the pistol the first time at the Powderhall foot races and you can’t go wrong if you put a bet down on ⅓ Canadian Club, ⅓ Eyetalian Vermouth, and ⅓ Campari,’ and then he told the writer that he would dedicate this cocktail to me, and call it, My Old Pal.” There’s no denying that My Old Pal has a Negroni-style template, but if Sparrow Robertson really did invent this drink in 1878, then the My Old Pal predates the Negroni by over forty years. Interesting trivia, if nothing else. Now, here’s where the modern-day expert’s feathers will get ruffled: the 1927 book calls for “Eyetalian Vermouth,” meaning sweet vermouth. Whatever type of vermouth you use, this cocktail works best with a good straight rye; try using Michter’s, Rittenhouse 100, or Sazerac."
+    glassware: 
     ingredients:
     - 1½ ounces straight Rye whiskey
     - 1 ounce Campari
@@ -102,6 +109,7 @@ recipes:
   - name: Boulevardier
     author: 
     notes: "Harry McElhone is such a rabble-rouser. In his 1927 book Barflies and Cocktails, he proclaims, “Now is the time for all good barflies to come to the aid of the party, since Erskinne (sic) Gwynne crashed in with his Boulevardier cocktail: ⅓ Campari, ⅓ Italian vermouth, ⅓ Bourbon whiskey.” His Boulevardier—like his My Old Pal!—calls for sweet vermouth. Cocktail purists will probably try to tell you that the Old Pal has to be made with dry vermouth and that the Boulevardier has to be made with sweet vermouth. I say pour me a drink and let’s move on. Actually, let’s pause for a moment to reflect upon the Boulevardier. The name is a nod to a Parisian magazine along the lines of the New Yorker. The Erksine McElhone speaks of was the son of Edward Erskine and Helen Steele Gwynne, and his great-uncle was Cornelius Vanderbilt. Erskine was a wealthy man, as one might imagine. Erskine’s sister, Alice “Kiki” Gwynne, was a notorious drug addict, often referred to as “the girl with the silver syringe,” and one of her three children was thought to have been fathered by Prince George, Duke of Kent, one of King George V of England’s sons. The Boulevardier magazine began publication in 1927 (the same year in which Barflies and Cocktails hit the shelves), and while lofty writers such as Ernest Hemingway and Noel Coward were contributing to its pages, the proud publisher undoubtedly quaffed quality cocktails in the City of Lights."
+    glassware: 
     ingredients:
     - 1 ounce bourbon
     - 1 ounce sweet vermouth
@@ -119,6 +127,7 @@ recipes:
   - name: White Negroni
     author: Eric Alperin
     notes: "Eric didn’t claim to have created this variation, and I’m told by Jim Meehan (owner of the New York City bar PDT) that it was English bartending legend Wayne Collins who first came up with the basic formula. Sorry, Wayne—I found this out at the very last minute. Eric’s tale of first serving this drink is worth telling, though: “When we opened the Varnish, we couldn’t get Suze… so my lovely French mother was suitcase importing it for us. The best was when I got a shipment and the bottles were wrapped in my old socks and underwear which I’d left at home as a young man heading out on his own. Thanks, Mom…”"
+    glassware: 
     ingredients:
     - 1½ ounces Plymouth gin
     - ¾ ounce Dolin dry vermouth
@@ -134,6 +143,7 @@ recipes:
   - name: White Negroni With Campari Caviar
     author: Brian Felley & Mo Hodges
     notes: Here’s another White Negroni variation, this one from bartenders at the sadly shuttered San Francisco bar Big. Making the Campari Caviar involves some black-belt bartending moves, but the result is a sight to behold.
+    glassware: 
     ingredients:
     - 2 ounces gin
     - ½ ounce Dolin dry vermouth
@@ -149,6 +159,7 @@ recipes:
   - name: Bitter French
     author: Phil Ward
     notes: This is a sort of marriage between a French 75 (a classic drink that combines gin, citrus, and champagne) and a Negroni. Nice touch, Phil. It’s almost like you know what you’re doing…
+    glassware: 
     ingredients:
     - 1 ounces Plymouth gin
     - ¼ ounces Campari
@@ -166,6 +177,7 @@ recipes:
   - name: Drunk Uncle
     author: Shawn Soole
     notes: 
+    glassware: 
     ingredients:
     - 1½ ounces Islay Scotch whisky, such as Bowmore or Laphroaig
     - ¾ ounce Martini Bianco
@@ -180,6 +192,7 @@ recipes:
   - name: Maximo di Negroni
     author: Shawn Soole
     notes: 
+    glassware: 
     ingredients:
     - 1 ounce Beefeater 24 London Dry gin
     - 1 ounce Punt e Mes
@@ -194,6 +207,7 @@ recipes:
   - name: Minimo di Negroni
     author: Shawn Soole
     notes: 
+    glassware: 
     ingredients:
     - 1 ounce Plymouth Gin Infused with Saffron
     - 1 ounce Cinzano Orancio vermouth
@@ -208,6 +222,7 @@ recipes:
   - name: Lemon Balm Negroni
     author: Shawn Soole
     notes: 
+    glassware: 
     ingredients:
     - 1 ounce Tanqueray London Dry gin Infused with Lemon Balm
     - 1 ounce Martini Bianco
@@ -222,6 +237,7 @@ recipes:
   - name: Negroni Fizz
     author: Grace Roth
     notes: This cocktail riffs on the beloved formula of the ice cream float, but instead of root beer we get a boozy cocktail, and instead of cloying vanilla ice cream we get grown-up lemon sorbet. Grace says, “The bittersweet bite of the Campari is mellowed by the savory sweetness from the rosemary syrup, and topping it with a scoop of lemon sorbet not only keeps your cocktail cold (eliminating the need for ice), but also adds dimension to the flavor as it melts.”
+    glassware: 
     ingredients:
     - 1 ounce gin
     - 1 ounce Campari
@@ -239,6 +255,7 @@ recipes:
   - name: Belfast Bastard
     author: Jack McGarry
     notes: McGarry says, “This light, summery drink is a riff on the Lucien Gaudin, which I came up with a while back when I became aware of Combier’s Crème de Pamplemousse Rose liqueur.” Crème de Pamplemousse Rose, made with red grapefruit and neutral alcohol, has the refreshing flavor of very ripe grapefruit.
+    glassware: 
     ingredients:
     - 2 ounces Tanqueray London Dry gin 
     - ½ ounce Dolin dry vermouth
@@ -256,6 +273,7 @@ recipes:
   - name: Corn Goddess
     author: David Wondrich
     notes: Only Dave Wondrich could come up with a recipe as wacky as this one. And he made it work, too!
+    glassware: 
     ingredients:
     - 2 tablespoons fresh corn kernels
     - 2 cherry tomatoes, halved
@@ -272,6 +290,7 @@ recipes:
   - name: Agent Provocateur
     author: Francesco Lafranconi
     notes: This recipe displays my friend Francesco’s creative genius at its finest. He says you can use any base spirit here. The classic gin certainly works, as does rye, tequila, vodka, aquavit, Irish whiskey, scotch, or rum—you name it!
+    glassware: 
     ingredients:
     - Varnelli l’Anice Secco Speciale Liqueur
     - 1 ounce base spirit (your choice)
@@ -288,6 +307,7 @@ recipes:
   - name: Oaxaca Negroni
     author: Josh Trabulsi
     notes: It’s amazing how well the mezcal works in this drink. It’s a very difficult spirit to integrate into cocktails, but here it’s right at home in the glass.
+    glassware: 
     ingredients:
     - 1 ounce Del Maguey Vida Mezcal
     - 1 ounce Cocchi Barolo Chinato
@@ -302,6 +322,7 @@ recipes:
   - name: Bitter End
     author: Ted Kilgore
     notes: Ted has a cocktail style all his own, and he tends to go heavy on the octanes. But he ropes himself in here, just a little, and the resultant drink is, as we said in the seventies, “ice cool in space, baby!”
+    glassware: 
     ingredients:
     - 1½ ounces gin
     - ¾ ounce Martini & Rossi bianco vermouth
@@ -320,6 +341,7 @@ recipes:
   - name: Brooklyn Heights
     author: Robert Simonson
     notes: A few years ago I found myself looking for cocktails named after New York City neighborhoods, and I stumbled upon Robert Simonson’s blog, mentioned above, where I found a whole collection of suitable recipes. Robert agreed to allow me to use these, as long as I fessed up to having stolen them from his blog. Sounded like a good deal to me, so I ran with it! Thanks again, Robert.
+    glassware: 
     ingredients:
     - Campari, in a mister
     - 1½ ounces Rittenhouse 100 rye whiskey
@@ -336,6 +358,7 @@ recipes:
   - name: Mauro Mahjoub's Favorite Negroni
     author: Mauro Mahjoub
     notes: 
+    glassware: 
     ingredients:
     - 1 ounce Tanqueray London Dry gin
     - 1⅓ ounces Campari
@@ -350,6 +373,7 @@ recipes:
   - name: Negroni Club
     author: Mauro Mahjoub
     notes: 
+    glassware: 
     ingredients:
     - 1 ounce vanilla vodka
     - ⅔ ounce dry vermouth
@@ -366,6 +390,7 @@ recipes:
   - name: Negroni Futurista
     author: Mauro Mahjoub
     notes: 
+    glassware: 
     ingredients:
     - 1 ounce sloe gin
     - 1 ounce fino sherry
@@ -381,6 +406,7 @@ recipes:
   - name: Negroni Western
     author: Mauro Mahjoub
     notes: 
+    glassware: 
     ingredients:
     - 1 ounce bourbon
     - ⅔ ounce Lillet rouge
@@ -397,6 +423,7 @@ recipes:
   - name: Negroni del Nonno
     author: Mauro Mahjoub
     notes: 
+    glassware: 
     ingredients:
     - ⅔ ounce Del Nonno grappa
     - ⅔ ounce Punt e Mes
@@ -412,6 +439,7 @@ recipes:
   - name: East India Negroni
     author: Jim Meehan
     notes: According to Jim, “Lustau’s East India Solera sherry is similar in style to the fortified wine that botanist Joseph Banks might have stocked when he sailed with Captain James Cook, the British explorer, in the late 1700s, and it’s a great stand-in for sweet vermouth in this sugarcane-based variation on the classic gin drink.”
+    glassware: 
     ingredients:
     - 2 ounces Banks 5-Island Rum
     - ¾ ounce Lustau East India solera sherry
@@ -427,6 +455,7 @@ recipes:
   - name: Bottecchia
     author: Kevin Burke
     notes: Burke says, “When we created the Bottecchia cocktail, we wanted it to be a Negroni variation, but in the spirit of Spinal Tap we wanted to turn it up to 11. Fernet-Branca replaced the gin, and Cynar was swapped in for the sweet vermouth. The salt tempers the bitterness of the amaro and adds a distinct savory element. We named the drink after Ottavio Bottecchia, a young professional cyclist who won the Tour de France in 1924 and wore the yellow jersey for the entire race (fifteen consecutive days). His life was cut short when he was found dead in 1927 of unknown causes. He was a known Socialist, and his politics put him in unpopular company.”
+    glassware: 
     ingredients:
     - 1 ounce Fernet-Branca
     - 1 ounce Cynar
@@ -442,6 +471,7 @@ recipes:
   - name: House of Payne
     author: Phil Ward
     notes: Phil says, “This drink is named for Desmond Payne, who arguably makes the best gin in world.” Desmond Payne is the master distiller for Beefeater London Dry gin. He’s painstakingly exacting—and a creative mastermind if ever there was one. Hanging with Desmond can be a very educational experience. He’s lots of fun, too!
+    glassware: 
     ingredients:
     - 1 fresh raspberry
     - 1 ounce Campari
@@ -457,6 +487,7 @@ recipes:
   - name: Knickroni
     author: Frederic Yarm
     notes: "Fred, who is a concept cocktailian, explained this drink’s origins thusly: “Ever since John Gertsen, who was at No. 9 Park in Boston at the time, told me about his intrigue with the Knickebein, Leo Engel’s nineteenth-century pousse-café with an unbroken egg yolk in the middle, I have taken to the drink as a good rite of passage. With the autumnal leaf change coming on, I was thinking about red and yellow drinks, and the vision of a strange merger of a Negroni and a Knickebein occurred. The idea of changing around Leo’s recipe was spawned a while ago from the fact that his version’s liqueur choices don’t hold up to the modern palate, but the Negroni seemed fitting for the fall color theme. I was quite pleased with the results.”"
+    glassware: 
     ingredients:
     - ½ ounce sweet vermouth
     - ½ ounce Campari
@@ -472,6 +503,7 @@ recipes:
   - name: Bittersweet Symphony
     author: Jeffrey Morgenthaler
     notes: Cocktails are often referred to as “symphonies in a glass,” and this one is, indeed, bittersweet. Jeffrey’s creative juices rise well above sea level in this relatively simple drink. Jeffrey, I promise to recognize you next time we meet!
+    glassware: 
     ingredients:
     - 1½ ounces London Dry gin
     - ¾ ounce Punt e Mes
@@ -486,6 +518,7 @@ recipes:
   - name: French Negroni
     author: Ludovic Miazga
     notes: "Ludovic provided the following backstory for this elegant, orange-scented libation: “The French Negroni is a twist on my favorite aperitif cocktail. Instead of using gin, I use Grey Goose L’Orange (inspired by the garnish of a classic Negroni), along with Noilly Prat sweet vermouth and Amer Picon (a great substitute for Campari). I serve it in a rocks glass, but the original was created in France, in Cognac (the home of Grey Goose), and was prepared in a cognac snifter and garnished with a wedge of blood orange. I sometimes like to use a grapefruit twist for enhanced citrus fragrance. In terms of measurements, this is my favorite recipe, but of course it can be made with equal parts of all three spirits or adjusted depending on whether the drinker wishes it to be more bitter, sweet, orangey, and so on.”"
+    glassware: 
     ingredients:
     - 1 ounce Grey Goose L’orange Vodka
     - ⅔ ounce Amer Picon
@@ -499,6 +532,7 @@ recipes:
   - name: Brazilevardier
     author: Matty Durgin
     notes: "Here’s how Matty describes this refreshing quaff: “The earthy flavor of the cachaça, the rhubarb and bitter-orange notes of the Aperol, and the vermouth all swim in harmony, and the fresh sugarcane finish from the cachaça rounds things off ever so soundly. I give it a good long stir (20 seconds or so) and then decant from about 24 inches above the cocktail glass to aerate.”"
+    glassware: 
     ingredients:
     - 1 ounce Boca Loca cachaça
     - 1 ounce Punt e Mes
@@ -514,6 +548,7 @@ recipes:
   - name: Caricature Cocktail
     author: Gary Regan
     notes: This drink is actually a rip-off of a drink called the Old Flame, created by Dale DeGroff. I played around with Dale’s formula a little, then named the drink in honor of Dale’s wife, Jill DeGroff, a graphic artist who executes fabulous caricatures of the world’s leading cocktailian bartenders.
+    glassware: 
     ingredients:
     - 1½ ounces gin
     - ½ ounce sweet vermouth
@@ -531,6 +566,7 @@ recipes:
   - name: Dog and Pony
     author: Jill Saunders
     notes: "This Negroni variation has literary origins, as Jill explains: “I created this drink, a twist on both the Negroni and the Dog’s Nose cocktail, which is mentioned in Charles Dickens’s Pickwick Papers, as a tribute to Mr. Walker, the character in the Pickwick Papers who lost the use of his right hand after drinking too many Dog’s Noses. He became a member of the Brick Lane Temperance Society in East London, so with that in mind, this is my cockney version of the Negroni (Dog and Pony in rhyming slang). I like to think that if Walker had ever changed his mind about the whole Temperance thing and Campari had been around back then, he might have ordered this down at his local gin palace.”"
+    glassware: 
     ingredients:
     - 1⅓ ounces Tanqueray No. Ten gin
     - ⅔ ounce Chocolate Porter Reduction
@@ -545,6 +581,7 @@ recipes:
   - name: Bridgetown Stomp
     author: Julie Reiner
     notes: According to Julie, this Negroni was created on a whim a while ago when she was working at Lani Kai, her New York tiki club that has since closed. Apparently mixology consultant Toby Maloney dropped in to see Julie, and he asked her to make him whatever she liked. This drink became her house Negroni—and it was one of the most popular boozy drinks on the menu. To make the Demerara syrup, simply combine equal parts, by volume, of water and Demerara sugar; heat and stir until the sugar dissolves and allow it to cool to room temperature. Keep in the refrigerator.
+    glassware: 
     ingredients:
     - 2 ounces Cockspur 12-Year rum
     - ½ ounce Cinzano sweet vermouth
@@ -562,6 +599,7 @@ recipes:
   - name: Street & Smith
     author: Katie Stipe
     notes: Katie says, “I created this drink at Clover Club because I really wanted a cocktail with mezcal on the menu. I was also working with Phil Ward over at newly opened Mayahuel, where the cocktail menu is entirely made up of agave-based drinks. I could see guests’ excitement over this mysterious spirit of smoke and earth, and I knew that mezcal was really going places.”
+    glassware: 
     ingredients:
     - 1½ ounces blanco tequila
     - ½ ounce mezcal
@@ -577,6 +615,7 @@ recipes:
   - name: Mañanita
     author: Joaquín Simó
     notes: 
+    glassware: 
     ingredients:
     - ½ ounce Punt e Mes
     - ½ ounce Dolin rogue vermouth
@@ -592,6 +631,7 @@ recipes:
   - name: Negroni Hors Pair
     author: Colin Peter Field
     notes: Before I turn you over to Colin, I should tell you that the recipe below was created by a bartender in Germany whose name we don’t know, and that the name of this drink, Negroni Hors Pair (the Peerless Negroni), is something I conjured up after reading Colin’s account below. Okay, over to Colin. “I was recently judging a marvelous competition sponsored by Campari in Munich. Mauro Mahjoub from Mauro’s Negroni Club was the host, along with the incredible Charles Schumann, who was a host one evening. Mahjoub’s new bar is very large, and his bartenders are loaded with professionalism. The atmosphere was stupendous. “One young lady, who hardly trembled as she displayed her talent hors pair [peerless talent] completely seduced me with her Negroni recipe. I wish that I trembled so little in competitions, and I wish that I had invented this cocktail. I also wish that I had written down her name, but I hope that she reads this and spontaneously manifests herself to us. She didn’t win the competition, but her cocktail was the one that inspired me the most. I was enthralled by the taste and its mysterious darkness, which seems to befit Comte Negroni’s cocktail… The young woman saw how much I loved her cocktail and offered me a bottle of 15-year-old balsamic vinegar. I’m almost sure that I will never see her again, but I will always remember the few minutes that I passed with her and her cocktail. For that matter, I don’t even remember the name of the cocktail, perhaps because this was the real Negroni.”
+    glassware: 
     ingredients:
     - 1 ounce Beefeater 24 London Dry gin
     - 1 ounce Taylor Fladgate 20-Year port
@@ -607,6 +647,7 @@ recipes:
   - name: Uncle Negroni
     author: Michele Fiordoliva
     notes: "Michele says, “Because we have lot of American guests [at the Negroni Bar], I thought about making a Negroni to please the American palate. Then of course I needed a good American ingredient: bourbon.” This is a great post-prandial potion."
+    glassware: 
     ingredients:
     - ⅔ ounce Elijah Craig 12-Year bourbon
     - 1 ounce Carpano Antica Formula sweet vermouth
@@ -623,6 +664,7 @@ recipes:
   - name: Buñueloni
     author: Jeff “Beachbum” Berry
     notes: "Jeff provided an intriguing account of the origins of this drink: “It was created in about 1954 by one of my favorite film directors, Luis Buñuel (Un Chien Andalou, The Discreet Charm of the Bourgeoisie). He once dared actor Jaime Fernandez, ‘If you drink four of these, I’ll give you a film.’ Fernandez had to admit defeat after two. Buñuel’s producer Serge Silberman gave the recipe to Buñuel biographer John Baxter in the 1990s, and I tweaked it slightly to create this version.”"
+    glassware: 
     ingredients:
     - 2¼ ounces Beefeater London Dry gin
     - 1 ounce sweet vermouth
@@ -637,6 +679,7 @@ recipes:
   - name: Gaijin
     author: Kirsti Kinservik
     notes: Gaijin means “foreigner” in Japanese, and this Negroni variation makes great use of one of the fine whiskeys that country is producing these days.
+    glassware: 
     ingredients:
     - 1½ ounces Akashi white oak blended whiskey
     - 1 ounce Bigallet China-China Amer
@@ -652,6 +695,7 @@ recipes:
   - name: Mela D'Alba
     author: Andrew Friedman
     notes: "Here’s what Andrew has to say about how he fortuitously stumbled upon this creation: “This is a delicious variant of the Negroni. I made it by accident when I was reaching for the Rittenhouse rye to make a variant in and of itself of the Boulevardier but mistakenly grabbed the Laird’s next to it. I measured, mixed, and stirred it, then gave it a taste and realized that something was different—wonderfully different. This is one of those drinks with a combination of spirits that creates a whole new flavor.”"
+    glassware: 
     ingredients:
     - 2 ounces Laird’s Bonded Apple Brandy
     - 1 ounce sweet vermouth
@@ -666,6 +710,7 @@ recipes:
   - name: My Fave!
     author: Moses Laboy
     notes: "Moses is justifiably enthused about his sophisticated Negroni variation: “My play on the Negroni is hands down my favorite cocktail: sweet, bitter, and boozy all in one glass!”"
+    glassware: 
     ingredients:
     - 1½ ounces Bulleit Bourbon Infused with Skillet-Roasted Figs and Pears
     - 1 ounce Dolin sweet vermouth
@@ -680,6 +725,7 @@ recipes:
   - name: Alexandria Hotel Cocktail, AKA Spring Street District Cocktail
     author: Marcos Tello
     notes: This cocktail, created by the fabulous Marcos Tello of Los Angeles, was brought to this book courtesy of Ted Munat, author of Left Coast Libations. The drink uses cachaça, a sugar-based Brazilian spirit that can be thought of as a style of rum, but Ted notes that “this isn’t your stereotypical muddled fruit and lime juice cachaça drink. The Alexandria Hotel Cocktail first saw light of day in 2009, when Marcos helped to put together the Los Angeles Sub-District Cocktail Competition. His idea was to emulate New York City, which early on had the Manhattan, Bronx, and Brooklyn cocktails, then later the Red Hook, Greenpoint, Little Italy, Bensonhurst, and so on. Marcos even went so far as to emulate the style of these signature New York City drinks, making it a rule of the competition that the drinks must be stirred cocktails made using a base spirit, modifying vermouth, liqueur or a sweetening agent, and some type of bitters, without citrus, homemade ingredients, or extremely obscure, hard-to-find ingredients.” The old Alexandria Hotel was an iconic Los Angeles spot and, according to Tello, “a magnet for old, glamorous Hollywood. Even the carpet was called ‘the million dollar carpet,’ because it was said that a million dollars in business was done there every day.”
+    glassware: 
     ingredients:
     - 1 ounce silver cachaça
     - 1 ounce Campari
@@ -696,6 +742,7 @@ recipes:
   - name: Camillo en Xela
     author: Max la Rocca
     notes: "Max, one of my favorite bartenders—we go back a few years at this point—told me the following about his Negroni variation: “The drink I made for this precious little book is called Camillo in Xela, Xela being the indigenous name for Quetzaltenango, the city in Guatemala where the House of Zacapa is located. The rum used in this recipe is aged at over 7,500 feet in elevation. Of course you all know who Camillo is…“ Being from Italy, where coffee is a very important element of the culture, I was curious to play with the toasted flavor of this amazing ingredient. It echoes the bitterness of the Campari and complements the complexity of the Carpano Antica Formula sweet vermouth and the beautiful hints of vanilla, almond, and chocolate of the Zacapa 23. The coffee is also fitting, given that the Zacapa comes from Guatemala, one of the world’s leading producers of coffee.”"
+    glassware: 
     ingredients:
     - 8 coffee beans
     - 1 ounce Zacapa 23-Year rum
@@ -712,6 +759,7 @@ recipes:
   - name: Pepper Negroni
     author: Jason Walsh
     notes: The genius in this cocktail lies in the serrano-infused Chartreuse—it’s an inspired touch—but I strongly advise that you taste the infusion after 12 hours, then every 2 hours after that, straining the mixture before the chiles take over the liqueur. Just trust your senses on this.
+    glassware: 
     ingredients:
     - 1 ounce Plymouth gin
     - 1 ounce Dolin sweet vermouth
@@ -726,6 +774,7 @@ recipes:
   - name: D.O.M.E. Negroni
     author: Mihai Fetcu
     notes: Mihai is one of the most prominent bartenders in Romania, a country that seems to have way more cocktailian genii than you might think. Mihai’s use of genever in this drink is inspired—it takes the heavy vanilla edge off the Carpano Antica Formula sweet vermouth, and it also play nice with the rest of the ingredients.
+    glassware: 
     ingredients:
     - 1 ounce Bols Barrel-Aged Genever
     - ⅓ ounce Carpano Antica Formula sweet vermouth
@@ -744,6 +793,7 @@ recipes:
   - name: Pizza Negroni
     author: Morgan Schick
     notes: While this cocktail sounds like the invention of a stoned teenager in his parents’ basement, in fact it’s a deliciously savory, wonderfully refined drink.
+    glassware: 
     ingredients:
     - 1 ounce Aviation Gin Infused With Mozzarella and Parmesan
     - 1 ounce Martini & Rossi Gran Lusso vermouth
@@ -761,6 +811,7 @@ recipes:
   - name: Negroni de Provence
     author: Nicolas de Soto
     notes: "Nicolas is clearly on board with the concept of this book: “For me, the Negroni is the perfect all-time drink. You can do so many variations using different levels of juniper, bitterness, and sweetness to please different palates. Unless you hate bitterness, it’s a drink for everyone.”"
+    glassware: 
     ingredients:
     - 1¼ ounces Citadelle Gin Infused With Lavender
     - ¾ ounce Lillet Blanc Infused With Herbs de Provence
@@ -774,6 +825,7 @@ recipes:
   - name: Southpaw
     author: Joseph Boley
     notes: According to Joseph, “This is a direct variation of Sam Ross’s Left Hand Cocktail, which appeared in Jim Meehan’s PDT Cocktail Book. The Left Hand is named after Al Pacino’s character Lefty Ruggiero in Donnie Brasco. I wanted to create a meaner drink to represent the hitman. For the bourbon, my go-to in France, where the selection is limited, is Four Roses single-barrel.”
+    glassware: 
     ingredients:
     - 1 ounce good bourbon
     - ½ ounce Punt e Mes
@@ -790,6 +842,7 @@ recipes:
   - name: Piscoroni
     author: Gary Regan
     notes: Right before I put this book to bed, my friend Diego Loret de Mola, from BevMax in Connecticut, sent me a care package that was chockablock full of BarSol pisco, and it also contained a couple of bottles of Perfecto Amor, a fortified wine similar to sherry that gets its kick from a shot of pisco brandy that’s added to the base wine before bottling. Hmm…, I thought. Watch the measurements on this one—Perfecto Amor can be a dominant soul. And don’t overdo the Angostura! By the way, if you can’t find Perfecto Amor in your neck of the woods, you can use amontillado sherry in its stead.
+    glassware: 
     ingredients:
     - 2 ounces BarSol Selecto Italia pisco
     - 1 ounce Noilly Prat sweet vermouth 
@@ -806,6 +859,7 @@ recipes:
   - name: Pousse-Port Negroni
     author: Domingo-Martin Barreres
     notes: Domingo is an artist behind the bar, and he takes his craft very seriously, as you’ll discover if you make this drink. He’s also a darned good chap to hang at airport bars with. Trust me on this.
+    glassware: 
     ingredients:
     - 1½ ounces Bombay Sapphire East Dry gin
     - 1½ ounces Ramos Pinto Reserva port
@@ -820,6 +874,7 @@ recipes:
   - name: Stiletta
     author: Phil Ward
     notes: "Cocktail genius Phil Ward didn’t pull any punches when he described this drink’s origins: “I was hungover and drinking Campari and soda while doing my chores at the bar. I was mulling cider and putting in the star anise just as I took a sip of Campari. I was like, Wow, could those two tyrants actually coexist? I tried it. They did.”"
+    glassware: 
     ingredients:
     - 1½ ounces El Tesoro Blanco tequila 
     - 1 ounce Carpano Antica Formula sweet vermouth
@@ -833,6 +888,7 @@ recipes:
   - name: Unusual Negroni
     author: Charlotte Voisey
     notes: Charlotte says, “I like a delicate touch, especially when it comes to Negronis. This variation is a light alternative, great for first timers.”
+    glassware: 
     ingredients:
     - 1 ounce hendrick's gin
     - 1 ounce Lillet Blanc
@@ -849,6 +905,7 @@ recipes:
   - name: Bottle-Aged and Vint-Aged Negronis
     author: Tony Conigliaro
     notes: Makes 76 ounces; serves about 25. Tony is one of the world’s preeminent bartenders, and the man behind 69 Colebrooke Row—a fantastic, wildly inventive bar in London’s Islington neighborhood. Tony is known for doing weird and wonderful things with cocktails—including using tools and techniques from molecular gastronomy, like Rotavapors and sous-vide machines, to create custom ingredients. But for all his technological wizardry, Tony still loves a good classic. He says, “I love Negronis because to me they are the signifier for aperitivo. As an Italian, I so appreciate that as a cultural concept. The aperitivo says, Work is over. It’s time to open your palate and start to enjoy your night! But being me, I couldn’t just let the Negroni be a Negroni! I wanted to see what else I could do with it—what other directions it could take. “I first started aging Negronis five years ago. We had great success with Manhattans and wanted to see what else we could use the process with. When you age a cocktail, it mellows considerably; the different spirits combine on a molecular level and come together beautifully. We started flash-fusing ingredients for the Negroni in the sous-vide to see if we could approximate the effect of aging without the time commitment. We experimented with periods between one and twenty-four hours. “We found that the longer you cooked it, the more it tasted like it had been aged in the bottle for a long time. We started serving these ‘vint-aged’ Negronis at the bar, and they were a great hit. It was fantastic to discover something that created the effect of aging without having to stick a lot of bottles in the cellar! ”Few people have access to sous-vide machines, and I’m not one of the few, so instead of flash-fusing (combining the three ingredients, vacuum-sealing them in a bag, and dropping it into a sous-vide machine for a certain amount of time), I allow my vint-aged Negronis to mature slowly, in bottles. It takes longer, but you get there in the end. The bottled Negronis make great favors to take to parties. When you open and serve them—over ice in a double old-fashioned glass—be sure to have some freshly cut Orange twists handy for garnishes.
+    glassware: 
     ingredients:
     - 1 (750mL) bottle gin
     - 1 (750 mL) bottle Campari
@@ -862,6 +919,7 @@ recipes:
   - name: Barrel-Aged Negronis
     author: Jeffrey Mogenthaler
     notes: "Makes about 3 gallons; serves about 128. Jeffrey has been, and continues to be, a leading force in the twenty-first-century bartending and cocktailian movement. He visited Tony Conigliaro at 69 Colebrooke Row in London in 2010 and, inspired by Conigliaro’s Manhattans aged in glass vessels, he returned to Portland to try his hand at barrel-aged cocktails, which he calls “a decidedly American curiosity.” On his popular, eponymous blog, Jeffrey Morgenthaler discusses his approach: “The rub of aging cocktails in a glass bottle is that the whole premise is built upon subtlety, as we know that spirits aged in glass or steel do so at an unremarkable pace. Being from the United States, where—as everyone is aware—bigger equals better, I pondered the following question: What if you could prepare a large batch of a single, spirit-driven cocktail and age it in a used oak barrel?“ A hundred some-odd dollars in liquor later, I was nervously pouring a gallon of pre-batched rye Manhattans into a small, used oak cask whose previous contents were Madeira wine. I plugged the barrel and sat back in anxious anticipation. If the experiment was a success, I’d have a delicious cocktail to share at the bar; if it was a failure, then I’d be pouring the restaurant’s money down the floor drain. “Over the next several weeks I popped open the barrel to test my little concoction until I stumbled upon the magic mark at five to six weeks. And there it was, lying beautifully on the finish: a soft blend of oak, wine, caramel, and char. That first batch sold out in a matter of days, and I was left with a compelling need to push the process even further.” Morgenthaler’s Manhattan project was a success, and he soon moved on to Negronis: “After six weeks in the bourbon barrel, our Negroni emerged a rare beauty: the sweet vermouth so slightly oxidized, the color paler and rosier than the original, the mid-palate softly mingled with whiskey, the finish long and lingering with oak tannins. We knew we were onto something unique and immediately made plans to take the cask-aging program to the next level.” Now even home bartenders are exploring barrel aging, benefiting from the fact that it’s quite easy to order used (or new) oak barrels online. One reliable source for used whiskey barrels is the online store at Tuthilltown Spirits in New York. They sell 3-gallon charred oak barrels that were previously used for whiskey. Three gallons yields about 128 drinks—perfect for a large party, a wedding, or a particularly boozy family reunion. Morgenthaler decants his cocktails into glass vessels. However, you can also drill a hole into the side of the barrel and insert a spigot; any home brew, wine-making, or vinegar-making shop should supply spigots, and they might even drill the hole for you."
+    glassware: 
     ingredients:
     - 5 (750 mL) bottles dry gin
     - 5 (750 mL) bottles sweet vermouth
@@ -875,6 +933,7 @@ recipes:
   - name: GFE Negroni
     author: Jim Guerts
     notes: Makes about 23 ounces; serves about 7. This drink is named for Don Julio González-Frausto Estrada, the founder of Don Julio tequila. Jim Geurts recommends that you allow the bottled cocktail to rest for at least a few days, preferably a week, before serving. He notes that he once allowed a bottle to age for eight months and says, “The flavors keep changing.”
+    glassware: 
     ingredients:
     - 6 ounces Don Julio Reposado tequila
     - 5½ ounces Carpano Antica Formula sweet vermouth
@@ -892,6 +951,7 @@ recipes:
   - name: Strawberry Negroni
     author: Jared Brown & Anistatia Miller
     notes: Makes about 18 ouncecs; serves about 6. Jared and Anistatia are very good friends of mine, and although the attribution above suggests that they live in London, they actually dwell in the picturesque English countryside. Should you ever be lucky enough to visit them there, this is the sort of top-notch yet very simple treat you can expect to enjoy.
+    glassware: 
     ingredients:
     - 6 ounces Sipsmith V.J.O.P. gin
     - 6 ounces sweet vermouth
@@ -906,6 +966,7 @@ recipes:
   - name: Blackberry Bitter
     author: Dani Tatarin
     notes: Makes about 100 ounces; serves about 33. This punch is ideal for summertime parties. The orange zest really makes it come alive, and the blackberry garnishes are a special treat.
+    glassware: 
     ingredients:
     - 1 liter Plymouth gin
     - 1 liter Martini Bianco

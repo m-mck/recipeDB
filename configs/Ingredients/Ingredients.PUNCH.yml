@@ -1,802 +1,1160 @@
 source: "PUNCH"
 hidden: true
 recipes:
-  - name: Cardamom-Coriander Syrup
-    ingredients:
-      - 2 cinnamon sticks, broken up
-      - 1 1/2 teaspoons coriander seeds
-      - 1 tablespoon black cardamom pods
-      - 1/4 teaspoon red pepper flakes
-      - 4 ounces high-proof rum
-      - 15 ounces hot water
-      - 3/4 cup fine granulated sugar
-    steps:
-      - Preheat the oven to 450°F. 
-      - Spread the cinnamon sticks, coriander seeds, and cardamom on a rimmed baking sheet and toast in the oven, tossing occasionally to prevent burning, until fragrant but not burned, about 8 minutes.
-      - Combine the toasted spices, red pepper flakes, and rum in a blender, and blend on high speed until evenly ground, about 2 minutes.
-      - Meanwhile, in a separate container, combine the hot water and sugar, and stir until the sugar is completely dissolved.
-      - Set aside.
-      - Using a coffee filter or multiple layers of cheesecloth, strain the spice and rum mixture into the sugar syrup.
-      - Stir to combine.
-      - Transfer to a clean, sealable bottle or container.
-      - This syrup will keep, refrigerated, for 2 months.
-      - Shake thoroughly before using.
-      - As a substitute for the cardamom-coriander syrup, Volk recommends using 1/4 ounce St. Elizabeth Allspice Dram and 1 teaspoon of rich simple syrup (2:1, sugar:water).
-  - name: Teardrop's DIY Crème de Cacao
-    notes: "The crème de cacaos of the mid-19th century were meant to be consumed on their own, and despite their sweetness (their sugary viscosity, not the addition of dairy, is what earned them the “crème” moniker) balance was paramount. But as 20th-century cocktail culture swaggered in, the spotlight shifted to base spirits (whiskey, gin, etc.) and liqueurs went from stand-alone sippers to mere mixers. Thus, producers of liqueurs like crème allowed standards to wane—favoring higher levels sugar over nuance and relying on artificial coloring and oil extracts instead of actual cacao. But now, crème de cacao is seeing revival thanks to bars and bartenders making their own housemade versions that balance nuanced sweetness with the bitter beauty of chocolate. This rum-based recipe comes from Teardrop Lounge in Portland, Oregon."
-    ingredients:
-      - 1 3/4 cups cacao nibs
-      - 1/2 cup sugar
-      - 1/2 cup distilled water
-      - 1 750-ml bottle Lemon Hart 151 (demerara rum)
-    steps:
-      - Add sugar and water to a saucepan and set over medium heat.
-      - Bring to a low simmer and stir to dissolve sugar.
-      - Add cacao nibs, stirring constantly. The sugar will re-granulate and smoke a bit, until it begins to slowly caramelize and coat the cacao nibs. This process should take no more than 15 minutes.
-      - Remove from heat, and pour the cacao nibs onto a parchment-lined baking sheet. Let cool, then break up with a spoon.
-      - Reserve half of the nibs for your next batch, and place the remainder into an airtight container.
-      - Top off with the rum.
-      - Let steep for one week, then strain through cheesecloth.
-      - Measure remaining amount and mix with equal parts distilled water to bring to proof.
-      - Funnel into a bottle to serve.
-  - name: Strawberry Infused Suze-Cappelletti
-    notes: 
-    ingredients:
-      - 2 quarts of strawberries, quartered
-      - 25 ounces Suze
-      - 50 ounces Cappelletti
-    steps:
-      - Combine all ingredients in a nonreactive container and infuse for 24 hours. Fine strain.
-  - name: Monk's Tisane
-    notes: 
-    ingredients:
-      - 1 liter filtered water
-      - 3 grams dried mint
-      - 3 grams dried lemon verbena
-      - 1 1/2 grams dried orange flower
-      - 1 1/2 grams dried linden
-    steps:
-      - Combine water and herbs in a large jar, then let infuse in the refrigerator for 8 hours. Strain through a coffee filter.
-  - name: Jalapeño Tequila
-    notes: 
-    ingredients:
-      - 2 fresh jalapeños
-      - 1 1/2 cups silver tequila
-    steps:
-      - Cut the jalapeños lengthwise and extract the seeds and membranes; add them to a glass bowl. Discard the rest of the pepper. Add the tequila to the seeds and membranes and infuse for 10 to 20 minutes, depending on the heat of the peppers. Finally strain and bottle. Keep at room temperate for up to 1 month.
-  - name: Umami Bomb Infused Vermouth
-    notes: 
-    ingredients:
-      - 750 milliliters dry vermouth, preferably Dolin
-      - 90 grams chopped celery
-      - 30 grams cilantro stems
-      - 15 grams chopped white onion
-      - 6 grams huacatay
-      - 3 grams habanero, seeds removed
-      - 3 grams whole, peeled garlic
-    steps:
-      - Add all ingredients to a sous-vide bag, and cook sous vide at 130°F for 2 hours. Immediately transfer the bag into an ice bath. Once cool, strain the contents through a coffee filter into a clean, sealable container, discarding the solids. (Alternatively, combine all of the ingredients in a sealed bag and let sit at room temperature for 24 hours before straining.) Refrigerate in an airtight container for up to 2 weeks.
-  - name: Pornstar Milk Punch
-    notes: 
-    ingredients:
-      - 625 milliliters vodka, preferably Absolut
-      - 500 milliliters vanilla syrup (see Editor’s Note)
-      - 300 milliliters passion fruit pulp
-      - 250 milliliters lime juice
-      - 200 milliliters white rum, preferably Copalli
-      - 125 milliliters blanc vermouth
-      - 500 milliliters whole milk
-    steps:
-      - Add all ingredients except the milk to a large container.
-      - Slowly pour milk into the mixture.
-      - Cover and refrigerate for 24 hours.
-      - After 24 hours, strain the mixture through a fine cheesecloth (or other cloth, such as chef’s coats or superfine linens). Repeat as needed, straining until the mixture is completely clear.
-  - name: Vanilla Syrup
-    notes: 
-    ingredients:
-      - 500 grams white sugar
-      - 250 milliliters water
-      - 1 1/2 teaspoons vanilla paste
-    steps:
-      - Add all ingredients to a vacuum-sealed bag. Cook sous vide for 30 minutes at 58°C (136°F). Mix to dissolve all of the sugar. Double fine-strain through a chinois, then bottle, label and store for use.
-  - name: Black Tea-Infused Bourbon
-    notes: 
-    ingredients:
-      - 750 ml bourbon
-      - 1/2 ounce Ceylon orange pekoe tea
-    steps:
-      - Combine 750 milliliters bourbon, preferably Elijah Craig 12-Year-Old, and 1/2 ounce Ceylon orange pekoe tea in a nonreactive container. Infuse for 12 minutes at room temperature. Fine-strain and bottle.
-  - name: Lemon Simple Syrup
-    notes: 
-    ingredients:
-      - 8 lemons
-      - 24 ounces 1:1 simple syrup
-    steps:
-      - Remove zest from 8 lemons using a microplane. Combine lemon zest with 24 ounces of simple syrup (1:1, sugar to water). Infuse for 10 minutes at room temperature. Fine-strain, bottle and store in the refrigerator.
-  - name: Moroccan Mint Tea Syrup
-    notes: 
-    ingredients:
-      - Gunpowder green tea
-      - Hot water
-      - Mint sprigs and leaves
-      - Sugar
-    steps:
-      - Add 24 grams of gunpowder green tea to a pot. Add 227 grams of hot water to the pot and swish. Strain the tea concentrate into a separate container and set aside. Add the strained tea leaves back into the pot and top off with 1 cup of hot water. Swish five times, then strain and discard the water. (The second tea infusion leeches out impurities from the opened tea buds and must be discarded or the syrup will be bitter and unpleasant.)
-      - Pour the first tea concentrate back into the pot with the now-cleaned tea leaves and top off with 680 grams of hot water. Set the pot on the burner and bring to a boil on low-medium heat. Once the infusion is boiling, take it off the heat and add in 473 grams of mint sprigs and leaves; a strong mint aroma should start to permeate the air from the tea. Pour about a third of the liquid out of the pot into a separate container then pour back into the pot to fully incorporate the tea and mint flavors. Repeat three times. Do not stir.
-      - Once the tea has been aerated, pour it into a container, straining out the tea leaves and mint, lightly pressing the remaining moisture out of them. Weigh the amount of tea made, discounting the container, then add an equal amount by weight of white sugar (roughly 907 grams) and stir until sugar is dissolved. Let the syrup cool and store in the refrigerator. Keeps for 3 weeks.
-  - name: Gochujang Honey Syrup
-    notes: 
-    ingredients:
-      - 2 ounces CJ Haechandle gochujang paste (contains wheat (can sub in Chung Jung One gochujang paste if gluten-intolerant))
-      - 16 ounces water
-      - 8 oz sugar
-      - 8 oz honey
-    steps:
-      - Bring water to a boil and add the gochujang paste. Turn off the heat and whisk together to dissolve the paste then let it sit for 15 minutes. Add the sugar and honey over low heat and whisk together until everything is dissolved. Strain the syrup through a 100-micron filter bag, let cool, package, label and date. Keep refrigerated.
-  - name: Smoked Strawberry Syrup
-    notes: 
-    ingredients:
-      - 1 pint strawberries
-      - 1 cup water
-      - 1 cup sugar
-    steps:
-      - To make smoked strawberry syrup, cut 1 pint of strawberries into halves and place in a meat smoker for about 30 minutes. Then add strawberries and 1 cup of water to a pot and bring to boil. Add 1 cup of sugar, and stir to dissolve. Turn off heat and allow mixture to cool before storing in the refrigerator in an airtight container.
-  - name: Cinnamon Syrup
-    notes: 
-    ingredients:
-      - 75 grams cinnamon
-      - 4 1/4 cups water
-      - 4 1/4 cups sugar
-    steps:
-      - Toast cinnamon briefly, without burning. Bring water and cinnamon to a boil and turn down heat. Simmer 15 minutes. Strain and pour liquid into Vita-Mix or blender. Add sugar and blend until smooth.
-  - name: Lemongrass Cordial
-    notes: 
-    ingredients:
-      - 1 cup sugar
-      - 1 cup water
-      - 1 lemongrass stalk, chopped and smashed
-      - 1 1/2 limes
-    steps:
-      - Combine the sugar and water in a saucepan over low heat until sugar has dissolved. Add the lemongrass and the zest and juice from the limes. Heat for 30 minutes, but do not boil. Fine strain and store in the refrigerator.
-  - name: MSG Solution
-    notes: 
-    ingredients:
-      - MSG
-      - cold water
-    steps:
-      - Combine equal parts MSG and cold water, stir until the MSG is dissolved.
-  - name: Sun-Dried Lime Cordial
-    notes: 
-    ingredients:
-      - 7 ounces sun-dried limes (approximately 4 sun-dried limes)
-      - 1 quart water
-      - 400 grams (just over 1 1/2 cups) white sugar
-    steps:
-      - Combine all ingredients in a saucepan over low heat for 10 minutes. Strain and let cool. Keeps, refrigerated, for about two weeks.
-  - name: Lime-Ginger Cordial
-    notes: 
-    ingredients:
-      - 36 limes
-      - 5 pounds white sugar
-      - 2 cups fresh ginger juice (from 1.5-2 pounds ginger)
-    steps:
-      - Clean and peel 36 limes. Collect peels and the peeled fruit in separate large sealable containers. Cover peels with 5 lbs of white sugar. Shake and mix them until the peels are completely immersed in and mixed with the dry sugar. Leave at room temperature overnight to make oleo saccharum, a slurry of the aromatic citrus oil extracted by the sugar through capillary action.
-      - Juice the peeled fruit and add juice to the oleo saccharum, stirring it with elbow grease for 5-10 minutes to break up the lumps and incorporate all. Let rest at room temperature for at least 24 hours to incorporate. Stir again to incorporate any remaining sugar and then strain off the peels through a mesh sieve. At this point you have lime cordial.
-      - Next, add about 2 cups of fresh ginger juice to the mix to make lime-ginger cordial. To make fresh ginger juice at home, take 1.5-2 lbs of fresh ginger, peel and chop it into 1" pieces, and put it into a blender in batches, using the cordial to liquefy it. Let it sit with the cordial another 24 hours and then restrain it off into an airtight container and refrigerate until needed.
-  - name: Lime Syrup
-    notes: 
-    ingredients:
-      - 1 quart simple syrup (1:1, sugar:water)
-      - 6 limes
-    steps:
-      - Make simple syrup as usual and grate in the zest of six limes. Bring to a low boil for five minutes. Allow to cool, then strain and store.
-  - name: Coco Syrup
-    notes: 
-    ingredients:
-      - 1/4 cup coconut milk powder, preferably Coconut Dream
-      - 200 grams sugar
-      - 200 grams water
-      - 4-5 cans of unsweetened coconut milk
-    steps:
-      - Chill the cans of unsweetened coconut milk for 24 hours. Separate the solid fats from the liquid until you have 2 cups of fat and discard the liquid. Combine all the ingredients in a pot over low heat and blend using an immersion blender.
-  - name: Cinnamon Syrup
-    notes: 
-    ingredients:
-      - 50 grams Saigon cinnamon powder
-      - 400 grams water
-      - sugar
-    steps:
-      - Combine the water and the cinnamon in a pot and simmer for 20 minutes. Fine strain the mixture through a chinois lined with a cheesecloth. Add equal parts sugar by weight and bottle.
-  - name: Cinnamon Syrup
-    notes: 
-    ingredients:
-      - 1 cup simple syrup (1:1, sugar:water)
-      - 7 grams cinnamon (about 2 cinnamon sticks)
-    steps:
-      - Combine ingredients in a saucepan over heat until boiling. Remove from heat and let sit for 12 hours before straining and storing in a sealable container.
-  - name: Burnt Demerara Syrup
-    notes: 
-    ingredients:
-      - Aged rum
-      - Demerara sugar
-    steps:
-      - Combine equal parts aged rum and demerara sugar in a saucepan over medium heat until sugar begins to caramelize. Then, combine the caramelized demerara sugar with water in a ratio of 2:1 and heat until sugar completely dissolves.
-  - name: Acid-Adjusted Pineapple Juice
-    notes: 
-    ingredients:
-      - 200 millileters pineapple juice
-      - 6.4 grams citric acid
-      - 4 grams malic acid
-    steps:
-      - Combine all ingredients in a quart container. Blend with a milk frother until dissolved.
-  - name: Clarified Lime Juice
-    notes: 
-    ingredients:
-      - 1000 mL room temperature lime juice
-      - 4 mL Pectinex Ultra SP-L
-      - 4 mL Kieselsol
-    steps:
-      - "Start with 1000 mL room temperature lime juice. Add 4 mL Pectinex Ultra SP-L and 4 mL Kieselsol and wait 15 minutes. Add 4 mL Chitosan and wait 15 minutes. Add 4 mL Kieselsol and wait 15 minutes. At this point it should be clearly visible that the juice has 'broken.' There will be a layer of clear juice suspended between two thicker cloudy layers. Spin in a Spinzall or lab centrifuge set to 4500 RPM for 15 minutes, or wait at least an additional hour and strain through a paper filter. Note: Kieselsol and Chitosan will not work without Pectinase, but you can get 80 percent of the results with just Pectinase."
-  - name: Clarified Pineapple Juice
-    notes: 
-    ingredients: 
-      - 1000 mL room temperature pineapple juice
-      - 4 mL Pectinex Ultra SP-L
-      - 4 mL Kieselsol
-    steps:
-      - "Start with 1000 mL room temperature pineapple juice. Add 4 mL Pectinex Ultra SP-L and 4 mL Kieselsol and wait 15 minutes. Add 4 mL Chitosan and wait 15 minutes. Add 4 mL Kieselsol and wait 15 minutes. At this point it should be clearly visible that the juice has 'broken.' There will be a layer of clear juice suspended between two thicker cloudy layers. Spin in a Spinzall or lab centrifuge set to 4500 RPM for 15 minutes, or wait at least an additional hour and strain through a paper filter. Note: Kieselsol and Chitosan will not work without Pectinase, but you can get 80 percent of the results with just Pectinase."
-  - name: Pineapple Syrup
-    notes: 
-    ingredients:
-      - 500 grams pineapple juice
-      - 360 grams sugar
-      - 2 grams citric acid
-    steps:
-      - Add all ingredients to a container and stir to dissolve.
-  - name: Saline Solution
-    notes: 
-    ingredients:
-      - 80 grams water
-      - 20 grams kosher salt
-    steps:
-      - Add to a container and stir to dissolve. Store in a dropper bottle indefinitely.
-  - name: Lychee Syrup
-    notes: 
-    ingredients:
-      - 1 cup water
-      - 1 cup white cane sugar
-      - 1 cup lychee, chopped (peeled, seeds removed, if using fresh fruit)
-    steps:
-      - In a small saucepan, bring the water to a boil. Add the sugar and stir until dissolved. Turn off heat and add the lychee. Stir and let sit for 2 hours. Strain into a resealable container.
-  - name: Pinipig Tincture
-    notes: 
-    ingredients:
-      - 1 cup 100-proof neutral grain alcohol, such as Everclear
-      - 1 cup pinipig (flattened and dried sweet rice grains; can be found at certain Asian markets or online.)
-    steps:
-      - Add ingredients to a resealable container and let sit for 6 hours. Strain the mixture using a cheesecloth, making sure to squeeze out any extra liquid from the pinipig. Pour tincture into an atomizer.
-  - name: Absinthe Bitters
-    notes: 
-    ingredients:
-      - 3 cups Pernod 68 absinthe
-      - ½ cup green Chartreuse
-      - 1 teaspoon Peychaud’s bitters
-      - 1 teaspoon Angostura bitters
-      - 2 tablespoons mint bitters, preferably Fee Brothers
-    steps:
-      - Combine all ingredients and funnel into a bottle, cover or cork and gently turn it upside down three times to blend thoroughly. Store at room temperature. Will keep indefinitely.
-  - name: Lemongrass Cordial
-    notes: 
-    ingredients:
-      - 1 cup sugar
-      - 1 cup water
-      - 1 lemongrass stalk, chopped and smashed
-      - 1 1/2 limes
-    steps:
-      - Combine the sugar and water in a saucepan over low heat until sugar has dissolved. Add the lemongrass and the zest and juice from the limes. Heat for 30 minutes, but do not boil. Fine strain and store in the refrigerator.
-  - name: MSG Solution
-    notes: 
-    ingredients:
-      - MSG
-      - cold water
-    steps:
-      - Combine equal parts MSG and cold water, stir until the MSG is dissolved.
-  - name: Mango Colada Milk Punch
-    notes: 
-    ingredients:
-      - 375 ml coconut syrup (see below)
-      - 250 ml mango puree
-      - 1/2 liter pineapple juice
-      - 1/2 liter rum, preferably Plantation 3 Star
-      - 375 ml rum, preferably Ron Zacapa 23
-      - 1/2 liter whole milk
-      - 162.5 ml lime juice
-    steps:
-      - Mix all ingredients, except for milk, in a large container.
-      - Add milk to a separate container, and slowly pour the mix into the milk.
-      - Mix gently and let sit, refrigerated, overnight.
-      - Filter the mixture gently through a coffee filter to remove curds, careful not to break curds.
-  - name: Toasted Coconut Syrup
-    notes: 
-    ingredients:
-      - 1/2 quart coconut flakes
-      - 25 ounces coconut milk
-      - 2 cans Coco Lopez
-      - 1/2 quart Demerara sugar
-    steps:
-      - Spread coconut flakes on a parchment-lined sheet pan.
-      - Toast in the oven at 425°F until just golden.
-      - Mix coconut milk and toasted coconut flakes in a pan and simmer over medium-low heat for 20 minutes.
-      - Add Coco Lopez and stir to incorporate.
-      - Strain out flakes.
-      - Put the mixture back on low heat and whisk in Demerara sugar until dissolved.
-      - Allow to cool, then store in the fridge.
-  - name: Sake Kasu Syrup
-    notes: 
-    ingredients:
-      - 400g / 2 cups white granulated sugar
-      - 400g / 2 cups hot water
-      - 50g / 1 3/4 ounces sake kasu
-      - 8g / 1 1/2 teaspoons kosher salt
-    steps:
-      - Add all ingredients to a blender and blend until smooth, approximately 1 minute. Do not strain. Keeps, refrigerated, for up to 2 weeks.
-  - name: Strawberry Daiquiri Purée
-    notes: 
-    ingredients:
-      - 750g / 3 3/4 cups strawberries, tops removed and cut into quarters
-      - 250g / 1 1/4 cups turbinado cane sugar
-      - 50g / 1 3/4 ounces Wray and Nephew Jamaican Rum
-      - 2g malic acid
-      - 2g citric acid
-    steps:
-      - Add all ingredients to a blender and blend until smooth, approximately 1 minute. Do not strain. Keeps, refrigerated, for up to 2 weeks.
-  - name: Lilletperitif
-    notes: 
-    ingredients:
-      - 1 ounce Lillet
-      - 1/2 ounce Cynar
-      - 1/4 ounce Campari
-    steps:
-      - Combine all ingredients in a mixing glass and stir to combine.
-  - name: Cranberry Shrub
-    notes: 
-    ingredients:
-      - 100 percent cranberry juice
-      - water
-      - distilled white vinegar
-      - sugar
-    steps:
-      - Combine equal parts (by volume) 100 percent cranberry juice, water, distilled white vinegar and white sugar. Whisk all ingredients together until the sugar has dissolved completely.
-  - name: Macadamia Nut Orgeat
-    notes: 
-    ingredients:
-      - 500 grams coconut water (good-quality, purple-hued types, preferably Copra or Harmless brand)
-      - 150 grams raw macadamia nuts
-      - 4 grams kosher salt
-      - white granulated sugar
-    steps:
-      - Combine coconut water, raw macadamia nuts and salt into a blender, then pulse three times in brief, 2-second intervals. Do not purée.
-      - Pour the blender contents, unstrained, into a shallow, nonreactive container. Cover, then refrigerate to infuse for at least 12 hours.
-      - Position the container of a blender on a gram scale and strain the nut milk into the blender using a cheesecloth or Superbag.
-      - Add an equal weight in sugar and blend on high until sugar fully dissolves.
-      - Cover and refrigerate for up to 2 weeks. A film of solids may settle and coat the surface of the liquid; it can be skimmed off easily using a spoon, for a clearer result.
-  - name: Rose- and Apple-Infused Pineau de Charentes
-    notes: 
-    ingredients:
-      - Pineau de Charentes
-      - small dried rose buds
-      - dried apple
-    steps:
-      - For every 8 ounces of Pineau de Charentes, add six small dried rose buds and 3.5 grams of dried apple. Allow it to macerate for 48 hours then double-strain using a tea strainer.
-  - name: Orgeat
-    notes: 
-    ingredients:
-      - 2 cups white cane sugar
-      - 1 cup unsweetened almond milk
-      - 1/4 cup whole raw almonds
-      - 1/4 teaspoon orange blossom water
-    steps:
-      - Combine cane sugar and almond milk in a saucepan and heat until sugar is dissolved.
-      - Toast almonds in a dry pan until fragrant, then add to syrup. Allow mixture to cool.
-      - Add orange blossom water to aromatize.
-      - After 24 hours, strain out almond solids.
-  - name: Pineapple Gomme Syrup
-    notes: The following measurements are by weight unless otherwise noted.
-    ingredients:
-      - 1 ounce gum arabic or acacia gum powder
-      - 3 ounces (by volume) water, divided
-      - 6 ounces granulated sugar
-      - 6 ounces fresh pineapple, peeled, cored and chopped into 1/4-inch pieces
-    steps:
-      - Mix the gum arabic or powder and 1 ounce water for about 2 minutes, breaking up the clumps of gum as they form. Cover with plastic wrap and let sit overnight. Do not re-stir.
-      - The next day, combine 2 ounces water, sugar and pineapple in a saucepan over medium-low heat. Stir until the sugar is dissolved, breaking up the pineapple chunks as they soften. Remove the saucepan from heat and let the mixture sit for a few hours.
-      - Reheat briefly, then fine-strain into the gum arabic mixture, pressing on the pineapple chunks to extract all the juice. Discard solids.
-      - Whisk the syrup for 1 minute to combine, let sit for 5 minutes, then re-whisk for 1 minute. Pour into an airtight container and refrigerate.
-  - name: Simple 2:1 Pineapple Syrup
-    notes: 
-    ingredients:
-      - 1 cup fresh pineapple juice, not from concentrate
-      - 2 cups cane sugar
-    steps:
-      - Stir juice and sugar to combine in a saucepan over medium-low heat, stirring frequently until all sugar is dissolved. Allow to cool, transfer to an airtight container and refrigerate.
-  - name: Mint Tea Simple Syrup
-    notes: 
-    ingredients:
-      - water
-      - mint leaves and stems
-      - sugar
-    steps:
-      - Boil water, then pour over mint leaves and stems. Allow to steep about 10 minutes. Strain out the leaves, then add an equal volume of sugar.
-  - name: Chamomile Syrup
-    notes: 
-    ingredients:
-      - 2 bags chamomile tea
-      - 1 2/3 cups boiling water
-      - 2 cups sugar
-    steps:
-      - Steep 2 bags chamomile tea in 1 2/3 cups boiling water for 15 minutes. Remove tea bags. Combine the tea with 400 grams sugar (2 cups), and stir until dissolved. Allow to cool.
-  - name: Chamomile Sugar
-    notes: 
-    ingredients:
-      - white sugar
-      - chamomile powder (such as Mystic Moments Chamomile Flowers Powder)
-    steps:
-      - Combine equal parts (by volume) white sugar and chamomile powder (such as Mystic Moments Chamomile Flowers Powder) until the blend is homogeneously mixed.
-  - name: Gold Syrup
-    notes: 
-    ingredients:
-      - 8 ounces boiled water
-      - 1 teaspoon cornstarch
-      - 8 ounces white sugar
-    steps:
-      - Combine 8 ounces boiled water and 1 teaspoon cornstarch in a blender. Blend on medium until fully incorporated and set aside. In a dry saucepan, heat 8 ounces white sugar (by weight) on medium until it begins to brown. Stir continuously until all the sugar has taken on an amber color. Very carefully and slowly add the starched water to the saucepan, then stir until all the sugar has dissolved.
-  - name: Rich Orgeat
-    notes: 
-    ingredients:
-      - 8 ounces almond milk
-      - 225 grams Demerara sugar
-      - 225 grams granulated white sugar
-      - pinch of smoked sea salt
-      - 3/4 ounce Faretti Biscotti liqueur or amaretto liqueur
-      - heaping 1/4 ounce Cognac
-      - 1 bar spoon rose water
-    steps:
-      - Bring almond milk to a low simmer; do not let it boil.
-      - Add both sugars and the smoked sea salt, gently stirring until completely dissolved.
-      - Remove from heat and stir in the liqueur, Cognac and rose water.
-      - Allow to cool fully, then bottle and store in a cool, dark place (best not refrigerated). Keeps for about 1 month.
-  - name: Don's Mix
-    notes: 
-    ingredients:
-      - Cinnamon bark syrup
-      - Grapefruit juice
-    steps:
-      - Combine 2 parts cinnamon bark syrup (see below) with 1 part grapefruit juice.
-  - name: Cinnamon Bark Syrup
-    notes: 
-    ingredients:
-      - 17 grams Vietnamese cinnamon bark
-      - 450 milliliters filtered water
-      - 450 grams cane sugar
-    steps:
-      - In a pan, toast the cinnamon bark over medium heat until aromatic. Add the water and sugar to the pan and bring to a boil. Remove from heat, let cool, then strain out the solids through a cheesecloth or Superbag. Keeps, refrigerated, for up to 2 weeks.
-  - name: Grenadine
-    notes: 
-    ingredients:
-      - 250 milliliters pomegranate juice, preferably POM
-      - 250 grams cane sugar
-      - 1.88 grams malic acid
-      - 1.25 grams citric acid
-      - 0.15 grams Terra Spice orange extract
-    steps:
-      - Combine all ingredients in a blender, and process until sugar is fully dissolved. Keeps, refrigerated, for up to 2 weeks.
-  - name: Cinnamon Syrup
-    notes: 
-    ingredients:
-      - 2 cups water
-      - 8 cinnamon sticks
-      - 2 cups sugar
-    steps:
-      - Combine the water and cinnamon sticks in a saucepan and bring to a boil. Whisk in the sugar until dissolved. Remove from heat and let the cinnamon sticks steep until cool. Once cool, strain out cinnamon sticks. Keeps, refrigerated, for up to 2 weeks.
-  - name: Honey Syrup
-    notes: 
-    ingredients:
-      - 2 parts honey
-      - 1 part water
-    steps:
-      - Heat the honey until it is runny. Remove from heat, then combine with water.
-  - name: Grenadine
-    notes: 
-    ingredients:
-      - 2 cups pomegranate juice, preferably POM
-      - 2 cups sugar
-      - 2 ounces pomegranate molasses
-      - 1/2 teaspoon orange blossom water
-    steps:
-      - Heat the pomegranate juice until it reaches a low boil. Whisk in the sugar and the pomegranate molasses until dissolved. Remove from heat, allow to cool and add orange blossom water. Keeps, refrigerated, for up to 2 weeks.
-  - name: Honey Grenadine
-    notes: 
-    ingredients:
-      - 1 part pomegranate juice
-      - 1 part honey
-    steps:
-      - Combine ingredients in a saucepan over medium-low heat and stir until fully integrated. Let cool, then bottle. Will keep, refrigerated, for up to 2 weeks.
-  - name: Peach-Infused Rum
-    notes: 
-    ingredients:
-      - 200 grams dried peaches
-      - 1 liter aged Jamaican rum (preferably Appleton Estate Signature Blend)
-    steps:
-      - Pulse 200 grams dried peaches in a food processor and combine with 1 liter aged Jamaican rum in an airtight container.
-      - Allow to infuse for 1 week.
-      - Strain out solids, then bottle. Store at room temperature. Keeps indefinitely.
-  - name: Rehydrated Toasted Whole Milk
-    notes:
-    ingredients:
-      - 40 grams milk powder (Anthony's or Hoosier Hill Farm)
-      - 8 ounces water
-      - 1/2 gram salt
-    steps:
-      - Preheat an oven to 275°F. Spread 40 grams of milk powder (Villa recommends Anthony’s or Hoosier Hill Farm dry milk powders) on a sheet pan lined with parchment paper. Toast in the oven for 15 minutes.
-      - In a saucepan, bring 8 ounces of water to a simmer. Whisk in the toasted milk powder and 1/2 gram of salt. Reduce the heat to low, and allow to rehydrate for at least 5 minutes. Remove from heat and let cool. Whisk well (or use an immersion blender) before using in milk punch.
-  - name: Banana Bunch Liqueur
-    notes:
-    ingredients:
-      - 500 milliliters 99 Bananas liqueur
-      - 75 grams freeze-dried bananas
-    steps:
-      - Combine the ingredients in a container and infuse for 24 hours. Fine-strain, then bottle. Keeps, refrigerated, for 6 months.
-  - name: Dave Arnold's Chocolate Bitters
-    notes:
-    ingredients:
-      - 350 milliliters 80-proof neutral spirit
-      - 100 grams cacao nibs, preferably Valrhona
-      - 3 grams mace
-      - 1.5 grams dried gentian
-      - 1.5 grams quassia bark
-    steps:
-      - Break up the mace, then combine all of the ingredients in a cream whipper. 
-      - Charge with two 7.5 gram N2O chargers and allow the mixture to infuse for 1 hour. 
-      - Vent all at once with the spigot pointed up into a container to catch any spray. 
-      - Let the mixture settle in the whipper until the bubbling stops (around 5 minutes). 
-      - Strain the infusion, pressing the solids to extract the most liquid. 
-      - Fine-strain, then bottle. 
-      - Keeps indefinitely at room temperature.
-  - name: Champurrado
-    notes:
-    ingredients:
-      - 16 ounces milk
-      - 3 ounces Demerara sugar
-      - 1/3 cup masa harina (yellow corn flour)
-      - 2 1/2 ounces white chocolate nibs
-      - 4 cinnamon sticks
-      - 2 pieces star anise
-      - 1 teaspoon salt
-    steps:
-      - Add all ingredients to a pot over low heat and bring to a low simmer while whisking occasionally. (Make sure to not let it get too hot; you don't want to scald the milk.) Simmer for 8 minutes, whisking every 1 to 2 minutes.
-      - Remove from heat and allow to cool. Use a coarse strainer to strain out the spices. (It’s OK to keep some spice flecks and fat components from the white chocolate; those provide flavor.)
-  - name: Porter Reduction
-    notes:
-    ingredients:
-      - 24 ounces porter
-      - 12 ounces Demerara sugar
-    steps:
-      - Over low heat, reduce the porter by half, but do not boil. Once reduced, remove from heat. Add the sugar and whisk to dissolve.
-  - name: Almond Jello
-    notes:
-    ingredients:
-      - 1/4 cup cold water
-      - 1 packet powdered gelatin, such as Knox Gelatine
-      - 2 cups hot whole milk
-      - 1/3 cup sugar
-      - 2 tablespoons almond extract
-    steps:
-      - Bloom the gelatin in the cold water. Add the hot milk, sugar and almond extract, and stir to combine. Refrigerate for at least 4 hours, until jello sets.
-  - name: Clarified Lemon Juice
-    notes:
-    ingredients:
-      - fresh lemon juice
-      - water
-      - agar-agar powder
-    steps:
-      - For every 1000 grams of fresh juice, set aside 100 grams of water and 2 1/2 grams of agar-agar powder.
-      - Bring the water to a boil, then immediately sprinkle the agar-agar evenly into water while whisking continuously for 1 minute.
-      - Remove from heat and immediately whisk in the fresh juice for 1 minute.
-      - Transfer the juice and agar mixture to a shallow pan over an ice bath, and allow to set slightly into a loose gel consistency. Meanwhile, line a strainer or chinois with cheesecloth or a coffee filter and set it over a container.
-      - Ladle the gel gently into the center of the lined strainer and let strain for approximately 4 to 6 hours. Refrigerate the clarified juice.
-  - name: Clarified Orange Juice
-    notes:
-    ingredients:
-      - fresh orange juice
-      - water
-      - agar-agar powder
-    steps:
-      - For every 1000 grams of fresh juice, set aside 100 grams of water and 2 1/2 grams of agar-agar powder.
-      - Bring the water to a boil, then immediately sprinkle the agar-agar evenly into water while whisking continuously for 1 minute.
-      - Remove from heat and immediately whisk in the fresh juice for 1 minute.
-      - Transfer the juice and agar mixture to a shallow pan over an ice bath, and allow to set slightly into a loose gel consistency. Meanwhile, line a strainer or chinois with cheesecloth or a coffee filter and set it over a container.
-      - Ladle the gel gently into the center of the lined strainer and let strain for approximately 4 to 6 hours. Refrigerate the clarified juice.
-  - name: Hibiscus-Infused Rum
-    notes:
-    ingredients:
-      - 2 tablespoons dried hibiscus flowers
-      - 8 ounces aged Puerto Rican rum, preferably Don Q 7-year
-    steps:
-      - Steep the hibiscus flowers in the rum for at least 1 hour and up to 24 hours for richer color and flavor. Strain and store in an airtight glass container.
-  - name: Lavender Tincture
-    notes:
-    ingredients:
-      - 8 ounces vodka
-      - 1/4 cup dried lavender buds
-    steps:
-      - Add the vodka and lavender buds to a glass jar and seal it. Shake the contents and place out of direct sunlight. 
-      - Let sit for at least 48 hours and up to 2 weeks, giving the jar a shake once in a while. 
-      - Strain through a fine sieve, gently pressing the lavender to extract liquid, then transfer to a clean, airtight glass jar. 
-      - Transfer the desired amount to an atomizer.
-  - name: Lacto-Fermented Cherry Syrup
-    notes:
-    ingredients:
-      - 2 pounds fresh cherries
-      - 1 1/2 tablespoons (15 grams) kosher salt
-      - 2 cups (415 grams) water
-      - sugar
-    steps:
-      - Halve and pit the cherries. Toss in salt to coat. Add to a glass fermenting jar with a fermentation weight.
-      - Cover with the water and seal with an airlock lid. Allow to ferment at room temperature for about 2 days. (You will see bubbles begin to appear in the jar.) After 2 days, move the jar into the refrigerator.
-      - After 4 days, the juice in the jar should be ready. Remove as much as you’d like.
-      - Weigh the juice, and add an equal amount of white sugar. Combine, stirring over very low heat until the sugar has dissolved. Store, refrigerated, for up to 2 weeks.
-  - name: Brown Butter-Washed Rye
-    notes:
-    ingredients:
-      - 15 grams unsalted butter
-      - 750 milliliters rye whiskey
-    steps:
-      - Put butter in a small saucepan over medium heat. Stir gently as the butter melts. The butter will begin to bubble and foam; continue stirring. As the foam subsides, you should see the butter turning brown, with toasted milk solids on the bottom. Remove from the heat.
-      - Combine the melted brown butter with the whiskey in a resealable container.
-      - Allow to sit at room temperature for 1 hour, then place in the freezer. The butter will solidify quickly, and after about 2 hours you should be able to remove it from the freezer. Pass the whiskey through a cheesecloth-lined strainer, then bottle and store.
-  - name: Clarified Sour Apple Cordial
-    notes: If a juicer isn’t available, or you are pressed for time, use store-bought 100 percent apple juice, such as Martinelli’s. Just make sure there is no sediment or anything cloudy in the juice.
-    ingredients:
-      - Granny smith apples
-      - sugar
-      - malic acid
-      - ascordbic acid
-      - citric acid
-    steps:
-      - Using a juicer, feed Granny Smith apples into the machine, then pass the juice through a fine-mesh strainer, then through a coffee filter. 
-      - The juice will be cloudy at first, but when it starts to run clear, transfer the strainer to a new container to collect the clear juice. 
-      - Add the cloudy juice back to the strainer until it, too, is clear. 
-      - Weigh the clarified juice and add 40 percent of its weight in sugar to a saucepan. 
-      - Add half of the juice and stir over low heat just until the sugar dissolves. 
-      - Remove from heat and add the remaining juice. 
-      - Weigh the juice-sugar mixture and add, by weight, 3 percent malic acid, 0.5 percent ascorbic acid and 1.5 percent citric acid.
-  - name: Curry Leaf-Infused Oat Milk
-    notes:
-    ingredients:
-      - 186 grams oat milk
-      - 2 grams fresh curry leaves
-    steps:
-      - Add the oat milk to a saucepan over low heat, then add the curry leaves. Allow to infuse, covered, for 20 minutes, then remove from heat and let sit for another 30 minutes. Strain out the leaves.
-  - name: Lactic Acid Simple Syrup
-    notes:
-    ingredients:
-      - 200 grams sugar
-      - 200 grams water
-      - 1 1/2 grams lactic acid
-    steps:
-      - Combine all ingredients in a saucepan over low heat and stir until the acid is fully dissolved.
-  - name: Cola Syrup
-    notes:
-    ingredients:
-      - 1 part Coca-Cola
-      - 2 parts white sugar
-    steps:
-      - Measure the ingredients by weight, then add to a saucepan over low heat until the sugar has dissolved. Let cool then bottle and store in the refrigerator.
-  - name: Hibiscus-Habanero Syrup
-    notes:
-    ingredients:
-      - 400g sugar
-      - 400g water
-      - 60g dried hibiscus flowers
-      - 50g habanero pepper, sliced
-      - 1 vanilla bean
-      - 5 orange peels
-    steps:
-      - Combine the sugar and water in a saucepan set over medium high heat. Add hibiscus flowers, habanero, vanilla bean and orange peels. Bring the mixture to a boil, then allow it to cool before straining.
-  - name: Coconut Syrup
-    notes:
-    ingredients:
-      - 500 grams sugar
-      - 250 grams water
-      - 125 grams coconut oil
-    steps:
-      - "Make a 2:1 simple syrup by combining the sugar and hot water into a vessel and stir until the sugar dissolves."
-      - Add coconut oil to the mixture while it is still hot and stir to incorporate. 
-      - Leave the mixture out at room temperature for 4 hours, stirring occasionally and then freeze it for at least 4 hours or overnight. 
-      - The coconut oil will freeze as a cap on top of the liquid.
-      - Gently remove it and then strain the liquid into a new container. 
-      - Store covered in the refrigerator.
-  - name: Passion Fruit Syrup
-    notes:
-    ingredients:
-      - 1 cup water
-      - 1 cup passion fruit purée
-      - 3 cups white sugar
-    steps:
-      - Combine all ingredients in a saucepan over low heat and stir until fully incorporated. Let cool, then fine strain into a bottle.
-  - name: Cinnamon Syrup
-    notes:
-    ingredients:
-      - 3 3/4 grams Cassia cinnamon sticks, lightly toasted and broken up
-      - 3/4 gram Ceylon cinnamon sticks, lightly toasted and broken up
-      - 2 cups water
-      - 1 quart sugar
-    steps:
-      - In a saucepan, bring the water to a boil, add the cinnamon sticks and sugar and stir until dissolved. Let cool, then strain into a bottle.
-  - name: Grilled Pineapple Demerara Syrup
-    notes:
-    ingredients:
-      - maple syrup
-      - Demerara syrup
-      - Pineapple
-    steps:
-      - Combine equal parts maple syrup and Demerara syrup (2:1 Demerara sugar dissolved in hot water). 
-      - Grill pineapple until caramelized. 
-      - For every ½ ounce of syrup, add a half-moon of grilled pineapple, chopped into small pieces.
-      - Infuse overnight, then strain.
-  - name: Jungle Batch
-    notes:
-    ingredients:
-      - 1 1/4 ounces El Dorado 8 Year rum
-      - 3/4 ounce Clairin Casimir rum 
-      - 1/4 ounce Giffard Banane du Brésil
-    steps:
-      - Combine all ingredients in a container and stir.
-  - name: Oat Syrup
-    notes:
-    ingredients:
-      - 1 cup gluten-free oats
-      - 4 cups water
-      - cane sugar
-    steps:
-      - Rinse and soak oats overnight.
-      - Discard water, and add 4 cups of fresh water to rinsed oats in a Vitamix. 
-      - Blend for 1 to 2 minutes. 
-      - Strain mixture, discard oats. 
-      - Measure 3 parts oat milk, 4 parts cane sugar (about 24 ounces oat milk to 32 ounces cane sugar). 
-      - Blend very well until syrup is not grainy.
-  - name: Cinnamon Bark Syrup
-    notes:
-    ingredients:
-      - 25 grams cinnamon bark
-      - 2 cups sugar
-      - 2 cups water
-    steps:
-      - Add cinnamon bark to a pot with muddle until broken up into small pieces. Toast cinnamon over burner until fragrant. Add sugar and water, then bring to a boil for 5 minutes. Allow to cool, then pour into a nonreactive container and store overnight. Strain through a chinois, then store in a container. Keeps up to 1 month.
-  - name: Cinnamon Oat Syrup
-    notes:
-    ingredients:
-      - 3 parts oat syrup
-      - 1 part cinnamon bark syrup
-    steps:
-      - To make the cinnamon oat syrup, combine 3 parts oat syrup and 1 part cinnamon bark syrup.
-  - name: Mamajuana
-    notes:
-    ingredients:
-      - 1 ounce honey
-      - pre-packaged botanicals
-      - 1 ounce red wine
-      - 750ml unaged rum
-    steps:
-      - To make mamajuana, Yoldin Castillo recommends buying pre-packaged botanicals and adding an ounce of honey, an ounce of red wine, then filling the rest of the bottle with unaged rum. Let sit for three months, then strain off the liquid and dispose of it (it will be too bitter from the bark) and refill with the same ingredients and let sit for an additional three weeks before using.
-  - name: Almazara Oleo Saccharum
-    notes:
-    ingredients:
-      - 125 grams lemon peels
-      - 125 grams lime peels
-      - 125 grams orange peels
-      - 125 grams grapefruit peels
-      - 500 grams white sugar
-      - 500 grams water
-    steps:
-      - In a container, macerate 500 grams of citrus peels (125 grams each of lemon, lime, orange and grapefruit) with 500 grams of white sugar, until mixed. Add 500 grams of room-temperature water and mix until sugar dissolves. When the sugar dissolves, cover and let the mixture rest in a place where it does not receive direct sunlight. Stir once daily for 7 to 10 days to properly mix flavors. Remove the citrus peels, strain the liquid into a separate container to remove any pieces of fruit or sugar that remain, then bottle and refrigerate. Best used within 2 weeks.
+- name: Cardamom-Coriander Syrup
+  ingredients:
+    - 2 cinnamon sticks, broken up
+    - 1 1/2 teaspoons coriander seeds
+    - 1 tablespoon black cardamom pods
+    - 1/4 teaspoon red pepper flakes
+    - 4 ounces high-proof rum
+    - 15 ounces hot water
+    - 3/4 cup fine granulated sugar
+  steps:
+    - Preheat the oven to 450°F. 
+    - Spread the cinnamon sticks, coriander seeds, and cardamom on a rimmed baking sheet and toast in the oven, tossing occasionally to prevent burning, until fragrant but not burned, about 8 minutes.
+    - Combine the toasted spices, red pepper flakes, and rum in a blender, and blend on high speed until evenly ground, about 2 minutes.
+    - Meanwhile, in a separate container, combine the hot water and sugar, and stir until the sugar is completely dissolved.
+    - Set aside.
+    - Using a coffee filter or multiple layers of cheesecloth, strain the spice and rum mixture into the sugar syrup.
+    - Stir to combine.
+    - Transfer to a clean, sealable bottle or container.
+    - This syrup will keep, refrigerated, for 2 months.
+    - Shake thoroughly before using.
+    - As a substitute for the cardamom-coriander syrup, Volk recommends using 1/4 ounce St. Elizabeth Allspice Dram and 1 teaspoon of rich simple syrup (2:1, sugar:water).
+- name: Teardrop's DIY Crème de Cacao
+  notes: "The crème de cacaos of the mid-19th century were meant to be consumed on their own, and despite their sweetness (their sugary viscosity, not the addition of dairy, is what earned them the “crème” moniker) balance was paramount. But as 20th-century cocktail culture swaggered in, the spotlight shifted to base spirits (whiskey, gin, etc.) and liqueurs went from stand-alone sippers to mere mixers. Thus, producers of liqueurs like crème allowed standards to wane—favoring higher levels sugar over nuance and relying on artificial coloring and oil extracts instead of actual cacao. But now, crème de cacao is seeing revival thanks to bars and bartenders making their own housemade versions that balance nuanced sweetness with the bitter beauty of chocolate. This rum-based recipe comes from Teardrop Lounge in Portland, Oregon."
+  ingredients:
+    - 1 3/4 cups cacao nibs
+    - 1/2 cup sugar
+    - 1/2 cup distilled water
+    - 1 750-ml bottle Lemon Hart 151 (demerara rum)
+  steps:
+    - Add sugar and water to a saucepan and set over medium heat.
+    - Bring to a low simmer and stir to dissolve sugar.
+    - Add cacao nibs, stirring constantly. The sugar will re-granulate and smoke a bit, until it begins to slowly caramelize and coat the cacao nibs. This process should take no more than 15 minutes.
+    - Remove from heat, and pour the cacao nibs onto a parchment-lined baking sheet. Let cool, then break up with a spoon.
+    - Reserve half of the nibs for your next batch, and place the remainder into an airtight container.
+    - Top off with the rum.
+    - Let steep for one week, then strain through cheesecloth.
+    - Measure remaining amount and mix with equal parts distilled water to bring to proof.
+    - Funnel into a bottle to serve.
+- name: Strawberry Infused Suze-Cappelletti
+  notes: 
+  ingredients:
+    - 2 quarts of strawberries, quartered
+    - 25 ounces Suze
+    - 50 ounces Cappelletti
+  steps:
+    - Combine all ingredients in a nonreactive container and infuse for 24 hours. Fine strain.
+- name: Monk's Tisane
+  notes: 
+  ingredients:
+    - 1 liter filtered water
+    - 3 grams dried mint
+    - 3 grams dried lemon verbena
+    - 1 1/2 grams dried orange flower
+    - 1 1/2 grams dried linden
+  steps:
+    - Combine water and herbs in a large jar, then let infuse in the refrigerator for 8 hours. Strain through a coffee filter.
+- name: Jalapeño Tequila
+  notes: 
+  ingredients:
+    - 2 fresh jalapeños
+    - 1 1/2 cups silver tequila
+  steps:
+    - Cut the jalapeños lengthwise and extract the seeds and membranes; add them to a glass bowl. Discard the rest of the pepper. Add the tequila to the seeds and membranes and infuse for 10 to 20 minutes, depending on the heat of the peppers. Finally strain and bottle. Keep at room temperate for up to 1 month.
+- name: Umami Bomb Infused Vermouth
+  notes: 
+  ingredients:
+    - 750 milliliters dry vermouth, preferably Dolin
+    - 90 grams chopped celery
+    - 30 grams cilantro stems
+    - 15 grams chopped white onion
+    - 6 grams huacatay
+    - 3 grams habanero, seeds removed
+    - 3 grams whole, peeled garlic
+  steps:
+    - Add all ingredients to a sous-vide bag, and cook sous vide at 130°F for 2 hours. Immediately transfer the bag into an ice bath. Once cool, strain the contents through a coffee filter into a clean, sealable container, discarding the solids. (Alternatively, combine all of the ingredients in a sealed bag and let sit at room temperature for 24 hours before straining.) Refrigerate in an airtight container for up to 2 weeks.
+- name: Pornstar Milk Punch
+  notes: 
+  ingredients:
+    - 625 milliliters vodka, preferably Absolut
+    - 500 milliliters vanilla syrup (see Editor’s Note)
+    - 300 milliliters passion fruit pulp
+    - 250 milliliters lime juice
+    - 200 milliliters white rum, preferably Copalli
+    - 125 milliliters blanc vermouth
+    - 500 milliliters whole milk
+  steps:
+    - Add all ingredients except the milk to a large container.
+    - Slowly pour milk into the mixture.
+    - Cover and refrigerate for 24 hours.
+    - After 24 hours, strain the mixture through a fine cheesecloth (or other cloth, such as chef’s coats or superfine linens). Repeat as needed, straining until the mixture is completely clear.
+- name: Vanilla Syrup
+  notes: 
+  ingredients:
+    - 500 grams white sugar
+    - 250 milliliters water
+    - 1 1/2 teaspoons vanilla paste
+  steps:
+    - Add all ingredients to a vacuum-sealed bag. Cook sous vide for 30 minutes at 58°C (136°F). Mix to dissolve all of the sugar. Double fine-strain through a chinois, then bottle, label and store for use.
+- name: Black Tea-Infused Bourbon
+  notes: 
+  ingredients:
+    - 750 ml bourbon
+    - 1/2 ounce Ceylon orange pekoe tea
+  steps:
+    - Combine 750 milliliters bourbon, preferably Elijah Craig 12-Year-Old, and 1/2 ounce Ceylon orange pekoe tea in a nonreactive container. Infuse for 12 minutes at room temperature. Fine-strain and bottle.
+- name: Lemon Simple Syrup
+  notes: 
+  ingredients:
+    - 8 lemons
+    - 24 ounces 1:1 simple syrup
+  steps:
+    - Remove zest from 8 lemons using a microplane. Combine lemon zest with 24 ounces of simple syrup (1:1, sugar to water). Infuse for 10 minutes at room temperature. Fine-strain, bottle and store in the refrigerator.
+- name: Moroccan Mint Tea Syrup
+  notes: 
+  ingredients:
+    - Gunpowder green tea
+    - Hot water
+    - Mint sprigs and leaves
+    - Sugar
+  steps:
+    - Add 24 grams of gunpowder green tea to a pot. Add 227 grams of hot water to the pot and swish. Strain the tea concentrate into a separate container and set aside. Add the strained tea leaves back into the pot and top off with 1 cup of hot water. Swish five times, then strain and discard the water. (The second tea infusion leeches out impurities from the opened tea buds and must be discarded or the syrup will be bitter and unpleasant.)
+    - Pour the first tea concentrate back into the pot with the now-cleaned tea leaves and top off with 680 grams of hot water. Set the pot on the burner and bring to a boil on low-medium heat. Once the infusion is boiling, take it off the heat and add in 473 grams of mint sprigs and leaves; a strong mint aroma should start to permeate the air from the tea. Pour about a third of the liquid out of the pot into a separate container then pour back into the pot to fully incorporate the tea and mint flavors. Repeat three times. Do not stir.
+    - Once the tea has been aerated, pour it into a container, straining out the tea leaves and mint, lightly pressing the remaining moisture out of them. Weigh the amount of tea made, discounting the container, then add an equal amount by weight of white sugar (roughly 907 grams) and stir until sugar is dissolved. Let the syrup cool and store in the refrigerator. Keeps for 3 weeks.
+- name: Gochujang Honey Syrup
+  notes: 
+  ingredients:
+    - 2 ounces CJ Haechandle gochujang paste (contains wheat (can sub in Chung Jung One gochujang paste if gluten-intolerant))
+    - 16 ounces water
+    - 8 oz sugar
+    - 8 oz honey
+  steps:
+    - Bring water to a boil and add the gochujang paste. Turn off the heat and whisk together to dissolve the paste then let it sit for 15 minutes. Add the sugar and honey over low heat and whisk together until everything is dissolved. Strain the syrup through a 100-micron filter bag, let cool, package, label and date. Keep refrigerated.
+- name: Smoked Strawberry Syrup
+  notes: 
+  ingredients:
+    - 1 pint strawberries
+    - 1 cup water
+    - 1 cup sugar
+  steps:
+    - To make smoked strawberry syrup, cut 1 pint of strawberries into halves and place in a meat smoker for about 30 minutes. Then add strawberries and 1 cup of water to a pot and bring to boil. Add 1 cup of sugar, and stir to dissolve. Turn off heat and allow mixture to cool before storing in the refrigerator in an airtight container.
+- name: Cinnamon Syrup
+  notes: 
+  ingredients:
+    - 75 grams cinnamon
+    - 4 1/4 cups water
+    - 4 1/4 cups sugar
+  steps:
+    - Toast cinnamon briefly, without burning. Bring water and cinnamon to a boil and turn down heat. Simmer 15 minutes. Strain and pour liquid into Vita-Mix or blender. Add sugar and blend until smooth.
+- name: Lemongrass Cordial
+  notes: 
+  ingredients:
+    - 1 cup sugar
+    - 1 cup water
+    - 1 lemongrass stalk, chopped and smashed
+    - 1 1/2 limes
+  steps:
+    - Combine the sugar and water in a saucepan over low heat until sugar has dissolved. Add the lemongrass and the zest and juice from the limes. Heat for 30 minutes, but do not boil. Fine strain and store in the refrigerator.
+- name: MSG Solution
+  notes: 
+  ingredients:
+    - MSG
+    - cold water
+  steps:
+    - Combine equal parts MSG and cold water, stir until the MSG is dissolved.
+- name: Sun-Dried Lime Cordial
+  notes: 
+  ingredients:
+    - 7 ounces sun-dried limes (approximately 4 sun-dried limes)
+    - 1 quart water
+    - 400 grams (just over 1 1/2 cups) white sugar
+  steps:
+    - Combine all ingredients in a saucepan over low heat for 10 minutes. Strain and let cool. Keeps, refrigerated, for about two weeks.
+- name: Lime-Ginger Cordial
+  notes: 
+  ingredients:
+    - 36 limes
+    - 5 pounds white sugar
+    - 2 cups fresh ginger juice (from 1.5-2 pounds ginger)
+  steps:
+    - Clean and peel 36 limes. Collect peels and the peeled fruit in separate large sealable containers. Cover peels with 5 lbs of white sugar. Shake and mix them until the peels are completely immersed in and mixed with the dry sugar. Leave at room temperature overnight to make oleo saccharum, a slurry of the aromatic citrus oil extracted by the sugar through capillary action.
+    - Juice the peeled fruit and add juice to the oleo saccharum, stirring it with elbow grease for 5-10 minutes to break up the lumps and incorporate all. Let rest at room temperature for at least 24 hours to incorporate. Stir again to incorporate any remaining sugar and then strain off the peels through a mesh sieve. At this point you have lime cordial.
+    - Next, add about 2 cups of fresh ginger juice to the mix to make lime-ginger cordial. To make fresh ginger juice at home, take 1.5-2 lbs of fresh ginger, peel and chop it into 1" pieces, and put it into a blender in batches, using the cordial to liquefy it. Let it sit with the cordial another 24 hours and then restrain it off into an airtight container and refrigerate until needed.
+- name: Lime Syrup
+  notes: 
+  ingredients:
+    - 1 quart simple syrup (1:1, sugar:water)
+    - 6 limes
+  steps:
+    - Make simple syrup as usual and grate in the zest of six limes. Bring to a low boil for five minutes. Allow to cool, then strain and store.
+- name: Coco Syrup
+  notes: 
+  ingredients:
+    - 1/4 cup coconut milk powder, preferably Coconut Dream
+    - 200 grams sugar
+    - 200 grams water
+    - 4-5 cans of unsweetened coconut milk
+  steps:
+    - Chill the cans of unsweetened coconut milk for 24 hours. Separate the solid fats from the liquid until you have 2 cups of fat and discard the liquid. Combine all the ingredients in a pot over low heat and blend using an immersion blender.
+- name: Cinnamon Syrup
+  notes: 
+  ingredients:
+    - 50 grams Saigon cinnamon powder
+    - 400 grams water
+    - sugar
+  steps:
+    - Combine the water and the cinnamon in a pot and simmer for 20 minutes. Fine strain the mixture through a chinois lined with a cheesecloth. Add equal parts sugar by weight and bottle.
+- name: Cinnamon Syrup
+  notes: 
+  ingredients:
+    - 1 cup simple syrup (1:1, sugar:water)
+    - 7 grams cinnamon (about 2 cinnamon sticks)
+  steps:
+    - Combine ingredients in a saucepan over heat until boiling. Remove from heat and let sit for 12 hours before straining and storing in a sealable container.
+- name: Burnt Demerara Syrup
+  notes: 
+  ingredients:
+    - Aged rum
+    - Demerara sugar
+  steps:
+    - Combine equal parts aged rum and demerara sugar in a saucepan over medium heat until sugar begins to caramelize. Then, combine the caramelized demerara sugar with water in a ratio of 2:1 and heat until sugar completely dissolves.
+- name: Acid-Adjusted Pineapple Juice
+  notes: 
+  ingredients:
+    - 200 millileters pineapple juice
+    - 6.4 grams citric acid
+    - 4 grams malic acid
+  steps:
+    - Combine all ingredients in a quart container. Blend with a milk frother until dissolved.
+- name: Clarified Lime Juice
+  notes: 
+  ingredients:
+    - 1000 mL room temperature lime juice
+    - 4 mL Pectinex Ultra SP-L
+    - 4 mL Kieselsol
+  steps:
+    - "Start with 1000 mL room temperature lime juice. Add 4 mL Pectinex Ultra SP-L and 4 mL Kieselsol and wait 15 minutes. Add 4 mL Chitosan and wait 15 minutes. Add 4 mL Kieselsol and wait 15 minutes. At this point it should be clearly visible that the juice has 'broken.' There will be a layer of clear juice suspended between two thicker cloudy layers. Spin in a Spinzall or lab centrifuge set to 4500 RPM for 15 minutes, or wait at least an additional hour and strain through a paper filter. Note: Kieselsol and Chitosan will not work without Pectinase, but you can get 80 percent of the results with just Pectinase."
+- name: Clarified Pineapple Juice
+  notes: 
+  ingredients: 
+    - 1000 mL room temperature pineapple juice
+    - 4 mL Pectinex Ultra SP-L
+    - 4 mL Kieselsol
+  steps:
+    - "Start with 1000 mL room temperature pineapple juice. Add 4 mL Pectinex Ultra SP-L and 4 mL Kieselsol and wait 15 minutes. Add 4 mL Chitosan and wait 15 minutes. Add 4 mL Kieselsol and wait 15 minutes. At this point it should be clearly visible that the juice has 'broken.' There will be a layer of clear juice suspended between two thicker cloudy layers. Spin in a Spinzall or lab centrifuge set to 4500 RPM for 15 minutes, or wait at least an additional hour and strain through a paper filter. Note: Kieselsol and Chitosan will not work without Pectinase, but you can get 80 percent of the results with just Pectinase."
+- name: Pineapple Syrup
+  notes: 
+  ingredients:
+    - 500 grams pineapple juice
+    - 360 grams sugar
+    - 2 grams citric acid
+  steps:
+    - Add all ingredients to a container and stir to dissolve.
+- name: Saline Solution
+  notes: 
+  ingredients:
+    - 80 grams water
+    - 20 grams kosher salt
+  steps:
+    - Add to a container and stir to dissolve. Store in a dropper bottle indefinitely.
+- name: Lychee Syrup
+  notes: 
+  ingredients:
+    - 1 cup water
+    - 1 cup white cane sugar
+    - 1 cup lychee, chopped (peeled, seeds removed, if using fresh fruit)
+  steps:
+    - In a small saucepan, bring the water to a boil. Add the sugar and stir until dissolved. Turn off heat and add the lychee. Stir and let sit for 2 hours. Strain into a resealable container.
+- name: Pinipig Tincture
+  notes: 
+  ingredients:
+    - 1 cup 100-proof neutral grain alcohol, such as Everclear
+    - 1 cup pinipig (flattened and dried sweet rice grains; can be found at certain Asian markets or online.)
+  steps:
+    - Add ingredients to a resealable container and let sit for 6 hours. Strain the mixture using a cheesecloth, making sure to squeeze out any extra liquid from the pinipig. Pour tincture into an atomizer.
+- name: Absinthe Bitters
+  notes: 
+  ingredients:
+    - 3 cups Pernod 68 absinthe
+    - ½ cup green Chartreuse
+    - 1 teaspoon Peychaud’s bitters
+    - 1 teaspoon Angostura bitters
+    - 2 tablespoons mint bitters, preferably Fee Brothers
+  steps:
+    - Combine all ingredients and funnel into a bottle, cover or cork and gently turn it upside down three times to blend thoroughly. Store at room temperature. Will keep indefinitely.
+  notes: 
+  ingredients:
+    - MSG
+    - cold water
+  steps:
+    - Combine equal parts MSG and cold water, stir until the MSG is dissolved.
+- name: Mango Colada Milk Punch
+  notes: 
+  ingredients:
+    - 375 ml coconut syrup (see below)
+    - 250 ml mango puree
+    - 1/2 liter pineapple juice
+    - 1/2 liter rum, preferably Plantation 3 Star
+    - 375 ml rum, preferably Ron Zacapa 23
+    - 1/2 liter whole milk
+    - 162.5 ml lime juice
+  steps:
+    - Mix all ingredients, except for milk, in a large container.
+    - Add milk to a separate container, and slowly pour the mix into the milk.
+    - Mix gently and let sit, refrigerated, overnight.
+    - Filter the mixture gently through a coffee filter to remove curds, careful not to break curds.
+- name: Toasted Coconut Syrup
+  notes: 
+  ingredients:
+    - 1/2 quart coconut flakes
+    - 25 ounces coconut milk
+    - 2 cans Coco Lopez
+    - 1/2 quart Demerara sugar
+  steps:
+    - Spread coconut flakes on a parchment-lined sheet pan.
+    - Toast in the oven at 425°F until just golden.
+    - Mix coconut milk and toasted coconut flakes in a pan and simmer over medium-low heat for 20 minutes.
+    - Add Coco Lopez and stir to incorporate.
+    - Strain out flakes.
+    - Put the mixture back on low heat and whisk in Demerara sugar until dissolved.
+    - Allow to cool, then store in the fridge.
+- name: Sake Kasu Syrup
+  notes: 
+  ingredients:
+    - 400g / 2 cups white granulated sugar
+    - 400g / 2 cups hot water
+    - 50g / 1 3/4 ounces sake kasu
+    - 8g / 1 1/2 teaspoons kosher salt
+  steps:
+    - Add all ingredients to a blender and blend until smooth, approximately 1 minute. Do not strain. Keeps, refrigerated, for up to 2 weeks.
+- name: Strawberry Daiquiri Purée
+  notes: 
+  ingredients:
+    - 750g / 3 3/4 cups strawberries, tops removed and cut into quarters
+    - 250g / 1 1/4 cups turbinado cane sugar
+    - 50g / 1 3/4 ounces Wray and Nephew Jamaican Rum
+    - 2g malic acid
+    - 2g citric acid
+  steps:
+    - Add all ingredients to a blender and blend until smooth, approximately 1 minute. Do not strain. Keeps, refrigerated, for up to 2 weeks.
+- name: Lilletperitif
+  notes: 
+  ingredients:
+    - 1 ounce Lillet
+    - 1/2 ounce Cynar
+    - 1/4 ounce Campari
+  steps:
+    - Combine all ingredients in a mixing glass and stir to combine.
+- name: Cranberry Shrub
+  notes: 
+  ingredients:
+    - 100 percent cranberry juice
+    - water
+    - distilled white vinegar
+    - sugar
+  steps:
+    - Combine equal parts (by volume) 100 percent cranberry juice, water, distilled white vinegar and white sugar. Whisk all ingredients together until the sugar has dissolved completely.
+- name: Macadamia Nut Orgeat
+  notes: 
+  ingredients:
+    - 500 grams coconut water (good-quality, purple-hued types, preferably Copra or Harmless brand)
+    - 150 grams raw macadamia nuts
+    - 4 grams kosher salt
+    - white granulated sugar
+  steps:
+    - Combine coconut water, raw macadamia nuts and salt into a blender, then pulse three times in brief, 2-second intervals. Do not purée.
+    - Pour the blender contents, unstrained, into a shallow, nonreactive container. Cover, then refrigerate to infuse for at least 12 hours.
+    - Position the container of a blender on a gram scale and strain the nut milk into the blender using a cheesecloth or Superbag.
+    - Add an equal weight in sugar and blend on high until sugar fully dissolves.
+    - Cover and refrigerate for up to 2 weeks. A film of solids may settle and coat the surface of the liquid; it can be skimmed off easily using a spoon, for a clearer result.
+- name: Rose- and Apple-Infused Pineau de Charentes
+  notes: 
+  ingredients:
+    - Pineau de Charentes
+    - small dried rose buds
+    - dried apple
+  steps:
+    - For every 8 ounces of Pineau de Charentes, add six small dried rose buds and 3.5 grams of dried apple. Allow it to macerate for 48 hours then double-strain using a tea strainer.
+- name: Orgeat
+  notes: 
+  ingredients:
+    - 2 cups white cane sugar
+    - 1 cup unsweetened almond milk
+    - 1/4 cup whole raw almonds
+    - 1/4 teaspoon orange blossom water
+  steps:
+    - Combine cane sugar and almond milk in a saucepan and heat until sugar is dissolved.
+    - Toast almonds in a dry pan until fragrant, then add to syrup. Allow mixture to cool.
+    - Add orange blossom water to aromatize.
+    - After 24 hours, strain out almond solids.
+- name: Pineapple Gomme Syrup
+  notes: The following measurements are by weight unless otherwise noted.
+  ingredients:
+    - 1 ounce gum arabic or acacia gum powder
+    - 3 ounces (by volume) water, divided
+    - 6 ounces granulated sugar
+    - 6 ounces fresh pineapple, peeled, cored and chopped into 1/4-inch pieces
+  steps:
+    - Mix the gum arabic or powder and 1 ounce water for about 2 minutes, breaking up the clumps of gum as they form. Cover with plastic wrap and let sit overnight. Do not re-stir.
+    - The next day, combine 2 ounces water, sugar and pineapple in a saucepan over medium-low heat. Stir until the sugar is dissolved, breaking up the pineapple chunks as they soften. Remove the saucepan from heat and let the mixture sit for a few hours.
+    - Reheat briefly, then fine-strain into the gum arabic mixture, pressing on the pineapple chunks to extract all the juice. Discard solids.
+    - Whisk the syrup for 1 minute to combine, let sit for 5 minutes, then re-whisk for 1 minute. Pour into an airtight container and refrigerate.
+- name: Simple 2:1 Pineapple Syrup
+  notes: 
+  ingredients:
+    - 1 cup fresh pineapple juice, not from concentrate
+    - 2 cups cane sugar
+  steps:
+    - Stir juice and sugar to combine in a saucepan over medium-low heat, stirring frequently until all sugar is dissolved. Allow to cool, transfer to an airtight container and refrigerate.
+- name: Mint Tea Simple Syrup
+  notes: 
+  ingredients:
+    - water
+    - mint leaves and stems
+    - sugar
+  steps:
+    - Boil water, then pour over mint leaves and stems. Allow to steep about 10 minutes. Strain out the leaves, then add an equal volume of sugar.
+- name: Chamomile Syrup
+  notes: 
+  ingredients:
+    - 2 bags chamomile tea
+    - 1 2/3 cups boiling water
+    - 2 cups sugar
+  steps:
+    - Steep 2 bags chamomile tea in 1 2/3 cups boiling water for 15 minutes. Remove tea bags. Combine the tea with 400 grams sugar (2 cups), and stir until dissolved. Allow to cool.
+- name: Chamomile Sugar
+  notes: 
+  ingredients:
+    - white sugar
+    - chamomile powder (such as Mystic Moments Chamomile Flowers Powder)
+  steps:
+    - Combine equal parts (by volume) white sugar and chamomile powder (such as Mystic Moments Chamomile Flowers Powder) until the blend is homogeneously mixed.
+- name: Gold Syrup
+  notes: 
+  ingredients:
+    - 8 ounces boiled water
+    - 1 teaspoon cornstarch
+    - 8 ounces white sugar
+  steps:
+    - Combine 8 ounces boiled water and 1 teaspoon cornstarch in a blender. Blend on medium until fully incorporated and set aside. In a dry saucepan, heat 8 ounces white sugar (by weight) on medium until it begins to brown. Stir continuously until all the sugar has taken on an amber color. Very carefully and slowly add the starched water to the saucepan, then stir until all the sugar has dissolved.
+- name: Rich Orgeat
+  notes: 
+  ingredients:
+    - 8 ounces almond milk
+    - 225 grams Demerara sugar
+    - 225 grams granulated white sugar
+    - pinch of smoked sea salt
+    - 3/4 ounce Faretti Biscotti liqueur or amaretto liqueur
+    - heaping 1/4 ounce Cognac
+    - 1 bar spoon rose water
+  steps:
+    - Bring almond milk to a low simmer; do not let it boil.
+    - Add both sugars and the smoked sea salt, gently stirring until completely dissolved.
+    - Remove from heat and stir in the liqueur, Cognac and rose water.
+    - Allow to cool fully, then bottle and store in a cool, dark place (best not refrigerated). Keeps for about 1 month.
+- name: Don's Mix
+  notes: 
+  ingredients:
+    - Cinnamon bark syrup
+    - Grapefruit juice
+  steps:
+    - Combine 2 parts cinnamon bark syrup (see below) with 1 part grapefruit juice.
+- name: Cinnamon Bark Syrup
+  notes: 
+  ingredients:
+    - 17 grams Vietnamese cinnamon bark
+    - 450 milliliters filtered water
+    - 450 grams cane sugar
+  steps:
+    - In a pan, toast the cinnamon bark over medium heat until aromatic. Add the water and sugar to the pan and bring to a boil. Remove from heat, let cool, then strain out the solids through a cheesecloth or Superbag. Keeps, refrigerated, for up to 2 weeks.
+- name: Grenadine
+  notes: 
+  ingredients:
+    - 250 milliliters pomegranate juice, preferably POM
+    - 250 grams cane sugar
+    - 1.88 grams malic acid
+    - 1.25 grams citric acid
+    - 0.15 grams Terra Spice orange extract
+  steps:
+    - Combine all ingredients in a blender, and process until sugar is fully dissolved. Keeps, refrigerated, for up to 2 weeks.
+- name: Cinnamon Syrup
+  notes: 
+  ingredients:
+    - 2 cups water
+    - 8 cinnamon sticks
+    - 2 cups sugar
+  steps:
+    - Combine the water and cinnamon sticks in a saucepan and bring to a boil. Whisk in the sugar until dissolved. Remove from heat and let the cinnamon sticks steep until cool. Once cool, strain out cinnamon sticks. Keeps, refrigerated, for up to 2 weeks.
+- name: Honey Syrup
+  notes: 
+  ingredients:
+    - 2 parts honey
+    - 1 part water
+  steps:
+    - Heat the honey until it is runny. Remove from heat, then combine with water.
+- name: Grenadine
+  notes: 
+  ingredients:
+    - 2 cups pomegranate juice, preferably POM
+    - 2 cups sugar
+    - 2 ounces pomegranate molasses
+    - 1/2 teaspoon orange blossom water
+  steps:
+    - Heat the pomegranate juice until it reaches a low boil. Whisk in the sugar and the pomegranate molasses until dissolved. Remove from heat, allow to cool and add orange blossom water. Keeps, refrigerated, for up to 2 weeks.
+- name: Honey Grenadine
+  notes: 
+  ingredients:
+    - 1 part pomegranate juice
+    - 1 part honey
+  steps:
+    - Combine ingredients in a saucepan over medium-low heat and stir until fully integrated. Let cool, then bottle. Will keep, refrigerated, for up to 2 weeks.
+- name: Peach-Infused Rum
+  notes: 
+  ingredients:
+    - 200 grams dried peaches
+    - 1 liter aged Jamaican rum (preferably Appleton Estate Signature Blend)
+  steps:
+    - Pulse 200 grams dried peaches in a food processor and combine with 1 liter aged Jamaican rum in an airtight container.
+    - Allow to infuse for 1 week.
+    - Strain out solids, then bottle. Store at room temperature. Keeps indefinitely.
+- name: Rehydrated Toasted Whole Milk
+  notes:
+  ingredients:
+    - 40 grams milk powder (Anthony's or Hoosier Hill Farm)
+    - 8 ounces water
+    - 1/2 gram salt
+  steps:
+    - Preheat an oven to 275°F. Spread 40 grams of milk powder (Villa recommends Anthony’s or Hoosier Hill Farm dry milk powders) on a sheet pan lined with parchment paper. Toast in the oven for 15 minutes.
+    - In a saucepan, bring 8 ounces of water to a simmer. Whisk in the toasted milk powder and 1/2 gram of salt. Reduce the heat to low, and allow to rehydrate for at least 5 minutes. Remove from heat and let cool. Whisk well (or use an immersion blender) before using in milk punch.
+- name: Banana Bunch Liqueur
+  notes:
+  ingredients:
+    - 500 milliliters 99 Bananas liqueur
+    - 75 grams freeze-dried bananas
+  steps:
+    - Combine the ingredients in a container and infuse for 24 hours. Fine-strain, then bottle. Keeps, refrigerated, for 6 months.
+- name: Dave Arnold's Chocolate Bitters
+  notes:
+  ingredients:
+    - 350 milliliters 80-proof neutral spirit
+    - 100 grams cacao nibs, preferably Valrhona
+    - 3 grams mace
+    - 1.5 grams dried gentian
+    - 1.5 grams quassia bark
+  steps:
+    - Break up the mace, then combine all of the ingredients in a cream whipper. 
+    - Charge with two 7.5 gram N2O chargers and allow the mixture to infuse for 1 hour. 
+    - Vent all at once with the spigot pointed up into a container to catch any spray. 
+    - Let the mixture settle in the whipper until the bubbling stops (around 5 minutes). 
+    - Strain the infusion, pressing the solids to extract the most liquid. 
+    - Fine-strain, then bottle. 
+    - Keeps indefinitely at room temperature.
+- name: Champurrado
+  notes:
+  ingredients:
+    - 16 ounces milk
+    - 3 ounces Demerara sugar
+    - 1/3 cup masa harina (yellow corn flour)
+    - 2 1/2 ounces white chocolate nibs
+    - 4 cinnamon sticks
+    - 2 pieces star anise
+    - 1 teaspoon salt
+  steps:
+    - Add all ingredients to a pot over low heat and bring to a low simmer while whisking occasionally. (Make sure to not let it get too hot; you don't want to scald the milk.) Simmer for 8 minutes, whisking every 1 to 2 minutes.
+    - Remove from heat and allow to cool. Use a coarse strainer to strain out the spices. (It’s OK to keep some spice flecks and fat components from the white chocolate; those provide flavor.)
+- name: Porter Reduction
+  notes:
+  ingredients:
+    - 24 ounces porter
+    - 12 ounces Demerara sugar
+  steps:
+    - Over low heat, reduce the porter by half, but do not boil. Once reduced, remove from heat. Add the sugar and whisk to dissolve.
+- name: Almond Jello
+  notes:
+  ingredients:
+    - 1/4 cup cold water
+    - 1 packet powdered gelatin, such as Knox Gelatine
+    - 2 cups hot whole milk
+    - 1/3 cup sugar
+    - 2 tablespoons almond extract
+  steps:
+    - Bloom the gelatin in the cold water. Add the hot milk, sugar and almond extract, and stir to combine. Refrigerate for at least 4 hours, until jello sets.
+- name: Clarified Lemon Juice
+  notes:
+  ingredients:
+    - fresh lemon juice
+    - water
+    - agar-agar powder
+  steps:
+    - For every 1000 grams of fresh juice, set aside 100 grams of water and 2 1/2 grams of agar-agar powder.
+    - Bring the water to a boil, then immediately sprinkle the agar-agar evenly into water while whisking continuously for 1 minute.
+    - Remove from heat and immediately whisk in the fresh juice for 1 minute.
+    - Transfer the juice and agar mixture to a shallow pan over an ice bath, and allow to set slightly into a loose gel consistency. Meanwhile, line a strainer or chinois with cheesecloth or a coffee filter and set it over a container.
+    - Ladle the gel gently into the center of the lined strainer and let strain for approximately 4 to 6 hours. Refrigerate the clarified juice.
+- name: Clarified Orange Juice
+  notes:
+  ingredients:
+    - fresh orange juice
+    - water
+    - agar-agar powder
+  steps:
+    - For every 1000 grams of fresh juice, set aside 100 grams of water and 2 1/2 grams of agar-agar powder.
+    - Bring the water to a boil, then immediately sprinkle the agar-agar evenly into water while whisking continuously for 1 minute.
+    - Remove from heat and immediately whisk in the fresh juice for 1 minute.
+    - Transfer the juice and agar mixture to a shallow pan over an ice bath, and allow to set slightly into a loose gel consistency. Meanwhile, line a strainer or chinois with cheesecloth or a coffee filter and set it over a container.
+    - Ladle the gel gently into the center of the lined strainer and let strain for approximately 4 to 6 hours. Refrigerate the clarified juice.
+- name: Hibiscus-Infused Rum
+  notes:
+  ingredients:
+    - 2 tablespoons dried hibiscus flowers
+    - 8 ounces aged Puerto Rican rum, preferably Don Q 7-year
+  steps:
+    - Steep the hibiscus flowers in the rum for at least 1 hour and up to 24 hours for richer color and flavor. Strain and store in an airtight glass container.
+- name: Lavender Tincture
+  notes:
+  ingredients:
+    - 8 ounces vodka
+    - 1/4 cup dried lavender buds
+  steps:
+    - Add the vodka and lavender buds to a glass jar and seal it. Shake the contents and place out of direct sunlight. 
+    - Let sit for at least 48 hours and up to 2 weeks, giving the jar a shake once in a while. 
+    - Strain through a fine sieve, gently pressing the lavender to extract liquid, then transfer to a clean, airtight glass jar. 
+    - Transfer the desired amount to an atomizer.
+- name: Lacto-Fermented Cherry Syrup
+  notes:
+  ingredients:
+    - 2 pounds fresh cherries
+    - 1 1/2 tablespoons (15 grams) kosher salt
+    - 2 cups (415 grams) water
+    - sugar
+  steps:
+    - Halve and pit the cherries. Toss in salt to coat. Add to a glass fermenting jar with a fermentation weight.
+    - Cover with the water and seal with an airlock lid. Allow to ferment at room temperature for about 2 days. (You will see bubbles begin to appear in the jar.) After 2 days, move the jar into the refrigerator.
+    - After 4 days, the juice in the jar should be ready. Remove as much as you’d like.
+    - Weigh the juice, and add an equal amount of white sugar. Combine, stirring over very low heat until the sugar has dissolved. Store, refrigerated, for up to 2 weeks.
+- name: Brown Butter-Washed Rye
+  notes:
+  ingredients:
+    - 15 grams unsalted butter
+    - 750 milliliters rye whiskey
+  steps:
+    - Put butter in a small saucepan over medium heat. Stir gently as the butter melts. The butter will begin to bubble and foam; continue stirring. As the foam subsides, you should see the butter turning brown, with toasted milk solids on the bottom. Remove from the heat.
+    - Combine the melted brown butter with the whiskey in a resealable container.
+    - Allow to sit at room temperature for 1 hour, then place in the freezer. The butter will solidify quickly, and after about 2 hours you should be able to remove it from the freezer. Pass the whiskey through a cheesecloth-lined strainer, then bottle and store.
+- name: Clarified Sour Apple Cordial
+  notes: If a juicer isn’t available, or you are pressed for time, use store-bought 100 percent apple juice, such as Martinelli’s. Just make sure there is no sediment or anything cloudy in the juice.
+  ingredients:
+    - Granny smith apples
+    - sugar
+    - malic acid
+    - ascordbic acid
+    - citric acid
+  steps:
+    - Using a juicer, feed Granny Smith apples into the machine, then pass the juice through a fine-mesh strainer, then through a coffee filter. 
+    - The juice will be cloudy at first, but when it starts to run clear, transfer the strainer to a new container to collect the clear juice. 
+    - Add the cloudy juice back to the strainer until it, too, is clear. 
+    - Weigh the clarified juice and add 40 percent of its weight in sugar to a saucepan. 
+    - Add half of the juice and stir over low heat just until the sugar dissolves. 
+    - Remove from heat and add the remaining juice. 
+    - Weigh the juice-sugar mixture and add, by weight, 3 percent malic acid, 0.5 percent ascorbic acid and 1.5 percent citric acid.
+- name: Curry Leaf-Infused Oat Milk
+  notes:
+  ingredients:
+    - 186 grams oat milk
+    - 2 grams fresh curry leaves
+  steps:
+    - Add the oat milk to a saucepan over low heat, then add the curry leaves. Allow to infuse, covered, for 20 minutes, then remove from heat and let sit for another 30 minutes. Strain out the leaves.
+- name: Lactic Acid Simple Syrup
+  notes:
+  ingredients:
+    - 200 grams sugar
+    - 200 grams water
+    - 1 1/2 grams lactic acid
+  steps:
+    - Combine all ingredients in a saucepan over low heat and stir until the acid is fully dissolved.
+- name: Cola Syrup
+  notes:
+  ingredients:
+    - 1 part Coca-Cola
+    - 2 parts white sugar
+  steps:
+    - Measure the ingredients by weight, then add to a saucepan over low heat until the sugar has dissolved. Let cool then bottle and store in the refrigerator.
+- name: Hibiscus-Habanero Syrup
+  notes:
+  ingredients:
+    - 400g sugar
+    - 400g water
+    - 60g dried hibiscus flowers
+    - 50g habanero pepper, sliced
+    - 1 vanilla bean
+    - 5 orange peels
+  steps:
+    - Combine the sugar and water in a saucepan set over medium high heat. Add hibiscus flowers, habanero, vanilla bean and orange peels. Bring the mixture to a boil, then allow it to cool before straining.
+- name: Coconut Syrup
+  notes:
+  ingredients:
+    - 500 grams sugar
+    - 250 grams water
+    - 125 grams coconut oil
+  steps:
+    - "Make a 2:1 simple syrup by combining the sugar and hot water into a vessel and stir until the sugar dissolves."
+    - Add coconut oil to the mixture while it is still hot and stir to incorporate. 
+    - Leave the mixture out at room temperature for 4 hours, stirring occasionally and then freeze it for at least 4 hours or overnight. 
+    - The coconut oil will freeze as a cap on top of the liquid.
+    - Gently remove it and then strain the liquid into a new container. 
+    - Store covered in the refrigerator.
+- name: Passion Fruit Syrup
+  notes:
+  ingredients:
+    - 1 cup water
+    - 1 cup passion fruit purée
+    - 3 cups white sugar
+  steps:
+    - Combine all ingredients in a saucepan over low heat and stir until fully incorporated. Let cool, then fine strain into a bottle.
+- name: Cinnamon Syrup
+  notes:
+  ingredients:
+    - 3 3/4 grams Cassia cinnamon sticks, lightly toasted and broken up
+    - 3/4 gram Ceylon cinnamon sticks, lightly toasted and broken up
+    - 2 cups water
+    - 1 quart sugar
+  steps:
+    - In a saucepan, bring the water to a boil, add the cinnamon sticks and sugar and stir until dissolved. Let cool, then strain into a bottle.
+- name: Grilled Pineapple Demerara Syrup
+  notes:
+  ingredients:
+    - maple syrup
+    - Demerara syrup
+    - Pineapple
+  steps:
+    - Combine equal parts maple syrup and Demerara syrup (2:1 Demerara sugar dissolved in hot water). 
+    - Grill pineapple until caramelized. 
+    - For every ½ ounce of syrup, add a half-moon of grilled pineapple, chopped into small pieces.
+    - Infuse overnight, then strain.
+- name: Jungle Batch
+  notes:
+  ingredients:
+    - 1 1/4 ounces El Dorado 8 Year rum
+    - 3/4 ounce Clairin Casimir rum 
+    - 1/4 ounce Giffard Banane du Brésil
+  steps:
+    - Combine all ingredients in a container and stir.
+- name: Oat Syrup
+  notes:
+  ingredients:
+    - 1 cup gluten-free oats
+    - 4 cups water
+    - cane sugar
+  steps:
+    - Rinse and soak oats overnight.
+    - Discard water, and add 4 cups of fresh water to rinsedoats in a Vitamix. 
+    - Blend for 1 to 2 minutes. 
+    - Strain mixture, discard oats. 
+    - Measure 3 parts oat milk, 4 parts cane sugar (about 24ounces oat milk to 32 ounces cane sugar). 
+    - Blend very well until syrup is not grainy.
+- name: Cinnamon Bark Syrup
+  notes:
+  ingredients:
+    - 25 grams cinnamon bark
+    - 2 cups sugar
+    - 2 cups water
+  steps:
+    - Add cinnamon bark to a pot with muddle until broken up into small pieces. Toast cinnamon over burner until fragrant. Add sugar and water, then bring to a boil for 5 minutes. Allow to cool, then pour into a nonreactive container and store overnight. Strain through a chinois, then store in a container. Keeps up to 1 month.
+- name: Cinnamon Oat Syrup
+  notes:
+  ingredients:
+    - 3 parts oat syrup
+    - 1 part cinnamon bark syrup
+  steps:
+    - To make the cinnamon oat syrup, combine 3 parts oat syrup and 1 part cinnamon bark syrup.
+- name: Mamajuana
+  notes:
+  ingredients:
+    - 1 ounce honey
+    - pre-packaged botanicals
+    - 1 ounce red wine
+    - 750ml unaged rum
+  steps:
+    - To make mamajuana, Yoldin Castillo recommends buying pre-packaged botanicals and adding an ounce of honey, an ounce of red wine, then filling the rest of the bottle with unaged rum. Let sit for three months, then strain off the liquid and dispose of it (it will be too bitter from the bark) and refill with the same ingredients and let sit for an additional three weeks before using.
+- name: Mango Lassi Mix
+  notes:
+  ingredients:
+    - 16 ounces lassi syrup (see below)
+    - 8 ounces mango purée
+    - 8 ounces simple syrup
+    - 12 ounces lemon juice
+    - 4 ounces lime juice
+    - 5 grams amchur
+  steps:
+    - Combine all ingredients in a container and stir until integrated. 
+    - Alternatively, combine all ingredients in a blender and pulse until integrated.
+- name: Lassi Syrup
+  notes:
+  ingredients:
+    - 4 1/4 ounces yogurt, preferably Le Zette sheep’s milk yogurt
+    - 4 1/4 ounces water
+    - 250 grams (about 1 1/4 cups) sugar
+  steps:
+    - Combine all ingredients in a saucepan over low heat. 
+    - Whisk until sugar is incorporated, about 2 minutes. Remove from heat.
+- name: Turmeric-Chile Salt Rum
+  notes:
+  ingredients:
+    - 1/4 cup turmeric
+    - 1/4 cup Kashmiri chile powder
+    - 1/4 cup salt
+    - 1 tablespoon amchur
+  steps:
+    - Combine all ingredients in a blender and pulse until integrated. 
+    - Alternatively, mix in a container and stir until combined.
+- name: Chamomile-Infused Manzanilla Sherry
+  notes:
+  ingredients:
+    - 750ml-bottle manzanilla sherry, preferably Lustau
+    - small handful loose leaf chamomile tea
+  steps:
+    - Infuse tea in sherry for 15 minutes at room temperature. Strain and store in a bottle.
+- name: Orange Bitters Blend
+  notes:
+  ingredients:
+    - 3 parts Regans Orange Bitters
+    - 2 parts Bittercube Orange Bitters
+  steps:
+    - Combine in a bottle with a dasher top.
+- name: Peanut Butter-Washed Rum
+  notes:
+  ingredients:
+    - 15 grams creamy peanut butter
+    - 1L rum, preferably Plantation 3 Stars
+  steps:
+    - Combine and blend all ingredients in a Vitamix or blender. 
+    - Store in a freezer overnight. 
+    - Strain the mixture, then run it through a centrifuge to remove any particles.
+- name: Peanut Butter-Washed Spirit Blend
+  notes:
+  ingredients:
+    - 1 cup peanut butter
+    - 1 cup Woodford Reserve Double Oaked bourbon
+    - 1 cup Mellow Corn whiskey
+    - 1 cup Santa Teresa 1796 rum
+  steps:
+    - Spread peanut butter in a thin layer across the bottom of a deep pan.
+    - Pour the spirits over the peanut butter. Cover with plastic wrap, then let sit for 24 hours.
+    - Pour liquids through a coffee filter to strain, then bottle. Store in the refrigerator.
+- name: Toasted Oat Syrup
+  notes:
+  ingredients:
+    - 1/2 cup oats (old-fashioned or quick-cooking styles may be used)
+    - 5 cups water
+    - sugar
+  steps:
+    - Place oats in a medium sauté pan and toast until golden brown. Constantly move the pan so the oats don’t burn.
+    - Combine toasted oats with water and let infuse overnight. 
+    - Strain the oat water through a coffee filter and weigh the liquid.
+    - Add twice as much sugar (to create a 2:1 syrup), then bring the mixture to a boil to dissolve the sugar.
+    - Allow to cool, then bottle. Keeps, refrigerated, for up to 2 weeks.
+- name: Mint-Washed Rum
+  notes:
+  ingredients:
+    - 200 grams superfine sugar
+    - 1 large bundle of mint, leaves and stems included
+    - 700 milliliters rum, preferably Veritas White
+  steps:
+    - Create a mint oleo saccharum by muddling mint and sugar together, then let it sit, refrigerated, for 24 hours. 
+    - Add rum and rest in the freezer for 24 hours. Strain out the solids.
+- name: Mint-Infused Vermouth
+  notes:
+  ingredients:
+    - 750 milliliters blanc vermouth, preferably Dolin Blanc or Sardino Blanco
+    - 100 fresh mint leaves (stems and stalks removed)
+  steps:
+    - Briefly blitz the vermouth and mint in a blender, then refrigerate the combination for 1 hour. 
+    - Strain out the solids, bottle the vermouth, then refrigerate.
+- name: Elderflower Syrup
+  notes:
+  ingredients:
+    - 25 grams fresh elderberries
+    - 1 liter water
+    - 250 grams sugar
+  steps:
+    - Rest the flowers in water for 48 hours, then strain out the solids. 
+    - Heat the infusion to 80ºC (176°F) and stir in the sugar until dissolved. 
+    - Cool the syrup and refrigerate.
+- name: Saline Solution
+  notes:
+  ingredients:
+    - 1 cup water
+    - 4 ounces salt
+  steps:
+    - In a small saucepan, combine ingredients and heat until salt dissolves. 
+    - Let cool to room temperature and bottle.
+- name: Shiso-Infused Whiskey
+  notes:
+  ingredients:
+    - 20 green shiso leaves, washed and de-stemmed
+    - 1 750mL bottle of whiskey, preferably Suntory Toki
+  steps:
+    - Allow the shiso to steep in the bottle of whiskey for 48 hours before straining.
+- name: Black Cardamom Sauternes
+  notes:
+  ingredients:
+    - 375 mL bottle Sauternes
+    - 5 grams black cardamom pods
+  steps:
+    - Crack the cardamom pods with a mortar and pestle and toast lightly until aromatic. 
+    - While the cardamom is still warm, transfer to a glass jar. 
+    - Pour the room-temperature Sauternes over the pods and allow to infuse for 5 to 10 minutes. 
+    - Fine-strain the solids out and bottle the Sauternes. 
+    - Will keep for one week in the refrigerator.
+- name: Cranpari
+  notes:
+  ingredients:
+    - 500 grams cranberries
+    - 500 grams sugar
+    - 500 grams water
+    - 60 grams Campari
+  steps:
+    - Add the cranberries, sugar and water to a Vitamix. Blen on medium-high speed for approximately 1 minute, until the mixture is smooth and the sugar is dissolved.
+    - Pour the mixture through a chinois and add the Campari to the strained liquid.
+    - Keeps, refrigerated, for 2 weeks.
+- name: Saline Solution
+  notes:
+  ingredients:
+    - 400 grams warm water
+    - 100 grams Maldon sea salt
+  steps:
+    - Combine the salt and warm water, and stir until dissolved. 
+    - Keeps at room temperature for up to a month.
+- name: Pomegranate Grenadine
+  notes:
+  ingredients:
+    - 1 part POM Wonderful pomegranate juice
+    - 1 part white granulated sugar
+    - .0075 parts malic acid
+    - .005 parts citric acid
+    - .0006 parts orange extract (preferably Terra Spice)
+  steps:
+    - Measure one part pomegranate juice (preferably POM Wonderful), one part white granulated sugar, .0075 parts malic acid, .005 parts citric acid and .0006 parts orange extract (preferably Terra Spice) and combine in high-speed blender. Blend until incorporated and store cold.
+- name: Sous-Vide Citrus Vodka
+  notes:
+  ingredients:
+    - 1 Meyer lemon peel (pith removed)
+    - 1 regular lemon peel (pith removed)
+    - 1 750ml bottle vodka
+  steps:
+    - Place vodka and lemon peels in a sous-vide bag or zip-lock bag, air removed. 
+    - Immerse the bag in a hot water bath for about 2 hours. 
+    - Strain and funnel into vodka bottle.
+- name: Infused Citrus Vodka
+  notes:
+  ingredients:
+    - 1 Meyer lemon peel (pith removed)
+    - 1 regular lemon peel (pith removed)
+    - 1 750ml bottle vodka
+  steps:
+    - Place vodka and lemon peels in a jar. 
+    - Close tightly and allow to infuse for about two days. 
+    - Strain and funnel into vodka bottle.
+- name: Kool-Aid Mead
+  notes:
+  ingredients:
+    - 3 quarts hot water
+    - 1 quart honey
+    - 25 grams/5 packets cherry Kool-Aid
+    - 1 packet dried Champagne yeast
+  steps:
+    - In a sanitized container, combine the hot water, honey and Kool-Aid. 
+    - Stir until the honey is dissolved and the mixture is homogeneous, then let cool to room temperature. 
+    - Once it’s cool, add the Champagne yeast, then transfer to a sanitized gallon container. 
+    - Secure with a one-way fermentation air lock and set aside for 7 days. 
+    - The mead is ready to use when the alcohol content measures 6 percent. 
+    - Transfer to the refrigerator to slow the fermentation process.
+- name: Lemon Super Juice
+  notes: Yields 1 quart.
+  ingredients:
+    - 65 grams lemon peel (from about 10 lemons)
+    - 65 grams citric acid
+    - 1085 milliliters water
+  steps:
+    - Add the lemon peels and citric acid to a blender. 
+    - Let the lemon peels macerate with the citric acid until they release most of their oil (about 15 minutes). 
+    - Add the water and blend until the peels are as fine as sand, then strain the mixture and refrigerate. 
+    - Use within 2 weeks.
+- name: Habanero-Infused Vinegar
+  notes:
+  ingredients:
+    - 1 habanero pepper
+    - 500 milliliters white wine vinegar
+  steps:
+    - Chop the habanero pepper, then combine it with the white wine vinegar and cook sous-vide at 45°C (113°F) for 1 hour.
+- name: Cinnamon Syrup
+  notes:
+  ingredients:
+    - 4 cups white sugar
+    - 2 cups water
+    - 25 grams (about 10) cinnamon sticks
+  steps:
+    - Combine the sugar and water in a pan over medium heat, stirring until the sugar is fully dissolved. 
+    - Gently crush the cinnamon sticks, then add them to the syrup. 
+    - As soon as you see bubbles, cover and turn off the heat. 
+    - Let sit for 20 minutes, then strain, label, date and refrigerate.
+- name: Saline Solution
+  notes:
+  ingredients:
+    - 20 grams kosher salt
+    - 100 milliliters filtered water
+  steps:
+    - Combine the ingredients in a small bowl or measuring cup and mix until fully incorporated.
+- name: Black Tea-Infused Vodka
+  notes:
+  ingredients:
+    - 1 liter Stateside vodka (or other local vodka)
+    - 32 grams Charleston Tea Garden’s American Classic Tea
+  steps:
+    - Combine ingredients in a nonreactive container and infuse for 2 hours.
+    - Strain out the tea and re-bottle the vodka. Keeps for up to 1 month at room temperature.
+- name: Condensed Oat Milk
+  notes:
+  ingredients:
+    - 64 ounces full-fat or barista-grade oat milk
+    - 560 grams sugar (U.S. beet sugar preferred)
+    - 15 grams cardamom leaves
+    - 8 grams pandan leaves
+    - 80 grams whole Appalachian allspice (aka spicebush berries)
+    - 1/4 teaspoon salt
+  steps:
+    - Simmer oat milk and sugar for 1 hour, stirring occasionally.
+    - After 1 hour, crush and squeeze the cardamom leaves and pandan in your hands a bit until they become very aromatic, then add to the oat milk and sugar mixture, along with the salt and Appalachian allspice.
+    - Continue to cook at a simmer for an additional 30 minutes, stirring occasionally.
+    - Fine-strain, then bottle and refrigerate.
+- name: Green Mango-Infused Tequila
+  notes:
+  ingredients:
+    - 1 liter tequila, preferably Patrón Silver
+    - 350 grams peeled green mango, roughly chopped
+  steps:
+    - Combine ingredients and let infuse overnight, up to 24 hours. Strain and bottle. Keeps indefinitely at room temperature.
+- name: Costeño Chile Oil
+  notes:
+  ingredients:
+    - 70 grams chopped costeño chiles
+    - 1 liter extra-virgin olive oil
+  steps:
+    - Steep 70 grams of chopped costeño chiles in 1 liter of extra-virgin olive oil for 3 to 4 weeks, then strain and bottle in a small vial with an eyedropper. For a quicker infusion, warm 70 grams of chopped costeño chiles and 1 liter of extra-virgin olive oil over low heat for an hour, then let cool. Strain and bottle in a small vial with an eyedropper.
+- name: Antica Don's Mix
+  author: Garret Richard
+  notes: Garret Richard, chief cocktail officer at Brooklyn’s Sunken Harbor Club, believes he’s stumbled on not only a better Don’s Mix, but perhaps a more period-correct version, too. Inspired by the techniques outlined by Darcy O’Neil, a chemist and drink-maker and the author of Fix the Pumps, a history of America’s soda fountains, Richard applies the same flavoring techniques used at soda fountains to create what he’s calling Antica Don’s Mix. This means flavoring simple syrups with essences (essential oils cut with alcohol), extracts (spices rested in high-proof spirits and then strained off) and acid powders. The result is a flavor-packed product, with all the brightness of its fresh juice counterpart in a more shelf-stable package. For safety reasons, the quantity and ratio of grapefruit essence should not be adjusted.
+  ingredients:
+    - 1 liter 60 Brix white sugar syrup
+    - 20 milliliters white grapefruit essence
+    - 10 milliliters cassia extract
+    - 15 grams citric acid
+  steps:
+    - Add the sugar syrup, grapefruit essence and cassia extract to a blender.
+    - Blend to emulsify. While blending, add the citric acid.
+    - Let the syrup sit for a few hours to allow the essence and extract to coalesce in the syrup.
+    - Keeps, refrigerated, for up to 2 months.
+- name: 60 Brix White Sugar Syrup
+  notes:
+  ingredients:
+    - 900 grams sugar
+    - 600 milliliters water
+  steps:
+    - Combine the water and sugar in a blender, and mix until the sugar has dissolved. Bottle and refrigerate.
+- name: White Grapefruit Essence
+  notes:
+  ingredients:
+    - 450 milliliters high-proof neutral spirit, preferably Lvov Spirytus Grain Neutral Spirits 96%
+    - 30 milliliters New Directions white grapefruit essential oil
+  steps:
+    - Combine the ingredients in a container, and use a hand blender to mix on high for 5 minutes. Bottle and seal.
+- name: Cassia Extract
+  notes:
+  ingredients:
+    - 200 grams rou gui cinnamon bark
+    - 200 milliliters high-proof neutral spirit, preferably Lvov Spirytus Grain Neutral Spirits 96%
+  steps:
+    - Grind the cinnamon bark into a fine powder, then dampen it with a splash of the high-proof spirit. Stir the grounds until the powder is thoroughly moistened. Let the powder sit for 1 hour. Combine the powder and the alcohol in a container, and let sit for at least 24 hours, up to 48 hours. Fine-strain through a paper coffee filter.
+- name: Wheatgrass Syrup
+  notes:
+  ingredients:
+    - 1 liter water
+    - 40 grams wheatgrass
+    - Evaporated cane sugar
+  steps:
+    - Blend wheatgrass and water for 30 seconds. 
+    - Strain out the wheatgrass and weigh the liquid.
+    - Combine an equal amount of sugar, by weight, and stir until fully incorporated.
+- name: Mango Syrup
+  notes:
+  ingredients:
+    - 1.5 kilograms evaporated cane sugar
+    - 1 liter filtered water
+    - 850 grams mango purée
+    - 2 355-milliliter bottles Mexican Coke
+    - 100 grams sliced ginger
+    - 1 1/2 teaspoons kosher salt
+  steps:
+    - Add all of the ingredients to a pot and bring to a low simmer. 
+    - Remove from heat, add to a Cambro, and let infuse for 4 to 6 hours. 
+    - Strain through a chinois, then refrigerate.
+- name: Mango Cubes
+  notes:
+  ingredients:
+    - Several just-ripe mangoes
+  steps:
+    - Peel several just-ripe mangoes. (They should be a little soft, but not mushy.) 
+    - Cut out a nice cuboid and then cut out 0.5cm cubes. 
+    - Cut the fruit into half-centimeter cubes, then add to cilantro syrup in a Cryovac bag and seal. 
+    - Refrigerate for 2 to 3 days to infuse.
+- name: Cilantro Syrup
+  notes:
+  ingredients:
+    - 1 liter water
+    - 1 kilogram evaporated cane sugar
+    - 30 grams cilantro, blanched
+    - 1 teaspoon salt
+  steps:
+    - Add all of the ingredients to a pot and bring to a low simmer. 
+    - Remove from heat, add to a Cambro, and let infuse for 4 to 6 hours. 
+    - Strain through a chinois, then refrigerate.
+- name: Salted Coconut Foam
+  notes:
+  ingredients:
+    - 1 14-ounce can full-fat coconut cream, preferably Savoy
+    - 50 grams sugar
+    - 35 milliliters falernum, preferably John D. Taylor’s Velvet Falernum
+    - 3 grams salt
+    - 1 gram Modernist Pantry Foam Magic
+  steps:
+    - In a container or bowl, combine all of the ingredients and stir until the contents are married and the sugar is dissolved. 
+    - Add contents to an iSi foam whipper, shake and charge with a N2O canister. 
+    - Shake again and let sit for approximately 20 minutes before using.
+    - Keeps, refrigerated, for 48 hours.
+- name: Five Pepper-Infused Tequila
+  notes:
+  ingredients:
+    - 1 liter blanco tequila, preferably ElVelo
+    - 2 chipotle chiles
+    - 2 dried habanero chiles
+    - 2 guajillo chiles
+    - 2 chiles de árbol
+    - 2 ancho chiles
+  steps:
+    - Combine the tequila with the chiles and let sit for 2 hours, then strain out the solids. Keeps indefinitely at room temperature.
+- name: Maple-Tamarind Syrup
+  notes:
+  ingredients:
+    - 1 part tamarind syrup (1:1, cane sugar to tamarind juice)
+    - 1 part maple syrup
+  steps:
+    - Combine all of the ingredients and stir to integrate.
+- name: 
+  notes:
+  ingredients:
+    - 
+  steps:
+    - 

@@ -5,6 +5,7 @@ recipes:
   - name: Nightfall in Kentucky
     author: Dustin Harstaad
     notes: Willett is the ideal bourbon for this cocktail. John David Willett began the Willett distilling tradition in Kentucky shortly after the Civil War. In 1937, the Willett Distilling Company produced its first batch of bourbon. Today, this private, family-owned company produces many enjoyable brands of bourbons and whiskeys.
+    glassware: 
     ingredients:
     - 2 ounces Willett bourbon
     - ¾ ounce Amaro Nonino
@@ -20,6 +21,7 @@ recipes:
   - name: Rube Foster
     author: Sean Johnson 
     notes: “Bonded” means the bourbon is made at a single distillery, by one distiller, in one distillation season, aged for at least four years in a federally bonded and supervised warehouse, and bottled at 100 proof. Jim Beam Bonded Kentucky Straight Bourbon Whiskey is an example of a bonded spirit. Single distiller, single season, and 100 proof are all noted on its label. Tuaca is an Italian vanilla-citrus liqueur.
+    glassware: 
     ingredients:
     - ¼ ounce allspice liqueur, such as The Bitter Truth Pimento Dram
     - 2 ounces bonded bourbon
@@ -39,6 +41,7 @@ recipes:
   - name: V.O.C. Cocktail
     author: Dustin Harstaad
     notes: "Jenever goes by many names: genièvre, genever, peket, and, in English-speaking countries, Holland gin or Dutch gin. It is the national distilled spirit of the Netherlands and Belgium, and of course, the juniper-flavored predecessor of modern gin. Cynar is a bitter Italian liqueur. The Pedro Ximénez sherry is a fortified wine from a grape of the same name. This cocktail finishes with Angostura, and saline and ascorbic acid solutions to adjust the flavor profile to our liking."
+    glassware: 
     ingredients:
     - ¼ ounce Ardbeg Single Malt Scotch
     - 1 ounce genever
@@ -59,6 +62,7 @@ recipes:
   - name: Black Betty
     author: Chris Goad
     notes: The components of this cocktail make for a complex blend of flavors. Amaro Montenegro is a renowned Italian liqueur. Fernet-Branca is a dark, bitter liqueur from Italy with a pronounced black licorice flavor. The sherry we use is made from the Pedro Ximénez grape, using the solera method.
+    glassware: 
     ingredients:
     - 1 ounce dark rum
     - 1 ounce Amaro Montenegro
@@ -76,6 +80,7 @@ recipes:
   - name: High Street Cocktail
     author: Sean Johnson
     notes: Dolin Blanc is very popular at the moment. Giffard is from Angers, France, and they produce an amazing line of spirits. And even the Peychaud’s bitters are French, by way of Creole N’Orleans. The ascorbic acid solution is shown to good advantage here. Most cocktail houses would offset the sweetness of the liqueurs by increasing the lemon juice, but that dilutes the liqueurs and shifts the flavor profile toward lemon. The ascorbic acid solution allows us to gently tweak the acidity of the cocktail to highlight the other flavors without having to overdo the citrus.
+    glassware: 
     ingredients:
     - 1½ ounces gin
     - ½ ounce Dolin Vermouth de Chambéry Blanc
@@ -94,6 +99,7 @@ recipes:
   - name: Perra por Favor!
     author: Sean Johnson
     notes: Mezcal is a cousin to tequila, both distilled from juice of the agave (albeit different species), but mezcal can be a lot smokier. The Cocchi Vermouth di Torino is Italian, dark, sweet, and fruity. Crème de mûre is blackberry liqueur. Add bitters and just a pinch of salt to further draw out all those flavors.
+    glassware: 
     ingredients:
     - 1½ ounces mezcal
     - ¾ ounce Cocchi Vermouth di Torino
@@ -110,6 +116,7 @@ recipes:
   - name: Vacation Forever
     author: Chris Goad
     notes: The blend of Casoni 1814, passion fruit, and beer makes this drink an interesting collection of flavors. Casoni 1814 is an Italian liqueur originating in the Emilia-Romagna region. Similar to Aperol, it offers a mild flavor of blended herbs, fruits, and seeds complemented by floral notes and a rosy hue.
+    glassware: 
     ingredients:
     - 1 ounce gin
     - ½ ounce white rum
@@ -128,6 +135,7 @@ recipes:
   - name: The Lighter Side
     author: Dustin Harstaad
     notes: The combination of peach liqueur and Aperol offers both color and taste in the perfect proportion. Aperol, incidentally, is a lightly alcoholic Italian aperitif—what we used to call “Campari light”—and the featured ingredient in the famous Aperol Spritz, which originated in 1950s Italy.
+    glassware: 
     ingredients:
     - 2 ounces bourbon
     - ½ ounce Aperol
@@ -143,6 +151,7 @@ recipes:
   - name: The Elvis Ziggurat
     author: Chris Goad
     notes: The underpinning to this cocktail is cachaça, a distilled spirit made in Brazil from sugarcane juice; think of it as Brazilian rum agricole. Into that, we mix cream, banana liqueur, our honey syrup, and two sherries, one for sweetness, the other for nuttiness.
+    glassware: 
     ingredients:
     - 1½ ounces cachaça
     - ½ ounce heavy cream
@@ -160,6 +169,7 @@ recipes:
   - name: Shrouded Roulette
     author: 
     notes: To prove great minds think alike, one of our bartenders at canon independently came up with this recipe, which is remarkably similar to the Magnolia (see recipe). Yet, if you were to taste them side by side, you’d be amazed at how different they are. The array of quality spirits that are available in this golden age of bartending enables us to take basic principles and create thousands of delicious variations. Pisco is a brandy produced in Peru and Chile.
+    glassware: 
     ingredients:
     - 1½ ounces pisco
     - ½ ounce Salers Aperitif La Bounoux Gentiane
@@ -175,6 +185,7 @@ recipes:
   - name: Rha Rha (Sis Boom Bah)
     author: 
     notes: The Rha Rha signals the beginning of spring at canon. As soon as we have an ample supply of beautiful rhubarb, we juice and pickle all that we can get our hands on. This is a very simple, light refreshment that contains a ton of flavor but delivers it delicately and with the chic fashion sense that a beverage containing Champagne should.
+    glassware: 
     ingredients:
     - 1½ ounces white rum
     - ¾ ounce Rhubarb Shrub (see recipe)
@@ -190,6 +201,7 @@ recipes:
   - name: The canon Cocktail
     author: 
     notes: This is our signature cocktail. It has been on the menu since day one, and it is still our best-seller. 
+    glassware: 
     ingredients:
     - 2 ounces rye
     - 1 ounce sweet vermouth
@@ -205,6 +217,7 @@ recipes:
   - name: Absinthe Frappe
     author: 
     notes: I don’t believe there is a more mysterious, more maligned spirit than absinthe. When people ask me about absinthe at canon, my first words are usually, “Forget everything you think you know about absinthe.” It won’t make you hallucinate; it’s not meant to be set on fire; it was never technically illegal in the United States; it’s not all about the wormwood; and yes, the stuff we get here is just as real as the stuff they get in Europe! Absinthe is an amazing, high-proof, botanical- laced spirit that, when handled properly, is quite exquisite. Just like gin or Chartreuse or amari, absinthe may take some getting used to, but once you do, it’s a love affair that will last for the ages. In this version, we add Dimmi Liquore di Milano, an Italian liqueur distilled from wheat and infused with fruits and herbs; Giffard Menthe-Pastille, a peppermint liqueur; and a touch of rich simple syrup.
+    glassware: 
     ingredients:
     - 1 ounce absinthe
     - ½ ounce Dimmi Liquore di Milano
@@ -220,6 +233,7 @@ recipes:
   - name: 1846 Cocktail
     author: 
     notes: Named for the year Dubonnet was first invented, this is a tasty riff on the venerable Manhattan. This recipe is built around Dubonnet Rouge, a sweet wine-based “Grand Aperitif de France,” and a much different beast than the Dubonnet found in America made by Heaven Hill. Decades ago, after seeing bartenders in the Midwest add a little DayGlo maraschino corn syrup to their Manhattans, I started playing around with more flavorful liqueurs and syrups to add just a hint of fruit to this classic. The 1846 is what I settled on as one of the strongest contenders. Lingonberry syrup is deliciously light and sweet with a powerful tang, so it’s worth your effort to track it down. If you have difficulties, a surprising resource is Ikea.
+    glassware: 
     ingredients:
     - 2 ounces bourbon
     - 1 ounce Dubonnet Rouge
@@ -234,6 +248,7 @@ recipes:
   - name: The Duboudreau Cocktail
     author: 
     notes: This is a variation of a recipe I had submitted to Jim Meehan of PDT fame for Food & Wine’s annual cocktail book. He took my recipe, added Dubonnet, and changed the name, which, quite frankly, made the cocktail better. We now have this recipe in rotation at canon as a constant reminder of how our industry is held aloft on the shoulders of giants.
+    glassware: 
     ingredients:
     - 2 ounces rye
     - ¾ ounce Dubonnet Rouge Grand Aperitif de France
@@ -249,6 +264,7 @@ recipes:
   - name: L’Amour en Fuite
     author: 
     notes: This is a riff on the Self-Starter Cocktail (see recipe) using the relatively new elderflower spirit St-Germain, which was introduced to rave reviews in 2006. This adaptation is a great noncitrus spring cocktail whereas the Aurora (see recipe) or Cobbler’s Dream (see recipe) are more suited to colder months. When sipping this drink, I’ve always been amazed at its simple elegance. It transports me back to a time when life was perhaps a little more slow-paced.
+    glassware: 
     ingredients:
     - ¼ ounce absinthe
     - 1½ ounces gin
@@ -266,6 +282,7 @@ recipes:
   - name: Guillaume d’Orange
     author: 
     notes: The Lillet helps to stretch out the Amer Boudreau (Picon), allowing the gin to exercise some muscle, but you may notice that the usual pattern of wine-based spirit being the second largest ingredient has changed with this recipe. This can happen when using amaro as the third ingredient, because the bitterness naturally present in most amari helps counteract the sweetness. This allows you to go with less of the vermouth-style lengthener than normally needed. This is a nice light cocktail that gives canon yet another opportunity to utilize all of the Amer Boudreau (Picon) that we make.
+    glassware: 
     ingredients:
     - 2 ounces gin
     - ¾ ounce Amer Boudreau (Picon) (see recipe)
@@ -280,6 +297,7 @@ recipes:
   - name: Olmstead’s Release
     author: 
     notes: Named after Seattle’s infamous police officer/bootlegger, this little number is a complex mouthful, not unlike Roy Olmstead himself. While successful enough as a policeman in Seattle, Olmstead realized there was far more profit in running booze during Prohibition. He found an opportunity to make the change permanent after being caught moonlighting in bootlegging. Soon he became one of Puget Sound’s largest employers. Due to his insistence that his smuggled product never be adulterated in any way, we felt the need to honor that integrity by naming this one after him. Crème Yvette is a berry and violet liquor from France. Amaro Meletti is an Italian aromatic with saffron, violet, and anise notes.
+    glassware: 
     ingredients:
     - 1½ ounces rye
     - ¾ ounce Lillet Rosé
@@ -296,6 +314,7 @@ recipes:
   - name: Cherry Blossom
     author: Jamie Boudreau
     notes: I came across this combination, ideal for the fall, when searching through my childhood memories trying to find flavors or combinations I could “adultify.” The Canadian Christmas treat, a large maraschino cherry covered by chocolate, was a highlight of the holidays for me. The inspiration for this drink may imply this is a sweet cocktail, but the opposite is actually true, because the only sugar comes from the tiny ¼ ounce of crème de cacao.
+    glassware: 
     ingredients:
     - 1¼ ounces bonded rye
     - ¾ ounce Cherry Kirsch
@@ -311,6 +330,7 @@ recipes:
   - name: Morning Glory Royale
     author: Jamie Boudreau
     notes: A word about Boker’s bitters is in order. For any recipe in this book that specifies canon brand Boker’s bitters, please substitute Angostura aromatic bitters if you are unable to get Boker’s. Boker’s is based on old recipes and personal notes from tastings of the only three bottles of genuine Boker’s—a company that went out of business over one hundred years ago—that are known to exist. Our canon brand Boker’s is quite different from any commercial example I’ve been able to find, probably because the main flavor ingredient is so expensive. The dash of rich simple syrup included in this recipe is there to counterbalance the thinness that sparkling wine brings, and it is a technique we often use if a cocktail feels “thin” on the palate. For the cocktail nerds among us, this is a variation of Jerry Thomas’s original 1887 Morning Glory recipe. Another easy twist on this cocktail would be to substitute the triple sec with St-Germain, maraschino, or even a quality ginger liqueur.
+    glassware: 
     ingredients:
     - ¼ ounce absinthe
     - 1 ounce cognac
@@ -331,6 +351,7 @@ recipes:
   - name: Aurora Cocktail
     author: Jamie Boudreau
     notes: The perceptive ones out there will quickly realize the only difference between the classic Morning Glory Royale and our Aurora is the swap of St-Germain for the orange liqueur. While this may appear to be a subtle change, substituting elderflower liqueur for orange does make a big difference, and it’s a perfect example of how versatile a spirit St-Germain really is. I’ve yet to find a cocktail where the substitution of St-Germain for orange liqueur or maraschino hasn’t worked.
+    glassware: 
     ingredients:
     - ¼ ounce absinthe
     - 1 ounce cognac
@@ -350,6 +371,7 @@ recipes:
   - name: The Sidecar
     author: 
     notes: And without further ado, the Sidecar...
+    glassware: 
     ingredients:
     - 1½ ounces brandy
     - ½ ounce Combier triple sec
@@ -365,6 +387,7 @@ recipes:
   - name: Daiquiri
     author: 
     notes: The daiquiri has been maligned in the past, but that is merely because bartenders have absolutely butchered this drink until quite recently. The daiquiri is a perfect example of how three ingredients, when mixed together properly, can become magical. A daiquiri insists on great, fresh ingredients. This means no lime syrups or “juice” off the gun for this drink. And please, put away the blender. It is not needed or wanted here. Just take the following three ingredients, shake them as hard as you can, fine-strain into an ice-cold coupe, and enjoy. Sometimes perfection can be found in simplicity.
+    glassware: 
     ingredients:
     - 2 ounces white rum
     - ¾ ounce fresh lime juice
@@ -380,6 +403,7 @@ recipes:
   - name: Stiggins’ Daiquiri #2
     author: 
     notes: Our riff on this amazing, magical classic is as simple as replacing the white rum with Plantation pineapple rum and adding a couple dashes of bitters (which, quite frankly, is also optional). Please don’t be confused by the addition of a flavored spirit here, something that you almost never see at canon. This particular rum is not a sticky, sweet sugar bomb, but rather an amazingly complex spirit made by redistilling rum with pineapple rinds and some infused pineapple fruit. The Plantation pineapple rum is in very small production, but if you come to canon, we may have it in stock.
+    glassware: 
     ingredients:
     - 2 ounces Plantation pineapple rum
     - ¾ ounce fresh lime juice
@@ -396,6 +420,7 @@ recipes:
   - name: Cobbler’s Dream
     author: Jamie Boudreau
     notes: I created this drink while working as St-Germain’s brand ambassador, but the Cobbler’s Dream still finds a place in canon’s repertoire. Check the formula, and you’ll notice I’ve used the Golden Ratio and the Mr. Potato Head theory to turn the classic Martinez into the Cobbler’s Dream.
+    glassware: 
     ingredients:
     - ¼ ounce absinthe
     - 1¼ ounces rye
@@ -413,6 +438,7 @@ recipes:
   - name: Commodore
     author: Jamie Boudreau
     notes: I unearthed this recipe in the wonderful Old Waldorf-Astoria Bar Book. As with most drinks from this era, I’ve tweaked the ratios quite drastically. Originally, the drink called for equal parts lemon, bourbon, and liqueur, but this made a rather unpleasant drink in our estimation, so we increased the bourbon and dramatically decreased the remaining ingredients. Give it a shot—I think you’ll be surprised at how civilized the Commodore can be. 
+    glassware: 
     ingredients:
     - 1½ ounces bourbon
     - ½ ounce Tempus Fugit crème de cacao
@@ -428,6 +454,7 @@ recipes:
   - name: Green Glacier
     author: 
     notes: This cocktail can become quite sweet if you don’t carefully measure and use a high-proof cognac. Try to find something that is at least 45 percent alcohol. This recipe works due to Chartreuse’s natural affinity to chocolate, and it was created out of a slew of cocktail recipes exploring this relationship. The orange zest greatly changes this drink, brightening it up and adding another flavor tie-in because orange and chocolate also make great companions. This recipe often finds its way onto our seasonal menus at canon during fall and winter.
+    glassware: 
     ingredients:
     - 1½ ounces cognac, 45% alcohol or higher
     - ¼ ounce green Chartreuse
@@ -443,6 +470,7 @@ recipes:
   - name: The Champs-Élysées Cocktail
     author: 
     notes: I first came across this drink, named after Paris’s touristy boulevard, in Harry Cradock’s beautiful The Savoy Cocktail Book, published in 1930. While a riff on the Sidecar, another drink that may have roots in Paris, the Champs-Élysées Cocktail is infinitely more complex, thanks to the inclusion of Chartreuse. Mr. Craddock never mentioned whether to use green or Yellow Chartreuse, but I’ve always been partial to the yellow. If you choose the green, you may need to add a small dash of rich simple syrup.
+    glassware: 
     ingredients:
     - 1½ ounces cognac
     - ½ ounce Yellow Chartreuse
@@ -459,6 +487,7 @@ recipes:
   - name: Magnolia
     author: Jamie Boudreau
     notes: A riff on the Brooklyn (which is a riff on the Manhattan), the Magnolia is aptly named after a section of Seattle that boasts beautiful views of Puget Sound as well as a plentiful supply of wild blackberry bushes. In a fit of pique at the number of cocktails named after the boroughs of New York, I felt it was high time Seattle had its own! It’s made with a French liqueur produced from the roots of the wild Gentiana lutea plant. You’ll find the bitterness of Salers Aperitif La Bounoux Gentiane is the perfect light foil to the sweetness of the blackberry liqueur.
+    glassware: 
     ingredients:
     - 1½ ounces gin
     - ¾ ounce Salers Aperitif La Bounoux Gentiane
@@ -474,6 +503,7 @@ recipes:
   - name: Chamomile Sour
     author: 
     notes: This is a riff on a simple Whiskey Sour, but sometimes the simplest drinks don’t need a lot of coaxing to become unique.
+    glassware: 
     ingredients:
     - 2 ounces chamomile Scotch (see recipe)
     - ¾ ounce fresh lemon juice
@@ -491,6 +521,7 @@ recipes:
   - name: Marmalade Sour
     author: 
     notes: Why waste marmalade on your toast when you can have it in a cocktail? This recipe came about many moons ago while I was wandering around Vancouver’s great farmers’ market on Granville Island. Walking among all that amazing produce, I happened upon a stall featuring homemade preserves, and there came my epiphany that marmalade would be an obvious addition to a sour. After deciding on low-sugar marmalade, I messed around with various base spirits before I settled on cachaça, the Brazilian spirit made from sugarcane juice. The smoky fire of the cachaça was easily tamed by the tart sweetness of the marmalade, and a star was born! This modern classic now regularly makes its way onto our canon menu, usually around springtime.
+    glassware: 
     ingredients:
     - 2 ounces cachaça
     - 2 tablespoons low-sugar orange, citrus, or grapefruit marmalade
@@ -509,6 +540,7 @@ recipes:
   - name: Widow's Kiss No. 2
     author: Jamie Boudreau
     notes: "From George J. Kappeler’s 1895 book, Modern American Drinks: How to Mix and Serve All Kinds of Cups, Cocktails, and Fancy Mixed Drinks, the original cocktail called for no citrus, but in my mind, this drink screams for it. The original recipe also called for equal parts liqueur to base spirit, which will have the average Joe running to the clinic for a shot of insulin. I dialed back the liqueurs (a lot), but even then, the drink was a little too sweet, which meant we had to adjust the bitters or add some acid. Ascorbic acid was okay, but just a dash of lemon juice made a significant difference in the final product. Because we’ve added so little citrus, we’ve decided to keep the mouthfeel of a stirred drink and throw out modern convention, which tells us to shake this concoction. If you don’t have access to Calvados, feel free to use Laird’s straight apple brandy."
+    glassware: 
     ingredients:
     - 1½ ounces Calvados
     - ½ ounce Bénédictine
@@ -525,6 +557,7 @@ recipes:
   - name: Raspberry Flip
     author: 
     notes: This flip will work just as well, if not better, with thawed frozen raspberries, making for an amazing fall and winter drink. Its brightness comes from the acidity of the raspberries. It is imperative that you double-strain with a fine-mesh strainer because of the seeds in fruit.
+    glassware: 
     ingredients:
     - 1½ ounces bourbon
     - ½ ounce raspberry liqueur
@@ -541,6 +574,7 @@ recipes:
   - name: The Hooker
     author: Jamie Boudreau
     notes: This drink was originally conceived when I realized no one had ever named a drink after John Lee Hooker’s “One Bourbon, One Scotch, One Beer.” Usually, a song such as this would have a slew of drinks named after it, even though mixing those three ingredients into a tasty cocktail is actually rather difficult. This recipe is a perfect example of the rare time when an idea will come into my head but I have a heck of a time actualizing it. This drink went through many iterations before I decided on this one. Then, when I set it out into the wild, it sold like gangbusters, but not for the reason I expected. Most people were just intrigued to order a Hooker, not realizing the name actually was referring to something else—well, for me, anyway. Luckily, everyone enjoying our cocktail had a happy ending, so we didn’t have to reimburse anyone for disappointment.
+    glassware: 
     ingredients:
     - 1 ounce bourbon
     - ½ ounce Amaro Averna
@@ -561,6 +595,7 @@ recipes:
   - name: Flip Off the Devil
     author: Jamie Boudreau
     notes: I created this for the Halloween season, and let me tell you, it is absolutely delicious! Orange-hued and frothy, the egg hides the lurking power of the bonded apple brandy, making this one dangerous cocktail. Would you like to get the timid to brave eggs and apple brandy in one go? This is the drink! For the uninitiated, a flip is a cocktail that includes an entire egg, essentially a nog without cream. I’ll let you guess how I came up with the name...
+    glassware: 
     ingredients:
     - 1½ ounces Laird’s straight apple brandy (see headnote)
     - ½ ounce Giffard Abricot du Roussillon
@@ -579,6 +614,7 @@ recipes:
   - name: Corpse Reviver No. 1
     author: 
     notes: At canon, Corpse Reviver No. 2 is the more popular of the Corpse Reviver series. No worries—we’ve included it, below. We have further played with this formula and created one of our favorite fall-winter riffs, the Naramata, described in the Canada chapter. However, I feel No. 1 has been overlooked and needs to be tried to appreciate this apple variation of the Manhattan.
+    glassware: 
     ingredients:
     - 1½ ounces cognac
     - 1 ounce bonded apple brandy
@@ -595,6 +631,7 @@ recipes:
   - name: Corpse Reviver No. 2
     author: 
     notes: 
+    glassware: 
     ingredients:
     - In a cocktail shaker, add the gin, Cointreau, Lillet Blanc, lemon juice, and absinthe. Shake and fine-strain into a cocktail glass. Garnish with a lemon twist, if desired.
     steps:
@@ -612,6 +649,7 @@ recipes:
   - name: Coraje
     author: 
     notes: Although I’m not a huge fan of coffee cocktails, it became apparent living in Seattle that I needed to address this common request. I’ve used Kahlúa Midnight because this liqueur is higher proof and superior to the standard coffee liqueurs, but Heering coffee liqueur and several other quality brands would work very nicely as well. A rich, complex cocktail, this is perfect for those fall days when the weather begins to get chilly.
+    glassware: 
     ingredients:
     - 1½ ounces dark rum
     - ¾ ounce Bonal Gentiane-Quina
@@ -628,6 +666,7 @@ recipes:
   - name: Nirvana Cocktail
     author: 
     notes: For a very long time, I could not get enough of this drink. For a short time, it even supplanted my love of the Old Fashioned and all of its iterations. It is important to get a spicy rye that is at least 50 percent ABV; otherwise, the cocktail will become overly sweet. When made properly and ice cold, this drink will let you sit back and contemplate all that life throws at you. You’ll finish content in the knowledge that whichever of life’s issues is getting you down at the moment, you’ll always have light on the path to your own private Nirvana.
+    glassware: 
     ingredients:
     - 2 ounces bonded rye, 50% alcohol or stronger
     - 1 ounce Amer Picon aperitif
@@ -644,6 +683,7 @@ recipes:
   - name: Remember the Maine
     author: 
     notes: "I first discovered the Remember the Maine in Charles H. Baker Jr.’s 1939 opus, The Gentleman’s Companion: Being an Exotic Drinking Book Or, Around the World with Jigger, Beaker and Flask, an amazing read if you ever have the time. What made his cocktail book so unusual was his style of wrapping the recipes in a snippet of a tale that happened to him on his extensive travels around the world. Needless to say, this one caught my imagination, and surprisingly enough, the recipes were quite tasty to boot. I hadn’t touched this drink in years until I realized I had never heard of a drink named Remember the Alamo. So, when I decided to create one, it had to be a riff on the Maine. Given the proximity of the Alamo to Mexico, tequila needed to be the base spirit. One thing that helps the Remember the Alamo become something transcendent is bottle aging (or put simply, time together in a container), and I achieve this at canon by zapping it for several minutes in our ultrasonic homogenizer. This forces the molecules of the different spirits to become more closely acquainted, in a manner that resembles aging for three to four months in a bottle. We use this technique quite often, and while the homogenization step is not necessary to enjoy this at home, it definitely softens the edges and makes the drink something special."
+    glassware: 
     ingredients:
     - ¼ ounce absinthe
     - 1½ ounces rye
@@ -660,6 +700,7 @@ recipes:
   - name: Remember the Alamo
     author: 
     notes: 
+    glassware: 
     ingredients:
     - ¼ ounce absinthe
     - 1½ ounces Milagro reposado tequila
@@ -677,6 +718,7 @@ recipes:
   - name: The Studebaker
     author: Jamie Boudreau
     notes: This is a summery version of the 1846 Cocktail. It is named after the car favored by bootleggers during Prohibition. The Studebaker is also a perfect example of the Mr. Potato Head theory because all we did was swap out the Dubonnet Rouge for Lillet Blanc, and change the bitters. You can even exchange the base spirit if you wish.
+    glassware: 
     ingredients:
     - 1 ounce bourbon
     - 1 ounce Lillet Blanc
@@ -692,6 +734,7 @@ recipes:
   - name: Seapea Fizz
     author: 
     notes: The Seapea Fizz is another light and refreshing absinthe-based cocktail, allegedly named after Cole Porter, whose initials inspired the name. While absinthe can be quite aggressive, the egg white softens the burn of the alcohol, allowing one to really savor the botanicals in the absinthe. We discovered this recipe in Frank Meier’s 1934 book from the Ritz Bar in Paris, The Artistry of Mixing Drinks.
+    glassware: 
     ingredients:
     - ¾ ounce absinthe
     - ¾ ounce fresh lemon juice
@@ -709,6 +752,7 @@ recipes:
   - name: Self-Starter Cocktail
     author: Jamie Boudreau
     notes: We refer again to The Savoy Cocktail Book (1930) for this delightful and elegant sipper. The Savoy’s version is much lighter, with the Lillet almost sharing equal billing with the gin. But, as usual, we prefer ours to be a little more gin heavy. Please go a little heavy with your absinthe rinse in this drink. If you use a quality apricot liqueur, it will be quite assertive, so the absinthe rinse acts as a competent foil.
+    glassware: 
     ingredients:
     - ½ ounce absinthe
     - 1½ ounces gin
@@ -726,6 +770,7 @@ recipes:
   - name: Swagger
     author: 
     notes: This is a very simple drink on paper, but a refreshing yet complex mouth bomb once you take a sip! This cocktail has come and gone many times from our canon menu, primarily because there are so few great drinks that utilize grapefruit juice, in my humble opinion. Fresh orange juice is another ingredient that presents challenges in cocktails. We always try to have at least one fresh grapefruit drink and one fresh orange juice cocktail. That way, we aren’t throwing away lots of juices at the end of every shift. The odd thing is that even though there aren’t many great drinks with orange or grapefruit juice in them, a quality bar will always have both ingredients fresh and at the ready. If you add a little bit of ascorbic acid solution to your orange juice, it’s more versatile, and it extends the life of your juice into a second day after squeezing. Zucca Rabarbaro is another of the Italian amaro liqueurs.
+    glassware: 
     ingredients:
     - 1 ounce gin
     - ½ ounce Dubonnet Rouge
@@ -742,6 +787,7 @@ recipes:
   - name: Yakima Cartel
     author: Jamie Boudreau
     notes: The Cartel was derived from our need to always have a grapefruit juice drink on the canon menu, as well as my desire to inform the world that there is more than the margarita when it comes to tequila cocktails. Normally I would have added a touch of lime juice to this drink to help with the balance, but because I know there would be instant comparisons to America’s most popular cocktail, I opted to add acid by using ascorbic acid, while the salt both within and on top contributes a nice savory note.
+    glassware: 
     ingredients:
     - 1½ ounces tequila blanco
     - ½ ounce house-made Falernum (see recipe)
@@ -760,6 +806,7 @@ recipes:
   - name: The Paloma
     author: Jamie Boudreau
     notes: A casual glance at the Yakima Cartel cocktail on the previous page and you will find its origins in this tasty Paloma, not in the ubiquitous margarita. While there are many recipes for the Paloma, I prefer this simple summer sipper.
+    glassware: 
     ingredients:
     - 2 ounces tequila blanco
     - ½ ounce fresh lime juice
@@ -775,6 +822,7 @@ recipes:
   - name: Beauregard’s Breakfast
     author: 
     notes: Despite the name, this is a great drink at all points of the day. For all you Willy Wonka fans out there, it’s named after the little girl in the movie who, through her own doing, was practically turned into a human blueberry. As with proteins, pectin can round the rough edges of alcohol, making these cocktails seem easier to drink. That can be a dangerous thing if not managed properly, so watch out if you find yourself consuming four and then feeling the urge to seek out a corner store and pick up your Golden Ticket!
+    glassware: 
     ingredients:
     - 1½ ounces bourbon
     - ¾ ounce fresh lemon juice
@@ -792,6 +840,7 @@ recipes:
   - name: Jitterbug
     author: 
     notes: This drink will wake you up before you go-go, or allow your evening to keep going. Be forewarned, Fernet-Branca is not gentle. If this is your first drink, you will be jolted awake, and then immediately demand a hefty breakfast! Carpano Antica is a high-quality, sweet Italian vermouth. Fernet-Branca is an Italian dark, bitter liqueur.
+    glassware: 
     ingredients:
     - 1½ ounces freshly brewed espresso
     - 1 ounce Carpano Antica Formula sweet vermouth
@@ -810,6 +859,7 @@ recipes:
   - name: Milk Punch
     author: 
     notes: Almost a dessert, this milk punch is a perfect way to start the day. The cream masks the alcohol, making it seem like it’s not even there. Give this a mighty shake; otherwise it will be too heavy for an early morning drink. The nutmeg is optional, but adds lovely aromatics that might even stretch this into a colder weather, all-day recipe.
+    glassware: 
     ingredients:
     - 2 ounces Breakfast Cream (see recipe)
     - 1 ounce bourbon
@@ -825,6 +875,7 @@ recipes:
   - name: Toucan Gin Fizz
     author: 
     notes: "This drink is an amazing riff on the venerable, classic Ramos Gin Fizz. We’ve replaced the cream with our Breakfast Milk, which is a component of our Toucan Mix. We also added lecithin as a stabilizer. Though we tweaked the proportions, it still has its origins in the 1888 classic. The tiny amount of food coloring is completely optional, but here’s why we use it: Any time egg white is added to a drink, it greatly mutes the colors, and I want people to realize there is “breakfast milk” in their drink."
+    glassware: 
     ingredients:
     - 4 ounces chilled Toucan Mix (see recipe)
     - 1½ ounces chilled soda water
@@ -841,6 +892,7 @@ recipes:
   - name: Tom Collins
     author: Jamie Boudreau
     notes: The Tom Collins was popular back in the day, and with a steady supply of booze (for courage) and citrus (for scurvy), it was only a matter of time before everyone was making it. Given that soda water was once a luxury, armies during the First World War couldn’t supply the beverage to everyone. Soldiers in the field resolved the soda shortage by looking to the French, who had plentiful Champagne and preferred to drink it rather than have it fall into enemy hands. Naturally, this drink needed a new name, and given the wallop it packed, the French 75 was born.From this simple recipe, we have a world of options at our disposal using the Mr. Potato Head theory. Don’t feel like gin? Swap for tequila, rum, or whiskey. Bored with rich simple syrup? Substitute a liqueur. And if plain old soda doesn’t float your boat, try one of the millions of flavored sodas available today on the market. As always, your drink is only as strong as your weakest link, so please make sure to use fresh, quality ingredients.
+    glassware: 
     ingredients:
     - 2 ounces gin
     - ½ ounce fresh lemon juice
@@ -857,6 +909,7 @@ recipes:
   - name: Starlet Sling
     author: Jamie Boudreau
     notes: I’m not a fan of liquid legumes or nuts, so you seldom see these ingredients used at canon, but I am proud of our house-made orgeat with its marzipan notes. Check out the recipes utilizing either our orgeat syrup or our house-made Falernum, which also uses our orgeat syrup. Here is one example where the orgeat pairs wonderfully with the cherries and offers you a better sling than you would find even at Raffles Hotel in Singapore, home of the iconic Singapore Sling.
+    glassware: 
     ingredients:
      - 1½ ounces gin
      - 1 ounce fresh lemon juice
@@ -875,6 +928,7 @@ recipes:
   - name: French 75
     author: 
     notes: I’ve added the common French 75 to this book, not to throw you for a loop, but rather to clear up what I believe is a much maligned drink. Order a French 75, and you usually get a cocktail served in a champagne flute with some citrus and a kick. Well, I’m here to tell you this drink is not supposed to be served in a champagne flute. It is a civilized drink that helped British soldiers tough out the First World War while remembering fonder, more peaceful times. While many books will tell you how the French 75 is named after the artillery gun (due to its kick), I'm going to focus on where it came from and how it was adapted during the hardships of war. As hard drinking a lot as we are today, recall that back in the day we used to be professionals at this most luxurious of sports. Drinking wasn’t something that occurred occasionally or on special occasions, drinking was done throughout the day, every day. Many soldiers had alcohol included in their rations, and the British kept a steady supply of rum and gin in the field regardless of how difficult the fighting became. What better source of courage than bottles of booze brought up to the front lines during times of battle? Here’s a simple recipe for the classic French 75 with very few adjustments so you can see how our creative process works at canon. Please serve this tall and iced, like a Collins. If you doubt my word, try a sip straight up before pouring over the ice.
+    glassware: 
     ingredients:
      - 2 ounces gin
      - ½ ounce fresh lemon juice
@@ -894,6 +948,7 @@ recipes:
   - name: Bohemian French 75
     author: 
     notes: Here is another example of how easy it is to take a simple classic and, with very few adjustments, turn it into a similarly beautiful beast. Notice we increased the amount of liqueur in relation to the rich simple syrup due to the lower sugar content of St-Germain. If we were to swap out the rich simple syrup for a different liqueur (peach would be wonderful here, maybe with a thyme sprig for garnish), then I would have left the volume (¼ ounce) the same as in the classic French 75.
+    glassware: 
     ingredients:
      - 1½ ounces gin
      - ½ ounce St-Germain elderflower liqueur
@@ -914,6 +969,7 @@ recipes:
   - name: After All Imperial
     author: 
     notes: This bracing refreshment is equally at home in front of the fireplace or on the patio. Make sure you always use a quality liqueur. I’m a big fan of the Giffard line, but there are other reputable brands out there. If you buy a cheap liqueur, you’ll find it too sweet, artificially flavored, or accented wrong. A cheap liqueur throws off the entire recipe, even when using as little as half an ounce. This riff is an oldie but goodie. I’ve changed the base from Laird’s Applejack to the much superior Laird’s bonded apple brandy, and then added some bubbles while reducing the liqueur. I’m confident that this is much superior to the original Tom Collins, and urge you to compare for yourself.
+    glassware: 
     ingredients:
      - 1½ ounces Laird’s straight apple brandy (see headnote)
      - ½ ounce peach liqueur
@@ -932,6 +988,7 @@ recipes:
   - name: Rose Water Rickey
     author: Jamie Boudreau
     notes: "When the sun is finally able to push the Seattle rain clouds away for periods of time that can be measured in days, and not just minutes or hours, I know spring has arrived. With the emergence of warm spring air, fragrant blossoms, and singing birds, it is time to put away that bottle of whiskey I normally go for in winter and reach for the bottle of gin. Warm weather isn’t just for Collinses: This time we’re going to turn to the much lesser known Rickey. A devout Democrat, Colonel Joe Rickey created his signature drink during the summer of his 1883 campaign. The original Rickey called for rye and not gin. Today a Rickey is a Collins without the sugar and with lime instead of lemon. The Rose Water Rickey cheats a little by adding sugar to caramelize the cherries, but I think the good colonel wouldn’t mind so much. This cool libation will refresh even the most parched campaigner."
+    glassware: 
     ingredients:
      - 8 Griottines cherries
      - 1 teaspoon sugar
@@ -951,6 +1008,7 @@ recipes:
   - name: Peychaud’s Paloma
     author: 
     notes: While not technically a Paloma, I am using fresh grapefruit juice instead of grapefruit soda in this drink, and have elected to present it in a tall glass rather than a short one. Nevertheless, this cocktail bears enough of the characteristics of a Paloma that the average layman would recognize it as such. This recipe is another perfect example of how cocktail bitters can be used in quantities greater than a dash, with surprising results.
+    glassware: 
     ingredients:
      - 2 ounces soda water
      - 2 ounces fresh grapefruit juice
@@ -968,6 +1026,7 @@ recipes:
   - name: Carefree Chelsea
     author: 
     notes: "We’re stretching the category a little bit here, but the overall feeling stays the same: long, tall, and refreshing. This drink tends toward the savory side. The name refers to the Chelsea Football Club’s song as well as their fans’ practice of throwing celery on the field. Don’t omit the salt in this one; it really brightness up the celery juice. And, if you batch the juice, bitters, sugar, and salt together (combining those ingredients ahead of time), you’ll get a much longer shelf life in the end."
+    glassware: 
     ingredients:
      - 2 ounces fresh celery juice
      - 1½ ounces white rum
@@ -986,6 +1045,7 @@ recipes:
   - name: El Diablo
     author: 
     notes: This is another classic, and the second tequila drink I came across all those decades ago when I began bartending in the 1980s. Leaning toward the Buck and Mule side of the family, this has a spicy ginger beer and not too much sugar, and we serve it in a tall glass. This is really the second tequila drink every bartender should learn. The crème de cassis is a sweet, dark red liqueur made from black currants.
+    glassware: 
     ingredients:
      - 1½ ounces blanco tequila
      - ¾ ounce crème de cassis
@@ -1004,6 +1064,7 @@ recipes:
   - name: Mezcal Buzz
     author: 
     notes: Mezcal is a cousin of tequila, both made from juice of the agave. This cocktail screams for more spice, which is why we make it with our own spicy ginger syrup in addition to spicy ginger beer. Not only does this allow for different layers of flavor, but it also allows for different layers of sweetness, making this a complex yet refreshing drink. When picking a mezcal for this cocktail, I suggest steering away from one that is too smoky.
+    glassware: 
     ingredients:
      - 1½ ounces mezcal, preferably Fidencio Classico or Del Maguey Vida
      - ½ ounce ginger syrup (see recipe)
@@ -1022,6 +1083,7 @@ recipes:
   - name: Washington Mule
     author: 
     notes: "This is one of my all-time favorite simple drinks. Back in 2005, when I was researching what to name this, I was stunned to realize it wasn’t already a classic. This should be in everyone’s repertoire. It is the perfect drink: simple, easy to make, and great through all seasons. It works on every level, with the lime pairing exceptionally well with the apple and ginger, and with the bitters doing the same. It’s how cocktail flavors should hold hands!"
+    glassware: 
     ingredients:
       - 2 ounces Laird’s straight apple brandy (see headnote)
       - ½ ounce fresh lime juice
@@ -1041,6 +1103,7 @@ recipes:
   - name: Old Fashioned Cocktail
     author: 
     notes: Here it is, the granddaddy of them all! The cocktail that started the category of cocktail, after which there was no turning back! You’ll notice we don’t list the type of spirit because they were all used, and they all still work. Purists will scoff at our use of rich simple syrup instead of a sugar cube. But I say the original recipes called for you to muddle sugar and water together, essentially making rich simple syrup to order, which is completely unnecessary. Besides, other than our good friend David Wondrich, who would want their last sip of this glorious cocktail ruined by a thick sludge of undissolved sugar? Notice we don’t muddle fruit or even have ice in our Old Fashioned, and for good reason. Cocktails fall in and out of fashion, but the Old Fashioned has always been around, surviving Prohibition and the dark decades of bartending that came after. During those woeful times, the Old Fashioned became adulterated, essentially just a watery fruit salad. If we look at one of the Old Fashioned’s first variations, the Sazerac, too old and obscure to have been maltreated by modern hands, perhaps ice was never meant to be in the final product. Makes sense, especially when one considers what a luxury item ice was in the 1800s.
+    glassware: 
     ingredients:
       - 2 ounces spirit of your choice
       - ¼ ounce rich simple syrup (see recipe)
@@ -1057,6 +1120,7 @@ recipes:
   - name: Sazerac
     author: 
     notes: What is the cocktail we look to, a direct descendant of the Old Fashioned, and relatively untouched throughout the ages? Why, that would be the Sazerac, birthed in New Orleans, then forgotten for decades except in the Big Easy. If you’re feeling really daring, you can split the rye in this drink equally with cognac for something a little special, or you can go all out and just make the Cubed Old Fashioned (see recipe), our over-the-top variation of the original.
+    glassware: 
     ingredients:
       - ¼ ounce absinthe
       - 2 ounces rye or cognac
@@ -1075,6 +1139,7 @@ recipes:
   - name: Cubed Old Fashioned
     author: 
     notes: This is easily one of my favorite creations, although so is the Truffled Old Fashioned (see recipe). Are you seeing a pattern here with the Old Fashioned cocktails? There is so much going on in this glass. Granted, the house-made syrups are a little extra work, but in the end you’ll be grateful you did it. This drink is also one of my first creations using multiple spirit bases in one recipe. The results spoke for themselves and encouraged me to go on a spree of creating drinks with more than one base, a trend that you’ll see on many of canon’s menus.
+    glassware: 
     ingredients:
       - ¾ ounce cognac
       - ¾ ounce rye
@@ -1091,6 +1156,7 @@ recipes:
   - name: Truffled Old Fashioned
     author: 
     notes: The idea for this cocktail began around 2003, when the restaurant I was managing used to save the nibs of truffles left over from grating over dishes. When we began running out of uses for them, we came up with the idea of shoving them into a bottle of Armagnac so they wouldn’t go bad. Let’s just say that was one of the smartest endeavors mankind has ever embarked upon, and from this serendipity, the Truffled Old Fashioned was born. When making truffle cognac at canon, we use a mix of Oregon and Burgundy black truffles in our infusion.
+    glassware: 
     ingredients:
       - 2 ounces truffle cognac (see recipe)
       - ¼ ounce tonka bean syrup (see recipe)
@@ -1108,6 +1174,7 @@ recipes:
   - name: Aude Man Thyme
     author: 
     notes: If in season, muddle one-quarter of a fresh peach with ¼ ounce rich simple syrup; otherwise, use a prepared peach purée. I recommend you use a drier style of Chardonnay, not the one that tastes like you just licked a stick of butter. It is imperative that you fine-strain this drink, or it will look quite unappealing, not to mention the flecks of thyme stuck to your teeth.
+    glassware: 
     ingredients:
       - 2 ounces Chardonnay
       - 1 ounce gin
@@ -1123,6 +1190,7 @@ recipes:
   - name: Chrysanthemum No. 2
     author: 
     notes: I felt that this riff on the classic Chrysanthemum needed a touch of citrus for balance and to brighten the drink as a whole. Always be sure the vermouth you use is fresh, for it is a wine and degrades shortly after opening. Also, there is a whole spectrum of vermouths out there, so choose one from a reputable producer, such as Dolin. A lesser vermouth will not make for a pleasant drink. The Bénédictine liqueur is a classic, an old recipe with twenty-seven different plants and spices.
+    glassware: 
     ingredients:
       - ¼ ounce absinthe
       - 2 ounces dry vermouth
@@ -1138,6 +1206,7 @@ recipes:
   - name: Sherry Cobbler
     author: 
     notes: As I write this, sherry is finally getting back some long overdue recognition. It is being used in many more cocktails, often as the main player. This is our riff on the original Sherry Cobbler. We use oloroso, a dark and nutty Spanish sherry. To add interest and build complexity, we add patxaran, a sloe berry liqueur from the Basque region of the Pyrenees. Feel free to use whatever fruits are in season. It never hurts to have an orange slice and some mint to top it off.
+    glassware: 
     ingredients:
       - 1 ounce oloroso sherry
       - ¼ ounce patxaran liqueur
@@ -1153,6 +1222,7 @@ recipes:
   - name: The Three Skylarks
     author: 
     notes: This is the perfect summer sipper. Light bodied, full of fruit, and with a hint of bitterness, this recipe will refresh and prepare you for what’s next. Becherovka Original is a natural herbal bitter liqueur made in the Czech Republic. It may be a little difficult to get, but I recommend you track down a bottle. Its complex flavors, highlighted by ginger and cinnamon notes, will give you lots of opportunities to use it, like in the Banksy Scotch Mix we make at canon.
+    glassware: 
     ingredients:
       - 1 ounce Lillet Rosé
       - 1 ounce Becherovka
@@ -1169,6 +1239,7 @@ recipes:
   - name: Châtelaine
     author: 
     notes: The key to this simple and beautiful cocktail is to ensure the wine is dry, and doesn’t smell of cat pee, a rather common and somewhat off-putting trait in this varietal. Taste your pomegranate first, and if excessively sour, and only then, add the St-Germain.
+    glassware: 
     ingredients:
       - 2 ounces Sauvignon Blanc
       - 1 ounce gin
@@ -1185,6 +1256,7 @@ recipes:
   - name: Gatsby
     author: 
     notes: I thought of this creation many moons ago, and it still finds its way onto our rotation at canon once in a while. Vodka is merely boosting all the layers of flavors here, a neat little trick that vodka can pull off to improve foods as well as spirits. Galliano L'autentico is another of the classic liqueurs, a sweet herbal concoction from Tuscany using a recipe over one hundred years old.
+    glassware: 
     ingredients:
       - 1 ounce dry vermouth
       - 1 ounce sweet vermouth
@@ -1202,6 +1274,7 @@ recipes:
   - name: Corrascal
     author: 
     notes: This cocktail is light on alcohol, but certainly not light on flavor. We serve the Corrascal more in the fall and winter, whereas most of the other cocktails in this section are suited to warmer months.
+    glassware: 
     ingredients:
       - 1½ ounces dry Amontillado sherry
       - ¼ ounce Rothman & Winter Orchard Pear liqueur
@@ -1220,6 +1293,7 @@ recipes:
   - name: Pimm's No. 1 Tea
     author: 
     notes: Refreshing and cooling, this is essentially adult iced tea. The liquor is Pimm's No. 1, a gin-based spirit from England. I dare you to drink just one of these on a sweltering summer day. Go on. Try it. I’ll be waiting.
+    glassware: 
     ingredients:
       - 3 ounces freshly brewed orange pekoe tea, chilled
       - 2 ounces Pimm's No. 1
@@ -1239,6 +1313,7 @@ recipes:
     author: 
     notes: Contemporary Cocktails created this drink in New York City in 2008. The name is a reference to the city’s 212 area code as well as to the ratios of the recipe. Our carbonated version of this great drink is featured in the next recipe.
     year: 2008
+    glassware: 
     ingredients:
       - 2 ounces Partida reposado tequila
       - 2 ounces fresh grapefruit juice
@@ -1254,6 +1329,7 @@ recipes:
   - name: The 2-1-2 Royale
     author: 
     notes: This is our take on the wonderful 2-1-2 Cocktail (previous recipe). We have taken the original and tweaked it in a manner that allows us to carbonate the cocktail with the FIZZIQ Cocktail Bottling System (the system we use at canon), and bottle it in mini champagne bottles adorned with our labels. You’ll notice we’ve added some dry sparkling wine and some syrup to the original recipe. The syrup is there to offset the sour notes and acidity we get from the CO2, and the sparkling wine is merely to lengthen the drink. The bottles hold 7 ounces, a little too much alcohol if it were all tequila and Aperol. We are in the business of giving people great experiences at canon, and that does not include getting guests drunk before they know what hit them. To protect our guests, our recipes for carbonated cocktails often use extenders such as wine or soda to adjust them to a sensible amount of alcohol.
+    glassware: 
     ingredients:
       - 2 ounces blanco tequila
       - 2 ounces clarified grapefruit juice (see recipe)
@@ -1271,6 +1347,7 @@ recipes:
   - name: Apricot Blow
     author: 
     notes: Carbonation serves this drink well. It would be quite sweet otherwise. A blow is a fizz with a fruit component other than lemon. And what is a fizz, you ask? It’s a Collins without ice. And what is a Collins? Why, it’s a sour with soda. And what is a frustrated bartender? The person whose job is to figure out one drink category from another, with no easy manual to help.I decided to make a drink that is part Picon Punch, part Peach Blow, and part Jamie Boudreau (that being the bitter part). Abricot’s aggressive fruitiness plays nice with the bitter of the Amer Boudreau and the sour of the lemon. It even lets the Lillet tag along. Serves 2.
+    glassware: 
     ingredients:
       - 3 ounces Amer Boudreau (Picon) (see recipe)
       - 2 ounces Lillet Blanc
@@ -1287,6 +1364,7 @@ recipes:
   - name: Corpse Reviver CO2
     author: 
     notes: A riff on the Corpse Reviver No. 2, this is our answer to the request for a vodka and Red Bull. We do not use artificial energy drinks at canon. Because of the caffeine in this drink, we limit orders to two per person. We have created various versions of this classic cocktail, which include Corpse Reviver CO2 without caffeine, and the COblue, which uses blue curaçao in place of the triple sec.
+    glassware: 
     ingredients:
       - 200 mg caffeine pill, crushed
       - 2 ounces distilled water
@@ -1306,6 +1384,7 @@ recipes:
   - name: Fruit Basket
     author: 
     notes: Light and refreshing, this carbonated drink makes it onto our spring and summer menus quite often. The recipe may read as if this cocktail is sweet, but the two liqueurs are balanced by the slightly bitter Aperol, dry sparkling wine, lemon juice, and the carbonic acid from the carbonation. Simply double this recipe if you’d like to make it for two.
+    glassware: 
     ingredients:
       - 2 ounces dry sparkling wine
       - 1½ ounces white rum
@@ -1325,6 +1404,7 @@ recipes:
   - name: Hanky Panky
     author: Jamie Boudreau
     notes: This starts with an unaged spirit and the power of FernetBranca, a dark liqueur with a bitter, black licorice flavor. I decided the best way to age this 1930s Savoy Hotel classic is to add heavily charred American oak. The cocktail ages while simultaneously taming the Fernet-Branca.
+    glassware: 
     ingredients:
       - 1½ ounces gin
       - 1 ounce sweet vermouth 
@@ -1341,6 +1421,7 @@ recipes:
   - name: La Bicyclette
     author: Jamie Boudreau
     notes: This is the first cocktail we aged at canon, now going on five years aging in French oak. This is a fairly bright cocktail that turns a little darker with the addition of oak. More than one person has mentioned that French oak can lend an almost thyme-like quality to the drink. Thankfully, that works in this case, probably aided by the peach bitters.
+    glassware: 
     ingredients:
       - 1½ ounces gin
       - ¾ ounce sweet vermouth
@@ -1357,6 +1438,7 @@ recipes:
   - name: Latin Trifecta
     author: Jamie Boudreau
     notes: This may look like an odd recipe on paper, but in the glass it becomes a revelation, a very complex drink noted for the absence of citrus. That prevents our guests from dismissing it as “just another margarita,” the label that every other poor tequila-with-citrus gets pigeonholed with. The curse of being the most popular drink in America, I guess! So, we do our own variation of this cocktail by storing the Latin Trifecta in Westland Single Malt Whiskey barrels for a minimum of six months of solera aging.
+    glassware: 
     ingredients:
       - 1 ounce blanco tequila
       - 1 ounce Cynar
@@ -1373,6 +1455,7 @@ recipes:
   - name: Liberal Cocktail
     author: Jamie Boudreau
     notes: For this classic recipe, we aged the cocktail in lightly charred French oak. We don’t normally age cocktails with aged spirits, but the addition of French oak adds notes that cannot be achieved any other way.
+    glassware: 
     ingredients:
       - 2 ounces rye
       - 1 ounce sweet vermouth
@@ -1390,6 +1473,7 @@ recipes:
   - name: Oaxacan Scaffa
     author: Jamie Boudreau
     notes: We started out aging this for a minimum of nine months in a bourbon cask. Then we found we could make it even better by using a solera process for continuous aging. Aging does wonders in muting the aggressive notes of the mezcal, while the vanillins in the barrels pair beautifully with the crème de mûre. This is a perfect example of an aged cocktail tasting better than the unaged version.
+    glassware: 
     ingredients:
       - 1½ ounces mezcal
       - ¾ ounce Punt e Mes vermouth
@@ -1408,6 +1492,7 @@ recipes:
   - name: Angostura Collins
     author: Jamie Boudreau
     notes: The key to selling this drink is technique and presentation. If we don’t layer the Angostura on top of the other ingredients but just shake them together as one would normally do, I’d be surprised if we could sell a single one. The cocktail would be a dark, murky, rust-brown color, and in every way unappealing. Instead, layer the dark black bitters atop the bright yellow Collins portion, and inform the guest to stir everything before consuming. You’ll have a tasty drink that also happens to present itself beautifully, and the payoff comes when neighboring tables start inquiring about it.
+    glassware: 
     ingredients:
       - 1½ ounces fresh lemon juice
       - 1 ounce rich simple syrup (see recipe)
@@ -1424,6 +1509,7 @@ recipes:
   - name: Alabazam
     author: Jamie Boudreau
     notes: The Alabazam has long been associated with the Criterion, a restaurant that was in London’s Piccadilly Circus and is often described as one of the top-ten historic and oldest restaurants in the world. Now, there’s a pedigree for you. On the other hand, Leo Engel, the Criterion’s head bartender back in the day, seems to have been the first to publish the original recipe when he authored his classic 1878 bartenders’ guide, American and Other Drinks. Mr. Engel suffered from the dubious distinction of being an American expatriate. It’s always something. So, the Alabazam’s origins are a bit opaque. And it turns out the cocktail has a few opaque ingredients itself, so one would normally expect to give it a shake. We discovered we enjoy the texture much more when it is stirred; it gives a silkier mouthfeel. Deep red rust in tone and with lots of spice from the Angostura, this cocktail will cure what ails you and take you back in time to an era when drinking was about much more than mirthful tipples—it was about following doctor’s orders. This complex drink is one of our first discoveries that bitters don’t have to be relegated to a background note. Instead, they can be front and center. Anyone who uses bitters knows that a teaspoon of Angostura is an enormous amount of an ingredient usually measured in drops and dashes. But, tempered with the sugar and triple sec, it really works here, adding lots of complexity and making this a spicy fall and winter treat, replete with notes of cinnamon and clove. The following is our take on the original recipe.
+    glassware: 
     ingredients:
       - 1½ ounces cognac
       - ½ ounce Combier triple sec
@@ -1440,6 +1526,7 @@ recipes:
   - name: Bitter Fruit
     author: Jamie Boudreau
     notes: Fun, light, and low in alcohol, the Bitter Fruit is easy to make, but the one caveat is that all ingredients need to be kept on ice so this iceless drink goes to the table as cold as possible. To make this cocktail even easier to prepare, I highly recommend blending the Campari and boysenberry together and refrigerating until needed. This will also extend the shelf life of your purée.
+    glassware: 
     ingredients:
       - 4 ounces Moscato d’Asti
       - ½ ounce Campari
@@ -1454,6 +1541,7 @@ recipes:
   - name: Jasmine
     author: Jamie Boudreau
     notes: The Jasmine is the first cocktail that allowed me to start appreciating Campari. Made properly, this drink should remind you of an alcoholic grapefruit juice, even though that ingredient is not present. Paul Harrington created the Jasmine for a friend of his while working at the Townhouse Bar and Grill in Emeryville, California. That friend’s name? Matt Jasmine. The Jasmine may look like a Cosmopolitan, but don’t be fooled. The Campari has a bit of a bite. This may be the perfect introduction to Campari, because the combination of citrus, triple sec, and Campari tastes like the most delicious grapefruit you’ve ever encountered.
+    glassware: 
     ingredients:
       - 1½ ounces Tanqueray London Dry gin
       - ¾ ounce fresh lemon juice
@@ -1470,6 +1558,7 @@ recipes:
   - name: Novara
     author: Jamie Boudreau
     notes: There are many passion fruit syrups on the market, and most are artificially flavored sugar bombs that have no business in a cocktail. However, if you happen upon a quality brand, you’ll be hard pressed not to put passion fruit into everything. The brand we prefer is Aunty Liliko’i, shipped directly from Hawaii.
+    glassware: 
     ingredients:
       - 1½ ounces gin
       - ½ ounce Campari
@@ -1485,6 +1574,7 @@ recipes:
   - name: Moro Moro Moro
     author: Jamie Boudreau
     notes: "The name of this drink derives from the most colorful of blood oranges, the Moro, which recalls the color of this drink. Looking at this recipe, the first thing that pops out is the lack of a traditional base spirit, but the combination of flavors makes for a bracing, bitter summertime sipper. It’s nice to be able to source some product locally when we can: One I like to use is DRY soda, a very low-sugar, quality product made right in Seattle."
+    glassware: 
     ingredients:
       - 1¾ ounces Campari
       - ½ ounce fresh lemon juice
@@ -1502,6 +1592,7 @@ recipes:
   - name: Union Club
     author: Jamie Boudreau
     notes: This drink celebrates Campari’s love affair with orange juice, this time backed with the boldness of bourbon. Named after a long defunct saloon in Seattle’s Pioneer Square, its notoriety derives from the fact that it was once run by the infamous Wyatt Earp, albeit for a short time, before the city confiscated the contents of the bar and burned them.
+    glassware: 
     ingredients:
       - 2 ounces bourbon
       - 1½ ounces fresh orange juice
@@ -1517,6 +1608,7 @@ recipes:
   - name: Blood Orange
     author: Jamie Boudreau
     notes: Because blood oranges are only available for a short time each year, I’ve given you a recipe that calls for regular orange juice. But fret not, for the addition of Campari adds a hue like that of the blood orange variety, regardless of the season. While this cocktail calls for two different amari, don’t be concerned about it being too bitter because both liqueurs contain a fair amount of sugar, and the sweetness of the juice will help balance the entire drink in the end.
+    glassware: 
     ingredients:
       - 1½ ounces gin
       - ½ ounce Amaro Montenegro
@@ -1532,6 +1624,7 @@ recipes:
   - name: Italian Buck
     author: Jamie Boudreau
     notes: Not only does this drink contain two different amari, but they are the main ingredients in this bitter lover’s recipe. While the Cynar carries all the funky bitter vegetal notes, the Montenegro helps round it out with its abundance of citrusy flavors.
+    glassware: 
     ingredients:
       - 1 ounce Amaro Montenegro
       - 1 ounce Cynar
@@ -1549,6 +1642,7 @@ recipes:
   - name: Petruchio Cocktail
     author: Jamie Boudreau
     notes: There may be a million cocktail variations with this name today, but when the Petruchio was first created, Aperol was new to Seattle and this recipe was unique to our neck of the woods. Upon tasting Aperol, there comes a moment of clarity, and as a result, the Petruchio cocktail remains unchanged from the moment the concept entered my head. It is very rare for me to leave a recipe untouched after the first attempt, but the Petruchio hit the nail square on the head, first time. Don’t mess with success.
+    glassware: 
     ingredients:
       - 1 ounce gin
       - 1 ounce Aperol
@@ -1567,6 +1661,7 @@ recipes:
   - name: Zim Zala Bim
     author: Jamie Boudreau
     notes: Inspired by the Alabazam, I created this bitters-heavy drink using the structure of the Alabazam formula and named it after a different magic word. This is an elegant recipe, and your choice of tequila will greatly affect the final flavor profile, which is why I name the brand we prefer. Other tequilas will work but the final results will vary, and some tequilas just won’t work at all, no matter how much you wave your wand. As with most things in the restaurant world, you never know if something will work until you give it a shot!
+    glassware: 
     ingredients:
       - 2 ounces Partida reposado tequila
       - ¼ ounce Regan’s Orange Bitters No. 6
@@ -1584,6 +1679,7 @@ recipes:
   - name: Jungle Bird
     author: Jamie Boudreau
     notes: Campari, the herbal and fruit aperitif, lends a welcome relief to the onslaught of rum, rum, rum, and citrus that is the tiki mantra. Complex while refreshing, the key to this drink is fresh pineapple juice. If you can’t get fresh juice, use the highest quality you can find. Your cocktail is only as good as your weakest link, and there is enough juice in this one to require only the best.
+    glassware: 
     ingredients:
       - 1½ ounces Blackwell’s Black Gold Special Reserve rum
       - 1½ ounces fresh pineapple juice
@@ -1602,6 +1698,7 @@ recipes:
   - name: Zombie for Two
     author: Jamie Boudreau
     notes: This drink began to take on a life of its own while I was traveling around the San Francisco Bay Area a few years back. But had anyone ever infused brains into a Zombie? I mean, come on! If any drink feeds on brains, naturally it would be a Zombie! I was curious to see if I could make it work, so I started on a recipe as soon as I returned to canon. I’ve since discovered that neither Dr. Frankenstein nor I were the only ones who attempted to draw new life out of old brains, strictly in the furtherance of science, of course. Suffice to say, this recipe differs from all others. For example, we sauté our brains in butter and then smoke them with Earl Grey tea before infusing them with rum. How can that be a bad thing? To ensure speedy delivery of this drink, we borrow an old trick from the original tiki bars and batch all the ingredients (except the lime) in a bottle kept in the freezer. This also keeps the proteins in the mix safe and fresh for the three days or so that a batch will last at our laboratory. I wouldn’t keep your own brains on ice much longer than that. Although the serving reads two, it’s really one drink. Tiki mugs run large.
+    glassware: 
     ingredients:
       - 2 ounces fresh lime juice
       - 1½ ounces Plantation Original Dark rum
@@ -1626,6 +1723,7 @@ recipes:
   - name: Test Pilot
     author: Jamie Boudreau
     notes: Other than a Mai Tai, this is really the first tiki drink that piqued my interest. Absinthe has a tendency to make a cocktail either transcendent or just downright horrible. Fortunately, my test pilot didn’t crash.
+    glassware: 
     ingredients:
       - 1½ ounces Smith & Cross Jamaican rum
       - ¾ ounce light rum
@@ -1648,6 +1746,7 @@ recipes:
   - name: Mad Bills to Pay
     author: Jamie Boudreau
     notes: Named after Biggie Smalls’s song “Everyday Struggle,” specifically the lyrics, “Baby on the way, mad bills to pay, that’s why you drink Tanqueray,” this drink is conceived by first creating the syrup, and then building the drink around it. If you can’t find the elusive Tanqueray Malacca Gin, try Tanqueray Old Tom Gin instead. I am often asked how we come up with our flavor combinations at canon, and I must confess, whenever hard pressed or lacking inspiration, I’ll often look to pastry or soup cookbooks, as well as my old reliable Page and Dornenburg’s The Flavor Bible. I’ll focus on a combination (in this case, apple and coriander) and figure out how to best match or contrast these flavors. While I use a lager for this syrup, a lightly hopped, citrusy IPA would be wonderful as well.
+    glassware: 
     ingredients:
       - 1½ ounces Tanqueray Malacca gin (or Tanqueray Old Tom Gin)
       - ½ ounce apple-coriander beer syrup (see recipe) (or lightly hoppy and citrusy IPA)
@@ -1665,6 +1764,7 @@ recipes:
   - name: Banksy Sour
     author: Jamie Boudreau
     notes: We’ve done a number of drinks that utilize decorative stencils and bitters as “paint,” but this is easily one of my favorites. When this cocktail is placed before our guests, a broad smile and the obligatory whipping out of the camera phone always follow. As for the ingredients, given that Banksy is British, at the end of the day we were persuaded to use Scotch and tea. Okay, maybe gin would have worked too, but on this side of the pond, the United Kingdom summons up Scotch. Besides, by definition, true Scotch has to be made in the United Kingdom, while gin can be made anywhere in the world. The decorative stencil we use is one of Banksy’s iconic images, Girl With Balloon.
+    glassware: 
     ingredients:
       - 2 ounces Banksy Scotch Mix (see recipe)
       - 1 ounce fresh lemon juice
@@ -1681,6 +1781,7 @@ recipes:
   - name: Air Mail
     author: Jamie Boudreau
     notes: This recipe falls into our Over the Top category solely due to the inclusion of superior ingredients. The recipe and delivery are quite simple. When this is on the menu at canon, we use a superior rum and sparkling wine, which elevates this already delicious cocktail into another zone altogether!
+    glassware: 
     ingredients:
       - 2 ounces Diplomático Exclusiva Reserva rum
       - ½ ounce fresh lime juice
@@ -1698,6 +1799,7 @@ recipes:
   - name: All Hallows’ Punch
     author: Jamie Boudreau
     notes: The key to this punch, which is insanely easy to make and damn tasty too, is to not add the bubbly components until your first guest is ready for a beverage. Thus your precious bubbles last longer. Another key component of punches is the ice. Instead of using small ice cubes, use one large block, chipped to size, or fill a large bowl with distilled water and place in the freezer the night before to make one large “cube” for your punch bowl.
+    glassware: 
     ingredients:
       - 10 ounces cognac
       - 10 ounces maraschino liqueur
@@ -1715,6 +1817,7 @@ recipes:
   - name: A Matter of Thyme
     author: Jamie Boudreau
     notes: This cocktail demonstrates my desire to infuse as much flavor as possible into a recipe, this time (pun intended) by replacing the distilled water in a syrup with wine. Picpoul de Pinet, a crisp, citrusy, light-bodied white wine from the Languedoc region of France, is used in our thyme-Picpoul syrup. Novo Fogo Silver cachaça, a clear Brazilian rum made from fresh-pressed sugarcane, holds a special place in my heart because we always try to support local brands that produce quality ingredients. When it comes to cachaça, our favorite brand by far is Novo Fogo. We highly recommend either of these stellar examples of this often misunderstood spirit.
+    glassware: 
     ingredients:
       - 1½ ounces Novo Fogo Silver cachaça
       - ½ ounce thyme-Picpoul syrup (see recipe)
@@ -1732,6 +1835,7 @@ recipes:
   - name: Fighattan
     author: Jamie Boudreau
     notes: Like the Air Mail cocktail, this easy-to-make drink falls into our Over the Top category solely due to the inclusion of superior ingredients, in this case our proprietary whiskey from High West.
+    glassware: 
     ingredients:
       - 1 ounce fig bourbon (see recipe)
       - 1 ounce Cocchi Vermouth di Torino
@@ -1746,6 +1850,7 @@ recipes:
   - name: Light My Fire
     author: Jamie Boudreau
     notes: This is a fun, light drink that is a delight to behold. The purpose of lighting the Chartreuse is to release some of its aromatics from the many botanicals locked within the liqueur. In addition, it slightly lowers the proof, a factor to keep in mind whenever using green Chartreuse.
+    glassware: 
     ingredients:
       - ¼ ounce green Chartreuse
       - 1½ ounces gin
@@ -1765,6 +1870,7 @@ recipes:
   - name: Gunpowder and Smoke
     author: Jamie Boudreau
     notes: This drink is designed around the lovely Beefeater 24, although many quality gins will work. Do avoid those that are heavy with juniper.
+    glassware: 
     ingredients:
       - 2 ounces Beefeater 24 London Dry gin
       - 1 ounce fresh lemon juice
@@ -1781,6 +1887,7 @@ recipes:
   - name: Campfire in Georgia
     author: Jamie Boudreau
     notes: "Easily one of our more popular drinks, the Campfire in Georgia takes some time to prepare, but the presentation and flavors achieved make it all worthwhile. Every time one of these masterpieces gets served, we know to expect another rash of orders for it. The attraction is a smoke-filled glass cloche moving through the room, at which time cameras come out and people gesture to their companions to watch. When the Campfire arrives at the table, the cloche is removed with a swirl, allowing the cinnamon-scented smoke to envelop its new owner in cinnamon musk. We then leave the drink with the guest, removing the plate and cloche. The drink itself is delightful, bright, and fresh, with some smoky notes from the “campfire” of cinnamon-soaked French oak as well as the mezcal, finishing with a touch of spice from the habanero in the Campfire Shrub. The smoke from the “campfire” doesn’t so much enter the drink as leave an ever-present aroma of cinnamon: It not only fills the cloche and wafts around the table, but it also clings to the outside of the glass, such that you are still smelling cinnamon right through to the last sip."
+    glassware: 
     ingredients:
       - 2 ounces Del Maguey Vida mezcal
       - ½ ounce Campfire Shrub (see recipe)
@@ -1797,6 +1904,7 @@ recipes:
   - name: Khaleesi Cocktail
     author: Jamie Boudreau
     notes: "When we utilize smoke in cocktails at canon, we want it to provide one of two elements: aroma or flavor. The Khaleesi is an example of using smoke as flavor. By allowing the alcohol to come into direct contact with the smoke, we are able to infuse the smoky strawberry dragon’s blood essence into the alcohol. When working with smoke, we use a Smoking Gun, which is a small device with a heated chamber that delivers cool smoke upon release. You can pick one up online or at a kitchen store for around $100. One needs to be careful when incorporating smoke into cocktails, because smoke tends to get stale quickly. We don’t fill the glass with smoke until the drink is about ready to go out, and we don’t add the alcohol to the smoke-filled glass until the drink is ready to be consumed. Two quick swirls in the glass are all that’s needed to incorporate a lot of smoked flavor. Due to the delicate nature of this drink, we always prepare the Khaleesi tableside."
+    glassware: 
     ingredients:
       - 2 ounces Blanton’s single barrel bourbon whiskey
       - 1 ounce Punt e Mes vermouth
@@ -1817,6 +1925,7 @@ recipes:
   - name: Roman Holiday
     author: Jamie Boudreau
     notes: Ancho Reyes is a fairly new product, and it fills a niche for spicy spirits that have been gaining in popularity of late. When I use spirits like Ancho Reyes, I consider them a foil for sweetness, and a welcome one at that. We normally balance sugar with sour or bitter, but now spicy is the new option. The abundance of dark spirits in this crushed-ice drink makes it suitable for drinking all year round.
+    glassware: 
     ingredients:
       - 1 ounce fresh orange juice
       - ¾ ounce Plantation Original Dark rum
@@ -1836,6 +1945,7 @@ recipes:
   - name: Daisy Royale
     author: Jamie Boudreau
     notes: An older style, the Daisy Royale is, for all intents and purposes, a sour. Quite often, I add sparkling wine to a recipe for effervescence and to lighten the cocktail. These are then designated “Royale.” Gum syrup (gomme in French) differs from other syrups in that it uses gum arabic, a natural stabilizer derived from the acacia tree. Gum syrup gives a unique, silky texture to a drink. We don’t make our own gum syrup at canon, because no one makes better syrups than Jennifer Colliau of Small Hand Foods. She painstakingly crafts each batch in San Francisco, all the while managing an amazing bar program herself.
+    glassware: 
     ingredients:
       - 1 ounce Pierre Ferrand 1840 Original Formula cognac
       - ½ ounce Plantation Original Dark rum
@@ -1854,6 +1964,7 @@ recipes:
   - name: Cherry Fizz
     author: Jamie Boudreau
     notes: "The Cherry Fizz was one of our first attempts at communal cocktails. At canon we serve this drink tableside in one of our many large vintage shakers. It’s a riff on the greatest breakfast drink ever conceived: the Ramos Gin Fizz. Historically, the Ramos was created in New Orleans, where part of the show was built around the shaker being handed down a line of “barmen” whose sole purpose was to shake this concoction all night long. The cost of labor has changed a bit since the 1800s, so we decided to eschew the hard labor and instead use an immersion blender. This allows us to emulsify the egg whites in a timely manner, and without fear of contamination by elbow grease. Serves 4."
+    glassware: 
     ingredients:
       - 4 ounces gin
       - 4 ounces Liqueur Griottine Morand cherry brandy
@@ -1874,6 +1985,7 @@ recipes:
   - name: The Golden Martini
     author: Jamie Boudreau
     notes: At canon we go to great lengths to ensure you are served a properly diluted and properly chilled cocktail. Our glassware is stored in freezers. Many different kinds of ice are produced from a battery of different ice machines, allowing us to make everything from crushed ice to 2-inch cubes and larger. This quest for the ultimate cold drink requires us to bring in a large tank of liquid nitrogen and experiment with this ingredient. The Golden Martini is our first and simplest success. We add liquid nitrogen to the coupe immediately before pouring in the chilled and diluted cocktail, then stir until all the liquid nitrogen has disappeared. This creates a martini that is as cold as it can possibly be without changing the state from plasma to a solid. Working with liquid nitrogen may seem like a new technique, but it has been used for culinary purposes since as early as 1890. At -321°F we rapidly chill our cocktail while putting on a fun show for our guests. The liquid nitrogen billows as it changes from a liquid to a gas, all the while getting the drink so cold it begins to turn to slush. A couple more stirs converts this martini slush back into a liquid, but imbued with a very silky texture. It is important to use a gin with plenty of natural oils, because it’s the oils along with the slightly sweetened vermouth that allow the liquid nitrogen to transform this cocktail into one that is luscious and viscous. Another component of this drink is goldwasser liqueur, an herbal made in Germany and Poland with flecks of real 22-karat gold suspended in it.
+    glassware: 
     ingredients:
       - 1½ ounces Old English gin
       - ½ ounce Dolin Vermouth de Chambéry Blanc
@@ -1890,6 +2002,7 @@ recipes:
   - name: D.C. Crack
     author: Jamie Boudreau
     notes: "This drink is really a marvel, although reading the ingredients wouldn’t lead one to suspect as much. It’s a rather simple drink with only four ingredients, but in the mouth it’s an explosion! The name is a reference to the now deceased Washington, D.C., mayor Marion Barry. This one shows how naming cocktails is something of a perversion for me: Clearly, I’m not ashamed to grasp the lowest hanging fruit. The Plum-Marionberry Shrub is almost drinkable by itself, though it’s a touch sweet. We base this drink on our own house rye, a special bottling of High West’s Double Rye that has been further aged for two years. A touch of soda lightens things, and this stirred cocktail becomes a marvel regardless of the season or the weather. If you don’t have access to large ice, then simply use what you can find. Or, you can buy large ice cube molds online and at kitchen supply stores like Williams-Sonoma."
+    glassware: 
     ingredients:
       - 2 ounces High West Double Rye
       - 1 ounce Plum-Marionberry Shrub Mix (see recipe)
@@ -1905,6 +2018,7 @@ recipes:
   - name: Rubicon
     author: Jamie Boudreau
     notes: The rosemary curled in the glass reminds me of Caesar’s laurels, so I’ve named this libation after the famous river Caesar crossed in 49 BC, after uttering the now-famous words, “Let us go where the omens of the Gods and the crimes of our enemies summon us! The die is now cast!” With this march, the Roman Empire began, and western civilization as we know it. To ensure you get a proper fire within the glass, carefully swirl the Chartreuse before lighting it. Obviously, fire is dangerous, and all precautions should be taken when lighting alcohol, even if it’s only half an ounce. As noted in the directions, you don’t want to burn the rosemary; we are just trying to release the oils from its aromatics.
+    glassware: 
     ingredients:
       - 1 fresh rosemary sprig
       - ½ ounce green Chartreuse
@@ -1925,6 +2039,7 @@ recipes:
   - name: Sangria Blanc
     author: Jamie Boudreau
     notes: The Tintero Grangia is a slightly fizzy, light, fragrant white wine that is dry but with notes of tropical fruit, pairing just perfectly with St-Germain elderflower liqueur. This is a simple drink that’s hard to mess up, so go wild with the seasonal fruit. The point of this clear sangria is to showcase nature’s bounty. Serves 3 or 4.
+    glassware: 
     ingredients:
       - ½ bottle (375 ml) Tintero Grangia Bianco
       - 2 ounces St-Germain
@@ -1942,6 +2057,7 @@ recipes:
   - name: Puck’s Garden
     author: Jamie Boudreau
     notes: This is another perfect example of a non-bittered, refreshing patio drink. Named after the infamously mischievous sprite, this recipe was designed with summer in mind. It features a veritable garden in your glass. The strawberries act as flavored ice cubes while the mint keeps everything bright. Pisco is a brandy produced in Peru and Chile. This recipe would also work if you substituted gin, tequila, or white rum for the pisco.
+    glassware: 
     ingredients:
       - 10 to 15 mint leaves
       - 10 frozen strawberries
@@ -1966,6 +2082,7 @@ recipes:
   - name: Pontarlier en Printemps
     author: Jamie Boudreau
     notes: "Designed for session drinking in the warmer months, this is an elegant drink that can easily find its own way among the country club set. Salt, tequila, and watermelon demand to party together, and who am I to deny them their pleasure? Don’t be afraid to go slightly heavy-handed with the absinthe in this drink. We can recommend one or two that are produced locally: Marteau Extrait d’Absinthe and Pacifique Absinthe Verte Supérieure."
+    glassware: 
     ingredients:
       - ¼ ounce absinthe
       - 1½ ounces Siete Leguas blanco tequila
@@ -1985,6 +2102,7 @@ recipes:
   - name: Transfusion No. 1
     author: Jamie Boudreau
     notes: This drink makes its appearance come fall, quickly becoming a favorite during Halloween season. This is another example of our “Presentation Series,” drinks that sell themselves due to their spectacular delivery. As with almost everything else at canon, our serving trays are beautiful walnut wood, and naturally stained with our proprietary mix of black stain and Angostura bitters. This is the first of a series of IV (Intravenous)-style drinks that range from dark (usually red) in the fall, to clear and filled with herbs in the summer. The Crème Yvette liqueur is a natural blend of berry fruits, and the Ancho Reyes is made from ancho chiles. Serves 2.
+    glassware: 
     ingredients:
       - 2 ounces cognac
       - 2 ounces bourbon
@@ -2005,6 +2123,7 @@ recipes:
   - name: Smoking Monkey
     author: Jamie Boudreau
     notes: "This recipe makes its appearance quite often in the fall, quickly becoming one of our best sellers at canon. I came up with the idea of infusing Jameson with bananas (see recipe) while doing a tasting and noting the strong banana notes present. (A fun side note: Look for these same notes in Budweiser beer as well!) Sherry and bananas have always been good friends, thanks to the raisiny and nutty characteristics present in many sherries. Speaking of friends, you don’t often find an Irish whiskey and a Scotch whisky married in the same glass, so this recipe is decidedly ecumenical. The rinse and mist of Ardbeg allow this monkey to“smoke” thanks to the excessive, peaty smokiness that Ardbeg exudes. Make sure you properly filter the banana from the Jameson or you will find the mouth-feel of this cocktail becomes very thick and unpleasant. At canon, I put the infusion through a centrifuge to get the viscosity I desire. Without a centrifuge, you can accomplish similar results by letting the mixture stand until the solids settle, then decanting through cheese-cloth and a chinois strainer."
+    glassware: 
     ingredients:
       - ½ ounce Ardbeg ten years old single malt Scotch
       - 1½ ounces Banana Jameson (see recipe)
@@ -2022,6 +2141,7 @@ recipes:
   - name: Tea for Two
     author: Jamie Boudreau
     notes: This cocktail is a prime example of one of our “Presentation Drinks,” specialties of the house that I’ve spent a lot of time and money developing into unique and memorable presentations. The hook with this drink is although it is served ice cold, when it approaches the table it appears to be piping hot because liquid nitrogen “steam” is escaping from the teapot. As with all drinks using liquid nitrogen, it is imperative that none of the liquid nitrogen enters the glass the guest will be sipping from. Therefore, staff must be specially trained and all precautions must be in place to ensure your guests never come in contact with it, as it can be deadly if ingested. This is one of the few drinks we’ve created without using bitters. We want a simple sipper, cool on a hot summer day without overheating your brain or overanalyzing the drink. This one could keep someone guessing for hours. For starters, the Earl Grey gin is house-made. Pimm's No. 1 is an English spirit made with dry gin, fruits, and spices. And the Hendrick’s Quinetum is a quinine cordial. Serves 2.
+    glassware: 
     ingredients:
       - 2 ounces Earl Grey gin (see recipe)
       - 2 ounces Pimm's No. 1
@@ -2040,6 +2160,7 @@ recipes:
   - name: The Tramp
     author: Jamie Boudreau
     notes: This is a simple riff on a drink that reads quite odd at first glance. The original drink is the Charlie Chaplin, and it calls for equal parts sloe gin, apricot liquor, and lime juice. Sloe gin is not a popular spirit, and can be confusing to the uninitiated because it is more like a liqueur and not at all like a gin. So, what we are left with are 2 ounces of sugar (liqueurs) balanced by only 1 ounce of sour. That should be a very sweet drink, but if you choose quality ingredients, it actually turns out to be only slightly sweet, which I’ve easily corrected with the addition of dry sparkling wine.
+    glassware: 
     ingredients:
       - 1 ounce Plymouth Sloe gin or Sipsmith Sloe gin
       - 1 ounce Giffard Abricot du Roussillon
@@ -2056,6 +2177,7 @@ recipes:
   - name: Liliko'i Royale
     author: Jamie Boudreau
     notes: A fun and easy way to cool off with friends, the Liliko’i Royale is named for the passion fruit syrup we import from Hawaii. It is imperative that you use quality passion fruit syrup, because lesser ones will be overly sweet, artificially flavored, and falsely enhanced. Once you try this Liliko’i ingredient, I predict you’ll go on campaign testing new recipes that marry passion fruit with Campari and anything else you can think of. It’s that good. Feel free to substitute a cheaper sparkling wine for the Champagne; just be sure it is not sweet because it is needed to balance this drink. One can find many a dry Cava or crémant in the local market for under $20 a bottle. Serves 3 or 4.
+    glassware: 
     ingredients:
       - 4 ounces gin
       - 4 ounces Champagne
@@ -2074,6 +2196,7 @@ recipes:
   - name: Yellowbelly Cooler
     author: Jamie Boudreau
     notes: "I’ve decided to make a watermelon mix for this cocktail so the watermelon juice tastes as fresh as possible for as long as possible. Feel free to break apart the components of the mix if you’re just making friends some scratch drinks one evening, but I highly recommend making the mix if you plan on using the watermelon juice the next day. While many of the ingredients added to the mix are for flavor, the salt, sugar, and citrus all help prolong the freshness of the juiced watermelon. At canon, I vacuum-seal the juice in smaller portions to ensure optimum freshness. The mezcal is floated on top for its aromatics, so I highly recommend anything you can get by Del Maguey: They have an extensive line of readily available, amazingly crafted agave spirits."
+    glassware: 
     ingredients:
       - 1½ ounces pisco
       - 1½ ounces Watermelon Mix (see recipe)
@@ -2092,6 +2215,7 @@ recipes:
   - name: Naramata
     author: Jamie Boudreau
     notes: Our riff on the Corpse Reviver No. 1 (see recipe), the Naramata is named after British Columbia’s wine and orchard region, where my father happens to live. It’s a beautiful fall drink that offers a mouthful of spicy apples and peaches. Pommeau de Normandie, a unique French liqueur composed of Calvados and apple must, is notoriously difficult to find, and unfortunately I’ve yet to discover a suitable substitute. Therefore, if you do find a bottle, grab it and remember to keep it refrigerated after it has been opened, lest it oxidize and spoil.
+    glassware: 
     ingredients:
       - 1½ ounces cognac
       - 1 ounce sweet vermouth
@@ -2108,6 +2232,7 @@ recipes:
   - name: Caesar’s Ghost
     author: Jamie Boudreau
     notes: In America, the go-to brunch drink is the Bloody Mary, while in Canada it is the Bloody Caesar, which I find far superior. Almost identical, the main differences are Clamato instead of tomato juice, celery salt instead of regular salt, and lime garnish instead of lemon. At canon, we’ve upped our game by making our own Clamato Mix from scratch (see recipe). Appearances matter, so for this drink we clarify the liquid to make it see-through, almost ghostly. Despite the extra work, or maybe because of it, this is a truly delicious beverage, packed with flavor and much lighter in body than the heavier, thicker Blood Mary. The akvavit (also spelled aquavit) is an old Scandinavian herbal liqueur with notes of caraway and dill.
+    glassware: 
     ingredients:
       - Celery salt
       - 1½ ounces gin
@@ -2123,6 +2248,7 @@ recipes:
   - name: Vancouver
     author: Stan Jones
     notes: "I was first introduced to this drink, like so many others, by browsing the encyclopedia of recipes in the 1977 edition of Stan Jones’s Complete Bar Guide. The Vancouver cocktail is right up my alley: a twist on the classic Martinez with Bénédictine replacing the maraschino liqueur. Compared to the more familiar maraschino liqueur, Bénédictine is a complex herbal made with twenty-seven different plants and spices. If you prefer a drier cocktail, by all means pump up the gin to a full 2 ounces."
+    glassware: 
     ingredients:
       - 1½ ounces gin
       - ¾ ounce sweet vermouth
@@ -2138,6 +2264,7 @@ recipes:
   - name: Hotel Georgia
     author: 
     notes: The Hotel Georgia in Vancouver opened in 1927. The original recipe for this cocktail is an odd one, but if you dramatically reduce the orgeat as we did, you’ll discover an elegant summer sipper. Please use our recipe for orgeat syrup. If you don’t, there’s a good chance you will purchase an artificially flavored, overly saccharine orgeat that will do this delightful drink a rude injustice.
+    glassware: 
     ingredients:
       - 2 ounces gin
       - ¾ ounce fresh lemon juice
@@ -2154,6 +2281,7 @@ recipes:
   - name: Toronto Cocktail
     author: 
     notes: "I discovered this drink in 2006, ironically enough, shortly after I moved to the United States. This is an aggressive drink, and one needs to have an appreciation for the bitter, mentholated flavor profile of Fernet. It kind of reminds me of the city after which it is named: not overly enjoyable at first, but spend enough time there and you’ll grow to love it."
+    glassware: 
     ingredients:
       - 2 ounces rye
       - ¼ ounce Fernet-Branca
@@ -2171,6 +2299,7 @@ recipes:
   - name: The Cocktail Called Irving
     author: Jamie Boudreau
     notes: This is our take on the Grasshopper, a cocktail you may recognize from childhood holiday trips to your grandmother’s house. We’re using all premium ingredients here, and replacing the cream with our house-made Chartreuse ice cream, and that really elevates this recipe to another level. Like your grandmother, we prefer to bring this one out during the holidays.
+    glassware: 
     ingredients:
       - 1 ounce Hennessy Black cognac
       - ¼ ounce Giffard Menthe-Pastille
@@ -2185,6 +2314,7 @@ recipes:
   - name: Movie Night Float
     author: Jamie Boudreau
     notes: "We offer a Red Vines licorice twist to use as a straw, but it is imperative that our floats also get a metal spoon straw for guests to dabble in the ice cream and liquid. We float the Angostura on top of the ice cream, and they pair together wonderfully. Next time you get a hankering for vanilla ice cream, try dashing several drops of Angostura bitters on top: It’s delicious!"
+    glassware: 
     ingredients:
       - 4 ounces ice-cold root beer
       - 1½ ounces frozen bourbon (bourbon stored in a freezer)
@@ -2200,6 +2330,7 @@ recipes:
   - name: Verte Chaud
     author: Jamie Boudreau
     notes: This is my all-time favorite hot drink. It reminds me of many ski trips capped off with this lovely libation. I’m a big fan of Chartreuse, so you might want to tame down the portions in your Verte Chaud a little if you are not as mad about French herbals as I am. But, have it be known that Chartreuse and chocolate work wonders together, and how could that be a bad thing? If you light your Chartreuse first, it burns off some of the alcohol, making it much gentler for the newbies to drink. Other unusual Chartreuse combinations include pineapple and banana. Use a good-quality, bitter chocolate, so you can easily adjust the sweetness. If you use a cheap hot chocolate mix, you might find the resulting mixture a tad too sweet. Wet cream is made in the same manner as whipped cream; just stop before the cream becomes stiff. The aeration allows the cream to sit neatly on top of the hot chocolate. You could light the Chartreuse on fire before adding the hot chocolate. This is a showy way of heating the glass before serving. Wet cream is cream that has been agitated enough to float atop other liquids (and is still wet) but not so much that it becomes stiff (and more like canned whipped cream). There should be no peaks with wet cream.
+    glassware: 
     ingredients:
       - 6 ounces prepared hot chocolate
       - 2 ounces green Chartreuse
@@ -2213,6 +2344,7 @@ recipes:
   - name: Milk ’n’ Cookies
     author: Jamie Boudreau
     notes: "This is a special drink at canon, because it marked our first serious push into thinking about how drinks are presented. While we are always trying to make sure our drinks look pretty in their designated glassware or special flasks, this was our first attempt at making the entire experience of ordering a drink something special. This cocktail is delivered in a vintage lunch box, alongside a vintage Archie comic book, house-made Fernet “Oreo” cookies (see recipe), and a note from Mom. The idea came from my childhood, when I would sneak to the convenience store on the way to school to buy chocolate milk and some cookies to launch me on a sugar high I relied on to torment my teachers. Before I opened the chocolate milk, I would always shake it as hard as I could, making it more airy and less thick. That’s why I create this drink in a soda siphon: It mimics that shaking. I’ve also chosen nitrogen instead of carbon dioxide to “air” the drink. CO2 breaks down to slightly sour carbonic acid, whereas nitrogen lends a welcome, sweetening touch to the final product."
+    glassware: 
     ingredients:
       - 7 ounces 2% milk
       - 6 ounces cognac
@@ -2232,6 +2364,7 @@ recipes:
   - name: Last Word Float
     author: Jamie Boudreau
     notes: If Seattle had a municipal cocktail, I’d hazard a guess it might be the Last Word, and this is our summery riff on it. This cocktail is actually less sweet than the original, with the DRY soda doing a lot of the heavy lifting when it comes to balancing the sweetness of the maraschino and ice cream. It is imperative when making floats that all of your ingredients are as cold as possible. I don’t add very much ice, so keep in mind that the drink becomes quite unpleasant if it warms up.
+    glassware: 
     ingredients:
       - 4 ounces chilled DRY lime soda
       - 1 ounce frozen gin

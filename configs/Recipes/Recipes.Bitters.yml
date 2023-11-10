@@ -5,6 +5,7 @@ recipes:
   - name: Old-Fashioned
     author: 
     notes: The simplicity of the old-fashioned means that it lends itself to multiple variations. Just mix and match your bourbon or rye with different bitters, and the sugar can take the form of a flavored syrup or even maple syrup. I’m fond of putting an autumnal twist on the old-fashioned by using bourbon, cinnamon syrup, and apple bitters.
+    glassware: 
     ingredients:
     - 2 ounces rye or bourbon
     - ¼ ounce Simple syrup
@@ -20,6 +21,7 @@ recipes:
   - name: Manhattan
     author: 
     notes: Better cocktail historians than I have presented and debunked endless accounts of how the Manhattan came to be, so I won’t waste ink here rehashing those colorful stories (see Gary Regan, William Grimes, and David Wondrich for that). While bourbon has become the de facto spirit in most Manhattans, the classic spirit for this drink is rye (though I would never turn down a bourbon Manhattan). Always stir this drink, never shake it. And a Manhattan isn’t a Manhattan without the bitters. Angostura is the way to go for a classic, but I personally like to split the difference and use one dash of aromatic bitters and one dash of orange. Going all orange tends to ramp up the sweetness without bringing the spice.
+    glassware: 
     ingredients:
     - 2 ounces rye or bourbon
     - 1 ounce sweet vermouth
@@ -36,6 +38,7 @@ recipes:
   - name: Champagne Cocktail
     author: 
     notes: Is there anything more festive than hearing the soft pop of a cork coming out of a bottle of Champagne? That’s an aural cue for celebration in my book, and while Champagne is wonderful on its own, adding a sugary, bitters-soaked kiss to the equation elevates the experience tenfold. Four to six dashes of bitters should do the trick, but you really want to soak the sugar cube, which, once the Champagne is introduced, will leave a fizzy stream of bitters pushing up through the glass.
+    glassware: 
     ingredients:
     - 1 sugar cube
     - 4 to 6 dashes Angostura or other aromatic bitters
@@ -51,6 +54,7 @@ recipes:
   - name: Sazerac
     author: 
     notes: "It is often claimed that the Sazerac, New Orleans’s official cocktail, was America’s first cocktail; even the word “cocktail,” it is argued, comes from the word coquetier, the name of the egg cup that Antoine Amedie Peychaud used to serve his proprietary bitters to customers of his French Quarter apothecary in the late 1830s. The Sazerac got its name in 1850 at Sewell Taylor’s Sazerac Coffee House, named after the Sazerac de Forge et Fils Cognac he was importing and using for his house cocktail. But after a phylloxera epidemic in Europe wreaked havoc on France’s wine grape crops, Cognac became scarce in the United States, and rye became the spirit of choice in the Sazerac. Jim Meehan of PDT attributes his affection for the Sazerac to the drink’s layers of “atmosphere”: “Why do I love Sazeracs so much? I’ve thought about it a lot, and for me it’s about experiencing a Sazerac spatially. You have a big glass. You have a glass that’s rinsed with absinthe. And a cocktail—booze, sugar, bitters, and water—in the midst of that absinthe-rinsed glass. And then that lemon oil. It has a top, sides, and an overall atmosphere.”"
+    glassware: 
     ingredients:
     - Splash of absinthe, Herbsaint, or Pernod
     - 2 ounces rye
@@ -68,6 +72,7 @@ recipes:
   - name: Abbey Cocktail
     author: 
     notes: A recipe for the Abbey Cocktail kicks off both Harry Craddock’s The Savoy Cocktail Book (1930) and Dale DeGroff’s The Craft of the Cocktail (2002), serving as a bridge between two classic cocktail tomes written more than eighty years apart. Most versions simply marry gin and juice, but I prefer this variation, which calls for the addition of one of my favorite aperitif wines, Lillet Blanc. The bittersweet orange flavor of the Lillet really complements the freshly squeezed orange juice and orange bitters.
+    glassware: 
     ingredients:
     - 1½ ounces gin
     - ¾ ounce Lillet Blanc
@@ -83,6 +88,7 @@ recipes:
   - name: Alaska Cocktail
     author: 
     notes: "You might think that a drink called the Alaska Cocktail was first mixed up as an icy tribute to our forty-ninth state. But, like the woozy origins of so many cocktails, the true history of the Alaska Cocktail remains a mystery. The Savoy Cocktail Book doesn’t help matters. While most of the drinks in this 1930 collection are presented without commentary, Harry Craddock offers this wry note on this drink: “So far as can be ascertained this delectable potion is NOT the staple diet of the Esquimaux. It was probably first thought of in South Carolina—hence its name.” Coming in at 80 proof, Yellow Chartreuse is milder than its 110-proof green cousin and brings a pleasant amber glow to the whole affair. When I take a sip I always think of the Velvet Underground’s “Stephanie Says” and its hypnotizing coda: “It’s such an icy feeling… it’s so cold in Alaska.”"
+    glassware: 
     ingredients:
     - 1½ ounces gin
     - ¾ ounce Yellow Chartreuse
@@ -97,6 +103,7 @@ recipes:
   - name: Allegheny Cocktail
     author: 
     notes: I first came across the Allegheny Cocktail in Playboy’s Host & Bar Book (1971), which, I swear, I was just reading for the recipes. On an unrelated note, Allegheny Airlines, which now flies as US Airways, was the airline where my father worked as a mechanic at the Syracuse airport. The curious combination of blackberry brandy and dry vermouth really lets the sweetness of the brandy take flight.
+    glassware: 
     ingredients:
     - 1 ounce bourbon
     - 1 ounce dry vermouth
@@ -113,6 +120,7 @@ recipes:
   - name: Angostura Fizz
     author: 
     notes: "The Angostura Fizz appears in the “Special Drinks for the Soda Fountain and Other Recipes” section of the 1908 Dr. Siegert’s Angostura Bitters recipe booklet, but it was its inclusion in Charles H. Baker Jr.’s 1946 travelogue The Gentleman’s Companion: Volume II that sold me on it. Baker prescribes an Angostura Fizz, known in some circles as a Trinidad Fizz, as ideal for “whenever the climate is hot and the humidity high and stomachs stage sit-down strikes and view all thought of food—present or future—with entire lack of enthusiasm.”"
+    glassware: 
     ingredients:
     - 1 ounce Angostura bitters
     - 1 ounce freshly squeezed lime juice
@@ -130,6 +138,7 @@ recipes:
   - name: Bijou Cocktail
     author: 
     notes: Made with equal parts gin, sweet vermouth, and green Chartreuse, the classic Bijou, which was allegedly named for the jewel-like colors of the primary ingredients, can come across as “bombastically herbaceous,” in the words of writer Paul Clarke. A popular modification of this drink dials up the gin by half an ounce while cutting back on the vermouth and Chartreuse by half an ounce each, resulting in a drier cocktail. The “Ritz version” of the Bijou from Frank Meier’s The Artistry of Mixing Drinks (1934) says goodbye to the Chartreuse altogether, swapping in orange curaçao, and dry vermouth for the sweet vermouth. I suggest you give this original version a try. As my college writing professor used to say, you have to understand the rules first before you can start breaking them.
+    glassware: 
     ingredients:
     - 1 ounce gin
     - 1 ounce sweet vermouth
@@ -144,6 +153,7 @@ recipes:
   - name: Brandy Crusta
     author: 
     notes: Invented by Joseph Santini around 1850 at the City Exchange bar in New Orleans, the brandy crusta made its first appearance in print in Jerry Thomas’s 1862 How to Mix Drinks. Santini took the basic cocktail formula of spirit, sugar, water, and bitters and added lemon juice as well as a most decorative garnish. (Cocktail authority Ted Haigh, a.k.a. “Dr. Cocktail,” author of Vintage Spirits and Forgotten Cocktails, points out that the sidecar and margarita are both direct descendants of the brandy crusta.) The garnish calls for the thickly sliced zest of half a lemon dispatched in one continuous swath—what Haigh calls “a skirt of fruit peel”—that’s nestled inside the glass, just peeking above the sugared rim. The size of the glass—a short wine glass or goblet is ideal—is important here. Otherwise the lemon curl will slide into the glass rather than staying pressed against its sides.
+    glassware: 
     ingredients:
     - 1 lemon wedge plus 1 whole lemon
     - Superfine sugar
@@ -163,6 +173,7 @@ recipes:
   - name: Corn 'n' Oil
     author: 
     notes: Seattle barman Keith Waldbauer has turned me on to many memorable cocktails, but I am particularly indebted to him as the man who first put a Corn ’n’ Oil in my hands. The name and origin of this cocktail remain as murky as the blackstrap rum used in the drink, but it hails from Barbados and makes great use of falernum, a Caribbean liqueur made from an infusion of rum and sugarcane syrup spiced with ginger, lime, cloves, and almonds. There are plenty of recipes online to experiment with if you’re interested in making your own falernum, which is a staple ingredient in many tropical and tiki drinks, but John D. Taylor's Velvet Falernum, which dates back to 1890 according to some, will do the trick. When I asked Keith about the backstory of the Corn ’n’ Oil, he said that most people come to it via the recipe on the back of the John D. Taylor bottle, but, as with many great drinks consumed in Seattle, all roads lead back to Murray Stenson, who helped popularize the drink at the Zig Zag Café, where they doctor it with an extra splash of Coca-Cola. You can substitute another dark rum, but you’ll miss out on the sweet depth and dark molasses flavor of the Cruzan Black Strap. Considering its own Caribbean background, Angostura is the bitters of choice here, but swapping in Bittercube Blackstrap Bitters would be a choice play.
+    glassware: 
     ingredients:
     - 2 ounces blackstrap rum, preferably Cruzan Black Strap
     - ½ ounce John D. Taylor's Velvet Falernum
@@ -178,6 +189,7 @@ recipes:
   - name: Cuba Libre
     author: 
     notes: When I heard that Jonathan Miles, the former cocktail columnist for the New York Times, was going to be in Seattle to promote his debut novel, Dear American Airlines, I checked in with his publicist to see if he might be available for a quick meeting. He was, so on an unseasonably hot Seattle evening Jonny and I met at Zeitgeist Coffee in Pioneer Square. We took a table outside and drank espressos in the hot sun, where the conversation quickly turned to cocktails and, when we noticed a bottle of Mexican Coca-Cola on the next table, the undeniably simple pleasure of the Cuba libre. After a pause, Jonny said, “What are we doing sitting here drinking coffee? There’s got to be a bar nearby.” With that, we grabbed our satchels and walked down the block to F.X. McRory’s, a banquet-hall-sized sports bar bedecked in Seattle Mariners memorabilia, and continued our conversation over a round (or two) of Cuba libres. The classic Cuba libre doesn’t call for bitters, but I can’t resist the combination of Angostura and Coca-Cola. Rather than simply adding a dash of bitters and calling it a day, I wanted to introduce the bitters into the drink via bitters-laced ice cubes, which allow the spiciness of the bitters to seep into the drink as the ice slowly melts.
+    glassware: 
     ingredients:
     - Several dashes Angostura bitters
     - 1 lime
@@ -193,6 +205,7 @@ recipes:
   - name: Dark and Stormy
     author: 
     notes: "The Dark and Stormy is like a portable air conditioner, and it’s one of my signature drinks in the summer months. Gosling’s Black Seal Rum has actually trademarked the name Dark and Stormy, so unless you’re pouring Gosling’s and Barritt’s Ginger Beer (which is hard to track down outside Bermuda), you’re not drinking an official version of Bermuda’s national drink. I’m pretty sure Gosling’s attorneys won’t serve you with papers if you choose to use a dark rum other than Gosling’s, though. And adding fresh lime and bitters only makes it better. One thing I will hold you to is the choice of soda: do not use ginger ale in place of a decent ginger beer, unless you have on hand a few bottles of Blenheim Hot Ginger Ale, from Hamer, South Carolina. Standard ginger ale lacks the peppery kick this drink calls for."
+    glassware: 
     ingredients:
     - 1 ounce Ginger-Lime Syrup
     - 2 ounces Gosling’s Black Seal rum
@@ -209,6 +222,7 @@ recipes:
   - name: East India Cocktail
     author: 
     notes: The first version of the East India Cocktail—and there are many—appeared in Harry Johnson’s 1882 New and Improved Bartenders’ Manual and took its name from the location where it was most likely created. One variation involves using pineapple juice instead of pineapple syrup; other recipes omit the pineapple altogether and swap in raspberry syrup. If you don’t have Boker’s Bitters on hand, you can use Angostura, though David Wondrich recommends Peychaud’s for its “lovely, soft edge.”
+    glassware: 
     ingredients:
     - 2 ounces brandy
     - ½ ounce orange curaçao
@@ -225,6 +239,7 @@ recipes:
   - name: Fourth Regiment Cocktail
     author: 
     notes: "This early twentieth-century cocktail comes to us by way of the inimitable Charles H. Baker Jr., as only he can set the scene in his wonderful guide to the good life, The Gentleman’s Companion: Volume II: “Brought to Our Amazed Attention by One Commander Livesey, in Command of One of His Majesty’s Dapper Little Sloops of War, out in Bombay, A.D. 1931.” Baker points out this is “merely a Manhattan Cocktail … spiced with 1 dash each of celery, Angostura, and orange bitters,” but it’s one of the few vintage recipes you’ll see that cites celery bitters as a key ingredient."
+    glassware: 
     ingredients:
     - 1 ounce rye
     - 1 ounce sweet vermouth
@@ -240,6 +255,7 @@ recipes:
   - name: Harvard Cocktail
     author: 
     notes: While this cocktail (more rust-colored than true crimson) dates back to 1895, like its Ivy League cousins the Cornell Cocktail, the Princeton Cocktail, and the Yale Cocktail, it has gone the way of raccoon skin coats on game day. Indeed, after a luncheon at the members-only Harvard Club on West 44th Street in New York City, I asked the well-appointed barman (who was wiping down glasses like well-appointed barmen in movies always seem to be doing) if he had many calls for Harvard’s namesake cocktail. His response of “Say again?” made me think that one hadn’t been ordered there since 1895.
+    glassware: 
     ingredients:
     - 1½ ounces Cognac
     - ¾ ounces sweet vermouth
@@ -256,6 +272,7 @@ recipes:
   - name: Horse's Neck
     author: 
     notes: Called “the great what-is-it of the Highball tribe” by David A. Embury in The Fine Art of Mixing Drinks, the Horse’s Neck started as a nonalcoholic drink in the 1890s, but the addition of whiskey, bourbon, rye, brandy, scotch, or even gin brought a spirited kick to this refreshing highball. The drink, per Embury, “degenerated” into a nonalcoholic beverage once again during Prohibition. Bourbon and ginger ale is one of my favorite marriages of spirit and mixer, so that’s what is recommended here.The garnish is achieved by positioning one continuous spiral of zest from a whole lemon so that it is flapping over the glass’s edge, invoking the silhouette of a horse’s mane. Personally, the lemon corkscrew puts me in the mind of a pig’s tail, but I suppose the Pig’s Tail isn’t as elegant a name as the Horse’s Neck.
+    glassware: 
     ingredients:
     - 1 lemon
     - 2 ounces bourbon
@@ -269,6 +286,7 @@ recipes:
   - name: Japanese Cocktail
     author: Jerry Thomas
     notes: Of the thirteen cocktails listed in Jerry Thomas’s How to Mix Drinks, the Japanese Cocktail is most likely the only true Jerry Thomas original. There’s nothing remotely Asian in the Japanese Cocktail—no sake rinse, no powdered wasabi rim, no cherry blossom garnish. Instead, Thomas created it to mark the occasion of the first visit to the United States by a group of Japanese delegates in June 1860. Fortunately for all parties involved and generations of imbibers to come, the group was staying at the Metropolitan Hotel, just a block from Thomas’s popular bar, where the delegation surely indulged in a tipple or two.
+    glassware: 
     ingredients:
     - 2 ounces Cognac
     - ½ ounce orgeat
@@ -282,6 +300,7 @@ recipes:
   - name: Jersey Cocktail
     author: William T. Boothby
     notes: In his 1891 book, Cocktail Boothby’s American Bar-Tender, William T. Boothby recommends that one “flavor” this bitters, sugar, and cider drink with applejack. What a fine idea. Applejack, an apple brandy-based spirit, was all the rage in the mid-Atlantic states during the Colonial era. America’s first commercial brandy distillery, Laird & Company, set up shop in Scobeyville, New Jersey, in 1780, and they still produce their signature applejack, known in some circles as “Jersey lightning.” Angostura works wonders here, but Fee Brothers Whiskey Barrel-Aged Bitters is what I would use. This is also a great opportunity to break out a bottle of homemade Apple Bitters.
+    glassware: 
     ingredients:
     - 1 ounce applejack
     - ¼ ounce Simple syrup
@@ -297,6 +316,7 @@ recipes:
   - name: Martini
     author: 
     notes: At the height of the martini boom of the 1990s, so-called “martinis” were made with vodka instead of gin and typically served in birdbath-sized glasses (not unlike the one Vince Vaughn hoists on the poster for Swingers). At the same time, “-tini” became the suffix appended to any number of questionable concoctions. The first martinis, served in the late 1800s, were often made with Old Tom gin and sweet vermouth (see the Martinez), but around 1906 the marriage of gin and dry vermouth became the standard. In The Joy of Mixology, Gary Regan points out that around this time a kiss of orange bitters showed up in the drink. Orange bitters remained a part of the dry martini up through the 1930s, but by the 1950s the bitters had disappeared just as the quantity of vermouth trickled down from a healthy pour to a drop to just a vapor.
+    glassware: 
     ingredients:
     - 1½ ounces Plymouth Gin
     - ½ ounce dry vermouth
@@ -312,6 +332,7 @@ recipes:
   - name: Martinez
     author: 
     notes: "We know that this recipe was first captured in print in the 1887 edition of Jerry Thomas’s How to Mix Drinks, but, as with so many great drinks, the details of its origin remain fuzzy. One popular tale has Thomas, then working at San Francisco’s Occidental Hotel, serving it to a Gold Rush-era traveler on his way to Martinez, California. Regardless of the drink’s true provenance, I have to agree with Gary Regan, who, in The Joy of Mixology, writes: “This drink, I believe, was born of the Manhattan and is the father, or perhaps grandfather, of the Dry Gin Martini.” Later he adds, “Theoretically, at least, the Martinez was a variation on the Manhattan, and the Martini is, for all intents and purposes, a Martinez.” In place of the Old Tom gin, a slightly sweeter gin that was popular in the mid-1800s but dried up after Prohibition, I like to use Ransom Old Tom, which hails from Sheridan, Oregon. What makes Ransom so unique is their use of malted barley-based and corn-based spirits, which they allow to mellow in wine barrels, giving the gin its distinctive straw-colored hue. Note the 2:1 vermouth to gin ratio. Some contemporary versions of this drink flip that ratio, or they split the difference and use equal parts. I encourage you to at least try the original version. It’s sweeter than you might be used to, but never cloying, and aromatic as all hell. And it’s a history lesson in a glass."
+    glassware: 
     ingredients:
     - 1 ounce Ransom Old Tom gin
     - 2 ounces sweet vermouth, perferably Carpano Antica
@@ -326,6 +347,7 @@ recipes:
   - name: Mint Julep
     author: 
     notes: This Derby Day classic doesn’t traditionally call for bitters, but I’m happy to see that many bartenders have been sneaking them in, especially since bourbon and bitters make a handsome couple, and the bitters add another layer of aromatics to the fresh mint. And just as one puts on his favorite seersucker jacket for Derby Day, part of the Southern charm of the mint julep lies in its presentation. Although I’ve had juleps in plastic cups and collins glasses, a silver julep cup is what’s really called for by traditionalists. The fresh mint makes the ultimate aromatic garnish, and the short straw tucked into the drink forces you to get your nose in there to fully experience it with all your senses.
+    glassware: 
     ingredients:
     - 2 sprigs fresh mint
     - ½ ounce Simple syrup
@@ -342,6 +364,7 @@ recipes:
   - name: Negroni
     author: 
     notes: Is it true that the Negroni, with its instantly recognizable vibrant red profile, was born in 1919 in Florence, Italy, when a certain Count Camillo Negroni asked the bartender at Caffè Casoni to replace the club soda in his Americano with gin? This tends to be the most popular account of the drink’s origin, but no matter who was behind it (royalty or not), I like to thank that person every time I lift a Negroni to my lips. Made of equal parts gin, Campari, and sweet vermouth, it’s a simple drink that encourages substitutions (swap Aperol for Campari; use Punt e Mes for your vermouth; introduce Lillet; try different gins). Seattle chef Ethan Stowell is responsible for getting me especially hooked on these. Whenever I dropped by Tavolàta for a late-night nibble and I ran into Ethan, a Negroni would appear in my hands as if by magic. Before moving to Brooklyn, I spent my last week in Seattle eating my way through a gustatory bucket list, and a bowl of rigatoni with spicy sausage and a stiff Negroni at Tavolàta were the first items I ticked off. This drink relies solely on the bitterness of the Campari itself, but you can add a dash of orange bitters to amp up the bitter citrus notes, which are rounded out with the flourish of a flamed orange peel garnish.
+    glassware: 
     ingredients:
     - 1 ounce gin
     - 1 ounce Campari
@@ -358,6 +381,7 @@ recipes:
   - name: Old Hickory Cocktail
     author: 
     notes: "In his book Famous New Orleans Drinks & How to Mix ’Em, Stanley Clisby Arthur says that “according to hoary but unsubstantiated tradition,” the Old Hickory Cocktail was a favorite libation of General Andrew Jackson during the Battle of New Orleans. The drink reminds me of the Cin-Cin, which was first introduced to me by Seattle barman Murray “The Blur” Stenson: a simple but achingly perfect fifty-fifty combination of dry and sweet vermouth on the rocks, which of course benefits from the addition of bitters."
+    glassware: 
     ingredients:
     - 1½ ounces dry vermouth
     - 1½ ounces sweet vermouth
@@ -372,6 +396,7 @@ recipes:
   - name: Pegu Club Cocktail
     author: 
     notes: “The favourite cocktail of the Pegu Club, Burma, and one that has traveled, and is asked for, around the world,” writes Harry Craddock in The Savoy Cocktail Book (1930) of the Pegu Club’s namesake cocktail. Although the sun has set on the original British colonial gentlemen’s club, cocktail authority Audrey Saunders named her popular Soho cocktail lounge after the storied Burma club, helping keep the Pegu Club name, and the cocktail, from becoming history.
+    glassware: 
     ingredients:
     - 2 ounces London Dry Plymouth Gin or Bombay Sapphire
     - ¾ ounce orange curaçao
@@ -388,6 +413,7 @@ recipes:
   - name: Pink Gin
     author: 
     notes: "Just two ingredients: gin and bitters. Anything but demure, the Pink Gin was a favorite of the Royal Navy in the nineteenth century, as bitters worked its magic curing everything from seasickness to indigestion. You can see why warm gin and bitters didn’t catch on like a cosmopolitan, but this bitters-stained cocktail makes for an elegant and potent affair. In Vintage Cocktails and Forgotten Spirits, Ted Haigh suggests serving this icy cold with six “goodly dashes” of bitters. I’d start with four and take it up to six if that’s your game. A traditional method of introducing the bitters to the gin is to sprinkle the Angostura into a coupe glass and twist and turn the glass around until the glass is coated. Since warm gin and bitters isn’t everyone’s cup of tea, I prefer to serve the Pink Gin chilled to the bone. Try it. As David Wondrich said of the Pink Gin in Esquire, “It’s considerably smoother than one has any right to expect.”"
+    glassware: 
     ingredients:
     - 2 ounces Plymouth Gin
     - 4 to 6 dashes Angostura bitters
@@ -399,6 +425,7 @@ recipes:
   - name: Pisco Sour
     author: 
     notes: Both Peru and Chile lay claim to the pisco sour as their country’s national drink, but it was an American expatriate from Salt Lake City named Victor V. Morris who first created this adaptation of the whiskey sour at his eponymous bar in Lima, Peru, in the 1920s. The registry at the Morris Bar was filled with high praise from visitors who raved about the signature drink, which used the namesake spirit, pisco, a clear brandy made from muscat grapes brought to Peru and Chile from the Canary Islands in the 1550s by Spanish conquistadors. Recipes flip-flop between using lemon or lime juice, so experiment to see which way you prefer (I like lime). Rather than being mixed into the drink, the bitters are applied to the frothy surface of the drink as an aromatic garnish. Amargo Chuncho bitters out of Peru are billed as the authentic mate for your pisco sour. With a rather floral taste and scent, they lack the spice of Angostura, but if you have a bottle, definitely give them a shot.
+    glassware: 
     ingredients:
     - 2 ounces pisco
     - 1 ounce freshly squeezed lime or lemon juice
@@ -415,6 +442,7 @@ recipes:
   - name: Remember the Maine
     author: 
     notes: Named for the American battleship that exploded in Havana Harbor in February 1898 and the resulting rallying cry that led up to the Spanish-American War, this cocktail is a somewhat obscure relative of the Manhattan. Bitters weren’t used in the original recipe, but a dash or two of Angostura has shown up in enough versions (and it is a variation of a Manhattan, after all) that they aren’t out of place here. “Treat this one with the respect it deserves, gentlemen,” implores Charles H. Baker Jr. in The Gentleman’s Companion. Aye aye.
+    glassware: 
     ingredients:
     - Splash of absinthe
     - 2 ounces rye
@@ -431,6 +459,7 @@ recipes:
   - name: Rob Roy
     author: 
     notes: In the Golden Age of American cocktails it was tradition to christen the opening of a new Broadway show by naming a drink after it. Many of these drinks burned out as quickly as the shows closed, but the Rob Roy is still a marquee star among vintage cocktails. As in many drinks, Angostura is the go-to bitters here, but The Old Waldorf-Astoria Bar Book recommends orange bitters, and Peychaud’s plays nicely with scotch, so I encourage you to hold auditions for all three to determine which bitters gets the part.
+    glassware: 
     ingredients:
     - 2 ounces blended scotch
     - 1 ounce sweet vermouth
@@ -446,6 +475,7 @@ recipes:
   - name: Satan's Whiskers
     author: 
     notes: "Add a splash of spooky cheer to your next Halloween party with one of the best-named cocktails out there: Satan’s Whiskers. The cocktail made its first appearance in print in Harry Craddock’s Savoy Cocktail Book, and, depending on how you groom your devilish drink, you can shake up two variations. If your guests order their whiskers “straight,” use Grand Marnier; if they order them “curly,” use orange curaçao. Another tweak would be to use a blood orange (when in season) for the juice and garnish to give this normally pumpkin-colored drink a diabolic blush."
+    glassware: 
     ingredients:
     - ½ ounce gin
     - ½ ounce sweet vermouth
@@ -464,6 +494,7 @@ recipes:
     author: 
     notes: "In 1923, Delcevare King, an influential member of the Anti-Saloon League, offered a $200 prize for the person who came up the perfect word to describe someone determined to be “a lawless drinker of illegally made or illegally obtained liquor.” On January 15, 1924, the Boston Herald announced the winning word, which had been submitted by two different people: “scofflaw.” But rather than shaming illicit imbibers, the word was embraced as an outlaw badge of honor, and in less than two weeks Harry’s New York Bar in Paris created the Scofflaw Cocktail, a cocktail truly born out of Prohibition."
     year: 1924
+    glassware: 
     ingredients:
     - 1½ ounces rye or Canadian whiskey
     - 1 ounce dry vermouth
@@ -481,6 +512,7 @@ recipes:
     author: 
     notes: Created in 1917 at the Louisville bar of the same name, the Seelbach Cocktail is said to have come into being when a bartender at the Old Seelbach Bar quickly reached for a patron’s Manhattan glass to catch the overflow from a popped bottle of Champagne. Like so many things, the Seelbach was lost to Prohibition, but in 1995 Adam Seger, the hotel’s restaurant director, discovered the original recipe and put it back on the menu. After much passionate pleading, Gary Regan and Mardee Haidin Regan convinced Segar to let them include it in their 1997 book, New Classic Cocktails. Fourteen dashes of bitters—that’s my kind of drink.
     year: 1917
+    glassware: 
     ingredients:
     - 1 ounce bourbon, preferably a pre-Prohibition style like Old Forester
     - ½ ounce Cointreau
@@ -497,6 +529,7 @@ recipes:
   - name: Toronto
     author: 
     notes: "My first experience with this old-fashioned variation with Canadian roots came when I asked a bartender for “something dark and bitter.” Without pause he went to work. A few minutes later he placed the cocktail glass in front of me, filled with an inky potion offset by a bright orange peel garnish. The bracing herbal bitterness of Fernet Branca is an acquired taste for most, but it doesn’t overpower the drink, and it helps to bring out the warmth of the whiskey—making the Toronto perfect for the colder months."
+    glassware: 
     ingredients:
     - 2 ounces Canadian whiskey or rye
     - ¼ ounce Fernet Branca
@@ -513,6 +546,7 @@ recipes:
     author: Walter Bergeron
     notes: "According to Stanley Clisby Arthur, the Vieux Carré was invented in 1938 by New Orleans bartender Walter Bergeron as a tribute to the French Quarter (vieux carré is French for “old square”), “that part of New Orleans where the antique shops and the iron lace balconies give sightseers a glimpse into the romance of another day.” If you think it’s tough to find a decent Sazerac—even in New Orleans—then you might have your work cut out for you when seeking a Vieux Carré out in the wild. A note on the bitters: Bitter Truth Creole Bitters work equally as well as Peychaud’s."
     year: 1938
+    glassware: 
     ingredients:
     - 1 ounce rye
     - 1 ounce Cognac
@@ -533,6 +567,7 @@ recipes:
   - name: The 5th Avenue Cocktail
     author: Jim Romdall
     notes: Native Seattle barman Jim Romdall created this cocktail as a tribute to the tony address of Vessel, the bar he co-owned and managed. Playing around with Dolin Vermouth de Chambéry Blanc as a starting point, he soon came up with a cocktail that highlights the vermouth’s delicate flavor but also possesses the right amount of acidity from the lemon bitters and the citrus notes of the Martin Miller’s London Dry gin. Vessel moved from their Fifth Avenue location in late 2010, but by the time you’re reading this they will have set up shop at a new location in Seattle to continue the excellent level of service and creativity that helped garner the bar national attention.
+    glassware: 
     ingredients:
     - 1½ ounces Martin Miller’s London Dry gin gin
     - ½ ounce Dolin Vermouth de Chambéry Blanc
@@ -548,6 +583,7 @@ recipes:
   - name: Añejo Highball
     author: Dale DeGroff
     notes: The Añejo Highball is a true modern classic from cocktail legend Dale DeGroff, the man who helped usher in the return of the art and appreciation of a well-made cocktail. Dale created this twist on the Dark and Stormy as a celebration of the Cuban bartenders who kept the rum flowing in Havana during Prohibition (much to the benefit of vacationing Americans). In his book The Craft of the Cocktail, DeGroff bills curaçao, lime, and rum as the “holy trinity of the island-rum drink.” Amen to that.
+    glassware: 
     ingredients:
     - 1½ ounces añejo rum
     - ½ ounce orange curaçao
@@ -564,6 +600,7 @@ recipes:
   - name: Autumn Sweater
     author: 
     notes: We could slip away / Wouldn’t that be better? The bittersweet lyrics of “Autumn Sweater,” from Yo La Tengo’s 1997 album, I Can Hear the Heart Beating As One, serve as the source material for this melancholy change-of-season shoegazer. Serve it over a large block of ice, or over an ice sphere—even better to evoke a fat harvest moon hanging in the nighttime sky. Made in Sicily since 1868, Averna is a syrupy, bitter herbal liqueur. It isn’t overpowering, though, and is a great gateway amaro if you’re interested in exploring potable bitters. Amaro Nonino is another mild Italian digestif whose caramel color and warm, spicy burnt orange notes round out the full fall flavors here. Wrap yourself in an Autumn Sweater and embrace what the season has in store for you.
+    glassware: 
     ingredients:
     - 1 ounce rye
     - ½ ounce Averna
@@ -580,6 +617,7 @@ recipes:
   - name: The Bitter Handshake
     author: Andrew Bohrer
     notes: The Bitter Handshake was the very first drink Andrew Bohrer ever served me. He had been making a name for himself around Seattle as an inventive bartender, and he lived up to his reputation when I met him at Mistral Kitchen, where he used to hold court, and gave me a drink that I still think about often. While Andrew was experimenting with a Fernet Branca-based cocktail, one of the sous chefs presented him with some reduced blood orange juice to play around with behind the bar. From this, Andrew developed an after-dinner Fernet old-fashioned digestif of sorts, with an ingenious rye whiskey syrup subbing in for the standard simple syrup and the rich blood orange reduction serving as an improvement over the muddled oranges from poorly made and overly sweet old-fashioneds. Andrew is fanatical about his ice and he serves this over a hand-carved ice sphere. If you don’t feel like hand carving your own ice sphere and don’t have the right mold, you can swap in a large hunk of ice or a large ice cube. The orange zest wrapped around the ice won’t look as elegant, but the drink will still be delicious.
+    glassware: 
     ingredients:
     - 1 ounce Fernet Branca
     - 1 ounce Blood Orange Reduction
@@ -594,6 +632,7 @@ recipes:
   - name: Black Feather
     author: Robert Hess
     notes: Aside from being one of the best bitters resources out there, Seattle cocktail savant Robert Hess was also kind enough to share two of his original cocktail creations (the Trident appears here). Hess makes a point of using all French ingredients (save for the bitters) in this drink, and employs a full ounce of dry vermouth, which according to Hess plays “middleman” to the brandy and Cointreau. The addition of the bitters makes it a proper cocktail, in the true sense of the word (spirit, sugar, water, bitters). Hess’s original version called for his own homemade Hess’ House Bitters (you can find the recipe online), but Angostura, Fee Brothers Old Fashion Aromatic, or The Bitter Truth’s Aromatic will perform with equal aplomb.
+    glassware: 
     ingredients:
     - 2 ounces brandy
     - 1 ounce dry vermouth
@@ -608,6 +647,7 @@ recipes:
   - name: Black Scottish Cyclops
     author: Rocky Yeh
     notes: "Sometimes coming up with a name for an original cocktail is a challenge, and other times it just comes to you when you’re watching a YouTube clip from the multiplayer game Team Fortress 2 and you encounter the character Tavish “The Demoman” Degroot, who calls himself “a black Scottish cyclops.” That’s what happened to my bartending friend Rocky Yeh. Amused, Rocky thought that this character deserved a drink. Rocky describes the Black Scottish Cyclops thus: “The Ramazzotti and bitters add contrasting notes to the peat and roundness without really making it any less of an in-your-face sort of thing, like the character that it’s named for.”"
+    glassware: 
     ingredients:
     - 2 ounces Laphroaig scotch
     - 1 ounce Ramazzotti
@@ -621,6 +661,7 @@ recipes:
   - name: Coxsackie Smash
     author: Matt Lee & Ted Lee
     notes: My friends Matt Lee and Ted Lee, the award-winning food writers behind The Lee Bros. Southern Cookbook, split their time between New York City and Charleston, South Carolina, but they also share a country house in upstate New York, in the Hudson Valley town of Coxsackie. Depending on who you ask, Coxsackie means either “hoot of the owl” or “honk of the goose.” (My money’s on the goose.) One July afternoon I joined Matt and his wife Gia on a sour cherry-picking expedition in the nearby town of Hudson. We returned home with three ten-pound sacks of cherries, and as they were being run through the conveyor belt on the farm’s antique cherry pitter, I tried to calculate how much this haul would’ve cost us back at the Union Square Greenmarket. That weekend sour cherries showed up in clafouti, pancakes, pies, and, of course, cocktails. If you aren’t lucky enough to come across a summertime stash of fresh sour cherries to make homemade sour cherry syrup, I’ll look the other way if you want to swap in some sour cherries from a jar or even use Amarena or Luxardo cherry syrup. If you’re especially lucky, though, you’ll have fresh cherries and a six-pack of South Carolina’s famous Blenheim ginger ale on hand, preferably the “hot” variety. This can be hard to come by, but a spicy ginger beer will do in a pinch. While any tall glass will do, I think a wide-mouth pint Mason jar is called for here, or a glass firehouse mug from the flea market.
+    glassware: 
     ingredients:
     - 1 lime wedge
     - 3 sprigs fresh mint
@@ -639,6 +680,7 @@ recipes:
   - name: Cranberry Crush
     author: 
     notes: Although grocers give cranberries the star treatment only during the countdown to Thanksgiving, it’s worth keeping a bag in your freezer all year round, as their tart bite works especially well as a flavoring agent for cocktails. The Italian amaro Ramazzotti contains a blend of thirty-three herbs and possesses subtle orange notes that come alive with the additional dash of orange bitters and the warm spice from the candied ginger.
+    glassware: 
     ingredients:
     - 12 cranberries
     - Two 1-inch pieces candied ginger, chopped
@@ -659,6 +701,7 @@ recipes:
   - name: Cricket Ball
     author: 
     notes: I came across this understated aperitif at the Red Cat in the Chelsea neighborhood of Manhattan. So named because the drink’s hue matches the color of a traditional cricket ball, the drink also matches the red décor of Jimmy Bradley’s popular restaurant. What first attracted me to this drink were the bitters, of course, but also the use of Lillet Rouge, the too-often-overlooked sister spirit of the more popular Lillet Blanc. The version at the Red Cat calls for Angostura, but I’ve swapped in candy-colored Peychaud’s Bitters to continue the red theme and Fee Brothers Rhubarb Bitters for an unexpected sour note that cuts through the prosecco bubbles.
+    glassware: 
     ingredients:
     - 1 sugar cube
     - 3 dashes Peychaud’s Bitters
@@ -675,6 +718,7 @@ recipes:
   - name: Do You Believe in Miracles?
     author: Brad Thomas Parsons
     notes: "Mike “Twig” McGlynn and Ann Stillman O’Leary founded Lake Placid Spirits, a craft distillery tucked away in the Adirondack Mountains, where their small-batch vodkas are blended in a 220-gallon copper-column pot still using water drawn directly from the distillery’s eponymous lake. When I was thinking of ways to play around with their grain-based vodka, I immediately thought of snow-covered pine trees and raising a glass to the “Miracle on Ice,” one of the most unforgettable upsets in sports history. On February 22, 1980, in Lake Placid, New York, the United States Olympic hockey team, comprised of amateur and collegiate athletes, stunned the world with an upset win in the semifinals over the Soviet team. As the clock ticked down, sportscaster Al Michaels called the action on the ice: “Eleven seconds, you’ve got ten seconds, the countdown going on right now! Morrow up to Silk. Five seconds left in the game. Do you believe in miracles? Yes!”At the time of writing, Lake Placid Spirits’ products are available only in New York state, so put another vodka in the game if you can’t locate a bottle. But in the spirit of things, leave the Russian vodka on the shelf and use a domestic vodka, like Harvest Spirits’ Core Vodka or Tuthilltown’s Heart of the Hudson Vodka, both made in New York and available for purchase online. You’ll need to factor in some time to infuse the rosemary tincture, but once it’s ready you’ll have enough to fuel an entire starting lineup with this icy, piney, wonderfully aromatic cocktail."
+    glassware: 
     ingredients:
     - 1½ ounces P3 Placid Vodka
     - ¾ ounce Clear Creek Douglas fir eau de vie
@@ -691,6 +735,7 @@ recipes:
   - name: Exile in Ryeville
     author: Alex Carr & Caroline Carr
     notes: My friend Alex Carr and his younger sister Caroline hail from the great state of Wisconsin, but there was something about the Emerald City that drew them both to Seattle, where they now work at the same company and live in adjoining apartment buildings with views of the Space Needle. One of their colleagues calls this arrangement a “two-Carr family.” This twist on a sidecar is a nod to Alex and Caroline’s surname and to their penchant for brown spirits; Caroline’s a bourbon and rye girl (she introduced me to the Pickleback, a shot of Jameson with a chaser of pickle juice, a specialty of Manhattan’s Whiskey Tavern), while Alex leans toward single-malt scotches. In fact, nearly all the single malts perched on my shelf were gifts from Alex. If you have trouble tracking down the small-batch bitters suggested here, you can use Regans’ Orange Bitters No. 6, but you’ll miss out on the additional smoky aromatic action.
+    glassware: 
     ingredients:
     - Scotch, preferably a smoky Islay-style whisky, such as Laphroaig
     - 1½ ounces rye
@@ -709,6 +754,7 @@ recipes:
   - name: Fernet and Coke
     author: 
     notes: "The bracingly bitter amaro Fernet Branca has become a favorite on the mixology circuit, used either used as a component in a cocktail or on its own (a shot of Fernet presented to a fellow barman is known as a “bartender’s handshake”). Fernet’s North American buzz started in San Francisco, but it’s also a best seller in Argentina, where Fernet and Coke is the country’s most popular drink. You can certainly use classic Coca-Cola in a pinch, but Mexican Coca-Cola, which is made with pure cane sugar instead of high-fructose corn syrup, is becoming easier to find—Costco even carries it by the case now. Unlike Fernet’s marketing team, which champions Fernet as the cure for all sorts of ailments (read: hangovers), I can’t promise that the drink below will restore your constitution, but it just might give you a second wind and the inspiration to hit one more bar before the night is over."
+    glassware: 
     ingredients:
     - 2 ounces Mexican Coca-Cola Reduction
     - 1½ ounces Fernet Branca
@@ -725,6 +771,7 @@ recipes:
   - name: Gargoyle & Spire
     author: Brad Thomas Parsons
     notes: I live in the Clinton Hill neighborhood of Brooklyn, in a building that had been, until the mid-1980s, home to the Brooklyn Cathedral Preparatory Seminary. In a nod to the building’s neo-Gothic architecture, Cathedral Prep’s yearbook was called Gargoyle, and its newspaper the Spire. And there’s a squadron of very impressive gargoyles perched around the upper perimeter of the building. These aren’t squat grotesqueries lurking in the shadows, but lean creatures with wings folded back and mouths agape, stretching out from the building as if they’re about to strafe the pedestrians on the sidewalk below. Using Strega, whose name means “witch,” in the Gargoyle & Spire seems fitting. Aged in ash barrels, it’s a spellbinding Italian liqueur dating back to 1860 that’s made up of dozens of herbs and spices, including saffron, which is the secret to Strega’s distinctive yellow hue.
+    glassware: 
     ingredients:
     - 1 ounce gin
     - ¾ ounce Strega
@@ -741,6 +788,7 @@ recipes:
   - name: The Long Hello
     author: Damon Boelte
     notes: Damon Boelte, the bar director at Brooklyn’s Prime Meats in Carroll Gardens, has an affinity for naming his original drinks after songs, albums, and musicians. His autumnal Champagne cocktail, The Long Hello, takes its name from an obscure prog rock album from the mid-1970s. (What, you don’t remember the record’s eight-minute instrumental track “I’ve Lost My Cat”?) Damon originally created the cocktail for New York magazine’s winter wedding issue, where he described it as the perfect drink with which to toast newlyweds. This is easily one of my favorite seasonal celebratory cocktails, simple to make, elegant, and delicious. The pear notes from the St. Germain play well with the apple brandy, and the bitters and grated nutmeg add a hint of Christmas spice, making this a warm, charming, and oh-so-sippable Champagne cocktail.
+    glassware: 
     ingredients:
     - ¾ ounce Clear Creek apple brandy
     - ¾ ounce St-Germain elderflower liqueur
@@ -756,6 +804,7 @@ recipes:
   - name: Michelada
     author: 
     notes: A basic michelada can be as simple as a beer over ice with lime and salt, but from there you can doctor your drink with tomato juice, Clamato, hot sauce, savory sauces, chiles, and more. Traditionally, a Mexican beer like Corona, Pacifico, or Modelo Especial is used, but you can alter your michelada by using a darker beer, like Negra Modelo. The Hotel San Jose in Austin, Texas—which is the kind of place I could envision myself moving into for an extended period of time, either to finish a novel or to have a full-on breakdown—goes the Tex-Mex route, serving their michelada with Shiner Bock, a local beer from the Spoetzl Brewery in Shiner, Texas. Bitters aren’t traditionally used in a michelada, but when you’re working with dashes of hot sauce, Maggi sauce (a savory soy sauce-like seasoning with a very distinctive taste, often found in the ethnic foods aisle of the grocery store), and Worcestershire, I believe there’s room for bitters. Any mole bitters makes the cut here, but if you can get your hands on some of the spicier bitters from New Mexico’s The Bitter End, try their Memphis Barbeque or Mexican Mole in this drink.
+    glassware: 
     ingredients:
     - Lime wedge
     - 1 teaspoon kosher salt
@@ -779,6 +828,7 @@ recipes:
   - name: Mrs. Kitzel
     author: 
     notes: As a young fellow, I spent most Friday nights with my grandmother (who lived in the attic apartment above us), eating dinner, nibbling on cookies, and watching TV. My grandmother was a devout churchgoer, which explains why, during The Dukes of Hazzard, whenever Daisy Duke popped onto the screen in her namesake denim cutoffs, my grandmother would cock an eyebrow and whistle, followed by, “Woo hoo hoo, Mrs. Kitzel!” This was her trademark way of expressing disapproval, and one hour of The Dukes of Hazzard (not to mention Fantasy Island) provoked a lot of whistling from her. As a child I never questioned who this Mrs. Kitzel might be, but it turns out it was a reference to Jack Benny regular Artie Auerbach, who played a character named Mr. Kitzel. Mr. Kitzel was a hot dog vendor, remembered best for his line “Pickle in the middle and the mustard on top!” and for his domineering, never-seen wife, Mrs. Kitzel. Beyond a sip of communion wine, my grandmother was mostly a teetotaler, but on Christmas Eve, when my father uncapped a jug of Bailey’s Irish Cream, she could be counted on to have a nip. It usually took just one sip to get her a little giddy. In that spirit, I present the Mrs. Kitzel, a hot-buttered rum of sorts, something that my grandmother might mistake for a warm cider or tea until the spiced rum kicked in and a hoot of “woo hoo, Mrs. Kitzel!” might come forth. I think it’s a fine drink to have on hand while exchanging presents under the tree, or to sneak into a Thermos for a walk around the neighborhood to take in the Christmas lights on a crisp winter night.
+    glassware: 
     ingredients:
     - 2 ounces spiced rum
     - 1 ounce Amaro Nonino
@@ -790,7 +840,7 @@ recipes:
     - 1 tablespoon unsalted butter
     - "Garnish: cinnamon stick and freshly grated nutmeg"
     steps:
-    - Combine the rum, Amaro Nonino, brown sugar, lemon and Orange peels, and bitters in a mug. Fill the mug with the hot apple cider. Add the butter and stir until it has melted into the drink. Garnish with the cinnamon stick and freshly grated nutmeg.
+    - Combine the rum, Amaro Nonino, brown sugar, lemon and orange peels, and bitters in a mug. Fill the mug with the hot apple cider. Add the butter and stir until it has melted into the drink. Garnish with the cinnamon stick and freshly grated nutmeg.
     tags:
       - new-look cocktails
       - stirred
@@ -798,6 +848,7 @@ recipes:
   - name: Pith Helmet
     author: 
     notes: In an article entitled “The New Antiquarians,” the New York Times profiled the stylish sisters Hollister and Porter Hovey, whose windowless loft in the Williamsburg neighborhood of Brooklyn is packed to the ceiling with a curated collection of mounted animal trophies, vintage tennis rackets, steamer trunks, apothecary ephemera, fencing gear, and eccentric headgear, including several pith helmets. They even have their own crest. If Little Edie and Richie Tenenbaum set up house together, it might look like the Hoveys’. Based on photos on Hollister’s popular blog, I was pleased to see that the Hoveys also like to keep a few bottles of bitters on hand. This twist on a Pimm's No. 1 Cup amps up the gin-based Pimm's No. 1 with an additional slug of British dry gin (Bombay will work, but the Hoveys might call for Old Raj). The lemon-basil syrup, cucumber, and black pepper present an earthy, vegetal undertone against the lemon juice and crisp bitter lemon tonic, and the bitters help bring it all together.
+    glassware: 
     ingredients:
     - 6 black peppercorns
     - ½ ounce Lemon-Basil Syrup
@@ -818,6 +869,7 @@ recipes:
   - name: Primo Avenue Punch
     author: Brad Thomas Parsons
     notes: "There are few places I’d rather be on the Fourth of July than sitting poolside at my sister Vicki’s place on Primo Avenue in Sherrill, New York, with a plastic tumbler of punch in hand. Vicki and her husband, Bob, are fans of blueberry vodka, but, as the opinionated (read: annoying) younger brother, I’m always full of constructive criticism, which is why I swap in cachaça, the popular Brazilian spirit made from fermented sugarcane. Cachaça brings an unexpected twist to the drink, and the use of fresh fruit, both muddled and as a garnish, takes full advantage of the abundance of summer berries at the roadside fruit stands. I think Bob and Vicki would approve."
+    glassware: 
     ingredients:
     - 6 blueberries
     - 2 strawberries, stemmed and halved
@@ -836,6 +888,7 @@ recipes:
   - name: Red Carpet Reviver
     author: Brad Thomas Parsons
     notes: My friend Terry, a confirmed bachelor of a certain age, is fond of announcing, for no particular reason, “I am big! It’s the pictures that got small.” When you catch a Saturday matinee with Terry, as soon as the credits begin to roll, he’s ready to hit another theater on the other side of town. The Academy Awards are like Christmas and his birthday rolled into one, but he isn’t one to tolerate the typical Oscar party, where the guests are more interested in “Who are you wearing?” than in who’s going to win Best Supporting Actress. So instead, Terry hosts an Oscar brunch, which allows him to honor the day among friends, while guaranteeing his guests are out the door by the time the preshow countdown starts. And, if there are any stragglers, Terry sends them on their way by tapping on his watch and announcing “tick-tock, tick-tock.” When I finally made the A-list for his Oscar brunch, he told me he would have Champagne on hand for mimosas, but I threw some additional ingredients in my kit in order to mix up a signature drink in honor of the occasion. The orange-forward flavors of this daytime kicker serve as tribute to those neglected mimosas. The slight bitterness of the Aperol, the orange notes of the bittersweet Lillet, and the blood orange syrup introduce the right amount of red carpet glamour to any Sunday brunch, whether it calls for black tie or frayed pajamas.
+    glassware: 
     ingredients:
     - ½ ounce Blood Orange Syrup
     - 1 ounce Aperol
@@ -854,6 +907,7 @@ recipes:
   - name: Sawyer
     author: Don Lee
     notes: I first encountered the Sawyer after a late-night gustatory marathon at Momofuku Ko, the twelve-stool East Village restaurant famous for its elaborate and inventive omakase-style tasting menu and a sometimes confounding online reservation system. Even though I had been served far too many courses to remember—the scribbles in my Moleskine notebook that night went from their normal, barely legible state to cave paintings—I left not with a sense of overstuffed food coma, but rather an enlightened eater’s high. Despite the subzero temperatures that bitter January night, I wasn’t ready to call it quits just yet. A nightcap seemed in order, so I walked over to Ko’s sister restaurant, Ssäm Bar. Don Lee, who spent time at PDT and was then the bar manager for the Momofuku empire, was behind the stick at Ssäm Bar that night, and when I told him I was looking for a post-Ko digestif, he went to work and presented me with the Sawyer, an icy, bitters-soaked twist on a gimlet doctored with nearly thirty dashes of bitters. Don explained that the drink was inspired by wd-50 chef Wylie Dufresne (who loves gin) and was named after Wylie’s daughter. The Sawyer is no longer on the menu at Ssäm Bar, but ask nicely and most of the bartenders will know what you’re after.
+    glassware: 
     ingredients:
     - 2 ounces London Dry gin
     - ½ ounce freshly squeezed lime juice
@@ -870,6 +924,7 @@ recipes:
   - name: Scuppernong Sour
     author: Brad Thomas Parsons
     notes: One of my favorite traditions of the Southern Foodways Alliance Symposium, the annual gathering of writers, chefs, restaurateurs, academics, and serious eaters held annually each fall in Oxford, Mississippi, is the Friday front-porch fried catfish feed that takes place at Taylor Grocery. Part of the experience is the bus ride out to Taylor, where the mode of transportation used to be two open-air double-decker buses that shot through the moonlit countryside like a Deep South version of Mr. Toad’s Wild Ride, with hip flasks of brown whiskey passed back and forth as tree branches whizzed by overhead. The double-deckers have been retired, with orange school buses taking their place, but the spirit is still there (as are the spirits). The sign at Taylor Grocery reads “Eat or We Both Starve,” and no one leaves hungry, that’s for certain. During my first trip there I spied a stack of homemade preserves by the cash register and left with two pints of scuppernong jelly, something I couldn’t easily find back home. While often used interchangeably with muscadine, scuppernong is a variety of the thick-skinned, slightly musky muscadine grape. Native to the southeastern states, scuppernongs come in hues from light green to bronze, while muscadines are typically a reddish-purple. Both varieties can be enjoyed straight off the vine, reduced to a syrupy glaze, baked into a pie, or made into country wine. North Carolina’s ever-inventive Full Steam Brewery even makes a scuppernong sparkling ale. Taking a cue from the marmalade sour, a drink made popular by barman Jamie Boudreau, I’ve sweetened things up with two spoonfuls of scuppernong jelly and a healthy pour of bourbon. Shaken to within an inch of its life, the result is a frothy tipple that will bring a pucker to your lips.
+    glassware: 
     ingredients:
     - 2 ounces bourbon
     - 2 tablespoons scuppernong or muscadine jelly, jam, or preserves
@@ -886,6 +941,7 @@ recipes:
   - name: Shady Lane
     author: David Chang
     notes: "“Blind date with a chancer, we had oysters and dry Lancers” begins the Pavement classic “Shady Lane.” As far as this warm-weather cooler is concerned, the song’s refrain says it all: “A Shady Lane, everybody wants one.” Muddling the aromatic shiso leaves (found at Japanese markets), which taste something like a cross between mint and basil, lends a peppery element to this sweet-tart cocktail. The drink is also a tip of the hat to one of my favorite haunts, Momofuku Ssäm Bar, where David Chang keeps Pavement in heavy rotation, and where shiso pops up in both the food and the drink menus. In fact, Pavement bassist Mark Ibold is a bit of a gastronaut himself. In addition to playing with Sonic Youth and dabbling in freelance food styling, he also holds down a gig as bartender at the Great Jones Cafe in the East Village. Maybe if you see him and you ask very nicely, he’ll make you your own Shady Lane."
+    glassware: 
     ingredients:
     - ½ ounce Blackberry-Lime Syrup
     - 3 shiso leaves
@@ -905,6 +961,7 @@ recipes:
   - name: Sorghum Flip
     author: Brad Thomas Parsons
     notes: Meant to evoke a cold slice of pecan pie eaten straight out of the refrigerator, this Southern-inspired flip incorporates the sweet nuttiness of toasted pecans, bourbon, and the not-so-secret ingredient, sorghum syrup. Similar to molasses, sorghum syrup is a thick, caramel-colored natural sweetener that has a fruity, grassy flavor. Often used interchangeably with molasses, it’s great as a topping for warm biscuits, stirred into hot cereal, or as a sweetener in baked goods. I keep my pantry stocked with a cache of sorghum I stumbled upon at a general store attached to a pumpkin farm in Snohomish, Washington, but you can find it at many grocery stores or order it online.
+    glassware: 
     ingredients:
     - 2 ounces bourbon
     - ½ ounce buttermilk
@@ -923,6 +980,7 @@ recipes:
   - name: Tipsy Nissley
     author: Brad Thomas Parsons
     notes: "My friend and former colleague Tom Nissley is many things: a devoted husband and father to two adorable shaggy-haired boys, an obsessive reader, an unabashed Jimmy Connors fan, a record-setting Jeopardy! champion, and a lover of that classic iced-tea-and-lemonade combo, the Arnold Palmer. When I was thinking of a drink for Nissley, I knew that simply spiking an Arnold Palmer wouldn’t do. Tea-infused bourbon is the foundation for the drink, but what really makes it is the smoked citrus I adapted from a technique I picked up from Kat Kinsman, the managing editor at CNN’s food blog, Eatocracy. Kat uses a proper outdoor smoker to enrobe the lemons in a savory smoke, but if (like me) you’re making this in an apartment without a yard, you can use a stovetop smoker (available online or at a kitchen supply store). Just remember to crack open the kitchen window and remove the batteries from any nearby smoke detectors (but don’t forget to put them back in when you’re finished!). For this recipe I typically use whiskey-barrel wood chips. Using other types—pecan, cedar, cherry, maple, hickory, or apple wood—will bring about subtle differences in flavor. A final note: using chocolate bitters here is another nod to Nissley, who, without fail, would roll into lunch meetings at work with a bowl of chili and a tiny carton of chocolate milk… a quirky and seemingly unappetizing pairing that only Nissley could pull off."
+    glassware: 
     ingredients:
     - 2 ounces Tea-Infused Bourbon
     - 3 ounces Smoked Lemonade
@@ -938,6 +996,7 @@ recipes:
   - name: Tombstone
     author: 
     notes: On October 3, 2004, while conducting research for Imbibe!, his now-famous biography of cocktail progenitor Jerry Thomas, author David Wondrich led a troop of bartenders and writers on a field trip to the Woodland Cemetery in the Bronx to seek out Thomas’s grave. Along with a bag of ice, Wondrich packed a bottle of rye, bitters, sugar, thirteen cocktail glasses, and a cocktail shaker. As Wondrich would be quick to point out, normally you would stir an all-spirits drink like this, but just as the cocktail shaker was passed around that October day, with each person in the party giving it a ceremonial shake, you, too, should shake your Tombstone in honor of Jerry Thomas.
+    glassware: 
     ingredients:
     - 2 ounces 100- or 101-proof rye
     - ¼ ounce rich syrup
@@ -951,6 +1010,7 @@ recipes:
   - name: Trident
     author: Robert Hess
     notes: The Trident, considered one of cocktail expert Robert Hess’s most successful original cocktails, starts as a Negroni variation, but ends by bringing three seemingly disparate ingredients together with the help of a couple dashes of peach bitters. In fact, this cocktail came about when Hess was working with Fee Brothers, attempting to come up with new cocktail recipes that would take advantage of their unique peach bitters. You can find the Trident on the menu at the Zig Zag Café, one of Hess’s favorite Seattle bars, where they burn through more bottles of Cynar, the bittersweet artichoke-based Italian aperitif, than any other bar in Washington state.
+    glassware: 
     ingredients:
     - 1 ounce dry sherry
     - 1 ounce Cynar
@@ -964,6 +1024,7 @@ recipes:
   - name: Turkey Shoot
     author: 
     notes: This boozy blunderbuss of a cocktail is the perfect autumnal tipple. Think crackling leaves underfoot on a city sidewalk, weekend football games, and crisp apples eaten out of hand. The spicy rye and the classic fall flavors of the allspice dram (also known as pimento dram) make a welcome base for a slug of apple cider and cinnamon syrup. The slightly bitter Italian vermouth Punt e Mes brings some additional nuance to the drink, and the whiskey and cranberry bitters give it an aromatic kick.
+    glassware: 
     ingredients:
     - 1½ ounces Wild Turkey 101 Rye
     - ½ ounce Punt e Mes
@@ -983,6 +1044,7 @@ recipes:
   - name: White Light/White Heat
     author: Max Watman
     notes: "First things first: even if it’s served in a Mason jar, that corn whiskey you’re nipping isn’t technically moonshine unless it was birthed from an illegal still. But, moonshine or not, don’t be surprised if the outlaw spirit washes over you when you’re drinking the “white dog” (a nickname for white whiskey, an unaged distilled whiskey that remains untouched by the barrel that typically gives whiskey its color). Max Watman wrote a very entertaining book on the topic—Chasing the White Dog: An Amateur Outlaw’s Adventures in Moonshine—and I hope this is a drink Max would approve of. Many white whiskey drinks have names like the Corn Popper or the Hillbilly Highball, but I tried to give my concoction a more urbane, sophisticated twist and a name to match. The “white light” comes from the Dolin Vermouth de Chambéry Blanc, which possesses a bittersweet alpine wash, while the “white heat” sneaks up on you from the corn whiskey. I prefer Kings County Distillery’s corn whiskey here—a newer label based out of a loft in Williamsburg, Brooklyn. They opened in April 2010 and are the first whiskey distillery in New York City since Prohibition. Plus, their whiskey comes in a glass hip flask, which I know Max would appreciate. Do avoid any novelty brands, like Georgia Moon, and stick with a small-batch beauty like Tuthilltown’s Hudson New York Corn Whiskey or the Finger Lakes Distilling Company’s “Glen Thunder” New York Corn Whiskey, both available online."
+    glassware: 
     ingredients:
     - 2 ounces corn whiskey
     - ¾ ounce Dolin Vermouth de Chambéry Blanc
@@ -997,6 +1059,7 @@ recipes:
   - name: Woodland Sunset
     author: 
     notes: On July 24, 2002, director Wes Anderson sat in as guest host on Charlie Rose. His guest for the night was the legendary, and legendarily eccentric, film producer Robert Evans, best known for helping bring Love Story and The Godfather to the silver screen. At one point in the interview Anderson asked Evans, “If somebody tells me they really like my tie, what should I do?” Without missing a beat, Evans responded, “If one person tells you they like your tie, that’s okay. If five or six people tell you they like your tie, take it home and shred it. Because background makes foreground. If five people tell me they like my shirt, I’ll never wear it again. Because the shirt’s there to make me look good. Your tie’s there to make you look good.” A classic Evans quote, yes, but it’s also a great metaphor for how bitters work their magic in a drink. Unless you’re drinking something meant to impart bitterness, like the Sawyer, bitters are background players that step aside and let the drink itself be the star. The spicy Moroccan bitters used here lends a touch of the exotic, just like the sterling silver bolo tie Evans wears—the one he bought from a belly dancer in London for $1,000. This twist on the tequila sunrise is named after Evans’s Beverly Hills estate, but it is also a nod to young Evans’s role as bullfighter Pedro Romero in the 1957 film version of The Sun Also Rises, the part that caused producer Darryl Zanuck to announce through a bullhorn, “The kid stays in the picture. And anybody who doesn’t like it can quit.”
+    glassware: 
     ingredients:
     - 1½ ounces añejo tequila
     - ¼ ounce Lime Syrup
@@ -1013,6 +1076,7 @@ recipes:
   - name: Zim Zala Bim
     author: Jamie Boudreau
     notes: Jamie Boudreau came to create the Zim Zala Bim after being intrigued by the nineteenth-century cocktail the Alabazam, particularly its use of a “boatload of bitters.” Boudreau took the teaspoon of Angostura in the Alabazam and doubled down with two teaspoons of orange bitters to create this drink. Boudreau insists on using complex orange bitters for this drink and recommends Regans’ Orange Bitters No. 6, since the spicy cardamom notes from Regans’ play well with the reposado tequila. It’s a drink with “zippy complexity” that will keep the attention of the jaded tequila drinker who is tired of yet another margarita.
+    glassware: 
     ingredients:
     - 2 ounces Partida reposado tequila
     - 2 teaspoons of Regans’ Orange Bitters No. 6

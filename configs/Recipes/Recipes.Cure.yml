@@ -4,6 +4,7 @@ recipes:
   - name: Sazerac
     author:
     notes:
+    glassware: 
     ingredients:
     - 4 spritzes Herbsaint
     - 2 ounces (60 ml) Sazerac rye
@@ -22,6 +23,7 @@ recipes:
   - name: Improved Brandy Cocktail
     author:
     notes:
+    glassware: 
     ingredients:
     - 4 spritzes Herbsaint
     - 2 ounces (60 ml) Ricou Spirits Brandy Sainte Louise
@@ -40,6 +42,7 @@ recipes:
   - name: Basic Reshape
     author: Turk Dietrich
     notes: You won’t be surprised to learn that we love to make Sazerac variations at Cure. We’ve done a lot of them over the years, but this one from Turk Dietrich remains one of the best. “This drink was born out of a dealer’s choice that I used to make all the time, a genever Sazerac,” he explains. (“Dealer’s choice” refers to when a guest asks the bartender to come up with a drink for them rather than choosing from the menu.) “Instead of absinthe, I rinsed with Zirbenz,” an Austrian eau-de-vie made from the fruit of the arolla stone pine, “since pine works really well with the maltiness of the genever.” Think of this as a Sazerac on a ski vacation in the Alps.
+    glassware: 
     ingredients:
     - 5 spritzes Zirbenz stone pine liqueur
     - 1½ ounces (45 ml) Bols barrel-aged genever
@@ -57,6 +60,7 @@ recipes:
   - name: Chink in the Armor
     author: Kirk Estopinal
     notes: You’ll see many, many recipes from Kirk Estopinal throughout the book. Kirk was the first bar manager at Cure, and by year two he had become my partner in the business. Kirk describes this drink as “a nod to malted milk balls.” You’ll find that a lot of his drinks are inspired by candy or dessert flavors. Even if you don’t like sweets, they totally work. Genever, which is a spirit with centuries of history (think of it as a sort of proto-gin), has a strong malty flavor, almost like an unaged white whiskey. That, paired with the honey, chocolaty bitters, and honey and citrus notes from the Lillet, makes this pretty damn irresistible.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Bols genever
     - ¾ ounce (22.5 ml) Lillet Blanc
@@ -72,6 +76,7 @@ recipes:
   - name: Old-Fashioned
     author:
     notes: In the early days of Cure, we called this cocktail the old Old-Fashioned to differentiate it from the version of the drink that our parents and grandparents drank in the 1960s and ’70s (what I like to call a “Pendennis-style” Old-Fashioned, named after the Louisville, Kentucky, club that popularized it). The Pendennis Old-Fashioned involves muddling an orange wedge and a maraschino cherry with some Angostura bitters-soaked sugar in the bottom of a glass, adding a splash of water from a soda gun to make a quick syrup, then topping it all with bourbon and ice. I’m not going to claim that this retro style of Old-Fashioned doesn’t taste good. It does! It’s just different than what we wanted to make at Cure. We were more interested in an earlier, nineteenth-century version of the drink, which doesn’t involve whole fruit or muddling. In the recipe here, I call for bourbon or rye, and both work. It just depends on what you’re in the mood for. I’ll reach for bourbon if I want a rounder, richer Old-Fashioned, and rye if I’m looking for something thinner and more spiced. Hell, you could even swap in Scotch and use honey syrup  as a sweetener, since Scotch and honey go so beautifully together. Or try an agave spirit like tequila or mezcal and use agave syrup , or an aged rum with a smidge less Demerara syrup. That’s the beauty of these proto-cocktails—they are flexible and work with pretty much whatever you have on hand.
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) Sazerac rye or Evan Williams single-barrel bourbon
     - ¼ ounce (7.5 ml) Demerara Syrup 
@@ -89,6 +94,7 @@ recipes:
   - name: Cock 'n' Bull Special
     author:
     notes: Here’s a classic that doesn’t really have anything to do with New Orleans—it was created at the Cock ‘n’ Bull restaurant, which opened in Los Angeles in the 1930s. But Ryan Gannon, one of Cure’s Hall of Fame bartenders, was always a big champion of the drink, and it really caught on for us at Cure as a solid Old-Fashioned variation. I think part of the reason people respond to it is because the brandy and the Bénédictine give it a New Orleans sensibility and shared DNA with the Vieux Carré and the Cocktail à La Louisiane. (Bénédictine, which we call a monastic spirit because its recipe was allegedly first developed by French monks, like Chartreuse, has notes of vanilla bean, baking spices, and citrus peel. It was one of those spirits imported from Europe that New Orleans took a shine to, so you’ll find it in a lot of our classic drinks.) My only criticism of the Cock ‘n’ Bull is that it’s a little richer and rounder than we generally like, so don’t be afraid to add an extra dash or two of bitters to balance it out.
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) Buffalo Trace Bourbon
     - ½ ounce (15 ml) Sainte Louise brandy
@@ -106,6 +112,7 @@ recipes:
     author: Ryan Gannon
     year:
     notes: Ryan had a very specific idea of what he wanted to do here—create a bittersweet Old-Fashioned with a menthol finish—so he just tinkered until he ended up with a perfect drink. His starting point was a somewhat obscure vintage cocktail called The Battle of New Orleans. “It was a total Mr. Potato Head,” he tells me, referring to the now-famous process for riffing on classic templates first popularized by Phil Ward in the 2000s. (Think of a cocktail like a Potato Head doll, and try swapping in different sets of eyes, noses, or mouths—or in this case, different spirits, modifiers, or bitters.) “The main thing for me was whiskey and mint, but instead of crème de menthe, I wanted the deeper flavor of Branca Menta,” which is bittersweet and herbaceous with a heavy dose of menthol.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Henry McKenna or Evan Williams bonded bourbon
     - ½ ounce (15 ml) Branca Menta
@@ -123,6 +130,7 @@ recipes:
     author: Nicholas Jarrett
     year:
     notes: This Old-Fashioned riff is an homage to what Nick describes as one of the greatest whiskeys ever bottled, Jack Daniel’s Master Distiller #2. It’s a precious and hard-to-find spirit, so if you want to use something a bit more accessible, try this drink with Jack Daniel’s Single Barrel Select whiskey instead. What I love about the Charm Offensive is the hit of celery. Whiskey, peach, and celery might not sound like an obvious combination, but it really works.
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) Jack Daniel’s Master Distiller #2 or Single Barrel Select whiskey
     - ½ ounce (15 ml) Giffard crème de pêche liqueur
@@ -141,6 +149,7 @@ recipes:
     author: Nicholas Jarrett
     year:
     notes: Nick calls this his “deranged mash-up between a Stinger [a two-ingredient cocktail of brandy and crème de menthe] and a Dead Nazi [the classic dive bar shooter consisting of equal parts Jägermeister and Rumple Minze].” This bartender’s choice was created for one of Cure’s best regulars, James, the owner of the terrific Freret neighborhood café Bearcat.
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Laird’s bottled-in-bond apple brandy
     - ¾ ounce (22.5 ml) Jägermeister
@@ -159,6 +168,7 @@ recipes:
     author: Ryan Gannon
     year:
     notes: "This is one of my favorite cocktails, period. It kind of splits the difference between an Old-Fashioned and a lowish-proof Manhattan, with rich cinnamon notes and nuttiness from the sherry, then bitter amaro to snap it all together. Ryan and I debated whether we should reveal the true inspiration for the name of this cocktail. But I decided the truth should prevail: Elle Rio is the name of a notable Brazilian adult-film star from the 1980s. And since cachaça, a sugarcane-based rum, is the iconic spirit of Brazil, Ryan felt like the name was an apt tribute. When I asked him the backstory of this drink, he laughed and told me that he basically created it to try to lure whiskey drinkers and get them to diversify their palates a bit. His ploy worked: So many people would order two or three of this drink, rave about how much they loved the “whiskey,” and then find out afterward that they were actually drinking cachaça."
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Avuá Amburana cachaça
     - 1 ounce (30 ml) Barbadillo oloroso sherry
@@ -178,6 +188,7 @@ recipes:
     author: Kirk Estopinal
     year:
     notes: “This was one of my on-the-spot drinks,” Kirk told me. He made it while competing in a cocktail competition hosted by St-Germain. “During one of the heats, they gave you a surprise bottle and you had to make a drink with it. I remember being a little nervous because my judge was Dale DeGroff.” (If you don’t already know, Dale is a total legend and considered the father of the modern mixology movement.) When Kirk was handed a bottle of pisco, he spontaneously decided to try it in a Sazerac variation, subbing it in for rye. It sounds crazy, but it worked. DeGroff loved the drink, which was a favorite on one of our earliest menus at Cure.
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) Barsol Primera Quebranta pisco
     - ½ ounce (15 ml) St-Germain elderflower liqueur
@@ -196,6 +207,7 @@ recipes:
     author: Kirk Estopinal
     year:
     notes: "Kümmel is a European liqueur that is flavored with caraway and sometimes cumin and/or fennel. In my humble opinion, many of them smell like a stinky armpit. But in the early days of Cure, Kirk took it upon himself to try to make a house-made kümmel. It ended up being fantastic. “This was in the beginning of the Rogue Cocktails concept,” Kirk says, referring to the game-changing collection of drinks he and Maks Pazuniak wrote and published in 2009. Kirk calls it his “weirdo” cocktail book, but it was full of revolutionary ideas, one of which was that drinks don’t necessarily have to have a base spirit like vodka, gin, or whiskey. “I love the idea of a drink where you look at the recipe and think to yourself, Gross. Or, What could that possibly taste like?” Kirk and Maks’s rogue cocktails basically dared you to drink them. Adding to the mystique was the fact that Kirk’s house-made kümmel looked scary: The jug of liquid with whole caraway seeds floating in it looked, at least according to Kirk, like “a million dead flies stuck in a gross brown liquid.” Now that I’ve definitely sold you on this drink, I have to tell you in all honesty that it’s really good. Gilka kümmel is available online and in well-stocked liquor stores. Paired with the assertive flavors of Herbsaint and curaçao, it’s not a subtle drink, but it’s tasty."
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Gilka kaiser-kümmel liqueur
     - 1 ounce (30 ml) Herbsaint
@@ -211,6 +223,7 @@ recipes:
     author: Kirk Estopinal
     year:
     notes: "What a great cocktail. The Yerba Agave was a huge seller when we first put it on the menu, and it’s still a crusher. Tequila, and even tequila Old-Fashioneds, are pretty mainstream today, but in 2010, they were an oddity in the U.S. Kirk’s inspiration was a vintage drink called the Improved Holland Gin Cocktail, which was basically a genever Old-Fashioned. “I find aged tequilas often have a kind of dried cacao note. The Bénédictine was a way to bridge the chocolaty vibes of the tequila, and the crème de menthe adds mint but also a drying, refreshing, cooling note. When a drink is a little sweet, a touch of mint can bring it back down and make you want to take another sip.” Kirk’s Old-Fashioned philosophy is that the setup should fundamentally elevate the base spirit. This drink does just that: It brings out all the nuances and subtle flavors of the tequila."
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) El Tesoro añejo tequila
     - ¼ ounce (7.5 ml) Agave Syrup 
@@ -228,6 +241,7 @@ recipes:
   - name: Mint Julep
     author:
     notes: The spec below is very traditional and very basic. So technique is important here. Despite what you may have been told, you should not “muddle” the mint. If you pulverize it, you’ll extract bitter and unpleasant flavors from the chlorophyll. Instead, gently press the mint with the back of your barspoon against the glass. Do not “slap” the bouquet you’ll use for garnish. Just gently brush it against the back of your hand; that’s enough to activate the aromas. Add the ice in stages and agitate (swizzle or stir) at each step. Purists may scoff, but I like to add a dash or two of Angostura to my Mint Juleps. Pretty much everything tastes better with bitters.
+    glassware: 
     ingredients:
     - 2¼ ounces (67.5 ml) Buffalo Trace Bourbon
     - ½ ounce (15 ml) Demerara Syrup 
@@ -242,6 +256,7 @@ recipes:
   - name: Ojen Cocktail
     author:
     notes: "For me, this is the drink of the Carnival season. It’s so simple: basically an adult version of a Sno Ball, made pink and pretty by the addition of plenty of Peychaud’s bitters. Although it isn’t traditional, I sometimes add ½ ounce (15 ml) of orgeat , a nonalcoholic almond syrup flavored with orange flower water that is commonly used in tropical drinks. Orgeat was around in the 1800s and early 1900s, but I have no evidence of anyone using it in Ojen Cocktails—I simply find that it is a nice way to add richness and body to what can otherwise be a bracing drink. A bit of simple syrup could also work instead of the orgeat. (In either case, you should add even more Peychaud’s, for balance.) Our official Cure recipe calls for 21 drops of bitters total, but when I’m making this for myself, I add even more."
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) Ojen
     - 14 drops Peychaud’s bitters, plus 7 drops for garnish
@@ -257,6 +272,7 @@ recipes:
   - name: Manhattan
     author: 
     notes: Sometime around the 1870s or 1880s, bartenders came to the brilliant realization that if they stretched their pure-spirit cocktails with a bit of fortified wine, the resulting drink was a) delicious and b) lower proof, which meant bar patrons could drink more of them without falling out of their chairs. While New York City likes to take credit for its invention, the Manhattan was embraced from the start by the citizens of New Orleans (references to it were popping up in newspapers as early as 1885), which makes sense given our access to products like vermouth via our close trading relationships with Europe.
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) Buffalo Trace Bourbon
     - 1 ounce (30 ml) Cinzano Rosso vermouth
@@ -273,6 +289,7 @@ recipes:
   - name: Among Dreams
     author: Turk Dietrich
     notes: "If you like Manhattans, I’ve just found your new favorite drink: Among Dreams is richer and smoother than any traditional Manhattan you’ll taste. It’s what we call an inverted Manhattan, meaning the vermouth—in this case, Carpano Antica, which was a favorite in the early days of the craft cocktail renaissance—is the base, or main ingredient, and the modifier, which is typically a fortified wine, is in this case rye whiskey. Turk balances the vanilla and orange notes of the Carpano with the herbaceousness of Chartreuse, and to kick up the proof a bit, he uses a spicy overproof rye. “I’m a sucker for aromatic bitters that have a Christmas-spice vibe, which you get from these Old-Fashioned bitters and the cinnamon from the tiki bitters,” Turk says. Because of the higher proof of the modifiers (Chartreuse is 55% ABV; the bonded rye is 50%), this tastes like an even 50-50 Manhattan even though it’s technically inverted."
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) Carpano Antica Formula sweet vermouth
     - ½ ounce (15 ml) green Chartreuse
@@ -289,6 +306,7 @@ recipes:
   - name: Vieux Carré
     author: 
     notes: "Here’s another New Orleans classic whose first book appearance was in 1937, in Stanley Clisby Arthur’s Famous New Orleans Drinks and How to Mix ’Em. According to Arthur—and this is one of those rare instances where I think he got the story mostly right—the drink was invented by Walter Bergeron at the Hotel Monteleone, presumably in the years just following the repeal of Prohibition. Back then, the now-famous revolving Carousel Bar was just a twinkle in some marketing executive’s eye, so guests would have enjoyed their Vieux Carrés gyration-free. That said, we can’t be entirely sure of when Bergeron first created the Vieux Carré. During Prohibition, he was the manager of a “cigar shop” that was raided in 1924. Bergeron was arrested for a gambling-related crime, but it’s not hard to believe that he was slinging illegal hooch—Vieux Carrés, maybe?—in addition to cigars. Remember, New Orleans was called the “wettest city in America” during Prohibition (see this page), so maybe Bergeron was lucky and his arresting officer was a Vieux Carré fan willing to turn a blind eye. Our spec at Cure is pretty close to the classic formula, which blends American rye, Italian sweet vermouth, Caribbean bitters, French cognac, and the French liqueur Bénédictine. Some people like to say that the drink is a tribute to the diversity of the French Quarter (vieux carré means “old square”) in those days when people of French, Italian, and Creole descent all lived side by side. One last thing: If you studied French in school, you’ll probably pronounce this “v-yoo car-ay.” But in New Orleans we say “voo car-ay,” because, well, it’s New Orleans and we mispronounce everything."
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) Sazerac rye
     - ¾ ounce (22.5 ml) Cinzano Rosso vermouth
@@ -307,6 +325,7 @@ recipes:
   - name: Cocktail à la Louisiane
     author: 
     notes: "It doesn’t take a cocktail genius to realize that the Cocktail à la Louisiane is just hedging its bet between a Sazerac and a Vieux Carré. For that reason, I always assumed that the drink was a sort of marketing ploy by the restaurant La Louisiane. They saw how well the Hotel Monteleone, which was just around the corner, was doing with their Vieux Carrés and decided that they needed a house cocktail, too. So they split the difference between the Vieux Carré and the other famous New Orleans drink, the Sazerac, and basically created the Cronut of cocktails. (They took two things that are outstanding on their own and combined them into something that is . . . edible, but does it really need to exist in the world? That said, many people love a Cronut and many love the Vieux Carré, so I encourage you to give the drink a try, even if it isn’t quite on the same level as other New Orleans classics.) Like so many of my well-reasoned cocktail theories, this one is damn hard to prove. The issue is, some people are convinced that the Cocktail à la Louisiane actually predates the Vieux Carré, since the restaurant La Louisiane opened in 1881, and in theory, the cocktail could have hit the menu before Prohibition. One way to triangulate when the drink was created would be to figure out when Bénédictine, one of its key ingredients, first entered the New Orleans market. For this, I turned to my friend the cocktail scholar Wayne Curtis, who found a print ad for Bénédictine in a New Orleans newspaper in 1938. But, Curtis jokes, that only narrows down the time frame “plus or minus fifty years.” I don’t know if we’ll ever be able to state with certainty which came first, the Vieux Carré or the Cocktail à la Louisiane. In the grand spirit of Stanley Clisby Arthur, I’ll share another wild theory that will be impossible for me to prove: What if both cocktails were invented at the same time, specifically for Famous New Orleans Drinks? I could totally see our man Arthur going to both the Monteleone and La Louisiane and telling them that if they whipped up something special for him, he’d include it in his book. Oh, and would they consider throwing in a free dinner in exchange for the coverage? Please and thank you."
+    glassware: 
     ingredients:
     - 4 spritzes Herbsaint
     - ¾ ounce (22.5 ml) Sazerac rye
@@ -324,6 +343,7 @@ recipes:
   - name: Cease and Desist
     author: Maksym Pazuniak
     notes: "Here’s another inverted Manhattan variation that I love because it’s a showcase for so many of the ingredients we were obsessed with when we first opened Cure. First there’s the bitter, orange-scented aperitivo Punt e Mes, which we were intrigued by because of the way it straddles the vermouth and amaro categories. Then there’s the rye, an ingredient that is integral to many classic New Orleans cocktails but had completely fallen out of favor after Prohibition and was only just creeping back into the marketplace seventy-five years later. Last there’s Fernet-Branca, an aggressively bitter liqueur that some people hate but that bartenders love to order to prove their bona fides. (Ordering a shot of Fernet used to be called the “bartender’s handshake.”) As far as the name is concerned: Kirk and Maks wrote and self-published a cocktail book in 2009 called Rogue Cocktails that became a kind of underground hit among cocktail aficionados. Unfortunately, the Oregon-based craft brewery Rogue wasn’t such a fan of the title. At least Maks got a good drink name out of their cease-and-desist letter."
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) Punt e Mes
     - 1 ounce (30 ml) Rittenhouse bottled-in-bond or Pikesville rye
@@ -339,6 +359,7 @@ recipes:
   - name: Esgana Cão
     author: Kirk Estopinal
     notes: "Kirk is such a talented bartender, but maybe not the strongest drink-namer in Cure’s history. The name of this drink translates to “dog strangler” in Portuguese. In Kirk’s defense, Esgana Cão is a nickname for the Sercial grape from which the Madeira used in the recipe is made. Even so, I hope we never have any Portuguese-speaking guests in the bar when this one is on the menu. The drink kind of straddles the line between a martini and a Manhattan: It’s got great depth of flavor, but it’s still very acidic and snappy. At Cure, we love to play around in the gray area between drink categories. Pagès is kind of hard to come by, but it has Chartreuse-like qualities. If you can’t find it, Kirk suggests subbing in a mix of green and Yellow Chartreuse (or just yellow in a pinch). If you’re looking for another use for this Madeira, check out the Sea Dog."
+    glassware: 
     ingredients:
     - 4 spritzes Pagès Verveine Velay Extra liqueur
     - 2 ounces (60 ml) Rare Wine Co. Charleston Sercial Madeira
@@ -355,6 +376,7 @@ recipes:
   - name: Track 61
     author: Colin Bugbee
     notes: In his early days at Cure, Colin loved to take tiki flavors and try to make them fit in non-tiki, classic formats. “Track 61 is a hidden subway track below the Waldorf Astoria Hotel in New York City and is said to have been used to secretly transport presidents and other notable people,” Colin explains. It’s a fitting name for this rye Manhattan that sneaks in peppery green notes and tropical spices.
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Pikesville rye
     - ¾ ounce (22.5 ml) Cardamaro vino amaro
@@ -372,6 +394,7 @@ recipes:
   - name: Whiskey Sinister
     author: Ryan Gannon
     notes: This is essentially an equal-parts Manhattan, since there’s an equal ratio of base spirit (in this case, Scotch) and fortified aromatized wine. For the wine component, Ryan decided to split between a classic cream sherry and a really interesting quina infused with wild cherry (which tastes a bit like cherry marzipan). You get nuttiness from the sherry, bitterness and dark fruit from the quina, and overall, a very pleasing brown, bitter, and stirred drink.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Sheep Dip 8-year pure malt Scotch
     - ¾ ounce (22.5 ml) Maurin Quina Le Puy liqueur
@@ -387,6 +410,7 @@ recipes:
   - name: The Hardest Walk
     author: Turk Dietrich
     notes: Here’s another classic from the early days of Cure that is still so, so good. This recipe presents like an inverted (or vermouth-forward) Manhattan but drinks like an awesome rum Negroni. When I asked Turk how he came to this particular ingredient combination, he admitted that he and bartender Nick Jarrett used to pour equal parts of Punt e Mes and Plantation overproof rum and take it as a shot. A very intense, very high-proof shot. (“Yeah, we were psychopaths,” Turk says.) But in a cocktail, the combo really works, especially with the fruity notes of Gran Classico and orange bitters balancing it all out. This is one of Turk’s best.
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) Punt e Mes
     - 1 ounce (30 ml) Ron Hacienda Santa Ana overproof rum
@@ -402,6 +426,7 @@ recipes:
   - name: Dark in the Corner
     author: Turk Dietrich
     notes: Turk will be the first to admit that he’s a bit of a brooding guy. When he struck up a rapport with a couple of regulars who shared his dark sense of humor (and who liked to hide in the corner of the bar), one of them asked for a dealer’s choice Manhattan riff and he decided to name this drink in their honor. “At this point, I was pretty sick of bourbon,” he says. “Cognac is always a good substitute for a bourbon drinker, so I went with that.” Adding a bit of Fernet was Turk’s nod to another Cure classic, the Cease and Desist . We bartenders are always referencing each other’s drinks in one way or another.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Pierre Ferrand 1840 cognac
     - 1½ ounces (45 ml) Cocchi Storico vermouth di Torino
@@ -419,6 +444,7 @@ recipes:
   - name: The Valley Below
     author: Genevieve Mashburn
     notes: "Genevieve’s goal here was “to create a cocktail with flavors reminiscent of the famed New Orleans flaming coffee drink, the Café Brûlot.” The Café Brûlot was purportedly created in the mid-1800s by Jules Alciatore, the son of the founder of Antoine’s, an iconic French Quarter restaurant that is still up and running. Today, you can order a Brûlot at any number of old-school spots such as Antoine’s, Arnaud’s, Galatoire’s, or Commander’s. The recipe varies slightly from place to place, but the gist of it is the same: Cut an entire orange peel into a horse’s neck-style garnish, stud it with cloves, and wrap it around the tines of a fork. Place brandy (which is often infused with cinnamon and citrus and sometimes augmented with kirsch or orange liqueur) in the bowl of a special apparatus called a brûlot set. Light the brandy on fire, then, using a ladle, spoon the flaming brandy over the studded orange peel. The citrus oils should ignite and provide a nice little fireworks display for your guests. Pour coffee into the bowl with the brandy to extinguish the flame, then sweeten the mixture with sugar before serving. The Valley Below, by contrast, “involves considerably less pomp and pageantry,” Genevieve tells me. She turned to our friends at HiVolt Coffee, a locally owned spot just off of Magazine Street in the Lower Garden District, and decided to use their cold brew concentrate (made with Counter Culture coffee) in a drink. She explains, “On paper, two amari may seem redundant—but the alpine, more herbal Braulio balances the sweeter, caramel flavor of Averna.”"
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) El Dorado 12-year rum
     - ½ ounce (15 ml) Amaro Averna
@@ -436,6 +462,7 @@ recipes:
   - name: Trouble & Desire
     author: Michael Yusko
     notes: “My goal was to do something with the dusty bottle of Licor 43 nobody seemed to want anything to do with,” Michael explains, referring to the citrus-and-vanilla-flecked liqueur that is popular in Spain but less well known here. “I figured it would be safe in this rum Manhattan variation.” For the name, Michael turned to the 1992 Hal Hartley film Simple Men, in which a heartbroken and recently swindled character utters the iconic line, “There is no such thing as adventure. There is no such thing as romance. There’s only trouble and desire.”
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) El Dorado 5-year rum
     - ½ ounce (15 ml) Smith & Cross Jamaican rum
@@ -454,6 +481,7 @@ recipes:
   - name: Dauphine’s Martini
     author: 
     notes: "My go-to martini order is actually an inverted martini. I’m kind of a lightweight (and not trying to win any races to the bottom of the bottle), so a standard martini has the tendency to knock me on my ass. At our Washington, D.C., restaurant, Dauphine’s, we serve what I like to think of as an inverted-plus martini: two parts vermouth, one part gin, but with a navy-strength gin to give it a bit more oomph. We spritz the glass with anise to give it that extra New Orleansy touch. That may seem sacrilegious to martini purists, but in fact, martinis were often “improved” with absinthe in the early 1900s, so it’s not such a historical anomaly."
+    glassware: 
     ingredients:
     - 4 spritzes Herbsaint
     - 1 ounce (30 ml) Plymouth navy-strength gin
@@ -470,6 +498,7 @@ recipes:
   - name: Cure Martini
     author: 
     notes: For years, our house martini was the 50-50. However, we recently switched to a slightly drier 2:1 martini. Using fresh vermouth remains essential.
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) London Dry gin
     - 1 ounce (30 ml) Noilly Prat Original dry vermouth
@@ -484,6 +513,7 @@ recipes:
   - name: Ampelos
     author: Ryan Gannon
     notes: “I decided that I wanted to do a flash-pickle—something super quick, with no brining salts or anything like that—that we could have behind the bar,” Ryan said. “Weirdly enough, for this drink I kind of worked backward from the garnish.” Mirliton is the local Louisiana name for the green, pear-shaped squash known elsewhere as chayote; it’s a classic summer ingredient down here. “In Greek mythology, all wines come from Ampelos’s desiccated body. I thought that was a cool, vivid name for a drink made only with grape products” (pisco, vermouth, sherry, and Sainte Louise brandy are all grape-based spirits).
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) Caravedo puro quebranta pisco
     - ¾ ounce (22.5 ml) La Quintinye royal blanc vermouth
@@ -501,6 +531,7 @@ recipes:
   - name: 50-50 Martini
     author: 
     notes: This is what we call a 50-50 or “fitty-fitty” martini in the biz. That’s because we use equal parts gin and vermouth to create a very wet martini. If you think you don’t like wet martinis, please just give this a try. So long as your vermouth is fresh, I guarantee it will change your mind.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) London Dry gin
     - 1½ ounces (45 ml) Noilly Prat Original dry vermouth
@@ -515,6 +546,7 @@ recipes:
   - name: 5-to-1 Martini
     author: 
     notes: "When people ask for a dry martini, this is what we serve them: just a whisper of vermouth, heavy on the gin, with a lemon peel or high-quality olives, depending on the guest’s preference."
+    glassware: 
     ingredients:
     - 2½ ounces (75 ml) Bombay London Dry gin
     - ½ ounce (15 ml) Noilly Prat Original dry vermouth
@@ -529,6 +561,7 @@ recipes:
   - name: Personality Crisis
     author: Nicholas Jarrett
     notes: This bitter, fruity, and vegetal inverted martini takes advantage of the brilliant pairing of strawberry and Alta Verde amaro. Alta Verde is an assertive bitter liqueur that’s in a category called gentianes (named for the main ingredient, gentian root) made in Alto Adige, in Northern Italy. It is famously hard to work with. The primary tasting note is assenzio, an Alpine wormwood variety that some people describe as tasting like a summer forest. Given how much early New Orleanians loved wormwood-flavored absinthes, I like to imagine this drink might have been a hit, even back in the day. The Alta Verde marries beautifully with strawberry, as does tequila, so Nick had the smart idea of using strawberry as the unifying flavor across the drink.
+    glassware: 
     ingredients:
     - 1 strawberry, hulled
     - ¼ ounce (7.5 ml) Alta Verde amaro
@@ -543,6 +576,7 @@ recipes:
   - name: Eyedazzler
     author: Nicholas Jarrett
     notes: Nick describes this drink as “a through-the-looking-glass take on a reverse martini, combining our go-to French dry vermouths against a subtle blend of fine Pennsylvanian potato vodka, French cognac, and just a whiff of London Dry gin.” What I love about this drink is the way Nick flips the dry martini totally on its head. Plenty of people ask for a super-dry gin martini with no more than a hint of vermouth. Here, Nick starts with a base of vermouth, augments it with vodka, and then just spritzes the surface of the drink with gin so you get those juniper notes on the nose.
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Boyd and Blair potato vodka
     - 1 ounce (30 ml) Dolin dry vermouth
@@ -562,6 +596,7 @@ recipes:
   - name: Holy Ghosted
     author: Colin Bugbee
     notes: There was a bottle of Belle de Brillet pear liqueur that had been sitting on our backbar for far too long. Whenever a bottle like that starts collecting dust, we have to ask ourselves why. Does it suck? In the case of the Belle de Brillet, no! It was and remains a great product. It had simply lost our attention for a while. That happens with products; their popularity ebbs and flows. Colin decided that the best way to bring the Belle de Brillet back was in this delicious martini variation, which has pear, a lovely chamomile note from the Noilly Prat, and a bit of salinity from the pistachio tincture. What can I say? It’s a really pretty little cocktail.
+    glassware: 
     ingredients:
     - 1¼ ounces (37.5 ml) Noilly Prat Original dry vermouth
     - 1 ounce (30 ml) Mattei Cap Corse Blanc quinquina
@@ -576,6 +611,7 @@ recipes:
   - name: Summer Romance
     author: Matt Lofink
     notes: “I like to take old drinks that nerdy bartenders and pretentious people scoff at and make them good,” Matt tells me. For the Summer Romance, Matt started with one of the most scoffed-at drinks around, the appletini. “I didn’t want to be in-your-face about it. I wanted it to be so subtle that people didn’t realize it was an appletini; they’d just say, ‘Oh, this martini has some nice apple notes to it.’” To get there, Matt embraced the fresh, green-apple notes of Montanaro vermouth and paired it with Cloosterbitter, an herbaceous liqueur that is probably closest to green Chartreuse but a bit lighter, sweeter, and lower proof. I didn’t know that I needed an appletini in my life until I sipped this drink.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Plymouth gin
     - ½ ounce (15 ml) Boomsma Cloosterbitter liqueur
@@ -591,6 +627,7 @@ recipes:
   - name: Two-Way Mirror
     author: Turk Dietrich
     notes: Here’s an awesome inverted martini with a homemade sage syrup. It’s so simple and so subtle, but so delicious. “When I made this drink, that was the moment when Kirk said, ‘OK, you’ve basically figured out cocktails now,’” Turk tells me. Given Kirk’s high standards, that should tell you what you need to know.
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) Dolin dry vermouth
     - ½ ounce (15 ml) Sipsmith navy-strength gin
@@ -607,6 +644,7 @@ recipes:
   - name: Cheri Cheri
     author: Kirk Estopinal
     notes: Here’s another of Kirk’s dessert-influenced drinks and one of his personal faves. “En rama” is an unfiltered style of sherry, and here it contributes a rich nuttiness, which is complemented by the almondy orgeat, warm holiday spices from the bitters, and a subtle banana note from the arrack. Kirk is big into music, and this recipe gets its name from one of Bruce Springsteen’s favorite songs, “Cheree,” by the band Suicide.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) La Gitana “en rama” sherry
     - ¾ ounce (22.5 ml) Van Oosten Batavia-Arrack Van Oosten
@@ -624,6 +662,7 @@ recipes:
   - name: Hurricane and Table
     author: Kirk Estopinal
     notes: "The Hurricane is one of those cocktails that gets lumped together with the Hand Grenade and frozen daiquiri as a symbol of Bourbon Street debauchery. Here’s the difference, though: I find the Hand Grenade, a sickly sweet melon concoction, pretty irredeemable. But there’s a time and a place for a frozen daiquiri, and I really like a well-made Hurricane. The Hurricane was invented at Pat O’Brien’s, a French Quarter institution that has officially been around since 1933. (Although ol’ Pat was almost certainly running a speakeasy during Prohibition: Someone once asked me to check out the old speakeasy’s location on Royal Street and St. Peter for a potential new bar.) Today, it’s a bit of a tourist trap, but if you’re in the market for dueling pianos and a flaming, neon-lit fountain, it’s worth a visit. The Hurricane is still Pat O’Brien’s signature drink. Legend has it that it was created in the 1940s when domestic spirits like whiskey were scarce but Caribbean rum was plentiful, so distributors essentially told their accounts that if they wanted the good stuff like bourbon, they had to buy large quantities of rum, too. The Hurricane was created as a way to move the cases of rum that were collecting dust. These days you can buy Pat O’Brien’s premade Hurricane mix in powdered or liquid form. I won’t speculate as to what they use to prepare their drinks at the restaurant, but I do know this: I don’t want to drink a cocktail that comes from a packet, like Kool-Aid. Our resident cocktail genius, Kirk, decided one day to reverse-engineer a Hurricane using premium rum and natural ingredients. It’s incredible and does really well at Cane & Table. You have two options when you make it at home: You can make his tropical Hurricane Syrup from scratch using passion fruit puree and guava jelly, or you can buy a high-quality fassionola, the tropical fruity syrup that is essential in this drink (and some tiki drinks), from a reputable source like Cocktail & Sons. The only dehydrated ingredient I’m allowing here is the garnish, but you can also swap in a fresh orange wheel."
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Don Q “Cristal” blanco rum
     - ½ ounce (15 ml) Appleton Estate 12-year rum
@@ -641,6 +680,7 @@ recipes:
   - name: Union Jack Rose
     author: Kirk Estopinal
     notes: "The Union Jack Rose was our first runaway hit in the early days at Cure. Kirk’s starting point for the drink was the classic apple brandy and grenadine sour the Jack Rose, which has a bit of a reputation as being froufrou (blame the pink color and the fact that nobody really gets apple brandy).To bring the drink into the modern era, Kirk split the base spirit: one part Laird’s apple brandy, which is an iconic American spirit and has been in production since the 1700s, and one part gin. Then he added our house-made grenadine, which is fresh and beautifully tart and completely blows the store-bought stuff out of the water. The result was an instant classic that is, in my opinion, even better than the original Jack Rose."
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Tanqueray London Dry gin
     - 1 ounce (30 ml) Laird’s bonded apple brandy
@@ -658,6 +698,7 @@ recipes:
   - name: St. Charles Punch
     author: 
     notes: There are so many ways to make this drink, and honestly, they’re all good. If you want to make a contemplative drink and really focus on the body of the brandy and port, you can build it right in the serving glass over one big ice cube. If you want something light and refreshing, shake it and pour it over crushed ice (as I suggest in the method below). Hell, it’s a punch, so why not scale it up, add some dilution, and serve it party-style in a punch bowl over a giant block of ice? You’ll be happy any way you do it.
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Infantado ruby port
     - 1 ounce (30 ml) Pierre Ferrand 1840 cognac
@@ -675,6 +716,7 @@ recipes:
   - name: Brandy Crusta
     author: 
     notes: If I’m being honest, I’m not a huge fan of the Brandy Crusta. The juice just isn’t worth the squeeze, in my opinion. But there is no denying that the Brandy Crusta is a historically relevant drink for New Orleans. The purported inventor is Joseph Santini, who worked at the St. Louis Hotel in the 1840s. What is notable about this drink is the introduction of lemon juice—this was not common practice at the time, and it set the stage for other delicious, important drinks like the sidecar and the daisy (an inspiration for the margarita). The Brandy Crusta was a local New Orleans drink until Jerry Thomas put it in his book. It’s a cult drink now, and it was a cult drink then. I wonder if the real reason we keep talking about it is that it gives New Orleans bragging rights over the sidecar and margarita. “You know, both of those drinks can be traced back to the Brandy Crusta, and to New Orleans, the cradle of cocktail civilization. . . .”
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Ricou Spirits Brandy Sainte Louise
     - ¼ ounce (7.5 ml) Cointreau
@@ -695,6 +737,7 @@ recipes:
   - name: Bastion of Castity
     author: Turk Dietrich
     notes: This is arguably one of Turk’s best cocktails and one that never got its due when it was on our menu. “The idea was to make a crowd-pleaser for the fall season that sneaks in some funky notes.” And that’s exactly what you get here. The genever, Montenegro, and Luxardo Bitter are all assertive, intense ingredients on their own. But when you combine them and add some lemon juice, you end up with a lovely, extremely pleasing autumnal sour, for those rare New Orleans days when the temperature drops below 70°F (20°C).
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) Bols genever
     - ¾ ounce (22.5 ml) Amaro Montenegro
@@ -713,6 +756,7 @@ recipes:
   - name: New Kind of Water
     author: Kirk Estopinal
     notes: “At Cure, and at most cocktail bars, you peel a million oranges but don’t really have a lot of use for the juice. That was definitely a driver for me creating this drink—to use up a full ¾ ounce (22.5 ml) of juice.” Readers at home may not have the same consideration (unless they have a particularly productive orange tree), but it’s still a damn tasty drink and worth making. Kirk describes this as a sort of juicy Lillet Old-Fashioned. Steen’s cane vinegar is a classic Louisiana ingredient (their cane syrup has been in production since 1910) that adds an acid backbone to the drink, since orange juice’s acidity fluctuates so much. A sherry vinegar could work as a substitution.
+    glassware: 
     ingredients:
     - Cane vinegar, for the rim
     - 2 ounces (60 ml) Lillet Blanc
@@ -730,6 +774,7 @@ recipes:
   - name: Crutch Cocktail
     author: Ricky Gomez
     notes: Ricky is one of the most technically skilled bartenders I’ve worked with and was such an important early influence on Cure. He has since moved on to open the terrific Cuban-inspired bar Palomar in Portland, Oregon. But we still implement a lot of his best practices, especially when it comes to interacting with guests. This equal-parts cocktail is simple and elegant and close in spirit to the classic gin-Cointreau-Lillet sour, the Corpse Reviver #2, minus the anise rinse.
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) Ricou Spirits Brandy Sainte Louise
     - ¾ ounce (22.5 ml) St-Germain elderflower liqueur
@@ -745,6 +790,7 @@ recipes:
   - name: The Banana Stand
     author: Ryan Gannon
     notes: Ryan’s a great guy, but he does love to mess with people. So when he learned that one of our bartenders hated bananas—to the point where he was physically revolted by them—Ryan decided to put this on the menu. Since we so rarely feature vodka drinks, and since they’re still so popular, Ryan knew that the Banana Stand would get ordered all the time and the poor sap would have to keep making banana syrup. Too bad for him, since this drink is delicious.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Sobieski vodka
     - ¾ ounce (22.5 ml) Banana Syrup
@@ -762,6 +808,7 @@ recipes:
   - name: Nervous Light of Sunday
     author: Michael Yusko
     notes: According to Mike, I came in one day at the beginning of his shift and told him he had until midnight to come up with a new drink. “I’d been working there for a couple months, and although I had been bartending for fifteen years, the idea of creating a cocktail seemed as daunting as having a couple hours to whip up a COVID vaccine,” he says. “So I relied on my talents at math and thievery and took the specs from one of our Cure originals, El Paraiso , and turned it around a bit. My favorite cocktail is a proper Negroni. I figured if I soured it up, subbed the Luxardo Bitter we’d been shooting after shifts for Campari, and dropped in some bitters, it couldn’t turn out all that bad. At midnight, Neal rolled in with Kirk, who took one sip and said it was the most Violet Hour cocktail he’d tasted in post-Katrina New Orleans. I was immediately crowned a genius mixologist, and the rest is history.”
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Tanqueray London Dry gin
     - ¾ ounce (22.5 ml) Luxardo Bitter Rosso
@@ -780,6 +827,7 @@ recipes:
   - name: El Paraiso
     author: Rhiannon Enlil
     notes: This drink was a huge hit in the early days of Cure. Damiana is a Mexican liqueur made from a wild shrub that grows in Mexico and Central America. “It’s herbal and honey-sweet, and there isn’t really a substitute,” Rhiannon explains. “If anything, it reminds me of Yellow Chartreuse, but softer and with an interesting bitter finish.” Rhiannon used the classic cocktail the Champs-Élysées as her template, subbing overproof gin for the brandy and damiana for the green Chartreuse.
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Hayman’s Royal Dock navy-strength gin
     - ½ ounce (15 ml) Guaycura damiana liqueur
@@ -797,6 +845,7 @@ recipes:
   - name: Susudara
     author: Kirk Estopinal
     notes: Before joining the team at Cure, Kirk worked at the groundbreaking Chicago bar the Violet Hour. There, Toby Maloney created an iconic cocktail called the Poor Liza with pear eau-de-vie and green Chartreuse. It tasted uncannily like biting into a fresh pear. Kirk was interested in recreating that intense pear moment, but he wanted to get there in a different way.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Clear Creek pear eau-de-vie
     - ¾ ounce (22.5 ml) fresh lemon juice
@@ -813,6 +862,7 @@ recipes:
   - name: Black Flamingo
     author: Alex Anderson
     notes: Alex used the classic tiki drink the Nui Nui as her jumping-off point but subbed Scandinavian aquavit for the rum and grapefruit for orange juice. The result is what you might call “autumn tropical,” with fall flavors like honey and myrtle berry, which to me is like a juicy and fruity juniper berry with hints of rosemary and eucalyptus. “I think I originally described this cocktail as a ‘refreshing drink not meant for the pool, but rather for curling up next to a fire during winter solstice and allowing the dark spirits to enter your soul.’” Mirto is a Sardinian myrtle liqueur, also featured in the Fall in Sardinia. While nothing is quite like mirto, a sloe or damson gin could work as a substitute.
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) O.P. Anderson aquavit
     - ¼ ounce (7.5 ml) Wild Sardinia mirto liqueur
@@ -832,6 +882,7 @@ recipes:
   - name: Bees For Pélé
     author: Rhiannon Enlil
     notes: This drink is a variation on the classic daisy template. A daisy is basically booze, citrus, sweetener, and cordial. In this case, the cordial is Chartreuse, which nods to Charles Baker’s 1939 Daisy de Santiago recipe. There are many layers to the name of this drink. First, there’s a callback to a Bee’s Knees, the classic cocktail of gin, honey, and lemon. Then there’s the fact that Rhiannon uses a rhum agricole from Martinique, home to a large volcano called Mount Pelée. Last, there’s a musical reference. “The guys controlled the music we played in the bar, and it was always some obscure, ambient, New York-meets-Berlin kind of energy. But I was not a cool kid in school; I spent my youth buried in Tori Amos albums. Boys for Pele is a Tori Amos album, so this drink was my way of sowing a little musical discord with the guys I bartended with.”
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) La Favorite Blanc Martinique rhum
     - ¾ ounce (22.5 ml) Yellow Chartreuse
@@ -848,6 +899,7 @@ recipes:
   - name: Dune Buggy
     author: Colin Bugbee
     notes: "This drink was, in a way, a happy accident. While Colin was experimenting with the combo of funky, fruity Smith and Cross rum and the earthy French bitter aperitif Bonal, he came to a realization: “Combining Smith and Cross and Bonal pulled out these really interesting apple notes that I never really noticed before in either of them. I ran with that and tried to make an apple cider daiquiri—but without any apple ingredients. Cinnamon syrup clung to the earthiness of Bonal, and Bitter Queens’ five-spice bitters brought out the allspice notes in the rum.”"
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) Smith & Cross Jamaican rum
     - ¾ ounce (22.5 ml) Bonal
@@ -864,6 +916,7 @@ recipes:
   - name: Magic Tree
     author: Ryan Gannon
     notes: Ryan went through a bit of a “yellow phase.” With this drink, the color comes from the French gentian-flavored aperitif Suze. But the key flavor here is the Homericon, which is a Greek sap liqueur that tastes like an evergreen tree smells (and also pops up in Ryan’s Day Lady). If you like gin, you’ll probably like Homericon; it doesn’t have juniper, but it does have that brisk, green, pleasantly resiny note—without tasting like Pine-Sol.
+    glassware: 
     ingredients:
     - 2 slices cucumber
     - 1½ ounces (45 ml) Stoupakis Homeric mastiha liqueur
@@ -882,6 +935,7 @@ recipes:
   - name: Planter's Punch
     author: 
     notes: I’ve never been a big tiki guy. But since the two founding fathers of the tiki movement, Donn Beach and Vic Bergeron (aka Trader Vic), have such strong New Orleans connections, and since New Orleans was for centuries considered the northernmost port of the Caribbean, it seemed like a good idea to include this foundational Caribbean punch recipe.
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Brugal Añejo rum
     - 1 ounce (30 ml) Hamilton gold rum
@@ -903,6 +957,7 @@ recipes:
   - name: American Cousin
     author: Ryan Gannon
     notes: Ryan describes this as “a mai tai but weird,” following the traditional Trader Vic mai tai spec of 2 ounces (60 ml) spirit, ¾ ounce (22.5 ml) citrus juice, ½ ounce (15 ml) orange liqueur, and ¼ ounce (7.5 ml) each of orgeat and sweetener. Ryan splits the base between Scotch and almond grappa (which he knew would complement the almondy orgeat), subs orangey Gran Classico for the more traditional curaçao, then uses a bit more orgeat and grapefruit juice to sweeten it. Ryan named the drink after the movie American Cousins, which is about some Mafia guys who are forced to hide out in Scotland.
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Monkey Shoulder Blended Malt Scotch
     - 1 ounce (30 ml) Nardini Mandorla
@@ -921,6 +976,7 @@ recipes:
   - name: Little Boots
     author: Ryan Gannon
     notes: Ryan describes this as a “tiki-style drink that won’t knock you on your ass.” I love this drink and always come back to it. By combining the tiki bitters and orgeat, Ryan creates what he calls an “à la minute Falernum.” Falernum is an essential tiki ingredient but also hard to find and a pain in the ass to make, so his hack is much appreciated. The recipe calls for Diplomatico’s blanco bottling, but their darker, aged reserva works great here, too.
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Diplomatico blanco rum
     - 1 ounce (30 ml) Amaro Montenegro
@@ -940,6 +996,7 @@ recipes:
   - name: Devil's Knee
     author: Morgan Sullivan
     notes: “We often hear the request, ‘Give me a daiquiri, but make it funky,’” Morgan explains. “Typically that translates to Jamaican rums or rhum agricoles and the musty aroma of over-ripened tropical fruit. My goal with the Devil’s Knee was to deliver funk in a style that was dry, clean, and bright.” So instead of looking to the Caribbean, Morgan pulled a bottle of Mexican charanda, a grassy, vegetal sugarcane-based spirit from the state of Michoacán. When paired with the Alpine amaro Braulio and a pear eau-de-vie, “the resulting flavor is green and zesty, quite savory, with notes of papaya, cooling mint, and a crisp pear finish.”
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Uruapan charanda blanco
     - ½ ounce (15 ml) Clear Creek pear brandy
@@ -958,6 +1015,7 @@ recipes:
   - name: Defend Arrack
     author: Maksym Pazuniak
     notes: "Not many Americans are familiar with arrack, the base spirit in this cocktail. Like rum, arrack is distilled from sugarcane—and in the case of Batavia-Arrack Van Oosten, the bottle we use at Cure, a bit of fermented red rice. Arrack is an incredibly old spirit: It originates in South Asia and, according to historians, predates rum production in the Caribbean, making it a sort of proto-rum. When Haus Alpenz started importing Batavia-Arrack Van Oosten to the United States, a lot of bartenders didn’t know what to do with it. But Maks, who was one of our opening bartenders at Cure and now co-owns the bar Jupiter Disco in Brooklyn, is the type of guy who’s always up for a challenge. He created this daiquiri variation with apricot liqueur and allspice dram and won a bunch of arrack converts in the process. For anyone who loves a daiquiri with a funky Jamaican rum like Wray & Nephew, this drink is for you."
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Van Oosten Batavia-Arrack Van Oosten
     - ¾ ounce (22.5 ml) Giffard Abricot du roussillon 
@@ -975,6 +1033,7 @@ recipes:
   - name: Carnival Time
     author: Rhiannon Enlil
     notes: Rhiannon describes this as a “really delicious cachaça sour that when made right, has a sort of layered effect—golden green and then purple from the red wine on top—that matches the colors of Carnival.” Layering a drink may sound complicated, but as Rhiannon points out, “gravity wants to help you, since sugary liqueurs like Chartreuse will sink to the bottom.” If you want to play it extra safe, you can hold a spoon upside down over the surface of the drink and slowly pour the red wine over the back of the spoon. This will help the wine disperse evenly over the surface of the drink.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Avuá Prata cachaça
     - 1 ounce (30 ml) fresh lime juice
@@ -993,6 +1052,7 @@ recipes:
   - name: Shakedown Street
     author: Rhiannon Enlil
     notes: As so often happens, this was one of those moments where Cure bartenders decided to riff on each other’s drinks. Maks had created something called the Deadhead, so-named because Kirk told him the herbaceous drink “tasted like some hippie shit.” Rhiannon remembers being “tickled by the descending order of the spec—2 ounces (60 ml), ¾ ounce (22.5 ml), ½ ounce (15 ml), ¼ ounce (7.5 ml). Now I see it as just any easy formula to memorize, but at the time it struck me as a sort of decrescendo.” So Rhiannon did some plug-and-play, swapping out ingredients until she found a combo that worked. “Cucumber and Aperol want to be together; cucumber and tequila want to go together . . . it came together naturally.”
+    glassware: 
     ingredients:
     - 2 cucumber wheels, including 1 for garnish
     - 2 ounces (60 ml) El Jimador blanco tequila
@@ -1009,6 +1069,7 @@ recipes:
   - name: Summer in St. Tropez
     author: Turk Dietrich
     notes: "This is Turk’s most popular drink, and one that we’ve featured at both Cure and Vals. “My goal going in was to create a bold, herbal tequila sour. And honestly, I think this might be the best one in the world.” Fighting words, but I can’t say I disagree. This is a great drink. If you can’t find the El Tesoro, most quality blanco tequilas will work here. The one thing you can’t skip is the Old Fashion bitters. “Without those, this drink is a five out of ten, almost a disaster. With them it’s a ten. Those seven drops change everything: They bridge the bitter and herbal elements and round everything out.”"
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) El Tesoro platinum tequila
     - 1 ounce (30 ml) Cynar
@@ -1027,6 +1088,7 @@ recipes:
   - name: Berlin in the '70s
     author: Billy Dollard
     notes: When asked about the name, Billy tells me that Maks, who was about to leave Cure to open his own bar in New York, was “excited to name his next drink New York in the ’70s. I decided to steal his good idea on his way out. I chose Berlin over New York because a few weeks prior, a rowdy bunch of Germans came into Cure and ordered shots of tequila and mezcal with cinnamon-dusted orange wedges instead of salt and lime.” This is also a great drink to make after a recipe that calls for an orange peel (e.g., a Manhattan) when you have some peeled oranges lying around, ready to juice.
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Sombra mezcal
     - 1 ounce (30 ml) El Jimador blanco tequila
@@ -1045,6 +1107,7 @@ recipes:
   - name: Day Lady
     author: Ryan Gannon
     notes: Here’s another from Ryan’s “yellow phase,” when he went through a bit of an obsession with yellow liqueurs, including Strega. The saffron-hued Italian liqueur showed up in a lot of his drinks. The Day Lady is a really interesting sour that looks striking in the glass. Homericon is a piney liqueur that also makes an appearance in Ryan’s Magic Tree.
+    glassware: 
     ingredients:
     - 2 spritzes Herbsaint
     - 1½ ounces (45 ml) Cabeza blanco tequila
@@ -1063,6 +1126,7 @@ recipes:
   - name: Culture Vulture
     author: Neal Bodenheimer
     notes: The idea here was to make an agave mai tai with mezcal and tequila. Orgeat is traditionally made with almonds, but here we made a custom version with pepitas (pumpkin seeds), an ingredient used in many regional Mexican cuisines.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) El Buho mezcal
     - ½ ounce (15 ml) Siembra Azul añejo tequila
@@ -1081,6 +1145,7 @@ recipes:
   - name: Chamomile Kilt
     author: Danny Valdéz
     notes: Danny was such an important member of our early team at Cure, and he always makes delicious drinks. His starting point here was a style of cocktail called the smash, which is a whiskey sour with muddled lemon and mint. This is essentially a Scotch smash with chamomile. Danny calls for Speyside single malt here, but any pure-malt blended Scotch will work.
+    glassware: 
     ingredients:
     - ½ lemon
     - 2 ounces (60 ml) Speyside single malt Scotch
@@ -1097,6 +1162,7 @@ recipes:
   - name: Good Cocktail
     author: Turk Dietrich
     notes: “At this point, I was so sick of naming cocktails,” Turk tells me. I also suspect he was sick of guests sliding up to the bar and asking for a “good cocktail,” as if we were in the habit of serving bad ones! So now when anyone asks for a “good cocktail,” this is what they get. Lucky for them, it’s a really tasty drink, especially if you’re a fan of mai tais and the combination of rum and orgeat. Nowadays, lots of people are doing updated or modernized tropical cocktails, but I like to think that this kind of presaged the “bitter tiki” trend.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Banks 7-Island golden rum
     - ½ ounce (15 ml) Tempus Fugit Gran Classico
@@ -1112,6 +1178,7 @@ recipes:
   - name: Frozen Daiquiri
     author: Neil Bodenheimer
     notes: No, I’m not giving you a recipe for a Sex on the Beach—or Jungle Juice—flavored daiquiri. Sorry, I just couldn’t do it. This is inspired instead by the original frozen daiquiri, which was created in Cuba in the 1930s at the legendary bar and restaurant El Floridita. My recipe hews pretty close to the original—granulated sugar is key—but I add a dash of orange bitters. Pretty much every drink is better with bitters.
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) Banks 5-Island rum
     - 1 ounce (30 ml) fresh lime juice
@@ -1131,6 +1198,7 @@ recipes:
   - name: Negroni
     author: 
     notes: "You know what they say: If it ain’t broke, don’t fix it. The 1-1-1 ratio works perfectly for a Negroni, so that’s the spec we use in-house. Don’t mess with success!"
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Bombay London Dry gin
     - 1 ounce (30 ml) Cinzano Rosso vermouth
@@ -1147,6 +1215,7 @@ recipes:
   - name: "4905"
     author: Ryan Gannon
     notes: Ryan calls this his “Negroni ode to Cure” (Cure’s address is 4905 Freret Street). It’s really a cross between a Negroni and a Manhattan, or an inverted Boulevardier with red vermouth taking the lead and cognac playing backup.
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Berto rosso vermouth
     - 1 ounce (30 ml) Tempus Fugit Kina L'Aéro D'Or Aperitif
@@ -1163,6 +1232,7 @@ recipes:
   - name: Fall in Sardinia
     author: Neal Bodenheimer
     notes: This drink was inspired by a drink I had from my friend Chris McMillian at Revel, a variation on the “Sloe Groni”—i.e., a Negroni with rich and sweet sloe gin. When the Sardinian liqueur mirto (which also pops up in the Black Flamingo, this page) hit the market here, I realized it would be perfect in a four-part Sloe Groni format.
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) Wild Sardinia mirto liqueur
     - ¾ ounce (22.5 ml) Botanica barrel-finished gin
@@ -1179,6 +1249,7 @@ recipes:
   - name: Madame Devalier
     author: Genvieve Mashburn
     notes: "This bright and delicate Negroni variation could come from only one person: Genevieve, who has an incredible palate and is therefore able to pull off really nuanced, polished drinks like this. The Madame Devalier is a balancing act: It involves two different forms of the bitter herb gentian (Cocchi Americano, which is a vermouth that uses gentian as a bittering agent, and Salers, which is a gentian liqueur). To account for all that bitterness, she uses Ransom Old Tom gin, which is sweeter than standard gin and brings the whole drink together."
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Cocchi Americano Rosa Aperitivo vermouth
     - 1 ounce (30 ml) Ransom Old Tom gin
@@ -1196,6 +1267,7 @@ recipes:
   - name: Ghosts of My Life
     author: Turk Dietrich
     notes: "This cocktail is really a tribute to a single ingredient: Zucca, a rhubarb-tinged amaro that is smoky, a little fruity, and bitter. It’s a natural fit for the Negroni build. This cocktail became a Cure classic, so much so that it inspired riffs of its own, mostly notably Ghosts of My Life #2."
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Zucca Rabarbaro amaro
     - 1 ounce (30 ml) Plymouth gin
@@ -1212,6 +1284,7 @@ recipes:
   - name: Ghosts of My Life #2
     author: Braden Lagrone
     notes: This drink is Braden’s reaction to a cocktail Turk had created years before, Ghosts of My Life. I love that Turk’s cocktail not only stood the test of time but also inspired imitation. The only change is that Braden subs bacanora, an agave spirit from the Mexican state of Sonora, for the gin.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Zucca Rabarbaro amaro
     - 1 ounce (30 ml) Cielo Rojo bacanora
@@ -1228,6 +1301,7 @@ recipes:
   - name: Cardinale
     author: Ryan Gannon
     notes: At the bar, we actually batch this drink without adding any dilution, bottle it, chill it, and serve it in three-ounce (90 ml) pours. So this is a great one to serve at parties, since you can just pour straight from the bottle instead of making drinks to order all night.
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) Falcon Spirits Amaro Aplomado
     - ¾ ounce (22.5 ml) Mattei Cap Corse Blanc quinquina
@@ -1247,6 +1321,7 @@ recipes:
   - name: Pale Fire
     author: Morgan Sullivan
     notes: "“I wanted to create something bold and almost dessert-like, but also herbal, slightly bitter, and pleasing to a Negroni drinker,” Morgan says of the Pale Fire. “Valdespino moscatel is probably one of my favorite products ever. It’s rich, floral, chocolaty, and herbaceous. It’s truly what makes this Negroni sing. I want this cocktail in the fall, after dinner, on a nighttime walk. The malt, moscatel, and soft bitter remind me: No, there is nothing wrong with yet another Negroni variation.”"
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Bols genever
     - ¾ ounce (22.5 ml) Valdespino moscatel sherry
@@ -1264,6 +1339,7 @@ recipes:
   - name: Mardi Gras Punch
     author: "This punch is a lot like Taaka (a local vodka... if you know, you know): It mixes easy; just add people. Makes about 3 quarts (2.8 liters); serves 24."
     notes: 
+    glassware: 
     ingredients:
     - 1 (750-ml) bottle Marsh House rum
     - 1 (750-ml) bottle medium-bodied red wine
@@ -1286,6 +1362,7 @@ recipes:
   - name: Ramos Gin Fizz
     author: 
     notes: 
+    glassware: 
     ingredients:
     - ½ ounce (15 ml) fresh lime juice
     - ½ ounce (15 ml) fresh lemon juice
@@ -1311,6 +1388,7 @@ recipes:
   - name: Pequot Fizz
     author: Henry Ramos
     notes: This one is a bit of an obscurity that Kirk uncovered and developed when he was doing research for our dearly departed cobbler bar, Bellocq. (The cobbler was one of the most popular cocktail categories of the nineteenth century, essentially a spirit or fortified wine like Madeira or sherry served over a mountain of crushed ice and garnished with fresh seasonal fruit. It’s so simple, with components we take for granted now, but back in the day, it was the height of opulence. Ice! Fresh fruit! Straws! Many cobblers are naturally low-proof, which is one of the reasons we decided to dedicate an entire bar to an exploration of the category.) It’s hard to find too much about the Pequot Fizz, but it is generally attributed to Henry Ramos and first appeared in print in Geo. R. Washburne and Stanley Bronner’s Beverages de Luxe from 1914. It’s a wonderful drink, essentially a gin sour with lime instead of lemon and a bit of mint for garnish. Refreshing, drinkable—Henry Ramos has done it again.
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) fresh lime juice
     - 1 medium egg white
@@ -1328,6 +1406,7 @@ recipes:
   - name: The Peripheral
     author: Turk Dietrich
     notes: This cocktail started as a genever Negroni, but Turk felt the ingredients weren’t jibing—until he put a whole egg into it. What resulted is a really delicious, really pleasing flip, perfect for fall and winter. You might not think it at first, but egg and amaro actually go together really well.
+    glassware: 
     ingredients:
     - 1 medium egg
     - 1 ounce (30 ml) Bols genever
@@ -1343,6 +1422,7 @@ recipes:
   - name: St. Rose Sour
     author: Ryan Gannon
     notes: I love this drink because every ingredient has its place, and many of them do double duty. For example, Ryan decided to pair pisco and sherry since they are both grape distillates. But the sherry also helps to add an acid backbone to the drink, since grapefruit (which pairs amazingly with Galliano) is a lower-acid citrus and needs some help. This is just further proof that Ryan really is a cocktail savant who knows how to put flavors together.
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) fresh grapefruit juice
     - 1 medium egg white
@@ -1360,6 +1440,7 @@ recipes:
   - name: Cruel Summer
     author: Christina Rando
     notes: Banana and black pepper might not seem like a natural pairing, but it really works well. People ordered it and loved it, which is all we can really hope for with any drink!
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) fresh lemon juice
     - 1 medium egg white
@@ -1377,6 +1458,7 @@ recipes:
   - name: Beyond the Infinite
     author: Turk Dietrich
     notes: If you’ve never tried Bonal, a bitter, spicy gentiane, this is a good place to start. The orange notes from the Cointreau pair really nicely with the earthiness of the Bonal, which on its own is quite bitter and intense. (I like to tell people that this drink is as mainstream as Bonal gets.) Beyond the Infinite drinks like an earthy, herbal whiskey sour, with plenty of fizz from the soda water to lighten and brighten it.
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Bonal
     - ½ ounce (15 ml) Buffalo Trace Bourbon
@@ -1396,6 +1478,7 @@ recipes:
   - name: Irish Goodbye
     author: Matt Lofink
     notes: Matt describes this as a dry, not-too-sweet, “very crushable” whiskey sour. Fennel and peach is an unexpected but delicious flavor pairing that works amazingly well with the spice notes of the whiskey.
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) fresh lemon juice
     - 1 medium egg white
@@ -1415,6 +1498,7 @@ recipes:
   - name: Maybe, Baby
     author: Matt Lofink
     notes: "Matt has a talent for taking out-of-fashion, lame cocktails and updating them for the modern palate. On one of our slower nights, a bartender challenged Matt to make “the best lemon drop ever.” This is what he came up with: a flip with a whole egg and Acqua di Cedro, a delicious grappa that practically tastes like lemon curd. If you like limoncello, this drink is for you."
+    glassware: 
     ingredients:
     - 1 medium egg
     - 1 ounce (30 ml) Boyd and Blair potato vodka
@@ -1431,6 +1515,7 @@ recipes:
   - name: Jason's Ascension
     author: Turk Dietrich
     notes: By his own admission, Turk rarely sets out to make crowd-pleasing cocktails, at least not intentionally. Accessibility was just never a high priority. But with this drink, he wanted to challenge himself to create something that everyone would like. It worked. “I knew that the fruity notes of the pisco paired really well with the chamomile of the La Gitana manzanilla sherry. Using grenadine instead of simple syrup is an option worth considering if you’re looking to add another layer of delightful fruitiness.” Crude is a small-batch bitters operation based out of Raleigh, North Carolina; if you can’t find it in stores, you can buy it online.
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) fresh lemon juice
     - 1 medium egg white
@@ -1449,6 +1534,7 @@ recipes:
   - name: Café Italo
     author: Kirk Estopinal
     notes: This drink is my sister Carey’s favorite Cure cocktail. It hasn’t been on the menu for years, but every time she visits town, which happens once or twice a year, she comes in and orders this rich, orangey flip. Cure has never served coffee, but this is kind of our nod to the flavors and experience of an after-dinner coffee. Kirk says he was inspired by the Terry’s brand chocolate oranges—“you know, the kind you used to smash on the ground”—his mom used to get him as a kid. Here, shaking the drink with an orange peel in the tin contributes a juicy orange flavor without actual orange juice.
+    glassware: 
     ingredients:
     - 1 medium egg
     - 2 ounces (60 ml) Nardini amaro
@@ -1463,6 +1549,7 @@ recipes:
   - name: Kodak Moment
     author: Liz Kelley
     notes: This drink is so good and one of our top sellers whenever it’s on the menu. Here, Liz takes a really interesting approach to a whiskey sour—a drink that can be a little bit hardy, but here is refreshing and summery. Because the drink is made with rye, it is spicy, but then Liz brightens it up with aquavit and the amazing summer fruit notes of Amaro Pasubio, a light, wine-based blueberry amaro that also shows up in the Calvino’s Cup.
+    glassware: 
     ingredients:
     - ½ ounce (15 ml) fresh lemon juice
     - ¼ ounce (7.5 ml) egg white
@@ -1481,6 +1568,7 @@ recipes:
   - name: State Street Cocktail
     author: Stanley Clisby Arthur
     notes: This is a Stanley Clisby Arthur drink that he says his wife first encountered in Mexico, where it was made with tequila. So he made his own New Orleans version with gin, and it ended up being a real crowd-pleaser. The original calls for pineapple juice, but as anyone who has ever worked with me knows, I am not a big fan of pineapple. When we developed this drink for Dauphine’s, we decided to sub in a pineapple syrup, which allows us to better control the acid, sweetness, and consistency. The result is a nicely textured gin sour with juniper, lemon, lime, and mint balancing the pineapple.
+    glassware: 
     ingredients:
     - ½ ounce (15 ml) fresh lime juice
     - ½ ounce (15 ml) fresh lemon juice
@@ -1499,6 +1587,7 @@ recipes:
   - name: Absinthe Suissesse
     author: 
     notes: "This is one of my all-time favorite absinthe drinks. The first time I had an Absinthe Suissesse, it was a total revelation: It was rich and creamy and far more pleasing than I’d expect from a drink with an absinthe base. There’s a reason you don’t find many cocktails with a full measure of absinthe in them: Absinthe is intense and very bracing. But this preparation tones down all the more polarizing flavors of the absinthe, resulting in this luscious drink that tastes almost like an anisey eggnog. I always think of this as a breakfast drink, but that might be because we used to make a round of Absinthe Suissesses for the team of my bar Bellocq on Mardi Gras morning. We were right on the parade route, and there was just something about sipping this on a chilly February or March morning, watching all the crowds go by. It’s the ideal way to lay down a foundation for the rest of your Mardi Gras day."
+    glassware: 
     ingredients:
     - 1 medium egg white
     - 1½ ounces (45 ml) Vieux Pontarlier absinthe
@@ -1517,6 +1606,7 @@ recipes:
   - name: French 75
     author: 
     notes: 
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Sainte Louise brandy
     - ½ ounce (15 ml) fresh lemon juice
@@ -1535,6 +1625,7 @@ recipes:
   - name: Howitzer
     author: Neal Bodenheimer
     notes: "This may seem hard to believe today, given the popularity of Southern food. But in the early 2000s, Southern cooks and drink-makers were still trying to convince the rest of the country that the South is culturally relevant. That’s what was in my head when I started working on the Howitzer. It was the first original to be featured on a Cure menu. My idea was to pair two of the most Southern ingredients out there: bourbon and peaches. The French 75 was already a popular template in New Orleans, and there was much debate as to whether it should be made with gin or cognac, so using bourbon as a base seemed to me like a funny way to bypass that conversation entirely. The French 75 was named after a big-ass French gun, so I decided to name my drink after a big-ass American gun."
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Evan Williams single-barrel whiskey
     - ½ ounce (15 ml) Simple Syrup
@@ -1553,6 +1644,7 @@ recipes:
   - name: Miss Camille
     author: Kirk Estopinal
     notes: "This French 75 riff is really just a vehicle for a specific product Kirk was excited about, Marolo Milla’s chamomile liqueur. Sometimes drink creation is as simple as that: You see a bottle you’re excited to try, and then you play around until you find a template that shows it off well. When this first went on the menu, a couple came in and excitedly ordered it because their daughter is named Camille. Years later, that same Camille became my daughter, Hayden’s, first nanny. When her parents come in, I’m always so excited to see them and to serve them a Miss Camille."
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Evan Williams single-barrel whiskey
     - 1 ounce (30 ml) Marolo Milla grappa and chamomile liqueur
@@ -1571,6 +1663,7 @@ recipes:
   - name: Celery Stalker
     author: Danny Valdéz
     notes: "This is a cocktail that I’ve noticed popping up on other bars’ menus around the country, which is how you know it’s really good. Danny has such a talent for making straightforward drinks that are nevertheless total bangers. His Chamomile Kilt is another example of this. The Celery Stalker is a simple concept: a sparkling cucumber gimlet with lime instead of lemon (since cucumber and lime are such a killer pairing) and celery bitters to make it savory and pull it into the vegetal 75 category. It remains incredibly popular and is one of the Cure originals we serve at our location in the New Orleans airport."
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Beefeater London Dry gin
     - ½ ounce (15 ml) fresh lime juice
@@ -1589,6 +1682,7 @@ recipes:
   - name: Jets to Brazil
     author: Christina Rando
     notes: Melons, especially honeydews and cantaloupes, are quite difficult to use in cocktails because of their high water content. When you try to use whole fruit, they tend to thin out and lose their essence. Christina made the smart choice of turning the cantaloupe into a syrup, so you can really concentrate that melon flavor. The cachaça she uses has these great cinnamon and bison grass notes (which I think of as vegetal and cinnamony but less earthy than cinnamon proper), which she pairs with Aperol, since Aperol and cinnamon go so well together. The result is a really lovely 75-style sour that was very popular as soon as it hit the menu.
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Avuá Amburana cachaça
     - ¾ ounce (22.5 ml) Aperol
@@ -1607,6 +1701,7 @@ recipes:
   - name: Roffignac
     author: 
     notes: It’s worth noting that Arthur’s recipe calls for whiskey, but I straight-up do not like a whiskey Roffignac, and the original recipe as popularized at Mannessier’s Confectionery was almost certainly made with brandy. That said, the Roffignac works surprisingly well with any number of unaged spirits. At Peychaud’s, we use Cobra Fire, an unaged Armagnac blanche, and it is so, so good. At Dauphine’s, we take even more creative license and offer a tequila Roffignac. You could try it with gin or even vodka.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Darroze 8 Year “Les Grands Assemblages” Bas-Armagnac
     - 1 ounce (30 ml) Raspberry Shrub (recipe follows)
@@ -1621,6 +1716,7 @@ recipes:
   - name: Mario Puzo
     author: Kirk Estopinal
     notes: “There’s a classic old drink called The Godfather that’s a duo of Scotch and amaretto,” Kirk says. “It’s a cool flavor combination, but those two ingredients alone together in a glass are pretty fucking gross.” So Kirk set out to improve the classic, emphasizing the smoky notes but making it more bright and refreshing with citrus and orange flower water.
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Bonal
     - 2 ounces (60 ml) Springbank 100-proof single malt Scotch
@@ -1639,6 +1735,7 @@ recipes:
   - name: Gunshop Fizz
     author: Kirk Estopinal & Maks Pazuniak
     notes: This is one of the most famous drinks on our menu. “The Gunshop Fizz was kind of the impetus for Rogue Cocktails,” Kirk said. “We were looking around for weird old drinks, and we found an Angostura Fizz in Charles Baker’s book [The Gentleman’s Companion, from 1939]. It had a half ounce of Angostura, dry vermouth, and soda. We made it and didn’t really like it, but the idea of it—to have such a large measure of bitters—was fascinating.” They decided to build the drink somewhat like a Pimm's No. 1 Cup, macerating the Peychaud’s with fresh fruit, then building it into a sour. The Sanbitter, a bright-red, bitter soda made by San Pellegrino, can be hard to come by; in a pinch you can sub Campari mixed with soda (or just omit it). “Something I really like about this drink is the color,” Kirk says. “It’s the reddest thing in the world, insanely red. It flew in the face of the mixology rules of the time, because it practically looks artificial.” But that’s yet another thing that made it rogue.
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) Peychaud’s bitters
     - 3 grapefruit peels
@@ -1658,6 +1755,7 @@ recipes:
   - name: Red Medicine
     author: Kirk Estopinal
     notes: "Kirk describes this as a Bloody Mary he actually wants to drink. “Bloody Marys are notoriously salty, and I just don’t like them very much.” So when he was invited to visit the Marsh House, the facility where Tabasco makes its product, he got to thinking about an “avant-garde brunch drink.” (Which is funny, because Cure doesn’t serve brunch.) “I started thinking about shrubs: A shrub is fruit and vinegar, so a vinegar-and-chile hot sauce like Tabasco is, in a way, like a shrub.” That inspired him to add some sugar and mix it with Pimm's No. 1, resulting in a low-proof, refreshing, not salty Bloody Mary for people who don’t like Bloody Marys."
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) Pimm's No. 1 liqueur
     - ¾ ounce (22.5 ml) fresh lemon juice
@@ -1677,6 +1775,7 @@ recipes:
   - name: Cognac Cobbler
     author: 
     notes: 
+    glassware: 
     ingredients:
     - 2 lemon quarter-wheels
     - 1½ ounces (45 ml) Pierre Ferrand 1840 cognac
@@ -1697,6 +1796,7 @@ recipes:
   - name: Madeira Cobbler
     author: 
     notes: 
+    glassware: 
     ingredients:
     - 2 lemon quarter-wheels
     - 3 ounces (90 ml) Rare Wine Co. Charleston Sercial Madeira
@@ -1715,6 +1815,7 @@ recipes:
   - name: Sherry Cobbler
     author: 
     notes: 
+    glassware: 
     ingredients:
     - 2 lemon quarter-wheels
     - 2 orange quarter-wheels
@@ -1734,6 +1835,7 @@ recipes:
   - name: King's Cobbler
     author: Neal Bodenheimer
     notes: There is something magical about the combination of Zucca and strawberry. Rhubarb and strawberry is one of the all-time great dessert pairings, and it turns out the rhubarb in the amaro works really well with strawberry, too. So I kept it simple for this sour-style cobbler, to really let the flavor combo shine.
+    glassware: 
     ingredients:
     - ½ strawberry, hulled
     - 2 ounces (60 ml) Zucca Rabarbaro amaro
@@ -1751,6 +1853,7 @@ recipes:
   - name: Old Hickory
     author: 
     notes: "To me, the Old Hickory is an underrated classic: It’s balanced, complex, and feels modern despite its nineteenth-century origins. The Old Hickory appears in Arthur’s Famous New Orleans Drinks, where he writes, “According to hoary but unsubstantiated tradition, this was the favorite tipple of Andrew Jackson when he was in New Orleans the winter of 1814–15 helping pirate Jean Laffite with the Battle of New Orleans.” Sadly, that story sounds like bullshit to me—Americans weren’t really drinking vermouth until the 1850s, and the first vermouth ad I found in any Louisiana newspaper was from 1852. At Dauphine’s, we batch the vermouths together ahead of time and refrigerate them, which allows us to mix the ingredients without ice so as not to overdilute the drink. This helps preserve the character of the vermouth."
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) La Quintinye Royal blanc vermouth
     - 1½ ounces (45 ml) Cinzano Rosso vermouth
@@ -1768,6 +1871,7 @@ recipes:
   - name: Global City #2
     author: Matt Young
     notes: This is a refreshing sour built on a foundation of port, inspired by the Manila Hoop Punch, an obscure classic cocktail from Charles H. Baker’s 1939 book The Gentleman’s Companion. The original calls for port, cognac, curaçao, and lemon, but Matt decided to take it in a different direction with a Czech herbal liqueur called Becherovka, which has a warm, almost baking-spice profile that also shows up in Jamaican rum and Brazilian cachaça. The result is a layered cinnamon flavor and plenty of ripe fruit from the port.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Feist tawny port
     - ¾ ounce (22.5 ml) fresh lime juice
@@ -1787,6 +1891,7 @@ recipes:
   - name: As Wine Stands Time
     author: Kiek Estopinal
     notes: "This is basically an inverted 2:1 Manhattan, with the Italian bitters Cynar and French Bonal subbing in for the vermouth. Kirk’s rogue move here is to stir instead of shake the drink, which would be expected for a drink with fresh citrus, and to serve it in a no-frills Delmonico glass. “It’s brown, it’s not very pretty. And that’s what I like about this drink: It goes against the idea that specific styles of drinks need to be served in specific vessels, garnished a certain way, etc. But it’s a great drink! It’s still got it.”"
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) Cynar
     - ¾ ounce (22.5 ml) Bonal
@@ -1804,6 +1909,7 @@ recipes:
   - name: Damned If You Do
     author: Nicholas Jarrett
     notes: This is Nick’s take on the classic Pimm's No. 1 Royale (a cocktail made with Pimm's No. 1, sparkling wine, and muddled cucumber and/or fruit), where he substitutes bright Italian amaro, complex Spanish vermouth, and a touch of French floral liqueur for the standard Pimm's No. 1. “The combination of Bittermens Burlesque bitters and Boston Bittahs with an equal part of saline solution plays particularly nicely here, and was subsequently used in a few different seasonal cocktails over the years.”
+    glassware: 
     ingredients:
     - 1 ounce (30 ml) Amaro Montenegro
     - 1 ounce (30 ml) Priorat Natur Vermut
@@ -1825,6 +1931,7 @@ recipes:
   - name: Cadiz Bramble
     author: Ryan Gannon
     notes: "Cadiz Street is a couple of blocks up from Cure, but it’s also a town in the Spanish Sherry Triangle, near the bodega where Fernando de Castilla is produced. If you don’t know if you’re a sherry fan, definitely try this drink. It’s salty and briny, but also fruity and refreshing thanks to the currant notes of the cassis. It’s a Mediterranean vacation in a glass. Bonus: If you want to scale this up and batch it, it works really well as a pitcher drink."
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) Fernando de Castilla fino sherry
     - ¾ ounce (22.5 ml) fresh lemon juice
@@ -1841,6 +1948,7 @@ recipes:
   - name: Dark Passenger
     author: Genevieve Mashburn
     notes: “My favorite cocktail is a sidecar,” a foundational classic with cognac, orange liqueur, and lemon, Genevieve tells me. “At Cure, I was introduced to the Nardini line of grappas and was particularly smitten with the Mandorla, which is akin to an amaretto without the cloying sweetness. This drink just came together really nicely and remains probably my favorite cocktail I’ve made behind the bar at Cure or anywhere else, for that matter. Also, I was watching a lot of Dexter at the time, and for a sidecar variation, the name fit.” This is a rich, complex sour and a total winner.
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Rare Wine Savannah Verdelho Madeira
     - ¾ ounce (22.5 ml) Pierre Ferrand 1840 cognac
@@ -1860,6 +1968,7 @@ recipes:
   - name: Calvino's Cup
     author: Matt Lofink
     notes: “This is my version of a darker, grungier Pimm's No. 1 Cup,” Matt tells me, referring to the classic English refresher that became a New Orleans favorite. Pasubio is a wine-based amaro with juicy blueberry notes balanced with a pine-sap earthiness. It’s the star of the show here and turns the drink a beautiful color. Matt suggests dry-shaking the drink. “If you’ve ever tasted a good red wine with an ice cube or water in it, you know that the wine completely loses its body. The same happens with a wine-based amaro.”
+    glassware: 
     ingredients:
     - 2 ounces (60 ml) Cappelletti Pasubio vino amaro
     - ½ ounce (15 ml) fresh lemon juice
@@ -1878,6 +1987,7 @@ recipes:
   - name: Dew Point Break
     author: Neal Bodenheimer
     notes: "I created this drink at the height of two major cocktail trends of the last decade or so: spritzes and Toki highballs (highballs made with Japanese whiskey). I asked myself, What would happen if I combined the two? How could I get there? Kina d’Or is bitter and viscous and seemed well-suited to the spritz format. I realized I needed another element to bridge the Kina and Toki together and landed on apricot, since it’s an ingredient that works with each individually. Here in New Orleans, it’s not necessarily the heat that gets you, it’s the humidity. On muggy summer days, you’re just waiting for the dew point to break. To me, this cocktail is the liquid equivalent of that refreshing moment."
+    glassware: 
     ingredients:
     - ¾ ounce (22.5 ml) Tempus Fugit Kina L'Aéro D'Or Aperitif
     - ¾ ounce (22.5 ml) Suntory Toki whisky
@@ -1897,6 +2007,7 @@ recipes:
   - name: Drink of Laughter and Forgetting
     author: Michael Yusko
     notes: Michael says, “I never worked on a cocktail until there was a gun to my head,” which I can confirm as accurate. “With a couple hours to lay something down—or risk being fired—I grabbed the bottle of Cynar I’d been shooting all night and went to work. I poured an ounce and a half in a tin as the base, flipped a coin that landed on lime, and added a half ounce of Demerara. I paused, knowing something was missing. At that moment, Turk handed me a shot of green Chartreuse. Without thinking too much about it, I measured out a half ounce, tossed it in the tin, and shot the rest. As soon as I strained it into a coupe, I knew in my heart it was an instant classic.”
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Cynar
     - ½ ounce (15 ml) green Chartreuse
@@ -1914,6 +2025,7 @@ recipes:
   - name: Fiore Amaro
     author: Billy Dollard
     notes: The Fiore Amaro was inspired by a Campari, strawberry, and black pepper sorbet. This is a great option if you’re the type of person who likes to drink their dessert.
+    glassware: 
     ingredients:
     - 1 strawberry, hulled
     - 1½ ounces (45 ml) Campari
@@ -1931,6 +2043,7 @@ recipes:
   - name: Sea Dog
     author: Kirk Estopinal
     notes: "If you’ve made Kirk’s excellent but questionably named Esgana Cão and are looking for more ways to use the bottle of Madeira you bought, here’s your drink. It’s a simple, refreshing cobbler with an electric acidity that reminds me of lemon curd and does what a cobbler should do: elevate the base spirit. “When I worked at the Violet Hour, Toby Maloney really instilled in me that cobblers and Old-Fashioneds should uplift certain aspects of the bottle. So I don’t go crazy; I keep it linear and clean,” Kirk explains."
+    glassware: 
     ingredients:
     - 1½ ounces (45 ml) Rare Wine Co. Charleston Sercial Madeira
     - ½ ounce (15 ml) Simple Syrup 

@@ -3,6 +3,7 @@ recipes:
 
   - name: Bitter Coffee
     author: Maksym Pazuniak
+    glassware: 
     ingredients:
     - 1½ ounces Cynar
     - ½ ounce dark rum

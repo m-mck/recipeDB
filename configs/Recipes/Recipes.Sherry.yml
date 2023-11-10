@@ -1,0 +1,823 @@
+source: "Sherry: A Modern Guide to the Wine World’s Best-Kept Secret"
+recipes:
+
+  - name: Sherry Cobbler
+    author: 
+    notes: "The Sherry Cobbler is an American-born cocktail by most accounts. Simply sherry, sugar, and citrus shaken, poured over crushed ice, and slurped through a straw, the cobbler is thought to have originated sometime in the 1820s or early 1830s. And, like most nineteenth-century drinks, its exact origins have been endlessly debated. One thing is for sure: the Sherry Cobbler was the first drink to introduce the drinking straw to popular consciousness. Like the straw, ice was not a common element of cocktail anatomy prior to the cobbler. (Neither, by the way, was shaking a drink.) The commercial ice trade did not begin in earnest until the 1830s, and even in the mid-1800s, as Mark Twain recalls in his memoir Life on the Mississippi, “Ice was jewelry; none but the rich could wear it.” So, even if the protocobbler did originate in eighteenth-century England, as an 1883 article in the London Telegraph seemed to suggest, it likely bore little resemblance to the ice-packed cobbler of mid-nineteenth-century America—the version that became the most popular drink of its time. Cocktail historian David Wondrich is credited with digging up the first known mention of the Sherry Cobbler in the 1838 diary of Katherine Jane Ellice, a Canadian who took note of the drink while traveling in the United States. But its great launching pad to international renown came courtesy of Charles Dickens and his Life and Adventures of Martin Chuzzlewit (1843–1844). In a scene now famous among cocktail dorks, Chuzzlewit, reacting to his first Sherry Cobbler, sums up the nineteenth-century sentiment around  the drink: “Martin took the glass with an astonished look; applied his lips to the reed; and cast up his eyes once in ecstasy. He paused no more until the goblet was drained to the last drop. 'This wonderful invention, sir, said Mark, tenderly patting the empty glass, 'is called a cobbler. Sherry Cobbler when you name it long; cobbler, when you name it short.'” Some 150 years after the Sherry Cobbler’s decades-long heyday, it’s being rediscovered, both as a classic and as a drink prime for riffing. Get weird with your garnishes or omit them altogether, but whatever you do, just don’t forget the straw."
+    glassware: 
+    ingredients:
+    - 1 lemon wheel
+    - 1 orange wheel
+    - ¾ ounce simple syrup (1:1 sugar:water)
+    - 3 ounces amontillado
+    - "Garnish: berries in season, citrus, mint, a Lego minifig—anything, really"
+    steps:
+    - In a mixing glass, add the lemon, orange, and simple syrup, and muddle. 
+    - Add the sherry, fill with ice, and shake. 
+    - Finely strain into a Collins glass over crushed ice. 
+    - Top up with additional crushed ice and garnish like there’s no tomorrow.
+    tags:
+    - shaken
+    - citrus
+  - name: Adonis
+    author: 
+    notes: "Of the stirred aperitif drinks of the nineteenth century that involve sherry, there are really two archetypes that are riffed on ad nauseam: the Bamboo and the Adonis. Both offer clues to their body type. The Bamboo is lean and tough; the Adonis, a sort of classical beefcake—the brawnier of the two. The drinks, even when variations are applied, still split in these different directions. What we know about the Adonis is that the drink was named after the Broadway burlesque show by William Gill called Adonis, which is often credited as the first-ever Broadway musical. It opened at the Bijou Theater in 1884 and became the Cats of the late nineteenth century. While the eponymous drink’s exact origin is not confirmed, we do know that by the 1890s it was a regular drink at the Waldorf-Astoria Bar—right around the same time that Louis Eppinger was whipping up Bamboos at Yokohama’s Grand Hotel, half a world away. The Adonis didn’t quite reach the level of fame that the Bamboo did, but it remained both a regular drink at the Waldorf and a fixture in most nineteenth- and early twentieth-century cocktail books. While quantities tend to vary depending on which vintage cocktail book you’re looking at, the original calls for two parts dry sherry to one part sweet vermouth, a ratio that is the most consistent when swapping different vermouth brands in and out. My go-to here is Carpano Antica and a bold fino like Lustau’s La Ina; switching in Dolin Rouge or even Martini & Rossi for Carpano makes for a fruitier drink but a fine one nonetheless."
+    glassware: 
+    ingredients:
+    - 1 ounce sweet vermouth, preferably Carpano Antica
+    - 2 ounces fino, preferably Lustau La Ina
+    - 2 dashes orange bitters
+    - "Garnish: orange peel"
+    steps:
+    - Add the vermouth, sherry, and bitters to a mixing glass. 
+    - Fill with ice and stir quickly. 
+    - Strain into a coupe glass and garnish with the orange peel.
+    tags:
+    - stirred
+    - manhattan
+  - name: Artist's Special
+    author: 
+    notes: "This drink first appears in Harry McElhone’s 1927 Barflies and Cocktails, and again three years later in The Savoy Cocktail Book (1930) with the caption: “This is the genuine ‘Ink of Inspiration,’ imbibed at the Bal Bullier, Paris. The recipe is from the Artists’ Club, Rue Pigalle, Paris.” In the 1920s the Rue Pigalle—or Quartier Pigalle—was a sordid slice of neighborhood between the 18th and 9th arrondissements, not far from the Moulin Rouge. Between the two world wars this became ground zero for the jazz movement—a kind of Harlem of Paris—and the home base for the likes of Utrillo and Picasso. The Artists’ Bar, also called Fred Payne’s Bar—or “Freddie’s,” as Henry Miller called it in the opening of his short story “Burlesque”—played host to everyone from jazz musicians to poets. This remained true of the bar through the Beat era. The Artist’s Special, which is essentially a riff on the Whiskey Sour, had apparently become popular enough that it made its way across the Seine to become a staple at the Bal Bullier, after that room was reimagined in the 1920s, in both décor and activities, in the spirit of Dada. The redcurrant syrup is adapted from Jerry Thomas’s 1862 Bartender’s Guide. If redcurrants are unavailable, raspberries or sour cherries will make a fine substitute, as will grenadine."
+    glassware: 
+    ingredients:
+    - 1 ounce oloroso
+    - 1 ounce blended scotch, preferably Black Grouse
+    - ½ ounce lemon juice
+    - ½ ounce redcurrant syrup
+    - "Garnish: lemon peel"
+    steps:
+    - Add all the ingredients but the garnish to a mixing glass. Fill with ice and shake. Strain into a coupe glass and garnish with the lemon peel.
+    tags:
+    - shaken
+    - citrus
+  - name: Dunhill
+    author: 
+    notes: While the Dunhill makes its most famous appearances in Boothby’s World Drinks and How to Mix Them (1908) and the Savoy Cocktail Book (1930) as the Dunhill’s Special, according to Dave Wondrich, the drink was invented at Hatchett’s Bar in London’s Piccadilly at some point before 1925, when it’s first mentioned in Nina Toye and A. H. Adair’s Drinks—Long and Short. The drink echoes several classics—the 1:1:1 ratio skews Negroni, while splitting dry vermouth with an oxidized sherry and an olive garnish (or in this case, a blended sherry) seems to wink at the perfect Martini. What it ends up drinking like is something akin to a mellower take on the former, and while early recipes suggest the drink be served up, when using a sherry like Lustau’s East India, which is almost oily in texture, it’s best to serve it over a big cube, replacing the original olive garnish with a twist of lemon for a little extra cut.
+    glassware: 
+    ingredients:
+    - 1 barspoon absinthe
+    - 1 ounce Beefeater gin
+    - 1 ounce Lustau East India Solera
+    - 1 ounce dry vermouth
+    - ¼ ounce Pierre Ferrand orange curaçao
+    - "Garnish: lemon peel"
+    steps:
+    - Fill a rocks glass with ice, add the absinthe, and set aside. 
+    - In a mixing glass add the gin, sherry, vermouth, and curaçao, fill with ice, and stir. 
+    - Empty the rocks glass, coating the sides with the absinthe. 
+    - Add a large ice cube to the rocks glass and strain the stirred ingredients into the glass. 
+    - Garnish with the lemon peel.
+    tags:
+    - stirred
+    - sazerac
+  - name: Sherry Flip
+    author: 
+    notes: "According to the Oxford English Dictionary, the term “flip” is said to have been used as far back as 1695 to describe a mixture of beer, rum, and sugar cooked at high heat—resulting in what is essentially the seventeenth-century version of the worst hangover instigator imaginable. By the nineteenth century, the flip had evolved into a fully upright drink, defined as a combination of a spirit or fortified wine, sugar, and egg, shaken with ice, and served up with nutmeg grated over the top. Like the Sherry Cobbler, the flip graces many of Dickens’s novels. In chapter 21 of Little Dorrit (1857), a bishop, sidestepping a physician’s recommendation, suggests that Mr. Merdle, who is suffering from depression and “an overtaxed intellect,” try his personal cure: “ … the yolk of a new-laid egg, beaten up by the good woman in whose house he at that time lodged, with a glass of sound sherry, nutmeg, and powdered sugar.” Dickens himself seemed to have believed the flip could cure his own ailments. On his second and last trip to the United States he kept a grueling schedule, resulting in what he called the “true American catarrh.” According to Dickens biographer Fred Kaplan, by the end of the tour, Dickens, who was homesick and depressed, survived almost entirely on Champagne and sherry, often by way of flips and cobblers. While there are a number of spirits that make for a fine flip, the full-bodied, walnutty character of dry oloroso—and its higher level of glycerol—combined with the creaminess of the egg will get you  what Jerry Thomas, in his 1887 version of How to Mix Drinks, aptly describes as a “very delicious drink” that “gives strength to delicate people.” Sure does. It’s a great cold-weather drink and, during the holidays, a less polarizing—and less boozy—stand-in for eggnog."
+    glassware: 
+    ingredients:
+    - 2 ounces oloroso
+    - ½ ounce simple syrup (1:1 sugar:water)
+    - 1 whole egg
+    - "Garnish: nutmeg"
+    steps:
+    - Add the oloroso, simple syrup, and egg to a mixing glass. 
+    - Dry-shake, then add ice and shake vigorously. 
+    - Strain into a copita or small wineglass. 
+    - Top with grated nutmeg.
+    tags:
+    - shaken
+  - name: Up-to-Date Cocktail
+    author: 
+    notes: German-born Hugo Ensslin was the head bartender at the Hotel Wallick in Times Square, a neighborhood that was, at the dawn of the twentieth century, the cultural heartbeat of New York City. His book Recipes for Mixed Drinks, published in 1916, is the last snapshot of New York bartending before Prohibition, documenting well—via a wealth of new ingredients like Dubonnet, crème de menthe, and Bacardi—just how fancy the cocktail had become. While the book is perhaps best known for containing the first-known printed recipe for the Aviation (in all of its crème de violette glory), it’s also home to a number of interesting drinks—many of them originals—like this fairly simple concoction. Manhattanesque in both composition and deliciousness, it welcomes swapping in bourbon if you prefer your whiskey a little sweeter, or swapping in oloroso for amontillado if you fancy a bit more viscosity. I prefer sticking with the original stipulation of rye whiskey and using a fuller-bodied amontillado like Lustau’s Los Arcos or the slightly leaner Hidalgo–La Gitana Amontillado Napoleon.
+    glassware: 
+    ingredients:
+    - 1¼ ounces amontillado
+    - 1¼ ounces rye
+    - ½ ounce Grand Marnier
+    - 2 dashes Angostura bitters
+    - "Garnish: lemon peel"
+    steps:
+    - Add all the ingredients but the garnish to a mixing glass. 
+    - Add ice and stir. 
+    - Strain into a coupe glass and garnish with the lemon peel.
+    tags:
+    - stirred
+    - manhattan
+  - name: Badminton Cup
+    author: 
+    notes: If there were ever a drink name that conjured images of British gents in white lawn-tennis attire, it’s the Badminton Cup. “It’s really the name that drew me to this drink originally,” says Kenny Freeman of Houston’s Anvil, who created this riff on George Kappeler’s version of the Badminton Cup, featured in his 1895 Modern American Drinks. “It reminded me of my grandmother and all of those weird games I’d go and play at her house when I was a kid.” The drink’s origins can be traced back to Badminton House in Badminton, Gloucestershire, England, the site of the first badminton game ever played. It started off, in the mid-1800s, as a punch containing sugar, cucumber, claret, soda water, and grated nutmeg. The drink eventually evolved to included everything from Grand Marnier to Cognac. Kappeler’s version, which calls for sherry, maraschino, sugar, soda water, claret, cucumber, and a little borage, has been adjusted for the modern palate by Freeman. It is undoubtedly still best consumed in linen attire, as its upper crust birth implies.
+    glassware: 
+    ingredients:
+    - 4 cucumber slices
+    - 1½ ounces dry red wine
+    - 1 ounce amontillado
+    - ¾ ounce demerara syrup (1:1 sugar:water)
+    - ½ ounce maraschino liqueur
+    - Soda water
+    steps:
+    - In a mixing glass, add the cucumber and muddle. 
+    - Add the wine, sherry, demerara syrup, and maraschino, shake, and finely strain into a Collins glass with cubed ice. 
+    - Top with soda.
+    tags:
+    - shaken
+  - name: Bamboo
+    author: Joaquín Simó
+    notes: The Bamboo is the first original cocktail ever created in Japan. The simple mixture of sherry, dry vermouth, and bitters was the handiwork of a German bartender named Louis Eppinger, the manager at Yokohama’s Grand Hotel in the late 1800s and one of the godfathers of bartending in Japan. Having worked in San Francisco around the same time that Jerry Thomas became the world’s first “startender,” Eppinger became a star in his own right and remained a fixture at the hotel for a decade and a half until his death, in 1907. There are several theories about the inspiration for the drink. Some say that it’s a riff on the martini, with fino sherry replacing gin. Others believe it’s a spin on the Adonis, a popular drink of the time that called for sweet vermouth instead of dry French vermouth. The San Francisco–based writer and bartender William Boothby’s 1908 book World Drinks and How to Mix Them gives weight to the former theory. His recipe, which has become the American standard (sans olive), calls for equal parts sherry and dry vermouth, with two dashes of orange bitters, two dashes of Angostura bitters, a twist of lemon, and an olive. His dry martini recipe is exactly the same, but subs gin for sherry and drops the Angostura. Whatever the inspiration, according to David Wondrich, by the beginning of the twentieth century the drink had become a staple on American bar menus and found enough fame that it was eventually sold in premixed bottles across the country. The combination of modern fino and dry vermouth creates a drink that will be appreciated by lovers of the dry martini, but it’s a bit one-dimensional in this form. Given what we know about the dry sherries of the late nineteenth century (finos were much older and fuller-bodied, for one), this drink certainly employed something more akin to a young amontillado than a fino as we know it today. Further, it could’ve even called for a blended sherry. For the modern palate, Joaquín Simó of Pouring Ribbons nails it by sticking with fino and adding a teaspoon of cane syrup to give the drink a bit more texture and balance.
+    glassware: 
+    ingredients:
+    - 1½ ounces fino
+    - 1½ ounces dry vermouth
+    - 1 teaspoon cane syrup (2:1 sugar:water)
+    - 2 dashes Angostura bitters
+    - 2 dashes orange bitters
+    - "Garnish: lemon peel"
+    steps:
+    - Add all the ingredients but the garnish to a mixing glass. 
+    - Fill with ice and stir quickly. 
+    - Strain into a coupe glass and garnish with the lemon peel.
+    tags:
+    - stirred
+    - martini
+    - freezer bar
+  - name: Tuxedo
+    author: 
+    notes: "There are a dozen or so sherry-and-gin drinks that start to pop up during the twilight years of the nineteenth century and repeat themselves with very slight variations throughout the first quarter of the twentieth. Of them all, the Tuxedo is the best known. The drink’s name refers to Tuxedo Park, a sort of early experiment in country club living established in 1886 about thirty-five miles from Jersey City. There were cottages, lawn tennis courts, a golf course, a clubhouse, and plenty of well-heeled New Yorkers willing to call this sporting paradise home. Tuxedo Park was the birthplace of not only the first complete sewage system in America but also the tailless suit, called—yes, you got it—the tuxedo. The members of this bourgie utopia were called Tuxedoites, and before shuffling home after work they no doubt stopped off at the city’s top bars, most notable among them the Waldorf-Astoria Bar, where this drink was said to have been born. (Note: For all the dorks out there who know their Tuxedos and are wondering where the maraschino and absinthe are: there are several drinks that bear the Tuxedo name, but this version, according to David Wondrich, appears to be the original.)"
+    glassware: 
+    ingredients:
+    - 2 ounces gin, preferably Plymouth or Beefeater 24
+    - 1 ounce fino, preferably Lustau La Ina
+    - 2 dashes orange bitters
+    - "Garnish: orange peel"
+    steps:
+    - ADD all the ingredients but the garnish to a mixing glass. 
+    - Add ice and stir. 
+    - Strain into a chilled coupe glass and garnish with the orange peel.
+    tags:
+    - stirred
+    - martini
+    - freezer bar
+  - name: Coronation Cocktail
+    author: 
+    notes: "Like the Tuxedo, the Coronation Cocktail became a category unto itself, with a wealth of variations that seemed to be added to the pot with the crowning of each new English king or queen. While the sherry- and dry vermouth–based version appears most famously in the Savoy Cocktail Book (1930) as Coronation No. 1, the recipe dates back to almost thirty years earlier. Though the actual recipe is not printed, it is first mentioned as the creation of one Joseph Rose, a bartender at Murray’s Buffett Café in the heart of Newark, New Jersey, in Mixer and Server, Volume 12, 1903: “He has numerous friends who keep him busy serving them with popular drinks, several of which he has introduced himself, such as the ‘Coronation Cocktail,’ the ‘Flashlight,’ and others.” Three years later the recipe specs popped up in the Hoffman House Bartender’s Guide (1906), with a caption that also credits the drink to Rose: “This drink, arranged by Joseph Rose, of Murray Bros.’ Café, 184 Market Street, Newark, N.J., won second prize in the Police Gazette Bartenders’ Contest for 1903.” The drink, a simple mixture of sherry, French vermouth, orange bitters, and maraschino is one of the more enduring and delicate sherry aperitif drinks. This version is a variation on the drink’s original construction, which called for a roughly 5:1 ratio in favor of sherry."
+    glassware: 
+    ingredients:
+    - 2½ ounces fino
+    - ½ ounce dry vermouth
+    - ¼ ounce maraschino liqueur
+    - 3 dashes orange bitters
+    - "Garnish: lemon peel"
+    steps:
+    - Add all the ingredients but the garnish to a mixing glass. 
+    - Add ice and stir. 
+    - Strain into a coupe glass and garnish with the lemon peel.
+    tags:
+    - stirred
+    - martini
+    - freezer bar
+  - name: Lincoln Club Cup
+    author: 
+    notes: "Founded in 1890, the Lincoln Club was housed in a brownstone on Putnam Avenue between Irving Place and Classon Avenue in the Clinton Hill neighborhood of Brooklyn. The building was, as the New York Times describes it, “one of the great club buildings of New York, a wild, chunky Queen Anne fantasy of turrets, buttresses, monograms and custom-shaped brick,” with a monogrammed “LC” at the top, the “size of a Mini Cooper.” It also had, according to the Eagle and Brooklyn: Volume 2 (1893), “four bowling alleys in the basement” and was “upon a plane with any of the great social institutions of Brooklyn. The club was, like most of its day, known for its social receptions. And while it’s unknown whether this drink, which first appears in George Kappeler’s Modern American Drinks (1895), was actually served at the Lincoln Club, its combination of sherry, brandy, and Rhine wine (or Sauternes) was certainly of noble birth. My variation on the original subs in Lillet for Sauternes and adjusts the quantities for both a single serving and, in keeping with the drink’s original cup form, a batched drink for small groups."
+    glassware: 
+    ingredients:
+    - 1 lemon wheel
+    - 1 orange wheel
+    - 2 cucumber wheels
+    - ½ ounce simple syrup (1:1 sugar:water)
+    - 1½ ounces amontillado
+    - ¾ ounce Lillet Blanc
+    - ¾ ounce brandy
+    - Dry sparkling wine
+    - "Garnish: lemon, orange, and cucumber wheels"
+    steps:
+    - Add the lemon wheel, the orange wheel, the cucumber wheels, and the simple syrup to a mixing glass, and muddle. 
+    - Add the sherry, Lillet, and brandy to the glass. 
+    - Add ice and shake. 
+    - Finely strain over ice into a Collins glass and top with dry sparkling wine. 
+    - Garnish with lemon, orange, and cucumber wheels.
+    tags:
+    - shaken
+    - sparkling
+    - citrus
+  - name: Daniel Webster's Punch
+    author: 
+    notes: Yes, that Daniel Webster. Though a quick Google search for Daniel Webster’s Punch will bring up several variant recipes, they all refer to the same man—the famed Massachusetts senator of yore. In his book Punch, David Wondrich attributes the wealth of different recipes floating around to the fact that, at least in part, asking for a glass of Webster’s Punch seemed to be akin to a nineteenth-century version of “stump the bartender.” No one really knew which version Daniel Webster actually preferred and, thus, riffs abound. The original version of this recipe, adapted by Wondrich, comes from the Steward & Barkeeper’s Manual (1869) with the assertion that this was the very punch recipe that Webster gave to his friend, “Major Brooks, of Boston”, before his death. True or not, it’s a tasty punch and one whose quantities and ice mold can easily be adjusted for season and party size. Serves 8.
+    glassware: 
+    ingredients:
+    - 3 lemons
+    - ½ cup sugar
+    - 1 black tea bag
+    - ½ cup lemon juice
+    - ¾ cup cognac
+    - ¾ cup dry oloroso
+    - ¾ cup Jamaican rum
+    - 1½ cups Bordeaux (or any full-bodied red wine)
+    - Ice ring
+    - Champagne to top
+    steps:
+    - Peel the lemons, taking care to avoid as much of the bitter white pith as possible. 
+    - In a large bowl, combine the sugar with the lemon peels, then lightly muddle and let sit for 20 minutes to allow the citrus oils to infuse with the sugar. 
+    - Boil 2 cups of water and steep the tea bag in it for 5 min-utes. 
+    - Set aside to cool slightly. 
+    - To the bowl, add the tea, lemon juice, cognac, sherry, rum, and red wine. 
+    - Stir to combine. 
+    - Strain out the lemon peels and refrigerate for at least 30 minutes. 
+    - Fifteen minutes before serving, add the ice ring. 
+    - Ladle into cups and lightly top each glass with Champagne.
+    tags:
+    - stirred
+    - citrus
+    - punch
+  - name: Repossession
+    author: 
+    notes: Leo Robitschek, the bar manager at both Eleven Madison Park and The NoMad, took the former from a solid cocktail program that leaned heavily on the classics to one of the most innovative cocktail bars in New York. The Repossession quickly became a staple at the restaurant’s bar, but it feels most at home at its newer digs at The NoMad. The room is a mahogany-and-leather ode to a time when its stretch of high-twenties Broadway was studded with brothels and gambling halls and the hotel bar was the capital of the cocktail world. There’s a bit of grit to this drink thanks to the interplay between the smokiness of the mezcal, the vegetal notes of the tequila, and the deep, briny nuttiness of the amontillado. The apricot liqueur, which adds the drink’s only fruit note, is a classic companion with bass-note bases like sherry or bourbon.
+    glassware: 
+    ingredients:
+    - 1 ounce reposado tequila
+    - ¾ ounce amontillado
+    - ½ ounce lemon juice
+    - ½ ounce apricot liqueur, preferably Rothman & Winter Apricot Liqueur
+    - ¼ ounce cane syrup (2:1 sugar:water)
+    - ¼ ounce mezcal
+    steps:
+    - Add all the ingredients except the mezcal to a mixing glass. Add ice and shake, then strain into a coupe glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Pale Rider
+    author: Phil Ward
+    notes: The Pale Rider was born out of Phil Ward’s deep hatred of sangria. “This drink is almost a sangria, but sangrias are garbage,” says Ward, of Mayahuel in New York City. As most of us know, via early forays into college drink-making, sangria is hard to batch with any consistency and it doesn’t keep all that long. It also invariably leads to extreme intoxication. In order to tighten things up, Ward infuses fruit into booze so he can recreate his riffs on sangria with greater consistency. The Pale Rider swaps out fruit for jalapeño and simply adds manzanilla, a small dose of cane syrup, and lime. This is not only a Ward drink to its core—spicy and adamantly savory—but also one that showcases how well sherry performs in even the simplest of drinks.
+    glassware: 
+    ingredients:
+    - 2½ ounces manzanilla
+    - 1 ounce Jalapeño Tequila
+    - ¼ ounce fresh lime juice
+    - ½ ounce cane syrup (2:1 sugar:water)
+    - 1 ounce soda water
+    - "Garnish: 2 slices cucumber"
+    steps:
+    - Add the sherry, tequila, lime juice, and cane syrup to a mixing glass. 
+    - Add ice, shake, and strain into a wine tumbler over ice. 
+    - Top with the soda, garnish with the cucumber slices, and serve with a straw.
+    tags:
+    - shaken
+    - citrus
+  - name: Betty Carter
+    author: Natasha David & Jeremy Oertel
+    notes: When Natasha David and Jeremy Oertel of You and Me Cocktails signed on to create the list for Berlyn—a wacky, bric-a-bracked Fort Greene, Brooklyn, restaurant that bills itself as “new Brooklyn / regional Germanic”—the owner asked that they use the town’s historic residents as inspiration. This drink is the husband-and-wife team’s ode to Betty Carter, the American jazz singer who rose to fame in the late 1950s for her improvisational style and talent for scat singing. They began by searching for “flavors that made us think of Carter’s kind of music,” says Oertel, and ended up with this riff on the Whiskey Sour. Here pedro ximénez sherry takes the place of sugar, and the unlikely addition of floral, bittersweet Amaro Nonino acts as the ad-libbed bridge between the bass tones of the sherry and bourbon and the high-toned delicacy of the lemon.
+    glassware: 
+    ingredients:
+    - 1½ ounces bourbon, preferably Buffalo Trace
+    - ¾ ounce pedro ximénez, preferably Hidalgo-La Gitana Triana
+    - ½ ounce Amaro Nonino
+    - ¾ ounce lemon juice
+    steps:
+    - Add all the ingredients to a mixing glass or shaker. 
+    - And ice and shake until chilled. 
+    - Strain into a coupe glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Flor de Jerez
+    author: Joaquín Simó
+    notes: Joaquín Simó’s Flor de Jerez is a distant relative of the Daisy—a broad category of cocktails generally typified by a base spirit, lemon, a liqueur or sugar sweetener (or both), and, often, seltzer water. Simó, of Pouring Ribbons, wanted to “turn the usual spirit-heavy drink on its head to let the perceived acidity of the sherry shine.” So instead of using funky Appleton Reserve Jamaican rum as the base spirit, he used it as a modifier for a base of amontillado. To that he added lemon for brightness, cane syrup for richness and mouthfeel, apricot liqueur for that sherry-friendly fruit note, and Angostura as a “flavor hub,” because, as Simó describes it, “every ingredient can relate to something in the Angostura and it pulls them all together.” The drink first appeared on the New York City bar Death & Co’s 2010 spring/summer menu and has since found its way around the country.
+    glassware: 
+    ingredients:
+    - 1½ ounces amontillado
+    - ½ ounce Jamaican rum
+    - ¼ ounce apricot liqueur, preferably Rothman & Winter Apricot Liqueur
+    - ¾ ounce fresh lemon juice
+    - ½ ounce cane syrup (2:1 sugar:water)
+    - Dash of Angostura bitters
+    steps:
+    - Fill a cocktail shaker with ice. 
+    - Add all of the ingredients and shake well. 
+    - Strain into a chilled coupe glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Sherry Cocktail
+    author: Jack McGarry
+    notes: Irish bartender Jack McGarry made a name for himself at Belfast’s Merchant Hotel and later at London’s Milk & Honey before crossing the Atlantic in 2011 to open the Dead Rabbit, a three-story bar with a sixty-page menu of over seventy drinks, located in Lower Manhattan. With the bar’s focus on seventeenth-, eighteenth-, and nineteenth-century drinks, sherry became a “natural focal point,” and McGarry knew that “these nerdy cocktail guys were going to come in after reading fucking Jerry Thomas’s 18-whatever book, and would try and test us.” In preparation, he and his staff essentially memorized all of the recipes in all three versions of Thomas’s book, among other classic cocktail manuals. In the process, this drink—an amalgamation of the Bamboo (dry sherry, dry vermouth, bitters;), the Vermouth Cocktail (essentially vermouth and bitters), and the Turf Club (gin, dry vermouth, maraschino, absinthe, orange bitters)—was born. It’s an ode to the “old-fashioned” drinks of Thomas’s first version, via the prominent use of bitters, and the new and improved drinks of the second via the use of absinthe and maraschino as seasoners. There are many drinks that appear to be ghosts of this drink’s past life—like the Schnozzle and the New Yorker—many of which are lost, but none is as successful as the Dead Rabbit’s house sherry cocktail.
+    glassware: 
+    ingredients:
+    - 3 ounces oloroso
+    - ¾ ounce Pierre Ferrand Dry orange curaçao
+    - ¼ ounce maraschino liqueur
+    - 2 dashes Angostura bitters
+    - 2 dashes Regan’s Orange Bitters No. 6
+    - 1 dash absinthe
+    - Lemon peel, to express over the drink
+    steps:
+    - Add all the ingredients except the lemon peel to a mixing glass. 
+    - Stir and strain into a Nick & Nora glass. 
+    - Twist the lemon peel over the glass and discard.
+    tags:
+    - the dead rabbit
+    - stirred
+    - manhattan
+  - name: Old Alhambra
+    author: 
+    notes: The Old Alhambra was a nineteenth-century New York City saloon, which, in those days, almost always doubled as a whorehouse. It was tucked into what is now called the Flatiron District, a definably uneventful stretch of commercial and high-end residential housing that separates Union Square from Midtown. In its heyday it was the heart of the city—the area that played host to the cocktail movement, grand hotels, and Broadway shows. But it was also considered the tenderloin of New York, referred to by reformers as Satan’s Circus, a place where all manner of grit and vice lurked under the guise of entertainment. It was a place where the luxe and the degenerate were entwined. When coming up with the drinks for New York’s The NoMad Hotel, Leo Robitschek first drew inspiration from the history of the area and then created drinks with a nod to the names and places that once defined it. Given the demographic that likely frequented the Old Alhambra, he knew this drink had to be closely based on a “manly, burly” classic. The original Alhambra is an old Moorish fortress in Granada, Spain, and Robitschek says, “I started picturing this old Spanish man drinking something whiskey-related.” He ended up with a scotch-and-sherry drink, made burly by the addition of crème de cacao and brightened with the unlikely addition of an expressed grapefruit peel.
+    glassware: 
+    ingredients:
+    - 1½ ounces Laphroaig 10 Year scotch, or substitute any smoky Islay scotch
+    - ¾ ounce Dolin Blanc vermouth
+    - ½ ounce Lustau East India sherry
+    - ¼ ounce crème de cacao, preferably Marie Brizard
+    - "Garnish: grapefruit peel"
+    steps:
+    - Add all the ingredients but the garnish to a mixing glass. 
+    - Stir with ice and strain into a coupe glass, then garnish with the grapefruit peel.
+    tags:
+    - stirred
+    - manhattan
+    - peaty
+  - name: Bread & Wine
+    author: 
+    notes: Even with the rise of the craft cocktail and its integration into restaurant beverage programs, it’s still assumed that spirit-forward drinks don’t pair well with food. More often than not, this is true. But the Vinos de Jerez Cocktail Competition requires that bartenders not only submit their drinks, but also articulate what they would pair them with. Charles Joly, now the head bartender at Chicago’s The Aviary, submitted his Bread & Wine as a companion to pork belly in 2007 and won the whole thing. While the drink sticks close to the traditional Whiskey Sour blueprint, the interplay among sherry, scotch, maple, and lemon give the impression in both flavor and texture of consuming a liquid version of a waffle house breakfast. In a good way. But really, how could such a thing be bad?
+    glassware: 
+    ingredients:
+    - 5 dashes of absinthe
+    - 1 ounce Lustau Don Nuño oloroso
+    - 1½ ounces Balvenie Doublewood 12 Year scotch
+    - ½ ounce lemon juice
+    - ¼ to ⅓ ounce maple syrup (depending on tartness of lemon)
+    - "Garnish: orange peel"
+    steps:
+    - Fill an old-fashioned glass with ice, add the absinthe, and set aside to season. 
+    - Combine the sherry, scotch, lemon juice, and maple syrup in a mixing glass. 
+    - Add ice and shake well. 
+    - Empty the old-fashioned glass, coating the sides with absinthe. 
+    - Add ice (preferably a large cube) and strain the drink into the glass. 
+    - Garnish with the orange peel. No straws, please.
+    tags:
+    - shaken
+    - citrus
+  - name: Palo Negro
+    author: Ivy Mix
+    notes: "Ivy Mix was born in the wrong country. “I was supposed to be born in either Mexico or Spain—not sure what happened,” she says. When Mix, whose name is indeed almost too good to be true, was behind the bar at Brooklyn’s Clover Club, she sought to create a drink that combined her two favorite places in the world. “It could have been as easy as mixing tequila and sherry, since they go so well together, but when I think about making cocktails I think of them as a story—you should taste a beginning, a middle, an end.” Mix found her climax of sorts in the almost menacing mugginess of Cruzan Black Strap rum, and her falling action in Grand Marnier, which is remarkable in its ability to elevate some of the bergamot flavors that I personally have always associated with palo cortado, Mix’s sherry of choice here. Demerara syrup adds a bit more body and Mix’s insistence on using lowlands tequila—which typically has more pepper and bite than that of the highlands—cuts right through the center. To me this drink embodies fall: it’s strong, it’s stirred, and it just happens to be a staple of the autumn menu at Clover Club—which is just about the best place in Brooklyn to be when the gloves and scarves come out."
+    glassware: 
+    ingredients:
+    - 2 ounces reposado tequila, preferably Partida
+    - 1 ounce palo cortado, preferably Lustau Península
+    - ½ ounce Cruzan Black Strap rum
+    - 1 teaspoon Grand Marnier
+    - 1 teaspoon demerara syrup (1:1 sugar:water)
+    - "Garnish: orange peel, cut in the shape of a coin"
+    steps:
+    - Add all the ingredients but the garnish to a mixing glass. 
+    - Add ice and stir. 
+    - Strain into a coupe glass and garnish with the orange peel.
+    tags:
+    - clover club
+    - stirred
+    - autumn
+  - name: Stone Raft
+    author: Phil Ward
+    notes: “The Stone Raft is a weird one,” says Phil Ward of the New York agave den Mayahuel. “I figured that people weren’t going to like it or order it, but I thought it was so goddamn good I put it on the menu anyway.” A combination of amontillado, mezcal, jalapeño tequila, celery bitters, and a barspoon of agave nectar, the Stone Raft is a distant cousin of the Oaxaca Old-Fashioned, one of the first drinks Ward ever made with mezcal—his “spirit” spirit. The Stone Raft was born out of a long line of riffs on the drink. The adamantly savory combination of herbal-smoky-nutty is unusual, but despite Ward’s prediction that the drink would be met with sneers, it went on to become the obsession of many fans of Mayahuel—myself included—and has been a mainstay on the menu since the bar opened.
+    glassware: 
+    ingredients:
+    - 1½ ounces amontillado
+    - ½ ounce jalapeño tequila
+    - ½ ounce Del Maguey Vida mezcal
+    - 1 barspoon agave nectar
+    - 2 dashes Bitter Truth celery bitters
+    steps:
+    - Add all the ingredients to a mixing glass. 
+    - Stir and strain into a coupe glass.
+    tags:
+    - stirred
+  - name: La Perla
+    author: 
+    notes: Jacques Bezuidenhout cut his teeth behind the bar at a number of San Francisco restaurants before opening Tres Agaves in 2005. Since then, he’s become the jolly South African mascot of the SF bar scene. This drink, which was on the opening menu at Tres, became one of the early anthems to tequila and sherry, catching the attention of a growing community of cocktail weenies online and eventually crisscrossing the country before earning a permanent place in the annals of modern sherry drinks. Bezuidenhout explains this drink as essentially a deconstruction of the flavor profile of reposado—the pear liqueur representing the obvious and the manzanilla lending not only a freshness and bite, but also the flavors of bright green apples he associates with great reposado tequila. The result is an elegant and surprisingly food-friendly aperitif drink.
+    glassware: 
+    ingredients:
+    - 1½ ounces reposado tequila
+    - 1½ ounces manzanilla
+    - ¾ ounce pear liqueur
+    - "Garnish: lemon peel"
+    steps:
+    - Add all the ingredients but the garnish to a mixing glass. 
+    - Stir and strain into a coupe glass and garnish with the lemon peel.
+    tags:
+    - stirred
+  - name: Velo de Flor
+    author: Talia Baiocchi
+    notes: Flor doesn’t really photograph well. It’s one of the great lessons that this book’s photographer learned while we traveled from bodega to bodega, trying to see if we could get this veil of yeast to work it for the camera. We did not succeed. So, in lieu of an actual photo of flor, I came up with this cocktail after realizing that the gloriousness of shaken egg white is just about as close as you can get to recreating spring or autumn flor. If you’re looking for a stiffer drink, you could certainly split the fino with gin, but a forward fino like Lustau’s La Ina has a flavor profile strong enough to stand tall when tossed in with simple syrup, citrus, and egg. What you end up with is a drink that is really about the flavor of the fino, beefed up.
+    glassware: 
+    ingredients:
+    - 2 ounces La Ina fino
+    - 1 ounce simple syrup (1:1 sugar:water)
+    - 1 ounce lemon juice
+    - 1 small egg white
+    - Pinch of salt
+    steps:
+    - Add all the ingredients to a mixing glass and dry-shake. 
+    - Add ice and shake vigorously; strain into a wine or large coupe glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Trident
+    author: Robert Hess
+    year: 2000
+    notes: Seattle bartender Robert Hess created the Trident in what was still the prehistoric period of the modern craft cocktail revival. It was 2000 and barely anyone had heard of amaro, let alone an amaro made from artichokes. And sherry? Even some of the savviest sommeliers and bartenders wouldn’t have batted an eyelash if a fino were left, half-opened marinating on the back bar. Hess came up with this drink while working for Fee Brothers, and what began as a Negroni variation became what he considers to be one of the most successful drinks in his long career. The drink remains on the list of Seattle’s Zig Zag Café and is firmly established as one of the few sherry drinks that have achieved modern classic status.
+    glassware: 
+    ingredients:
+    - 1 ounce fino
+    - 1 ounce Cynar
+    - 1 ounce aquavit, preferably Linie
+    - 2 dashes peach bitters
+    - "Garnish: lemon peel"
+    steps:
+    - Add all the ingredients but the garnish to a mixing glass. 
+    - Add ice and stir, then strain into a coupe glass. 
+    - Garnish with the lemon peel.
+    tags:
+    - stirred
+  - name: Remember the Alimony
+    author: Dan Greenbaum
+    notes: "Bartender Dan Greenbaum suspects that he was going through a breakup when he created this drink for his now-defunct New York City bar, the Beagle: “Inadvertently, we had a whole breakup-themed menu.” The Second Marriage was part of the same sad playlist. Greenbaum created this drink as a brighter, lower-alcohol riff on the most famous of bitter drinks, the Negroni. A simple three-ingredient structure is built on a base of fino, to which the bitter Italian artichoke amaro Cynar is added for bite and gin supplies the backbone. The name? A mash-up of the battle cry “Remember the Alamo” and the sort of bitter fallout that only divorce can bring. Season with a tear."
+    glassware: 
+    ingredients:
+    - 1¼ ounces La Ina fino
+    - ¾ ounce Beefeater gin
+    - 1¼ ounces Cynar
+    - "Garnish: orange peel"
+    steps:
+    - In a rocks glass with one large ice cube, combine the sherry, gin, and Cynar and stir. 
+    - Garnish with the orange peel.
+    tags:
+    - stirred
+    - old-fashioned
+  - name: Parish Hall Punch
+    author: Damon Boelte
+    notes: For New York City bartender Damon Boelte, punch will always be associated with church, where on holidays like Easter there was always a bright bowl of punch in the Parish Hall after service. Punch at his Oklahoma church meant a combo of sherbet and ginger ale—the sort of mixture that undoubtedly turned small children into demons. But Boelte remembers savoring it as a kid and admits that the memory of it is so strong that, as a grown man, if he saw a bowl of ginger ale and sherbet he’d “fucking attack it.” This is his more sensible, adult version of that parish hall classic—a summery mix of grapefruit-infused sugar, Basque cider, ginger beer, amontillado, seltzer, and Old Tom gin. Serves 8.
+    glassware: 
+    ingredients:
+    - Peels of 2 ruby red grapefruits
+    - ¼ cup sugar
+    - ½ cup Greenhook Ginsmiths’ Old Tom Gin (or Hayman’s Old Tom if unavailable)
+    - ½ cup amontillado
+    - ½ cup Basque cider (preferably Isastegi or Sarasola)
+    - ½ cup ginger beer (preferably Fever Tree)
+    - ¼ cup seltzer water
+    - "Garnish: 1 (3-inch) knob fresh ginger, peeled and cut into coins; grapefruit peels"
+    steps:
+    - Peel the grapefruits, taking care to avoid as much of the bitter white pith as possible. 
+    - In a large bowl, combine the sugar with the grapefruit peels, then lightly muddle and let sit for 20 minutes to allow the citrus oils to infuse with the sugar. 
+    - After 20 minutes, add the gin, sherry, cider, ginger beer, and seltzer. 
+    - Stir to combine. Add the ginger and the grapefruit peels to the bowl to garnish. 
+    - To serve, ladle into punch cups over ice.
+    tags:
+    - stirred
+    - punch
+    - autumn
+  - name: Pimm's Copa
+    author: Talia Baiocchi
+    notes: The first Pimm’s Cup I ever had was at Employees Only in New York City back in the summer of 2006. It’s one of those drinks, with its gang of garnishes, that sparks daydreams of late afternoon sun, porches, and Indian summer. But in true New York fashion I met this drink for the first time on an excruciating date; all unfortunate circumstances aside, though, I still managed to fall in love with it that day and it’s become one of the drinks I return to most often. It’s primed for riffing and over-the-top garnishing (go ahead). In this iteration, the addition of amontillado gives the drink the sort of depth that makes it feel most at home when the temperature dips.
+    glassware: 
+    ingredients:
+    - ½ ounce demerara syrup (1:1 demerara sugar:water)
+    - 3 (½-inch-thick) slices fresh ginger, peeled
+    - 1 slice cucumber
+    - 4 mint leaves
+    - 2 ounces Pimm’s No. 1 Cup
+    - 1 ounce amontillado
+    - ¾ ounce fresh lemon juice
+    - Soda water
+    - "Garnish: mint, cucumber slice, berries in season"
+    steps:
+    - Add the demerara syrup, fresh ginger, and slice of cucumber to a mixing glass. 
+    - Muddle well. 
+    - Add the mint leaves and lightly muddle to release the oils. 
+    - Add the Pimm’s, sherry, and lemon juice, shake, and finely strain over ice in a highball glass. 
+    - Top with soda and garnish with a small bunch of mint, a cucumber slice, and the berries.
+    tags:
+    - shaken
+    - citrus
+  - name: Coffey Park Swizzle
+    author: Alex Day
+    notes: "Alex Day was in his early twenties when he got a job behind the bar at New York City’s Death & Co, of which he is now a partner. He came up with this drink just a few months after joining the staff: “I started with the idea of the Queens Park Swizzle, which is basically a fancy mojito with bitters on top.” He remembers going downstairs to the walk-in to grab mint and seeing a bottle of Lustau’s Los Arcos amontillado. He’d never really used it as the base of a drink before, and “seeing how it worked in this drink was an a-ha moment for [him].” The drink, which is named for Red Hook’s Coffey Park, is a simple Caribbean blend of Velvet Falernum, rum, sherry, lime, and a generous float of Angostura—which, depending on your fancy, you can either stir in at once or allow to integrate slowly with each sip."
+    glassware: 
+    ingredients:
+    - 1 ounce Barbancourt 4-year rum
+    - 1 ounce Lustau Los Arcos amontillado
+    - ¼ ounce Velvet Falernum
+    - ¾ ounce ginger syrup, or substitute 2 nickle-size pieces fresh ginger and ½ ounce simple syrup
+    - ¾ ounce lime juice
+    - Angostura bitters
+    - "Garnish: mint"
+    steps:
+    - Add the rum, sherry, falernum, ginger syrup, and lime juice to a pilsner glass. 
+    - Add crushed or pebbled ice and swizzle. (If using fresh ginger and simple syrup, lightly muddle, shake, and finely strain over crushed or pebbled ice.) 
+    - Add 3 to 5 dashes of Angostura bitters on top of the crushed ice. 
+    - Garnish with a mint sprig and serve with a straw.
+    tags:
+    - stirred
+    - citrus
+    - swizzle
+  - name: Rye Witch
+    author: Jim Meehan
+    notes: The Rye Witch was one of the first sherry cocktails New York City bartender and owner of PDT Jim Meehan came up with while bartending at Gramercy Tavern back in 2006 and 2007. Meehan was constantly trying to find ways to incorporate the wine program into the bar program and, he says, “sherry came to me.” The Rye Witch is a riff on an Improved Old-Fashioned, using the Italian liqueur Strega as an aromatic component and a sweetener (along with a cube of demerara sugar) and palo cortado as the balancing component. To Meehan, styles like palo cortado and amontillado allow you to add richness and complexity, but are also dry enough to serve a “corrective function” to sweet liqueurs like Chartreuse and Strega (“witch” in Italian, hence the name), which can be difficult to work with.
+    glassware: 
+    ingredients:
+    - Dash of Fee Brothers orange bitters
+    - Dash of Regan’s Orange Bitters No. 6
+    - 1 cube (or 1 teaspoon) demerara sugar
+    - 2 ounces Rittenhouse rye whiskey
+    - ¼ ounce Strega
+    - ¼ ounce palo cortado, preferably Lustau Península
+    - "Garnish: orange peel"
+    steps:
+    - Add both bitters and the sugar cube to a mixing glass and muddle to a paste. 
+    - Add the whiskey, Strega, sherry, and ice and strain into a chilled rocks glass. 
+    - Garnish with the orange peel.
+    tags:
+    - stirred
+    - old-fashioned
+  - name: Fortify Yourself
+    author: Katie Stipe
+    notes: Katie Stipe’s introduction to sherry cocktails came courtesy of Jacques Bezuidenhout’s La Perla almost ten years ago, when she was tending bar at New York City’s Flatiron Lounge—part of a crew of bartenders who would go on to become some of the biggest names in cocktails. Stipe describes this pioneering generation of bartenders as largely eager to build a diverse base of knowledge on what was, at the time, a blank slate. But now that bartenders have a base to work from, she says, they are “looking for a field of study—so you have well-rounded bartenders, but they’ll be rum-centric or agave-centric.” While she didn’t actively choose sherry to become her concentration, it has become exactly that. This drink, which Stipe calls a happy accident, was conceived on the heels of a week spent working sherry into tiki drinks. Stirred, boozy, and aromatic, this is one of those drinks that manages to be as complex as it is crowd-pleasing, delicately balancing the herbaceousness of Chartreuse with the florality of moscatel against a bold and spicy base of rye whiskey and palo cortado.
+    glassware: 
+    ingredients:
+    - ¾ ounce palo cortado
+    - ¾ ounce moscatel
+    - 1 ounce rye whiskey
+    - ½ ounce yellow Chartreuse
+    - 2 dashes orange bitters
+    - "Garnish: lemon peel"
+    steps:
+    - Add all the ingredients but the garnish to a mixing glass. 
+    - Add ice and stir. 
+    - Strain into a coupe glass. 
+    - Garnish with the lemon peel.
+    tags:
+    - stirred
+  - name: Mariah Sherry
+    author: Talia Baiocchi
+    notes: When coming up with a name for this drink, which is as pink and refreshing as it is bitter and sour, I couldn’t help but think of Mariah Carey—all butterflies, cut-off shorts, teary ballads, and temper tantrums. Shrubs are, after all, the angry divas of the cocktail world, vinegar-laced sweet-and-sour concoctions that must be handled with caution. As a lover of all things pickled, fermented, and dressed in vinegar, I went through a heavy shrub phase—this warm-weather, low-alcohol cooler being one of the high points of a very sour summer. This drink combines grapefruit shrub with a bold fino, Aperol (grapefruit’s soul mate), a little lime, muddled mint, and soda water—my own angsty rendition of “Dreamlover.”
+    glassware: 
+    ingredients:
+    - 5 to 7 mint leaves
+    - 2 ounces fino, preferably Lustau La Ina
+    - ¾ ounce Aperol
+    - ½ ounce grapefruit shrub (see below)
+    - ¾ ounce fresh lime juice
+    - ¼ ounce simple syrup (1:1 sugar:water)
+    - Soda water
+    - "Garnish: grapefruit peel, lime wedge, mint sprig"
+    steps:
+    - In a mixing glass, gently muddle the mint leaves. 
+    - Add the sherry, Aperol, shrub, lime juice, and simple syrup. 
+    - Add ice and shake, then strain over ice in a Collins glass. 
+    - Top with soda. 
+    - Garnish with the grapefruit peel, a skewered lime wedge, and a sprig of the mint.
+    tags:
+    - shaken
+    - citrus
+  - name: The Second Marriage
+    author: Dan Greenbaum
+    notes: In the world of brown spirits, bourbon and rye make the perfect pair. One is sweet and round, the other spicy and lean—one the yin to the other’s yang. When New York bartender Dan Greenbaum set out to create an Old-Fashioned–inspired drink using pedro ximénez as the sweet component, he tried to imagine which spirit might take the place of rye if the perfect pair were to divorce. The apple-based spirit calvados won bourbon’s affection as the perfect autumnal substitute for rye.
+    glassware: 
+    ingredients:
+    - ½ ounce pedro ximénez, preferably Valdespino El Candado
+    - 1 ounce calvados or Laird’s Old Apple Brandy 7½ Year
+    - 1 ounce bourbon, preferably Elijah Craig 12 Year
+    - "Garnish: orange peel"
+    steps:
+    - Add the sherry, calvados, and bourbon to a rocks glass over a large ice cube and stir. Garnish with the orange peel.
+    tags:
+    - stirred
+    - old-fashioned
+    - freezer bar
+  - name: I Am... I Said
+    author: Morgan Schick
+    notes: "This drink, plucked from the mind of Morgan Schick, the bar manager at San Francisco’s Trick Dog, began as a mash-up of the Mint Julep and the Sherry Cobbler—two drinks cut from the same crushed-ice cloth. Schick likes to add a bit of booze to his cobbler to give the drink a bit more backbone, and he decided to go with genever, a Dutch-style gin whose distinct maltiness, Schick knew, would comingle nicely with the nuttiness of amontillado. The addition of curaçao might seem unorthodox in the world of sherry cobblers, but there’s historical precedent: toward the latter part of the nineteenth century the cobbler started to embrace a number of embellishments, like pineapple gum syrup, orange curaçao, and port. Where things get weird here is with Schick’s menthol tincture, a relatively simple mix of menthol crystals dissolved in vodka—which he came up while reading soap-maker forums. While the drink certainly benefits from the cooling menthol sensation, if you can’t get your hands on menthol crystals at your local soap store, the drink is plenty delicious without it."
+    glassware: 
+    ingredients:
+    - 2 ounces amontillado
+    - ½ ounce Pierre Ferrand Dry orange curaçao
+    - ½ ounce Bols genever
+    - ¼ ounce lemon juice
+    - ¼ ounce simple syrup (1:1 syrup:water)
+    - 1 drop menthol tincture
+    - "Garnish: mint and half orange wheel"
+    steps:
+    - Add all the ingredients but the garnishes to a mixing glass, add ice, and shake. 
+    - Strain over crushed ice into a double rocks glass. 
+    - Garnish with a sprig of mint and the half orange wheel.
+    tags:
+    - shaken
+    - citrus
+    - trick dog
+  - name: New Spain
+    author: Talia Baiocchi
+    notes: New York City bartender Sam Ross’s Penicillin—a mix of scotch, lemon, honey, and ginger—became one of the few drinks to quickly establish itself within the tiny category of “modern classics.” It’s a drink I return to often and one I am always pleased to meet on a cocktail list. The Penicillin’s foolproof combination of smoky, spicy, sweet, and sour has sparked a whole category of riffs, including this one. I used the same flavor blueprint and subbed in mezcal, amontillado, lime, and agave to give it a muggier, bass-toned Latino updo. What the drink illustrates well is the strong relationship between sherry and spirits like mezcal or scotch, which tend to have an iodine and salt component that is echoed in both fino and amontillado.
+    glassware: 
+    ingredients:
+    - 1 (½-inch-thick) slice fresh ginger, peeled
+    - ½ ounce agave nectar
+    - ¾ ounce lime juice
+    - 2 ounces amontillado
+    - 1 ounce Del Maguey Vida mezcal
+    - "Garnish: nutmeg, lime wheel"
+    steps:
+    - Add the ginger to a mixing glass with the agave and lime juice and muddle. 
+    - Add the sherry and mezcal, and fill with ice. 
+    - Shake, and finely strain over a large cube of ice into a rocks glass. 
+    - Grate nutmeg over the top and garnish with the lime wheel.
+    tags:
+    - shaken
+    - citrus
+  - name: "Suppressor #1"
+    author: Greg Best
+    notes: “A few years ago everyone was hot on the how-much-high-proof-alcohol-can-you-fit-in-one-drink thing,” says Greg Best. “But Atlanta is a driving town.” In reaction to this trend, Best, who rose to fame within the bartending world for his innovative drinks at Holeman & Finch in Atlanta, asked bartenders from around the city to come up with at least one low-alcohol “distance” cocktail. As of this writing, there are around twenty drinks in the Suppressor collection, but this is the original. Best began with pedro ximénez, an ingredient that most would associate with a spirit-forward drink, and sought to turn that perception on its head by integrating it into an elegant julep-inspired drink, fresh enough to combat the brutal Southern sun.
+    glassware: 
+    ingredients:
+    - 1 ounce Dolin dry vermouth
+    - 1 ounce Cocchi Americano
+    - 1 ounce Alvear 2008 pedro ximénez
+    - 8 drops Bittermens Hopped Grapefruit Bitters
+    - 2 heavy barspoons lime juice
+    - "Garnish: orange peel, mint sprig"
+    steps:
+    - Add all the ingredients but the garnish over crushed ice in a julep cup. 
+    - Garnish with the orange peel and mint.
+    tags:
+    - julep
+    - citrus
+    - stirred
+  - name: El Capataz Cobbler
+    author: Sean Kenyon
+    notes: Sean Kenyon of Williams & Graham in Denver had a friend who complained that the budding trend of using vinegar in drinks was “disgusting and horrible.” Kenyon loves peaches and vinegar (or, really, any fruit and vinegar), and this late-summer riff on the classic Sherry Cobbler arose from his determination to change his friend’s mind. The drink marries his beloved Colorado Palisades peaches to thick and potent Lustau pedro ximénez sherry vinegar. The sweet-and-sour interplay of honey syrup, fruit, and vinegar combined with East India and fino sherries turns the classic fruity cobbler flavor profile upside down, embracing the drink’s savory side.
+    glassware: 
+    ingredients:
+    - ¼ peach
+    - ½ orange wheel
+    - ½ ounce honey syrup (2:1 honey:water)
+    - 1 barspoon Lustau pedro ximénez sherry vinegar
+    - 2 ounces Lustao La Ina fino
+    - 2 ounces Lustau East India sherry
+    - "Garnish: peach slice, dash of sherry vinegar"
+    steps:
+    - In a mixing glass, muddle the peach and orange with the honey syrup and vinegar. 
+    - Add the sherries and shake without ice. 
+    - Pour into a goblet and add crushed ice. 
+    - Stir to frost the glass. 
+    - Drizzle the peach slice with a bit of vinegar and garnish.
+    tags:
+    - shaken
+    - swizzle
+  - name: Rebujito
+    author: Evan Zimmerman
+    notes: "The first time I visited Andalusia was in 1998 in what was a brutally hot August. I was fourteen and had tagged along on a European trip with a group of friends who’d just graduated high school. There were chaperones, but they didn’t do much of a job: I came back with bright red hair and a new appreciation for Camel cigarettes. I can’t remember if I drank Rebujitos—more or less the official summer drink of Andalusia—in Sevilla, but it was August and the drink combines Sprite and alcohol, so I can’t imagine turning it down. I’ve certainly had my fair share since. Even in its original form—Sprite and all—it’s hard not to fall in love with it, especially when the levante blows. But Evan Zimmerman’s fresh, Spriteless version—a staple on his cocktail list at Portland’s Woodsman Tavern—is no doubt a far superior, and far more craft cocktail–acceptable version."
+    glassware: 
+    ingredients:
+    - 2 mint leaves
+    - ½ ounce simple syrup (1:1 sugar:water)
+    - 2 ounces fino
+    - ½ ounce lemon juice
+    - ½ ounce lime juice
+    - Soda water
+    - "Garnish: lemon and lime wheels, mint sprig"
+    steps:
+    - Add the mint and simple syrup to a mixing glass and lightly muddle. 
+    - Add the sherry and lemon and lime juices. 
+    - Shake and strain into a tall Collins glass. 
+    - Top with soda water and garnish with the lime and lemon wheels and sprig of mint.
+    tags:
+    - shaken
+    - citrus
+  - name: Maison Sherry Cobbler
+    author: Maxwell Britten
+    notes: If there is any cocktail category that garnishes with near-irrational abandon, it’s tiki. But the cobbler, too, invites one to get carried away. And that’s part of its charm. Maxwell Britten, the head bartender at Brooklyn’s Maison Premiere, created the bar’s signature winter version of the classic cobbler, which calls for not only an impressive four styles of sherry—as well as a warming dash of clove, nutmeg, and cinnamon-infused St. Elizabeth Allspice Dram—but also a garnish regime that could put most tropical drinks to shame. In addition to the requisite berries arranged on top of the drink, it arrives with its own wintry tableau of rosemary, cinnamon sticks, cranberries, and blueberries served on the tea saucer on which the drink is set. For those at home we’ve left out the tableau, but in conception this is a drink that asks you to go wild, so garnish lavishly.
+    glassware: 
+    ingredients:
+    - ¾ ounce amontillado
+    - ¾ ounce manzanilla
+    - ¾ ounce oloroso
+    - ¾ ounce pedro ximénez
+    - ½ ounce lemon juice
+    - ½ ounce pineapple juice
+    - ¼ ounce demerara syrup (1:1 sugar:water)
+    - 1 teaspoon St. Elizabeth Allspice Dram
+    - 1 barspoon blueberry jam
+    - "Garnish: 2 halved blackberries, thin half-moon of orange, mint sprig, skewered cranberries"
+    steps:
+    - Add all the ingredients but the garnishes to a mixing glass. 
+    - Add ice and shake. 
+    - Strain over crushed ice into a stemmed pilsner glass. 
+    - Top with more crushed ice and garnish with the berries, orange, mint sprig, and cranberries. 
+    - Serve with a straw.
+    tags:
+    - maison premiere
+    - shaken
+    - citrus
+  - name: Ale Cup
+    author: Talia Baiocchi
+    notes: The original recipe for this drink appears in Jack’s Manual (1910), where it calls for a simple combination of sugar, lemon, sherry, water, Bass ale, mint, and fresh nutmeg. It was served, like a proper cup should be, from a glass pitcher, and topped off with the ale right before being served. While the original recipe is no slouch, I couldn’t help but look at this drink—a tangle of dark ale tumbling down from the top of the glass—and think Dark and Stormy. Rum on the brain, I added an ounce of a bold and funky Jamaican gold from Appleton and a dose of sherry vinegar for bite, for what ends up drinking like a West Indian riff on the original.
+    glassware: 
+    ingredients:
+    - 2 mint leaves
+    - ¾ ounce simple syrup (1:1 sugar:water)
+    - 1½ ounces palo cortado
+    - 1 ounce gold Jamaican rum, preferably Appleton Estate
+    - ¾ ounce lemon juice
+    - 1 barspoon pedro ximénez sherry vinegar
+    - Brown ale
+    - "Garnish: nutmeg, mint sprig"
+    steps:
+    - Add the mint leaves and simple syrup to a mixing glass and lightly muddle. 
+    - Add the sherry, rum, lemon juice, and vinegar. 
+    - Add ice and shake until chilled. 
+    - Strain over ice into a Collins glass. 
+    - Top with ale. 
+    - Grate nutmeg over the top of the glass and garnish with a sprig of mint.
+    tags:
+    - shaken
+    - citrus
+    - beer
+  - name: Sherry Bloody Mary
+    author: 
+    notes: As one of the few entirely savory drinks in the classic canon, the Bloody Mary has always been seen as a morning-after medicine—as the cocktail writer David A. Embury wrote in his The Fine Art of Mixing Drinks (1948), it’s “a classic example of combining in one potion both the poison and the antidote.” But like many other classics, its origins are sketchy. Theories suggest the drink was created either by Fernand Petiot while he was bartending at Harry’s New York Bar in Paris during Prohibition, or the comedian George Jessel in Palm Beach in 1927. A slew of information unearthed by bartender Jack McGarry seems to suggest that, due to the lack of evidence to corroborate a Paris birthplace, the drink is American in origin, and that Jessel may have been the first to toss vodka and tomato juice together. But it was Petiot, who, while at the St. Regis’s Nat King Cole Bar in New York City—not Paris—turned it into the generously seasoned drink we know today. The Bloody Mary has, of course, gone through many reincarnations with a whole mess of different ingredients. A Smirnoff campaign from the 1970s features a simple drink called the Bloodhound, which called for 1½ ounces of Smirnoff, 3 ounces of tomato juice, and ½ ounce of dry sherry. Today, contemporary British riffs call for a splash of fino or, in the case of the Bloody Bishop, splitting the booze 1:1 sherry to vodka.
+    glassware: 
+    ingredients:
+    - 1½ ounces vodka
+    - ½ ounce fino sherry
+    - 4 ounces Bloody Mary Mix
+    - ¾ ounce lemon juice
+    - "Garnish: 1 lemon wedge, 1 cubed piece of manchego cheese, 1 cubed piece of dried chorizo, 1 white anchovy, 1 pickled piparra pepper, or whatever fits on a cocktail skewer"
+    steps:
+    - Add all the ingredients but the garnishes to a mixing glass. 
+    - Add ice and lightly shake. 
+    - Strain over cubed ice into a Collins glass. 
+    - Garnish with the lemon, manchego, chorizo, anchovy, and piparra pepper. 
+    - Serve with a straw.
+    tags:
+    - shaken
+    - citrus
+  - name: Kojo Cocktail
+    author: Derek Brown
+    notes: Derek Brown, Washington, D.C.’s poster boy for sherry, first created this drink for the beloved D.C. radio journalist Kojo Nnamdi on the fifteen-year anniversary of WAMU’s The Kojo Nnamdi Show. Brown drew influences for the drink from his conversations with Nnamdi and from the journalist’s roots, adding Velvet Falernum—a spice- and lime-infused staple in Caribbean drinks—as a nod to his home country of Guyana. The drink was first served at a dinner in honor of Nnamdi and can still be ordered off-menu at Brown’s bars, Mockingbird Hill and The Passenger.
+    glassware: 
+    ingredients:
+    - 1 ounce dry gin
+    - 1 ounce dry oloroso
+    - ½ ounce Velvet Falernum
+    - ½ ounce lemon juice
+    - ¼ ounce simple syrup (1:1 sugar:water)
+    - 1 dash aromatic bitters, preferably Angostura
+    - "Garnish: grapefruit peel"
+    steps:
+    - Add all the ingredients but the garnish to a mixing glass. 
+    - Add ice, shake, and strain into a cocktail glass. 
+    - Garnish with the grapefruit peel.
+    tags:
+    - shaken
+    - citrus
+  - name: Ferdinand and Isabella's Punch
+    author: 
+    notes: The many variations on the art and architecture of the flowing bowl make punch the category of drink that transcends season. Yet when I think of punch in all of its (generally) high-proof glory, I think of winter. And what do I dream of in winter? Beaches. And rum. In most Spanish-speaking Caribbean countries and in Latin America, the solera system is often employed in the production of rum, making it sherry’s hard-drinking next of kin. Zacapa 23, a Guatemalan rum aged at high altitude via the solera system, is one of the finest rums on the market—bold and spicy, but lean thanks to its cooler aging locale. Both it and the oloroso in this drink have notes of citrus peel, which is echoed in bergamot-tinged Earl Grey tea and then Caribbean-ized with a strong dose of Angostura bitters and Velvet Falernum. Serves 16.
+    glassware: 
+    ingredients:
+    - 2 lemons
+    - ⅔ cup sugar
+    - 3 Earl Grey tea bags
+    - 1 (750ml) bottle Ron Zacapa 23 Sistema Solera rum
+    - 1 (750ml) bottle Lustau Don Nuño oloroso
+    - 1 cup lemon juice
+    - 1 cup lime juice
+    - 2 teaspoons Angostura bitters
+    - 1 cup Velvet Falernum
+    - "Garnish: lemon and lime wheels, nutmeg, mint sprigs"
+    steps:
+    - PEEL THE LEMONS, taking care to avoid as much of the bitter white pith as possible. 
+    - In a large bowl, combine the sugar with the lemon peels, then lightly muddle and let sit for 20 minutes to allow the citrus oils to infuse with the sugar. 
+    - Boil 3 cups of water and steep the tea bags in it for 3 minutes. 
+    - Set aside to cool slightly.
+    - To the bowl, add the rum, sherry, lemon and lime juices, bitters, and Velvet Falernum. 
+    - Stir to combine. 
+    - Add the tea and let cool to room temperature. 
+    - If serving immediately, add several large cubes to chill. Add lime and lemon wheels and grate some nutmeg over the punch. Ladle into punch cups over ice, garnish with mint sprigs, and serve. 
+    - If making ahead, bottle and refrigerate. When serving, pour over ice and add grated nutmeg, a lemon or lime wheel, and mint sprigs to garnish.
+    tags:
+    - stirred
+    - citrus
+    - punch
+  - name: East India Negroni
+    author: Jim Meehan
+    notes: This drink, from Jim Meehan of PDT, really began with the rum. More specifically, it began with Joseph Banks—an eighteenth-century explorer and Captain Cook’s sidekick on his first voyage. The 5-Island rum used in this drink is a tribute to Banks and Cook’s maiden voyage, as is the East India, an old-school style of sherry that was originally matured in the same way as early madeira (via tumultuous sea voyage on masted ships). “The rum takes its namesake from a dude who would’ve been on the same ship that the East India sherry would’ve traveled in,” says Meehan. The interplay of the subtle funk of the rum with the raisiny woodiness of Lustau’s East India sherry makes for a cocktail that drinks like a Negroni best consumed near the equator.
+    glassware: 
+    ingredients:
+    - 2 ounces Banks 5-Island rum
+    - ¾ ounce Campari
+    - ¾ ounce Lustau East India sherry
+    - "Garnish: orange peel"
+    steps:
+    - Add all the ingredients but the garnish to a mixing glass, then add ice. 
+    - Stir and strain into a rocks glass with one large ice cube. 
+    - Garnish with the orange peel.
+    tags:
+    - stirred
+    - negroni
+    - freezer bar

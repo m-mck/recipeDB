@@ -1,0 +1,2667 @@
+source: "Smuggler's Cove, Exotic Cocktails, Rum, and the Cult of Tiki"
+recipes:
+
+#The Birth of Tiki
+  - name: Aku Aku
+    author: Don the Beachcomber
+    year: 
+    notes: This inspired use of fresh mint and pineapple seems wholly contemporary, but has its roots in the 1930s when it was originally served at Don the Beachcomber’s and named the Missionary’s Downfall.
+    glassware: 
+    ingredients:
+    - 5 (1-inch-square) chunks fresh pineapple
+    - 8 mint leaves
+    - 1 ounce fresh lime juice
+    - Scant ½ ounce SC Demerara syrup
+    - ½ ounce natural peach liqueur (such as Mathilde, Combier, or Giffard)
+    - 1½ ounces blended lightly aged rum
+    - "Garnish: Large mint leaf or a small cluster of mint sprigs"
+    steps:
+    - Muddle the pineapple chunks in a drink mixer tin. 
+    - Add the remaining ingredients and 12 ounces of crushed ice and flash blend for 10 seconds. 
+    - Double-strain into a chilled coupe glass. 
+    - Float a large mint leaf on the surface of the drink or rest a small cluster of mint sprigs against the side of the glass to garnish.
+    tags:
+    - smuggler's cove
+    - tiki
+    - blended
+    - citrus
+    - "smuggler's cove: the birth of tiki"
+  - name: Pupule
+    author: Don the Beachcomber
+    year: 
+    notes: This well-spiced delight was later named The Nui Nui.
+    glassware: 
+    ingredients:
+    - Spiral-cut orange peel
+    - ¾ ounce fresh lime juice
+    - ¾ ounce fresh orange juice
+    - ¼ ounce SC Cinnamon Syrup
+    - ¼ ounce SC Vanilla Syrup
+    - ¼ ounce St. Elizabeth Allspice Dram
+    - 2 ounces column still aged rum
+    - 1 dash Angostura bitters
+    - "Garnish: Swizzle stick and mint sprig"
+    steps:
+    - Line a footed pilsner glass with the orange peel with one end hanging over the rim of the glass. 
+    - Add the remaining ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into the glass. Add garnish.
+    tags:
+    - smuggler's cove
+    - tiki
+    - blended
+    - citrus
+    - "smuggler's cove: the birth of tiki"
+  - name: Don's Own Grog
+    author: Don the Beachcomber
+    year: 1937
+    notes: 
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lime juice
+    - ¼ ounce SC Demerara syrup
+    - 1 dash SC Grenadine
+    - ½ ounce Leopold Brothers Rocky Mountain Blackberry Liqueur
+    - 1 ounce blended aged rum
+    - ½ ounce blended lightly aged rum
+    - ½ ounce black blended rum
+    - 1 dash Angosutra bitters
+    - "Garnish: Freshly grated nutmeg"
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a double old-fashioned glass. 
+    - Top with freshly grated nutmeg.
+    tags:
+    - smuggler's cove
+    - tiki
+    - blended
+    - citrus
+    - "smuggler's cove: the birth of tiki"
+  - name: Port Au Prince
+    author: Don the Beachcomber
+    year:
+    notes: 
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lime juice
+    - ½ ounce pineapple juice
+    - ¼ ounce SC Demerara syrup
+    - 1 dash SC Grenadine
+    - ½ ounce John D. Taylor’s Velvet Falernum
+    - 1½ ounces cane coffey still aged rum
+    - 1 dash Angostura bitters
+    - "Garnish: Lime wedge speared with a cocktail umbrella"
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a footed pilsner glass. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - tiki
+    - blended
+    - citrus
+    - "smuggler's cove: the birth of tiki"
+  - name: Three Dots and a Dash
+    author: Don the Beachcomber
+    year: 
+    notes: Created during World War II by Donn Beach, the name is Morse code for 'victory.'
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lime juice
+    - ½ ounce fresh orange juice
+    - ½ ounce SC Honey Syrup
+    - ¼ ounce John D. Taylor’s Velvet Falernum
+    - ¼ ounce St. Elizabeth Allspice Dram
+    - 1½ ounces cane AOC Martinique rhum agricole vieux
+    - ½ ounce blended aged rum
+    - 1 dash Angostura bitters
+    - "Garnish: Three maraschino cherries and a pineapple chunk speared on a cocktail pick, or three maraschino cherries on a cocktail pick plus a pineapple frond"
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a footed pilsner glass. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - tiki
+    - blended
+    - citrus
+    - "smuggler's cove: the birth of tiki"
+  - name: Mexican El Diablo
+    author: Trader Vic
+    year: 1946
+    notes: As Vic said of his 1946 invention, “I hate like hell to bring up unpleasant things at a time like this, but go easy on this one because it’s tough on your running board.”
+    glassware: 
+    ingredients:
+    - 1 lime wedge
+    - ½ ounce fresh lime juice
+    - ½ ounce natural crème de cassis
+    - 1½ ounces blanco tequila
+    - 4 ounces real ginger ale
+    - "Garnish: Swizzle stick"
+    steps:
+    - Squeeze and the drop lime wedge into a Collins or highball glass. 
+    - Fill glass with cracked ice. 
+    - Build the drink by adding the remaining ingredients; stir. 
+    - Garnish with a swizzle stick.
+    tags:
+    - smuggler's cove
+    - tiki
+    - stirred
+    - citrus
+    - "smuggler's cove: the birth of tiki"
+  - name: Port Light
+    author: Trader Vic
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - 1 ounce egg white
+    - 2 ounces bourbon
+    - 1 ounce fresh lemon juice
+    - ¾ ounce SC Honey Syrup
+    - ½ ounce SC Passion Fruit Syrup
+    - "Garnish: Swizzle stick"
+    steps:
+    - Combine the egg white and bourbon in a drink mixer tin and dry flash without ice for 10 seconds. 
+    - Then add the remaining ingredients. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a footed pilsner glass and garnish.
+    tags:
+    - smuggler's cove
+    - tiki
+    - blended
+    - citrus
+    - "smuggler's cove: the birth of tiki"
+  - name: Demerara Dry Float
+    author: Don the Beachcomber
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - ¾ ounce black blended overproof rum
+    - 2 ounces fresh lime juice
+    - 1 teaspoon fresh lemon juice
+    - 1½ ounces SC Passion Fruit Syrup
+    - ¼ ounce SC Demerara syrup
+    - ¼ ounce Luxardo Maraschino liqueur
+    - 1½ ounces blended aged rum
+    steps:
+    - Pour the overproof rum into a separate old-fashioned or shot glass and set aside. 
+    - Add the remaining ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a double old-fashioned glass, and serve with the side of overproof rum (the side of danger!). 
+    - Encourage guests to pour as much or as little of the overproof rum into their drink as they like, and experience how the drink flavor changes.
+    tags:
+    - smuggler's cove
+    - tiki
+    - blended
+    - citrus
+    - "smuggler's cove: the birth of tiki"
+
+#The Golden Era
+  - name: Jet Pilot
+    author: 
+    year: 
+    notes: With the growth of aviation and the space race, tiki bars went from serving Test Pilots to Jet Pilots to Space Pilots to celebrate their daring feats. This 1950s version from The Luau in Beverly Hills will fuel your tanks with citrus, spices, nerves of steel, and a blend of rums. This is basically a reproportioned and tweaked Zombie, but a little roll, pitch, and yaw make this an interesting variation.
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lime juice
+    - ½ ounce fresh grapefruit juice
+    - ½ ounce SC Cinnamon Syrup
+    - ½ ounce John D. Taylor’s Velvet Falernum
+    - 1 ounce black blended rum
+    - ¾ ounce blended aged rum
+    - ¾ ounce black blended overproof rum
+    - 1 dash Herbstura
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a double old-fashioned glass.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the golden era"
+    - tiki
+    - blended
+    - citrus
+  - name: Halekulani Cocktail
+    author: 
+    year: 
+    notes: Open the door to paradise with this 1930s treat from the famous House Without a Key on Waikiki Beach.
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lemon juice
+    - ½ ounce fresh orange juice
+    - ½ ounce pineapple juice
+    - ¼ ounce SC Demerara syrup
+    - ½ teaspoon SC Grenadine
+    - 1½ ounces bourbon
+    - 1 dash Angostura bitters
+    - "Garnish: Edible orchid"
+    steps:
+    - Combine all the ingredients in a cocktail shaker with cracked or cubed ice. 
+    - Shake and double-strain into a chilled coupe and garnish with an edible orchid on the edge of the glass.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the golden era"
+    - tiki
+    - shaken
+    - citrus
+  - name: Sidewinder's Fang
+    author: 
+    year: 
+    notes: As it used to be at the legendary Lanai restaurant in San Mateo, California. Beware this serpent’s bite!
+    glassware: 
+    ingredients:
+    - Sidewinder’s Fang peel
+    - 1½ ounces fresh lime juice
+    - 1½ ounces fresh orange juice
+    - 1½ ounces SC Passion Fruit Syrup
+    - 3 ounces seltzer
+    - 1 ounce blended aged rum
+    - 1 ounce black blended rum
+    - "Garnish: Mint sprig"
+    steps:
+    - Line a snifter with the Sidewinder’s Fang peel, with one end hanging over the rim of the glass. 
+    - Fill glass with cracked or cubed ice to hold the peel in place. 
+    - Put the remaining ingredients in a drink mixer tin with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend then strain into the snifter. 
+    - Garnish with a mint sprig.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the golden era"
+    - tiki
+    - blended
+    - citrus
+  - name: Hawaiian Sunset
+    author: 
+    year: 
+    notes: A lost gem from the Aku Aku Polynesian Restaurant, once part of the now-also-lost Stardust Casino in beautiful Las Vegas, featuring a little vodka and a lot of lady luck!
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lime juice
+    - ½ ounce fresh lemon juice
+    - ½ ounce SC Orgeat
+    - 1 teaspoon SC Grenadine
+    - 1½ ounces vodka
+    - "Garnish: Lime peel"
+    steps:
+    - Add all the ingredients to a cocktail shaker and shake with cracked or cubed ice. 
+    - Double-strain into a chilled coupe. 
+    - Garnish with a lime peel.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the golden era"
+    - tiki
+    - shaken
+    - citrus
+  - name: Captain's Grog
+    author: 
+    year: 1962
+    notes: "From the Captain’s Inn, Long Beach, California, this hearty blend will help keep you on an even keel. It’s easy to batch up a Captain’s Mix like we do at Smuggler’s Cove: multiply the ingredient quantities of the falernum, curaçao, maple syrup, and vanilla and almond extracts by the number of grogs you plan to serve and combine in a sealable container. Then, substitute 1½ ounces of this Captain’s Mix for those ingredients in the recipe."
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lime juice
+    - ½ ounce fresh grapefruit juice
+    - ½ ounce grade A maple syrup
+    - 3 drops pure vanilla extract
+    - 3 drops pure almond extract
+    - 1 ounce seltzer
+    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce Pierre Ferrand Dry Curaçao
+    - ¾ ounce black blended rum
+    - ¾ ounce blended lightly aged rum
+    - ¾ ounce blended aged rum
+    - "Garnish: Mint sprig"
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a double old-fashioned glass. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the golden era"
+    - tiki
+    - blended
+    - citrus
+  - name: Suffering Bastard
+    author: Joe Scialom
+    year: 1942
+    notes: Created at the Shepheard Hotel in Cairo by legendary globetrotting barman Joe Scialom, this was the drink that fortified Montgomery’s boys during the Second World War as they pushed back against Rommel in North Africa.
+    glassware: 
+    ingredients:
+    - 4 ounces ginger beer
+    - ½ ounce fresh lime juice
+    - ¼ ounce SC Demerara syrup
+    - 1 ounce London dry gin
+    - 1 ounce brandy
+    - 2 dashes Angostura bitters
+    - "Garnish: Mint sprig and swizzle stick"
+    steps:
+    - Add the ginger beer to a Collins or highball glass, then add the remaining ingredients to a cocktail shaker. 
+    - Fill with cracked or cubed ice. 
+    - Shake and strain the contents into the glass and gently fill with cubed or cracked ice and then garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the golden era"
+    - tiki
+    - shaken
+    - citrus
+  - name: Merciless Virgin
+    author: 
+    year: 
+    notes: "Frank “Skipper” Kent, owner of San Francisco’s Skipper Kent’s, quoted The Rubáiyát of Omar Khayyám in his description of this drink in an unpublished book of his recipes: “She must be merciless. Ah! Moon of my delight—that knows no wane—The moon of Heaven has risen once again. How oft hereafter rising—shall she look—through this same garden—after me—in vain!”"
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lemon juice
+    - ½ ounce seltzer
+    - ½ ounce Cherry Heering liqueur
+    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ¼ ounce Pierre Ferrand Dry Curaçao
+    - 1½ ounces blended lightly aged rum
+    - "Garnish: Maraschino cherries on a cocktail pick"
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a footed pilsner glass. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the golden era"
+    - tiki
+    - citrus
+    - blended
+  - name: Saturn
+    author: J. "Popo" Galsini
+    year: 1967
+    notes: "This is a winning combination of gin, lemon, passion fruit, falernum, and orgeat. And don’t just take our word for it: J. “Popo” Galsini, as part of the California Bartenders’ Guild, won the International Bartender’s Association World Championship in 1967 with this beauty. We chose a garnish that represents the rings of Saturn."
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lemon juice
+    - ½ ounce SC Passion Fruit Syrup
+    - ¼ ounce SC Orgeat
+    - ¼ ounce John D. Taylor’s Velvet Falernum
+    - 1¼ ounce London dry gin
+    - "Garnish: Long spiral-cut lemon peel wrapped into rings"
+    steps:
+    - Add all the ingredients to a cocktail shaker. 
+    - Fill with cracked ice. 
+    - Shake and strain into a chilled coupe. 
+    - Rest garnish on top of the drink.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the golden era"
+    - tiki
+    - shaken
+    - citrus
+  - name: Tiki Bowl
+    author: 
+    year: 
+    notes: A Kon-Tiki original, but still very closely related to any number of drinks in Donn’s style. Donn’s signature “secret weapon” was a combination of honey, Angostura bitters, and Pernod, which features in many of his cocktails. The “diaspora” of  Donn-style exotic cocktails was spread both by his acolytes and imitators to venues around the world. Serves 2.
+    glassware: 
+    ingredients:
+    - 1½ ounces fresh orange juice
+    - ¾ ounce fresh lime juice
+    - 1 ounce SC Honey Syrup
+    - 1¼ ounce black blended rum
+    - 1 ounce black blended overproof rum
+    - 1 ounce column still aged rum
+    - 2 dashes Herbstura
+    - "Garnish: Edible orchid"
+    steps:
+    - Combine all ingredients in a drink mixer tin. 
+    - Fill with 18 ounces crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a tiki bowl for two and float garnish in the bowl.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the golden era"
+    - tiki
+    - 
+  - name: Hurricane
+    author: Pat O'Briens
+    year: 
+    notes: A perfect three-ingredient drink that captures exotic flavor in the simplest way. Even though Pat O’Brien’s is an Irish-themed bar, this drink became a tiki bar staple around the world. Much like the Mai Tai, the Hurricane you will be served today is often bright red, a far cry from the original.
+    glassware: 
+    ingredients:
+    - 2 ounces fresh lemon juice
+    - 2 ounces SC Passion Fruit Syrup
+    - 4 ounces black blended rum
+    - "Garnish: Wind-ravaged cocktail umbrella speared into a lemon wedge"
+    steps:
+    - Combine all the ingredients in a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a hurricane glass. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the golden era"
+    - tiki
+    - blended
+    - citrus
+
+#The Tiki Revival
+  - name: Mundo Perdido
+    author: Jeff "Beachbum" Berry
+    year: 2009
+    notes: 
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lemon juice
+    - ¼ ounce SC Cinnamon Syrup
+    - ¼ ounce SC Demerara syrup
+    - ½ ounce apple brandy
+    - 1½ ounces black blended rum
+    steps:
+    - Combine all the ingredients in a cocktail shaker with cracked or cubed ice. 
+    - Shake and double-strain into a chilled coupe.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the tiki revival"
+    - tiki
+    - shaken
+    - citrus
+  - name: Formidable Dragon
+    author: Martin Cate
+    year: 2015
+    notes: 
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lemon juice
+    - ¾ ounce fresh lime juice
+    - ½ ounce SC Honey Syrup
+    - ¾ ounce SC Molasses Syrup
+    - ½ ounce Amaro Di Angostura
+    - 1½ ounces blended aged rum
+    - 1 ounce black blended rum
+    - ¼ ounce pot still lightly aged rum (overproof)
+    - 1 ounce seltzer
+    - "Garnish: Edible orchid, multiple mint sprigs, and a swizzle stick"
+    steps:
+    - Add all the ingredients to a drink mixer tin filled with 18 ounces crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a snifter and add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the tiki revival"
+    - tiki
+    - blended
+    - citrus
+  - name: Lei Lani Volcano 2.0 (AKA Lei Lani Nouveau)
+    author: 
+    year: 2013
+    notes: Created for the Walt Disney Family Museum Tiki Oasis Party, 2013, this updated recipe uses coconut cream and a blended aged rum in place of coconut rum, and uses a guava soda in place of guava nectar for more sparkle.
+    glassware: 
+    ingredients:
+    - 3 ounces Bundaberg Guava soda
+    - 1½ ounces pineapple juice
+    - ¾ ounce lime juice
+    - 1 ounce SC Coconut Cream
+    - 1½ ounces blended aged rum
+    - "Garnish: Edible orchid"
+    steps:
+    - Add the guava soda to a Collins or highball glass, then add the remaining ingredients to a cocktail shaker and fill with cracked or cubed ice. 
+    - Shake and double-strain into a Collins or highball glass. 
+    - Gently add cracked or cubed ice to the glass and then garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the tiki revival"
+    - tiki
+    - citrus
+    - shaken
+  - name: Tradewinds
+    author: 
+    year: 
+    notes: If the wind is right, you can sail away and find tranquility with this Jamaican drink from the 1970s. For a tasty twist, substitute 2 ounces of London dry gin for the rums.
+    glassware: 
+    ingredients:
+    - 1 ounce fresh lemon juice
+    - 1½ ounces SC Coconut Cream
+    - 1 ounce natural apricot liqueur (such as Rothman & Winter Apricot Liqueur or Giffard Abricot du Roussillon)
+    - 1 ounce black blended rum
+    - 1 ounce blended lightly aged rum
+    - "Garnish: Lemon wedge speared with a cocktail umbrella turned inside out (as if the wind has gently blown it open)"
+    steps:
+    - Add all the ingredients to a drink mixer tin and fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a footed pilsner glass. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the tiki revival"
+    - tiki
+    - blended
+    - citrus
+  - name: Peachtree Punch 2.0
+    author: 
+    year: 
+    notes: A modern twist on a Trader Vic’s drink from the 1970s incorporating coconut cream, lemon, and seltzer. The original Peachtree Punch was created for the opening of Trader Vic’s, Atlanta, hence the celebration of the peach!
+    glassware: 
+    ingredients:
+    - ½ fresh yellow or white peach, pitted, and coarsely chopped into chunks (with skin)
+    - 3 ounces fresh orange juice
+    - ½ ounce fresh lemon juice
+    - 1 ounce SC Coconut Cream
+    - ¼ ounce natural peach liqueur (such as Mathilde Peach or Combier Crème de Pêche de Vigne)
+    - 2 ounces blended lightly aged rum
+    - 1 ounce seltzer
+    - "Garnish: Grated nutmeg and peach wedge"
+    steps:
+    - Add the peach chunks, orange juice, and lemon juice to drink mixer tin and muddle the peach. 
+    - Add the remaining ingredients. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and double-strain into a double old-fashioned glass filled with cracked or cubed ice. 
+    - Garnish with grated nutmeg and a peach wedge on the rim of the glass.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the tiki revival"
+    - tiki
+    - blended
+    - citrus
+  - name: Jungle Bird
+    author: 
+    year: 1978
+    notes: 
+    glassware: 
+    ingredients:
+    - 2 ounces pineapple juice
+    - ½ ounce fresh lime juice
+    - ½ ounce SC Demerara syrup
+    - ¾ ounce Campari
+    - 1½ ounces black blended rum
+    - "Garnish: Pineapple fronds"
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a Collins or highball glass and add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the tiki revival"
+    - tiki
+    - blended
+    - citrus
+  - name: Golden Gun
+    author: 
+    year: 2012
+    notes: At Tiki Oasis 2012, I taught a seminar about how to structure an exotic cocktail. Attendees were provided with a bunch of exotic cocktail ingredients and challenged to come up with a cocktail. Table Eleven was the winner with this beauty!
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lime juice  
+    - ½ ounce fresh grapefruit juice   
+    - ½ ounce SC Demerara syrup   
+    - ½ ounce natural apricot liqueur (such as Rothman & Winter Apricot Liqueur or Giffard Abricot du Roussillon)
+    - 1 ounce blended aged rum
+    - 1 ounce blended lightly aged rum
+    - 2 dashes Angostura bitters
+    - "Garnish: Participants didn’t have any garnish at their table, so garnish as you see fit!"
+    steps:
+    - Fill a Collins or highball glass with cracked or cubed ice. 
+    - Add all the ingredients to a cocktail shaker filled with cracked or cubed ice. 
+    - Shake and strain into the Collins or highball glass. 
+    - Your choice of garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the tiki revival"
+    - tiki
+    - shaken
+    - citrus
+  - name: Hinky Dink's Fizzy
+    author: 
+    year: 1984
+    notes: Created by Trader Vic’s for their fiftieth anniversary, this old favorite is rarely seen, but shows that great mixology can transcend even the 1980s.
+    glassware: 
+    ingredients:
+    - 2 ounces sparkling wine
+    - 1½ ounces pineapple juice
+    - ½ ounce fresh lime juice
+    - ½ ounce SC Passion Fruit Syrup
+    - ½ ounce natural apricot liqueur (such as Rothman & Winter Apricot Liqueur or Giffard Abricot du Roussillon)
+    - 1 ounce London dry gin
+    - 1 ounce blended lightly aged rum
+    - "Garnish: Mint sprig"
+    steps:
+    - Pour the sparkling wine into a snifter. 
+    - Add the remaining ingredients to a drink mixer tin. 
+    - Fill the tin with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into the snifter. 
+    - Garnish with a mint sprig.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the tiki revival"
+    - tiki
+    - blended
+    - citrus
+
+#Creating the Space
+  - name: Pampanito
+    author: Martin Cate
+    year: 
+    notes: Load yer ballast tank and explore the depths! The Pampanito was inspired by a visit to Jamaica and her distilleries. When I spoke with Joy Spence, master blender of Appleton Rum, she said that they loved to take the wet sugar, a rich molasses stew from which the sugar has not been extracted, and use it to make lemonade. “Of course,” she added, “we usually put a little rum in there, too.” So I used that as my starting point, and added some traditional Jamaican flavors like allspice, and then lengthened it with soda so it wasn’t so heavy. It gets its name from the USS Pampanito submarine docked in San Francisco, although the story of how that came to be is convoluted and not interesting in the slightest.
+    glassware: 
+    ingredients:
+    - 1 ounce fresh lemon juice
+    - 1 ounce SC Molasses Syrup
+    - 2½ ounces seltzer
+    - ¼ ounce St. Elizabeth Allspice Dram
+    - 1½ ounces black blended rum
+    - 1 dash Angostura bitters
+    - "Garnish: Lemon twist"
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12  ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a Collins or highball glass. 
+    - Garnish with a lemon twist.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: creating the space"
+    - tiki
+    - blended
+    - citrus
+  - name: Max's Mistake
+    author: Martin Cate
+    year: 
+    notes: Created while I was a bartender at Trader Vic’s and named in honor of the Ray’s Mistake at Tiki-Ti, this too was an accidental combination of two other drinks. And my mother has always called me “Max.” You may not.
+    glassware: 
+    ingredients:
+    - 1 ounce fresh lemon juice
+    - 1 ounce SC Passion Fruit Syrup
+    - ½ ounce SC Honey Syrup
+    - 2 ounces London dry gin
+    - 1 dash Angostura bitters
+    - 2 ounces Fentimans Victorian Lemonade (or any quality dry sparkling lemonade)
+    - "Garnish: Mint sprig"
+    steps:
+    - Combine all the ingredients in a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into the snifter. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: creating the space"
+    - tiki
+    - citrus
+    - sparkling
+    - blended
+  - name: La Guildive
+    author: Martin Cate
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - 1 ounce ginger beer
+    - ½ ounce fresh lime juice
+    - ½ ounce Licor 43
+    - ¼ ounce natural peach liqueur (such as Mathilde Peach or Combier Crème de Pêche de Vigne)
+    - 2 ounces blended aged rum
+    - Pinch of freshly grated cinnamon
+    - "Garnish: Lime twist"
+    steps:
+    - Add the ginger beer to a chilled coupe. 
+    - Combine the remaining ingredients in a cocktail shaker and shake with cracked or cubed ice. 
+    - Double-strain the shaken ingredients into the coupe. 
+    - Garnish with a lime twist.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: creating the space"
+    - tiki
+    - shaken
+    - citrus
+  - name: The Twenty Seventy Swizzle
+    author: Martin Cate
+    year: 
+    notes: "Inspired by swizzles of yore, The Twenty Seventy Swizzle came about one night while sitting at the bar with old pal and future Master of the Cove Ron Roumas. I proposed to him that I was going to make the ultimate swizzle based on several classic swizzle recipes. We made several versions and discussed what we liked and disliked about each before settling on a final recipe that incorporated the best of all worlds. The name was inspired by the two rums that I thought really made this drink sing: the heady vanilla of Angostura 1919 and mighty Lemon Hart 151."
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lime juice
+    - ½ ounce SC Demerara syrup
+    - ½ ounce SC Honey Syrup
+    - ¼ ounce St. Elizabeth Allspice Dram
+    - 1 ounce column still aged rum (preferably Angostura 1919)
+    - 1 ounce black blended overproof rum (preferably Lemon Hart 151)
+    - 1 dash Herbstura
+    - Pinch of freshly grated nutmeg
+    - "Garnish: Swizzle napkin wrap, mint sprig, and swizzle stick"
+    steps:
+    - Add all the ingredients to a Collins or highball glass, then add crushed iced until the glass is three-quarters full. 
+    - Use a bar spoon or lélé to swizzle. 
+    - Top up with additional crushed ice as needed to fill the glass and garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: creating the space"
+    - tiki
+    - swizzle
+    - stirred
+  - name: Shudders in a Whisper
+    author: Martin Cate
+    year: 
+    notes: When our photographers Dylan + Jeni first came to Smuggler’s Cove for our initial meeting and shot some sample photos, they needed some prop cocktails. I whipped up this tasty treat, which served as muse for the day.
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lime juice
+    - ½ ounce SC Passion Fruit Syrup
+    - ½ ounce natural pear liqueur (such as Mathilde Poire)
+    - ¼ ounce Drambuie liqueur
+    - 2 ounces seltzer
+    - 2 ounces column still aged rum
+    - 2 dashes Peychaud’s bitters
+    - 1 dash Angostura bitters
+    - "Garnish: Edible orchid and mint sprig"
+    steps:
+    - Add all of the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a snifter. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: creating the space"
+    - tiki
+    - blended
+    - citrus
+  - name: Cuevas
+    author: Dane Barca
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - ¼ ounce SC Cinnamon Syrup
+    - ½ ounce Punt e Mes
+    - ¼ ounce tawny port
+    - 2 ounces blended aged rum
+    - 6 drops Bittermens 'Elemakule Tiki bitters
+    - "Garnish: Maraschino cherry"
+    steps:
+    - Add all the ingredients to a mixing glass. 
+    - Fill with cracked or cubed ice. 
+    - Stir and strain into a chilled coupe. 
+    - Float a maraschino cherry in the center for garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: creating the space"
+    - tiki
+    - stirred
+    - old-fashioned
+  - name: Norwegian Paralysis
+    author: 
+    year: 
+    notes: Chase away the endless night with this marriage of fresh juices, orgeat, and traditional Scandinavian aquavit.
+    glassware: 
+    ingredients:
+    - 1½ ounces fresh orange juice
+    - 1½ ounces pineapple juice
+    - ½ ounce fresh lemon juice
+    - ¼ ounce SC Demerara syrup
+    - ¼ ounce SC Orgeat
+    - 1½ ounces aquavit
+    - "Garnish: Lemon wedge speared with a cocktail umbrella"
+    steps:
+    - Add all the ingredients to a cocktail shaker. 
+    - Fill with cracked ice. 
+    - Shake and strain contents into a Collins or highball glass filled with cracked ice. 
+    - Garnish with a lemon wedge speared with a cocktail umbrella.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: creating the space"
+    - tiki
+    - shaken
+    - citrus
+  - name: Juan Ho Royale
+    author: Martin Cate
+    year: 
+    notes: Created for Hula’s in Santa Cruz, and originally named The Steamer after Steamer Lane, a famous surf spot in Santa Cruz. Hula’s wisely realized the name conjured a different image and cleverly renamed it Juan Ho. To capture the azure seas, I make a rare exception for blue curaçao. Revisiting it again recently revealed that it benefitted nicely from a splash of bubbly.
+    glassware: 
+    ingredients:
+    - 2 ounces champagne or sparkling wine
+    - ¾ ounce fresh lime juice
+    - ½ ounce SC Orgeat
+    - ½ ounce blue curaçao
+    - ½ ounce John D. Taylor’s Velvet Falernum
+    - 1½ ounces tequila blanco
+    steps:
+    - Pour the champagne into a chilled coupe. 
+    - Add the remaining ingredients to a cocktail shaker and shake with cracked or cubed ice. 
+    - Double-strain into the chilled coupe.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: creating the space"
+    - tiki
+    - shaken
+    - citrus
+    - sparkling
+  - name: Chartreuse Swizzle
+    author: Marcovaldo Dionysos
+    year: 
+    notes: While it’s been a staple of the cocktail renaissance for years now, the structure of this drink owes a debt to the exotic cocktail tradition. Sour, sweet, strong. And if the falernum isn’t enough spice for you, how about a hundred or so more in the mix from the Chartreuse?
+    glassware: 
+    ingredients:
+    - 1 ounce pineapple juice
+    - ¾ ounce fresh lime juice
+    - ½ ounce John D. Taylor’s Velvet Falernum
+    - 1½ ounces Green Chartreuse
+    - "Garnish: Swizzle napkin wrap, freshly grated nutmeg and mint sprig"
+    steps:
+    - Combine all the ingredients in a Collins or Zombie glass. 
+    - Fill the glass with crushed ice until it is three-quarters full. 
+    - Swizzle with a lélé or barspoon. 
+    - Top up with additional crushed ice as needed to fill the glass. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: creating the space"
+    - tiki
+    - swizzle
+    - citrus
+  - name: Roselita
+    author: Martin Cate
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - 1½ ounces seltzer
+    - ½ ounce fresh lime juice
+    - ½ ounce SC Orgeat
+    - ½ ounce SC Hibiscus Liqueur
+    - ½ ounce natural pear liqueur (such as Mathilde Poire)
+    - 1½ ounces column still aged rum
+    - 1 dash Peychaud’s bitters
+    - "Garnish: Edible hibiscus flower on cocktail pick or skewer"
+    steps:
+    - Add the seltzer to a Collins or highball glass. 
+    - Add the remaining ingredients to a cocktail shaker with cracked or cubed ice. 
+    - Shake and strain into the glass and carefully add cracked or cubed ice. 
+    - Garnish with an edible hibiscus flower on a cocktail pick or skewer.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: creating the space"
+    - tiki
+    - shaken
+    - citrus
+  - name: Center of the Galaxy
+    author: Martin Cate
+    year: 2009
+    notes: 
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lime juice
+    - ½ ounce SC Demerara syrup
+    - ½ ounce SC Honey Syrup
+    - ½ ounce St. George Raspberry Liqueur
+    - 2 ounces blended aged rum
+    - Pinch of freshly ground cinnamon
+    - "Garnish: Raspberry and a lime wheel"
+    steps:
+    - Combine all the ingredients in a cocktail shaker filled with cracked or cubed ice. 
+    - Shake and double-strain into a chilled coupe. 
+    - Float a lime wheel in the center of the drink and rest a raspberry in the center.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: creating the space"
+    - tiki
+    - shaken
+    - citrus
+  - name: Callaloo Cooler
+    author: Melissa Garcia
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - 1 ounce seltzer
+    - ¾ ounce fresh lime juice
+    - ½ ounce SC Cinnamon Syrup
+    - ½ ounce Cherry Heering
+    - 2 ounces blended lightly aged rum
+    - 1 dash Angostura bitters
+    - "Garnish: Grated cinnamon and mint sprig"
+    steps:
+    - Pour the seltzer in a Collins or highball glass. 
+    - Add remaining ingredients to a cocktail shaker with cubed or cracked ice. 
+    - Shake and strain into the Collins or highball glass. 
+    - Carefully add cubed or cracked ice to the glass to fill and garnish with grated cinnamon and a mint sprig.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: creating the space"
+    - tiki
+    - shaken
+    - citrus
+
+#Curating the Experience
+  - name: Top Notch Volcano
+    author: Martin Cate
+    year: 
+    notes: The Top Notch drink inspired by a Top Notch guy. Stare in wonder at the mighty volcano and decide quickly which of your friends should be the first into the fire. Named for the interior designer of Smuggler’s Cove, Ignacio “Notch” Gonzalez. Serves 4. 
+    glassware: 
+    ingredients:
+    - 4 ounces fresh lime juice
+    - 4 ounces pineapple juice
+    - 1 ounce passion fruit puree
+    - 3 ounces SC Demerara syrup
+    - 1 ounce Luxardo Maraschino liqueur
+    - 4 ounces blended lightly aged rum
+    - 4 ounces blended aged rum
+    - "Garnish: Fire. Otherwise, sliced limes and oranges."
+    steps:
+    - Add all the ingredients in a drink mixer tin without ice and roll (pour back and forth a few times) with another drink mixer tin to combine ingredients. 
+    - Divide the contents in half evenly between the tins. 
+    - Add 12 ounces of crushed ice and 4 to 6 “agitator” cubes to each of the two tins. 
+    - With each tin, flash blend and open pour with gated finish into a four-person ceramic scorpion bowl. 
+    - Serve with 20-inch luau straws for easier sharing. 
+    - Serve on fire!
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - citrus
+    - flame
+    - blended
+  - name: The Naked Ape
+    author: Martin Cate
+    year: 
+    notes: Created in honor of the San Francisco exotica band, Ape, for one of Smuggler’s Cove’s (incredibly) rare concerts.
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lemon juice
+    - ½ ounce SC Cinnamon Syrup
+    - ½ ounce Giffard Banane du Brésil banana liqueur
+    - 1½ ounces black blended rum
+    - ½ ounce pot still lightly aged rum (overproof)
+    - 1 dash Angostura bitters
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a tiki mug or double old-fashioned glass.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - blended
+    - citrus
+  - name: Swizzle Français
+    author: Martin Cate
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lime juice
+    - ½ ounce Martinique sugarcane syrup
+    - ¼ ounce St. Elizabeth Allspice Dram
+    - 2 ounces cane AOC Martinique rhum agricole vieux
+    - Pinch of fresh ground nutmeg
+    - "Garnish: Swizzle napkin wrap and mint sprig"
+    steps:
+    - Combine all the ingredients in a Collins or highball glass and fill the glass three-quarters full with crushed ice. 
+    - Swizzle with a lélé or barspoon. 
+    - Top up with additional crushed ice as needed to fill the glass and garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - swizzle
+    - citrus
+  - name: Sparkling Mai Tai
+    author: Marin Cate
+    year: 2011
+    notes: To save time, you can batch this recipe ahead of time. To serve several people, multiply the ingredient quantities by the number of guests. Combine all the ingredients except the sparkling wine and chill for an hour. When you’re ready to serve, pour 1¾ ounces of the chilled mix into each glass (no need to stir with ice) and top each with 4 ounces of chilled sparkling wine.
+    glassware: 
+    ingredients:
+    - ¼ ounce fresh lime juice
+    - ¼ ounce SC Orgeat
+    - ½ ounce Pierre Ferrand Dry Curaçao
+    - ¼ ounce black blended overproof rum
+    - ½ ounce blended aged rum
+    - 4 ounces chilled sparkling wine
+    - "Garnish: Lime twist and mint leaf"
+    steps:
+    - Pour all the ingredients except the sparking wine into a mixing glass. 
+    - Stir with cracked or cubed ice. 
+    - Strain into a chilled champagne flute or coupe and top with sparkling wine, then garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - stirred
+    - sparkling
+  - name: The Ernesto
+    author: Martin Cate
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - 2 ounces Ting grapefruit soda
+    - 1 ounce fresh lime juice
+    - 1 ounce SC Honey Syrup
+    - ½ ounce natural apricot liqueur (such as Rothman & Winter Apricot Liqueur or Giffard Abricot du Roussillon)
+    - 2 ounces tequila blanco
+    - 1 dash Herbstura
+    - "Garnish: Lime wheel and edible orchid"
+    steps:
+    - Pour the grapefruit soda into a double old-fashioned glass. 
+    - Add the remaining ingredients to a cocktail shaker filled with cracked or cubed ice. 
+    - Shake and strain into the double old-fashioned glass. 
+    - Carefully add cracked or cubed ice to the glass and garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - shaken
+    - citrus
+  - name: The Sexpert
+    author: Martin Cate
+    year: 
+    notes: Created in honor of author Susie Bright's book-release party at Smuggler's Cove. If you are unable to get Burlesque bitters, substitute other fruit bitters.
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lemon juice
+    - ½ ounce SC Passion Fruit Syrup
+    - ½ ounce John D. Taylor’s Velvet Falernum
+    - 1½ ounces Peruvian pisco
+    - ½ ounce gin
+    - 6 drops Bittermens Burlesque bitters
+    - "Garnish: Edible orchid or hibiscus flower"
+    steps:
+    - Combine all the ingredients in a cocktail shaker and fill with cracked or cubed ice. 
+    - Shake and double-strain into a chilled coupe and add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - shaken
+    - citrus
+  - name: Hana Reviver
+    author: Martin Cate
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - 1 ounce fresh lemon juice
+    - 1 ounce SC Passion Fruit Honey
+    - ¼ barspoon li hing mui powder
+    - 2 ounces seltzer
+    - 1 barspoon Maraschino liqueur
+    - 2 ounces pot still unaged rum
+    - "Garnish: Mint sprig and a swizzle stick."
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and then open pour with gated finish into a footed pilsner glass. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - blended
+    - citrus
+  - name: Kaiteur Swizzle
+    author: Martin Cate
+    year: 
+    notes: Names for the breathtaking Kaiteur Falls in Guyana.
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lime juice
+    - ½ ounce Grade A maple syrup
+    - ½ ounce John D. Taylor’s Velvet Falernum
+    - 2 ounces blended aged rum (Guyana)
+    - 2 dashes Angostura bitters
+    - "Garnish: Swizzle napkin wrap and mint sprig"
+    steps:
+    - Add all the ingredients to a Collins or highball glass and fill the glass three-quarters full with crushed ice. 
+    - Swizzle with a lélé or barspoon. 
+    - Top up with additional crushed ice as needed to fill the glass and garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - swizzle
+    - citrus
+  - name: The Expedition
+    author: Martin Cate
+    year: 
+    notes: The journeys of Donn Beach inspired this cocktail. From Donn’s roots in New Orleans, we start with bourbon. As his travels took him to the Caribbean, we add the rum and spices. And as he sets up shop in Southern California, we add the fresh citrus and honey. At the Mai Kai in Fort Lauderdale, Florida, ex–Don the Beachcomber’s bartender Mariano Licudine invented one of his most famous drinks, The Black Magic, which uses coffee and citrus. Inspired by The Black Magic, we add Bittermens New Orleans Coffee liqueur, which brings us full circle to Donn’s original home.
+    glassware: 
+    ingredients:
+    - 1 ounce fresh lime juice
+    - ½ ounce SC Cinnamon Syrup
+    - ½ ounce SC Honey Syrup
+    - ¼ ounce SC Vanilla Syrup
+    - 2 ounces seltzer
+    - ¼ ounce Bittermens New Orleans Coffee Liqueur
+    - 2 ounces black blended rum
+    - 1 ounce bourbon
+    - "Garnish: Edible orchid"
+    steps:
+    - Add all the ingredients to a drink mixer tin with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a mug or glass. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - blended
+    - citrus
+  - name: The Undead Gentleman
+    author: Martin Cate
+    year: 2011
+    notes: This is a Zombie that’s been simplified slightly and served on the stem, for the sophisticated savage.
+    glassware: 
+    ingredients:
+    - 1 dash absinthe blanc
+    - ½ ounce fresh lime juice
+    - ½ ounce fresh grapefruit juice (white or pink)
+    - ½ ounce SC Cinnamon Syrup
+    - ½ ounce John D. Taylor’s Velvet Falernum
+    - 1 ounce black blended overproof rum
+    - 1½ ounces blended aged rum
+    - 1 dash Angostura bitters
+    - "Garnish: Intertwined lime and grapefruit twists"
+    steps:
+    - Rinse a chilled cocktail coupe with absinthe blanc. 
+    - Add the remaining ingredients to a cocktail shaker with cracked or cubed ice. 
+    - Shake and double-strain into the coupe and add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - shaken
+    - citrus
+  - name: The Dead Reckoning
+    author: Martin Cate
+    year: 2007
+    notes: Created for the NW Tiki Crawl (now Tiki Kon) in 2007, this has become one of our most popular drinks and has found its way to a few menus around the country.
+    glassware: 
+    ingredients:
+    - 1 ounce seltzer
+    - 1 ounce fresh lemon juice
+    - 1 ounce pineapple juice
+    - ½ ounce Grade A maple syrup
+    - ½ ounce SC Vanilla Brandy
+    - ½ ounce tawny port
+    - 2 ounces blended aged rum
+    - 1 dash Angostura bitters
+    - "Garnish: Pineapple fronds, mint spring, and lemon spiral"
+    steps:
+    - Add the seltzer to a Collins or highball glass. 
+    - Add the remaining ingredients to a drink mixer tin. 
+    - Add 12 ounces of crushed ice and 4 to 6 “agitator” cubes to the drink mixer tin and flash blend. 
+    - Strain the contents into the glass over the seltzer. 
+    - Carefully fill the glass with cracked or cubed ice and add garnish.
+    - "To make the SC Vanilla Brandy:"
+    - Split an 8-inch vanilla bean lengthwise and cut into three roughly equal pieces. Add the vanilla bean pieces to 1 liter of brandy, reseal the bottle, and let rest at room temperature for two weeks. Remove the beans and discard. Add 2 ounces of SC Demerara syrup to the vanilla-infused brandy and mix well. Store in the original brandy bottle for up to 1 year.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - blended
+    - citrus
+  - name: Falinum
+    author: Martin Cate
+    year: 
+    notes: Created for my old pal Falin Minoru, artist and proprietor of Tiki Kaimuki Fine Boozing Vessels, tiki mugs made in Oakland, California.
+    glassware: 
+    ingredients:
+    - 1 ounce fresh lemon juice
+    - 1 ounce SC Coconut Cream
+    - 1 ounce seltzer
+    - ½ ounce John D. Taylor’s Velvet Falernum
+    - 2 ounces column still aged rum
+    - 1 dash orange bitters
+    steps:
+    - Combine all the ingredients in a drink mixer tin and fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a mug or double old-fashioned glass.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - blended
+    - citrus
+  - name: Humuhumunukunukuapua'a
+    author: Marcovaldo Dionysos
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lemon juice
+    - ¾ ounce pineapple juice
+    - ½ ounce SC Orgeat
+    - 2 ounces gin
+    - 2 dashes Peychaud’s bitters
+    - "Garnish: Edible orchid and maraschino cherries on a cocktail pick"
+    steps:
+    - Add all the ingredients to a cocktail shaker and fill with crushed ice. Shake and open pour into a double old-fashioned glass. Garnish with an edible orchid and maraschino cherries.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - shaken
+    - citrus
+  - name: Lauwiliwilinukunuku'oi'oi
+    author: 
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lemon juice
+    - ¾ ounce pineapple juice
+    - ½ ounce SC Orgeat
+    - 2 ounces blended aged rum
+    - 2 dashes Peychaud’s bitters
+    - "Garnish: Edible orchid and maraschino cherries on a cocktail pick"
+    steps:
+    - Add all the ingredients to a cocktail shaker and fill with crushed ice. Shake and open pour into a double old-fashioned glass. Garnish with an edible orchid and maraschino cherries.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - shaken
+    - citrus
+  - name: Finkelgrog
+    author: Martin Cate
+    year: 
+    notes: Created for Mai Kai Gents lead singer Judd Finkelstein for his home bar, the Wiki Wiki Grog Shop. Judd’s day job as one of the top winemakers in Napa County inspired the ingredients.
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lime juice
+    - ½ ounce fresh grapefruit juice
+    - ¼ ounce SC Orgeat
+    - ½ ounce Napa Wine Syrup (see Note, following)
+    - ½ ounce Licor 43
+    - 1 ounce blended lightly aged rum
+    - 1 ounce black blended rum
+    - 1 ounce seltzer
+    - Pinch of freshly ground cinnamon
+    - "Garnish: Zesty conversation"
+    steps:
+    - Combine all the ingredients in a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a double old-fashioned glass.
+    - To make the Napa Wine Syrup, place 16 ounces Napa Valley Cabernet Sauvignon in a small saucepan and simmer over medium-low heat until the wine has been reduced by half, about 25 minutes. Add 1 cup of granulated sugar and stir until the sugar has dissolved (about 1 minute). Remove from the heat. Let cool and store in a sealed bottle in the refrigerator for up to three months.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - blended
+    - citrus
+  - name: For Pete’s Sake
+    author: Martin Cate
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lime juice
+    - ½ ounce SC Demerara syrup
+    - ½ ounce SC Hibiscus Liqueur
+    - ½ ounce Cherry Heering
+    - 1½ ounces Peruvian pisco
+    - 1 dash Angostura bitters
+    - "Garnish: Maraschino cherry inserted into an edible hibiscus flower speared on a 6-inch black cocktail pick or short swizzle stick"
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and then open pour with gated finish into a double old-fashioned glass. 
+    - Set the cherry-hibiscus garnish across the rim of the glass.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: curating the experience"
+    - tiki
+    - blended
+    - citrus
+
+#Rum Through the Ages
+  - name: Arrack Punch
+    author: 
+    year: 
+    notes: Serves 4.
+    glassware: 
+    ingredients:
+    - 2 ounces fresh lemon juice
+    - 2 ounces fresh lime juice
+    - 3 ounces SC Demerara syrup
+    - 6 ounces Batavia arrack
+    - 2 ounces pot still lightly aged rum (overproof)
+    - 6 ounces Carbonated Chai Tea (see Note, following)
+    - "Garnish: A few slices of lemons and limes"
+    steps:
+    - Add all the ingredients to a drink mixer tin and roll (pour back and forth a few times) with another drink mixer tin to combine the ingredients. 
+    - Divide the contents evenly between the two tins. 
+    - Add 12 ounces of crushed ice and 4 to 6 “agitator” cubes to each of the two tins. 
+    - With each tin, flash blend and open pour with gated finish into the serving bowl. 
+    - Float a few lemon and lime slices on the punch for garnish.
+    - "Note: To make the Carbonated Chai Tea, steep 1 teaspoon chai leaves in 1 cup water for 5 minutes."
+    - Strain, then carbonate with a home soda maker.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - punch
+    - citrus
+    - sparkling
+  - name: El Draque
+    author: 
+    year: 
+    notes: Named for famous “local” privateer Sir Francis Drake, this was the great-great (x 14) grandfather of the mojito. Originally a slurry, room-temperature mess, we’ve refined its fiery character with aged cachaça, Demerara sugar, fresh lime, and mint.
+    glassware: 
+    ingredients:
+    - 5 fresh mint leaves
+    - ¾ ounce SC Demerara syrup
+    - ¾ ounce fresh lime juice
+    - 2 ounces pot still aged cachaça
+    - "Garnish: Lime wheel with sword cocktail pick"
+    steps:
+    - Muddle the mint with the syrup and lime juice in a cocktail shaker. 
+    - Add the cachaça and cubed or cracked ice. 
+    - Shake and double-strain into a chilled coupe. 
+    - Garnish with a lime wheel speared on a pirate sword cocktail pick.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - shaken
+    - citrus
+  - name: Grog
+    author: 
+    year: 
+    notes: To be a sailor in the British Royal Navy in the 1700s was not what anyone would call a life of leisure, but at least there was the daily rum ration to look forward to, even if it was diluted with brackish water. In 1740, Admiral Edward “Old Grogram” Vernon told his sailors they could exchange their salt and bread for limes and sugar and, not being fools, they perhaps became the first to see the wisdom in forsaking food for a good cocktail. And so Grog was born.
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lime juice
+    - ½ ounce SC Demerara syrup
+    - 2 ounces rum (see Note, following)
+    steps:
+    - Add the ingredients to a cocktail shaker filled with cracked or cubed ice. Shake and strain into an ice-filled old-fashioned glass.
+    - "Note: If you want to truly mimic a grog from the 1700s, use a pot still unaged rum or a black pot still rum. (And skip the ice. And the clean glass. And maybe add some brackish water. Maybe not.) If you’re looking for a nineteenth-century–style grog, try a black blended rum. For a more refined grog, as we serve at Smuggler’s Cove, choose a blended aged rum."
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - shaken
+    - citrus
+  - name: Rum Flip
+    author: 
+    year: 
+    notes: The original tavern flip of rum and beer gradually evolved. Egg was added, and then beer dropped altogether from the mix. A lovely drink to finish off the night, but don’t let us tell you when to enjoy it.
+    glassware: 
+    ingredients:
+    - 1 medium egg
+    - ¼ ounce SC Demerara syrup
+    - 2 ounces blended aged rum
+    - "Garnish: Freshly grated nutmeg"
+    steps:
+    - Add the ingredients to drink mixer tin and dry flash without ice for 10 seconds. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and double-strain into a chilled coupe glass. 
+    - Top with freshly grated nutmeg.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - blended
+  - name: Bombo
+    author: 
+    year: 
+    notes: "From discriminating pirates aboard ship, to the electorate of colonial Virginia who found themselves plied with the stuff courtesy of a young George Washington during his campaign bid for the House of Burgesses, Bombo was enjoyed for hundreds of years. As cocktail historian David Wondrich says, “[Bombo] is a simple drink in the same way a tripod is a simple device: Remove one leg and it cannot stand, set it up properly and it will hold the whole weight of the world.” Ours is a kind of proto-old-fashioned, made with Demerara Syrup for a more refined molasses flavor."
+    glassware: 
+    ingredients:
+    - ¼ ounce SC Demerara syrup
+    - 2 ounces blended aged rum
+    - "Garnish: Freshly grated nutmeg"
+    steps:
+    - Stir the rum and syrup in a mixing glass and strain into an ice-filled old-fashioned glass. 
+    - Top with grated nutmeg.
+    - "Note: At Smuggler’s Cove, the house style is to use a blended aged rum in this recipe. However, for a closer historical approximation of colonial-era drinks, you may wish to choose a pot still unaged rum or pot still lightly aged rum. Those produced today in New England especially mimic the rums of the day, albeit with much improved quality!"
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - stirred
+    - old-fashioned
+  - name: Calibogus
+    author: 
+    year: 
+    notes: Popular in colonial taverns in both the United States and Canada, Calibogus was traditionally a heady mixture of spruce beer, molasses, and rum.
+    glassware: 
+    ingredients:
+    - 3 ounces seltzer
+    - ¼ ounce fresh lime juice
+    - ¾ ounce SC Molasses Syrup
+    - 1 drop spruce beer soda extract
+    - ¾ ounce Zirbenz Stone Pine liqueur
+    - 1¼ ounce blended aged rum
+    - "Garnish: Swizzle stick"
+    steps:
+    - Add the seltzer to the bottom of a Collins or highball glass. 
+    - Add the remaining ingredients to a cocktail shaker and shake with cracked or cubed ice. 
+    - Strain into the glass and carefully add cracked or cubed ice and garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - shaken
+    - citrus
+  - name: Mary Pickford
+    author: 
+    year: 
+    notes: Created to honor Mary Pickford, the legendary actress and founder of United Artists, while she was shooting a film in Cuba, this cocktail was a staple of Cuban bars and nightclubs serving thirsty Americans. The Smuggler’s Cove house style for the Prohibition-era cocktails is to use a blended lightly aged rum for more body and to mimic the less- efficient distillation methods of the day. Alternatively, you may wish to use a column still lightly aged rum, but we suggest using one with a slightly higher proof to maintain an era-appropriate “pop.”
+    glassware: 
+    ingredients:
+    - 1½ ounces pineapple juice
+    - 1 barspoon SC Grenadine
+    - 6 drops Luxardo Maraschino liqueur
+    - 1½ ounces blended lightly aged rum
+    steps:
+    - Add all the ingredients to a cocktail shaker. 
+    - Add cracked or cubed ice, shake, and then double-strain into a chilled coupe.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - shaken
+    - citrus
+  - name: Daiquiri No. 1
+    author: 
+    year: 
+    notes: The most elegant, simple, and famous of all Cuban cocktails, the Daiquiri and its variants were set in stone by legendary barman Constante Ribalaigua of the famous Floridita bar in Havana.
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lime juice
+    - ½ ounce SC Demerara syrup
+    - 2 ounces blended lightly aged rum
+    steps:
+    - Add all the ingredients to a cocktail shaker. 
+    - Add cracked or cubed ice, shake, and then double-strain into a chilled coupe.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - shaken
+    - citrus
+    - daiquiri
+  - name: Hotel Nacional Special
+    author: 
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - 3 or 4 (1-inch-square) pineapple chunks
+    - ¾ ounce fresh lime juice
+    - ½ ounce SC Demerara syrup
+    - ½ ounce natural apricot liqueur (such as Rothman & Winter Apricot Liqueur or Giffard Abricot du Roussillon)
+    - 1½ ounces blended lightly aged rum
+    steps:
+    - In cocktail shaker, muddle the pineapple chunks with the lime juice and syrup. 
+    - Add the apricot liqueur and the rum, then fill with cracked or cubed ice. 
+    - Shake and double-strain into a chilled coupe.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - shaken
+    - citrus
+  - name: Daisy de Santiago
+    author: 
+    year: 
+    notes: A “lovely thing, indeed” and one of food and cocktail writer Charles H. Baker’s favorite drinks from his travels through Cuba.
+    glassware: 
+    ingredients:
+    - 1 ounce fresh lime juice
+    - 1½ teaspoon SC Demerara syrup
+    - 1 ounce seltzer
+    - ½ ounce Yellow Chartreuse
+    - 1½ ounces blended lightly aged rum
+    - "Garnish: Mint sprig"
+    steps:
+    - Add all the ingredients to a cocktail shaker. 
+    - Add cracked or cubed ice. 
+    - Shake and strain into a double old-fashioned glass filled with crushed ice. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - shaken
+    - citrus
+  - name: El Presidente
+    author: 
+    year: 
+    notes: This drink honors a Cuban president, but there are differing accounts as to exactly which one it was. Yet he must have been a good one to get his name on a drink this tasty. A sadly forgotten classic, it’s described by author Wayne Curtis as “part tropical treat, part sophisticated lounge drink, and wholly Cuban.”
+    glassware: 
+    ingredients:
+    - ½ teaspoon SC Grenadine
+    - ¾ ounce dry vermouth
+    - ½ ounce Pierre Ferrand Dry Curaçao
+    - 1½ ounces blended lightly aged rum
+    steps:
+    - Add all the ingredients to a cocktail shaker. 
+    - Add cracked or cubed ice, shake, and then double-strain into a chilled coupe.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - shaken
+  - name: Twelve Mile Limit
+    author: Tommy Millard
+    year: 
+    notes: Sailing beyond the U.S. government’s Prohibition-era reach of 12 miles off-shore to load up on hooch is certainly a great inspiration for a drink name. This heady combination of rum, rye, and brandy shows that rum plays well with others. Though not a Cuban drink, it certainly belongs to the era and the theme.
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lemon juice
+    - ½ ounce SC Grenadine
+    - 1 ounce blended lightly aged rum
+    - ½ ounce rye
+    - ½ ounce brandy
+    - "Garnish: Lemon twist"
+    steps:
+    - Add all the ingredients to a cocktail shaker. 
+    - Add cracked or cubed ice, shake, and then double-strain into a chilled coupe.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - shaken
+    - citrus
+  - name: Parisian Blonde
+    author: Erik Ellestad
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - 1 ounce Pierre Ferrand Dry Curaçao
+    - 1 ounce blended aged rum
+    - 1 ounce sweet cream (see Note, following)
+    - "Garnish: Freshly grated cinnamon"
+    steps:
+    - In a mixing glass, stir together the curaçao and rum with cracked or cubed ice. Strain into a chilled coupe. Carefully pour the sweet cream over the back of a spoon to float on top. Garnish with freshly grated cinnamon.
+    - "Note: To make the sweet cream, in a drink mixer, blend 6 ounces of heavy whipping cream with 1 ounce of SC Demerara syrup until slightly thickened but still pourable (a few seconds)."
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - stirred
+  - name: Cora Middleton
+    author: 
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - 2 teaspoons egg white
+    - 2 ounces blended aged rum
+    - ¾ ounce fresh lime juice
+    - ¼ ounce SC Demerara syrup
+    - ½ ounce Small Hand Foods Raspberry Gum Syrup
+    - "Garnish: 1 dash Angostura bitters"
+    steps:
+    - Combine the egg white and rum in a drink mixer tin and dry flash without ice for 10 seconds. 
+    - Transfer contents to a cocktail shaker and add and the remaining ingredients, then shake with cracked or cubed ice. 
+    - Double-strain into a chilled coupe. 
+    - Drop 1 dash of bitters on top of the surface of the drink for garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - shaken
+    - citrus
+  - name: Millionaire Cocktail (No. 1)
+    author: 
+    year: 
+    notes: A larger than life drink from The Savoy Cocktail Book.
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lime juice
+    - 1 dash SC Grenadine
+    - ¾ ounce natural apricot liqueur (such as Rothman & Winter Apricot Liqueur or Giffard Abricot du Roussillon)
+    - ¾ ounce black pot still rum or blended aged rum
+    - ¾ ounce sloe gin
+    - "Garnish: Lime wheel"
+    steps:
+    - Add all the ingredients to a cocktail shaker with cracked or cubed ice. 
+    - Shake and double-strain into a chilled coupe. 
+    - Garnish with a lime wheel.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - shaken
+    - citrus
+  - name: Batida de Maracujá e Coco
+    author: 
+    year: 
+    notes: A national treasure in Brazil, batida is Portuguese for “shaken” or “milk shake” and is a sweet and creamy blend of cachaça, condensed milk, and your choice of either coconut milk (Batida de Coco), passion fruit nectar (Batida de Maracujá), or both (Batida de Maracujá e Coco).
+    glassware: 
+    ingredients:
+    - ¾ ounce passion fruit puree
+    - 2 ounces coconut milk
+    - 1 ounce pot still aged cachaça
+    - 1 ounce sweetened condensed milk
+    - "Garnish: Mint sprig"
+    steps:
+    - Add the passion fruit puree, coconut milk, and cachaça to a drink mixer tin. 
+    - Add 6 ounces of crushed ice, and then the condensed milk (if you put condensed milk in first, it can get too cold and stick to the tin before integrating). 
+    - Flash blend and open pour with gated finish into an old-fashioned glass.
+    - "Note: if you want to leave out the coconut for a “Batida de Maracujá,” then increase the passion fruit puree to 1 ounce."
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - blended
+  - name: Wray & Ting
+    author: 
+    year: 
+    notes: A delicious Jamaican staple, simple and refreshing. Pot still Jamaican overproof rum is finely balanced with crisp, refreshing Ting grapefruit soda from Jamaica, and a squeeze of lime.
+    glassware: 
+    ingredients:
+    - 1½ ounces Wray & Nephew White Overproof Rum
+    - 4 ounces Ting grapefruit soda
+    - "Garnish: Lime wedge"
+    steps:
+    - Fill a Collins or highball glass with cracked or cubed ice. 
+    - Add the rum. 
+    - Top with grapefruit soda and stir. 
+    - Squeeze a lime wedge and drop in.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - stirred
+    - citrus
+  - name: Hibiscus Rum Punch
+    author: 
+    year: 
+    notes: "A lovely and delicious twist on a Jamaican Christmas tradition. Fun marketing fact: This drink was originally called a Sorrel Rum Punch on our menu, as hibiscus is called sorrel in the Caribbean. Customers didn’t know what sorrel was, and so no one ordered the drink. We changed the name to Hibiscus Rum Punch and sales tripled. There is an art to menu copy, and I won’t pretend to have mastered it."
+    glassware: 
+    ingredients:
+    - 2 ounces seltzer
+    - ½ ounce fresh lime juice
+    - 1 ounce SC Hibiscus Liqueur
+    - ⅓ ounce SC Demerara syrup
+    - 1½ ounces blended aged rum (Jamaica)
+    - "Garnish: Edible hibiscus flower on a plastic pick or lime wheel"
+    steps:
+    - Add the seltzer to a Collins or highball glass. Add the remaining ingredients to a cocktail shaker. Fill with cracked or cubed ice. Shake and double-strain into the glass. Carefully add cracked or cubed ice to the glass and garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - shaken
+    - citrus
+  - name: Ti’ Punch / Ti’ Punch Vieux
+    author: 
+    year: 
+    notes: The beautiful and traditional way to enjoy a Martinique rhum agricole is like this, with just a hint of lime and Martinique cane sugar. In Martinique, you are frequently given all of the ingredients to make the drink yourself, including a full bottle of rhum. (Since they only give you one slice of lime, there’s no chance you’ll tear through the whole bottle. Also, they assume you’re a decent person.) This tradition is referred to with the phrase, “chacun prépare sa propre mort” which, roughly translated, means “each prepares his own death.”
+    glassware: 
+    ingredients:
+    - 1 teaspoon Martinique sugarcane syrup
+    - 2 ounces cane AOC Martinique rhum agricole blanc (substitute an élevé sous bois, or rhum vieux  for a Ti’ Punch Vieux)
+    - 1 small rounded chunk of fresh lime (cut from the side of the lime, approximately the size of a quarter, with some pulp attached)
+    steps:
+    - In an old-fashioned glass, add the sugarcane syrup and rhum. 
+    - Swizzle with a barspoon or lélé. 
+    - Squeeze the lime round over the drink and drop it into the glass. (The squeeze should yield 6 to 10 drops of lime  juice.)
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - swizzle
+    - citrus
+  - name: Barbados Rum Punch
+    author: 
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - 1 ounce fresh lime juice
+    - 1 ounce SC Demerara syrup
+    - 2 ounces blended aged rum (Barbados)
+    - 1 dash Angostura bitters
+    - "Garnish: Freshly grated nutmeg"
+    steps:
+    - Fill a footed pilsner with cubed or cracked ice. 
+    - Add all the ingredients to a cocktail shaker. 
+    - Fill with cubed or cracked ice. 
+    - Shake and strain into the glass. 
+    - Top with grated nutmeg.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - shaken
+    - citrus
+  - name: Jamaican Milk Punch
+    author: 
+    year: 
+    notes: This drink was described in 1873 in The Brooklyn Daily Eagle as “the surest thing in the world to get drunk on, and so fearfully drunk, that you won’t know whether you are a cow, yourself, or some other foolish thing.”
+    glassware: 
+    ingredients:
+    - 1 ounce whole milk
+    - 1 ounce heavy whipping cream
+    - ½ ounce SC Demerara syrup
+    - 1 ounce black blended rum (Jamaica)
+    - 6 drops vanilla extract
+    - 1 dash Angostura bitters
+    - "Garnish: Freshly grated nutmeg"
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 “agitator cubes.” 
+    - Flash blend and open pour with gated finish into a double old-fashioned glass. 
+    - Top with grated nutmeg.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - blended
+  - name: Corn and Oil
+    author: 
+    year: 
+    notes: Old Barbadians confirmed a preference for crushed ice. And please—use Barbados rum.
+    glassware: 
+    ingredients:
+    - ½ ounce John D. Taylor’s Velvet Falernum
+    - 2 ounces blended aged rum (Barbados)
+    - 2 to 4 dashes Angostura bitters
+    steps:
+    - Add all the ingredients to an old-fashioned glass and fill with crushed ice. 
+    - Stir to combine until frost forms on the outside of the glass.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - swizzle
+  - name: Queen's Park Swizzle
+    author: 
+    year: 
+    notes: Named after the green oasis in the heart of Trinidad’s Port of Spain, Trader Vic described this drink, created at the Queen’s Park Hotel, as “the most delightful form of anesthesia given out today.” Rum was not produced on a large scale in Trinidad until after World War II, so despite the drink’s Trinidad origins, we suggest a black blended rum, the likely choice when the drink was created. We also believe that even though the bitters look pretty when floated on top, the drink tastes much better when they are swizzled with the rest of the ingredients. 
+    glassware: 
+    ingredients:
+    - 4 mint leaves
+    - ½ ounce fresh lime juice
+    - ½ ounce SC Demerara syrup
+    - 2 ounces black blended rum
+    - 2 dashes Angostura bitters
+    - "Garnish: Swizzle napkin wrap and mint sprig"
+    steps:
+    - Gently muddle the mint leaves with the lime juice and syrup in a Collins or highball glass. 
+    - Add the rum and bitters. 
+    - Add crushed ice until the glass is three-quarters full, then use a barspoon or lélé to swizzle. 
+    - Top up with additional crushed ice as needed to fill the glass. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: rum through the ages"
+    - tiki
+    - swizzle
+    - citrus
+
+#Understanding Rum
+  - name: The Chadburn
+    author: Martin Cate
+    year: 
+    notes: If you’re looking for a change of speed, give this combination a try. The Chadburn (named for the Chadburn telegraph) is quite sweet and makes a fine after-dinner drink. But it’s easily converted to a more preprandial version by decreasing the amount of port and pear liqueur to ¼ ounce each.
+    glassware: 
+    ingredients:
+    - ½ ounce tawny port
+    - ½ ounce natural pear liqueur (such as Mathilde Poire)
+    - 2 ounces blended aged rum
+    - 6 drops Bittermens Xocolatl (Chocolate) Mole bitters
+    steps:
+    - Add all the ingredients to a mixing glass. 
+    - Fill with cracked or cubed ice. 
+    - Stir and strain into a chilled coupe.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: understanding rum"
+    - tiki
+    - stirred
+  - name: A Wish for Grace
+    author: Steven Liles
+    year: 2014
+    notes: Created for the celebratory event at the Smithsonian, Washington, D.C., in honor of the two hundredth anniversary of “The Star-Spangled Banner.” Our own Steven Liles could be found there serving his delicious concoction. It is for this reason we recommend a rum in the style of a traditional New England rum.
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lemon juice
+    - ½ ounce 2:1 Simple Syrup
+    - ½ ounce Pierre Ferrand Dry Curaçao
+    - 1½ ounces pot still lightly aged rum (New England)
+    - ¾ ounce Blandy’s 5 Year Verdelho Madeira
+    - 1 dash Angostura bitters
+    - "Garnish: Lemon twist"
+    steps:
+    - Add all the ingredients to a cocktail shaker filled with cracked or cubed ice. 
+    - Shake and strain into a chilled coupe and garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: understanding rum"
+    - tiki
+    - shaken
+    - citrus
+  - name: Hot Buttered Rum
+    author: 
+    year: 
+    notes: The most famous way to ward off the chill of a cold night, a hot spiced rum appeared in the 1862 Jerry Thomas Bartender’s Guide.
+    glassware: 
+    ingredients:
+    - 3 barspoons SC Hot Buttered Rum Batter
+    - 1½ ounces blended aged rum
+    - 6 ounces hot water
+    - "Garnish: Cinnamon stick"
+    steps:
+    - Add the batter and rum to the mug. 
+    - Top with hot water and stir well. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: understanding rum"
+    - tiki
+    - stirred
+    - heated
+  - name: Wilford Brimley
+    author: Dane Barca
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - 2 barspoons SC Hot Buttered Rum Batter
+    - 1 ounce SC Coconut Cream
+    - 1 ounce black blended overpoof rum
+    - 6 ounce hot water
+    - "Garnish: 1 ounce sweet cream and grated nutmeg"
+    steps:
+    - Add the batter, coconut cream, and rum to the mug. 
+    - Top with hot water and stir well. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: understanding rum"
+    - tiki
+    - stirred
+    - heated
+  - name: Abricot Vieux
+    author: Martin Cate
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - ½ ounce natural apricot liqueur (such as Rothman & Winter Apricot Liqueur or Giffard Abricot du Roussillon)
+    - 2 ounces cane AOC Martinique rhum agricole vieux
+    - 1 dash Angostura bitters
+    - 1 dash orange bitters
+    - "Garnish: Orange twist, discarded"
+    steps:
+    - Combine all the ingredients in a mixing glass filled with cracked or cubed ice and stir. 
+    - Strain into a chilled coupe. 
+    - Express orange peel oil over the drink and discard the peel.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: understanding rum"
+    - tiki
+    - stirred
+  - name: Paniolo Old-Fashioned
+    author: Martin Cate
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - 1 teaspoon Li Hing Mui Syrup
+    - 2 ounces blended aged rum
+    - 1 dash Angostura bitters
+    - "Garnish: Orange peel"
+    steps:
+    - Add all the ingredients to a mixing glass filled with cracked or cubed ice and stir. 
+    - Strain into an old-fashioned glass over a large single ice cube or ice ball. 
+    - Express oil from the orange peel over the drink and drop the peel into the drink.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: understanding rum"
+    - tiki
+    - stirred
+    - old-fashioned
+  - name: Port Royal
+    author: Martin Cate
+    year: 
+    notes: Savory, food-based spice blends can add a surprising complexity to cocktails, and Jamaica’s treasured jerk seasoning certainly has fun with its fellow countryman Wray & Nephew Overproof rum.
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lime juice
+    - ¾ ounce SC Jerk Syrup
+    - 1½ ounces blended lightly aged rum
+    - ½ ounce Wray & Nephew white overproof rum
+    - 5 drops SC Hellfire Tincture
+    steps:
+    - Add all the ingredients to a cocktail shaker. 
+    - Add cracked or cubed ice and shake. 
+    - Double-strain into a chilled coupe. 
+    - Top with five spread-out drops of Hellfire Tincture on the surface of the cocktail.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: understanding rum"
+    - tiki
+    - shaken
+    - citrus
+  - name: Kingston Palaka
+    author: Martin Cate
+    year: 
+    notes: A rummy riff on a contest-winning cocktail from a long time ago.
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lemon juice
+    - ⅛ teaspoon li hing mui powder
+    - 1 ounce Drambuie
+    - 1½ ounces blended aged rum (Jamaica)
+    - "Garnish: Lemon peel"
+    steps:
+    - Combine all the ingredients in a cocktail shaker. 
+    - Shake and strain into a chilled coupe and add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: understanding rum"
+    - tiki
+    - shaken
+    - citrus
+  - name: Donn Day Afternoon
+    author: Martin Cate
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lime juice
+    - ½ ounce SC Cinnamon Syrup
+    - 4 ounces chilled Stiegl-Radler Grapefruit Beer
+    - 2 ounces cane AOC Martinique rhum agricole blanc
+    - "Garnish: Grapefruit peel"
+    steps:
+    - Add all the ingredients to a double old-fashioned glass. 
+    - Gently add cracked or cubed ice and stir. 
+    - Express oil from the grapefruit peel and then drop the peel into the drink.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: understanding rum"
+    - tiki
+    - stirred
+    - beer
+  - name: Baie du Galion
+    author: Martin Cate
+    year: 
+    notes: Named for the beautiful waters on the leeward side of  Martinique, this cocktail uses cane AOC Martinique rhum agricole in a contemporary stirred cocktail where all the ingredients have grassy or herbaceous notes. Another reminder that rhum agricole is not limited to the Ti’ Punch.
+    glassware: 
+    ingredients:
+    - ½ ounce Green Chartreuse
+    - ¼ ounce Drambuie
+    - 2 ounces cane AOC Martinique rhum agricole blanc
+    - "Garnish: Lemon twist"
+    steps:
+    - Add all the ingredients to a mixing glass. 
+    - Fill with cracked or cubed ice. 
+    - Stir and strain into a chilled coupe. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: understanding rum"
+    - tiki
+    - stirred
+  - name: Agricole Guava Cooler
+    author: Martin Cate
+    year: 
+    notes: Inspired by the spices and flavors found in the farmers’ market of the capital city of Martinique, Fort-de-France, this refreshing cooler mixes tropical fruit, Caribbean spices, and cane AOC Martinique rhum agricole.
+    glassware: 
+    ingredients:
+    - 2 ounces Bundaberg guava soda
+    - ¾ ounce fresh lime juice
+    - ¾ ounce Licor 43 spiced liqueur
+    - 2 ounces cane AOC Martinique rhum agricole blanc
+    - 2 dashes Angostura bitters
+    - "Garnish: Mint sprig, cinnamon stick, and lime wheel"
+    steps:
+    - Add the guava soda to a Collins or highball glass, then add the remaining ingredients to a cocktail shaker with cracked or cubed ice. 
+    - Shake and strain into the glass. 
+    - Gently add cracked or cubed ice to fill the glass, then add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: understanding rum"
+    - tiki
+    - shaken
+    - citrus
+  - name: Richard Sealebach
+    author: Rebecca Cate
+    year: 
+    notes: Named for Richard Seale, distiller and owner of Foursquare Distillery in Barbados.
+    glassware: 
+    ingredients:
+    - ½ ounce Pierre Ferrand Dry Curaçao
+    - 1 ounce R. L. Seale 10 Year rum
+    - 7 dashes Angostura bitters
+    - 7 dashes Peychaud’s bitters
+    - 4 ounces chilled champagne
+    - "Garnish: Lemon twist"
+    steps:
+    - Combine all the ingredients except the champagne in a mixing glass filled with cracked or cubed ice. 
+    - Stir and strain into a champagne flute and top with chilled champagne. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: understanding rum"
+    - tiki
+    - stirred
+    - sparkling
+  - name: "Cosa Nostra #2"
+    author: Dane Barca 
+    year: 
+    notes: Per Dane, “Polite yet deadly.”
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lemon juice
+    - 1½ ounces Amaro Averna
+    - 1 ounce blended lightly aged rum
+    - 1 dash Angostura bitters
+    - 2 ounces real ginger ale
+    - "Garnish: Lemon twist and swizzle stick"
+    steps:
+    - Add all the ingredients except the ginger ale to a footed pilsner glass. 
+    - Add cracked or cubed ice. 
+    - Top with ginger ale and stir very gently to combine, then add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: understanding rum"
+    - tiki
+    - stirred
+    - citrus
+  - name: Spontaneous Rumbustion
+    author: Dane Barca
+    year: 
+    notes: A rummy hot toddy by way of a Blue Blazer.
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lemon juice
+    - ½ ounce SC Honey Syrup
+    - 1½ ounces black blended overproof rum
+    - ½ ounce pot still lightly aged rum (overproof)
+    - 4 ounces boiling water
+    - "Garnish: Long lemon peel"
+    steps:
+    - Combine the lemon juice and honey in an Irish coffee glass. Add both rums to a Blue Blazer mug. 
+    - Add the boiling water. 
+    - Use a lighter to ignite the liquid and pass that flaming liquid back and forth from one Blue Blazer mug to a second Blue Blazer mug for a few seconds. 
+    - When the flame turns orange, immediately pour the flaming contents of Blue Blazer mug into the Irish coffee glass and put out the flame by placing mug on top of the glass. 
+    - Garnish with and express a sizable lemon peel long enough to rest on top of the Irish coffee glass.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: understanding rum"
+    - tiki
+    - flame
+    - heated
+    - citrus
+
+#The Theater of the Exotic Cocktail
+  - name: Boo Loo
+    author: 
+    year: 1965
+    notes: Served in a hollowed-out pineapple with the core removed. Serves two.
+    glassware: 
+    ingredients:
+    - 6 (1-inch-square) chunks fresh pineapple
+    - 2½ ounces pineapple juice
+    - 1½ ounces fresh lime juice
+    - 1¼ ounces SC Honey Syrup
+    - 1½ ounces blended aged rum
+    - 1½ ounces column still aged rum
+    - ¾ ounce black blended rum
+    - ¾ ounce black blended overproof rum
+    - 1½ ounces seltzer
+    - "Garnish: Pineapple lid with two straw holes"
+    steps:
+    - Add the pineapple chunks, pineapple juice, and lime juice to a drink mixer tin and muddle. 
+    - Add the syrup, the four rums, and the seltzer with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a hollowed-out pineapple that has the core removed. 
+    - Replace the lid and add two straws.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the theater of the exotic cocktail"
+    - tiki
+    - citrus
+    - blended
+    - novel
+  - name: Caribeño
+    author: 
+    year: 
+    notes: Served in a drained coconut shell. Long, tall, and refreshing, with coconut water, lime, and your choice of rum or gin (both are traditional choices in the Caribbean).
+    glassware: 
+    ingredients:
+    - 4 ounces coconut water
+    - ¼ ounce SC Demerara syrup
+    - 2 ounces column still lightly aged rum or London dry gin
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator cubes.” 
+    - Flash blend and strain into a coconut shell filled with cracked or cubed ice.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the theater of the exotic cocktail"
+    - tiki
+    - novel
+    - blended
+  - name: Monk's Respite
+    author: Steven Liles
+    year: 
+    notes: Served in a drained young coconut shell.
+    glassware: 
+    ingredients:
+    - 3 ounces fresh coconut water
+    - ½ ounce fresh lemon juice
+    - ¼ ounce SC Honey Syrup
+    - ¼ ounce Yellow Chartreuse
+    - 1½ ounces Broker’s gin
+    - 1 ounce seltzer
+    - 1 dash orange bitters
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour with gated finish into the empty coconut shell.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the theater of the exotic cocktail"
+    - tiki
+    - blended
+    - citrus
+    - novel
+  - name: The Mastadon
+    author: Alex Smith
+    year: 
+    notes: Served in a hollowed-out pineapple.
+    glassware: 
+    ingredients:
+    - 3 ounces pineapple juice
+    - ½ ounce fresh lime juice
+    - 1 ounce passion fruit puree
+    - ½ ounce Licor 43
+    - ½ ounce Maraschino liqueur
+    - 1½ ounces blended aged rum
+    - 1½ ounces bourbon
+    - 2 dashes Peychaud’s bitters
+    - "Garnish: Pineapple lid with a straw hole cut out or Mermaid Island"
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour into a hollowed-out pineapple and add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the theater of the exotic cocktail"
+    - tiki
+    - blended
+    - citrus
+    - novel
+  - name: Piñata
+    author: Marcovaldo Dionysos
+    year: 
+    notes: Served in a hollowed-out pineapple. The amount of SC Demerara Syrup varies depending on the sweetness of the ginger liqueur used. Adjust to taste.
+    glassware: 
+    ingredients:
+    - 3 ounces pineapple juice
+    - 1 ounce fresh lemon juice
+    - ¼ to ½ ounce SC Demerara syrup
+    - 1 ounce ginger liqueur
+    - ½ ounce St. Elizabeth Allspice Dram
+    - 1 ounce black blended rum
+    - 1 ounce blended lightly aged rum
+    - "Garnish: Freshly grated nutmeg"
+    steps:
+    - Add all the ingredients to a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour into a hollowed-out pineapple. 
+    - Garnish with freshly grated nutmeg.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the theater of the exotic cocktail"
+    - tiki
+    - blended
+    - citrus
+    - novel
+  - name: Bumboat
+    author: Justin Oliver
+    year: 
+    notes: Served in a hollowed-out pineapple.
+    glassware: 
+    ingredients:
+    - 2 ounces pineapple juice
+    - 1½ ounces fresh lemon juice
+    - ¾ ounce SC Cinnamon Syrup
+    - 1 ounce rye
+    - 1 ounce blended lightly aged rum
+    - 3 drops almond extract
+    - 6 drops Bittermens 'Elemakule Tiki bitters
+    - ¾ ounce black blended overproof rum
+    - "Garnish: A pineapple lid with a straw hole cut out or Mermaid Island"
+    steps:
+    - Combine all the ingredients except the overproof rum in a drink mixer tin. 
+    - Fill with 12 ounces of crushed ice and 4 to 6 small “agitator cubes.” 
+    - Flash blend and then open pour with gated finish into the hollowed-out pineapple. 
+    - Float the overproof rum by gently pouring on top of the drink. 
+    - Add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the theater of the exotic cocktail"
+    - tiki
+    - novel
+    - blended
+    - citrus
+
+#Eight Essential Exotic Elixirs
+  - name: Planter's Punch
+    author: 
+    year: 2009
+    notes: This follows the classic rhyming formula, one of sour, two of sweet, three of strong, four of weak (weak being juices, or in our case, ice). We add two of the most popular ingredients in Jamaica (allspice, Angostura bitters) to round it out and give it depth.
+    glassware: 
+    ingredients:
+    - 1 ounce fresh lime juice
+    - ¾ ounce SC Demerara syrup
+    - ¼ ounce St. Elizabeth Allspice Dram
+    - 3 ounces blended aged rum (Jamaica)
+    - 2 dashes Angostura bitters
+    - "Garnish: Mint Sprig"
+    steps:
+    - Combine all ingredients in a drink mixer tin with 12 ounces of crushed ice and 4 to 6 “agitator” cubes. 
+    - Flash blend and then open pour with gated finish into a Collins or highball glass. 
+    - Garnish with Jamaican sunshine (oh—and a mint sprig).
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: eight essential exotic elixirs"
+    - tiki
+    - blended
+    - citrus
+  - name: Mai Tai
+    author: Trader Vic
+    year: 1944
+    notes: Within the pantheon of exotic cocktails, one stands above the rest as the most iconic of the era. An elegant and simple concoction, really just a nutty rum margarita, it eschews the conventional structure established by Donn in favor of a more nuanced approach.
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lime juice
+    - ¼ ounce SC Mai Tai Rich Simple Syrup
+    - ¼ ounce SC orgeat syrup
+    - ½ ounce Pierre Ferrand dry curaçao
+    - 2 ounces blended aged rum
+    - "Garnish: Spent lime shell and mint sprig"
+    steps:
+    - Combine all ingredients with 12 ounces of crushed ice and a few cubes in a cocktail shaker. 
+    - Shake until a frost forms on the shaker and pour the entire contents into a double old-fashioned glass. 
+    - Garnish with a spent lime shell and mint sprig.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: eight essential exotic elixirs"
+    - tiki
+    - shaken
+    - citrus
+  - name: Doctor Funk
+    author: Trader Vic
+    year: 1946
+    notes: Well-known German doctor Bernard Funk was not only Robert Louis Stevenson’s physician and friend, but was also the alleged inventor of an early version of this drink during his many years serving as a doctor to the people of Apia, Samoa. Using a full flavored funky rum (no pun intended) is key to this cocktail as it stands up to and complements the Herbsaint. If Herbsaint is not to your taste, the Trader also made an alternate version called the Dr. Funk’s Son, in which the Herbsaint is dropped, and a ½ ounce of the black pot still unaged rum is substituted with ½ ounce of black blended overproof rum.
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lemon juice
+    - ¼ ounce SC Grenadine
+    - ½ ounce fresh lime juice
+    - ½ ounce SC Demerara Simple Syrup
+    - ¼ ounce Herbsaint
+    - 2¼ ounce black pot still unaged rum
+    - 1 ounce seltzer
+    - "Garnish: Ti leaf or pineapple fronds"
+    steps:
+    - Add all ingredients to drink mixer tin with 12 ounces of crushed ice and 4 to 6 “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a double old-fashioned. 
+    - Garnish with a ti leaf or pineapple fronds.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: eight essential exotic elixirs"
+    - tiki
+    - blended
+    - citrus
+  - name: Dr. Funk's Son
+    author: Trader Vic
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - ½ ounce fresh lemon juice
+    - ¼ ounce SC Grenadine
+    - ½ ounce fresh lime juice
+    - ½ ounce SC Demerara Simple Syrup
+    - 1¾ ounce black pot still unaged rum
+    - ½ ounce of black blended overproof rum
+    - 1 ounce seltzer
+    - "Garnish: Ti leaf or pineapple fronds"
+    steps:
+    - Add all ingredients to drink mixer tin with 12 ounces of crushed ice and 4 to 6 “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a double old-fashioned. 
+    - Garnish with a ti leaf or pineapple fronds.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: eight essential exotic elixirs"
+    - tiki
+    - blended
+    - citrus
+  - name: Zombie
+    author: Donn the Beachcomber
+    year: 1934
+    notes: Notorious would be an understatement. Donn’s most famous and lethal concoction, it too has been abused beyond recognition in the past. Urban legends about its madness-inducing properties and menu warnings about a two-per-person limit (“for your own safety”) cemented this drink in history.
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lime juice
+    - ¼ ounce fresh grapefruit juice
+    - ¼ ounce SC Cinnamon Syrup
+    - 1 teaspoon SC Grenadine
+    - ½ ounce John D. Taylor’s Velvet Falernum
+    - 1½ ounces blended aged rum
+    - 1½ ounces column still aged rum
+    - 1 ounce black blended overproof rum
+    - 2 dashes Herbstura
+    - "Garnish: Mint sprig"
+    steps:
+    - Combine all ingredients in a drink mixer tin with 12 ounces of crushed ice and 4 to 6 “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a Zombie glass. 
+    - Garnish with a mint sprig and healthy dose of trepidation.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: eight essential exotic elixirs"
+    - tiki
+    - blended
+    - citrus
+  - name: Navy Grog
+    author: Trader Vic
+    year: 
+    notes: In the tiki heyday, there were a lot of drinks called grogs that departed considerably from a historic grog. They appropriated the name and imagery of something hearty and robust in order to appeal to the men at the bar, who would not be seen ordering something dainty like a Blushing Orchid.
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lime juice
+    - ¾ ounce fresh grapefruit juice
+    - ¼ ounce SC Demerara syrup
+    - ¼ ounce St. Elizabeth Allspice Dram
+    - 1 ounce pot still lightly aged (overproof) rum
+    - 1 ounce blended lightly aged rum
+    - 1 ounce column still aged rum
+    - "Garnish: Mint sprig or Rock Candy Stick or Ice Cone"
+    steps:
+    - Flash blend and open pour with gated finish into a double old-fashioned glass. 
+    - Garnish with a mint sprig or rock candy stick and a toast to sailors of yore.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: eight essential exotic elixirs"
+    - tiki
+    - blended
+    - citrus
+  - name: Don the Beachcomber's Navy Grog
+    author: Don the Beachcomber
+    year: 
+    notes: Traditionally served with an ice cone. If serving with an ice cone, after flash blending, strain over the ice cone.
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lime juice
+    - ¾ ounce fresh grapefruit juice
+    - 1 ounce SC Honey syrup
+    - ¾ ounce seltzer
+    - 1 ounce pot still lightly aged (overproof) rum
+    - 1 ounce blended lightly aged rum
+    - 1 ounce column still aged rum
+    - "Garnish: Mint sprig or Rock Candy Stick or Ice Cone"
+    steps:
+    - Flash blend and open pour with gated finish into a double old-fashioned glass. 
+    - Garnish with a mint sprig or rock candy stick and a toast to sailors of yore.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: eight essential exotic elixirs"
+    - tiki
+    - citrus
+    - blended
+  - name: Scorpion
+    author: Steve Crane
+    year: 1958
+    notes: Steve Crane’s riff on Trader Vic’s iconic drink brings better balance and complexity to this famous recipe. Vic invented the idea of the shared bowl with long straws in the 1940s by reviving the dormant punch tradition and marrying it to the traditions of the kava bowl ceremony, which he witnessed in Micronesia. Serves 4.
+    glassware: 
+    ingredients:
+    - 2 ounces fresh lime juice
+    - 4 ounces fresh orange juice
+    - 1½ ounces SC Demerara syrup
+    - 2 ounces SC Orgeat
+    - 2 ounces brandy
+    - 4 ounces London Dry Gin
+    - 4 ounces blended lightly aged rum
+    steps:
+    - Combine all ingredients in a mixing tin without ice and roll (pour back and forth) with another mixing tin to combine ingredients evenly and split in half. 
+    - Add ice to each cup and flash blend with a drink mixer for 3 seconds. 
+    - Pour contents of both cups into a 4-person ceramic Scorpion Bowl. 
+    - Serve with 20-inch luau straws for easier sharing. 
+    - Add fire to taste.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: eight essential exotic elixirs"
+    - tiki
+    - blended
+    - citrus
+    - flame
+  - name: Fog Cutter
+    author: Trader Vic
+    year: 
+    notes: Another of Vic’s most famous drinks, the Fog Cutter is still served today at his restaurants around the world. Our version incorporates the pisco preferred by the Don the Beachcomber chain at later locations in their Fog Cutter to give it a brighter, more vegetal character. (We’re trying to make them friends in heaven by fusing their recipes.)
+    glassware: 
+    ingredients:
+    - 1½ ounce fresh lemon juice
+    - 1½ ounce fresh orange juice
+    - ½ ounce SC Orgeat
+    - 1 ounce pisco
+    - ½ ounce gin
+    - 2 ounces blended lightly aged rum
+    - ½ ounce oloroso sherry
+    - "Garnish: Swizzle stick and mint sprig"
+    steps:
+    - Combine all ingredients except the sherry in a drink mixer tin with 12 ounces of crushed ice and 4 to 6 “agitator” cubes. 
+    - Flash blend and open pour with gated finish into a Zombie glass or Fog Cutter mug. 
+    - Float sherry by gently pouring on top of the surface of the drink and then garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: eight essential exotic elixirs"
+    - tiki
+    - blended
+    - citrus
+  - name: Singapore Sling
+    author: 
+    year: 
+    notes: Though its roots lie in Southeast Asia, it became one of the greatest tiki bar staples, and a rare departure from rum.
+    glassware: 
+    ingredients:
+    - 2 ounces seltzer
+    - ¾ ounce fresh lemon juice
+    - ¼ ounce SC Demerara syrup
+    - ½ ounce Cherry Heering liqueur
+    - ¼ ounce Benedictine
+    - 1½ ounce London Dry Gin
+    - 1 dash Angostura bitters
+    - 1 dash orange bitters
+    - "Garnish: Lemon wedge speared with a cocktail umbrella"
+    steps:
+    - Add the seltzer to the bottom of a Collins or highball glass. 
+    - Add the rest of ingredients to a cocktail shaker with cubed or cracked ice. 
+    - Shake and strain into the glass. 
+    - Gently add cubed or cracked ice to glass and add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: eight essential exotic elixirs"
+    - tiki
+    - shaken
+    - citrus
+
+#The Tiki Party
+  - name: Hondo Hattie's Jungle Punch!
+    author: Martin Cate
+    year: 
+    notes: Created for a Tiki Oasis preparty at the Walt Disney Family Museum, this is a rare instance where I will use blue curaçao—and only to simulate the green water of the Jungle Cruise attraction.
+    glassware: 
+    ingredients:
+    - 1 ounce fresh lemon juice
+    - ½ ounce SC Honey Syrup
+    - ¼ ounce blue curaçao
+    - ¼ ounce tawny port
+    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ¼ ounce natural pear liqueur (such as Mathilde Poire)
+    - 2 ounces blended aged rum
+    - 1 dash Angostura bitters
+    steps:
+    - Multiply the ingredient quantities by the number of guests. 
+    - Combine all the ingredients except the ice in a beverage dispenser or other sealable container and whisk together. 
+    - Chill for 1 to 2 hours prior to serving. 
+    - Add large blocks of ice to the dispenser or serve over a large block or smaller blocks of ice in a punch bowl.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the tiki party"
+    - tiki
+    - punch
+    - citrus
+    - stirred
+  - name: Kahiko Punch
+    author: Martin Cate
+    year: 
+    notes: 
+    glassware: 
+    ingredients:
+    - 1 ounce fresh lemon juice
+    - 1½ ounces SC Passion Fruit Honey
+    - ½ ounce SC Cinnamon Syrup
+    - ½ ounce SC Hibiscus Liqueur
+    - 2 ounces pot still unaged rum
+    - 6 drops Bittermans 'Elemakule Tiki bitters
+    - "Garnish: Edible orchid"
+    steps:
+    - Multiply the ingredient quantities by the number of guests. 
+    - Combine all the ingredients except the ice in a beverage dispenser or other sealable container and whisk together. 
+    - Chill for 1 to 2 hours prior to serving. 
+    - Add large blocks of ice to the dispenser or serve over a large block or smaller blocks of ice in a punch bowl. 
+    - Garnish individual servings with an edible orchid.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the tiki party"
+    - tiki
+    - punch
+    - citrus
+    - stirred
+  - name: Triumvirate Punch
+    author: Martin Cate
+    year: 
+    notes: "In honor of the three Masters of the Cove who grace the label of our Triumvirate rum: Ron Roumas, Mark Holt, and John Boatwright."
+    glassware: 
+    ingredients:
+    - ¾ ounce fresh lime juice
+    - 1 ounce SC Passion Fruit Honey
+    - ¼ ounce St. Elizabeth Allspice Dram
+    - 1½ ounces pot still unaged rum
+    - 2 dashes Angostura bitters
+    - Pinch of freshly grated nutmeg
+    - "Garnish: Mint"
+    steps:
+    - Multiply the ingredient quantities by the number of guests. 
+    - Combine all the ingredients in a beverage dispenser or other sealable container and whisk together. 
+    - Chill for 1 to 2 hours prior to serving. 
+    - Add large blocks of ice to dispenser or serve over a large block or smaller blocks of ice in a punch bowl. 
+    - Garnish individual servings with mint and a smile
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the tiki party"
+    - tiki
+    - punch
+    - citrus
+    - stirred
+  - name: Eureka Punch
+    author: Martin Cate
+    year: 2013
+    notes: Created originally for National Lemonade Day (really), the drink was turned into a bowl drink for four and served on the menu at San Francisco’s Tonga Room in 2013.
+    glassware: 
+    ingredients:
+    - 1½ ounces fresh lemon juice
+    - 1 ounce SC Honey Syrup
+    - ½ ounce Yellow Chartreuse
+    - 1½ ounces column still aged rum
+    - 1 dash Angostura bitters
+    - 2 ounces real ginger ale
+    - "Garnish: Lemon wedge or twist and mint sprig"
+    steps:
+    - Multiply the ingredient quantities by the number of guests. 
+    - Combine all the ingredients except the ginger ale in a beverage dispenser or other sealable container and whisk together. 
+    - Chill for 1 to 2 hours prior to serving. 
+    - Add large blocks of ice to the dispenser or serve over a large block or smaller blocks of ice in a punch bowl. 
+    - Top with ginger ale and stir. 
+    - Garnish individual servings with a lemon wedge or twist and a mint sprig.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the tiki party"
+    - tiki
+    - stirred
+    - citrus
+    - punch
+  - name: Yuletidal Wave
+    author: Martin Cate
+    year: 
+    notes: Bringing a little tiki to your next holiday party.
+    glassware: 
+    ingredients:
+    - 2 ounces pineapple juice
+    - 1 ounce fresh lemon juice
+    - ½ ounce natural pear liqueur (such as Mathilde Poire)
+    - ½ ounce Licor 43
+    - ¼ ounce St. Elizabeth Allspice Dram
+    - ½ ounce brandy
+    - 1 ounce bourbon
+    - 1 ounce column still aged rum
+    steps:
+    - Multiply the ingredient quantities by the number of guests. 
+    - Combine all the ingredients except the ice in a beverage dispenser or other sealable container and whisk together. 
+    - Chill for 1 to 2 hours prior to serving. 
+    - Add large blocks of ice to the dispenser or serve over a large block or smaller blocks of ice in a punch bowl. 
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the tiki party"
+    - tiki
+    - stirred
+    - citrus
+    - punch
+  - name: Rumbustion Punch
+    author: Martin Cate
+    year: 
+    notes: Named in honor of our rum club, we often serve this at our quarterly Convocations and other Rumbustion Society events.
+    glassware: 
+    ingredients:
+    - 1 ounce fresh lime juice
+    - ½ ounce SC Demerara syrup
+    - ¼ ounce SC Cinnamon Syrup
+    - 1 ounce blended aged rum
+    - 1 ounce blended lightly aged rum
+    - 2 dashes Herbstura
+    steps:
+    - Multiply the ingredient quantities by the number of guests. 
+    - Combine all the ingredient except the ice in a beverage dispenser or other sealable container and whisk together. 
+    - Chill for 1 to 2 hours prior to serving. 
+    - Add large blocks of ice to dispenser or serve over a large block or smaller blocks of ice in a punch bowl.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the tiki party"
+    - tiki
+    - stirred
+    - punch
+    - citrus
+
+#The Heritage of Tiki
+  - name: Puka Punch
+    author: 
+    year: 1961
+    notes: 
+    glassware: 
+    ingredients:
+    - 1 ounce fresh lime juice
+    - ¾ ounce fresh orange juice
+    - ¾ ounce pineapple juice
+    - 1 ounce SC Honey Syrup
+    - ¾ ounce SC Passion Fruit Syrup
+    - ½ ounce John D. Taylor’s Velvet Falernum
+    - 1 ounce blended aged rum
+    - 1 ounce blended lightly aged rum
+    - ¾ ounce black blended rum
+    - 1 dash Angostura bitters
+    - ¾ ounce black blended overproof rum
+    - "Garnish: Mint sprig"
+    steps:
+    - Add all the ingredients except the black blended overproof rum to a drink mixer tin. 
+    - Fill with 18 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
+    - Flash blend and open pour into a large brandy snifter and add crushed ice if needed to fill. 
+    - Float the overproof rum by gently pouring on the surface of the drink, then add garnish.
+    tags:
+    - smuggler's cove
+    - "smuggler's cove: the heritage of tiki"
+    - tiki
+    - blended
+    - citrus

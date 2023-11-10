@@ -6,6 +6,7 @@ recipes:
     author: Jerry Thomas
     year: 1862
     notes: 
+    glassware: 
     ingredients:
     - 3 or 4 dashes of gum syrup
     - 2 dashes Boker’s bitters
@@ -21,6 +22,7 @@ recipes:
     author: Col. Jim Gray
     year: 
     notes: 
+    glassware: 
     ingredients:
     - 2 ounces bourbon or rye
     - 1 sugar cube (or ¼ ounce simple syrup)
@@ -35,6 +37,7 @@ recipes:
     author: Theodore Proulx
     year: 
     notes: 
+    glassware: 
     ingredients:
     - 1 teaspoon sugar
     - 1 barspoon water
@@ -53,6 +56,7 @@ recipes:
     author: Theodore Proulx
     year: 
     notes: 
+    glassware: 
     ingredients:
     - 1 teaspoon sugar
     - 1 barspoon water
@@ -70,6 +74,7 @@ recipes:
     author: Harman Burney Burke
     year: 
     notes: 
+    glassware: 
     ingredients:
     - 2 ounces whiskey
     - 1 lump sugar
@@ -89,6 +94,7 @@ recipes:
     author: 
     year: 
     notes: "Today’s widespread experimentation notwithstanding, when you’re talking about an authentic Old-Fashioned, the central debate is always this: rye or bourbon. In the late 1800s and early 1900s, preferences were probably fairly evenly split and depended heavily on region. In the decades after Prohibition, bourbon slowly but surely developed an edge, and rye, thought old-fashioned and somewhat disreputable (The Lost Weekend, etc.), fell into eclipse. In recent years, rye has made a big comeback, so drinkers once again have a choice. Doctrinaire purists tend to insist on rye, thinking it the more historically authentic choice, but both function admirably. Simply put, bourbon will give you a mellower and sweeter cocktail, whereas rye will deliver a bit more spice and kick. Among American whiskeys that provide the best value for their price—and make an outstanding Old-Fashioned—I recommend Elijah Craig 12-year and Henry McKenna single barrel (make sure it’s the bonded) bourbons, and Rittenhouse 100-proof and Bulleit Rye Whiskeys. (McKenna, which can be difficult to find outside Kentucky, strikes a nice balance, spice-wise, between the Elijah Craig and Rittenhouse)."
+    glassware: 
     ingredients:
     - 2 ounces rye or bourbon
     - 1 sugar cube (or ¼ ounce simple syrup)
@@ -104,6 +110,7 @@ recipes:
     author: 
     year: 
     notes: While rye and bourbon are the spirits of choice for a standard Old-Fashioned, a version made with Scotch is at least a century old and has its advocates. Still, it remains an oddball choice. You’re one in two hundred if you order one, and very likely you love your chosen brand of Scotch a trifle more than you cherish the Old-Fashioned. Historical cocktail books are particularly frustrating regarding this cocktail; they rarely specify anything other than “Scotch,” never a brand or type. Since the drink emerged in the days when single malts were all but unknown on American soil, blended Scotch—Famous Grouse and Bank Note do nicely—is the natural choice for a classic Scotch Old-Fashioned.
+    glassware: 
     ingredients:
     - 2 ounces blended Scotch
     - 1 sugar cube (or ¼ ounce simple syrup)
@@ -119,6 +126,7 @@ recipes:
     author: 
     year: 
     notes: With the recent rise of rum as a quality spirit as well as the return of the tiki bar, Old-Fashioned variations using rum are now common. For my money, no spirit outside bourbon and rye works as well within the Old-Fashioned template. The simple framing is a perfect showcase for the depth and complexity of flavor you’ll find in a beautifully wrought aged rum. The Guatemalan solera-aged Zacapa is arguably the ne plus ultra for this particular drink. But the Ron Abuelo 7-year from Panama works very well, too, and is perhaps not as overwhelmingly opulent. Also excellent for this drink are the El Dorado 8-year, made in Guyana. That said, the recipe I include here comes from bartender St. John Frizell, who owns Fort Defiance, a fine bar in the Red Hook section of Brooklyn. Frizell is a fan of English Harbour rum. If you can’t find the excellent Clement cane syrup, which hails from Martinique, you may want to experiment with the sweetener. Molasses is a natural companion to rum. But go easy—a half-barspoon should suffice. Otherwise, a rich Demerara syrup will do.
+    glassware: 
     ingredients:
     - 2 ounces English Harbour 5-year rum
     - 1 barspoon Clement cane syrup
@@ -134,6 +142,7 @@ recipes:
     author: 
     year: 
     notes: Over the past few years, genever, also known as Dutch or Holland gin, has become widely available in the United States. A malty, sweetish, full-bodied liquor, it is closer in character to whiskey than it is to London Dry gin. Sampling this drink you’ll understand why Gin Cocktails (that is, genever, sugar, bitters, and water) were once so popular. Bols is the genever that is most readily available in the United States. If you can find the headier, more full-bodied barrel-aged Bols (which tastes very similar to the Corenwijn, which is sold in Europe, but unavailable here), use it. Also, perhaps due to the fruity, floral character of the Genever, this is the one Old-Fashioned variation that actually benefits from the 1870s bartender habit of adding a dash of this or that. Shake in a drop of absinthe, curaçao, maraschino liqueur, or all three. It’s all for the good.
+    glassware: 
     ingredients:
     - 2 ounces Bols barrel-aged genever
     - 1 sugar cube (or ¼ ounce simple syrup)
@@ -149,6 +158,7 @@ recipes:
     author: 
     year: 
     notes: Applejack—that is, apple brandy—has been made in America since before the Revolution. Applejack cocktails were common in early cocktail books and, no surprise, the liquor makes for a wonderful Old-Fashioned. The bartenders of the nineteenth century probably used the applejack brand recommended here, Laird’s, the oldest licensed distillery in the United States. Make sure you use the bonded version.
+    glassware: 
     ingredients:
     - 2 ounces Laird’s bonded applejack
     - 1 barspoon Grade B maple syrup
@@ -164,6 +174,7 @@ recipes:
     author: 
     year: 
     notes: When it comes to the Wisconsin-style Brandy Old-Fashioned, if you’ve had one, you know what you’re getting into. It’s a sweet, fruity soup, devoid of much delicacy. But love it or hate it, you’ve got to pay the old girl some respect. This version of the Old-Fashioned, or something close to it, has been served in the Midwest nearly nonstop since the end of Prohibition (see here). As John Dye, the owner of the classic Milwaukee bar Bryant’s Cocktail Lounge, states, “I am pretty sure that Wisconsin is solely responsible for keeping Angostura in business during the dark years of cocktails when most people thought an exotic cocktail consisted of Midori and sour mix.” Context is all with this cocktail. If you’re in a midwestern bar, you could feel as if you’re drinking the king of cocktails. If not, you may just conclude that there’s no accounting for taste. But there’s nothing quite like ordering like the locals when you’re in Wisconsin. This recipe comes from the Madison bar and restaurant The Old-Fashioned, which sells hundreds of its namesake cocktail every day. Using Korbel is important if you want to drink authentically. But, if you can’t locate a bottle, another light-bodied domestic brandy will do. This is one Old-Fashioned that I recommend be drunk not only prior to a meal, but also with it. Preferably, that meal should be prime rib or a Friday-night fish fry.
+    glassware: 
     ingredients:
     - 2 ounces Korbel brandy
     - 1 sugar cube (or ¼ ounce simple syrup)
@@ -183,6 +194,7 @@ recipes:
     author: Phil Ward
     year: 2007
     notes: "Along with Don Lee’s Benton’s Old-Fashioned, this is the most renowned of the twenty-first-century variations of the Old-Fashioned, and one of the modern cocktail era’s gateway drinks into the pleasures of tequila and mezcal. It was invented in 2007 by New York–based mixologist Phil Ward, when he was working behind the bar at Death & Co, one of the earliest and most influential of the Manhattan cocktail dens that cropped up in the first decade of this century. Since then the drink has become a popular addition to cocktail menus around the world. Says Ward, “The Oaxaca Old-Fashioned was my epiphany drink: ‘Holy shit, this stuff works!’” The stuff was mezcal, tequila’s smokier, rough-hewn cousin, and in this drink it transformed something so simple and basic into something of much greater results than the sum of its parts. The choice of spirits brands here is critical—both El Tesoro and Del Maguey are superior expressions of their spirits—as is the use of agave nectar instead of sugar."
+    glassware: 
     ingredients:
     - 1½ ounces El Tesoro reposado tequila
     - ½ ounce Del Maguey single village mezcal (Chichicapa or San Luis del Rio)
@@ -200,6 +212,7 @@ recipes:
     author: Don Lee
     year: 2007
     notes: Though barman Eben Freeman—who worked at chef Wylie Dufresne’s WD-50 and Sam Mason’s Tailor, both in New York—had previously experimented with the process of fat washing (infusing alcohol with the flavor of fats like butter or bacon fat) to make cocktails, this was the drink that opened people’s eyes to the possibilities in combining flesh and firewater. It’s been wildly popular from the day it was introduced at the Manhattan neo-speakeasy PDT. (It remains PDT’s top seller, week in and week out.) Dozens of savory cocktails have followed in the path it blazed, though few have matched it for sheer deliciousness. 
+    glassware: 
     ingredients:
     - 2 ounces Benton’s Bacon Fat-Infused Bourbon
     - ¼ ounce Grade B maple syrup
@@ -216,6 +229,7 @@ recipes:
     author: Damon Boelte
     year: 2009
     notes: "When Prime Meats opened on a corner of Court Street in Carroll Gardens, Brooklyn, in 2009, bar manager Damon Boelte found the key ingredient to the house Old-Fashioned in a courtyard behind the restaurant: an old Bartlett pear tree. Since then, he has annually made bitters from the fruit, bitters that lend the cocktail an unusual, bright edge. Making your own bitters is a time investment, but a pleasant one and, in terms of end result, worth the trouble. The recipe that follows, which is Damon’s own, also appears in the book Bitters. The various ingredients can be found at any store that specializes in bulk or exotic spices, such as Kalustyan’s in Manhattan. Turbinado is a less-refined, sugar cane-based coarse sugar, easily found at boutique grocery and health food stores; to make turbinado syrup, follow the instructions for simple syrup."
+    glassware: 
     ingredients:
     - 2 ounces Rittenhouse 100-proof rye
     - ¼ ounce turbinado syrup 
@@ -231,6 +245,7 @@ recipes:
     author: Phil Ward
     year: 2007
     notes: Another Old-Fashioned variation from Phil Ward, this one features London Dry gin. This drink was created around the time that the elderflower liqueur St-Germain was introduced. The liqueur took the bartending world by storm, introducing a new flavor to the mixologist’s palette. But because it became so ubiquitous on cocktail menus, it quickly became known somewhat derisively as “bartender’s ketchup.” That history doesn’t detract from the simple, sweet appeal of this floral, fruity cocktail. It is the lightest and summeriest of Old-Fashioneds, while sneakily still packing the alcoholic punch of any other version of the drink.
+    glassware: 
     ingredients:
     - 2 ounces Plymouth gin
     - ½ ounce St-Germain elderflower liqueur
@@ -247,6 +262,7 @@ recipes:
     author: Brian Miller
     year: 2007
     notes: Miller created this cocktail for one of the waitresses at Death & Co, as her “shift drink” one evening. “Using an Old-Fashioned template, I took four of my favorite spirits at the time—this was before I became a rumhead—and blended them all together,” Miller recalls. “The drink wasn’t perfect the first time I served it, but after finding the perfect bitters combination (the Bittermens mole was the key), I was home free.” The name comes from a 1973 episode of the TV show M*A*S*H called “Deal Me Out.” In an early scene, prior to a “conference” (really a poker game), an officer is offered “Scotch, gin, vodka—for your convenience, all in the same bottle.” The mix of liquors here—actually two whiskies and two brandies—leads to a fetching and surprisingly subtle complexity. It is, indeed, not a battle of spirits but a civilized conference, one in which an assembly of grains and grapes and fruits peaceably convene to talk things out. It may just be me, but I suspect the calvados and cognac have the slight upper hand in this flavor confab. It wouldn’t be the first time the French outtalked everyone else. 
+    glassware: 
     ingredients:
     - ½ ounce Rittenhouse 100-proof rye
     - ½ ounce Buffalo Trace Bourbon
@@ -268,6 +284,7 @@ recipes:
     author: Tad Carducci
     year: 2009
     notes: I first tasted this drink at Bar Celona, in the Brooklyn neighborhood of Williamsburg. At the time, so-called white whiskey—unaged whiskey straight off the still, also known as white dog—was a commercial oddity. The Death’s Door product, out of Wisconsin, was one of the first on the market. Its pungent, chewy nature was a revelation, and the character of the grain came through strongly. Today, now that every major whiskey brand seems to sell an unaged version, the novelty has worn off, but this remains an excellent drink that nicely showcases the attractions of the raw spirit. “We wanted to create something very simple to entice both seasoned whiskey drinkers and lovers of white spirits alike,” Carducci said of this cocktail. You may want to remove the grapefruit wedge after muddling it, as it tends to get in the way of one’s drinking. Homemade brandied cherries are very easy to make. But, in lieu of that, the commercially sold Luxardo cherries will do nicely. 
+    glassware: 
     ingredients:
     - 2 ounces Death’s Door white whiskey
     - ½ ounce simple syrup
@@ -284,6 +301,7 @@ recipes:
     author: Eric Alperin
     year: 2010
     notes: Alperin says of this Scotch-based drink, it’s “so simple that I thought I couldn’t be proud of it, but my guests love to order it.” Simplicity can be a wonderful thing when you’re parched and weary on a Friday night at the end of a long week. And there’s no Old-Fashioned recipe in this book as simple as this one. There are no bitters, and the Cherry Heering, a widely available Danish liqueur made from cherries and various spices, provides the sweetening agent (and, in liquid form, the cherry garnish). Go big on the lemon twist. It brightens the whole thing. 
+    glassware: 
     ingredients:
     - 2 ounces blended Scotch, such as Bank Note or Famous Grouse
     - ½ ounce Cherry Heering
@@ -298,6 +316,7 @@ recipes:
     author: Mike Ryan
     year: 2009
     notes: Mike Ryan is certainly not the first bartender to try adding a little Chartreuse to his Whiskey Cocktail. They were pulling that stunt back in the 1870s. It was one of the “improvements” that drove drinkers to pine for simpler times. But, tasting this drink, you may wonder what they were complaining about. The double herbal hit of this drink, furnished by the Chartreuse and the heavy dose of Angostura bitters, may remind you of bitters’ early rep as a medicinal cure. One can picture Clint’s Man with No Name squinting and baring his front teeth after drawing on one of these.Served up, Ryan’s potion may fool you into thinking you’re having a riff on the Manhattan. Indeed, this drink splits the difference between the Old-Fashioned and the Manhattan. I’ve tried it on the rocks, though, too, and it doesn’t suffer for the change. 
+    glassware: 
     ingredients:
     - 2 ounces rye whiskey
     - ⅛ ounce (approximately ¾ teaspoon) Angostura bitters
@@ -315,6 +334,7 @@ recipes:
     year: 2010
     notes: |
       This is a perfect Old-Fashioned for anyone with a serious sweet tooth (or caught in an arrested state of adolescence). The name hits it on the head: if you’ve ever eaten Honey Nut Cheerios for breakfast, you’ll recognize the flavor profile. Instead of General Mills’s classic oat loops, however, bourbon does the duty as the grain in this recipe. Regarding the nuts, Tellos says, “It pays to invest in good dry-roasted peanuts, as this means more oils, and you will definitely get a fat cap off them when you freeze the infusion.” Translation: No Planters.
+    glassware: 
     ingredients:
     - 2 ounces Peanut-Infused Bourbon
     - ¼ ounce Honey Syrup
@@ -330,6 +350,7 @@ recipes:
     author: Chris Hannah
     year: 2009
     notes: "It’s easy to see that a New Orleans bartender came up with this one: every ingredient screams “Big Easy.” Rye, the foundation of the Sazerac, has long been a New Orleans favorite; Clement’s rum-based orange liqueur is said to be based on a historic Creole recipe; the Amaro Averna speaks to NOLA’s Italian heritage; and Peychaud’s is the Crescent City’s own bitters. (With a little searching, the Clement Creole Shrubb is easily located in most cities.) Even the unusual choice of glassware is a nod to the city’s historic love of French brandy. The snifter is appropriate since this is a very elegant drink, its many interesting facets smoothed over by a silky texture. The cocktail is titled after the surname of beloved New Orleans musician Dr. John."
+    glassware: 
     ingredients:
     - 1¾ ounces rye
     - ¾ ounce Amaro Averna
@@ -346,6 +367,7 @@ recipes:
     author: Lynnette Marrero
     year: 2010
     notes: Marrero created this drink for the 2010 Metropolitan Opera Cocktail Competition, an annual mixology contest organized by the opera-loving Brooklyn distiller Allen Katz. The name is a nod to the opera that was presented the night of the competition, Puccini’s The Girl of the Golden West. The smoke of this smoking gun is furnished by a special simple syrup infused with Lapsang souchong tea. The earthy, herbal notes of the CioCiaro, a bittersweet Italian digestif, contribute to the wild edge of the cocktail while lending an appropriate Italian element to the mix. A cooling bit of campfire in a glass. 
+    glassware: 
     ingredients:
     - 1½ ounces Rittenhouse rye
     - ¼ ounce Amaro CioCiaro
@@ -363,6 +385,7 @@ recipes:
     author: Toby Maloney
     year: 2009
     notes: Bartender and cocktail consultant Toby Maloney says that, in creating this drink, he wanted “to do an Old-Fashioned that was simple and elegant (in the land of muddled abominations) and really dry with a velvety mouth feel.” Because of the walnut liqueur—a rich spirit made from unripe walnuts, traditional to the Alpine regions of Germany, Austria, and Italy—used to rinse the glass prior to filling it, this is one of the few cocktails in this book that is built in a mixing glass, not the serving glass. The use of the Nux Alpina and the choice of orange over Angostura bitters mark the only shifts away from the classic Old-Fashioned formula here. But they are difference enough, adding an elegant nutty finish to the drink. 
+    glassware: 
     ingredients:
     - 2 ounces Bulleit bourbon
     - ¼ ounce Demerara syrup
@@ -379,6 +402,7 @@ recipes:
     author: Jon Santer
     year: 2011
     notes: This simple drink is a good illustration of how a slight variation in the simple building blocks of the Old-Fashioned can vastly alter the resulting drink. In outline, this is easily recognizable as an Old-Fashioned. But in character, it stands apart from its mainstream brother. The Bank Note blended Scotch—an excellent whiskey considering its very affordable price—is meaty and gamy, lacking the toasty sweet notes of bourbon. The rich maple syrup contributes to the vaguely outdoorsy feel of the cocktail. It’s a broad, boisterous Old-Fashioned with a lot of stick-to-your-ribs body. You’d want this in your camp after a day of deer hunting.If you can’t locate Miracle Mile bitters, which are produced in Los Angeles, Scrappy’s aromatic bitters and Bitter Truth Aromatic Bitters are recommended as substitutes. 
+    glassware: 
     ingredients:
       - 2 ounces Bank Note blended Scotch
       - ¼ ounce Grade B maple syrup
@@ -394,6 +418,7 @@ recipes:
     author: Erick Castro
     year: 2008
     notes: “This cocktail works as well as it does mostly because El Jimador is aged in brand-new charred oak barrels much like bourbon,” explains Castro. “The cinnamon in place of the more common twist gives it a little something different.” The cinnamon garnish used here indeed sets this cocktail apart from its fellows, lending it a toasty, comforting note. If it happens to be raining outside, you may just extract a little extra solace from each sip. 
+    glassware: 
     ingredients:
     - 2 ounces El Jimador añejo tequila
     - 1 barspoon agave nectar
@@ -409,6 +434,7 @@ recipes:
     author: Bobby Heugel
     year: 2010
     notes: Malacca was a softer style of gin that Tanqueray released in 1997. It didn’t catch on, though, and it slowly vanished from liquor store shelves. A few years later mixologists realized that the lost Malacca was the probably just the thing for all the nineteenth-century cocktail recipes they were trying to re-create that called for Old Tom gin. Tanqueray finally responded in 2013 with a one-time-only run of Malacca. “It’s a pretty basic cocktail,” says Heugel, “as I was asked to make a drink with a limited supply of the Malacca before the rerelease. I tried to really just showcase the gin without altering it much.” If Tanqueray stays true to their word, the Malacca supply will eventually run out. When and if that happens, you can swap in the sweeter but similar Hayman's Old Tom gin, which is here to stay.
+    glassware: 
     ingredients:
     - 2 ounces Tanqueray Malacca gin (or Hayman's Old Tom gin)
     - 1 barspoon Demerara syrup
@@ -425,6 +451,7 @@ recipes:
     author: 
     year: 2012
     notes: Booker and Dax is a high-tech cocktail bar in the East Village where few drinks make it to the customer without first passing through some scientific process or contraption. This lovely spicy drink, which was actually created before the bar opened for business, is one of the bar’s simpler creations. Both the Yamazaki and Rittenhouse work well, but I prefer the former, as the smooth polish of the Japanese single malt plays nicely against the spicy coriander and red pepper syrup. 
+    glassware: 
     ingredients:
     - 2 ounces whiskey, preferably Yamazaki 12-year single malt or Rittenhouse 100-proof rye
     - Scant ½ ounce Coriander Syrup
@@ -440,6 +467,7 @@ recipes:
     author: Lynn House
     year: 2013
     notes: This may rank as the most unusual Old-Fashioned in this book. I had never known what to do with the Utah-based distillery High West’s pungent and volatile oat whiskey until Chicago’s Lynn House passed this improbable recipe along. The sweet, bright blueberry preserves tame the grain, while the lively spices of the Creole bitters somehow meet the two in the middle. (House makes her own blueberry preserves for this drink, though she says high-quality store-bought preserves will do. But “no Smucker’s.”) The lemon juice lends a needed snap of acidity while also pushing the drink into Whiskey Sour territory. It’s one of those cocktails that works in spite of its motley crew of ingredients. Appropriately, the name of this cocktail quotes the movie Willy Wonka and the Chocolate Factory, an adaptation of a Roald Dahl story about a wizard of confections. If Wonka had been a mixologist, he might have come up with a cocktail like this one. 
+    glassware: 
     ingredients:
     - 2 ounces High West Silver oat whiskey
     - ½ ounce fresh lemon juice
@@ -456,6 +484,7 @@ recipes:
     author: Frank Cisneros
     year: 2011
     notes: Frank Cisneros created this drink for the opening menu at the Bourgeois Pig, a short-lived bar in Brooklyn. “I wanted to approach classic and often forgotten continental spirits the way an American bartender from the golden age might have approached them,” said Cisneros. “So proportionally, you’ve got the same formula of sweet to bitter to spiritous but mixed up with German brandy and honey liqueur and an Austrian eau de vie. I thought about incorporating a more obtuse European bitter but sometimes nothing beats Angostura, and I think sticking to a theme too literally can be a detriment to an otherwise good drink.” 
+    glassware: 
     ingredients:
     - 2 ounces Asbach Uralt brandy
     - 1½ teaspoons Rothman & Winter orchard apricot liqueur
@@ -473,6 +502,7 @@ recipes:
     author: Theo Liberman
     year: 2011
     notes: This drink was inspired by the stage show Sleep No More. An atmospheric, interactive take on Macbeth created by the British theater group Punchdrunk, it was set in the fictional McKittrick Hotel in Chelsea, New York. An unexpected hit, it became a favorite of mixologists. If the Thane of Cawdor had had a couple of these during that dinner with Duncan, he might have calmed right down and rethought his murderous plan. The rich Pedro Ximénez sherry does the job of the sugar here, and then some. Smooth and luxe, this is a good Old-Fashioned nightcap.
+    glassware: 
     ingredients:
     - 2 ounces bourbon
     - ½ ounce Pedro Ximénez sherry
@@ -491,6 +521,7 @@ recipes:
     author: Doug Petry
     year: 2012
     notes: This cocktail wasn’t on the menu the night I walked into Rye, an excellent and adventurous young restaurant in Louisville’s East Market District. But after a short chat with the bartender, the drink came up in conversation. I ordered it as a sort of dare, to see if it was possible that lethally strong absinthe could function as the base of an Old-Fashioned. “We wanted to do a menu based on the Old-Fashioned with the basic recipe coming down to base spirit, bittering agent, and sweetening agent,” said Petry. “We wanted to try it with some spirits that weren’t typical and thought absinthe would be a fun way to go with it. After a few missteps, we found a recipe that we liked and went with it.” It takes an equal measure of sweet stuff—in this case a combination of simple syrup and elderflower liqueur—to tame the fiery power of the absinthe. But tame it, it does, while also nicely toning down the licorice flavor. The Peychaud’s adds a needed dry note as well as provides some color to the milky green liquid. Still, don’t make the mistake of drinking two of these. In fact, make it your final drink of the night. You won’t need another.
+    glassware: 
     ingredients:
     - 1½ ounces Kübler absinthe
     - 1 ounce simple syrup
@@ -506,6 +537,7 @@ recipes:
     author: 
     year: 
     notes: The cobbler, a julep-like drink marked by a load of pebbled ice and various fruit adornments, is one of the most adaptable beverage models in cocktail history. The New Orleans bar Bellocq has proven this. Call out any liquor on their backbar, from Chartreuse to Madeira, and they’ll make you a cobbler out of it. Given the Old-Fashioned’s and the cobbler’s shared history with fruit, it was only natural that the two would eventually come together. Says Bellocq owner Kirk Estopinal, the drink takes its cue from the “muddled-style Old-Fashioned, the kind you used to get everywhere before the mixology movement took hold.” The result doesn’t taste very different from an Old-Fashioned with muddled fruit, just a lot more refreshing. The vanilla and powdered sugar turn the fruit “flag” into a candied postdrink treat.
+    glassware: 
     ingredients:
     - 2 ounces Buffalo Trace Bourbon
     - ¼ ounce Demerara syrup
@@ -524,6 +556,7 @@ recipes:
     author: Joaquín Simó
     year: 2007
     notes: Single malt whiskeys are often thought to be too individualistic to play well with other ingredients. Hence, their lesser role in the classic cocktail canon. In this drink, however, Simó manages to tempt the unpeaty Islay-made Bruichladdich out onto the playground with two different forms of bright grapefruit. Other single malt Scotches can be substituted, says Simó, so long as they aren’t too smoky. Be sure to go big on those twists. 
+    glassware: 
     ingredients:
     - 2 ounces Bruichladdich “Rocks” Scotch whisky
     - ¼ ounce simple syrup
@@ -541,6 +574,7 @@ recipes:
     author: Julie Reiner
     year: 2010
     notes: "Julie Reiner, of New York’s Flatiron Lounge and Clover Club fame, created this tiki version of an Old-Fashioned for her late, lamented tropical SoHo bar Lani Kai. The key ingredient here is the Macadamia Nut Orgeat, which functions as the sweetener and safely places this Old-Fashioned in tiki territory. A singular and superior item, the macadamia nut orgeat is produced by a Brooklyn tiki aficionado who goes by the name “Tiki Adam.” (Real name: Adam Kolesar.) Kolesar began producing his orgeats commercially in 2013. They are well worth a web search (www.orgeatworks.com)."
+    glassware: 
     ingredients:
     - 1 ounce Rittenhouse rye whiskey
     - 1 ounce Gosling’s Black Seal rum
@@ -556,6 +590,7 @@ recipes:
     author: Tonie Guffey
     year: 2013
     notes: Tonia Guffey, a regular presence at Dram, a bartender’s bar in Williamsburg, Brooklyn, has a way with blending disparate liquid ingredients. Here, she makes a happy home for spicy rye, the rich, wine-based aperitif Byrrh, bright and fruity Pamplemousse and Aperol, and bone-dry vermouth. A hundred flavors dance inside this easy-to-like cocktail, which flirts as much with Manhattan model as it does with the Old-Fashioned. The name comes from a song by Dry the River, an English folk-rock band. According to Guffey, the song mysteriously comes on at Dram whenever she’s making the drink. 
+    glassware: 
     ingredients:
     - 1 ounce Rittenhouse rye
     - ½ ounce Byrrh
@@ -574,6 +609,7 @@ recipes:
     author: Tom Macy
     year: 2013
     notes: This drink has actually never been offered at Clover Club. Its ingredients are luxurious—and luxuriously priced—which makes it a rather unprofitable item to serve regularly. (The drink’s name, in that sense, could be considered a bit of irony.) Macy created it upon finding he had the pricy ingredients on hand at home, while recalling that mezcal and apple brandy enjoyed a peculiar affinity. The cocktail is an appropriately rich, silky experience, with notes of baked apple, smoked pear, and cherry. It may cost a pretty penny to build, but you’ll go broke smiling. (For a budget version, if you must, you can use Laird’s bonded applejack and Del Maguey crema mezcal.) 
+    glassware: 
     ingredients:
     - 1½ ounces Laird’s 12-year apple brandy
     - ¾ ounces Del Maguey Santo Domingo mezcal
@@ -592,6 +628,7 @@ recipes:
     author: Jason Kosmas
     year: 1999
     notes: This drink was actually created years before Kosmas helped found Employees Only, the wildly popular Greenwich Village cocktail lounge. It won first place at a Grand Marnier cocktail contest in 1999. Kosmas’s goal was to create a drink that used two full ounces of the orange liqueur without ending up with an unbearably sweet drink. To turn this trick, he incorporated muddled blood oranges and plenty of tart lime juice. It’s a still a sweet drink, but a complex one. 
+    glassware: 
     ingredients:
     - 2 ounces Grand Marnier
     - 1 teaspoon sugar
@@ -609,6 +646,7 @@ recipes:
     author: Dustin Knox
     year: 2010
     notes: This is basically an aquavit Old-Fashioned. Aquavit, the traditional Scandinavian spirit that’s just a few savory seeds away from vodka, has flavors of caraway and anise. Knox prefers the limited-release aged Gammal Krogstad aquavit from House Spirits, a fine Portland-based distillery, but he says that company’s unaged Krogstad aquavit also works quite well. 
+    glassware: 
     ingredients:
     - 2 ounces barrel-aged Gammal Krogstad aquavit
     - ½ barspoon Grade B maple syrup
@@ -626,6 +664,7 @@ recipes:
     author: Jeremy Oertel
     year: 2011
     notes: Take a little rye, a little rum, a ginger kick, and a nice Swedish punsch (a blend of rum, sugar, spice, and Batavia-Arrack Van Oosten, an Asian liquor derived of sugar cane and red rice) and you have an extremely fun take on the Old-Fashioned. Don’t misunderstand me—I have fun anytime I’m drinking the cocktail. But this version is a buoyant party starter, full of sneaky south-of-the-border spice and fruit. Without the devilishly delicious Swedish punsch (which is produced by the Minnesota-based importer Haus Alpenz and can be found at finer liquor shops), some of the life would leave the soiree, but every invitee is doing its part in this highly social mix. “I was trying to use a lot of rum at Donna when we opened because of the Central American/Latin feel of the place,” explains Oertel. The owner of Donna, Leif Huckman, is in a band called Haunted Houses, hence the name of the drink. 
+    glassware: 
     ingredients:
     - 1 ounce Appleton Estate V/X Jamaican rum
     - 1 ounce Rittenhouse rye
@@ -643,6 +682,7 @@ recipes:
     author: Anu Apte
     year: 2010
     notes: Rob Roy, a cocktail bar in Seattle, is known for its way with an Old-Fashioned. “The drink was inspired by a drink that Erik Adkins had on the Heaven’s Dog menu,” says owner Anu Apte, mentioning the San Francisco bar. “When I came back to Seattle I wanted to make it for a guest but I couldn’t remember the exact recipe so I made something similar.” Though the Haiti-made Barbancourt is a very specific choice, it’s the dark, rich buckwheat honey that defines this drink, giving it a cloudy appearance and rangy, full-bodied character. I recommend a large lemon twist. 
+    glassware: 
     ingredients:
     - 2 ounces Barbancourt 15-year rum
     - ½ ounce Buckwheat Honey Syrup
@@ -658,6 +698,7 @@ recipes:
     author: Robert Newton
     year: 2012
     notes: The Sorghum Old-Fashioned was the very first cocktail that Robert Newton, owner of the Southern-inspired restaurant Seersucker, developed after receiving a full liquor license. “I wanted to create a drink that was classic and yet spoke to the South and the traditions we explore at the restaurant.”
+    glassware: 
     ingredients:
     - 2 ounces Old Overholt Rye Whiskey
     - ¼ ounce Sorghum Syrup
@@ -674,6 +715,7 @@ recipes:
     author: David Wondrich
     year: 2005
     notes: Wondrich, an early advocate of the old-school Old-Fashioned, created this simple twist on the drink as an homage to the Brooklyn neighborhood of Bay Ridge, which “used to be peopled with Irish folks, who drank rye, and Scandinavians, who drank aquavit.” The result is a drink of surprisingly complex spiciness. 
+    glassware: 
     ingredients:
     - 1½ ounces Rittenhouse rye
     - 1½ ounces Linie Aquavit
@@ -690,6 +732,7 @@ recipes:
     author: Damian Higgins
     year: 2012
     notes: Between the funky Smith & Cross Jamaican pot still rum, the maple syrup, and the molasses-tinged blackstrap bitters, this drink might have proved too heavy by half, but it is raised and lifted by that edge-providing pinch of salt. Higgins is not a bartender but a DJ who works under the name Dieselboy. 
+    glassware: 
     ingredients:
     - 2 ounces Smith & Cross Jamaican rum
     - ¼ ounce Grade B maple syrup
@@ -706,6 +749,7 @@ recipes:
     author: Robert Simonson
     year: 2013
     notes: Perique is a liqueur made from Louisiana perique, a rare tobacco that had been cultivated in St. James Parish for centuries. Made by distiller Ted Breaux, who spearheaded the rebirth of absinthe, it is made in France and, as of this writing, is not available in the United States. However, its arrival is expected imminently. Soft and floral yet intense in flavor and long in finish, a little Perique is all that’s needed in this simple Old-Fashioned variation. Going on instinct alone, I reached for New Orleans’s own Peychaud’s bitters instead of Angostura, and damned if that wasn’t the right grace note. Local ingredients stick together. I’d suggest drinking this with an evening cigar. But really, the slightly tannic, palate-drying drink is the cigar itself. Have a glass of ice water handy. 
+    glassware: 
     ingredients:
     - 2 ounces Buffalo Trace Bourbon
     - ⅛ ounce (about ¾ teaspoon) Perique liqueur
@@ -722,6 +766,7 @@ recipes:
     author: Robert Simonson
     year: 2013
     notes: Given your average modern mixologist’s love for both the Old-Fashioned and the bitter Italian digestivo Fernet Branca, the name of this drink was a foregone conclusion. This is simply an Old-Fashioned with an extra herbal, menthol punch. It’s basically a twist on the Toronto cocktail, except that drink traditionally calls for Canadian whisky and an Orange twist, and is served up. I am generally partial to Orange twists in my Old-Fashioned, but the extra bite and brightness of a lemon twist is a must here. Given the level of rampant invention in the cocktail community, I have little doubt that this exact drink has already been created by some bartender in some bar somewhere. But that bartender didn’t write this book.
+    glassware: 
     ingredients:
     - 2 ounces Buffalo Trace Bourbon
     - ¼ ounce Fernet Branca
