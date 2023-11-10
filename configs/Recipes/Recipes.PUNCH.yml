@@ -921,8 +921,6 @@ recipes:
     - shaken
     - citrus
     - gimlet
-    tags:
-    - 
   - name: Long Island Bar Gimlet
     author: Toby Cecchini
     url: https://punchdrink.com/recipes/long-island-bar-gimlet/
@@ -1645,7 +1643,8 @@ recipes:
     - Pour into a chilled double rocks glass, and top with more pebble ice.
     - Garnish with a mint bouquet and serve with a straw.
     tags:
-    - 
+    - shaken
+    - citrus
   - name: Rose City
     author: Jim Meehan
     url: https://punchdrink.com/recipes/rose-city/
@@ -3946,7 +3945,7 @@ recipes:
     tags:
     - shaken
     - citrus
-    - mmojito
+    - mojito
   - name: "&thesea"
     author: Peter Altenburg
     url: https://punchdrink.com/recipes/thesea/
@@ -4415,27 +4414,3 @@ recipes:
     - wild child
     - shaken
     - citrus
-  - name: 
-    author: 
-    url: 
-    notes: 
-    year:
-    glassware: 
-    ingredients: 
-    - 
-    steps:
-    - 
-    tags:
-    - 
-  - name: 
-    author: 
-    url: 
-    notes: 
-    year:
-    glassware: 
-    ingredients: 
-    - 
-    steps:
-    - 
-    tags:
-    - 

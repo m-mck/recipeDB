@@ -119,7 +119,8 @@ recipes:
     - Add remaining ingredients and ice. Shake hard.
     - Strain into a chilled cocktail glass and garnish with 9 drops of rose water.
     tags:
-    - 
+    - shaken
+    - citrus
   - name: Burned Popcorn
     author: Kyle Davidson
     notes: 
@@ -185,7 +186,8 @@ recipes:
     - Shake and strain over a rock.
     - Garnish with 3 raspberries on a skewer.
     tags:
-    - 
+    - shaken
+    - citrus
   - name: Eeyor's Requiem
     author: Toby Maloney
     notes: Bitter layered on bitter given a backbone of proof and a measure of levity from the vermouth. Advanced cocktail construction.

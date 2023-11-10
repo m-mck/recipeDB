@@ -97,7 +97,8 @@
           "Speakeasy",
           "Smuggler's Cove, Exotic Cocktails, Rum, and the Cult of Tiki",
           "Tropical Standard: Cocktail Techniques & Reinvented Recipes",
-          "Sherry: A Modern Guide to the Wine World’s Best-Kept Secret"
+          "Sherry: A Modern Guide to the Wine World’s Best-Kept Secret",
+          "Tuxedo No. 2"
         ]
       },
       "recipes": {
@@ -395,7 +396,10 @@
                     "speakeasy: long drinks and fancy cocktails",
                     "speakeasy: pitchers, punches, and sangrias",
                   "room for improvement",
-                  "wild child"
+                  "wild child",
+                  "donna",
+                  "mojito",
+                  "mai tai"
                 ]
               }
             }
