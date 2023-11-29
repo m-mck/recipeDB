@@ -1,14 +1,12 @@
 source: Milk & Honey
 recipes:
-
 #smth after tattletale & spring forward?
 
-#
 #The Old-Fashioned
   - name: The American Trilogy
     author: Richard Boccato
     notes: During my early training behind the bar at Little Branch and Milk & Honey, I was fortunate enough to share many shifts with Michael McIlroy, whose friendship and tutleage in the ways of the Petraske method of drink-making were fundamental to my career. Once, in the midst of a sleepy shift at Little Branch, I asked Mickey whether or not a cocktail could be built in the glass and devised with ingredients that were slightly different from those that we used to make our house Old Fashioned. This drink came about without much trial and error, and we gave it the name it still bears. Although the cocktail's contents may not technically be 100 percent "American," neither are the two bartenders who married it in a glass. Apples and oranges, as they say. -Richard Boccato
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 small brown sugar cube
     - 2 to 4 dahes orange bitters
@@ -29,7 +27,7 @@ recipes:
   - name: Home on the Range
     author: Michael Madrusan
     notes: This drink is based on an old recipe I found years ago in Crosby Gaige's Cocktail Guide and Ladies' Companion (M. Barrows and Company, January 1941). The book was a trusted resource to build drinks upon, and Sasha made certain this one maded its way to all of his cocktail branches. -Michael Madrusan
-    glassware: 
+    glassware: rocks
     ingredients:
     - 3 dashes Angostura bitters
     - 1/4 oz Cocchi Vermouth di Torino sweet Vermouth
@@ -49,7 +47,7 @@ recipes:
   - name: The Sherpa
     author: Matt Clark
     notes: I met Sasha when I was the doorman at Dutch Kills. Over the course of the next six years, as I worked my way up to bartender, his guidance was invaluable. He was my mentor and a good friend. He always spoke to me as a peer, even at the very beginning of my career. At the time, I remember being exasperated by his meticulousness — we spent nearly an hour and a half adjustingn this recipe incrementally in different directions to see what worked best, and in the end we settled on the first recipe we'd tried. But the experience of trying each minor variation taught me just how delicate the human palate is and just how important it is to be exact in your measurements. -Matt Clark
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 dashes orange bitters
     - 1/4 oz Curacao
@@ -69,7 +67,7 @@ recipes:
   - name: Si-Güey
     author: Michael Madarusan
     notes: Segue — as in, "to move, without interruption, from one scene to another" — is imperative for working in the tight quarters of any Petraske bar. Güey is the colloquial Mexican Spanish way of referring to any person without using his name, and "Si, güey" was something Sasha and all the bartenders would say to one another at various points of the evening. -Michael Madrusan
-    glassware: 
+    glassware: rocks
     ingredients:
     - 3 dashes orange bitters
     - 1/4 oz Cucraco
@@ -87,7 +85,7 @@ recipes:
   - name: Tattletale
     author: Sam Ross
     notes: "Sasha was more than just a mentor to me: he was one of my closest friends. He was the only one who would come into the bar and bust my chops about washlines, water content, or inefficient jigger use, and you know what? He was always right. Sasha was thoughtful, gentle, and trusting. He would come into Pegu Club when it first opened — it was one of three bars I was working at during that timme. I wanted him to try this cocktail, despite the fact that he hated smoky Scotch. He put the glass to his lips and sat up straight. I took one look at his face before removing the offending drink and honoring his request for a double Queen's Park Swizzle. This cocktail is a deliciously smoky riff on an Old Fashioned fattened up by using honey instead of sugar. -Sam Ross"
-    glassware: 
+    glassware: rocks
     ingredients:
     - 3 dahes Angostura bitters
     - 1 barspoon honey
@@ -109,7 +107,7 @@ recipes:
   - name: .38 Special
     author: Michael Madrusan
     notes: Sasha wouldn't initially let me name this the .38 Special because he said it sounded too violent. I had explained the relevance of the name in regards to the spec, but he wouldn't budge. I brought up the French 75 and he still wouldn't cave. I sulked like a child, and I rarely made the drink until he'd forgotten about it. About a month later, he came around. -Michael Madrusan
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 3/8 oz blended Scotch
     - 3/8 oz yellow Chartreuse
@@ -126,7 +124,7 @@ recipes:
     author: Chad Solomon
     notes: I was inspired to create the Bensonhurst as an alternative to the Brooklyn Cocktail, partly because of the lack of original-formula Amer Picon. It was the winter of 2006 and I was working at both Milk & Honey and the Pegu Club. Vincenzo Errico had already created the Red Hook at Milk & Honey in 2004 as the first of the Brooklyn variations, which set the precedent of choosing other Brooklyn neighborhoods to name the variations it spawned. -Chad Solomon
     year: 2006
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz Dolin dry Vermouth
     - 1 teaspoon Cynar
@@ -143,7 +141,7 @@ recipes:
   - name: Cobble Hill
     author: Sam Ross
     notes: This is a very early Milk & Honey drink from when we were putting cucumbers in everything. Sasha and I were thinking of a Manhattan that you could drink during the summertime. We came up with the Cobble Hill—light and floral, as opposed to the heavy style of the classic Manhattan.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3 thin cucumber slices
     - 2 oz rye whiskey
@@ -153,7 +151,7 @@ recipes:
     - Add 2 cucumber slices to a mixing glass and gently bruise with a muddler.
     - Add the rye, amaro, and vermouth.
     - Fill the glass with ice and stir for 30 seconds.
-    - Strain iinto a chilled coupe and garnish with the remaining cucumber slice.
+    - Strain into a chilled coupe and garnish with the remaining cucumber slice.
     tags:
     - Milk & Honey
     - "the martini and the manhattan: cocktails stirred and served up"
@@ -162,7 +160,7 @@ recipes:
   - name: Deep Blue Sea
     author: Michael Madrusan
     notes: This was the first drink I created for Sasha. I made the drink so many times, and tried seemingly every variation by the end of the evening, before he finally passed it. (You had to have your drinks approved before you could serve them.) I couldn't believe how much time he gave me that night—it was like Dad playing catch with you. -Michael Madrusan
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz gin
     - 3/4 oz Cocchi Americano
@@ -181,7 +179,7 @@ recipes:
   - name: Fallback Cocktail
     author: Sasha Petraske
     notes: Sasha created this cocktail for the autumn menu at the John Dory Oyster Bar, where he consulted. It's the perfect indulgence to savor with the guilty pleasure of their buttery Parker House rolls. -Lucinda Sterling
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 dashes Peychaud's bitters
     - 1/2 oz Amaro Nonino
@@ -191,7 +189,7 @@ recipes:
     - An orange twist, for garnish
     steps:
     - Build the drink in a whiskey glass, adding the bitters, amaro, Carpano Antica, applejack, and whiskey.
-    - Add 1 large icec cube.
+    - Add 1 large ice cube.
     - Stir until the drink is sufficiently chilled.
     - Garnish with the orange twist.
     tags:
@@ -203,7 +201,7 @@ recipes:
   - name: Gin & It
     author: Sasha Petraske
     notes: "This is right up with The Business; I can't think of a cocktail that is more expressly my husband. We both loved this drink so much that we batched it into Mason jars and gave them as our wedding favors with Milk & Honey coupes. Originally, this cocktail was sipped at room temperature. Adding ice to chill and increase water content is a contemporary evolution, and this method has now fallen into favor. 'It' is short for Italian vermotuh, and the original recipe from the 1905 Hoffman House Bartender's Guide: How to Open a Saloon and Make It Pay (R.K. Fox, January 1905) calls for 2 1/2 ounces gin and 1/2 ounce sweet Italian vermouth, but Sasha and I only ever drank it with a 2:1 gin-to-vermouth ratio. -Georgette Moger-Petraske"
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz gin
     - 1 oz sweet vermouth
@@ -220,7 +218,7 @@ recipes:
   - name: Left Hand
     author: Sam Ross
     notes: We created a series of 'Hand' cocktails in the early days of Milk & Honey. The Right Hand was an aged-rum take; Tres Hands was its mezcal and tequila sister; and the Smoking Hand was her brother from Islay and the Highlahds. Before the Boulevardier came back into prominence, this was a bourbon riff on the Negroni that we created using the newly released chocolate bitters from Bittermen's. Sashs reserved his compliments for only a few drinks, but this was one of our cocktails in the 'Hand' series that he loved. 'Well played, Sam,' he said. -Sam Ross"
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz bourbon
     - 3/4 oz sweet vermouth
@@ -237,9 +235,8 @@ recipes:
     - stirred
     - negroni
   - name: Martini
-    author: 
     notes: The Martini is to a stirred drink what a Daiquiri is to a shaken one—total simplicity; just straightforward technique and execution. Conventional wisdom would have you believe that a proper martini is dry, but Sasha's martini was as wet as I've ever seen—a straight 2:1 ratio, and with gun unless otherwise specified. At the Petraske bars, stirred drinks are, as a rule, built to a 3-ounce liquid volume. You would often see Sasha bent low, inspecting the washlines of each round of drinks that were about to go out. He always said that the end goals were a drink that was as cold as possible ('No such thing as a too-cold drink') and the appropriate water content. All classic Martini garnishes complement the drink, and a lemon twist, potently aromatic and bitter, has to be applied with a light touch. Once I saw Sasha order a Martini with a twist from one of his favorite bartenders, and the bartender squeezed every bit of oil from the twist over the drink. Sasha tasted it and handed it back for him to taste. All you could taste and smell, he said, was the lemon peel, all the balance gone. He wasn't mad or mean about it—just teaching, as always. -Abraham Hawkins
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz dry vermouth
     - 2 oz gin
@@ -258,7 +255,7 @@ recipes:
     author: Vincenzo Errico
     notes: "I was working at Match Bar in London when I met Sasha for the first time. He had come over to open Milk & Honey London with Jonathan Downey (the owner of the Match company), and I was going to be part of the opening team. One night I had to pour a glass of Champagne, and I did it holding the bottle with the label facing down. Sasha gently corrected me: the label of the bottle always has to facec up when you are serving it. I countered that while I knew that, no one in the bar could see us in there, but he said that it was out of the resepect for the product that we had to do it. Such a gentleman always—in and out of the bar. Later Sasha asked me to work for him  at the original Milk & Honey in New York. For me, the original location was the best bar, but not for Sasha. He was always thinking about how he could improve the service. For example, the bartenders were juicing the citrus there were juicing the citrus for the cocktails to order so the juice wasn't too oxidized. Genius. I created the Red Hook Cocktail at Milk & Honey in 2003, and I'm proud that this cocktail is now on the menus of many other bars, where it arrived simply by word of mouth. -Vincenzo Errico"
     year: 2003
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz rye whiskey
     - 1/2 oz Luxardo Maraschino liqueur
@@ -275,7 +272,7 @@ recipes:
   - name: Savoir Faire
     author: Lauren McLaughlin
     notes: Theo Lieberman brought me on to Lantern's Keep where he was the head bartender and held a true reverence for how much care Sasha had put into understanding cocktails. He emphasized that we really needed to live up to that. When the 23rd Street Milk & Honey opened and Theo became the head bartender, he brought me over to work as a bartender. Whenever Sasha would point something out to me or give me a complimentary nod, I felt lucky. He knew that we were all really proud to be there. Georgette would come to Milk & Honey on 23rd Street to have the occasional cocktail, and I was told that she was a lover of floral drinks. I am also one of those happy few, and I finally got up the guts to make her one of my own cocktails, the Savoir Faire. -Lauren McLaughlin
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1/4 oz Aveze
     - 1/4 oz Dolin dry vermouth
@@ -293,9 +290,8 @@ recipes:
     - stirred
     - martini
   - name: Spring Forward
-    author: 
     notes: The Sam Ross and Michael McKillroy Sunday night shift on Eldridge Street at Milk & Honey was the most 'industry' thing I could have hoped to become a part of. Sasha had assemble what I thought to be the most amazing bar family in the world. Sammy was quick to introduce me to Sasha, a quiet but larger-than-life figure. 'Have you met Theo? He is going o be a big part of our community.' Sasha was having a classic riff on the Mai-Tai that Sam had found in a book. I ordered one as well and resumed my nervous conversation with the man I had spent months admiring from afar. Later that year Sasha told me about a project he was working on in the Ace Hotel—The John Dory Oyster Bar. This cocktail is a big seller there. -Theo Lieberman
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz gin
     - 1 oz dry Vermouth
@@ -314,7 +310,7 @@ recipes:
   - name: Apple Jack
     author: Sasha Petraske
     notes: If the shawl-collar cardigan were a cocktail, it would be this one. Sasha's Apple Jack was a play on the original cocktail from The Savoy Cocktail Book (from 1930). Much like his favorite sartorial standby, Sasha adored this drink on a crisp fall evening, but he also found it a fine choice to hunker down with deep into winter. Whereas the Savoy's version is simply half an ounce each of Italian vermouth and Calvados shaken with ice, along with a dash of Angostura bitters, and strained into a coupe, Sasha's imparts a finely balanced cornucopia of spices and autumn fruit by way of apple cider and applejack. -Georgette Moger-Petraske
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1/2 oz fresh lemon juice
     - 1/2 oz simple syrup
@@ -328,8 +324,9 @@ recipes:
     - "the sour: traditional and non-traditional"
     - shaken
     - citrus
+    - autumn
   - name: Bee's Knees
-    author: 
+    author: coupe
     notes: One of Sasha's favorite cocktails, this one dates back to the Prohibition era. The addition of lemon juice and honey was once used to mask the taste and smell of bathtub gin. -Georgette Moger-Petraske
     glassware: 
     ingredients:
@@ -348,7 +345,7 @@ recipes:
   - name: The Business
     author: Sasha Petraske
     notes: "My favorite Sasha cocktail is The Business. The drink perfectly embodies Sasha's treasured principle of simplicity and the flip-side of that principle: his merciless attention to detail. If the drink were just a tiny bit off, he wouldn't serve it to a dog. When there are only three ingredients, you have little behind which to hide imperfection. The name of the drink is a play on words, as it is a slight variant of the classic Bee's Knees. Pronounce the names one after the other and you'll get it. -Zachary Gelnaw-Rubin"
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz gin
     - 1 oz fresh lime juice
@@ -363,7 +360,7 @@ recipes:
     - shaken
     - citrus
   - name: Caipirinha
-    author: 
+    author: double rocks
     notes: Sasha loved Caipirinhas and has taught us how to make them properly. With 'peasant-style drinks'—those made with mdudled citrus and cracked ice—the acidity of the citrus can change drastically from day to day, depending on the size, ripeness, and origin of the fruit. This makes it especially important to taste your first drink of the night, gauge the acidity, and then use that as the benchmark for the rest of the evening. The same also goes for drinks with fresh berries and, basically, any ingredient with the potential for variation. The other important factor when tasting cracked-ice drinks is coldness and water content. Every facet of your cracked ice is going to affect the amount of water that will melt into the drink as you shake it. -Karin Stanley
     glassware: 
     ingredients:
@@ -381,9 +378,8 @@ recipes:
     - shaken
     - citrus
   - name: Calvados 75
-    author: 
     notes: Sasha was a big fan of sparkling drinks. The Calvados 75 uses Calvados or applejack in lieu of the gin in a classic French 75, along with some fresh lemon juice. Topping it off with Champagne or cava brings a certain brunch-like comfort to this cocktail—day or night. -Lucinda Sterling
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 oz Calvados or applejack
     - 1/2 oz fresh lemon juice
@@ -399,9 +395,8 @@ recipes:
     - citrus
     - sparkling
   - name: Champs-Élysées
-    author: 
     notes: This is a perfect fall cocktail—a riff on the Sidecar, with the orange Curacao switched out for green Chartreuse, which explodes with complexity. I love a Sidecar; it is simplicity at its finest. But the Champs is wildly unexpected and thought provoking. The first time I had one, I did a cartoon-like double-take after the first sip. Most people I serve it to did the same. -Toby Maloney
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz Cognac
     - 3/4 oz fresh lemon juice
@@ -416,10 +411,11 @@ recipes:
     - "the sour: traditional and non-traditional"
     - shaken
     - citrus
+    - autumn
   - name: Cosmonaut
     author: Sasha Petraske
     notes: This is one of Sasha's cocktails that didn't get as much play as it should have, for some reason—it's excellent. Sasha named it as a jab towards the popularity of the Cosmopolitan, which this drink, emphatically, is not. Much like the Marmalade Cocktail of the 1930s (from Harry Craddock's The Savoy Cocktail Book), but a bit sweeter with the use of raspberry preserves rather than orange marmalade, this makes a great aperitif. Sasha's jam brand of choice was Bonne Maman—the jars with the red-and-white-checkered lids. -Michael Madrusan
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz gin
     - 3/4 oz fresh lemon juice
@@ -433,9 +429,8 @@ recipes:
     - shaken
     - citrus
   - name: Daiquiri
-    author: 
     notes: A perfect Daiquiri is a window into the technique and talent needed to make any shaken drink. For this reason, it is the test drink for anyone who wants to see what a bar or bartender is all about. Sasha often made his Daiuiris with 7/8 ounce of lime juice because, depending on the lime, a full ounce of juice could make a drink a little too tart. That moment really drove home the importance of tasting every drink—especially the first drinks of the night—because even if you make the drink 'right,' the ingredients, even in the simplest of drinks, will not always guarantee the same results. Sasha's pursuit of quality was relentless. If there was a problem with one of the drinks in a round, the whole round would be thrown out and begun again. Every drink had to be perfect and rthey all had to go out together. What mattered was quietly and unobtrusively doing our part—not for applause or personal gain, but simply because it was the right way to do things. -Abraham Hawkins 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 7/8 to 1 oz fresh lime juice, to taste
     - 3/4 oz simple syrup
@@ -452,7 +447,7 @@ recipes:
   - name: Daiquiri No. 4
     author: Sasha Petraske
     notes: "Sasha taught me how to make the Daiquiri early on, and he often requested one from me when I was behind the bar at Milk & Honey and Little Branch. This is yet another drink that demonstrates the elegance that defined Sasha's personal drink style: three ingredients, perfect balance, no fuss."
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3/4 oz Luxardo Maraschino liqueur
     - 3/4 oz fresh lime juice
@@ -471,7 +466,7 @@ recipes:
   - name: Debbie, Don't
     author: Zachary Gelnaw-Rubin
     notes: One night when I was working at Dutch Kills, Sasha came in for some pisco sours. I took the opportunity to have him try a funny little cocktail I had been working on. He surprised me by telling me it was the best drink I had ever come up with. 'If you don't understand why,' he told me, 'that's OK.' I decided to call it Debbie, Don't after the ghost that haunts the bathrooms at Dutch Kills. -Zachary Gelnaw-Rubin
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz tequila reposado
     - 1 oz Amaro Averna
@@ -487,9 +482,8 @@ recipes:
     - shaken
     - citrus
   - name: Freca Platino
-    author: 
     notes: Sasha came to the opening of our Dallas bar, Midnight Rambler, in 2014 and worked with us for a day in our lab trying to get to the bottom of several questions of interest to him. One of the things we worked on was trying to nail down a perfect ratio of 'acid to sugar,' as he had been questioning the usual ratio of 1 oz of lime juice to 3/4 oz of simple syrup, thinking that it was no longer correct and it needed to evolve. Such a ratio was not determined, but this speaks to his focus on the minutiae—never resting, always looking to improve—that made his cocktails extraordinary. -Chad Solomon & Christy Pope
-    glassware: 
+    glassware: rocks
     ingredients:
     - 3 or 4 thin cucumber slices
     - 2 fresh mint sprigs
@@ -509,7 +503,7 @@ recipes:
   - name: Gabriella
     author: Ben Long
     notes: For a cocktail that would go on the spring and summer menu at The John Dory Oyster Bar, I knew I wanted to use pisco and strawberries. Sasha thought we were onto something tasty, so he had me work on the drink until we decided the strawberry was ading just enough tartness to the drink to scant-measure the lemon. We decided to serve it in a rocks glass with crushed ice and add a pinch of salt, mimicking a Gordon's Cup. The drink was straightforward to make and a real crowd-pleaser. Sasha also taught me that when you name a cocktail, you do it either after its parent—like the Hemingway Daiquiri, for example—or for something that has a story. I went with the latter method for the Gabriella, after the first Miss Universe from Peru, one of the ancestral homes of pisco. -Ben Long
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 large strawberry, halved
     - Scant 3/4 oz fresh lemon juice
@@ -527,16 +521,16 @@ recipes:
     - shaken
     - citrus
   - name: Ginger Cocktail
-    author: 
     notes: I can't remember exactly when I met Sasha, because I was probably only eight years old, or maybe younger. I do recall one of his visits to my parents' apartment, for a dinner where most of the Milk & Honey family was present. I loved working at Milk & Honey. I was just a porter and then a barback, but knowing I had a bigger family there made me happy. -Carolyn Gil
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz gin
     - 1/2 oz fresh lime juice
     - 3/4 oz Ginger Syrup
     - A piece of candied ginger, for garnish
     steps:
-    - Combine the gin, lime juice, and ginger syrup in a cocktail shaker, add 1 large ice cube, and shake vigorously until the drink is sufficiently chilled. Strain into a chilled coupe and garnish with the candied ginger.
+    - Combine the gin, lime juice, and ginger syrup in a cocktail shaker, add 1 large ice cube, and shake vigorously until the drink is sufficiently chilled. 
+    - Strain into a chilled coupe and garnish with the candied ginger.
     tags:
     - Milk & Honey
     - "the sour: traditional and non-traditional"
@@ -545,7 +539,7 @@ recipes:
   - name: The Gold Rush
     author: T. J. Siegal
     notes: "The Gold Rush was created by T. J. Siegal, who was Sasha Petraske's best friend from childhood. T. J. contributed much of his life saving to help Sasha open Milk & Honey. His knowledge, wisdom, and advice from his years of experience in the service industry were bestowed upon me and my colleagues by Sasha as gospel. The Gold Rush is one of the fundamental examples of the Milk & Honey cocktail program: three ingredients, perfect balance, and no fuss. This drink became a standard in bars the world over, and it was also the inspiration for The Penicillin, along with several other lesser-known variations. Here is the recipe as Sasha taught it to me. -Richard Boccato"
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 3/4 oz fresh lemon juice
     - 3/4 oz honey syrup
@@ -562,7 +556,7 @@ recipes:
   - name: Gordon's Breakfast
     author: Carolyn Gil
     notes: "We never really told Sasha how much he meant (and still means) to us, but I'm sure he knew. He introduced me to the biggest and most amazing family I'll ever have: Uncle Sammy, Uncle Mickey, and Tío Richie, among others. There's no way for me to thank him enough for that—all the knowledge and the great memories he was part of. This is a variation on one of his signature cocktails, Gordon's Cup—it makes a terrific brunch drink. -Carolyn Gil"
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 oz London dry gin
     - 6 lime wedges
@@ -584,7 +578,7 @@ recipes:
   - name: Gordon's Cup
     author: Sasha Petraske
     notes: Sasha was definitively known for reviving a lost culture. While he brought back an era of cocktail creation that could not pososibly be reinvented without some overlap of the past and present, his intention was to reintroduce classic cocktails made with the best contemporary ingredients. A true Sasha original, this cocktail can be a morning kickstarter, a hangover remedy, or a refreshing nightcacp. Cucumber, lime, sugar, and salt cover all the bases. -Lucinda Sterling
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 small lime, cut into 8 wedges
     - 3 or 4 cucumber slices
@@ -606,7 +600,7 @@ recipes:
   - name: Harvest Sour
     author: Sasha Petraske
     notes: "Once, Sasha came to the bar and ordered a Harvest Old Fashioned, a widely known drink from the Petraske bar lexicon. It was the first time I ever heard of the drink, but I knew right away how to make it: an Old Fashioned variation with the spirit body of a Harvest Sour. It mamde plain the fact that it isn't important to be constantly innovative—creativity should always take precedence. Sasha's system was a skeleton of a body of drinks—the ratios of the elements were a given for the different drink styles, but the elements themselves are infinitely variable. Thinking in these terms exponentially increases one's poptential drink repertoire. -Abraham Hawkins"
-    glassware: 
+    glassware: irish coffee mug
     ingredients:
     - 1 white sugar cube
     - A dash of Angostura bitters
@@ -630,7 +624,7 @@ recipes:
   - name: Hole in the Cup
     author: Lauren McLaughlin
     notes: I remember once passing by the service bar when Sasha was correcting a staff member, reminding him to make sure there was less detritus on the surface of the drink in question. I don't think I had heard anyone use the word 'detritus' so casually before. I repeat the phrase to myself sometimes, a reminder that gives me a little laugh, especially when I make Sasha's Gordon's Cup. After attempting to make an absinthe riff on that drink, I came up with something a little off the map that became a real crowd-pleaser, one that disappears as quickly as its name implies.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1/2 oz fresh lime juice
     - 3/4 oz simple syrup
@@ -651,7 +645,7 @@ recipes:
   - name: JFK Harris
     author: Zachary Gelnaw-Rubin
     notes: Over the years, Sasha mentioned a few times that his Holy Grail was for one of his bartenders to invent 'the next Mojito.' I think Sam Ross came pretty close with the Penicillin, but I took a couple cracks at it too. One of them was this early effort from my Dutch Kills days. This cocktail is a great way to use some red wine that has been open for a day and is on its way out. Float it on top of the cocktail and stir into it into the drink for a refreshing summer beverage. I named this drink after the unknown poet Julian Frederick Knipp Harris, a great friend who used to concoct a mint lemonade with red wine for brunch (this happens to be the samme colleague who convinced me to go to Little Branch). -Zachary Gelnaw-Rubin
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 2 oz white rum
     - 3/4 oz fresh lemon juice
@@ -670,7 +664,7 @@ recipes:
   - name: Kentucky Maid
     author: Sam Ross
     notes: This drink is part of the 'Maid' category that was first created for drink maven Lynette Marrero during her tenure at East Side Company, Sasha's first New York City offshoot of Milk & Honey. The first one was done with gin and called the Ol' Biddy, but Sasha disapproved of the name, so we switched to the London Maid. The same drink can be made with any base spirit; just change the first part of the name to align with the origins of the spirit used—in this case, bourbon. -Sam Ross
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 oz bourbon
     - 1 oz fresh lime juice
@@ -687,9 +681,8 @@ recipes:
     - shaken
     - citrus
   - name: The Medicina Latina
-    author: 
     notes: Most of my experiences with Sasha were when he visited Los Angeles to go over techniques and classics with us at The Varnish. This was one of the cocktails he taught me. It's a variation on Sammy's Penicillin, but it would not be possible without the signature Milk & Honey honey syrup and high-powered ginger syrup. This cocktail should be shaken and strained over a big rock, but the key is to layer the mezcal on top, so as to be able to smell the smoke before imbibing it. -Marcos Tello
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 oz tequila blanco
     - 3/8 oz honey syrup
@@ -709,7 +702,7 @@ recipes:
   - name: Oaxacanite
     author: Ben Long
     notes: After working for a few years at The John Dory Oyster Bar, where Sasha was consulting, I started to feel more confident in creating drinks using Sasha's methods. I was experimenting with mezcal for a spring/summer cocktail menu when Sasha said he didn't like mezcal. He thought its flavor was too dominant in drinks. Naturally I tried even harder to come up with a mezcal drink he would put on the list. The resulting drink was complex and balanced, and when I put one in front of Sasha, he loved it, and immediately passed it for the list. It's named for Oaxaca, the Mexican state that produces mezcal, and it's still my favorite of my own drinks. -Ben Long
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3/4 oz fresh lime juice
     - 3/4 oz honey syrup
@@ -718,7 +711,7 @@ recipes:
     - Scant 1/2 teaspoon Angostura bitters
     - A 2-inch grapefruit twist
     steps:
-    - Combine the lime juice, honey syrup, teuila, mezcal, bitters, and a grapefruit twist in a cocktail shaker and shake vigorously until the drink is sufficiently chilled.
+    - Combine the lime juice, honey syrup, tequila, mezcal, bitters, and a grapefruit twist in a cocktail shaker and shake vigorously until the drink is sufficiently chilled.
     - Strain into a chilled coupe.
     tags:
     - Milk & Honey
@@ -728,7 +721,7 @@ recipes:
   - name: Paper Plane
     author: Sam Ross
     notes: This cocktail is named after the M.I.A. track that was blasting on repeat the summer we worked on the drink. The song was one of Sasha's guilty pleasures, so far from the 30's jazz we were usually playing at the bar. We created it for another Milk & Honey alum, Toby Maloney, when he was looking for a new cocktail for the summer menu of his Chicago bar, The Violet Hour. It's a riff on the equal-parts brilliance of the Last Word and my favorite amaro. It took a lot of tweaking, but we finally got there. -Sam Ross
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3/4 oz bourbon
     - 3/4 oz fresh lemon juice
@@ -745,7 +738,7 @@ recipes:
   - name: The Penicillin
     author: Sam Ross
     notes: After we were delivered the recently released line of Compass Box Scotch whiskies, I was playing around with a riff on the Gold Rush, with the Islay Scotch replacing the bourbon and a litle candied ginger thrown in for spice. I then grabbed the super-smoky Peat Monster Scotch and floated some of that on top for nose—it turned out pretty well. -Sam Ross
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 oz blended Scotch
     - 3/4 oz fresh lemon juice
@@ -765,9 +758,8 @@ recipes:
     - citrus
     - peaty
   - name: Pisco Sour
-    author: 
     notes: "'Drink while still frothy.' If there is one drink that most reminds me of Sasha, it is this one. When we first opened the Milk & Honey on 23rd Street, he would come in late in the evening to do the a.m. closing shift, and I would switch out and be done for the night. But I would stay to see how the transition went and to soak up as much of Sasha's personality behind the bar as I could. The first thing he would do was make pisco sours for everyone at the bar, his way of greeting new guests and longtimme regulars alike. -Gil Bouhana"
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3/4 oz fresh lemon juice
     - 3/4 oz simple syrup
@@ -776,7 +768,10 @@ recipes:
     - 3 dashes Angostura bitters
     - Freshly grated cinnamon, for garnish
     steps:
-    - Combine the lemon juice, simple syrup, pisco, and egg white in cocktail shaker and shake vigorously for 15 to 20 seconds. Add a decent amount of ice and shake again until the drink is sufficiently chilled. Strain into a chilled coupe. Garnish with bitters and a light dusting of cinnamon.
+    - Combine the lemon juice, simple syrup, pisco, and egg white in cocktail shaker and shake vigorously for 15 to 20 seconds. 
+    - Add a decent amount of ice and shake again until the drink is sufficiently chilled. 
+    - Strain into a chilled coupe. 
+    - Garnish with bitters and a light dusting of cinnamon.
     tags:
     - Milk & Honey
     - "the sour: traditional and non-traditional"
@@ -785,7 +780,7 @@ recipes:
   - name: Regal Amburana
     author: Gil Bouhana
     notes: This drink sprang from Sasha's relationship with Peter Nevenglosky and Nate Whitehouse from Avua Cachaça. They would frequently visit and sit at a table with Sasha, who would always steer them towards a Bartender's Choice. The Milk & Honey family has always been a fan of Daiquiris, so a variation with Avua Amburana was a perfect fit. I shook the drink with a grapefruit peel acting as a bittering agent instead of bitters—this technique is referred to as a Regal. I sent it out. Sasha came back and said, 'That's a drink!' From then on, it was a staple. -Gil Bouhana
-    glassware: 
+    glassware: coupe
     ingredients:
     - 7/8 oz fresh lime juice
     - 3/4 oz honey syrup
@@ -793,7 +788,8 @@ recipes:
     - A 2-inch grapefruit twist
     - A lime wedge, for ganish
     steps:
-    - Combine the lime juice, honey syrup, cachaça, and grapefruit twist in a cocktail shaker. Fill with ice and shake vigorously until the drink is sufficiently chilled.
+    - Combine the lime juice, honey syrup, cachaça, and grapefruit twist in a cocktail shaker. 
+    - Fill with ice and shake vigorously until the drink is sufficiently chilled.
     - Strain into a chilled coupe and garnish with the lime wedge.
     tags:
     - Milk & Honey
@@ -804,7 +800,7 @@ recipes:
   - name: Rye Hummingbird Down
     author: Marcos Tello
     notes: This cocktail goes back to when Sasha, inspired by the Bee's Knees, swapped lime out for the lemon to create The Business. Chad Solomon, another mentor/teacher of mine who was Sasha's student, introduced me to the Gin Hummingburd Down and I gave it my own spin with rye. This is a classic 'Petraske Family Twist,' as we all know that inspiration lies in the smallest variations. -Marcos Tello
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz rye whiskey
     - 3/4 oz honey syrup
@@ -822,7 +818,7 @@ recipes:
   - name: Saladito
     author: Marcos Tello
     notes: This drink is basically a mecal version of The Business, with just a bit of cayenne and sea salt on top. It should be shaken with one big rock until the surface of the strained drink almost looks soapy. The froth is part of the textural experience of the drink. It also helps pus the salt and cayenne combo forward. -Marcos Tello
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz Espadin mezcal
     - 3/4 oz honey syrup
@@ -841,7 +837,7 @@ recipes:
   - name: The Seaplane
     author: Joseph Schwartz
     notes: "To create this drink, I thought to myself: If Sasha were my customer, what would I make him? It's a variation of one of his favorite cocktails, the classic French 75. -Joseph Schwartz"
-    glassware: 
+    glassware: flute
     ingredients:
     - 1 oz gin
     - 1/2 oz fresh lemon juice
@@ -863,7 +859,7 @@ recipes:
   - name: Street & Flynn Special
     author: Joseph Schwartz
     notes: "Traveling to Jamaica with my wife taught me about the geography of Portland Parish, the northeast coast of the island, where her family lives. Among those who lived there at once time were Ian Fleming and Errol Flynn. The latter was a notorious bon vivant, and was often spotted drinking with Sam Street, a Jamaican doctor and hotelier. Their dedication to the good life was so widely known that the parish is sometiimes referred to as 'The Land of Street and Flynn.' Sasha, like Errol Flynn, had a larger-than-life quality: His style of dress, affinity for nostalgia, the way he rode his bike around town—all that was just Sasha being Sasha. When I first learned of the significance of 'The Land of Street and Flynn,' I instantly knew the vintage glamour and reputation  attached to the reference would appeal to Sasha. This drink combines a Jamaican dark rum with pimento dram, an allspice liqueur popular on the island. -Joseph Schwartz"
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 1/2 oz dark rum, preferably Coruba
     - 1/2 oz pimento dram
@@ -883,7 +879,7 @@ recipes:
   - name: Sugarplum
     author: Joseph Schwartz
     notes: "Sasha always emphasized that a straightforward cocktail was the call of the day. This drink, in keeping with the Milk & Honey ethos of simplicity, was an early creation—a variation on a classic cocktail called The Blinker. Sasha's romantic sense of life was infectious, and he inspired us to be our better selves in ways outside the bars where we worked: on the sidewalk, on the train, in our lives. When I named the Sugarplum after a pet name given to my wife by her grandmother, he regarded it as a thoughtful element of my courtship duties as a gentleman. Of course he was right. We do better when we take his example and consider bygone or fading customs. Sasha demonstrated the value of those that foster anticipation over gratification, care and quality before convenience, and fairness and generosity governing ambition. For a variation on this cocktail, swap out the gin with tequila. -Joseph Schwartz"
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz fresh grapefruit juice
     - 1/2 oz grenadine syrup
@@ -899,7 +895,7 @@ recipes:
   - name: Sutter's Mill
     author: Gil Bouhana
     notes: "This drink is a variation on one of my favorite cocktails, the Gold Rush. It's such a straightforward drink, with only three components: lemon, honey syrup, and bourbon. I liked the idea of grated cinnamon over pisco sours as an aromatic, so I tried it on the bourbon, and that was it! As for the name: An American history professor was sitting at a table in the bar, and Sasha brought him the then-nameless drink. As soon as the profefssor heard the ingredients, he exclaimed, 'Sutter's Mill'—where the first gold deposits were found in California. -Gil Bouhana"
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 2 pineapple wedges
     - 3/4 oz fresh lemon juice
@@ -919,7 +915,7 @@ recipes:
   - name: Tequila Eastside
     author: Chad Solomon
     notes: The Eastside was a pivotal drink at Milk & Honey that got people into drinking gin at a time when vodka reigned supreme and gin was still polarizing. This is a drink that made its way into the Milk & Honey lexicon through bartender Chad Solomon. He had worked for a time at another Lower East Side bar called Libation, where George Delgado, a gentleman and barman, had put together the cocktail list and trained the opening staff. Chad had a drink called the Eastside Fizz made with sugar, mint, lime, soda, and Hendrick's Gin—a gin touted for the cucumber in its makeup. We took the idea of his drink and molded it the Milk & Honey way, using tequila as the base. Per Sasha's suggestion, the spirit base was brought down to 1 1/2 oz rather than 2 oz, because of the more aggressive nature of the agave spirit. -Christy Pope
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 or 3 thin cucumber slices
     - A handful of fresh mint sprigs
@@ -936,9 +932,8 @@ recipes:
     - shaken
     - citrus
   - name: The Stark
-    author: 
     notes: This cocktail reminds me of my backback days at Milk & Honey. I was only a teenager and yet I was working in one of the most prestigious bars in New York City. The Stark may be a very simple drink, but the love put into it makes it very special. -Carolyn Gil
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1/2 oz fresh lemon juice
     - 1/2 oz honey syrup
@@ -946,7 +941,8 @@ recipes:
     - 1 1/2 oz Kentucky bourbon
     - Angostura bitters
     steps:
-    - Combine the lemon juice, honey syrup, Chartreuse, and boubon in a cocktail shaker, fill with ice, and shake vigorously until the drink is sufficiently chilled. Strain into a rocks glass and add cracked ice and a generous float of bitters.
+    - Combine the lemon juice, honey syrup, Chartreuse, and boubon in a cocktail shaker, fill with ice, and shake vigorously until the drink is sufficiently chilled. 
+    - Strain into a rocks glass and add cracked ice and a generous float of bitters.
     tags:
     - Milk & Honey
     - "the sour: traditional and non-traditional"
@@ -955,22 +951,22 @@ recipes:
   - name: The Tie Binder
     author: Sasha Petraske & Georgette Moger-Petraske
     notes: Sasha and I returned from our honeymoon on the Belmond Venice-Simplon Orient Express craving the white peach Bellinis that had been served onboard. We learned the technique of making the peach purée after a few trial runs in our kitchen in Hudson, New York, where sweet peaches were in abundance that summer. This cocktail is a variation on the Bellinis we had on the train, with a splash of Monkey 47—our special-occasion gin. -Georgette Moger-Petraske
-    glassware: 
+    glassware: flute
     ingredients:
     - 1 1/2 oz white peach purée
     - 1 oz gin, preferably Monkey 47 Schwarzwald
     - 2 oz Champagne if you're feeling fancy, or prosecco if it's Tuesday
     steps:
-    - Combine the purée and gin in a champagne flute. Slowly top off with the Champagne, stirring gently to incorporate the pink color and create a foamy top.
+    - Combine the purée and gin in a champagne flute. 
+    - Slowly top off with the Champagne, stirring gently to incorporate the pink color and create a foamy top.
     tags:
     - Milk & Honey
     - "the sour: traditional and non-traditional"
     - stirred
     - sparkling
   - name: Too Soon?
-    author: 
     notes: Sasha once told me that the Cynar logo was one of the most beautiful he'd ever seen. He had commissioned a regular, in exchange for free drinks, to stencil and paint it behind the bar at Milk & Honey, where it's still faintly visible on the exposed brick. While Sasha considered Cynar the vilest-tasting liqueur—often joking that in hell you'd ask for a glass of ice water and get served a glass of hot Cynar—he loved this drink. As the name implies, it is a pre-dinner aperitif, designed to be light, bitter, and bright. -Sam Ross
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz gin
     - 1 oz Cynar
@@ -986,9 +982,8 @@ recipes:
     - shaken
     - citrus
   - name: Turnpike
-    author: 
     notes: Another early Milk & Honey take on the sour, this was created to feature Laird's applejack and rye. The name refers to the highway that links New Jersey, home of Laird's, and Pennsylvania, home to Monongahela rye whiskey—to New York.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3/4 oz applejack
     - 3/4 oz fresh lemon juice
@@ -1008,7 +1003,7 @@ recipes:
     author: Richard Boccato
     notes: I recall an evening in 2007, when Georgette was elegantly poised at the bar with a twinkle of curiosity in her eye and nary a beverage in sight. She asked me to make her something containing violet syrup and gin. I don't recall fussing with the specs after the first few attempts, as Georgette's palate—and her understanding of spirits and cocktails—rival those of the most seasoned veterans within the Petraske family of bartenders. When prompted for a name for the cocktail, we somehow arrived at her middle name—Lillian. 'Water Lily' seemed like a good fit, since the drink has a crisp yet ethereal aspect. -Richard Boccato
     year: 2007
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3/4 oz orange liqueur, such as Cointreau
     - 3/4 oz violette syrup
@@ -1029,7 +1024,7 @@ recipes:
   - name: Bicycle Thief
     author: Zachary Gelnaw-Rubin & Abraham Hawkins
     notes: "Not long after I became a regular fixture at Little Branch I met Sasha. Everything about him, including his attire, was in complete order, from hatless head to wingtips. Once he said to me, 'May I made a saratorial suggestion? Unbotton the bottom button of your coat.' And thus I learned the first of many lessons on manhood from Sasha: the 'sometimes, always, never' rules of men's fashion. Setting aside his colossal achievements in the realm of cocktails and dress code, Sasha's greatest contribution was his decency—not just in service and hospitality, but in human conduct in general. This cocktail is a collaboration with my once Dutch Kills colleague, Abraham Hawkins, and named the Bicycle Thief for the iconic Italian film. A delicious variation on this is my Tarzan Cocktail. Just swap out the grapefruit juist for fresh pineapple juice. -Zachary Gelnaw-Rubin"
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 oz gin
     - 1 oz Campari
@@ -1049,7 +1044,7 @@ recipes:
   - name: Bottlerocket
     author: Sasha Petraske
     notes: "I worked at Milk & Honey until we moved from Eldridge Street to 23rd Street, where Sasha made me the head bartender. It was a job that was made easy by the most brilliant staff anyone could have put together. In a lot of ways, this drink has to be made to taste: Jalapeños range in heat, as do people's levels of tolerance for heat. This cocktail has a really pretty head, thanks to the honey in the drink, which will froth nicely. It is roughly the same color as The Business, another of Sasha's drinks, though the club soda makes it slightly paler. -Theo Lieberman"
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 oz tequila blanco
     - 3/4 oz fresh lime juice
@@ -1065,9 +1060,8 @@ recipes:
     - shaken
     - citrus
   - name: French 75
-    author: 
     notes: This is a classic, and one of Sasha's all-time favorite cocktails—simple, elegant, and celebratory. In the Milk & Honey fashion, the house recipe imparts Cognac, while The Savoy Cocktail Book calls for gin. Both variations, in the immortal words of the author Mr. Harry Craddock, 'Hit with remarkable precision.' -Georgette Moger-Petraske
-    glassware: 
+    glassware: flute
     ingredients:
     - 1 oz Cognac or gin, if requested
     - 1/2 oz fresh lemon juice
@@ -1086,9 +1080,8 @@ recipes:
     - citrus
     - sparkling
   - name: Gin & Tonic
-    author: 
     notes: In 2004, I went into a bar on the Lower East Side called Milk & Honey. Although I didn't know Sasha then, it was my first experience with the ethics and values of offhand excellence he insisted upon from himself and his colleagues. I worked in the Milk & Honey family for several years, and coming from an acting background, my actress girlfriend and I decided that a Los Angeles move was inevitable. Months later, Sasha came to visit. He made us Gin & Tonics, but upon realizing we were out of limes, suddenly left the apartment, returning minutes later with a guayabera full of little green fists of citrus. 'I saw that tree a block from your place this morning.' Handing me my drink, Sasha asked, 'Eric, do you like making lists?' 'I have obsessive-compulsive tendencies so I kinda have to make lists,' I replied. 'Well, then you'll be fine at opening a bar.' -Eric Alperin
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 2 oz gin
     - 1 bottle (6oz) tonic water
@@ -1103,9 +1096,8 @@ recipes:
     - stirred
     - citrus
   - name: Grapefruit Collins
-    author: 
     notes: "In the beginning at Milk & Honey, everything Sasha did was a revelation. I was coming from years in clubs and restaurant bars where nothing but speed mattered. The bars in the former were basically holding areas for people waiting to sit down the drinks were big and strong. While it all might seems obvious now, there were some basic things Sasha did that were game changers. Small things made a huge impact: fresh juices, ice, and club soda from small bottles. He would change just one thing in a cocktail and it would change the way you thought about cocktails as a whole. -Toby Maloney"
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 oz gin
     - 3/4 oz fresh lemon juice 
@@ -1125,7 +1117,7 @@ recipes:
   - name: Hayes Fizz
     author: Reed Hayes
     notes: In some ways, there couldn't be a more Milk & Honey drink—and a more personally influential drink for us—than the Hayes Fizz. Since the beginning, Milk & Honey was frequented by its cast of regulars, one of whom was Reed Hayes. Milk & Honey's uniqueness inspired patrons to bring gifts, or "offerings," to the bar. Particularly alluring was absinthe, banned at the time in the States, from trips abroad. Reed liked to add a lil' nip of it to his Tom Collins, and such was the origin of the Hayes Fizz. Reed was fond of saying, "Absinthe makes the heart grow fonder." -Chad Solomon & Christy Pope
-    glassware: 
+    glassware: collins
     ingredients:
     - 3/4 oz fresh lemon juice 
     - 3/4 oz simple syrup
@@ -1144,9 +1136,8 @@ recipes:
     - shaken
     - citrus
   - name: KT Collins
-    author: 
     notes: One of Sasha's consulting commissions was for The John Dory Oyster Bar, and he chose to be compensated by a weekly tab of bivalves, crustaceans, and cocktails. We always sat at the same inconspicuous table in the back hall, reading our newspapers, passing an afternoon over East Coast oysters and several KT Collinses, named for one of my favorite ladies in the cocktail industry, Katie Stipe. On occasion, Sasha and I would opt for a Bloom Collins—essentially the same libation muddled with fennel instead of celery, and no salt. -Georgette Moger-Petraske
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 matchstick-size strips of celery
     - 3/4 oz fresh lemon juice
@@ -1166,7 +1157,7 @@ recipes:
   - name: Palma Fizz
     author: Sasha Petraske
     notes: Sasha created this cocktail, one of the few made with vodka at Milk & Honey, for his childhood friend Joanie Ellen. Also known as the Moscow Mule or Vodka Buck, it is traditionally finished with a few drops of rosewater. Nowadays people use an atomizer and spray the rosewater instead, either as a preliminary rinse of the glass or directly on top of the completed cocktail. -Richard Boccato
-    glassware: 
+    glassware: collins
     ingredients:
     - 1/2 lime
     - 2 oz vodka
@@ -1183,9 +1174,8 @@ recipes:
     - citrus
     - mule
   - name: Ross Collins
-    author: 
     notes: Sasha met everyone in my family and said, "I can't say anything bad about any of them, save for your brother Toby—he's too handsome." The Ross Collins, named for a certain famous cocktail family from Australia, is a whiskey take on the Tom Collins, with some body furnished by the orange slices and Angostura. -Sam Ross
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 oz rye whiskey
     - 3/4 oz fresh lemon juice
@@ -1205,7 +1195,7 @@ recipes:
   - name: Silver Fox
     author: Richard Boccato
     notes: On the subject of original or signature cocktails, Sasha always reminded me that there were more than enough classics to go around and that a neophyte bartender would do best to learn them inside and out prior to trying his or her hand at conjuring up new and interesting drinks. Basically, know your history before attempting to reinvent the wheel. So this drink essentially remains a Silver Fizz, but with orgeat in place of the simple syrup, and its name reflects that. 'Nuff said. -Richard Boccato
-    glassware: 
+    glassware: highball
     ingredients:
     - 1 egg white from a medium egg 
     - ½ oz orgeat syrup
@@ -1228,7 +1218,7 @@ recipes:
     author: Joseph Schwartz
     notes: This drink was one of mine at Milk & Honey circa 2001. Sasha had brought in Licor 43, the Spanish liqueur, and asked that I come up with something. I had been making a lot of Rye Fizzes and Silver Rye Fizzes at the time, when Van Winkle 13 was readily available- and affordable. So this was the result. The name came from one of our regular customers. We were discussing possibilities and I described some of the conventions for using the word "silver" for drinks that included eggy white. Coincidentally, Chet Baker was a regular feature of the music played in the bar. I don't know that his song "Look for the Silver Lining" was a direct influence, but I like to think so. -Joseph Schwartz
     year: 2001
-    glassware: 
+    glassware: collins
     ingredients:
     - 1½ oz rye whiskey
     - 1 egg white from a medium egg 
@@ -1247,9 +1237,8 @@ recipes:
     - shaken
     - citrus
   - name: Tritter Collins
-    author: 
     notes: Sasha always had a kind word and an immediate reservation for Mr. Tritter, a Milk & Honey regular. Sasha thought him a wonderful guest and an erudite conversationalist, with an inquiring mind. There were not many of those patrons back then. The Tritter Collins is a Grapefruit Collins with a dash of absinthe. It quickly became a drink I made all the time in the summer months. -Toby Maloney
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 oz gin
     - 3/4 oz fresh lemon juice
@@ -1268,9 +1257,8 @@ recipes:
     - shaken
     - citrus
   - name: Tritter Rickey
-    author: 
     notes: This rickey, created for Mr. Tritter, a Milk & Honey regular, is essentialy a Southside Fizz (aka Mint Rickey) with an absinthe rinse. -Richard Boccato
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 oz gin
     - 1 oz fresh lime juice
@@ -1290,9 +1278,8 @@ recipes:
 
 #The Fix: Cobblers, Swizzles, and Peasant Cocktails
   - name: Asbury Park Swizzle
-    author: 
     notes: This modern take on the Queen's Park Swizzle (pages 197 and 199), is a nod to New Jersey native Bruce Springsteen, whose debut album was Greetings from Asbury Park. Its base spirit is Jersey Lightning, a white applejack from the New Jersey-based Laird & Company. There are also several deviations from the Queen's Park Swizzle template. The variables that go into making a cocktail—measurement, chill, water content, ice, bubble structure—are what made Sasha a great innovator. -Chad Solomon & Christy Pope
-    glassware: 
+    glassware: collins
     ingredients:
     - 3 fresh mint sprigs
     - 3/4 oz fresh lemon juice 
@@ -1311,10 +1298,10 @@ recipes:
     tags:
     - Milk & Honey
     - "the fix: cobblers, swizzles, and peasant cocktails"
+    - swizzle
   - name: Gin & Bitters
-    author: 
     notes: "The first time Sasha ordered a Bin & Gitters from me, I thought I misheard him it was a funny name after all. I asked my colleagues none of us knew it. Was I really going to have to admit to my boss that I didn't know how to make his drink? But then I realized Sasha wouldn't care if I didn't know the drink-he'd relish teaching me. 'It's a gimlet on crushed ice with a bitters float,' Sasha said. I instantly knew it meant a lime drink using a one-to-three- quarters sour-to-sweet ratio. The fact that Sasha didn't specify the base spirit or the bitters meant the defaults were gin and Angostura. I placed the drink on the tray and remembered another Sasha truism: 'No garnish for a bartender.' -Karin Stanley"
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 3/4 oz simple syrup
     - 1 oz fresh lime juice
@@ -1334,9 +1321,8 @@ recipes:
     - citrus
     - gimlet
   - name: Eskimo's Kiss
-    author: 
     notes: Sasha's drink of choice seemed to be a Mojito, and often he would get what he called an "Eskimo's Kiss," which was essentially a double Mojito in a large glass with two straws, though I can't recall ever seeing him share one. He always used one straw to taste, took the second straw out, and brought it to one of the clerks at Kinko's down the street, where he would barter the cocktail for printing services. Like the Petraske Mojito, the Eskimo's Kiss is as perfect, simple, and straightforward as could be—a shining example of Sasha's interpretation of the classics. Just fresh ingredients on crushed ice, no soda. The mint at the bottom of the glass adds flavor to the melting ice. The sugar cubes likewise enrich the drink's flavor as it is thinned by melting ice. -Abraham Hawkins
-    glassware: 
+    glassware: pint
     ingredients:
     - 10 to 12 fresh mint leaves, plus whole sprigs for garnish
     - 2 Demerara sugar cubes (or 1 if it is giant) 
@@ -1355,9 +1341,8 @@ recipes:
     - citrus
     - stirred
   - name: Maloney Park Swizzle
-    author: 
     notes: No, I did not name this for myself-Sasha named it after me. It is a riff on the Queen's Park Swizzle (pages 197 7 and 199). I had fallen in love with floating Peychaud's and its ability to dry a drink out without changing the texture. Also, it was so much prettier than the Angostura bitters in the original Queen's Park. We were floating fanatics back then; I have no idea who floated the first bitters on a Queen's Park or blackstrap rum on a Dark & Stormy, but he or she deserves a Nobel Prize. -Toby Maloney
-    glassware: 
+    glassware: collins
     ingredients:
     - 10 to 12 fresh mint leaves, plus whole sprigs for garnish
     - 3/4 oz fresh lime juice
@@ -1375,10 +1360,10 @@ recipes:
     - "the fix: cobblers, swizzles, and peasant cocktails"
     - stirred
     - citrus
+    - swizzle
   - name: Mojito
-    author: 
     notes: This is Cuba's oldest proper cocktail on record. The predecessor to the modern Mojito was a combination of mint, fresh lime, and aguardiente a crude forerunner of rum. That drink was origi- nally named "El Draque" in honor of Sir Francis Drake. In the mid-1800s, when the Original Bacardi company was formed, the existing El Draque recipe was changed, replacing the a aguar- diente with rum. And it was renamed "Mojito" after the African word mojo, which loosely translates as "to cast a little spell." This version was adapted from a recipe first served at Sloppy Joe's Bar in Havana, Cuba in 1931. -Richard Boccato
-    glassware: 
+    glassware: rocks
     ingredients:
     - 8 to 10 fresh mint leaves, plus whole mint sprigs for garnish 
     - 1 oz fresh lime juice
@@ -1394,10 +1379,10 @@ recipes:
     - "the fix: cobblers, swizzles, and peasant cocktails"
     - stirred
     - citrus
+    - mojito
   - name: Queen's Park Swizzle (Dark)
-    author: 
     notes: Swizzles are traditionally made using small wooden sticks ("swizzle sticks") that are whittled from what is commonly called the Caribbean bois lélé tree. The most desirable species of these trees are found in Martinique. To swizzle means to agitate the crushed ice in a cocktail while marrying all the ingredients, so that a discernible frost forms on the outside of the glass. This drink is both attractive and delicious. A popular variation of this cocktail, the Maloney Park Swizzle (page 193), is made with white rum and both Peychaud's and Angostura bitters, but this version is likely more similar to its original Trinidad incarnation. -Richard Boccato
-    glassware: 
+    glassware: collins
     ingredients:
     - 8 to 10 fresh mint leaves, plus whole sprigs for garnish 
     - 3/4 oz simple syrup, made with Demerara sugar
@@ -1415,10 +1400,10 @@ recipes:
     - "the fix: cobblers, swizzles, and peasant cocktails"
     - stirred
     - citrus
+    - swizzle
   - name: Queen's Park Swizzle (Light)
-    author: 
-    notes: The Queen's Park Swizzle is a Mojito (page 195) with the awe- inducing addition of bitters swizzled on top. Historically the recipe calls for Angostura bitters, but at Milk & Honey we used Peychaud's bitters, which gave the drink a dramatic red visual pop on top, with the bright green mint at the bottom. This drink, quite simply, melted hearts and minds. -Chad Solomon & Christy Pope
-    glassware: 
+    notes: The Queen's Park Swizzle is a Mojito with the awe- inducing addition of bitters swizzled on top. Historically the recipe calls for Angostura bitters, but at Milk & Honey we used Peychaud's bitters, which gave the drink a dramatic red visual pop on top, with the bright green mint at the bottom. This drink, quite simply, melted hearts and minds. -Chad Solomon & Christy Pope
+    glassware: rocks
     ingredients:
     - A handful of fresh mint sprigs, plus a whole sprig for garnish
     - 1 brown sugar cube
@@ -1436,10 +1421,10 @@ recipes:
     - "the fix: cobblers, swizzles, and peasant cocktails"
     - stirred
     - citrus
+    - swizzle
   - name: Strawberry Fix
-    author: 
     notes: Sasha was the king of balanced cocktails. When creating the perfect Fix or other peasant cocktails—those poured over cracked ice—it is essential to taste your citrus and syrup, as well as the fruits that will be muddled in. Sometimes the lemon is too tart, or the fruit isn't ripe enough, and you have to adjust accordingly. The key is to know what the balance should be and make the sums add up to it. -Gil Bouhana
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 1 to 2 strawberries, hulled and quartered, plus 1 small whole strawberry for garnish 
     - 3/4 oz fresh lemon juice
@@ -1459,9 +1444,8 @@ recipes:
 
 #Punches, Flips, and Dessert and Temperance Cocktails: Large Format Punches, Cream-Based and Sweet Cocktails, and Drinks for the Teetotaler
   - name: Café con Leche Flip
-    author: 
     notes: Sasha would savor his beloved Americanos every morning at his favorite Greenwich Village café, Doma na Rohu, as a jumpstart before making his daily lists. He described the Café con Leche Flip as that coffee-on steroids. A flip that tastes like a delicious iced coffee, this gets a power kick from the blackstrap rum. -Sam Ross
-    glassware: 
+    glassware: sour glass
     ingredients:
     - 1 oz Cruzan blackstrap rum
     - 1 oz coffee liqueur, such as Café Lolita 
@@ -1480,7 +1464,7 @@ recipes:
   - name: Croque M. Petraske or Croque Mme Moger
     author: Sasha Petraske
     notes: Cocktail hour in the Moger-Petraske house was a fine time of day that would span roughly between 4 p.m. and 7 p.m. The monsieur would typically say to the apron-clad madame, "Such a shame the chef is cooking without a proper libation." He would then pull two frozen highball glasses from the freezer. Sasha's go-to aperitif was a modest Campari and soda. For madame, he would add a mischievous splash of Plymouth gin. There was usually a fruit basket in our kitchen stuffed to the gills with the previous night's bar fruit-mostly oranges without peels. This meant there was always fresh-squeezed orange juice for breakfast, but seldom any peels to garnish our cocktail hour aperitifs. -Georgette Moger-Petraske
-    glassware: 
+    glassware: highball
     ingredients:
     - 1½ oz Campari
     - 4 oz club soda 
@@ -1494,9 +1478,8 @@ recipes:
     - "punches, flips, and dessert and temperance cocktails: large format punches, cream-based and sweet cocktails, and drinks for the teetotaler"
     - stirred
   - name: Dominicana
-    author: 
     notes: This was one of the first drinks Sasha created at Milk & Honey, and it was the first one he ever taught me to make. I quickly grew to respect Sasha's attention to detail and craftsmanship and have since followed the same careful process every time I work on something new. And these days, whenever I am working on a drink, I always hear Sasha's voice in the back of my head saying, "Now, increase that ingredient and decrease this one." The drink is black in color and slightly sweet, with a smooth mouthfeel. There should be a clear demarcation between the drink and the layer of cream floating on top. -Matt Clark
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1½ oz coffee liqueur, such as Café Lolita
     - 1½ oz aged Dominican rum
@@ -1509,9 +1492,8 @@ recipes:
     - "punches, flips, and dessert and temperance cocktails: large format punches, cream-based and sweet cocktails, and drinks for the teetotaler"
     - stirred
   - name: Faker Face
-    author: 
     notes: Served in a frosty coupe, with its beautiful frothy head and glimmering grenadine glow-by appearances, this drink's name is taken from a sobriquet given to Georgette by her father when she was a little girl pretending to be asleep in bed when it was past her bedtime. -Luis Gil
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3/4 oz fresh lime juice 
     - 3/4 oz grenadine syrup 
@@ -1528,9 +1510,8 @@ recipes:
     - shaken
     - citrus
   - name: House Ginger Beer
-    author: 
     notes: "Sasha taught a simple formula for creating libations for our teetotalers: Double up on the nonalcoholic ingredients of a cocktail to make a base that can be modified in the same manner as a 'strong' Gimlet, Collins, Buck, or the like. For example, 1½ ounces lemon juice, 1½ ounces simple syrup, and a soda water topper make a delicious lemonade. Muddling mint, cucumber, or other fruit also can be combined with club soda for a satisfying beverage. Ginger drinks lend themselves particularly nicely to the well of temperance cocktails, as you can make something bold and fiery, interesting, and refreshing without alcohol. -Abraham Hawkins"
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 oz fresh lemon juice
     - 1 oz fresh pineapple juice 
@@ -1549,7 +1530,7 @@ recipes:
   - name: Noche Buena
     author: Carolyn Gil & Sasha Petraske
     notes: This sweet dessert cocktail was the first concoction I ever put together, and I was lucky enough to have Sasha help me perfect it. Inspired by my mother, Mercedes Gil, this drink opened my mind to new cocktails. -Carolyn Gil
-    glassware: 
+    glassware: coupe
     ingredients:
     - ½ oz fresh lemon juice 
     - 3/4 oz simple syrup 
@@ -1567,10 +1548,10 @@ recipes:
     - "punches, flips, and dessert and temperance cocktails: large format punches, cream-based and sweet cocktails, and drinks for the teetotaler"
     - shaken
     - citrus
+    - sparkling
   - name: Temperance Grapefruit Collins
-    author: 
     notes: This was Sasha's favorite drink when he stopped imbibing for a few days each month. I recall him walking around Milk & Honey with a special pitcher of double-filtered water. "You've got to try this water. Exceptional!" When he took a break from water- and spirits the Temperance Grapefruit Collins was his standby. If you're not sticking to temperance, you could dot with three drops of Peychaud's bitters before the garnish. -Luis Gil
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 ounce fresh lime juice
     - 1½ ounce simple syrup
@@ -1587,9 +1568,8 @@ recipes:
     - shaken
     - n/a
   - name: Temperance Irish Coffee
-    author: 
     notes: There is a photo somewhere out there of Sasha and Georgette sipping Irish Coffee at the Dead Rabbit Bar, their favorite place for it. In the photo they are both looking up with whipped-cream mustaches Georgette in her cloche hat, Sasha in his shawl-neck cardigan and it was one for the ages. Of course Sasha preferred his Irish coffee as a non-temperance drink, and this recipe can be altered with the addition of 1½ ounces Irish whiskey. As we didn't have a coffee maker at any of the bars, only espresso machines, we would make the drink this way. -Eric Alperin
-    glassware: 
+    glassware: irish coffee mug
     ingredients:
     - 2 shots espresso
     - 2 Demerara sugar cubes
@@ -1608,9 +1588,8 @@ recipes:
     - n/a
     - caffeinated
   - name: The U.S.S. Russel Punch
-    author: 
     notes: Named for our Brooklyn apartment on Russell Street and a nod to Sasha's Russian heritage, this cocktail was served in rambling rose-patterned teacups in the most social room of the house-the kitchen. It ensured that the party merrily rollicked along without drink requests overwhelming the bartender or the hostess. -Georgette Moger-Petraske (Makes about 2 3/4 gallons (10 L), enough for a boisterous party.)
-    glassware: 
+    glassware: punch bowl
     ingredients:
     - 50 lemons, peeled and juiced
     - 3 pounds (1 kg 360 g) granulated sugar
@@ -1635,7 +1614,7 @@ recipes:
     - citrus
     - sparkling
   - name: Wedding Punch
-    author: 
+    author: punch bowl
     notes: The month of May in a glass, this punch practically hums the Cole Porter songbook. Our wedding punch was a light prosecco and St-Germain refresher served in flutes that clinked like wind chimes in the garden throughout the day of our wedding. -Georgette Moger-Petraske (Makes about 2 1/2 gallons (10.75 L), enough for a boisterous party.)
     glassware: 
     ingredients:

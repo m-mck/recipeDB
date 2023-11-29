@@ -3,10 +3,9 @@ recipes:
 
 #
   - name: Needle & Thread No. 1
-    author: 
     year: 2023
     notes: Served to Michael.
-    glassware: 
+    glassware: chalice
     ingredients:
     - 1 1/2 oz. Fernet Lario
     - 1/2 oz. Plantation O.F.T.D. Rum
@@ -19,10 +18,9 @@ recipes:
     tags:
     - stirred
   - name: Needle & Thread No. 2
-    author: 
     year: 2023
     notes: Served to Michael.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz. Batavia Arrack van Oosten
     - 3/4 oz. Fernet Lario
@@ -34,10 +32,9 @@ recipes:
     tags:
     - stirred
   - name: Needle & Thread No. 3
-    author: 
     year: 2023
     notes: Served to Kate.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz. gin
     - 3/4 oz. St. George Spiced Pear liqueur
@@ -51,10 +48,9 @@ recipes:
     - shaken
     - citrus
   - name: Needle & Thread No. 4
-    author: 
     year: 2023
     notes: Served to Kate. (Specs are very rough.)
-    glassware: 
+    glassware: rocks
     ingredients:
     - 3/4 oz. Buffalo Trace bourbon
     - 3/4 oz. gin
@@ -71,10 +67,9 @@ recipes:
     - shaken
     - citrus
   - name: Needle & Thread No. 5
-    author: 
     year: 2023
     notes: Served to Walter.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz. Los Vecinos del Campo mezcal
     - 3/4 oz. lemon juice
@@ -90,10 +85,9 @@ recipes:
     - shaken
     - citrus
   - name: Needle & Thread No. 6
-    author: 
     year: 2023
     notes: Served to Walter. Made with Bacoo rum; most likely 5-year, 8-year, or 12-year. "Cardamom," here, is interpreted to mean a whole pod, muddled. However, it might also work with 1/4 oz. cardamom syrup.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz Bacoo rum 8- Year
     - 3/4 oz. Sennza Autumn Amaro

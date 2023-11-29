@@ -22,4 +22,5 @@ things to do!
 
 svelte repl -> shows u what code will do
 
-add 
+add seasons?
+show one, not two, copies of the recipes

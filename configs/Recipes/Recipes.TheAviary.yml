@@ -3,7 +3,7 @@ recipes:
 
   - name: Gin and Tonic
     notes: "This drink has never actually appeared on our menu: the labor involved in producing the number of spheres necessary for a full night of service is prohibitively high for us. This isn’t to say this cocktail isn’t delicious, however. And in situations where scale becomes less of an issue (such as in a home kitchen), this recipe becomes much more reasonable to make."
-    glassware: 
+    glassware: collins
     ingredients:
     - 2oz Junipero Gin
     - 1/2oz Green Chartreuse
@@ -18,7 +18,7 @@ recipes:
       - the aviary
       - carbonated
   - name: Jesus Can't Hit a Curveball
-    notes: 
+    notes: double rocks
     glassware: 
     ingredients:
     - 1oz Fords Gin
@@ -38,7 +38,7 @@ recipes:
       - sparkling
   - name: Edison Square
     notes: This drink is derived, both in name and content, from a traditional Vieux Carré (a French phrase for “Old Square”). We began with an intensely aromatic caramel tea, and replaced the herbal notes classically provided by Bénédictine and vermouth with notes of chocolate, pistachio, and ancho chile.
-    glassware: 
+    glassware: novel
     ingredients:
     - 1 1/2oz caramel pu-erh tea syrup
     - 1/4oz Dumante Verdenoce Pistachio Liqueur
@@ -49,14 +49,19 @@ recipes:
     - 1/4oz demerara syrup
     - 1/2oz Fusion Verjus Rouge
     steps:
-    - Combine all ingredients in a small vacuum bag and seal on the highest setting. Heat en sous vide at 80°C (175°F) for 5 minutes, or until contents are thoroughly warmed. Reserve warm.
-    - Insert a small funnel into the mouth of the glass bulb service piece, and pour in the contents of a single edison square bag. Carefully drop 2-3 small pieces (approximately 7g) of dry ice into the bulb. At the table, gently tilt the bulb sideways to allow aromatic vapor to flow onto the table. When vapor has completely dissipated, add metal straw to the bulb and offer to guest. To eliminate risk of ingestion of dry ice, do not pour or consume drink while vapor is still bubbling.
+    - Combine all ingredients in a small vacuum bag and seal on the highest setting. 
+    - Heat en sous vide at 80°C (175°F) for 5 minutes, or until contents are thoroughly warmed. 
+    - Reserve warm.
+    - Insert a small funnel into the mouth of the glass bulb service piece, and pour in the contents of a single edison square bag. 
+    - Carefully drop 2-3 small pieces (approximately 7g) of dry ice into the bulb. 
+    - At the table, gently tilt the bulb sideways to allow aromatic vapor to flow onto the table. 
+    - When vapor has completely dissipated, add metal straw to the bulb and offer to guest. 
+    - To eliminate risk of ingestion of dry ice, do not pour or consume drink while vapor is still bubbling.
     tags:
       - the aviary
       - heated
   - name: Peach
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2oz Cutty Sark Prohibition Edition Blended Scotch Whisky
     - 1 1/4oz Tio Pepe Fino Sherry
@@ -74,7 +79,7 @@ recipes:
       - shaken
   - name: Hurricane
     notes: Here we highlight the various flavors that can go into a classic Hurricane. By simply observing the differences in the ingredients’ densities, we find that - with a bit of care and patience - they can be layered.
-    glassware: 
+    glassware: hurricane
     ingredients:
     - 1.75oz cranberry stock
     - 1oz passionfruit stock
@@ -92,7 +97,7 @@ recipes:
       - citrus
   - name: Jab & Right Cross
     notes: Inspired by two classic punches (Boston Club Punch and Punch à la Romaine), this cocktail also includes a meringue that we mix à la minute with granita just before serving, which adds an interesting and luxurious texture.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1oz Novo Fogo Silver Cachaça
     - 1oz Sauternes
@@ -102,15 +107,18 @@ recipes:
     - 1/2oz simple syrup
     - Meringue
     steps:
-    - Combine all ingredients with ice in a cocktail shaker. Shake vigorously until chilled and diluted, then strain into glass.
-    - Dispense 30g of meringue from a siphon canister into a small bowl. Gently fold in 47g spice granita until just combined, taking care not to overmix and deflate meringue. Pour mixture onto top of cocktail to fill glass. Serve immediately.
+    - Combine all ingredients with ice in a cocktail shaker. 
+    - Shake vigorously until chilled and diluted, then strain into glass.
+    - Dispense 30g of meringue from a siphon canister into a small bowl. 
+    - Gently fold in 47g spice granita until just combined, taking care not to overmix and deflate meringue. 
+    - Pour mixture onto top of cocktail to fill glass. Serve immediately.
     tags:
       - the aviary
       - shaken
       - citrus
   - name: Margarita
     notes: "This cocktail - one of the more straightforward ones we include - is designed to showcase one of our favorite tequilas. We use a light hand with technique to let this product shine, but the use of Fresno chili ice adds an extra dimension of interest. Because the ice consists mostly of water, it melts more slowly than other flavored ices found in this book. This allows a guest a bit of control: the slower the cocktail is consumed, the spicier it gets."
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 2oz Tequila Fortaleza Blanco
     - 1/2oz Cointreau
@@ -123,9 +131,10 @@ recipes:
       - the aviary
       - shaken
       - citrus
+      - margarita
   - name: Green Thumb
     notes: This drink is us trying to fit summer in a glass, then sit the glass on a bed of summer, then spray the whole thing with more summer. Summer all the way down.
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 2 pea shoots
     - olive oil
@@ -146,8 +155,7 @@ recipes:
       - citrus
       - carbonated
   - name: Another Caucasian, Gary
-    notes: 
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 1oz Appleton Estate Signature Blend Jamaica Rum
     - 1/4oz Galliano L'autentico
@@ -161,8 +169,7 @@ recipes:
       - the aviary
       - caffeinated
   - name: No Chocolate Here
-    notes: 
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 2 1/2oz Cynar Amaro
     - 1oz Old Forester Classic 86 Proof Bourbon
@@ -170,7 +177,7 @@ recipes:
     - 1/2oz Cocchi Barolo Chinato
     - 1/4oz smoke bomb solution
     - 5ml black truffle stock
-    - 1 Orange peel
+    - 1 orange peel
     steps:
     - Combine all ingredients (except the orange peel) with ice in a cocktail mixing glass. Stir until chilled and diluted, then strain into a small carafe. Reserve in the refrigerator.
     - Place one hand-chipped ice chunk into medium glass. Pour cocktail over ice. Express orange peel over drink. Wipe rim of glass with outer side of orange peel, then insert peel into glass. Garnish with 2 drops of the black truffle tincture onto ice.
@@ -178,7 +185,7 @@ recipes:
       - the aviary
   - name: Honeydew Chartreuse
     notes: First in a flight alongside Pineapple Chartreuse and Blueberry Chartreuse. Serves 6. Serve 1 1/4oz.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 122g Yellow Chartreuse
     - 118g honeydew melon juice, extracted with juicer
@@ -197,7 +204,7 @@ recipes:
       - shaken
   - name: Pineapple Chartruese
     notes: Second in a flight alongside Honeydew Chartreuse and Blueberry Chartreuse. Serves 6. Serve 2 1/2oz.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 183g pineapple juice, extracted with juicer
     - 125g water
@@ -216,7 +223,7 @@ recipes:
       - flight
   - name: Blueberry Chartruese
     notes: Third in a flight alongside Honeydew Chartreuse and Pineapple Chartreuse. Serves 6. Serve 2 1/2oz.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 310g blueberry juice, extracted with juicer
     - 100g Green Chartreuse
@@ -233,8 +240,7 @@ recipes:
       - "the aviary: flights"
       - flight
   - name: Banana Curry
-    notes: 
-    glassware: 
+    glassware: novel
     ingredients:
     - 2oz banana gin
     - 1oz simple syrup
@@ -243,29 +249,36 @@ recipes:
     - 2 dashes curry tincture
     - 3/4oz lemon juice
     - 3/4oz egg white
-    - 1 Orange peel
+    - 1 orange peel
     steps:
-    - Combine all ingredients except orange peel in a cocktail shaker. Dry shake until frothy. Add ice and shake again vigorously until chilled and diluted. Double-strain into prepared volcano glass. Express orange peel over glass. Discard peel.
+    - Combine all ingredients except orange peel in a cocktail shaker. 
+    - Dry shake until frothy. 
+    - Add ice and shake again vigorously until chilled and diluted. 
+    - Double-strain into prepared volcano glass. 
+    - Express orange peel over glass. Discard peel.
     tags:
       - the aviary
       - shaken
       - citrus
   - name: Cold Chocolate
-    notes: 
-    glassware: 
+    glassware: novel
     ingredients:
     - 1oz malt syrup
     - 1oz J.T.S. Brown Kentucky Bourbon
     - 1oz skim milk
     - 3oz chocolate sauce
     steps:
-    - In a small bowl, dispenser some pecan foam from a siphon canister. Allow to rest for 1 minute in a warm place. Meanwhile, pour cocktail portion into cocktail shaker. Add ice and shake vigorously until chilled and diluted. Double-strain into prepared volcano glass. Spoon warm pecan bubbles over the cocktail.
+    - In a small bowl, dispenser some pecan foam from a siphon canister. 
+    - Allow to rest for 1 minute in a warm place. 
+    - Meanwhile, pour cocktail portion into cocktail shaker. 
+    - Add ice and shake vigorously until chilled and diluted. 
+    - Double-strain into prepared volcano glass. 
+    - Spoon warm pecan bubbles over the cocktail.
     tags:
       - the aviary
       - shaken
   - name: Unseasonably Summer
-    notes: 
-    glassware: 
+    glassware: novel
     ingredients:
     - 1 1/4oz Olmeca Altos Tequila Reposado
     - 3/4oz Dolin Vermouth de Chambéry Dry
@@ -275,14 +288,17 @@ recipes:
     - 3/4oz lime juice
     - 3/4oz egg white
     steps:
-    - Combine all ingredients in a cocktail shaker. Dry shake until frothy. Add ice and shake again vigorously until chilled and diluted. Double-strain into prepared volcano glass. Garnish with a pinch of coriander salt.
+    - Combine all ingredients in a cocktail shaker. 
+    - Dry shake until frothy. 
+    - Add ice and shake again vigorously until chilled and diluted. 
+    - Double-strain into prepared volcano glass. 
+    - Garnish with a pinch of coriander salt.
     tags:
       - the aviary
       - shaken
       - citrus
   - name: Poached Pear
-    notes: 
-    glassware: 
+    glassware: novel
     ingredients:
     - 1 1/4oz Distillerie F. Meyer Eau-de-vie de Poire William
     - 1/2oz Ransom Sweet Vermouth
@@ -292,14 +308,16 @@ recipes:
     - 3/4oz egg white
     - 2 pear ice cubes
     steps:
-    - Combine all ingredients except pear ice cubes in a cocktail shaker. Dry shake until frothy. Add pear ice cubes and shake again vigorously until ice cubes have completely melted. Double-strain into prepared volcano glass.
+    - Combine all ingredients except pear ice cubes in a cocktail shaker. 
+    - Dry shake until frothy. 
+    - Add pear ice cubes and shake again vigorously until ice cubes have completely melted.
+    - Double-strain into prepared volcano glass.
     tags:
       - the aviary
       - shaken
       - citrus
   - name: Levels
-    notes: 
-    glassware: 
+    glassware: hurricane
     ingredients:
     - 1 1/2oz Tequila Cabeza
     - 3/4oz Bigallet China-China Amer
@@ -317,9 +335,9 @@ recipes:
       - smoking gun
       - shaken
       - citrus
+      - tiki
   - name: Hot Chocolate
-    notes: 
-    glassware: 
+    glassware: mug
     ingredients:
     - 112g Hot Chocolate
     - 1 1/4oz Tequila Base
@@ -333,7 +351,7 @@ recipes:
       - heated
   - name: Infernal Imagery
     notes: Our inspiration for the flavor, visual presentation, and name of this cocktail originated from a tasting of Maurin Quina Apéritif, which features an example of “internal imagery” on the label of its bottle.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1oz Clément V.S.O.P. Rhum Agricole Vieux
     - 1/2oz Maurin Quina Apéritif
@@ -349,8 +367,7 @@ recipes:
       - the aviary
       - smoking gun
   - name: Infernal Imagery (Non-Alcoholic)
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 1/2 Fusion Verjus Rouge
     - 1/2oz tart cherry juice
@@ -369,7 +386,7 @@ recipes:
       - smoking gun
   - name: How Does Snoop Dogg Use Lemongrass?
     notes: Featured on our inaugural menu, this play on a Moscow mule elaborates on the classic flavors of ginger and lime with those characteristic of traditional Thai cuisine. Serves 6.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 374g Karlsson’s Gold Vodka
     - 110g water
@@ -391,8 +408,7 @@ recipes:
       - the aviary
       - mule
   - name: Lebron Chewbacca
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 1oz Leblon Cachaça
     - 1oz CH Peppercorn Vodka
@@ -413,7 +429,7 @@ recipes:
       - citrus
   - name: Scotch Soda
     notes: "Serve alongside the Scotch Sour, Scotch Manhattan, and the Scotch Old Fashioned. Invite guests to taste drinks in the following order: scotch soda, scotch sour, scotch manhattan, scotch old fashioned. Serves 6."
-    glassware: 
+    glassware: rocks
     ingredients:
     - 218g Chivas Regal 18 Year Blended Scotch Whisky
     - 2g lactic acid
@@ -432,7 +448,7 @@ recipes:
       - "the aviary: a study of scotch"
   - name: Scotch Sour
     notes: "The smaller portion size of this cocktail means that a shorter shaking time is required to avoid the risk of over-diluting it. Serve alongside the Scotch Soda, Scotch Manhattan, and the Scotch Old Fashioned. Invite guests to taste drinks in the following order: scotch soda, scotch sour, scotch manhattan, scotch old fashioned. Serves 6."
-    glassware: 
+    glassware: rocks
     ingredients:
     - 168g Chivas Regal 18 Year Blended Scotch Whisky
     - 49g Giffard Crème de Pamplemousse Rose liqueur
@@ -454,7 +470,7 @@ recipes:
       - "the aviary: a study of scotch"
   - name: Scotch Manhattan
     notes: "Serve alongside the Scotch Soda, Scotch Sour, and the Scotch Old Fashioned. Invite guests to taste drinks in the following order: scotch soda, scotch sour, scotch manhattan, scotch old fashioned. Serves 6."
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 205g Chivas Regal 18 Year Blended Scotch Whisky
     - 69g honeysuckle vermouth
@@ -475,13 +491,13 @@ recipes:
       - "the aviary: a study of scotch"
   - name: Scotch Old Fashioned
     notes: "Serve alongside the Scotch Soda, Scotch Sour, and the Scotch Manhattan. Invite guests to taste drinks in the following order: scotch soda, scotch sour, scotch manhattan, scotch old fashioned. Serves 6."
-    glassware: 
+    glassware: rocks
     ingredients:
     - 201g Chivas Regal 18 Year Blended Scotch Whisky
     - 17g tonka-kola syrup
     - 3g Angostura Aromatic Bitters
     - 50g water
-    - 1 Orange peel
+    - 1 orange peel
     steps:
     - Combine all ingredients (except the orange peel) in a medium bowl, stirring to mix thoroughly. Strain into a glass bottle. Transfer to the freezer to chill thoroughly.
     - Place a small hand-chipped chunk of ice into a third small glass. Pour scotch old fashioned portion (2oz) over ice. Express orange peel over drink. Discard peel.
@@ -493,8 +509,7 @@ recipes:
       - stirred
       - "the aviary: a study of scotch"
   - name: Zombie Panda
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 1oz lychee syrup
     - 3/4oz lemon juice
@@ -509,7 +524,7 @@ recipes:
       - carbonated
   - name: Jungle Bird
     notes: The original Jungle Bird is thought to have originated at Aviary Bar in Kuala Lumpur in the late 1970s. It seemed only fitting that we develop our own version of this classic tiki drink.
-    glassware: 
+    glassware: collins
     ingredients:
     - 4.5oz jungle bird base
     - reserved Gosling’s spheres
@@ -527,7 +542,7 @@ recipes:
       - shaken
   - name: Argentinian Soda Jerk
     notes: The Fernet con Coca - widely heralded as the national drink of Argentina - is so popular there that Italian producer Fratelli Branca built a second Fernet distillery in Buenos Aires to address demand for the bitter liqueur. Interestingly, the Argentine formulation of the product is drier than its international counterpart, a subtle acknowledgement of the way it’s generally consumed. Our riff - inspired by the 2016 Tour of South America menu at Next - adds a bit of depth and complexity to the traditional foundation of this drink.
-    glassware: 
+    glassware: novel
     ingredients:
     - 6oz Coca-Cola
     - 1 1/2oz Croft Fine Ruby Port
@@ -544,7 +559,7 @@ recipes:
       - carbonated
   - name: Up the Ice Ante
     notes: Inspired by the sound of shuffling poker chips and a desire to further challenge and grow our ice program, we asked Martin Kastner at Crucial Detail if he could develop a custom ice mold for this drink. The mildness of the horchata offers an accepting canvas for the myriad flavors released by the fast-melting ice chips.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 4oz Marcona rice milk
     - 1/2oz simple syrup
@@ -568,7 +583,7 @@ recipes:
       - stirred
   - name: Loaded to the Gunwalls
     notes: Serves 6.
-    glassware: 
+    glassware: mug
     ingredients:
     - 278g hazelnut orgeat (serves 6)
     - 234g Batavia-Arrack Van Oosten (serves 6)
@@ -589,8 +604,7 @@ recipes:
       - citrus
       - flame
   - name: Root Beer
-    notes: 
-    glassware: 
+    glassware: mug
     ingredients:
     - 1.5oz Gosling’s Black Seal Rum
     - 1oz root beer caramel
@@ -598,15 +612,21 @@ recipes:
     - 5 drops St. George Absinthe Verte
     - 3/4oz egg white
     steps:
-    - Combine all ingredients in a cocktail shaker. Dry shake until frothy. Add ice and shake again vigorously until chilled and diluted, then double-strain into Perlini shaker. Invert shaker and charge with CO2 until the shaker is fully pressurized and no more gas flows in. Gently turn the canister back upright and allow it to sit for 45 seconds, taking care not to shake the canister. Vent excess gas very slowly and carefully. Pour mixture from shaker into a mug. Fill mug to top with bitters foam from siphon canister.
+    - Combine all ingredients in a cocktail shaker. 
+    - Dry shake until frothy. 
+    - Add ice and shake again vigorously until chilled and diluted, then double-strain into Perlini shaker. 
+    - Invert shaker and charge with CO2 until the shaker is fully pressurized and no more gas flows in. 
+    - Gently turn the canister back upright and allow it to sit for 45 seconds, taking care not to shake the canister. 
+    - Vent excess gas very slowly and carefully. 
+    - Pour mixture from shaker into a mug. 
+    - Fill mug to top with bitters foam from siphon canister.
     tags:
       - the aviary
       - shaken
       - citrus
       - carbonated
   - name: Espelette You Finish (Non-Alcoholic)
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 1/4oz strawberry water
     - 3/4oz Fusion Verjus Blanc
@@ -623,8 +643,7 @@ recipes:
       - carbonated
       - shaken
   - name: Espelette You Finish
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 3/4oz strawberry Txakolina
     - 1oz Aviation Gin
@@ -640,7 +659,7 @@ recipes:
       - shaken
   - name: Chai
     notes: Portioned for two.
-    glassware: 
+    glassware: mug
     ingredients:
     - Chai Porthole Solids
     - 50g Olmeca Altos Plata Tequila
@@ -660,7 +679,7 @@ recipes:
       - "the aviary: porthole"
   - name: Heart of Stone
     notes: Portioned for two.
-    glassware: 
+    glassware: mug
     ingredients:
     - Porthole Heart of Stone Solids
     - 67g Fusion Verjus Blanc
@@ -679,7 +698,7 @@ recipes:
       - "the aviary: porthole"
   - name: The Hollow
     notes: Portioned for two.
-    glassware: 
+    glassware: mug
     ingredients:
     - The Hollow Porthole Solids
     - 80g George Dickel No. 1 White Corn Whiskey
@@ -699,7 +718,7 @@ recipes:
       - "the aviary: porthole"
   - name: Blueberry
     notes: Portioned for two.
-    glassware: 
+    glassware: mug
     ingredients:
     - Blueberry Porthole Solids
     - 89g Mitcher’s US*1 Kentucky Straight Rye Whiskey
@@ -717,7 +736,7 @@ recipes:
       - "the aviary: porthole"
   - name: Cranberry
     notes: Portioned for two.
-    glassware: 
+    glassware: mug
     ingredients:
     - Porthole Cranberry Solids
     - 83g Journeyman Road’s End White Rum
@@ -738,13 +757,13 @@ recipes:
       - "the aviary: porthole"
   - name: 3 in 441 (Non-Alcoholic)
     notes: Portioned for two.
-    glassware: 
+    glassware: mug
     ingredients:
     - 3 in 441 (Non-Alcoholic) Porthole Solids
     - 17g peated malt barley
     - 260g Fusion Verjus Blanc
     - 3g fenugreek seeds
-    - 9g Orange peel
+    - 9g orange peel
     - 83g D’arbo Elderflower Syrup
     - 167g water
     steps:
@@ -757,7 +776,7 @@ recipes:
       - n/a
   - name: 3 in 441
     notes: Portioned for two.
-    glassware: 
+    glassware: mug
     ingredients:
     - 3 in 441 Porthole Solids
     - 90g Bols Barrel-Aged Genever
@@ -779,7 +798,7 @@ recipes:
       - "the aviary: porthole"
   - name: Mad World
     notes: "Here we’re playing with flavors of French onion soup: bourbon stands in for beef broth, Madeira takes the place of sherry, and the sweetness of caramelized onions is simplified by pear liqueur. A bit of lemon adds the refreshing brightness necessary to bring the drink into balance."
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 1/2oz Eagle Rare Bourbon Whiskey
     - 1oz St. George Spiced Pear Liqueur
@@ -787,17 +806,19 @@ recipes:
     - 3/4oz lemon juice
     - 1/2oz simple syrup
     - 3/4oz egg white
-    - 1 Orange peel
+    - 1 orange peel
     - 2 Madeira ice cubes
     steps:
-    - Place 2 Madeira ice cubes into a medium glass. Combine all ingredients except orange peel in a cocktail shaker. Dry shake until frothy. Add ice and shake again vigorously until chilled and diluted, then double-strain into glass. Express orange peel over drink. Discard peel.
+    - Place 2 Madeira ice cubes into a medium glass. 
+    - Combine all ingredients except orange peel in a cocktail shaker. 
+    - Dry shake until frothy. 
+    - Add ice and shake again vigorously until chilled and diluted, then double-strain into glass. Express orange peel over drink. Discard peel.
     tags:
       - the aviary
       - shaken
       - citrus
   - name: Granny Smith
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 2oz Apple Juice
     - 1 1/2oz Tequila Fortaleza Blanco
@@ -817,7 +838,7 @@ recipes:
       - flame
   - name: Bring Another Smurf!
     notes: The origin of this drink stems from our interest in making a blue cocktail using only naturally-occurring colors. In this case, we infuse tequila and mezcal with a deep blue pigment found in butterfly pea flowers. This pigment, we discovered, dramatically changes color (from deep blue to a light magenta) with the addition of acid. We wanted to share the excitement of seeing this color transformation with our guests, so we devised a way to temporarily sequester the blue tequila from an acidic cordial until the guest “stirs” the drink together. Serves 6.
-    glassware: 
+    glassware: novel
     ingredients:
     - 400g Tequila Cabeza
     - 100g Del Maguey VIDA Mezcal
@@ -845,7 +866,7 @@ recipes:
       - shaken
   - name: Chorizo
     notes: We designed this drink in collaboration with the chefs across the hall at Next for their 2013 menu The Hunt. We wanted to create something that felt rough and a little bit savage.
-    glassware: 
+    glassware: novel
     ingredients:
     - 1 1/2oz Knob Creek Single Barrel Reserve bourbon
     - 3/4oz chorizo rum
@@ -856,14 +877,16 @@ recipes:
     - 2 dashes Angostura Aromatic Bitters
     - 1 lemon peel, removed with peeler
     steps:
-    - Combine all ingredients except lemon peel with ice in a cocktail shaker. Shake vigorously until chilled and diluted, then double-strain into a Viking drinking horn. Express lemon peel over drink. Discard peel.
+    - Combine all ingredients except lemon peel with ice in a cocktail shaker. 
+    - Shake vigorously until chilled and diluted, then double-strain into a Viking drinking horn. 
+    - Express lemon peel over drink. 
+    - Discard peel.
     tags:
       - the aviary
       - shaken
       - citrus
   - name: Kyoto Spring
-    notes: 
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 preserved sakura blossom
     - 2oz Kuroushi Omachi Junmai Ginjo sake
@@ -886,8 +909,7 @@ recipes:
       - carbonated
       - shaken
   - name: Kyoto Summer
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 3/4oz Bombay Sapphire East Dry gin
     - 1oz pineapple juice
@@ -897,7 +919,12 @@ recipes:
     - 2oz Uncommon Brewers Siamese Twin Ale
     - 3 matcha ice cubes
     steps:
-    - Place 3 matcha ice cubes into medium glass. Combine all ingredients except beer with ice in a cocktail shaker. Shake vigorously until chilled and diluted. Double-strain mixture from one cocktail tin into the other, add beer and stir briefly to incorporate. Pour over matcha ice into glass. Insert 1 lemongrass straw into glass.
+    - Place 3 matcha ice cubes into medium glass. 
+    - Combine all ingredients except beer with ice in a cocktail shaker. 
+    - Shake vigorously until chilled and diluted. 
+    - Double-strain mixture from one cocktail tin into the other, add beer and stir briefly to incorporate. 
+    - Pour over matcha ice into glass. 
+    - Insert 1 lemongrass straw into glass.
     tags:
       - the aviary
       - "the aviary: flights"
@@ -907,8 +934,7 @@ recipes:
       - shaken
       - citrus
   - name: Kyoto Autumn
-    notes: 
-    glassware: 
+    glassware: novel
     ingredients:
     - 2oz whisky dashi
     - 1/2oz burnt sugar syrup
@@ -918,7 +944,11 @@ recipes:
     - 3 drops smoked salt solution
     - 2 drops toasted sesame tincture
     steps:
-    - Combine all ingredients except sesame tincture with ice in cocktail mixing glass. Stir until chilled and diluted, then strain into a small masu box. Garnish with toasted sesame tincture. Using a lighter, ignite cedar bundle. Extinguish flame, then place the smoldering bundle on the corner of the masu box.
+    - Combine all ingredients except sesame tincture with ice in cocktail mixing glass. 
+    - Stir until chilled and diluted, then strain into a small masu box. 
+    - Garnish with toasted sesame tincture. 
+    - Using a lighter, ignite cedar bundle. 
+    - Extinguish flame, then place the smoldering bundle on the corner of the masu box.
     tags:
       - the aviary
       - "the aviary: flights"
@@ -927,25 +957,25 @@ recipes:
       - flame
       - stirred
   - name: Kyoto Winter
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 30g crème de menthe spheres
     - 200g wasabi white chocolate base
     steps:
-    - Spoon spheres into the bottom of a medium glass. Gently spoon the frozen cocktail base over the spheres. Place a glass straw into the cocktail.
+    - Spoon spheres into the bottom of a medium glass. 
+    - Gently spoon the frozen cocktail base over the spheres. 
+    - Place a glass straw into the cocktail.
     tags:
       - the aviary
       - "the aviary: flights"
       - "the aviary: a year in kyoto"
       - flight
   - name: Turtledove No. 1
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 600g whole milk
     - 200g white chocolate
-    - 25g Orange peel
+    - 25g orange peel
     - 80g Matusalem Platinon rum
     - 32g sugar
     - 1.5g kosher salt
@@ -959,7 +989,7 @@ recipes:
       - "the aviary: two turtle doves"
   - name: Turtledove No. 2
     notes: We use a combination of whole and skim milks here (rather than all whole milk) to offset the fat and viscosity provided by the macadamia nuts. The result is a texture we find pleasingly thick but not too heavy.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 140g toasted macadamia nuts
     - 500g whole milk
@@ -977,22 +1007,22 @@ recipes:
       - the aviary
       - "the aviary: two turtle doves"
   - name: Sweet Potato
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 2oz Tequila Fortaleza Blanco
     - 3/4oz sweet potato syrup
     - 3/4oz acidulated orange juice
     - 6 cubes of smoked paprika ice
     steps:
-    - Place six cubes of smoked paprika ice in medium glass. Separately, combine tequila, sweet potato syrup, and orange juice with ice in a cocktail shaker. Shake vigorously until chilled and diluted, then double-strain into glass.
+    - Place six cubes of smoked paprika ice in medium glass. 
+    - Separately, combine tequila, sweet potato syrup, and orange juice with ice in a cocktail shaker. 
+    - Shake vigorously until chilled and diluted, then double-strain into glass.
     tags:
       - the aviary
       - shaken
       - citrus
   - name: O'Doyle Rules (Non-Alcoholic)
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 banana
     - 145g highly carbonated sparkling water, very cold
@@ -1013,8 +1043,7 @@ recipes:
       - carbonated
       - n/a
   - name: O'Doyle Rules
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 banana
     - 145g highly carbonated sparkling water, very cold
@@ -1034,8 +1063,7 @@ recipes:
       - the aviary
       - carbonated
   - name: Rooibos
-    notes: 
-    glassware: 
+    glassware: mug
     ingredients:
     - Rooibos Upper Chamber Solids
     - 60g Martin Miller’s London Dry gin
@@ -1052,8 +1080,7 @@ recipes:
       - "the aviary: vacpot"
       - heated
   - name: Goodnight & Good Morning
-    notes: 
-    glassware: 
+    glassware: mug
     ingredients:
     - Goodnight & Good Morning Solids
     - 90g Rhine Hall Strawberry Brandy
@@ -1073,8 +1100,7 @@ recipes:
       - "the aviary: vacpot"
       - heated
   - name: Raspberry
-    notes: 
-    glassware: 
+    glassware: mug
     ingredients:
     - Raspberry Upper Chamber Solids
     - 42g St. George Terroir Gin
@@ -1093,8 +1119,7 @@ recipes:
       - "the aviary: vacpot"
       - heated
   - name: A Toddy a Day
-    notes: 
-    glassware: 
+    glassware: mug
     ingredients:
     - A Toddy a Day Upper Chamber Solids
     - 33g Laird’s Jersey Lightning Apple Brandy
@@ -1115,8 +1140,7 @@ recipes:
       - "the aviary: vacpot"
       - heated
   - name: Oolong
-    notes: 
-    glassware: 
+    glassware: mug
     ingredients:
     - Oolong Upper Chamber Solids
     - 60g Tanqueray London Dry gin
@@ -1124,7 +1148,7 @@ recipes:
     - 0.8g citric acid
     - 50g simple syrup
     - 181g water
-    - 1 Orange peel
+    - 1 orange peel
     steps:
     - Arrange the Oolong Upper Chamber Solids in the upper chamber of the vacuum pot. Fit upper chamber onto lower chamber of pot.
     - At the table, use a small burner to heat the lower chamber until contents begin to rise into the upper chamber. Stir the upper chamber gently as it fills to aid infusion. When the lower chamber is empty, remove the burner. Allow the liquid to filter back down into the lower chamber. Remove the top chamber. Pour the warm infusion into a heatproof serving glass.
@@ -1134,8 +1158,7 @@ recipes:
       - "the aviary: vacpot"
       - heated
   - name: Baked Apple
-    notes: 
-    glassware: 
+    glassware: mug
     ingredients:
     - 63g La Diablada Pisco
     - 31g Pineau des Charentes
@@ -1144,7 +1167,7 @@ recipes:
     - 56g simple syrup
     - 140g water
     - 1 cassia cinnamon stick, 10 inches long
-    - 1 Orange peel
+    - 1 orange peel
     - 1 12mm sphere of amaretto brown butter
     steps:
     - Arrange the Baked Apple Upper Chamber Solids in the upper chamber of the vacuum pot. Fit upper chamber onto lower chamber of pot.
@@ -1155,8 +1178,7 @@ recipes:
       - "the aviary: vacpot"
       - heated
   - name: Science AF
-    notes: 
-    glassware: 
+    glassware: mug
     ingredients:
     - Science AF Upper Chamber Solids
     - 56g Compass Box Great King St. Glasgow Blend Scotch Whisky
@@ -1176,8 +1198,7 @@ recipes:
       - "the aviary: vacpot"
       - heated
   - name: 2 in 1
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 1oz Citadelle Gin
     - 1oz Carpano Antica Formula sweet vermouth
@@ -1189,7 +1210,7 @@ recipes:
     - 3/4oz lemon juice
     - 1oz simple syrup
     - 3/4oz egg white
-    - 1 Orange peel
+    - 1 orange peel
     steps:
     - Combine the first six ingredients with ice in a cocktail mixing glass. Stir until chilled and diluted, then strain into a carbonation device. Carbonate according to manufacturer’s instructions. Transfer to a small soda bottle. Cap with bottle capper. Reserve in the refrigerator.
     - Combine all remaining ingredients except orange peel in a cocktail shaker. Dry shake until frothy. Add ice and shake again vigorously until chilled and diluted, then double-strain into a tall glass. Express orange peel over drink. Discard the peel.
@@ -1202,8 +1223,7 @@ recipes:
       - carbonated
       - negroni
   - name: Harry, I Took Care of It
-    notes: 
-    glassware: 
+    glassware: novel
     ingredients:
     - 1 1/2oz genmaicha stock
     - 1oz Absolut Elyx vodka
@@ -1226,7 +1246,7 @@ recipes:
       - smoking gun
   - name: Truffled Negroni
     notes: Chef Achatz really likes negronis. He also likes truffles. So...
-    glassware: 
+    glassware: bowl
     ingredients:
     - 1 1/2oz truffled gin
     - 3/4oz Carpano Antica Formula sweet vermouth
@@ -1242,24 +1262,24 @@ recipes:
       - negroni
   - name: Snake Blood
     notes: This drink is typically part of a set tasting menu we offer at our Kitchen Table. We present the infusion vessel at the beginning of the menu, filling it with the relatively color-free cocktail and allowing it to infuse for the duration of the guest’s visit. It’s then poured as the final, small sip that concludes the experience.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 1/2oz Dimmi Liquore Di Milano
     - 1/2oz Carpano Bianco Vermouth
     - 1/4oz St. George Terroir Gin
     - 1/4oz St. George Raspberry Brandy
     - 1/8oz simple syrup
-    - 1 Orange peel
+    - 1 orange peel
     steps:
     - To make snake cocktail, combine all ingredients except the orange peel in a cocktail mixing glass, stirring to mix.
     - Place the snake infusion mixture into an infusion vessel. Add the snake cocktail to the infusion vessel. Allow it to infuse for at least two hours.
-    - Pour the mixture through a fine meat strainer into the cocktail mixing glass. Add ice and stir to chill and dilute. Strain into small glass. Express an orange peel over the glass. Discard the peel.
+    - Pour the mixture through a fine mesh strainer into the cocktail mixing glass. Add ice and stir to chill and dilute. Strain into small glass. Express an orange peel over the glass. Discard the peel.
     tags:
       - the aviary
       - stirred
   - name: Venerable
     notes: Serves 6.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 128g Bénédictine
     - 56g Compass Box Great King St. Glasgow Blend Scotch Whisky
@@ -1274,8 +1294,7 @@ recipes:
       - flight
       - stirred
   - name: Bijou
-    notes: 
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1/2oz Carpano Antica Formula sweet vermouth
     - 1/2oz Green Chartreuse
@@ -1290,7 +1309,7 @@ recipes:
       - stirred
   - name: Trappist
     notes: We’ve used a number of different Trappist beers throughout the life of this flight. We mention our favorite here, but encourage you to consider using this as a good excuse to explore this style of beer yourself.
-    glassware: 
+    glassware: pint
     ingredients:
     - 4oz La Trappe Quadrupel
     steps:
@@ -1302,8 +1321,7 @@ recipes:
       - flight
       - beer
   - name: Chartreuse V.E.P.
-    notes: 
-    glassware: 
+    glassware: shot
     ingredients:
     - 3/4oz Green Chartreuse V.E.P.
     steps:
@@ -1314,8 +1332,7 @@ recipes:
       - "the aviary: flights"
       - flight
   - name: Clear & Clement
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - Maldon sea salt
     - 1 lime peel, removed with peeler
@@ -1338,7 +1355,7 @@ recipes:
       - citrus
   - name: Monkey Tail
     notes: If liquid nitrogen is not available, an ice cream maker may be used to freeze the daiquiri portion. The coffee portion may be layered on by pouring it gently over the back of a spoon held near the top of the daiquiri.
-    glassware: 
+    glassware: novel
     ingredients:
     - 79g Amaro Averna
     - 72g Punt e Mes
@@ -1366,7 +1383,7 @@ recipes:
       - citrus
   - name: Midnight Mary
     notes: This very clean riff on a Bloody Mary is inspired in part by the process of “nitro-muddling” herbs into cocktails. We wanted a way to utilize this visually interesting technique in front of a guest while minimizing the need to strain or otherwise filter the cocktail during the presentation.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2oz North Shore Distillery Aquavit
     - 1 1/4oz tomato water
@@ -1389,7 +1406,7 @@ recipes:
       - shaken
   - name: Carrot Is the New Tomato
     notes: We drew inspiration for this cocktail by asking ourselves, “Can we make a drink with the vegetal, herbal qualities of a Bloody Mary, but with something other than tomato?” The result is this drink that offers a savory, rustic, freshly-foraged vibe.
-    glassware: 
+    glassware: mason jar
     ingredients:
     - 50g olive oil
     - 2oz carrot juice, extracted with juicer
@@ -1409,7 +1426,7 @@ recipes:
       - citrus
   - name: Meet Me in Tennessee
     notes: The addition of rye to the red wine changes its alcohol density, which allows us to layer it more crisply and easily.
-    glassware: 
+    glassware: collins
     ingredients:
     - 3/4oz Saintsbury Sonoma Coast Pinot Noir
     - 1 1/4oz Jack Daniel’s Single Barrel Rye Whiskey
@@ -1427,7 +1444,7 @@ recipes:
       - autumn
   - name: New Melonnium
     notes: The 20th Century Limited was an express passenger train that ran between Chicago and New York from 1902 through 1967, and served as the namesake for a popular cocktail during this area consisting of gin, vermouth, and crème de cacao. Nearly a century later, we wanted to try our hand at a slightly modernized version of this cocktail.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 1/2oz nectarine vermouth 
     - 1 1/2oz Edinburgh Gin
@@ -1435,7 +1452,11 @@ recipes:
     - 3/4oz lemon juice
     - watermelon ice pop
     steps:
-    - Combine all ingredients with ice in a cocktail shaker. Shake vigorously until child and diluted, then strain into a carbonation device. Carbonate according to the manufacturer’s instructions. Pour the cocktail into a medium glass. Insert one watermelon ice pop into the glass.
+    - Combine all ingredients with ice in a cocktail shaker. 
+    - Shake vigorously until child and diluted, then strain into a carbonation device. 
+    - Carbonate according to the manufacturer’s instructions. 
+    - Pour the cocktail into a medium glass. 
+    - Insert one watermelon ice pop into the glass.
     tags:
       - the aviary
       - carbonated
@@ -1443,7 +1464,7 @@ recipes:
       - shaken
   - name: Mai Tai
     notes: Serves 6.
-    glassware: 
+    glassware: tiki mug
     ingredients:
     - 133g Flor de Caña 12 Year Aged Rum
     - 47g Rhum Clément V.S.O.P.
@@ -1467,8 +1488,7 @@ recipes:
       - shaken
       - flight
   - name: Zombie
-    notes: 
-    glassware: 
+    glassware: tiki mug
     ingredients:
     - 90g Appleton Estate 12 Year Jamaica Rum
     - 46g El Dorado 12 Year Old Rum
@@ -1495,8 +1515,7 @@ recipes:
       - shaken
       - flight
   - name: Knickerbocker
-    notes: 
-    glassware: 
+    glassware: tiki mug
     ingredients:
     - 122g raspberry stock
     - 72g lime juice
@@ -1520,7 +1539,7 @@ recipes:
       - frozen
   - name: Meloncholy
     notes: We frequently find inspiration in single ingredients or products. This drink was born from a tasting of BarSol Perfecto Amor, which featured an intense, ripe cantaloupe flavor. Other flavors amplify and complement the idea of a melon ripening over time. While we suggest that three minutes is a good minimum amount of time to allow this cocktail to steep, allowing the cocktail to infuse longer further intensifies its flavor. When serving this drink at The Aviary, we present the guest with the press pot and a small sand timer, which we invert at the table. We keep a separate timer running at the bar, so our staff knows when to return to the table to depress the plunger and strain the drink for the guest.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 1/2oz The Scarlet Ibis Trinidad Rum
     - 1oz BarSol Perfecto Amor
@@ -1536,17 +1555,20 @@ recipes:
     - 3/4oz lemon juice
     steps:
     - In a French press pot, arrange cilantro leaves, orange peel, hot curry, French curry, and makrut leaves.
-    - Combine the Scarlet Ibis Trinidad Rum, BarSol Perfetor Amor, Petite Canne Martinique Sugar Cane Syrup, kosher salt, cantaloupe juice, and lemon juice with ice in a cocktail shaker. Shake briefly until chilled and diluted, then strain into the press pot. Allow the mixture to steep for at least three minutes. To serve, depress the plunger and pour the drink into a glass.
+    - Combine the Scarlet Ibis Trinidad Rum, BarSol Perfetor Amor, Petite Canne Martinique Sugar Cane Syrup, kosher salt, cantaloupe juice, and lemon juice with ice in a cocktail shaker. 
+    - Shake briefly until chilled and diluted, then strain into the press pot. 
+    - Allow the mixture to steep for at least three minutes. 
+    - To serve, depress the plunger and pour the drink into a glass.
     tags:
       - the aviary
       - shaken
       - citrus
   - name: Cawberry Strobbler
     notes: The classic Cobbler - a mixture of spirit, sweetener, and fruit - is thought to be the first cocktail served with a straw (made necessary by the crushed ice, or “cobbles,” on which the drink is served). We use the crushed ice as an opportunity to add flavors of sherry, black pepper, and melon to a cocktail base of citrus and strawberry. Serves 6.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 273g strawberries
-    - 4g Orange peel
+    - 4g orange peel
     - 4g lemon peel, removed with peeler, all pith removed
     - 10g sugar
     - 72g simple syrup
@@ -1582,7 +1604,7 @@ recipes:
       - citrus
   - name: Tea in Trinidad
     notes: Sometimes our inspiration comes from an interesting service piece; such was the case when we found these vessels that reminded us of a cartoon bomb. While playing around with them, we discovered they could comfortably hold dry ice, spouting dramatic clouds that we reasoned might be great for dispersing an aroma. We began sniffing the contents of our pantry, combining the most aromatic ingredients we could find until we had something that smelled and tasted great.
-    glassware: 
+    glassware: mug
     ingredients:
     - 1 1/2oz Zaya Gran Reserva rum
     - 1 1/2oz Fusion Verjus Rouge
@@ -1597,7 +1619,7 @@ recipes:
       - heated
   - name: Branding Iron
     notes: The unlikely origin of this drink came from a discussion amongst several of our bartenders about replacing the black felt coasters we use with something more rustic. We found some interesting pine branch cross-sections that we felt might work well for this. At the same time, we were exploring the use of a branding iron on citrus peels. We wondered about using the iron to brand our logo into our pine branch coasters; when we tried this, we noticed the smoke from the coaster smelled quite aromatic and delicious. We pair the pine smoke with St. George’s Terroir Gin, which is made with pine boughs from the mountains near the distillery.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1/2oz St. George Terroir Gin
     - 3/4oz Rhine Hall Oak Aged Apple Brandy
@@ -1617,7 +1639,7 @@ recipes:
       - flame
   - name: On a Wire
     notes: Questioning the purpose of a cocktail garnish leads us to try expanding the role this accoutrement can play in a drink. Here, a rosemary garnish adds visual appeal while also contributing a significant flavor impact to the drink itself. The unique service piece used to suspend the garnish in the glass was designed for us by Martin Kastner.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 1/2oz Jean-Luc Pasquet Coeur de Grande Champagne Cognac
     - 3/4oz graham cracker syrup
@@ -1640,7 +1662,7 @@ recipes:
       - flame
   - name: Hermoso
     notes: We base this drink on a very special barrel of reposado tequila we procured from Casa Noble. When working with limited, small quantities of rare or special spirits, we generally try to enhance the base spirit’s flavor in subtle ways rather than overpowering it or losing it in a more complex build. We pair this cocktail with an aroma of cigar and cedar, the latter of which adds length and complexity to the smoke.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2oz Casa Noble Reposado Tequila
     - 3/4oz Cocchi Storico Vermouth di Torino
@@ -1656,7 +1678,7 @@ recipes:
       - stirred
       - smoking gun
   - name: Rum Manhattan
-    notes: 
+    notes: nick & nora
     glassware: 
     ingredients:
     - 1 1/2oz Dos Maderas PX 5+5 Aged Rum
@@ -1672,7 +1694,7 @@ recipes:
       - stirred
       - manhattan
   - name: (719) 26-OATES
-    notes: 
+    notes: rocks
     glassware: 
     ingredients:
     - 2oz oated whiskey
@@ -1691,7 +1713,7 @@ recipes:
       - "the aviary: pillows"
       - stirred
   - name: Rob Roy
-    notes: 
+    notes: rocks
     glassware: 
     ingredients:
     - 2oz Compass Box Great King St. Glasgow Blend Scotch Whisky
@@ -1707,14 +1729,14 @@ recipes:
       - "the aviary: pillows"
       - stirred
   - name: Wake & Bake
-    notes: 
+    notes: rocks
     glassware: 
     ingredients:
     - 2oz Wild Turkey 101 Rye Whiskey
     - 1oz coffee vermouth
     - 1/4oz St. George NOLA Coffee Liqueur
     - 1/4oz BroVo Orange Curaçao
-    - 2 dashes Regans’ Orange Bitters
+    - 2 dashes Regans' Orange Bitters
     - 1 dash Angostura Aromatic Bitters
     steps:
     - Combine all ingredients with ice in a cocktail mixing glass. Stir until chilled and diluted, then strain into a medium glass. Reserve in the freezer.
@@ -1725,7 +1747,7 @@ recipes:
       - stirred
   - name: Prize Inside (Non-Alcoholic)
     notes: It’s hard to live in Chicago and not be a Cubs fan. As the end of the season nears, the temperature here plummets - but that doesn’t stop bundled-up fans from lining the bleachers of Wrigley, draped in thick blankets and sipping warming drinks to carry them through the final games. Here’s how we fly the W at The Aviary.
-    glassware: 
+    glassware: mug
     ingredients:
     - 447g popcorn stock
     - 163g peanut orgeat
@@ -1745,7 +1767,7 @@ recipes:
       - blended
   - name: Prize Inside
     notes: It’s hard to live in Chicago and not be a Cubs fan. As the end of the season nears, the temperature here plummets - but that doesn’t stop bundled-up fans from lining the bleachers of Wrigley, draped in thick blankets and sipping warming drinks to carry them through the final games. Here’s how we fly the W at The Aviary.
-    glassware: 
+    glassware: mug
     ingredients:
     - 375g popcorn stock
     - 150g buttered rum
@@ -1763,7 +1785,7 @@ recipes:
       - blended
       - heated
   - name: Five Food Groups
-    notes: 
+    notes: rocks
     glassware: 
     ingredients:
     - 1 1/2oz peach whiskey
@@ -1780,8 +1802,7 @@ recipes:
       - beer
       - shaken
   - name: Horchata
-    notes: 
-    glassware: 
+    glassware: novel
     ingredients:
     - 7oz jasmine rice milk
     - 1 1/4oz simple syrup
@@ -1797,7 +1818,7 @@ recipes:
       - stirred
   - name: Bloody Mary (2011)
     notes: When we first opened The Aviary, we felt that inclusion of a Bloody Mary was compulsory. We’d just begun learning about flavored ices, and our idea was to try refactoring the flavors usually used as garnishes into interesting ice for the drink. When we opened our second Aviary location in New York in 2017, we felt it was only fitting to revisit this drink for our inaugural menu there. Maturity and the benefit of hindsight led us to reconsider and rebalance much of the drink into something we feel is more refined. We present both versions here to highlight the iterative process many of our drinks undergo over their lifespans. Serves 6.
-    glassware: 
+    glassware: novel
     ingredients:
     - 1 compressed celery stalk
     - 40g Fresno ice
@@ -1810,8 +1831,7 @@ recipes:
     tags:
       - the aviary
   - name: Bloody Mary (2017)
-    notes: 
-    glassware: 
+    glassware: novel
     ingredients:
     - 150g Bloody Mary Batch, reserved in carafe
     - 4 watercress blossoms
@@ -1852,7 +1872,7 @@ recipes:
       - citrus
   - name: Netflix & Chilcano
     notes: The Chilcano, a popular drink in Peru, is a concoction composed of pisco, ginger ale, and bitters. Peruvian bartenders often infuse pisco with various flavors to add complexity to this cocktail. Our riff plays with the idea of infusion using flavors of quince and Sauternes.
-    glassware: 
+    glassware: collins
     ingredients:
     - 2oz quince Sauternes
     - 1 1/2oz Pisco Portón
@@ -1869,13 +1889,12 @@ recipes:
       - carbonated
       - shaken
   - name: Old Fashioned
-    notes: 
-    glassware: 
+    glassware: novel
     ingredients:
     - 2oz Eagle Rare Bourbon Whiskey
     - 1/4oz demerara syrup
     - 2 dashes Angostura Aromatic Bitters
-    - 1 navel Orange peel
+    - 1 navel orange peel
     steps:
     - Combine all ingredients (except the orange peel) with ice in a cocktail mixing glass. Stir until chilled and diluted, then strain into a small carafe. Reserve in the freezer.
     - Remove ice shell from freezer, re-drilling hole if necessary. Using a syringe fitted with a blunt tip, fill the ice with the cocktail. Assembled cocktails may be reserved in the freezer with the hole facing upwards until ready to serve.
@@ -1885,8 +1904,7 @@ recipes:
       - "the aviary: in the rocks"
       - stirred
   - name: El Presidente
-    notes: 
-    glassware: 
+    glassware: novel
     ingredients:
     - 2oz Botran Reserva Rum
     - 3/4oz Noilly Prat Original Dry Vermouth
@@ -1903,8 +1921,7 @@ recipes:
       - "the aviary: in the rocks"
       - stirred
   - name: Red Hook
-    notes: 
-    glassware: 
+    glassware: novel
     ingredients:
     - 2oz Cody Road Rye Whiskey
     - 3/4oz Punt e Mes
@@ -1919,13 +1936,12 @@ recipes:
       - "the aviary: in the rocks"
       - stirred
   - name: Boulevardier
-    notes: 
-    glassware: 
+    glassware: novel
     ingredients:
     - 1 1/2oz Knob Creek Single Barrel Reserve bourbon
     - 1oz Carpano Antica Formula sweet vermouth
     - 3/4oz Campari
-    - 1 Orange peel
+    - 1 orange peel
     steps:
     - Combine all ingredients (except the orange peel) with ice in a cocktail mixing glass. Stir until chilled and diluted, then strain into a small carafe. Reserve in the freezer.
     - Remove ice shell from freezer, re-drilling hole if necessary. Using a syringe fitted with a blunt tip, fill the ice with the cocktail. Assembled cocktails may be reserved in the freezer with the hole facing upwards until ready to serve.
@@ -1935,8 +1951,7 @@ recipes:
       - "the aviary: in the rocks"
       - stirred
   - name: Vieux Carré
-    notes: 
-    glassware: 
+    glassware: novel
     ingredients:
     - 1oz Rittenhouse Bottled in Bond Rye Whiskey
     - 1oz Punt e Mes
@@ -1954,14 +1969,13 @@ recipes:
       - "the aviary: in the rocks"
       - stirred
   - name: Remember the Maine
-    notes: 
-    glassware: 
+    glassware: novel
     ingredients:
     - 2oz Pikesville Straight Rye Whiskey
     - 3/4oz Punt e Mes
     - 1/4oz Cherry Heering Liqueur
     - 2 dashes (about 40 drops) St. George ABsinthe Verte
-    - 1 Orange peel
+    - 1 orange peel
     steps:
     - Place 1 large spoonful (about 18g) of cherry granita into a medium glass. Place rock with hole facing down onto the granita. Express the orange peel over the drink. Discard the peel.
     tags:
@@ -1970,7 +1984,7 @@ recipes:
       - stirred
   - name: Cloche Encounters of the 46 Kind
     notes: The bourbon used as the base of this cocktail is one we crafted in collaboration with Maker’s Mark. We present it in a service piece that was custom-designed for us by Martin Kastner. The “cloche,” as it’s called, helps constrain the aroma of this cocktail to avoid potentially contaminating the experience of nearby guests who may be drinking something different. Maker’s 46 may be used as a substitute bourbon in this recipe.
-    glassware: 
+    glassware: novel
     ingredients:
     - 2oz Maker’s Mark Private Select Aviary Barrel Bourbon
     - 1 1/4oz mocha chai tea stock
@@ -1989,7 +2003,7 @@ recipes:
       - stirred
   - name: Doppia Bevanda
     notes: This drink was originally inspired by an affogato (coffee and vanilla ice cream). The carbonated milk punch replicates the role of the ice cream, with its creamy mouthfeel and vanilla notes. The coffee shares geographic roots with the herbaceous, earthy flavors it’s combined with, exemplifying the general culinary tendency that “things that grow together go together.”
-    glassware: 
+    glassware: collins
     ingredients:
     - 1/2oz spiced cold brew coffee
     - 1/2oz Cynar 70 Proof Amaro
@@ -2014,8 +2028,7 @@ recipes:
       - caffeinated
       - citrus
   - name: Ford's Model Tea Party
-    notes: 
-    glassware: 
+    glassware: teacup
     ingredients:
     - 1 1/4oz Fords Gin
     - 3/4oz Atsby Armadillo Cake Vermouth
@@ -2035,7 +2048,7 @@ recipes:
       - stirred
   - name: Micahlada (2011)
     notes: The classic Michelada, one of our favorite hangover soothers, is an unfussy combination of cold light beer, lime, salt, and a dash of hot sauce. An early version of our take on this drink - which we served at The Aviary in Chicago - was served in a pint glass with a spice rim. We used our opening of another Aviary in New York as an opportunity to revisit and refine this cocktail, adding a few bites of food to pair with it as well. We present both variations here. This constant iteration on ideas is common for us; it’s rare that any given recipe becomes set in stone.
-    glassware: 
+    glassware: pint
     ingredients:
     - 1oz Micahlada base
     - 1oz Suntory Toki Whisky, chilled thoroughly in freezer
@@ -2049,8 +2062,7 @@ recipes:
       - citrus
       - shaken
   - name: Micahlada (2017)
-    notes: 
-    glassware: 
+    glassware: pint
     ingredients:
     - 1oz Micahlada base
     - 1oz Suntory Toki Whisky, chilled thoroughly in freezer
@@ -2076,8 +2088,7 @@ recipes:
       - shaken
       - citrus
   - name: Corpse Survivor
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 1/2oz St. George Dry Rye Reposado gin
     - 1oz Cocchi Americano
@@ -2100,8 +2111,7 @@ recipes:
       - citrus
       - shaken
   - name: Joseph's Cane
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 2oz Leblon Cachaça
     - 1oz finger lime cordial
@@ -2120,7 +2130,7 @@ recipes:
       - sparkling
   - name: Chamomile
     notes: This drink is anchored squarely in our culinary roots at Alinea, where questions like, “What if we made an edible cocktail that’s eaten with a spoon?” are not unusual. We drew our original inspiration from a seminal dish of carrot-flavored foam created by the inimitable chefs at elBulli, starting with a similar foam made of beer. We then crafted a list of flavors that we felt would complement our beer foam - a process we refer to as “flavor bouncing.”
-    glassware: 
+    glassware: novel
     ingredients:
     - 6 small sage leaves
     - fresh chamomile flower petals
@@ -2139,7 +2149,7 @@ recipes:
       - frozen
   - name: Carrot Cake Ramos Rum Fizz
     notes: While attending a prominent cocktail industry event in New Orleans, we had the opportunity to taste a rum that reminded us of carrot cake. Inspired by this, we wanted to riff on one of New Orleans’ most popular classic cocktails - the Ramos Gin Fizz - and develop a drink with similar characteristics while highlighting that carrot cake flavor. This recipe took us nearly two years to develop and perfect.
-    glassware: 
+    glassware: collins
     ingredients:
     - 2oz carrot cake rum
     - 2oz carrot rooibos syrup
@@ -2155,8 +2165,7 @@ recipes:
       - the aviary
       - shaken
   - name: Smoking Barrel
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1oz Pierre Ferrand 1840 Cognac
     - 1oz Jean-Luc Pasquet Coeur de Grande Champagne Cognac
@@ -2180,7 +2189,7 @@ recipes:
       - peaty
   - name: Thai Iced Coffee
     notes: In addition to providing a visually-interesting way to sweeten this cocktail, the cotton candy also helps minimize splashing when we pour in the rum mixture.
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 1/4oz thai spice rum
     - 3/4oz Galliano Ristretto
@@ -2196,8 +2205,7 @@ recipes:
       - caffeinated
       - shaken
   - name: Perfect Storm
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 5oz cold water
     - 3/4oz lime juice
@@ -2207,7 +2215,6 @@ recipes:
     steps:
     - Prepare an ice bath. Combine water, lime juice, and tonka ginger syrup in a small bowl, stirring to mix thoroughly. Strain through chinois into a carbonation device. Transfer to the ice bath to chill thoroughly. Carbonate according to the manufacturer’s instructions.
     - Place 1 banana ice spear into a tall, slender glass. Gently add the carbonated cocktail. At the table, invite the guest to taste the pyrolized banana liquor, then to pour into the glass with the cocktail to mix.
-
     tags:
       - the aviary
       - carbonated
@@ -2215,7 +2222,7 @@ recipes:
       - citrus
   - name: Bitter
     notes: The smoke from a used bourbon barrel stave is uniquely aromatic. We pair its sweetness here with apple brandy and Cognac, while complementing the smoke’s bitter notes with several different amari and apéritifs. We aggressively chill this cocktail before serving to enhance the contrast between it and the glass, which is warmed by the smoke.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1oz Pierre Ferrand 1840 Cognac
     - 1oz Laird’s Straight Apple Brandy
@@ -2233,8 +2240,7 @@ recipes:
 
 #The Office
   - name: Chartreuse
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 3/4oz Yellow Chartreuse
     - 3/4oz BroVo Amaro by Peter Kim (2014)
@@ -2251,8 +2257,7 @@ recipes:
       - "the aviary: the office"
       - stirred
   - name: Coffee
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 cigar, crushed into small flakes
     - cedarwood chips
@@ -2272,8 +2277,7 @@ recipes:
       - smoking gun
       - shaken
   - name: Sweet Pea
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 1/2oz St. George Green Chile Vodka
     - 1/2oz Green Chartreuse
@@ -2287,8 +2291,7 @@ recipes:
       - carbonated
       - citrus
   - name: Passionfruit
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 3/4oz Banks 7 Golden Age Rum
     - 3/4oz The Scarlet Ibis Trinidad Rum
@@ -2301,15 +2304,17 @@ recipes:
     - 3 drops smoked salt solution
     - 5 drops dijon tincture
     steps:
-    - Combine all ingredients except dijon tincture in a cocktail shaker. Dry shake until frothy. Add ice and shake again vigorously until chilled and diluted, then double-strain into a medium glass. Garnish with the dijon tincture.
+    - Combine all ingredients except dijon tincture in a cocktail shaker. 
+    - Dry shake until frothy. 
+    - Add ice and shake again vigorously until chilled and diluted, then double-strain into a medium glass. 
+    - Garnish with the dijon tincture.
     tags:
       - the aviary
       - "the aviary: the office"
       - shaken
       - citrus
   - name: Gran Classico
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 2oz Tempus Fugit Gran Classico
     - 3/4oz lemon juice
@@ -2320,29 +2325,35 @@ recipes:
     - 1 1/2oz ginger beer
     - 10 drops toasted coconut tincture
     steps:
-    - Place a large rectangular ice cube into a tall glass. Combine all ingredients except the ginger beer and toasted coconut tincture in a cocktail shaker. Dry shake until frothy. Add ice and shake again vigorously until chilled and diluted, then double-strain into glass. Pour in ginger beer. Garnish with toasted coconut tincture.
+    - Place a large rectangular ice cube into a tall glass. 
+    - Combine all ingredients except the ginger beer and toasted coconut tincture in a cocktail shaker. 
+    - Dry shake until frothy. 
+    - Add ice and shake again vigorously until chilled and diluted, then double-strain into glass. 
+    - Pour in ginger beer. 
+    - Garnish with toasted coconut tincture.
     tags:
       - the aviary
       - "the aviary: the office"
       - shaken
       - citrus
   - name: Old Fashioned
-    notes: 
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 2oz Eagle Rare Bourbon Whiskey
     - 1/2oz strawberry fernet syrup
-    - 1 Orange peel
+    - 1 orange peel
     steps:
-    - Place a large chunk of ice into a medium glass. Combine whiskey and syrup with ice in a cocktail mixing glass. Stir until chilled and diluted, then strain into a medium glass. Express the orange peel over the drink, then insert the peel into the glass.
+    - Place a large chunk of ice into a medium glass. 
+    - Combine whiskey and syrup with ice in a cocktail mixing glass. 
+    - Stir until chilled and diluted, then strain into a medium glass. 
+    - Express the orange peel over the drink, then insert the peel into the glass.
     tags:
       - the aviary
       - "the aviary: the office"
       - stirred
       - old-fashioned
   - name: Popcorn
-    notes: 
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 1oz Eagle Rare Bourbon Whiskey
     - 3/4oz Mellow Corn Whiskey
@@ -2359,8 +2370,7 @@ recipes:
       - stirred
       - old-fashioned
   - name: Amaretto Sour
-    notes: 
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 1/2oz Lazzaroni Amaretto Liqueur
     - 3/4oz Cynar 70 Proof Amaro
@@ -2370,7 +2380,7 @@ recipes:
     - 3 drops smoked salt solution
     - 1/2oz egg yolk
     - 5 drops Angostura Aromatic Bitters
-    - 1 Orange peel
+    - 1 orange peel
     steps:
     - Combine all ingredients except Angostura and orange peel in a cocktail shaker. Dry shake until frothy. Add ice and shake again vigorously until chilled and diluted, then double-strain into a medium glass. Place 1 drop of black truffle tincture into the center of the cocktail. Add 5 drops of orange bitters onto the cocktail around the center. Drag a tasting straw or toothpick through the Angostura drops to create a swirl pattern. Express the orange peel over the drink. Discard the peel.
     tags:
@@ -2378,8 +2388,7 @@ recipes:
       - shaken
       - citrus
   - name: Blue Cheese
-    notes: 
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 1/4oz Château Cantegril Sauternes
     - 1oz Pierre Ferrand 1840 Cognac
@@ -2395,8 +2404,7 @@ recipes:
       - shaken
       - citrus
   - name: Tequila
-    notes: 
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 3/4oz Tequila Fortaleza Blanco
     - 1oz grapefruit juice
@@ -2413,8 +2421,7 @@ recipes:
       - shaken
       - citrus
   - name: Huckleberry
-    notes: 
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2oz Bombay London Dry gin
     - 1oz huckleberry syrup
@@ -2433,8 +2440,7 @@ recipes:
 
 #Pairing Cocktails With Food
   - name: Elvis Parsley
-    notes: 
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 1 1/4oz Compass Box Orangerie
     - 1 1/4oz Lustau Península Palo Cortado Sherry
@@ -2454,7 +2460,7 @@ recipes:
 #Dusty Bottles
   - name: "Dusty Bottle: Vesper"
     notes: In addition to crafting delicious martinis, Dukes Bar - situated in London’s Dukes Hotel - historically served as the local watering hole for Sir Ian Fleming during his time writing the James Bond novels. The bar is said to have been the birthplace of the Vesper martini, a cocktail infamously introduced by Bond in Casino Royale. Shaking a martini (as Bond regularly requests) serves to aggressively chill it, which flouted contention at the time, but dampens the flavors of the spirits being used. With all due respect to 007, we’ve altered his original proportions a bit and prefer to stir this drink to allow the character of the vintage spirits to shine through.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1oz Beefeater London Dry gin - 1970s gallon
     - 1oz Smirnoff Vodka - 1970s gallon
@@ -2469,7 +2475,7 @@ recipes:
       - stirred
   - name: "Dusty Bottle: Daiquiri"
     notes: Irish brothers Edward and John Burke were distillers and importers in New York City during the turn of the twentieth century. In 1943, they imported the case of Jamaican rum we make use of in this cocktail. The rum has an earthy funkiness, offering notes of canned artichokes and green olive that lend themselves to an unusual and delicious daiquiri.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2oz E&J Burke Jamaican Rum - 1943
     - 3/4oz lime juice
@@ -2485,7 +2491,7 @@ recipes:
       - classic
   - name: "Dusty Bottle: White Negroni"
     notes: The modern-day White Negroni is typically bracingly bitter and earthy. Up until a few decades ago, however, a different variant of this classic cocktail could be made using a raspberry-flavored liqueur produced by Campari. The cordial contributed to a drink that was rich, sweet, and deliciously smooth.
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 1 1/2oz Beefeater London Dry gin - 1970s half-gallon
     - 3/4oz Campari Cordial - 1970s
@@ -2502,7 +2508,7 @@ recipes:
       - classic
   - name: "Dusty Bottle: Gin Martini"
     notes: "Something we notice about vintage gins is that they tend to be remarkably stable; the botanicals and other flavors take on interesting mature qualities, but overall the spirit still tastes recognizably gin-like. Vermouth, on the other hand, dramatically changes as it ages: the color deepens and flavors turn nutty as they oxidize, not dissimilar from those found in aged sherries."
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 1/2oz Tanqueray Sweet Gin - 1900s
     - 3/4oz Noilly Prat Blanc Vermouth - 1900s
@@ -2519,7 +2525,7 @@ recipes:
       - martini
   - name: "Dusty Bottle: Brooklyn"
     notes: The first known recorded recipe for the Brooklyn seems to come in 1914 by way of David Straub, who tended bar at the Waldorf-Astoria Hotel. The cocktail made use of Amer Picon, a bittersweet herbal liqueur that has undergone several reformulations since the 1970s, which have left it bearing little resemblance to its original self. Our discovery of a bottle of this liqueur in its original formulation  inspired us to gather the other contemporary ingredients for an early-century version of this cocktail.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2oz Old Overholt 5-Year Rye Whiskey - 1940s
     - 1oz Noilly Prat Dry Vermouth - 1940s
@@ -2535,7 +2541,7 @@ recipes:
       - manhattan
   - name: "Dusty Bottle: Old Fashioned"
     notes: The S.P. Lancaster Distillery was a small distillery located near Bardstown, Kentucky. In addition to bourbon, the distillery also produced what would become the base for a line of bitters produced by the New York-based Fee Brothers. The distillery was ultimately forced to close during the Prohibition era. A batch of bourbon distilled by S.P. Lancaster in the spring of 1916 sat aging in barrels until it was  discovered, bottles, and sold in 1932 as “medicinal whiskey” by the American Medicinal Spirits Company.
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 2oz S.P. Lancaster Bourbon - 1932
     - 1/4oz demerara syrup

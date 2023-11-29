@@ -5,7 +5,7 @@ recipes:
   - name: Irish Coffee
     author: Dale DeGroff & Jillian Vose
     notes: This is one of the most iconic, beloved, and misunderstood cocktails of all. We spent years perfecting the method and finessing every variation of this simple four-ingredient recipe. It’s become our signature drink, enjoyed and lovingly recalled by visitors from around the world.
-    glassware: 
+    glassware: irish coffee mug
     ingredients:
     - 1 ounce Bushmills The Original
     - ⅝ ounce demerara syrup
@@ -13,7 +13,10 @@ recipes:
     - Heavy cream
     - "Garnish: Nutmeg, for grating (optional)"
     steps:
-    - Add the whiskey, demerara syrup, and hot coffee to an Irish coffee glass. Stir to ensure the syrup is evenly distributed. Leave a finger’s worth of room for whipped cream. Top with freshly whipped cream and garnish with freshly grated nutmeg, if you wish.
+    - Add the whiskey, demerara syrup, and hot coffee to an Irish coffee glass. 
+    - Stir to ensure the syrup is evenly distributed. 
+    - Leave a finger’s worth of room for whipped cream. 
+    - Top with freshly whipped cream and garnish with freshly grated nutmeg, if you wish.
     tags:
       - the dead rabbit
       - classic irish whiskey cocktails
@@ -24,7 +27,7 @@ recipes:
   - name: Tipperary
     author: Jack McGarry & Jillian Vose
     notes: This cocktail’s first appearance in print was in 1917 in Recipes for Mixed Drinks by Hugo R. Ensslin. It was said to be named after a guest walked in asking for a drink while humming “It’s a Long Way to Tipperary,” an anthem for homesick Irish soldiers during World War I. Other credit is given to Harry Craddock, who included it in his 1930 classic The Savoy Cocktail Book.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 3 dashes Angostura bitters
     - 3 dashes orange bitters
@@ -34,15 +37,18 @@ recipes:
     - 1½ ounces Powers Three Swallow single pot still
     - "Garnish: orange peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a cocktail glass without ice. Garnish with a spritz of orange oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a cocktail glass without ice. 
+    - Garnish with a spritz of orange oil and discard the peel.
     tags:
       - the dead rabbit
       - classic irish whiskey cocktails
       - stirred
+      - manhattan
   - name: Cameron's Kick
     author: Jack McGarry & Greg Buda
     notes: Nobody knows for sure who created this drink—and even fewer know who Cameron was—but what is certain is that it’s an exceptional concoction. The original was just a mix of equal parts Scotch and Irish whiskeys, plus lemon and orgeat, to which we’ve added oloroso sherry and bitters for extra depth and balance.
-    glassware: 
+    glassware: coupette
     ingredients:
     - 3 dashes Angostura bitters
     - ¾ ounce fresh lemon juice
@@ -52,7 +58,9 @@ recipes:
     - 1 ounce Redbreast 12 single pot still
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a coupette and serve with an ice nugget. Garnish with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a coupette and serve with an ice nugget. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - classic irish whiskey cocktails
@@ -61,23 +69,26 @@ recipes:
   - name: Emerald
     author: Jack McGarry & Jillian Vose
     notes: It’s been argued—with some vigor—that the Emerald is an Irish version of the classic Manhattan, the rye replaced with Irish whiskey. And like the original Manhattan, it even contains a hint of orange commingled with the fruit of Erin’s green isle. Well, we are very adaptable people.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 dashes Angostura bitters
     - 1 teaspoon Pierre Ferrand dry curaçao
     - 1 ounce house sweet vermouth
     - 2 ounces Powers Three Swallow single pot still
-    - "Garnish: lemon and Orange twists, for squeezing"
+    - "Garnish: lemon and orange twists, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir together lightly. Strain into a Nick & Nora glass. Garnish with a spritz each of lemon oil and orange oil and discard the peels.
+    - Add the ingredients to a mixing glass in the order indicated and stir together lightly. 
+    - Strain into a Nick & Nora glass. 
+    - Garnish with a spritz each of lemon oil and orange oil and discard the peels.
     tags:
       - the dead rabbit
       - classic irish whiskey cocktails
       - stirred
+      - manhattan
   - name: Bankers Punch
     author: Jack McGarry
     notes: Jack rescued and developed this drink from a couple of almost-forgotten nineteenth-century cocktails, the Irish Planter’s Punch and the Knickerbocker. The Redbreast supplies spiciness and complexity and the overproof blend of rums brings heat and depth, while the port and fruit elements provide wonderful softness and sweetness.
-    glassware: 
+    glassware: punch glass
     ingredients:
     - 3 dashes Angostura bitters
     - ¾ ounce fresh lime juice
@@ -88,7 +99,9 @@ recipes:
     - ¼ ounce Cruzan blackstrap rum
     - ¾ ounce Redbreast 12 single pot still
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with 3 ice cubes. Fine strain into a punch glass over pebble ice or crushed ice. Garnish lightly with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with 3 ice cubes. 
+    - Fine strain into a punch glass over pebble ice or crushed ice. 
+    - Garnish lightly with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - classic irish whiskey cocktails
@@ -97,7 +110,7 @@ recipes:
   - name: Wild Irish Rose
     author: Jack McGarry & Jillian Vose
     notes: "If you look at the original recipe for this drink and compare it with our version, you’ll see some differences. But the bones are still there: citrus, grenadine, whiskey. Jack then accentuated the tart and fruity sour with layers of hibiscus, absinthe, floral vermouth, and peated Irish whiskey. It’s an all-time favorite at the bar."
-    glassware: 
+    glassware: punch glass
     ingredients:
     - 1 egg white
     - 3 dashes Bittermens Burlesque Bitters
@@ -109,7 +122,10 @@ recipes:
     - 1 ounce Connemara peated single malt
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated. Dry shake without ice, then shake with ice. Double strain using both the fine and Hawthorne strainers into a punch glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a shaker tin in the order indicated. 
+    - Dry shake without ice, then shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a punch glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - classic irish whiskey cocktails
@@ -121,7 +137,7 @@ recipes:
   - name: Chief of Staff
     author: Long Thai
     notes: Talk about how the bold and subtle can come together to form something beautifully balanced. This exclusively PX sherry-aged single malt whiskey is accented with floral and berry notes coming together to form a medium-bodied Manhattan variation. This meets right in the middle for someone who likes boozy or refreshing drinks.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - ½ teaspoon house maraschino liqueur
     - ½ teaspoon Giffard crème de cacao
@@ -131,7 +147,9 @@ recipes:
     - 1½ ounces Egan’s Fortitude
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -140,7 +158,7 @@ recipes:
   - name: Devil Woman
     author: Greg Buda
     notes: It might seem odd to use a single grain Irish whiskey here among so many powerful other flavors. However, splitting the base with a smoky Scotch mellowed it out and allowed the other ingredients to come through, while keeping the proof level suitably elevated.
-    glassware: 
+    glassware: collins
     ingredients:
     - 4 dashes black pepper tincture
     - ¾ ounce fresh lime juice
@@ -151,7 +169,8 @@ recipes:
     - ½ ounce The Famous Grouse Smoky Black blended Scotch
     - 1½ ounces Kilbeggan single grain
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a collins glass over cracked ice.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a collins glass over cracked ice.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -161,9 +180,9 @@ recipes:
   - name: Rollerball
     author: Long Thai
     notes: This whiskey is great for mixing because its proof is on the higher side, at 43.6% ABV, and since it’s been finished in Bordeaux barrels, there are strong berry and rhubarb notes and a lot of orchard fruit coming from the distillate itself. The flavor pairings are thoughtful and elegantly complement the nose of the whiskey.
-    glassware: 
+    glassware: sour glass
     ingredients:
-    - 3 dashes Dale DeGroff’s pimento bitters
+    - 3 dashes Dale DeGroff's pimento bitters
     - ¾ ounce fresh lemon juice
     - ½ ounce nectarine juice
     - ¼ ounce fennel syrup
@@ -171,7 +190,9 @@ recipes:
     - 2 ounces Clonakilty Bordeaux cask single grain
     - "Garnish: Lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a sour glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a sour glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -181,7 +202,7 @@ recipes:
   - name: Trailblazer
     author: Jillian Vose
     notes: I had the pleasure of working with The Busker on their launch campaign in 2021. It was exciting to see a new line of whiskey that makes all four styles in one house, as it’s quite rare. The single grain really stuck out to me as the category has only a few choices and I just couldn’t wait to make a drink with it. The accent flavors here, cinnamon and passion fruit, are pairings to the aromas I picked out of the whiskey itself, making a beautiful, elegant, light, and refreshing stirred whiskey cocktail (if I say so myself). It’s a balance of many of the things I love in a light stirred drink—approachable, bright, yet boozy and great for any time of the year. I’m definitely proud of this one.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 dash mace tincture
     - ⅓ teaspoon cinnamon bark syrup
@@ -191,7 +212,9 @@ recipes:
     - 1½ ounces The Busker single grain
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a coupe glass without ice. Garnish with a spritz of lemon oil and discard the peel. (We suggest batching the ⅓ teaspoons together and then measuring the batched ingredients with 1 teaspoon to add to the mixing glass for accuracy.)
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a coupe glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel. (We suggest batching the ⅓ teaspoons together and then measuring the batched ingredients with 1 teaspoon to add to the mixing glass for accuracy.)
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -200,7 +223,7 @@ recipes:
   - name: Guilt Trip
     author: Harrison Ginsberg
     notes: This is a very unusual but wonderful drink, inspired by Israeli cuisine. Teeling single grain is not only a great canvas for many flavors and styles of drinks, but the light tannin that comes from the barrel can also stand up to this rich and tangy concoction.
-    glassware: 
+    glassware: sour glass
     ingredients:
     - 1 dash house orange bitters
     - 4 dashes za’atar tincture
@@ -211,7 +234,9 @@ recipes:
     - 1 teaspoon Greek yogurt
     - "Garnish: Nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a sour glass without ice. Garnish lightly with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a sour glass without ice. 
+    - Garnish lightly with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -221,7 +246,7 @@ recipes:
   - name: Glow Worm
     author: Jillian Vose
     notes: I chose Kilbeggan for this drink because it can stand up to more intense flavors than other single grains and blends. Anything with fresh ginger can sometimes take over a drink, but the toasted sesame infusion used here provides a really great meld of flavors for this spicy sour.
-    glassware: 
+    glassware: sour glass
     ingredients:
     - 1 dash The Bitter Truth Aromatic Bitters
     - ¾ ounce fresh lemon juice
@@ -232,7 +257,9 @@ recipes:
     - 2 ounces sesame-infused Kilbeggan single grain
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a sour glass without ice. Garnish lightly with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a sour glass without ice. 
+    - Garnish lightly with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -241,8 +268,8 @@ recipes:
       - citrus
   - name: Transformer
     author: Jesse Vida
-    notes: Teeling single grain is aged exclusively in ex-bourbon barrels and comes with a high ABV of 46%. It’s quite cereal grain–forward, with notes of hay, vanilla, caramel, and baking spices within its rich texture. Here it played really nicely with the lighter fortified modifiers, complemented by the apple brandy. The contrast with the Hopped Grapefruit Bitters adds still more layers.
-    glassware: 
+    notes: Teeling single grain is aged exclusively in ex-bourbon barrels and comes with a high ABV of 46%. It’s quite cereal grain-forward, with notes of hay, vanilla, caramel, and baking spices within its rich texture. Here it played really nicely with the lighter fortified modifiers, complemented by the apple brandy. The contrast with the Hopped Grapefruit Bitters adds still more layers.
+    glassware: nick & nora
     ingredients:
     - 1 dash Bittermens Hopped Grapefruit Bitters
     - 1 teaspoon fennel syrup
@@ -252,7 +279,8 @@ recipes:
     - ½ ounce unpeated single malt Scotch
     - 1¼ ounces Teeling single grain
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice and serve.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice and serve.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -261,7 +289,7 @@ recipes:
   - name: Bare-Faced Liar
     author: Jillian Vose
     notes: This came about by experimenting with Connacht’s Ballyhoo single grain. Its higher proof and nuances of rosebud and vanilla paired well with the beet and raspberry sweeteners. The nutty and earth tones worked glamorously with the toasted fennel salt garnish. The dubonnet lengthens the drink without over-proofing it or making the drink muddy.
-    glassware: 
+    glassware: sour glass
     ingredients:
     - Toasted fennel salt
     - 2 dashes The Bitter Truth Jerry Thomas’ Own Decanter bitters
@@ -271,7 +299,9 @@ recipes:
     - ½ ounce Dubonnet Rouge
     - 2 ounces Ballyhoo
     steps:
-    - Rim half the glass with fennel salt. Add the rest of the ingredients in the order indicated to a shaker tin and shake with ice. Double strain using both the fine and Hawthorne strainers into the prepared sour glass without ice.
+    - Rim half the glass with fennel salt. 
+    - Add the rest of the ingredients in the order indicated to a shaker tin and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into the prepared sour glass without ice.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -281,7 +311,7 @@ recipes:
   - name: God Is a DJ
     author: Jillian Vose
     notes: This was a shaken interpretation of another drink, the Gold Digger. When turning a stirred drink concept into a shaken one, you have to consider the addition of sugar to balance out the citrus. If you compare the two, you’ll see that the stirred Gold Digger has a lengthener of Cocchi Americano, whereas here the Cocchi is replaced with more substantial ingredients including banana and maple syrups.
-    glassware: 
+    glassware: sour glass
     ingredients:
     - 2 dashes Dale DeGroff Pimento bitters
     - 1 teaspoon cinnamon bark syrup
@@ -292,7 +322,9 @@ recipes:
     - 1½ ounces Teeling single grain
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients in the order indicated to a shaker tin and shake with ice. Double strain using both the fine and Hawthorne strainers into a sour glass without ice. Garnish with freshly grated nutmeg.
+    - Add the ingredients in the order indicated to a shaker tin and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a sour glass without ice. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -304,7 +336,7 @@ recipes:
   - name: Old Smoke
     author: Jack McGarry
     notes: Celery and absinthe are a no-brainer pairing. Parfait amour is a curaçao-based liqueur with other botanicals and violette. The smoke as a contrasting flavor is perfect, and when creating drinks with it, think outside the box—like Jack did.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 3 Dashes Bittermens Orchard Street Celery bitters
     - 3 dashes Vieux Pontarlier absinthe
@@ -313,7 +345,9 @@ recipes:
     - 1½ ounces Connemara peated single malt
     - "Garnish: orange peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a cocktail glass without ice. Garnish with a spritz of orange oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a cocktail glass without ice. 
+    - Garnish with a spritz of orange oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -322,7 +356,7 @@ recipes:
   - name: Perfect Storm
     author: Jack McGarry
     notes: This lighter-styled Manhattan variation showcases the apple and pear notes in the elegant and fruity Knappogue single malt, complemented by the herbaceous accents of chamomile, génépy, Cocchi, and bitters.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 dashes Peychaud’s bitters
     - 2 dashes Bittermens Boston Bittahs
@@ -333,16 +367,19 @@ recipes:
     - ¾ ounce Knappogue Castle 12 single malt
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients in the order indicated to a mixing glass and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients in the order indicated to a mixing glass and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
       - single malt irish whiskey cocktails
       - stirred
+      - manhattan
   - name: Good Luck Charm
     author: Jillian Vose
     notes: Featuring a full ¾ ounce of amaro, this riff on an Old Fashioned reads very dark and bitter. However, the light and fruity single malt pairs nicely with the anise, kümmel, spices, orange, and bitter notes of the other components and lends balance and complexity.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 dashes Vieux Pontarlier absinthe
     - ½ ounce Rhum Clément Créole Shrubb
@@ -351,7 +388,9 @@ recipes:
     - 1½ ounces Bushmills 10 single malt
     - "Garnish: Orange peel, for squeezing"
     steps:
-    - Add the ingredients in the order indicated to a mixing glass and stir with ice. Strain into an Old Fashioned glass over a large chunk of ice. Garnish with a spritz of orange oil and discard the peel.
+    - Add the ingredients in the order indicated to a mixing glass and stir with ice. 
+    - Strain into an Old Fashioned glass over a large chunk of ice. 
+    - Garnish with a spritz of orange oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -361,7 +400,7 @@ recipes:
   - name: Stronghold
     author: Jesse Vida
     notes: Here Jesse took a simple sour template, combined a beautiful base of complementary sweet and sour modifiers, and used a diverse single malt aged in sherry casks which was finished in charred Irish oak. The whiskey’s peated element is sensational against the pistachio and Asian pear.
-    glassware: 
+    glassware: punch glass
     ingredients:
     - 1 dash Angostura bitters
     - ¾ ounce fresh lemon juice
@@ -371,7 +410,9 @@ recipes:
     - 1½ ounces West Cork Glengarriff peat charred cask finish
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a punch glass and serve with an ice nugget. Garnish with a light dusting of freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a punch glass and serve with an ice nugget. 
+    - Garnish with a light dusting of freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -381,7 +422,7 @@ recipes:
   - name: Watch Tower
     author: Jillian Vose
     notes: Bertoux is a blended grape brandy created expressly for cocktails. It’s bright and fresh and very aromatic, so it’s ideal for splitting with other spirits. Here it pairs wonderfully with the peach, caramel, and orange notes of the Madeira cask finish influence in this single malt Irish whiskey expression. The addition of yogurt tones down the brightness and adds a little tanginess.
-    glassware: 
+    glassware: punch glass
     ingredients:
     - 1 barspoon Greek yogurt
     - 2 dashes turmeric citrus
@@ -395,7 +436,9 @@ recipes:
     - 1 ounce Tyrconnell 10 Madeira cask
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a punch glass without ice. Garnish with a light dusting of freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a punch glass without ice. 
+    - Garnish with a light dusting of freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -405,7 +448,7 @@ recipes:
   - name: Love Shack
     author: Greg Buda
     notes: Greg based this fizz cocktail around the flavor set of sunflower, coriander, orange, and smoke. The whiskey has sweet grape and honey notes that pair perfectly with the nuttiness and spice components. With the Teeling’s ABV being 46%, Greg chose a lengthener of soda water, which allows the whiskey to retain its characteristics against the other elements.
-    glassware: 
+    glassware: fizz
     ingredients:
     - 1 egg white
     - 2 dashes Dale DeGroff Pimento bitters
@@ -417,7 +460,11 @@ recipes:
     - Soda water, to top
     - "Garnish: orange peel, for squeezing"
     steps:
-    - Add the bitters, egg white, lemon juice, sunflower orgeat, half-and-half, infused Glenmorangie, and Teeling to a shaker tin. First dry shake without ice, then shake with ice. Add soda water to the tin. Double strain using both the fine and Hawthorne strainers into a fizz glass without ice. Top with soda until the drink is raised above the rim of the glass. Garnish with a spritz of orange oil and discard the peel.
+    - Add the bitters, egg white, lemon juice, sunflower orgeat, half-and-half, infused Glenmorangie, and Teeling to a shaker tin. 
+    - First dry shake without ice, then shake with ice. 
+    - Add soda water to the tin. Double strain using both the fine and Hawthorne strainers into a fizz glass without ice. 
+    - Top with soda until the drink is raised above the rim of the glass. 
+    - Garnish with a spritz of orange oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -427,7 +474,7 @@ recipes:
   - name: Stun Grenade
     author: Jillian Vose
     notes: This drink started as a challenge I set myself. It seemed pretty natural to pair carrot-infused rum with a rum-finished Irish whiskey that had some nice tropical notes and sweetness to it. For more dimension, the chocolaty Cocchi Storico Vermouth di Torino was split with pale cream sherry. Dragoncello brings herby complexity, while the sumac syrup adds a tanginess and texture, and the pineapple liqueur accentuates the rum cask-finished whiskey.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 dash Bitter Truth Jerry Thomas Decanter bitters
     - 1 dash Vicardio dragoncello liqueur
@@ -439,7 +486,9 @@ recipes:
     - 1 ounce West Cork 12 rum cask
     - "Garnish: orange peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of orange oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of orange oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -448,7 +497,7 @@ recipes:
   - name: Swear Blind
     author: Long Thai
     notes: Two things inspired Long in the creation of this cocktail. The first was discovering the intense flavors in the white whiskey. The second, was a meal—a breakfast dish in this case that included maple syrup, oats, and banana. As he developed this drink he split the base, Egan’s Fortitude single malt, which brought out its dried fruit component due to the Pedro Ximenez casks, complementing the other ingredients that evoke Long’s wondrous breakfast of legend.
-    glassware: 
+    glassware: toddy mug
     ingredients:
     - 1 egg white
     - 1 dash Angostura bitters
@@ -459,7 +508,9 @@ recipes:
     - 1 ounce Egan’s Fortitude single malt
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients (including the egg) to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a toddy glass. Garnish with freshly grated nutmeg.
+    - Add the ingredients (including the egg) to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a toddy glass. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -468,7 +519,7 @@ recipes:
   - name: Broadway Junction
     author: Jillian Vose
     notes: This drink is like a Boulevardier meets a Japanese cocktail with a twist. The Sexton was chosen because it has enough of a backbone to stand up to Campari and rich almond liqueur. It’s also exclusively aged in oloroso barrels, giving the drink a strong dried fruit and berry component.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 dash The Bitter Truth Creole bitters
     - ½ ounce Campari
@@ -476,7 +527,9 @@ recipes:
     - 1½ ounces The Sexton single malt
     - "Garnish: Grapefruit peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into an Old Fashioned glass over a large block of ice. Garnish with a spritz of grapefruit oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into an Old Fashioned glass over a large block of ice. 
+    - Garnish with a spritz of grapefruit oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -487,7 +540,7 @@ recipes:
   - name: Revolver
     author: Jack McGarry
     notes: This is a light, boozy drink that incorporates herby, floral notes from the absinthe and gentiane, while the lightest of pot still Irish whiskeys contributes orchard fruits and just the slightest hint of sherry maturation.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 3 dashes house orange bitters
     - 3 dashes Vieux Pontarlier absinthe
@@ -498,7 +551,9 @@ recipes:
     - 1½ ounces Teeling single pot still
     - "Garnish: Lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -507,7 +562,7 @@ recipes:
   - name: Thunderbolt
     author: Jack McGarry
     notes: Powers John’s Lane is one of the richest, most robust whiskeys to use as a cocktail base. It’s particularly suitable for stirred drinks, especially those with other rich or bitter components like this one. Pimento (or allspice) is a very potent ingredient, so make sure you’re using a very small amount to start and match it to a whiskey that has substantial proof and boldness.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 dashes Angostura bitters
     - 2 dashes Bittermens Xocolatl Mole Bitters
@@ -517,7 +572,9 @@ recipes:
     - 1½ ounces Powers John’s Lane single pot still
     - "Garnish: orange peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into an Old Fashioned glass over a large block of ice. Garnish with a spritz of orange oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into an Old Fashioned glass over a large block of ice. 
+    - Garnish with a spritz of orange oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -527,7 +584,7 @@ recipes:
     author: Greg Buda
     year: 2015
     notes: Inspired by a drink Jack created for our first menu back in 2013, Greg updated it when Yellow Spot was launched in 2015. His use of this high-proof twelve-year-old single pot still whiskey, with its ex-bourbon, sherry, and Malaga finish, makes for a fairly decadent cocktail—definitely one to savor slowly.
-    glassware: 
+    glassware: flute
     ingredients:
     - 2 dashes house orange bitters
     - ¼ ounce earl grey tea syrup
@@ -537,7 +594,10 @@ recipes:
     - Champagne, to top
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the bitters, Earl Grey syrup, Byrrh, Cardamaro, and whiskey to a mixing glass and stir with ice. Strain into a Champagne flute without ice. Top with Champagne and give a light stir. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the bitters, Earl Grey syrup, Byrrh, Cardamaro, and whiskey to a mixing glass and stir with ice. 
+    - Strain into a Champagne flute without ice. 
+    - Top with Champagne and give a light stir. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -547,7 +607,7 @@ recipes:
   - name: Mean Fiddler
     author: Jillian Vose
     notes: This is one of Jack’s favorites—a take on a Tipperary but upgraded with accents of cinnamon, aromatic bitters, chocolaty vermouth, and peat. I changed out the bases to keep the classic template intact by using Irish whiskey, but wanted a touch of peat for complexity from the peated Scotch. This medium-style pot still stands up to the bold flavors of the modifiers while giving a beautiful creaminess to the drink with this delicate pot still Irish whiskey that also gives a pop of bright fruit.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 dash aromatic bitters
     - ½ teaspoon cinnamon bark syrup
@@ -558,7 +618,9 @@ recipes:
     - 1 ounce Green Spot single pot still
     - "Garnish: orange peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of orange oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of orange oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -567,7 +629,7 @@ recipes:
   - name: Doppelgänger
     author: Jillian Vose
     notes: This began with a challenge to create a drink geared toward a martini drinker. I chose this heavy pot still because of its higher proof, which plays well in stirred drinks and can stand up to the other strong flavors. I split the base with the aquavit, the caraway notes of which blend well with the spice of the whiskey. The Yellow Chartreuse provides texture and sweetness, while the celery bitters add a distinctive savory, earthy tone.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 dash celery bitters
     - ¼ ounce Yellow Chartreuse
@@ -576,7 +638,9 @@ recipes:
     - 1½ ounces Drumshanbo single pot still
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -585,7 +649,7 @@ recipes:
   - name: Psycho Killer
     author: Jillian Vose
     notes: This is now one of our classic drinks, an Irish whiskey variation on a Boulevardier. The banana and chocolate liqueurs are a good match for the Christmas-cake qualities of the Redbreast, while the absinthe rounds it out and adds another dimension.
-    glassware: 
+    glassware: rocks
     ingredients:
     - ¾ ounce Campari
     - ½ ounce Giffard crème de banane
@@ -593,7 +657,8 @@ recipes:
     - 2 dashes Vieux Pontarlier absinthe
     - 2 ounces Redbreast 12 single pot still
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into an Old Fashioned glass over a block of ice.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into an Old Fashioned glass over a block of ice.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -602,7 +667,7 @@ recipes:
   - name: Dark Horse
     author: Gregory Buda
     notes: This cocktail, a delicate low-proof sour with amontillado sherry as the base, follows the current trend toward low-ABV cocktails. I’ve always loved the combination of banana and amontillado, and the Green Spot provides just enough punch and body to balance the drink, with nutmeg and allspice added for complexity.
-    glassware: 
+    glassware: sour glass
     ingredients:
     - 1 dash Dale DeGroff’s pimento bitters
     - ¾ ounce fresh lemon juice
@@ -613,7 +678,9 @@ recipes:
     - ½ ounce Green Spot single pot still
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a sour glass without ice. Garnish with a light dusting of freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a sour glass without ice. 
+    - Garnish with a light dusting of freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -624,7 +691,7 @@ recipes:
   - name: Magic Spell
     author: Long Thai
     notes: I’m not a big fan of kümmel, but here the contrast it provides with the other flavors is a thing of beauty. Although the rum cask–finished Tullamore D.E.W. had the right flavors, the drink needed a bit more body, so Long split the base with Green Spot, which works perfectly and doesn’t outshine the qualities of the Tully Caribbean.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 3 dashes Combier kümmel
     - ¼ ounce Nardini Acqua di Cedro
@@ -634,7 +701,9 @@ recipes:
     - 1 ounce Green Spot single pot still
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -643,7 +712,7 @@ recipes:
   - name: Flash Point
     author: Long Thai
     notes: Long is our in-house beer aficionado, and he’ll create drinks around the specific flavor and aroma elements of a beer. Here he took the idea of a fruit schnapps-based shandy or radler and created a cocktail with a kick that pairs raspberry to the sour ale.
-    glassware: 
+    glassware: tulip
     ingredients:
     - ¾ ounce fresh lemon juice
     - ¼ ounce orange sherbet
@@ -655,7 +724,9 @@ recipes:
     - 2 ounces Peekskill sour ale
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the lemon juice, sherbet, raspberry syrup, pineau, Suze, and eau-de-vie to a shaker tin in the order indicated and shake with ice. Add the ale to the tin, then double strain using both the fine and Hawthorne strainers into a tulip beer glass over an ice chunk. Garnish with a light dusting of freshly grated nutmeg.
+    - Add the lemon juice, sherbet, raspberry syrup, pineau, Suze, and eau-de-vie to a shaker tin in the order indicated and shake with ice. 
+    - Add the ale to the tin, then double strain using both the fine and Hawthorne strainers into a tulip beer glass over an ice chunk. 
+    - Garnish with a light dusting of freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -666,7 +737,7 @@ recipes:
   - name: Sound as a Bell
     author: Samantha Casuga & Jillian Vose
     notes: The first iteration of this drink was as a sour-style cocktail. I really liked the corn silk tea’s effect on the whiskey, making it velvety and round. To not lose the texture of the infused whiskey, I kept the initial flavor pairings but made it a Sazerac serve, which is better when not ice cold.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 dashes Bittercube blackstrap bitters
     - ½ teaspoon fig syrup
@@ -674,10 +745,12 @@ recipes:
     - ½ ounce Pommeau de Normandie
     - ½ ounce Martini & Rossi Riserva Speciale Ambrato vermouth
     - ½ ounce Hamilton Jamaican pot still black rum
-    - 1½ ounces corn silk tea–infused Powers Three Swallow
+    - 1½ ounces corn silk tea-infused Powers Three Swallow
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a small rocks glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a small rocks glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -686,7 +759,7 @@ recipes:
   - name: Preacher Man
     author: Jesse Vida
     notes: Here Jesse took the template for a Rosita, perfect Manhattan, Greenpoint, or Carroll Gardens and plugged in a classic pot still Irish whiskey. The results are a balance of rich and dry, bold and subtle, and vanilla tamed by absinthe and amaro.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 dashes Vieux Pontarlier absinthe
     - ¼ ounce Paolucci Amaro CioCiaro
@@ -697,16 +770,19 @@ recipes:
     - 1 ounce Powers John’s Lane single pot still
     - "Garnish: orange peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of orange oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of orange oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
       - single pot still irish whiskey cocktails
       - stirred
+      - manhattan
   - name: Smooth Talker
     author: Long Thai
     notes: Another beer cocktail by Long, but this time the beer is strictly a flavor enhancer. The other flavors and the whiskey choice all stem from the flavors of the beer. The Kilbeggan rye Irish whiskey is the only whiskey on the market currently with 30 percent rye in its mash bill, which also included malted and unmalted barley (kind of like a pot still, but kind of not). This leads to a spicy, full-bodied whiskey to accompany the modifiers of blackberry, baking spice, and beer. This drink has a hearty grain component and a level of complexity and texture that is unlike any other drink in the book due to the combination of beer and whiskey chosen.
-    glassware: 
+    glassware: sour glass
     ingredients:
     - 1 dash The Bitter Truth Aromatic Bitters
     - ¾ ounce fresh lemon juice
@@ -718,7 +794,9 @@ recipes:
     - 1½ ounce Kilbeggan single pot still rye
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a sour glass without ice. Garnish with a light dusting of freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a sour glass without ice. 
+    - Garnish with a light dusting of freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -729,7 +807,7 @@ recipes:
   - name: Snap Decision
     author: Greg Buda
     notes: Greg had discovered butternut squash seed oil as a kitchen ingredient and decided to use it as a fat wash in a drink. He selected Powers Three Swallow, as it had an interesting complexity but also a velvety softness that would let the other flavors shine. The rest of the ingredients—apricot, orange, herbs, and baking spice—were chosen to complement the butternut squash.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 dash house orange bitters
     - 1 dash house cardamom bitters
@@ -740,7 +818,9 @@ recipes:
     - 2 ounces butternut squash seed oil-washed Powers Three Swallow
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into an Old Fashioned glass over a large ice block. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into an Old Fashioned glass over a large ice block. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -749,7 +829,7 @@ recipes:
   - name: Commander & Chief
     author: Jillian Vose
     notes: Redbreast Lustau is full of fruit, tannin, and nut flavors, with a vibrant acidity to it. To create this drink, I took a Manhattan format, subbing vermouth for a Mistelle, and using Pommeau de Normandie and verjus, which bring a fantastic bright fruit element to the drink. The pommeau gives a complex baked apple note to complement the heavy sherry notes of the whiskey.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 dashes Angostura bitters
     - ½ teaspoon passion fruit syrup
@@ -759,7 +839,9 @@ recipes:
     - 1½ ounces Redbreast Lustau single pot still
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -769,7 +851,7 @@ recipes:
   - name: Leading Light
     author: Ian Alexander
     notes: Ian once had a white-chocolate-covered shiso leaf at a restaurant, and decided to try to use that combination of flavors in a drink. He added a further raspberry element and created this Old Fashioned-style cocktail that’s rich but bright.
-    glassware: 
+    glassware: rocks
     ingredients:
     - ½ teaspoon Vittone Fernet Menta
     - ¼ ounce shiso syrup
@@ -779,7 +861,9 @@ recipes:
     - 1 ounce raspberry-infused Green Spot
     - "Garnish: shiso tincture"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stirr with ice. Strain into an Old Fashioned glass over a block of ice. Garnish with two quick aromatized sprays of shiso tincture.
+    - Add the ingredients to a mixing glass in the order indicated and stirr with ice. 
+    - Strain into an Old Fashioned glass over a block of ice. 
+    - Garnish with two quick aromatized sprays of shiso tincture.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -789,7 +873,7 @@ recipes:
   - name: Looking Glass
     author: Greg Buda
     notes: The fruit, floral, and light smoke of the Don Amado mezcal and Green Spot’s fruit and oak qualities create a special base for this elegant stirred cocktail. I’d put this style of drink in the same category as other martini-style agedspirit drinks like the Doppelgänger, 11th Hour, Snap Decision, Perfect Storm, Gold Digger, etc.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - ¼ ounce Avèze gentiane liqueur
     - ¼ ounce Giffard abricot du Roussillon liqueur
@@ -799,7 +883,9 @@ recipes:
     - ½ ounce Green Spot single pot still
     - "Garnish: grapefruit peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of grapefruit oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of grapefruit oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -808,7 +894,7 @@ recipes:
   - name: Wildcat
     author: Jesse Vida
     notes: Jesse set out to make a refreshing tropical drink with spice and texture. He wanted to use mango juice, which is thick and masking, so he needed a base spirit that would drive through that. The Black Barrel is rich with vanilla, toasted wood, and a touch of smoke, and the Redbreast is spicy and rich. The other unusual ingredient is the cilantro, which brings a bright vividness to the drink.
-    glassware: 
+    glassware: collins
     ingredients:
     - 6 dashes cilantro tincture
     - ¾ ounce fresh lime juice
@@ -820,17 +906,20 @@ recipes:
     - 1 ounce Redbreast 12 single pot still
     - "Garnish: guajillo chile chocolate, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a collins glass over cracked ice. Garnish with a little grated chile chocolate.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a collins glass over cracked ice. 
+    - Garnish with a little grated chile chocolate.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
       - single pot still irish whiskey cocktails
       - shaken
       - citrus
+      - tiki
   - name: Power Supply
     author: Greg Buda
     notes: Here Greg was going for an Irish whiskey and apple flip that had some spice to it. The beer brings the sweetness level down and adds a grain component to the drink. The high-proof single pot still and bonded apple brandy are perfect for the spirit bases, and the baking spices bring it all together.
-    glassware: 
+    glassware: tulip
     ingredients:
     - 1 egg white
     - 3 dashes Dale DeGroff Pimento bitters
@@ -844,7 +933,9 @@ recipes:
     - ¾ ounce half-and-half
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients (including the egg white) to a shaker tin and shake with ice. Double strain using both the fine and Hawthorne strainers into a tulip beer glass over a large ice chunk. Garnish with freshly grated nutmeg.
+    - Add the ingredients (including the egg white) to a shaker tin and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a tulip beer glass over a large ice chunk. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -856,7 +947,7 @@ recipes:
   - name: Shock Absorber
     author: Jillian Vose
     notes: This idea started with the combination of cantaloupe juice, passion fruit, and peach bitters. For a base spirit, Roe & Co offers light, bright fruit and citrus notes, and a great canvas for all the complexities of the drink, melding together all of the subtle layers of the drink, as a great blended Irish whiskey should do. Think of this as a “Porn Star Martini meets Mimosa on Irish whiskey steroids”—great for brunch. Or, frankly, anytime.
-    glassware: 
+    glassware: flute
     ingredients:
     - 1 ounce Moët & Chandon Champagne
     - 1 dash Bittered Sling Clingstone peach bitters
@@ -869,7 +960,9 @@ recipes:
     - ½ ounce Mancino vermouth secco
     - 1 ounce Roe & Co
     steps:
-    - Pour the Champagne into a flute. Add the bitters, lemon juice, cantaloupe juice, orange sherbet, vanilla syrup, passion fruit syrup, amaro, vermouth, and whiskey to a shaker tin and shake with ice. Double strain using both the fine and Hawthorne strainers into the Champagne flute, filling it almost to the rim of the glass.
+    - Pour the Champagne into a flute. 
+    - Add the bitters, lemon juice, cantaloupe juice, orange sherbet, vanilla syrup, passion fruit syrup, amaro, vermouth, and whiskey to a shaker tin and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into the Champagne flute, filling it almost to the rim of the glass.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -880,7 +973,7 @@ recipes:
   - name: Eye Candy
     author: Alan McGillivray
     notes: The Busker is great for drinks with lighter, subtler flavor pairings. I love the combination here of the fig and peach contrasted by the cardamom note, which pairs amazingly well with the ex-Cabernet wine barrel-aged whiskey.
-    glassware: 
+    glassware: punch glass
     ingredients:
     - 2 dashes chamomile tincture
     - 1 dash black cardamom tincture
@@ -892,7 +985,9 @@ recipes:
     - 1½ ounces The Busker 'Triple Cask Triple Smooth'
     - "Garnish:nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain into a punch glass using both the fine and Hawthorne strainers and serve with an ice nugget. Garnish with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain into a punch glass using both the fine and Hawthorne strainers and serve with an ice nugget. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -902,7 +997,7 @@ recipes:
   - name: Glitterball
     author: Jillian Vose
     notes: The components here contribute decadence and spice, nuttiness and citrus, while the Slane blended lends a distinct earthy note and some smokiness, giving it a certain mysterious quality you can’t quite figure out, so you just keep sipping...
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 dash mace tincture
     - 1 dash The Bitter Truth Aromatic Bitters
@@ -914,7 +1009,9 @@ recipes:
     - 1½ ounce Slane
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -923,7 +1020,7 @@ recipes:
   - name: Black Rose
     author: Jillian Vose
     notes: Teas work best in cocktails as infusions into spirits rather than as tinctures or syrups (because they oxidize quickly). Here the Earl Grey provides warm tannin, spice, and bergamot citrus notes in a medium-bodied whiskey, which I then pair with amaro and walnut liqueur in this classic Old Fashioned variation.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 dash aromatic bitters
     - ½ teaspoon Nux Alpina walnut liqueur
@@ -932,7 +1029,9 @@ recipes:
     - ½ ounce Pierre Ferrand dry curaçao
     - 2 ounces Earl Grey tea-infused Tullamore D.E.W. 12
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into an Old Fashioned glass over a large block of ice. Garnish with a spritz of orange oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into an Old Fashioned glass over a large block of ice. 
+    - Garnish with a spritz of orange oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -942,7 +1041,7 @@ recipes:
   - name: Strawberry Jam
     author: Jack McGarry
     notes: Jameson Black Barrel is a great canvas for infusions because of its heavy pot still component, and that extra char on the barrel allows the whiskey to remain distinct in the infusion. The fruit is balanced out with absinthe, amaro, and Connemara peated Irish whiskey. The end result is a complex but very refreshing drink.
-    glassware: 
+    glassware: moustache cup
     ingredients:
     - 3 dashes Angostura bitters
     - ¾ ounce fresh lemon juice
@@ -954,7 +1053,10 @@ recipes:
     - 1 ounce dry rhubarb soda
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the bitters, lemon juice, strawberry syrup, absinthe, amaro, Connemara, and Jameson to a shaker tin and shake with ice. Add the rhubarb soda. Double strain using both the fine and Hawthorne strainers into a mustache cup and serve with an ice nugget. Garnish with a little freshly grated nutmeg.
+    - Add the bitters, lemon juice, strawberry syrup, absinthe, amaro, Connemara, and Jameson to a shaker tin and shake with ice. 
+    - Add the rhubarb soda. 
+    - Double strain using both the fine and Hawthorne strainers into a mustache cup and serve with an ice nugget. 
+    - Garnish with a little freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -964,7 +1066,7 @@ recipes:
   - name: Joyride
     author: Mario Firmani & Jillian Vose
     notes: This perfect fall sour was designed around the whiskey’s orchard fruit notes and richness. The fig leaf is herbaceous and vibrant, and the spiced pear brings depth against the nuttiness of the absinthe. The génépy, almond, and sherry offer complexity, while the cardamom cuts through the sweetness.
-    glassware: 
+    glassware: coupette
     ingredients:
     - 1 dash black cardamom tincture
     - 1 dash Vieux Pontarlier absinthe
@@ -976,17 +1078,19 @@ recipes:
     - ¼ ounce L’Orgeat almond liqueur
     - 1½ ounces Dubliner blended
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a coupette and serve with an ice nugget.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a coupette and serve with an ice nugget.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
       - blended irish whiskey cocktails
       - shaken
       - citrus
+      - autumn
   - name: Dead Ringer
     author: Jillian Vose
     notes: "Dunville’s 1808 is a modern blend of malt, grain, and pot still whiskeys, strong, vivacious, and full of character. Not only do you get orchard fruits from this whiskey, but tropical notes can be pulled out as well, especially when you add pineapple rum to the mix. To offset the sweeter flavors, I’ve added three savory components: turmeric citrus (bright, umami), chipotle (hot spice), and sumac (tangy, spice)."
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 dash turmeric citrus
     - 1 dash chipotle tincture
@@ -997,7 +1101,9 @@ recipes:
     - 1½ ounces Dunville’s 1808 blended
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into an Old Fashioned glass over a large ice block. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into an Old Fashioned glass over a large ice block. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1006,7 +1112,7 @@ recipes:
   - name: Birthday Suit
     author: Jillian Vose
     notes: This is a drink that’s quite simple but which shows the value of a quality distillate. As this is supposed to be “blond” and not super bitter, I had to think of flavors that complemented a lighter style of drink but which were also defining. A mist of chamomile and lemon takes care of that, which just leaves making sure that the actual liquor is balanced in texture, dilution, and temperature.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 lemon peels
     - 2 dashes house cardamom bitters
@@ -1016,7 +1122,10 @@ recipes:
     - Vieux Pontarlier absinthe, for atomizer
     - 1½ ounces Tullamore D.E.W. 12
     steps:
-    - Add the bitters, chamomile tincture, cane syrup, and Cocchi to a mixing glass. Express the oils from the lemon peels into the glass, drop in the peels, and stir with ice. Atomize 4 sprays of absinthe around and in the glass. Double strain using both the fine and Hawthorne strainers into a small Old Fashioned glass without ice.
+    - Add the bitters, chamomile tincture, cane syrup, and Cocchi to a mixing glass. 
+    - Express the oils from the lemon peels into the glass, drop in the peels, and stir with ice. 
+    - Atomize 4 sprays of absinthe around and in the glass. 
+    - Double strain using both the fine and Hawthorne strainers into a small Old Fashioned glass without ice.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1026,7 +1135,7 @@ recipes:
   - name: Fortune Teller
     author: Jillian Vose
     notes: Featuring a tangy cranberry liqueur—a naturally dominating ingredient—this Manhattan variation was going to need a whiskey with a strong backbone. That is, something with a higher proof and a blend that has some spice. Dead Rabbit Irish whiskey immediately came to mind to house these bold flavors in a cocktail.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 dashes Vieux Pontarlier absinthe
     - ½ ounce Braulio amaro
@@ -1035,7 +1144,9 @@ recipes:
     - 1½ ounces Dead Rabbit
     - "Garnish: orange peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of orange oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of orange oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1045,7 +1156,7 @@ recipes:
   - name: Beauty Spot
     author: Long Thai
     notes: Each person brings a unique element to the process of creating drinks. For Long, inspiration often comes from either dining experiences in New York or his travels around the world. Here the spark was a particularly memorable dessert. Think green tea and sponge cake (yes, really), and you’re in the right ballpark. This blend of malt and grain 5-year Irish whiskey was a perfect fit, as it adds a sweet vanilla component while also cutting through the richness of the drink.
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 dashes Vieux Pontarlier absinthe
     - 1 teaspoon matcha-Coco López mix
@@ -1057,7 +1168,10 @@ recipes:
     - ¼ ounce half-and-half
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a collins glass filled with pebble ice. Top with more ice as needed. Garnish with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a collins glass filled with pebble ice. 
+    - Top with more ice as needed. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1066,7 +1180,7 @@ recipes:
   - name: 11th Hour
     author: Jack McGarry
     notes: This drink was meant to showcase the green grape, orchard fruit, cacao, and the strong backbone of this interesting blended whiskey. It was the first of many to showcase the light-Manhattan cocktails in our repertoire and remains popular today.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 3 dashes Vieux Pontarlier absinthe
     - ½ ounce Pür Likör Williams pear liqueur
@@ -1076,7 +1190,9 @@ recipes:
     - 1½ ounces Pearse Lyons 5-Year-Old
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to your mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to your mixing glass in the order indicated and stir with ice.
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1085,7 +1201,7 @@ recipes:
   - name: Sunny-Side Up
     author: Jillian Vose
     notes: The Caribbean rum cask finish lends the Tullamore some beautiful tropical notes, which I enhanced with the banana liqueur. This Manhattan variation is straightforward enough to be a popular drink because it reads really well and the complexity of the whiskey itself does all the talking.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 dash Bittermens Xocolatl Mole Bitters
     - 1 dash Angostura bitters
@@ -1094,7 +1210,8 @@ recipes:
     - 1 ounce Cocchi Storico Vermouth di Torino
     - 1½ ounces Tullamore D.E.W. Caribbean rum cask
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1104,7 +1221,7 @@ recipes:
   - name: Mood Swing
     author: Jack McGarry
     notes: Beet, cranberry, tangerine and pimento were the basis of this autumn-influenced cocktail. In place of bourbon, I chose a whiskey that had bourbon qualities but more complexity with hints of honey, chocolate, and toasted oak.
-    glassware: 
+    glassware: punch glass
     ingredients:
     - 2 dashes Dale DeGroff’s pimento bitters
     - ¾ ounce fresh lemon juice
@@ -1115,7 +1232,9 @@ recipes:
     - 1½ ounces Pearse Lyons 5-Year-Old
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake. Double strain using both the fine and Hawthorne strainers into a punch glass and serve with an ice nugget. Garnish with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake. 
+    - Double strain using both the fine and Hawthorne strainers into a punch glass and serve with an ice nugget. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1125,7 +1244,7 @@ recipes:
   - name: King of Clubs
     author: Jillian Vose
     notes: Here I’ve taken a classic sour template and melded it with a Breakfast Martini of sorts. Instead of marmalade, I’ve used kumquat preserves for a tart, bold citrus flavor. Sage adds a soft herbaceous quality. The hint of anise and saffron from the Strega brings the drink together and really pair fluently with the honey and preserves.
-    glassware: 
+    glassware: coupette
     ingredients:
     - 2 sage leaves
     - 1 barspoon kumquat preserves
@@ -1135,7 +1254,8 @@ recipes:
     - ¼ ounce Strega
     - 2 ounces Clonakilty port cask
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a coupette and serve with an ice nugget.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a coupette and serve with an ice nugget.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1145,7 +1265,7 @@ recipes:
   - name: Shoot From the Hip
     author: Jillian Vose
     notes: "The whiskey featured here has a bit of everything: single grain, pot still, and single malt, aged in both ex-bourbon and ex-sherry casks. And you can taste it all. The flavor profile of the cocktail has notes of caramel, citrus, vanilla, and dried fruits, plus cilantro and celery for complexity and Amaro Nonino for length."
-    glassware: 
+    glassware: julep tin
     ingredients:
     - 1 dash celery bitters
     - 1 dash cilantro tincture
@@ -1156,7 +1276,9 @@ recipes:
     - 1½ ounces Paddys blended
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a julep glass over cracked ice. Garnish with a little freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a julep glass over cracked ice. 
+    - Garnish with a little freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1166,7 +1288,7 @@ recipes:
   - name: Faro Point
     author: Jillian Vose
     notes: When I was first introduced to this whiskey, its innovative rum finish intrigued me. Could I use it to rethink the daiquiri? I broke down the whiskey’s flavor components and paired them with banana, chocolate, and almond. To mimic a daiquiri, it needed citrus and the right rum and, I realized, a layering modifier—that’s where Pineau des Charentes comes in. And a star is born.
-    glassware: 
+    glassware: coupette
     ingredients:
     - 1 dash Angostura bitters
     - 1 dash Bittermens Xocolatl Mole Bitters
@@ -1178,7 +1300,9 @@ recipes:
     - 1 ounce Teeling Small Batch
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a coupette and serve with an ice nugget. Garnish with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a coupette and serve with an ice nugget. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1189,7 +1313,7 @@ recipes:
   - name: Rough Draft
     author: Harrison Ginsberg
     notes: This slightly sweet and salty cocktail really explodes on the palate. The apple, ginger, and miso really complement the notes of marmalade, dried apricot, and earth of the blended whiskey. The addition of Guinness, a surprising ingredient, brings a great texture—frothy, rich, salty, and pleasantly refreshing.
-    glassware: 
+    glassware: smash glass
     ingredients:
     - 2 dashes Peychaud’s bitters
     - 1 teaspoon ginger syrup
@@ -1201,7 +1325,9 @@ recipes:
     - 1 ounce Hinch 'The Original'
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a smash glass and serve with an ice nugget. Garnish with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a smash glass and serve with an ice nugget. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1212,7 +1338,7 @@ recipes:
   - name: Knee-Jerk Reaction
     author: Jillian Vose
     notes: I created this explicitly with Thanksgiving or Christmas in mind. Slane has a lot of dried fruit notes and spice and goes very well with apple spirits. I used bonded applejack for some kick and also because I didn’t want a lower-proof Calvados to bring too much fruit and elegance, as this drink was meant to be bold and boozy.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 dashes Dale DeGroff’s pimento bitters
     - ½ ounce Alvear pale cream sherry
@@ -1222,7 +1348,9 @@ recipes:
     - 1 ounce Slane blended
     - "Garnish: orange peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into an Old Fashioned glass over a large block of ice. Garnish with a spritz of orange oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into an Old Fashioned glass over a large block of ice. 
+    - Garnish with a spritz of orange oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1231,7 +1359,7 @@ recipes:
   - name: Precision Pilot
     author: Jillian Vose
     notes: This was one of the first drinks I created for Dead Rabbit. The ingredients are easily accessible and the drink is not difficult to re-create. Grapefruit and Campari is one of those pairings that seems blindingly obvious in hindsight. How come no one thought of it sooner?
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 dashes Peychaud’s bitters
     - ½ ounce Combier crème de pamplemousse rose
@@ -1240,7 +1368,9 @@ recipes:
     - 1 ounce Tullamore D.E.W. Original
     - "Garnish: grapefruit peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into an Old Fashioned glass over a large block of ice. Garnish with a spritz of grapefruit oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into an Old Fashioned glass over a large block of ice. 
+    - Garnish with a spritz of grapefruit oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1249,7 +1379,7 @@ recipes:
   - name: Gold Digger
     author: Jillian Vose
     notes: This Manhattan variation was built around the rum-aged whiskey. Sesame complements Small Batch well, and swapping out sweeter or more bitter vermouths for Cocchi Americano and pale cream sherry lengthened the drink and highlighted the whiskey.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 dashes Dale DeGroff’s Pimento bitters
     - 1 teaspoon cinnamon bark syrup
@@ -1259,7 +1389,9 @@ recipes:
     - 1½ ounces sesame-infused Teeling Small Batch
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1269,7 +1401,7 @@ recipes:
   - name: Greenhorn
     author: Jillian Vose & Madeleine Solo Rapp
     notes: Here, the classic Dark & Stormy cocktail is the template onto which we added with the dried fruit and malty notes of Bushmills, aged aquavit, and double-barrel rum in place of dark rum. Then we just kept going, with celery bitters and blackstrap bitters to mimic the blackstrap rum. At least we got the ginger and citrus in there.
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 dash celery bitters
     - 1 dash Bittercube blackstrap bitters
@@ -1282,7 +1414,9 @@ recipes:
     - 1 ounce Bushmills Black Bush
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to shaker a tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a collins glass over cracked ice. Garnish with freshly grated nutmeg.
+    - Add the ingredients to shaker a tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a collins glass over cracked ice. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1292,7 +1426,7 @@ recipes:
   - name: Witch Hunt
     author: Jillian Vose
     notes: Tropical flavors—especially pineapple, banana, and mango—go surprisingly well with Irish whiskey. We chose to infuse Dead Rabbit Irish whiskey because its virgin oak finish has strong hits of vanilla, nuts, spice, and citrus, which go well with the pineapple. (The higher ABV also helps.) The IPA’s distinctive hoppy, floral, and grapefruit notes work as pair modifiers with the tropical notes.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 dash peach bitters
     - ½ teaspoon cinnamon bark syrup
@@ -1302,7 +1436,9 @@ recipes:
     - 2 ounces pineapple-infused Dead Rabbit whiskey
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into an Old Fashioned glass over a large block of ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into an Old Fashioned glass over a large block of ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1310,10 +1446,11 @@ recipes:
       - beer
       - stirred
       - old-fashioned
+      - tiki
   - name: Lone Oak
     author: Jillian Vose
     notes: Roe & Co is an excellent whiskey for whiskey sours variations due to its higher ABV, bourbon qualities, and orchard fruit tones. Making this one with the pistachio orgeat and curry leaves was tasty, but the drink still needed something to bring it all together. A little green Chartreuse delivered; its distinctive herbal qualities providing the perfect complement.
-    glassware: 
+    glassware: coupette
     ingredients:
     - 1 egg white
     - 2 dashes Angostura bitters
@@ -1323,7 +1460,9 @@ recipes:
     - ¼ ounce green Chartreuse
     - 2 ounces Roe & Co
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a coupette over an ice nugget. Garnish with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a coupette over an ice nugget. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1333,7 +1472,7 @@ recipes:
   - name: Kindred Spirit
     author: Jillian Vose
     notes: This was a fun take on a piña colada—fitting, since this whiskey is finished in rum barrels. The tropical notes are strong, but the contrast with the coffee liqueur really defines the drink in a way. Who’d have thought Irish whiskey could bring something to tiki!
-    glassware: 
+    glassware: tulip
     ingredients:
     - 1 teaspoon Coco López coconut cream
     - ½ ounce pineapple juice
@@ -1345,16 +1484,20 @@ recipes:
     - ¼ ounce half-and-half
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and do a short shake with 3 ice cubes. Double strain using both the fine and Hawthorne strainers into a tulip beer glass over pebble ice or crushed ice. Garnish lightly with freshly grated nutmeg. Serve with a straw.
+    - Add the ingredients to a shaker tin in the order indicated and do a short shake with 3 ice cubes. 
+    - Double strain using both the fine and Hawthorne strainers into a tulip beer glass over pebble ice or crushed ice. 
+    - Garnish lightly with freshly grated nutmeg. 
+    - Serve with a straw.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
       - blended irish whiskey cocktails
       - shaken
+      - tiki
   - name: Pay Per View
     author: Jillian Vose
     notes: I’d recently opened a bottle of Dubonnet Rouge to mix a rare drink from an old menu for a guest, and the next day decided to use the bottle to make a seasonal mulled wine. I treated it like sangria and added fruit syrups. It still needed body and a bit of boozy bite, so I reached for Slane, a perfect medium-bodied blended whiskey with a heavy wood influence.
-    glassware: 
+    glassware: wine glass
     ingredients:
     - 1 dash Bittermens Xocolatl Mole Bitters
     - 2 dashes Bittermens Burlesque Bitters
@@ -1365,7 +1508,9 @@ recipes:
     - 1½ ounces Slane
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and whip shake with 10 pieces of pebble ice. Pour into a fancy wineglass over cracked ice without straining. Garnish with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and whip shake with 10 pieces of pebble ice. 
+    - Pour into a fancy wineglass over cracked ice without straining. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1375,7 +1520,7 @@ recipes:
   - name: Irish Coffee Martini
     author: Jillian Vose
     notes: We often get asked for Espresso Martinis at the bar but could never properly execute them, as we don’t keep an espresso machine. As a solution, we went with cold brew, as it’s not as acidic as espresso and is also appealing to Irish coffee drinkers looking for a cool, refreshing caffeine hit in a cocktail.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 dash Bitter Truth Aromatic Bitters
     - ½ ounces demerara syrup
@@ -1383,7 +1528,9 @@ recipes:
     - 1½ ounces Bushmills Black Bush
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a Nick & Nora glass over cracked ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a Nick & Nora glass over cracked ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1393,7 +1540,7 @@ recipes:
   - name: Time Traveler
     author: Erin Smyth
     notes: The green apple note that comes through in this whiskey was Erin’s initial inspiration for the drink. She then layered in absinthe, apple juice, and lemon, making a great, approachable cocktail, especially for people just getting into loving Irish whiskey.
-    glassware: 
+    glassware: highball
     ingredients:
     - 3 dashes Vieux Pontarlier absinthe
     - ¾ ounce fresh lemon juice
@@ -1403,7 +1550,8 @@ recipes:
     - ½ ounce Avèze gentiane liqueur
     - 1½ ounces Tullamore D.E.W. 12
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a taproom highball glass over cracked ice.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a taproom highball glass over cracked ice.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1413,7 +1561,7 @@ recipes:
   - name: Moonwalk
     author: Samantha Casuga
     notes: "There are a lot of ingredients here, and no, it’s not the easiest drink to make at home. But it’s worth giving a try for the wonderful clusters of flavor pairings: spice, orchard fruit, flower, peat, vanilla. Tullamore D.E.W. 12 makes for a silky backdrop and ensures the peatiness of the Connemara just lingers subtly in the background without taking over."
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 dash walnut Angostura bitters
     - 1 dash Bittermens winter melon bitters
@@ -1426,7 +1574,9 @@ recipes:
     - 1 ounce Tullamore D.E.W. 12
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into an Old Fashioned glass over a block of ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into an Old Fashioned glass over a block of ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1435,7 +1585,7 @@ recipes:
   - name: Scarlet Lady
     author: Jillian Vose
     notes: The idea here was to pair raspberry and spice into a Champagne cobbler template with a fitting Irish whiskey. I opted for Marie-Framboise, which is Pineau des Charentes steeped with raspberries, while Amaro Montenegro brings multiple baking spice notes as well as orange and vanilla.
-    glassware: 
+    glassware: julep tin
     ingredients:
     - 1 dash Bittermens 'Elemakule Tiki Bitters
     - ¼ ounce cane syrup
@@ -1445,7 +1595,9 @@ recipes:
     - Champagne, to top
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the bitters, cane syrup, Marie-Framboise, amaro, and whiskey to a mixing glass and lightly stir. Pour into a julep glass over cracked ice and top with Champagne. Garnish with freshly grated nutmeg.
+    - Add the bitters, cane syrup, Marie-Framboise, amaro, and whiskey to a mixing glass and lightly stir. 
+    - Pour into a julep glass over cracked ice and top with Champagne. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1455,7 +1607,7 @@ recipes:
   - name: Broken Promise
     author: Aidan Bowie, Mario Firmani & Jillian Vose
     notes: "We’d been thinking about a whiskey-based coffee-and-tonic-style cooler. We started with the coffee liqueur Grand Brulot and house coconut rum for depth and tropical notes, but then: which whiskey? Slane’s multi-cask influences on a grain/malt blend were perfect. The drink was still a bit sweet, so we added a touch of fresh lemon. Finally, the cherry bark vanilla bitters bounced off the whiskey like fireworks."
-    glassware: 
+    glassware: highball
     ingredients:
     - 1 dash cherry bark vanilla bitters
     - 1 teaspoon Grand Brulot coffee liqueur
@@ -1468,7 +1620,9 @@ recipes:
     - 2 ounces soda water
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the bitters, Brulot, lemon juice, guinness syrup, aquavit, rum, absinthe, and whiskey to a shaker tin and whip shake with 10 pieces of pebble ice until the ice is completely melted. Add 2 ounces of soda to the tin, then pour into a highball glass over cracked ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the bitters, Brulot, lemon juice, guinness syrup, aquavit, rum, absinthe, and whiskey to a shaker tin and whip shake with 10 pieces of pebble ice until the ice is completely melted. 
+    - Add 2 ounces of soda to the tin, then pour into a highball glass over cracked ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1478,7 +1632,7 @@ recipes:
   - name: Flight Attendant
     author: Nick Rolin
     notes: The higher proof and rough, woody notes of the whiskey cut through any sweetness of the other components in this drink. Mole bitters give a sharp chocolate note, while the crème de cacao is more milk chocolate. The amaro has a unique bitter, smoky element to it and really makes this drink stand out. Though it reads quite fruity, it’s a great alternative to a classic Manhattan.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 dash Bittermens Xocolatl Mole Bitters
     - ¼ ounce Cappelletti Amaro Sfumato Rabarbaro
@@ -1488,7 +1642,9 @@ recipes:
     - 1½ ounces Dublin Liberties 5-Year-Old 'Oak Devil'
     - "Garnish: orange peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of orange oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of orange oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1498,7 +1654,7 @@ recipes:
   - name: Speed Demon
     author: Jillian Vose
     notes: When creating this drink, I was really doing an Irish whiskey version of an Apple Martini. The Becherovka brought some cinnamon and herbaceousness to the drink for depth, almost giving it a spiced-apple-pie vibe. One of my favorites.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 dash Dale DeGroff’s Pimento Bitters
     - ¼ ounce dried apricot syrup
@@ -1508,7 +1664,9 @@ recipes:
     - 1½ ounces Tullamore D.E.W. cider cask
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1517,7 +1675,7 @@ recipes:
   - name: Animal Instinct
     author: Shane Mulvany
     notes: This drink showcases just how elegantly Irish whiskey can play in the right company. There is quite a bit of acidity in this one, with the Sauternes, rice vinegar, and chamomile, so the bog oak charred cask was a great choice as a counterpoint to the lighter ingredients.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 dash cinnamon Angostura bitters
     - 2 dashes rice vinegar
@@ -1528,7 +1686,9 @@ recipes:
     - 1 ounce West Cork Glengarriff bog oak charred cask
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1536,8 +1696,8 @@ recipes:
       - stirred
   - name: Smart Move
     author: Kevin Baird
-    notes: Kevin had never seen an Irish whiskey–based Suissesse cocktail before (well, nobody had), so he set out to create one. Roe & Co is a great canvas for other flavors and also brings a lot of vanilla to the front, which pairs nicely with the macadamia orgeat. Celery juice kind of puts a whole new twist to the drink. Absinthe and celery also make a great duo.
-    glassware: 
+    notes: Kevin had never seen an Irish whiskey-based Suissesse cocktail before (well, nobody had), so he set out to create one. Roe & Co is a great canvas for other flavors and also brings a lot of vanilla to the front, which pairs nicely with the macadamia orgeat. Celery juice kind of puts a whole new twist to the drink. Absinthe and celery also make a great duo.
+    glassware: sour glass
     ingredients:
     - 1 egg white
     - 2 dashes rose water
@@ -1549,7 +1709,10 @@ recipes:
     - 1½ ounces Roe & Co
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated. Dry shake without ice, then shake with ice. Double strain using both the fine and Hawthorne strainers into a sour glass without ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a shaker tin in the order indicated. 
+    - Dry shake without ice, then shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a sour glass without ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1559,7 +1722,7 @@ recipes:
   - name: Spell Spoke
     author: Jillian Vose
     notes: This is a take on a daiquiri I created using hibiscus-infused whiskey, lime, and cane syrup, accented with a hint of ginger. It still needed something, though, so I dashed in the bright chamomile and citrus bitters and added some vibrant fresh lime leaves to the tin, which really make the drink pop.
-    glassware: 
+    glassware: highball
     ingredients:
     - 2 dashes Bittermens Boston Bittahs
     - 4 dashes lime leaf tincture or 2 fresh lime leaves
@@ -1569,7 +1732,9 @@ recipes:
     - 2 ounces hibiscus-infused Jameson Black Barrel
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a highball glass over cracked ice. Garnish with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a highball glass over cracked ice. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1579,7 +1744,7 @@ recipes:
   - name: Old Timer
     author: Shane Mulvany
     notes: This Manhattan variation is a nod to the boozy version New York is known for, but with a lighter twist, using more Bianco vermouth than the bitter Punt e Mes. While there is a hint of Amaro Meletti to insinuate that there’s more bitterness, this particular amaro is on the softer side and is quite cinnamon-forward.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 dash The Bitter Truth Aromatic Bitters
     - 1 dash Vieux Pontarlier absinthe
@@ -1590,7 +1755,9 @@ recipes:
     - 2 ounces Dead Rabbit
     - "Garnish: orange peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a squeeze of orange oil and discard the peel.
+    - Add the ingredients to a mixing glass and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a squeeze of orange oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1600,7 +1767,7 @@ recipes:
   - name: Wanderlust
     author: Jesse Vida
     notes: For most cocktail bars, these ingredients are pretty common, making this flip very accessible. Hinch 5 year was a great choice for this because of the ex-bourbon and Virgin American oak finish, lending spice, vanillin, fruit, and smoke to the mix. The layered pear flavors and toasted almond syrup go seamlessly with the custard and chocolate of the whiskey as well.
-    glassware: 
+    glassware: tulip
     ingredients:
     - 1 egg
     - 1 dash aromatic bitters
@@ -1612,7 +1779,9 @@ recipes:
     - ½ ounce heavy cream
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a tulip beer glass over a chunk of ice. Garnish with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a tulip beer glass over a chunk of ice. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1621,7 +1790,7 @@ recipes:
   - name: Viceroy
     author: Jillian Vose
     notes: I’d never really worked with sarsaparilla before, and decided to create a cocktail that tasted like an adult cream soda. Vanilla and the beautifully rich Siembra Azul and the trio-cask finished Slane did the trick. This drink reminds me a great summer day on Cape Cod.
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 drops sarsaparilla tincture
     - 2 dashes saline solution
@@ -1634,7 +1803,9 @@ recipes:
     - 1 ounce soda water, to top
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the bitters, sarsaparilla tincture, lemon juice, vanilla syrup, saline solution, tequila, sherry, and whiskey to a shaker tin in the order indicated and give a short shake with 3 ice cubes. Double strain using both the fine and Hawthorne strainers into a collins glass over cracked ice. Add the soda, give a light stir, and serve. Garnish with grated nutmeg.
+    - Add the bitters, sarsaparilla tincture, lemon juice, vanilla syrup, saline solution, tequila, sherry, and whiskey to a shaker tin in the order indicated and give a short shake with 3 ice cubes. 
+    - Double strain using both the fine and Hawthorne strainers into a collins glass over cracked ice. 
+    - Add the soda, give a light stir, and serve. Garnish with grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1644,7 +1815,7 @@ recipes:
   - name: Box Office
     author: Ian Alexander, Melissa Markert & Long Thai
     notes: Here you get fruitiness from the strawberry and mango infusion, and the juiciness is maintained by the acid of the verjus and pineau, all brought together by this tropical medium-bodied Irish whiskey. The surprise is the chipotle, which makes you go back for another sip, and another...
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 dash Angostura bitters
     - 1 dash chipotle tincture
@@ -1656,7 +1827,9 @@ recipes:
     - 1½ ounces mango-infused Teeling Small Batch
     - "Garnish: lemon peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into an Old Fashioned glass over a large block of ice. Garnish with a spritz of lemon oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into an Old Fashioned glass over a large block of ice. 
+    - Garnish with a spritz of lemon oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1666,7 +1839,7 @@ recipes:
   - name: Double Whammy
     author: Kevin Baird
     notes: Kevin set out to make an Irish whiskey mai tai, and started by keeping one half of the base rum and then some of the sweeteners as an orange liqueur (Combier). The other sweeteners pair things that matched both Irish whiskey and rum. The West Cork ex-bourbon whiskey has a unique rustic vibe, and its vanilla notes pair well with the marshmallow and pistachio.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 dash The Bitter Truth Aromatic Bitters
     - 2 dashes mace tincture
@@ -1678,7 +1851,9 @@ recipes:
     - 1 ounce West Cork bourbon cask
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin and whip shake with 3 ice cubes. Double strain using both the fine and Hawthorne strainers into an Old Fashioned glass over pebble ice or crushed ice. Garnish with a dusting of freshly grated nutmeg.
+    - Add the ingredients to a shaker tin and whip shake with 3 ice cubes. 
+    - Double strain using both the fine and Hawthorne strainers into an Old Fashioned glass over pebble ice or crushed ice. 
+    - Garnish with a dusting of freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1688,7 +1863,7 @@ recipes:
   - name: Quality Control
     author: Jillian Vose
     notes: "The contrast of peated Scotch and Irish whiskey is an amazing thing: the two work astonishingly well together. Amaretto complements the maturation of the whiskey, sapin (pine liqueur) gives herbal notes and texture, and the Sibilla is an immensely bitter and complex amaro where a little goes a long way."
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 dash The Bitter Truth Aromatic Bitters
     - 1 teaspoon Varnelli Amaro Sibilla
@@ -1699,7 +1874,9 @@ recipes:
     - 1½ ounces Dead Rabbit
     - "Garnish: orange peel, for squeezing"
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice. Garnish with a spritz of orange oil and discard the peel.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice. 
+    - Garnish with a spritz of orange oil and discard the peel.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1710,7 +1887,7 @@ recipes:
   - name: Praying Mantis
     author: Jillian Vose
     notes: Every winter we love to have something to offer for a hot drink in addition to our beloved Irish coffee option. The Black Bush yields some great dried fruit notes that work amazingly well in this reimagined mulled wine-type drink. You can find acid phosphate to purchase at artofdrink.com.
-    glassware: 
+    glassware: toddy mug
     ingredients:
     - 2 dashes Angostura bitters
     - ½ teaspoon acid phosphate
@@ -1719,7 +1896,9 @@ recipes:
     - Hot water, to top
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the bitters, acid phosphate, sherry, and whiskey to a warm toddy glass. Top with hot water and give a light stir. Garnish with freshly grated nutmeg.
+    - Add the bitters, acid phosphate, sherry, and whiskey to a warm toddy glass. 
+    - Top with hot water and give a light stir. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1729,7 +1908,7 @@ recipes:
   - name: Jumping Jack
     author: Long Thai
     notes: Long’s idea was to play off the baking spice of the applejack and the bourbon-noted Jameson Black Barrel and accentuate them with the bitters and sweeteners. To not oversweeten the drink, he added Pineau des Charentes for some acidity and used a dry soda instead of something that would contribute more sugar. The result is a perfect early autumn cocktail.
-    glassware: 
+    glassware: moustache cup
     ingredients:
     - 1 dash Bittermens 'Elemakule Tiki Bitters
     - 2 dashes Vieux Pontarlier absinthe
@@ -1742,7 +1921,9 @@ recipes:
     - Dry vanilla soda, to top
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the bitters, lemon juice, cane syrup, cinnamon syrup, pineau, absinthe, applejack, and whiskey to a shaker tin and shake with ice. Double strain using both the fine and Hawthorne strainers into a mustache cup over an ice nugget. Top with vanilla soda and garnish with freshly grated nutmeg.
+    - Add the bitters, lemon juice, cane syrup, cinnamon syrup, pineau, absinthe, applejack, and whiskey to a shaker tin and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a mustache cup over an ice nugget. 
+    - Top with vanilla soda and garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1752,7 +1933,7 @@ recipes:
   - name: Culture Shock
     author: Long Thai
     notes: Roe & Co is mostly a grain base, which gives the cocktail a lighter, refreshing mouthfeel. Genever boosts the body and brings a savory hint. Pineapple gives the cocktail enough juiciness to stand up to the fennel and cacao. The Earl Grey (a black tea with bergamot oil) boosts the cocoa element, while the Connemara’s smoky aroma brings everything to the next level.
-    glassware: 
+    glassware: coupette
     ingredients:
     - 4 dashes earl grey tincture
     - ¾ ounce fresh lemon juice
@@ -1763,7 +1944,9 @@ recipes:
     - 1 ounce Roe & Co
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a coupette and serve with an ice nugget. Garish with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a coupette and serve with an ice nugget. 
+    - Garish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1774,7 +1957,7 @@ recipes:
   - name: Bite the Bullet
     author: Jillian Vose
     notes: This is a Manhattan variation with tropical notes that play well with the vanilla, chocolate, and toasted oak flavors of the Glendalough Double Barrel whiskey. You’ll get pineapple, cinnamon, vanilla, and chocolate flavors out of this drink, though not in a sweet way. Becherovka brings an herbal quality, along with cinnamon and ginger, plus a certain dryness due to the higher proof of the liqueur.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 dash The Bitter Truth Aromatic Bitters
     - ½ teaspoon vanilla syrup
@@ -1783,7 +1966,8 @@ recipes:
     - 1 ounce Cocchi Storico Vermouth di Torino
     - 1½ ounces Glendalough Double Barrel
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice and serve.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice and serve.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1793,7 +1977,7 @@ recipes:
   - name: Powder Keg
     author: Jillian Vose & Nick Rolin
     notes: Nick and I had come up with a Scotch-based hot chocolate cocktail that was such a hit, we decided to morph it into a permanent menu item, but featuring Irish whiskey. Bushmills Black Bush with its sweet malty tones and dried berries was a no-brainer when it came to pairing with the banana, nutmeg, green Chartreuse, and sherry modifiers. We simply adjusted the sugar up from the original recipe (the other one was boozier) and the drink was perfect. This drink can also be dairy-free if you omit the cream top.
-    glassware: 
+    glassware: teacup
     ingredients:
     - ¼ ounce demerara syrup
     - ½ ounce banana syrup
@@ -1805,7 +1989,10 @@ recipes:
     - Heavy cream, to top
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the demerara syrup, banana syrup, chocolate oat milk, sherry, nutmeg liqueur, Chartreuse, and whiskey into a plastic bottle, and shake well. Keep in a hot water bath at 80ºC (176ºF). When the mixture comes up to temperature, pour into a teacup and top with cream to serve. Garnish with freshly grated nutmeg.
+    - Add the demerara syrup, banana syrup, chocolate oat milk, sherry, nutmeg liqueur, Chartreuse, and whiskey into a plastic bottle, and shake well. 
+    - Keep in a hot water bath at 80ºC (176ºF). 
+    - When the mixture comes up to temperature, pour into a teacup and top with cream to serve. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1815,7 +2002,7 @@ recipes:
   - name: Powerpoint
     author: Jillian Vose
     notes: This a sour format featuring orchard fruit and almonds along with the whiskey. Using vermouths in citrusy cocktails is a great trick to add a touch of light aromatics and herbaceousness to a drink without bitterness. Roe & Co is a lighter style of whiskey, best used with ingredients that won’t overpower it but will pull out the vanillin and wood tones of the grain-heavy blend.
-    glassware: 
+    glassware: sour glass
     ingredients:
     - 1 dash cilantro tincture
     - 1 ounce fresh lime juice
@@ -1826,7 +2013,9 @@ recipes:
     - 2 ounces Roe & Co
     - "Garnish: nutmeg, for grating"
     steps:
-    - Add the ingredients to a shaker tin in the order indicated and shake with ice. Double strain using both the fine and Hawthorne strainers into a sour glass without ice. Garnish with freshly grated nutmeg.
+    - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
+    - Double strain using both the fine and Hawthorne strainers into a sour glass without ice. 
+    - Garnish with freshly grated nutmeg.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails
@@ -1836,7 +2025,7 @@ recipes:
   - name: Chip and Pin
     author: Jillian Vose
     notes: Everything about this drink screams “rich.” As for flavors, I started with a Martinez template, intending to use Irish whiskey as a split base with the gin. From there, in place of maraschino, I opted for a flavor combo of cherry bark, cooked pineapple, and chile to match the tropical Caribbean rum cask-finished whiskey and vanilla-heavy sweet vermouth.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 dash cherry bark vanilla bitters
     - 2 dashes Bittermens Hellfire Habanero Shrub
@@ -1847,7 +2036,8 @@ recipes:
     - 1½ ounces Rutte Old Simon genever
     - ½ ounce Tullamore D.E.W. Caribbean rum cask
     steps:
-    - Add the ingredients to a mixing glass in the order indicated and stir with ice. Strain into a Nick & Nora glass without ice.
+    - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
+    - Strain into a Nick & Nora glass without ice.
     tags:
       - the dead rabbit
       - dead rabbit original irish whiskey cocktails

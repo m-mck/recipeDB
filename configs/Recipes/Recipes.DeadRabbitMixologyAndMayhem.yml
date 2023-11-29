@@ -5,7 +5,7 @@ recipes:
   - name: Eidolon
     author: Gregory Buda
     notes: Initially inspired by the Army & Navy cocktail. This ended up being the template for many drinks to come.
-    glassware: 
+    glassware: punch glass
     ingredients:
     - 1 Egg white
     - 2 DASHES Mace Tincture
@@ -29,7 +29,7 @@ recipes:
   - name: Lucky Break
     author: Jillian Vose
     notes: This is a low-ABV negroni variation with a distinctive floral element.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 DASH Peychaud’s Bitters
     - 1 TSP Cinnamon Bark Syrup
@@ -50,1083 +50,1917 @@ recipes:
     - negroni
     - stirred
     - low-abv
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
-  - name: 
-    author: 
-    notes: 
-    glassware: 
-    ingredients:
-    - 
-    steps:
-    - 
-    tags:
-    - the dead rabbit
-    - the dead rabbit mixology & mayhem
-    - 
+  - name: Tinderbox
+    author: Jillian Vose
+    notes: Pisco is ideal for a juicy, fresh sour. I like dry vermouth for herbaceousness, green apple for brightness, Boston Bittahs for a high note. Macadamia syrup subtly balances the acidity and lends a silky texture.
+    glassware: coupette
+    ingredients:
+    - 2 DASHES Bittermens Boston Bittahs
+    - 0.75 OZ Lemon juice
+    - 0.5 OZ Granny Smith Apple Juice
+    - 0.75 OZ Macadamia Orgeat
+    - 0.5 OZ Noilly Prat Dry Vermouth
+    - 1.5 OZ Waqar Pisco
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with an ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Kerb Crawler
+    author: Madeleine Solo Rapp
+    notes: I love agave and wanted to make a bright, fruity and refreshing tequila drink. So pairing it with strawberries, apricot and grapefruit was what came first to my mind. The inspiration here was actually the Pirate Queen - the first drink I learned when I started here.
+    glassware: coupette
+    ingredients:
+    - 1 Muddled ripe strawberry
+    - 1 DASH Bitter Truth Creole Bitters
+    - 0.75 OZ Lemon juice
+    - 0.5 OZ Vanilla Syrup
+    - 0.25 OZ Giffard Abricot Brandy
+    - 0.25 OZ Combier Crème de Pamplemousse Rose Liqueur
+    - 1.5 OZ Tequila Cabeza
+    - "Garnish: Nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with ice nugget.
+    - Garnish with grated nutmeg.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Gadabout
+    author: Jillian Vose
+    notes: A departure from the typical juicy fruity vodka drink. This is something more "mature," with subtle flavors from a classic template.
+    glassware: Sour glass
+    ingredients:
+    - DASH House Orange Bitters
+    - 3 DASHES Chipotle Tincture
+    - 1 OZ Lime juice
+    - 0.75 OZ Orgeat
+    - 1 OZ Pierre Ferrand Dry Curaçao
+    - 1.5 OZ Ketel One Vodka
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    - Garnish with the nutmeg.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Lady Killer
+    author: Jillian Vose
+    notes: This is a cocktail made with a spirit base that mimics a mimosa. The light, citrusy Hibiki and sherbet complement the Asian note of the sesame-infused Irish whiskey. I added lemon to boost the acidic citrus. Suze is for complexity and bitterness and adds an almost marmalade quality.
+    glassware: flute
+    ingredients:
+    - 1 OZ Champagne (not to be shaken with other ingredients)
+    - 1 TSP Honey Syrup
+    - 0.5 OZ Suze
+    - 0.75 OZ Lemon juice
+    - 0.75 OZ Orange Sherbet
+    - 0.5 OZ Sesame-Infused Powers Gold Irish Whiskey
+    - 1.5 OZ Hibiki Japanese Harmony Whisky
+    steps:
+    - Add Champagne to the flute.
+    - Shake the remaining ingredients with ice, then fine-strain into the glass with Champagne.
+    - Serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - sparkling
+  - name: Soldier Boy
+    author: Jillian Vose
+    notes: A strong bourbon sour that's also bright and refreshing. Cinnamon, grapefruit, vanilla, allspice, and apple all go so well together. This one tastes like fall in a glass.
+    glassware: punch glass
+    ingredients:
+    - 0.75 OZ Lime juice
+    - 0.5 OZ Grapefruit juice
+    - 0.25 OZ Vanilla Syrup
+    - 0.25 OZ St. Elizabeth Allspice Dram
+    - 0.5 OZ Cinnamon Bark Syrup
+    - 0.5 OZ Combier Crème de Pamplemousse Rose
+    - 0.5 OZ Laird’s Straight Apple Brandy
+    - 1.5 OZ Old Forester 100 Proof Bourbon
+    - "Garnish: Nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with an ice nugget.
+    - Garnish with the nutmeg.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - autumn
+  - name: Love Shack
+    author: Gregory Buda
+    notes: At the time, I was very interested in nut and seed syrups and was playing with ones that weren't commonly used in drinks. I settled on sunflower seeds and made them into a really tasty orgeat. From there, I based the cocktail around the flavor set of sunflower, coriander, and orange.
+    glassware: highball
+    ingredients:
+    - 1 Egg white
+    - 2 DASHES Dale DeGroff’s Pimento Bitters
+    - 0.75 OZ Lemon juice
+    - 1 OZ Sunflower Orgeat
+    - 0.75 OZ Half & half
+    - 0.5 OZ Teeling Small Batch Irish Whiskey
+    - 1.5 OZ Coriander-Infused Glenmorangie Original
+    - 1.5 OZ Soda water (not to be shaken with other ingredients)
+    steps:
+    - Dry shake.
+    - Add ice and shake for a long time.
+    - Add soda water to the highball glass.
+    - Fine-strain and serve.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Birthday Suit
+    author: Jillian Vose
+    notes: An Irish whiskey white sazerac. Chamomile, lemon oil, and bitters brighten the components of Tullamore D.E.W.; Cocchi Americano provides length and complexity. The cane syrup adds balance and mouthfeel.
+    glassware: rocks
+    ingredients:
+    - 2 Lemon coins
+    - Absinthe, to aromatize glass (not to be mixed in drink)
+    - 2 DASHES House Cardamon Bitters
+    - 2 DASHES Chamomile Tincture
+    - 1 TSP Cane Syrup
+    - 0.75 OZ Cocchi Americano
+    - 1.5 OZ Tullamore D.E.W. 12 Year Irish Whiskey
+    steps:
+    - Build drink in a mixing tin.
+    - Express lemon oils and drop lemon coins into the mixing glass.
+    - Stir with ice.
+    - Aromatize the old-fashioned glass with absinthe.
+    - Strain, with a julep strainer, and serve up, without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - sazerac
+  - name: Big Wig
+    author: Jillian Vose
+    notes: I wanted to create a smoke-bomb Scotch sour with umami and spice notes. It proved something of a challence, but the result is complex, sophisticated - and delicious.
+    glassware: sour glass
+    ingredients:
+    - 2 DASHES Angostura Bitters
+    - 0.75 OZ Lime juice
+    - 0.25 OZ Cane Syrup
+    - 0.5 OZ Fennel Syrup
+    - 0.5 OZ Cinnamon Bark Syrup
+    - 0.5 OZ Bulleit Rye Whiskey
+    - 1.5 OZ Ardbeg Ten Years Old Scotch
+    - 2 Fresh curry leaves
+    steps:
+    - Build drink in tin and add curry leaves; do not muddle.
+    - Shake with ice.
+    - Serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - peaty
+  - name: Devil Woman
+    author: Gregory Buda
+    notes: This drink came to me in a dream, in which I was alone in the parlor making an incredible cocktail. The cocktail was made with black pepper, blackberry and Black Grouse Scotch. I remember naming it the Black Black Black Grouse. When I got to work, I made the drink and it got onto the menu. The original name didn't.
+    glassware: Highball
+    ingredients:
+    - 4 DASHES Smoked Black Pepper Tincture
+    - 0.75 OZ Lime juice
+    - 0.25 OZ Beet Syrup
+    - 0.5 OZ Coffee-Pecan Syrup
+    - 0.5 OZ Blackberry Shrub
+    - 0.5 OZ Manzanilla sherry
+    - 0.5 OZ Teeling Single Grain Irish Whiskey
+    - 1.5 OZ Famous Grouse Smoky Black Blended Scotch
+    steps:
+    - Shake with ice.
+    - Fine-strain.
+    - Serve in a highball glass over cracked ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Humble Pie
+    author: Jillian Vose
+    notes: Dickel rye is a pretty unique rye, filtered like their Tennessee whiskey. Here, I've used a split base of four spirits and then several different bitters and sweeteners.
+    glassware: rocks
+    ingredients:
+    - 2 DASHES Vieux Pontarlier Absinthe
+    - 1 DASH Bitter Truth Decanter Bitters
+    - 0.5 TSP Cinnamon Bark Syrup
+    - 1 TSP Nutmeg Syrup
+    - 0.5 OZ Amaro Nardini
+    - 0.5 OZ Rémy Martin 1738 Cognac
+    - 0.5 OZ Laird’s Bonded Applejack
+    - 1.5 OZ Dickel Rye Whisky
+    - "Garnish: lemon peel and orange peel, discarded"
+    steps:
+    - Stir with ice.
+    - Strain into a rocks glass over a single large block of ice.
+    - Express the lemon and orange peels over the drink and discard.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - old-fashioned
+  - name: Striptease
+    author: Jillian Vose
+    notes: Think boozy cinnamon Christmas cookies for this one. The rum is split with the cachaça for a bit of funk and extra layers. Becherovka is a Czech herbal liqueur with a strong cinnamon note that’s pretty cool.
+    glassware: nick & nora
+    ingredients:
+    - 0.5 TSP Cane Syrup
+    - 0.5 OZ Yellow Chartreuse
+    - 0.5 OZ Becherovka
+    - 0.5 OZ Noilly Prat Ambré Vermouth
+    - 0.5 OZ Novo Fogo Aged Cachaça
+    - 1.5 OZ Bacardi 8 Años Rum
+    steps:
+    - Stir with ice.
+    - Strain into a Nick & Nora without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+  - name: Down and Out
+    author: Jesse Vida
+    notes: This drink started with a challenge - balancing the aggressive flavors of peat with a heavy Scotch base and formatting that into an approachable old-fashioned variation. The profile that inspired the drink was lapsang-smoked black tea.
+    glassware: rocks
+    ingredients:
+    - 1 DASH Bittermens Xocolatl Mole Bitters
+    - 0.25 OZ Earl Grey Tea Cane Syrup
+    - 0.25 OZ Amaro CioCiaro
+    - 0.25 OZ Green Chartreuse
+    - 1 OZ Barbadillo Amontillado Sherry
+    - 1 OZ Laphroaig 10 Year Scotch
+    - "Garnish: orange peel, discarded"
+    steps:
+    - Stir with ice.
+    - Strain into a rocks glass over a large block of ice.
+    - Express the orange peel over the glass and discard.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - peaty
+    - stirred
+    - old-fashioned
+    - freezer bar
+  - name: Dream Ticket
+    author: Long Thai
+    notes: A breakfast cocktail in the style of a flip. The unaged oat whiskey and malt whiskey represent the oatmeal, the port, the berry, and so on. A whole egg made it more like a dessert drink than a breakfast drink, but the combo works beautifully.
+    glassware: irish coffee mug
+    ingredients:
+    - 1 Whole egg
+    - 1 DASH Angostura Bitters
+    - 0.5 OZ Maple syrup (grade B)
+    - 0.75 OZ Giffard Banane du Brésil
+    - 1 OZ Tawny port wine
+    - 1 OZ Bushmills Black Bush Irish Whiskey
+    - 0.75 OZ High West Silver Oat Whiskey
+    - "Garnish: nutmeg"
+    steps:
+    - Dry shake.
+    - Shake with ice.
+    - Fine strain and serve up without ice.
+    - Garnish with the nutmeg.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+  - name: Kissin' Cousin
+    author: Gregory Buda
+    notes: I'm the sherry fanatic around here and was interested in putting a few lower-proof ABV cocktails on the list. This is a clean, bright sherry cobbler with a hint of spice and gentain, lavishly garnished with blueberries and mace powder.
+    glassware: nog glass
+    ingredients:
+    - 3 DASHES Mace Tincture
+    - 3 DASHES Dandelion bitters
+    - 0.25 OZ Salers Aperitif
+    - 0.5 OZ Lemon juice
+    - 0.75 OZ Lemon Sherbet
+    - 0.25 OZ Macadamia Orgeat
+    - 1 OZ Plantation Pineapple Rum
+    - 1.5 OZ Barbadillo Fino Sherry
+    - "Garnish: blueberries and ground mace"
+    steps:
+    - Whip shake with 15 pieces of pebble ice until ice has melted.
+    - Serve with pebble ice; snow-cone it over the top.
+    - Garnish with the blueberries and ground mace.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - low-abv
+  - name: Papa Smurf
+    author: Madeleine Solo Rapp
+    notes: I wanted to make a bright and vegetal Champagne cocktail. Celery and cucumber work really well together, and pairing that with a London Dry-style gin worked out great.
+    glassware: flute
+    ingredients:
+    - 1 OZ Champagne (not to be shaken with other ingredients)
+    - 1 DASH Bittermens Boston Bittahs
+    - 1 DASH Vieux Pontarlier Absinthe
+    - 0.75 OZ Lemon juice
+    - 0.25 OZ Cucumber juice
+    - 0.5 OZ Celery Seed Syrup
+    - 0.5 OZ Fennel Syrup
+    - 0.5 OZ Dolin Blanc Vermouth
+    - 1.5 OZ Fords Gin
+    steps:
+    - Add Champagne to the glass.
+    - Shake drink with ice.
+    - Fine-strain into glass with Champagne and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - sparkling
+  - name: Spark Plug
+    author: Jillian Vose
+    notes: A real crowd-pleaser, Spark Plug looks simpler than it is. The flavor pairings of passion fruit, vanilla, lemon and green apple all intertwine at some point. The delicacy of the Botanist doesn't overpower the modifiers and lets the gin shine. Lemongrass adds a touch of brightness of dryness.
+    glassware: sour glass
+    ingredients:
+    - 1 DASH Lemongrass Tincture
+    - 0.75 OZ Lemon juice
+    - 0.5 OZ Granny Smith Apple Juice
+    - 0.25 OZ Vanilla Syrup
+    - 0.5 OZ Passion Fruit Syrup
+    - 1.5 OZ Botanist Gin
+    - "Garnish: lemon twist, expressed and discarded"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    - Express the lemon twist over the drink and discard.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Brute Force
+    author: Jillian Vose
+    notes: A margarita-style drink, sweetened with orgeat instead of agave for more layers. It still needed something to make it more special. To add to the greenness, green tea was suggested, then the magic funky rum bump made it all come together.
+    glassware: rocks
+    ingredients:
+    - 2 DASHES Vieux Pontarlier Absinthe
+    - 0.75 OZ Lime juice
+    - 0.5 OZ Orgeat
+    - 0.5 OZ Merlet Crème de Poire Liqueur
+    - 0.25 OZ Wray & Nephew White Overproof Rum
+    - 1.5 OZ Green Tea-Infused Tapatio Blanco Tequila
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve over a large block of ice.
+    - Garnish with the nutmeg.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - margarita
+  - name: Gangsta's Paradise
+    author: Jillian Vose
+    notes: An attempt to recreate salted caramel popcorn. Montreuil Calvados Selection always reminded me of buttered popcorn, so I started there. Pommeau’s funky fermented apple quality brings a quirkiness, and applewood salt lends a smoky note. Pimento bitters enhance this and balance the caramel sweetness.
+    glassware: sour glass
+    ingredients:
+    - 2 DASHES Applewood Smoked Salt Solution
+    - 3 DASHES Dale DeGroff’s Pimento Bitters
+    - 0.75 OZ Lemon juice
+    - 0.75 OZ Caramel Cane Syrup
+    - 0.5 OZ Lemorton Pinneau de Normandie
+    - 1.5 OZ Montreuil Calvados Selection
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Resurrection Man
+    author: Jillian Vose 
+    notes: This got dreamed up after falling in love with a new spirit I'd discovered - an unaged apple distillate. It was fresh, bright and minerally fragrant. I immediately thought of a martini - and it developed into this.
+    glassware: nick & nora
+    ingredients:
+    - 1 dash Dandelion bitters
+    - 1 teaspoon Merlet Crème De Pêche
+    - 1 teaspoon Giffard White Crème de Cacao
+    - 1 teaspoon Vanilla Syrup
+    - 0.5 OZ Barbadillo Manzanilla Sherry
+    - 1 OZ Noilly Prat Dry Vermouth
+    - 1.5 OZ Copper & King’s Unaged Apple Brandy
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with a juelp strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - freezer bar
+  - name: King of Clubs
+    author: Jillian Vose
+    notes: This is inspired by a drink I'd done in the past, but which I felt I could improve. I switched out the original sweetener, changed the flavor of preserves from marmalade to kumquat and added a small amount of Strega for depth and some anise to complement the sage.
+    glassware: coupette
+    ingredients:
+    - 2 sage leaves
+    - 1 barspoon kumquat preserves
+    - 0.5 OZ Lemon juice
+    - 0.75 OZ Granny Smith Apple Juice
+    - 0.5 OZ Honey Syrup
+    - 0.25 OZ Strega
+    - 2 OZ Powers Gold Irish Whiskey
+    steps:
+    - Build drink in a shaker tin and add sage leaves; do not muddle.
+    - Shake with ice.
+    - Fine-strain and serve with an ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Mafioso
+    author: Jesse Vida
+    notes: The idea here was a slightly spicy, stirred agave cocktail. It's common to see these flavors in a citrus-forward, shaken drink but not so much in this format. With a habanero shrub to spice it, I based the rest of the flavors around that.
+    glassware: nick & nora
+    ingredients:
+    - 2 DASHES Bittermens Hellfire Habanero Shrub
+    - 1 TSP Fennel Syrup
+    - 0.25 OZ Aperol
+    - 0.5 OZ Fusion Verjus Blanc
+    - 0.25 OZ Giffard Abricot Brandy
+    - 0.5 OZ Alvear Pale Cream Sherry
+    - 1 OZ Tequila Cabeza
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with a julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+  - name: Chasing the Dragon
+    author: Jillian Vose
+    notes: A bourbon sour variation, this just screams fall. Warmly spiced and refreshing with poppy seed giving the drink its edge.
+    glassware: punch glass
+    ingredients:
+    - 1 DASH Bitter Truth Aromatic Bitters
+    - 1 TSP Cinnamon Bark Syrup
+    - 0.75 OZ Lemon juice
+    - 0.5 OZ Grapefruit juice
+    - 0.5 OZ Poppy Seed Syrup
+    - 0.5 OZ Orgeat
+    - 1 OZ Scarlet Ibis Rum
+    - 1 OZ Eagle Rare 10 Year Bourbon
+    - "Garnish: Nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with an ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - autumn
+  - name: Hong Kong Phooey
+    author: Jessica Friedman
+    notes: I based this drink around avocado. Since avocado is such a delicate flavor, I incorporated it in the drink in two ways - a fat wash and a rich cane syrup. Once I figured out how to get the avocado flavor right, the drink came together naturally.
+    glassware: nog glass
+    ingredients:
+    - 3 DASHES Bay Leaf Tincture
+    - 1 DASH Vieux Pontarlier Absinthe
+    - 0.5 OZ Lemon juice
+    - 0.5 OZ Grapefruit juice
+    - 0.25 OZ Pistachio Orgeat
+    - 0.75 OZ Avocado Cane Syrup
+    - 0.75 OZ Half & half
+    - 0.5 OZ Krogstad Gamle Aquavit
+    - 0.5 OZ Banks 5 Island Blend Rum
+    - 1 OZ Avocado-Infused Caña Brava Rum
+    - "Garnish: Nutmeg"
+    steps:
+    - Short shake with ice.
+    - Fine-strain and serve with pebble ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Bengali Menace
+    author: Jillian Vose
+    notes: I wanted to do a Scotch-based White Negroni variation. I really love the green apple and other bright fruit notes of Glenfiddich, which led me to modifiers of an apple liqueur made in upstate New York and absinthe, while keeping the classic Suze and Cocchi of a white negroni.
+    glassware: rocks
+    ingredients:
+    - 3 DASHES Vieux Pontarlier Absinthe
+    - 0.5 TSP Cane Syrup
+    - 0.5 OZ Suze Saveur d’Autrefois
+    - 0.75 OZ American Fruits Aged Apple Liqueur
+    - 0.75 OZ Cocchi Americano
+    - 1 OZ Glenfiddich 12 Year Scotch
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with a juelp strainer and serve over a large block of ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - negroni
+  - name: 30 Seconds 'Til Takeoff
+    author: Long Thai
+    notes: I wanted an approachable yet complex cocktail where the star was beer. Belgian-style beers have a bright fruit, cloves, anise and herb-like quality. Bananas and apples go along with the baking spice quality of the beer, while coriander and Martini & Rossi emphasize the herbaceous side of the ale.
+    glassware: moustache cup
+    ingredients:
+    - 1.5 OZ Goose Island Matilda Belgian Ale
+    - 1 DASH House Orange Bitters
+    - 0.75 OZ Lemon juice
+    - 0.75 OZ Lemon Sherbet
+    - 0.75 OZ Giffard Banane du Brésil
+    - 0.5 OZ Martini & Rossi Bianco Vermouth
+    - 0.5 OZ Coriander-Infused Glenmorangie Original
+    - 1.5 OZ Black Dirt Apple Jack
+    - "Garnish: nutmeg"
+    steps:
+    - Add ale to mustache cup.
+    - Shake with ice.
+    - Fine-strain and serve with ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - beer
+  - name: Guardian Angel
+    author: Long Thai
+    notes: Olive oil-washed mezcal was the starting point; the other ingredients were added to accentuate that. The corn whiskey downplays the smokiness of the mezcal, and the chipotle adds dark, vegetal, spicy aromatics. Sumac’s tart floral aromatics were paired with the tomato. The result is smoky and spicy yet light and refreshing.
+    glassware: coupette
+    ingredients:
+    - 2 Cherry tomatoes
+    - 3 DASHES Chipotle Tincture
+    - 0.75 OZ Lemon juice
+    - 0.5 OZ Sumac Syrup
+    - 0.25 OZ Sapins liqueur
+    - 1 OZ Extra Virgin Olive Oil-Washed Del Maguey Vida Mezcal
+    - 1 OZ Mellow Corn Whiskey
+    steps:
+    - Muddle tomatoes; build drink.
+    - Shake with ice.
+    - Fine-strain and serve with an ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Fifth Gear
+    author: Jesse Vida
+    notes: This is one of my all-time favorite creations. A very rich and decadent Old Fashioned variation, splitting base with my preferred amaro and pot still Irish whiskey. This cocktail represents a meeting of my own style with the layering and balancing techniques I’ve acquired at The Dead Rabbit.
+    glassware: rocks
+    ingredients:
+    - 1 DASH Saline Solution
+    - 1 DASH Vieux Pontarlier Absinthe
+    - 0.5 TSP Giffard Banane du Brésil
+    - 0.25 OZ Giffard Crème de Cacao (white)
+    - 0.5 OZ Blandy’s 5 Year Malmsey Madeira
+    - 1 OZ Amaro Montenegro
+    - 1 OZ Powers John’s Lane Irish Whiskey
+    - "Garnish: orange peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve over a large block of ice.
+    - Garnish.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - old-fashioned
+  - name: Rush Job
+    author: Gregory Buda
+    notes: A friend challenged me to come up with a drink using an herb called lime basil. I couldn’t track down a reliable supply of lime basil, but I found that fresh basil and kaffir lime leaves mimicked it quite closely. I wanted to pursue an Asian theme for this cocktail and ended up with a delicate Japanese Whisky Sour variation, with rice milk standing in for an egg white.
+    glassware: punch cup
+    ingredients:
+    - 0.5 TSP Amaro Sibilla
+    - 0.75 OZ Lime juice
+    - 0.75 OZ Pistachio Orgeat
+    - 0.75 OZ Rice milk
+    - 2 OZ Suntory Toki Japanese Whisky
+    - 1 Fresh kaffir lime leaf
+    - 1 Fresh basil leaf
+    steps:
+    - Build drink in a mixing tin.
+    - Add herbs (do not muddle).
+    - Shake with ice.
+    - Fine-strain and serve with an ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Big Wheel
+    author: Gregory Buda
+    notes: I wanted to base a martini variation around the cinnamon and citrus botanical makeup of Perry's Tot Navy Strength Gin. I use a relatively small pour of the gin and balance it with heavy doses of sherry and dry vermouth. A little cinnamon bark syrup and kaffir lime to accentuate the flavors in the gin, and voilà!
+    glassware: nick & nora
+    ingredients:
+    - 2 DASHES Kaffir Lime Leaf Tincture
+    - 0.5 TSP Cinnamon Bark Syrup
+    - 0.5 TSP Pür•likör Williams Pear
+    - 1 OZ Barbadillo Manzanilla Sherry
+    - 1 OZ Noilly Prat Dry Vermouth
+    - 1.25 OZ Perry’s Tot Navy Strength Gin
+    - "Garnish: lime peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with a julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - martini
+    - stirred
+  - name: Show-Off
+    author: Jillian Vose
+    notes: This drink was based around the Massanez liqueur. I already had my flavor combinations for green apple that worked well in the past, but I wanted to incorporate new flavors. These were the kiwi and gentian. It worked really well - fresh, fruity and balanced.
+    glassware: flute
+    ingredients:
+    - 1 OZ Champagne (not to be shaken with other ingredients)
+    - 0.5 OZ Salers Apertif
+    - 0.75 OZ Lemon juice
+    - 0.5 OZ Kiwi juice
+    - 0.25 OZ Vanilla Syrup
+    - 0.5 OZ Macadamia Orgeat
+    - 0.5 OZ Massanez Green Apple Liqueur
+    - 1.5 OZ Pellehaut Armagnac Blanche
+    steps:
+    - Add Champagne to the glass.
+    - Shake drink with ice.
+    - Fine-strain into the glass with Champagne.
+    - Serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - sparkling
+  - name: Fun Lovin' Criminal
+    author: Long Thai
+    notes: I wanted a Martini-style stirred agave cocktail in a siesta form (i.e. Campari, lime, grapefruit and tequila.) Grapefruit and apples is a great pairing, hence the apple brandy and Pamplemousse Rose. The Lillet helps bind the ingredients together, and the grapefruit bitters bring out the tequila’s earthy, vegetal notes.
+    glassware: nick & nora
+    ingredients:
+    - 1 DASH House Cardamom Bitters
+    - 2 DASHES Bittermens Hopped Grapefruit Bitters
+    - 0.5 OZ Combier Crème de Pamplemousse Rose Liqueur
+    - 1 OZ Lillet Rosé
+    - 0.5 OZ Clear Creek Apple Brandy
+    - 1 OZ Fortaleza Blanco Tequila
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with a julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+  - name: Sucker Punch
+    author: Madeleine Solo Rapp
+    notes: Did I say I really love agave? Well, here I wanted to play with tomato. I tried it with raspberry and it turned out great. The saltiness from the manzanilla really brought the flavors together. The genever added some depth and fat to the drink, and paired well with the tequila.
+    glassware: coupette
+    ingredients:
+    - 1 DASH Bittermens Hopped Grapefruit Bitters
+    - 0.75 OZ Lemon juice
+    - 0.25 OZ Raspberry Syrup
+    - 0.75 OZ Tomato Syrup
+    - 0.25 OZ Barbadillo Manzanilla Sherry
+    - 0.5 OZ Lillet Rosé Vermouth
+    - 0.5 OZ Boomsma Oude Genever
+    - 1.5 OZ 123 Organic Uno Blanco Tequila
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with an ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Loan Shark
+    author: Jillian Vose
+    notes: This drink was inspired by the green color of wasabi. This made me think of lime and green apple, and then spiraled into absinthe and tansy. With such a green list of ingredients, it only seemed fitting to use gin. It needed some length and more depth, so the Dolin Blanc did the trick.
+    glassware: punch glass
+    ingredients:
+    - 2 DASHES Tansy Tincture
+    - 1 DASH Vieux Pontarlier Absinthe
+    - 0.75 OZ Lime juice
+    - 0.5 OZ Granny Smith Apple Juice
+    - 0.25 OZ Vanilla Syrup
+    - 0.5 OZ Wasabi Syrup
+    - 0.5 OZ Dolin Blanc Vermouth
+    - 0.25 OZ Wray & Nephew White Overproof Rum
+    - 1.5 OZ Citadelle Gin
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with an ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: True Blue
+    author: Harrison Ginsberg
+    notes: "I wanted to layer umami flavors to make a harmonious [and] refreshing whiskey cocktail. Slightly sweet and salty, this cocktail really explodes on your palate. Apple, ginger and miso complemented the Irish whiskey. The Guinness lends a great texture: frothy, rich, and pleasantly refreshing. Savory at its finest."
+    glassware: coupette
+    ingredients:
+    - 2 DASHES Peychaud’s Bitters
+    - 1 TSP Ginger Syrup
+    - 0.75 OZ Lemon juice
+    - 0.75 OZ White Miso Syrup
+    - 0.25 OZ Barbadillo Pedro Ximenez Sherry
+    - 0.5 OZ Guinness Draught
+    - 0.5 OZ Clear Creek Apple Brandy
+    - 1.5 OZ Tullamore D.E.W. 12 Year Irish Whiskey
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with an ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - beer
+  - name: Maelstrom
+    author: Alan McGillivray
+    notes: "A bit more than a coin's throw from a Boulevardier, but it's in there somewhere. With summer in mind and a classic to work from, I replaced each part of the classic with a cousin of the original for a light-bodied and slightly floral sipper. For depth, I paired each component with a complementing flavor: pamplemousse with amero, cinnamon with amontillado and pear with rye."
+    glassware: nick & nora
+    ingredients:
+    - 1 TSP Cinnamon Bark Syrup
+    - 1 TSP Pür•likör Williams Pear
+    - 0.5 OZ Amero Apertif
+    - 0.25 OZ Combier Crème de Pamplemousse Rose Liqueur
+    - 0.75 OZ Barbadillo Amontillado Sherry
+    - 1 OZ Templeton Rye Whiskey
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer.
+    - Serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+  - name: Switchblade
+    author: Jillian Vose
+    notes: I wanted to do a 50/50 Martini variation; also, I'd never really done a coconut drink without Coco López. I did an infusion, and the pisco worked really nicely. It was elegant and subtle so it could be used in a stirred drink. I built the drink by adding other tropical components and the dry vermouth and Pineau des Charentes for length.
+    glassware: nick & nora
+    ingredients:
+    - 2 DASHES Bittercube Blackstrap Bitters
+    - 0.25 OZ Banana Syrup
+    - 0.5 OZ Pierre Ferrand Pineau des Charentes
+    - 1 OZ Noilly Prat Dry Vermouth
+    - 1.5 OZ Coconut-Infused Pisco
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - martini
+    - stirred
+  - name: Cut and Dry
+    author: Jillian Vose
+    notes: This is a fresh and spicy drink our guests constantly ask for. The first time I smelled passion berry my brain almost exploded. It was like passion fruit, with a really cool herbal quality. The tangy passion berry and sumac, contrasted with spicy habanero in a dry daiquiri format, work delightfully.
+    glassware: sour glass
+    ingredients:
+    - 5 DASHES Scrappy’s Firewater Habanero Tincture
+    - 0.75 OZ Lime juice
+    - 0.25 OZ Sumac Syrup
+    - 0.5 OZ Passion Berry Syrup
+    - 0.5 OZ Royal Combier Liqueur
+    - 2 OZ Plantation 3 Stars Rum
+    - "Garnish: Nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - daiquiri
+    - citrus
+    - shaken
+  - name: Shadowboxer
+    author: Jillian Vose
+    notes: This drink was inspired by the Chief Gowanus New Netherland Gin. It’s a unique spirit with a rye base flavored with juniper and hops. I introduced the paprika and carrot to match the gin’s savory quality. The other components are the balancing act for the bases to shine.
+    glassware: punch glass
+    ingredients:
+    - 1 DASH House Orange Bitters
+    - 0.75 OZ Lemon juice
+    - 0.5 OZ Carrot juice
+    - 0.5 OZ Orange Sherbet
+    - 0.5 OZ Paprika Syrup
+    - 0.75 OZ Barbadillo Oloroso Sherry
+    - 0.75 OZ Novo Fogo Tanager Cachaça
+    - 1 OZ Chief Gowanus New Netherland Gin
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Goody Two-Shoes
+    author: Harrison Ginsberg
+    notes: I wanted to take the quintessential Mexican fall flavors and put them into a Manhattan-style cocktail. Chilis, calabaza (pumpkin), herbs and dark fruits. Herbaceous amaro and vermouth, combined with ancho chilis, pomegranate and a touch of mezcal made for a great base. The infused whiskey ties it together and adds a nutty backbone.
+    glassware: nick & nora
+    ingredients:
+    - 1 TSP Pomegranate Syrup
+    - 0.25 OZ Amaro Averna
+    - 0.5 OZ Noilly Prat Ambré Vermouth
+    - 0.5 OZ Ancho Chili-Infused Sweet Vermouth
+    - 0.25 OZ Del Maguey Mezcal Vida
+    - 1.5 OZ Pumpkin Seed-Washed Powers Gold Irish Whiskey
+    - "Garnish: orange peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - autumn
+    - stirred
+    - manhattan
+  - name: Riot Act
+    author: Jillian Vose
+    notes: The grilled pineapple-infused Bols Genever we have makes for a rich, tropical and malty combination. Brown rice syrup matched the flavor profile but gave an unappealing, cloudy presentation. Genmaicha tea is a brown-rice green tea with brown rice kernels that seemed to do the trick. We steeped it and made a syrup. I’m fond of split bases for extra layers, and aged Spanish brandy balances the genever, giving beautiful dark fruit notes.
+    glassware: rocks
+    ingredients:
+    - 2 DASHES Saline Solution
+    - 1 DASH Bitter Truth Aromatic Bitters
+    - 0.5 OZ Nonino Amaro
+    - 0.5 OZ Genmaicha Tea Syrup
+    - 1 OZ Torres 15 Year Spanish Brandy
+    - 1 OZ Grilled Pineapple-Infused Bols Genever
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve over a large block of ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - old-fashioned
+  - name: Hush Money
+    author: Jillian Vose
+    notes: When we do vodka drinks, we really try to incorporate ingredients and styles of drinks that you wouldn't normally associate with the spirit. I thought that Chase made a really great smoked vodka and immediately after trying it, a negroni variation popped into my mind...
+    glassware: nick & nora
+    ingredients:
+    - 1 DASH Bitter Truth Aromatic Bitters
+    - 1 TSP Pecan Orgeat
+    - 0.5 OZ Campari
+    - 0.5 OZ Pür•likör Spiced Blood Orange
+    - 0.5 OZ Cocchi Vermouth di Torino
+    - 1.5 OZ Chase Smoked Vodka
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - negroni
+  - name: Holy Smoke
+    author: Jillian Vose
+    notes: This drink was inspired by a tiki drink I did a long time ago using Bowmore - a smoky single malt Scotch. The original turned out surprisingly tasty, and I’ve since made several variations. I knew that curry leaf, coconut and peat all work together, so I started there. Pineapple was added to fatten it up, but also to give it a tropical note. I added a touch of half & half to complement the Coco López and vanilla for sweetness. Then, a balance of heavily peated scotch, a milder and fruitier single malt scotch and a high-proof rum - because, well we’re talking tiki, right?
+    glassware: highball
+    ingredients:
+    - 1 TSP Matcha Green Tea Coco López
+    - 1 DASH Bitter Truth Decanter Bitters
+    - 0.5 OZ Lime juice
+    - 0.5 OZ Pineapple juice
+    - 0.5 OZ Half & half
+    - 0.25 OZ Vanilla Syrup
+    - 0.5 OZ Tonka Bean Cane Syrup
+    - 0.5 OZ Pierre Ferrand Dry Curaçao
+    - 0.25 OZ Plantation OFTD Rum
+    - 0.5 OZ Ardbeg 10 Years Old Scotch
+    - 1 OZ Glenmorangie Original Scotch
+    - 1 Curry leaf
+    - "Garnish: nutmeg"
+    steps:
+    - Build drink in a mixing tin.
+    - Add curry leaf; do not muddle.
+    - Whip-shake with ice.
+    - Fine-strain and serve over pebble ice. (Snow-cone it.)
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - tiki
+    - shaken
+    - citrus
+  - name: Hunky Dory
+    author: Nick Rolin
+    notes: "I began with the classic fall combination of walnuts and apples. However, the tannin in walnuts makes it a difficult, astringent ingredient. Three ingredients allowed me to turn the corner: barley, Jamaican rum and raw egg yolk. A little acidity from lemon and some spice from amaro filled out the flavor profile. (And, yes, we batch some of these ingredients for service.)"
+    glassware: nog glass
+    ingredients:
+    - 1 Whole egg
+    - 1 DASH Angostura Bitters
+    - 0.25 OZ Lemon juice
+    - 0.5 OZ Cane Syrup
+    - 0.25 OZ Walnut Orgeat
+    - 0.25 OZ Barley Orgeat
+    - 0.25 OZ Smith & Cross Jamaican Rum
+    - 0.25 OZ Amaro Nardini
+    - 0.25 OZ Clear Creek Apple Brandy
+    - 0.5 OZ Half & half
+    - 0.75 OZ Laird’s Straight Apple Brandy
+    - 0.75 OZ Powers Signature Release Irish Whiskey
+    - "Garnish: nutmeg"
+    steps:
+    - Dry shake.
+    - Shake with ice.
+    - Fine-strain and serve with a chunk of ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - autumn
+    - shaken
+  - name: Godzilla
+    author: Jillian Vose
+    notes: Italicus was developed by our friend Giuseppe Gallo, and as it happened, he was to be featured in this particular comic. So I wanted to come up with a drink that would be placed in the scene where he appeared. The Rosolio called out for a a refreshing spritz rather than a complex tiki-style drink. It then became a matter of matching the bergamot and floral elements with other subtle flavors including cinnamon and apple. Champagne and soda were a must - and voilà!
+    glassware: highball
+    ingredients:
+    - 1 DASH Peychaud’s Bitters
+    - 1 TSP Cinnamon Bark Syrup
+    - 1 OZ Lillet Rosé
+    - 0.5 OZ Clear Creek Reserve 8 Year Apple Brandy
+    - 1.5 OZ Italicus Rosolio
+    - 0.5 OZ Soda water
+    - 1.5 OZ Champagne (not to be shaken with other ingredients)
+    - "Garnish: grapefruit peel, expressed and discarded"
+    steps:
+    - Whip shake with 15 pieces of pebble ice until ice is melted.
+    - Add soda water and Champagne to tin.
+    - Pour into highball glass filled with cracked ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - sparkling
+  - name: Dark Horse
+    author: Gregory Buda
+    notes: This cocktail is a delicate, low-proof sour with amontillado sherry as the base. I’ve always loved the combination of banana and amontillado, so it was a natural pairing. The Green Spot Irish Whiskey provides just enough punch and body to balance the drink, with the nutmeg and allspice added for complexity.
+    glassware: sour glass
+    ingredients:
+    - 1 DASH Dale DeGroff’s Pimento Bitters
+    - 0.75 OZ Lemon juice
+    - 0.25 OZ Nutmeg Syrup
+    - 0.5 OZ Banana Syrup
+    - 0.5 OZ Green Spot Irish Whiskey
+    - 1 OZ Alvear Pale Cream Sherry
+    - 1.5 OZ Barbadillo Amontillado Sherry
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Hat Trick
+    author: Jillian Vose
+    notes: This fits on the menu's daiquiri box. The twist is tangy passion fruit with apricot and banana as background notes. I based the drink off Banks rum and around Stilo Pimentel, who works with Banks and was to be featured in the menu. It was easy to make a delightful daiquiri drink with fun and bright ingredients to match his relaxed demeanor.
+    glassware: sour glass
+    ingredients:
+    - 1 DASH Bittermens Boston Bittahs
+    - 1 DASH Peychaud’s Bitters
+    - 1 OZ Lime juice
+    - 0.25 OZ Giffard Banane du Brésil
+    - 0.25 OZ Blume Marillen Apricot Eau-de-Vie
+    - 0.75 OZ Passion Fruit Syrup
+    - 1.5 OZ Banks 5 Island Blend Rum
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - daiquiri
+    - shaken
+    - citrus
+  - name: Tall Poppy
+    author: Long Thai
+    notes: The challenge was to create a light, refreshing highball with Japanese whisky and Japanese influenced ingredients. A cocktail to be paired with traditional sushi, hence the ginger and wasabi. The sherry provides the savory umami backbone, and Suntory Toki delivers light, slightly sweet, fruit and citrus notes. The soda water enhances the refreshing aspect of the highball.
+    glassware: highball
+    ingredients:
+    - 1 DASH Bittermens Orchard Street Celery Shrub
+    - 0.75 OZ Lime juice
+    - 0.25 OZ Ginger Syrup
+    - 0.5 OZ Wasabi Syrup
+    - 0.5 OZ Sage-Infused Dolin Blanc Vermouth
+    - 0.5 OZ Barbadillo Oloroso Sherry
+    - 2 OZ Suntory Toki Japanese Whisky
+    - 1 OZ Soda water (not to be shaken with other ingredients)
+    - "Garnish: nutmeg"
+    steps:
+    - Whip shake with 15 pieces of pebble ice until ice is melted.
+    - Add soda water to tin.
+    - Pour into highball glass filled with cracked ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Punk Rocker
+    author: Madeleine Solo Rapp
+    notes: Our grilled pineapple-infused Genever is amazing and I wanted to make a bright and slightly funky drink. Pairing it with reposed tequila turned out really well and the génépy gave it more complexity and herbaceous notes.
+    glassware: coupette
+    ingredients:
+    - 1 OZ Lemon juice
+    - 0.25 OZ Pineapple juice
+    - 0.5 OZ Fennel Syrup
+    - 0.25 OZ Macadamia Orgeat
+    - 0.5 OZ Dolin Génépy des Alpes
+    - 0.5 OZ Altos Reposado Tequila
+    - 1.5 OZ Grilled Pineapple-Infused Bols Genever
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with an ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Smart Alec
+    author: Jessica Friedman
+    notes: I love Calvados, but had never made a drink using the stuff. The savory elements of aquavit and celery gave it a unique character, while verjus and Pineau des Charentes supported the calvados and gave the drink length.
+    glassware: nick & nora
+    ingredients:
+    - 1 DASH Bittermens Orchard Street Celery Shrub
+    - 0.5 TSP Cinnamon Bark Syrup
+    - 0.5 OZ Fusion Verjus Blanc
+    - 0.25 OZ Barbadillo Manzanilla Sherry
+    - 0.5 OZ Pierre Ferrand Pineau des Charentes
+    - 0.5 OZ Linie Aquavit
+    - 1.5 OZ Montreuil Calvados Selection
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with a julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+  - name: Wheeler-Dealer
+    author: Becca Pesce
+    notes: Wheeler-Dealer started out as an inside joke for my old work husband. I used as many of his favorite ingredients that complemented each other as possible.This was my first cocktail to make the menu at Dead Rabbit, and it is inspired by the person who encouraged me to pursue my dreams in this industry. This is my ode to a friendship.
+    glassware: coupette
+    ingredients:
+    - 1 DASH Black Cardamom Tincture
+    - 0.5 OZ Lemon juice
+    - 0.5 OZ Granny Smith Apple Juice
+    - 0.25 OZ Ginger Syrup
+    - 0.5 OZ Pistachio Orgeat
+    - 0.5 OZ Del Maguey Mezcal Vida
+    - 1.5 OZ Redbreast 12 Year Irish Whiskey
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with an ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - autumn
+  - name: Early Bird
+    author: Jillian Vose
+    notes: Here we are with yet another take on Eidolon, itself a riff on the Army & Navy cocktail. For the fall and winter months, I wanted to embrace those flavors. I first thought to use Oloroso rather than a Manzanilla, fino or pale cream sherry as I wanted to incorporate dried fruit notes rather than bright fruit ones. Cinnamon for fall is obvious but necessary to bring the fig and pear together just right. The rest of the template is kept the same. Damn, son.
+    glassware: punch glass
+    ingredients:
+    - 1 Egg white
+    - 0.75 OZ Lemon juice
+    - 0.25 OZ Cinnamon Bark Syrup
+    - 0.5 OZ Fig Syrup
+    - 0.5 OZ Pür•likör Williams Pear
+    - 0.5 OZ Barbadillo Oloroso Sherry
+    - 2 OZ Botanist Gin
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Dry shake.
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - autumn
+    - winter
+  - name: Shoot From the Hip
+    author: Jillian Vose
+    notes: "This drink was created to meet need on the menu for a particular type of Irish whiskey. I knew I wanted to use the Tullamore 12 Year in a drink, so I started there with a focus on fall flavors. I made a spiced pear syrup, which turned out great. That alone had enough character for a simple sour cocktail, but you know us: Why stop there? Going through pear pairings, celery and cilantro (coriander) came up. Now I just needed a lengthener and a touch more character. Nonino worked wonderfully with the spiced pear, and caramel gave it all the bump of sweetness to balance out the drink. Job done."
+    glassware: julep
+    ingredients:
+    - 1 DASH Celery bitters
+    - 1 DASH Cilantro Tincture
+    - 0.5 OZ Amaro Nonino
+    - 0.75 OZ Lemon juice
+    - 0.25 OZ Caramel Cane Syrup
+    - 0.5 OZ Spiced Pear Syrup
+    - 1.5 OZ Tullamore D.E.W. 12 Year Irish Whiskey
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve over cracked ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Blink of an Eye
+    author: Jillian Vose
+    notes: I decided I wanted to make a Martini-style drink for those who wanted something boozy and smmoky. The drink is quite approachable if you like mezcal. Dolin Blanc lengthened out the green apple for fruit and the absinthe for an herbal note.
+    glassware: nick & nora
+    ingredients:
+    - 1 DASH Vieux Pontarlier Absinthe
+    - 0.5 OZ Massenez Green Apple Liqueur
+    - 0.75 OZ Dolin Blanc Vermouth
+    - 0.5 OZ Barbancourt White Rhum
+    - 1 OZ El Silencio Mezcal
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with a julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - martini
+  - name: Dead Ringer
+    author: Jillian Vose
+    notes: There is always a place for a lighter-style Old Fashioned. Irish whiskey pairs well with tropical flavors, so the Plantation worked well. To complement this, I chose tumeric and chipotle. The honey notes of Yellow Chartreuse as another modifier and the lengthening agent of the Cocchi Americano worked well to balance the drink. Sumac gives a tangy citrusy note.
+    glassware: rocks
+    ingredients:
+    - 1 DASH Turmeric Citrus
+    - 1 DASH Chipotle Tincture
+    - 1 TSP Sumac Syrup
+    - 0.25 OZ Yellow Chartreuse
+    - 0.75 OZ Cocchi Americano
+    - 0.5 OZ Plantation Pineapple Rum
+    - 1.5 OZ Bushmills 10 Year Irish Whiskey
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve over a large rock of ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - old-fashioned
+  - name: Loose Cannon
+    author: Jessica Friedman
+    notes: This one started with food - curry, to be precise. Once I had the sweet carrot and aromatic curry together, I thought of previous Indian dishes I’d had and the distinctive flavors they used. This is the result.
+    glassware: rocks
+    ingredients:
+    - 1 DASH Bittered Sling Clingstone Peach Bitters
+    - 1 TSP Coco López
+    - 0.75 OZ Lime juice
+    - 0.5 OZ Carrot juice
+    - 0.25 OZ Paprika Syrup
+    - 0.5 OZ Fennel Syrup
+    - 0.25 OZ Half & half
+    - 0.5 OZ Del Maguey Mezcal Vida
+    - 1.5 OZ 123 Uno Organic Blanco Tequila
+    - 2 Curry leaves
+    - "Garnish: nutmeg"
+    steps:
+    - Build drink in tin.
+    - Add curry leaves; do not muddle.
+    - Whip shake with cubed ice.
+    - Fine-strain and serve over pebble ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Kill Devil
+    author: Jillian Vose
+    notes: I used to work at a restaurant that used togarashi a lot in their dishes, and it inspired me to use it in cocktails. We often get requests for spicy drinks, so I decided to start out with a daiquiri and let the sweetener be the togarashi syrup. It went from there and developed with sherry, a blend of rums and bitters.
+    glassware: punch glass
+    ingredients:
+    - 1 DASH Angostura Bitters
+    - 0.75 OZ Lime juice
+    - 0.5 OZ Pineapple juice
+    - 1 OZ Togarashi Syrup
+    - 0.5 OZ Barbadillo Oloroso Sherry
+    - 0.5 OZ Banks 7 Golden Age Blend Rum
+    - 1.5 OZ Mount Gay Black Barrel Rum
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with an ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - daiquiri
+  - name: Money to Burn
+    author: Nick Rolin
+    notes: This cocktail was inspired by horchata - the rich Mexican beverage made from rice, almonds and sugar. I wanted something that echoed that dense texture but with more elegance. I made an horchata syrup and tried to pair it with a combination of bourbon and tequila, but it was never balanced. The answer turned out to be a blend of bourbon, Spanish brandy and cachaça. The final drink borders on the richness of a dessert cocktail, but the lime and pineapple juice create enough acidic balance to keep it refreshing.
+    glassware: punch cup
+    ingredients:
+    - 0.5 OZ Lime juice
+    - 0.25 OZ Pineapple juice
+    - 0.25 OZ Vanilla Syrup
+    - 0.75 OZ Horchata Syrup
+    - 0.25 OZ Avuá Amburana Cachaça
+    - 0.5 OZ Torres 15 Year Spanish Brandy
+    - 1.5 OZ Basil Hayden’s Bourbon
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Billion Dollar Man
+    author: Jillian Vose
+    notes: "For winter we always like to have another hot drink option in addition to our delectable Irish coffee. This has some warming fall spice with sweet apple: perfect for a cold day."
+    glassware: irish coffee mug
+    ingredients:
+    - 1 OZ Heavy cream
+    - 1 DASH Smoked Black Pepper Tincture
+    - 2 DASHES Pumpkin Tincture
+    - 0.25 OZ Orgeat
+    - 0.5 OZ Buckwheat Orgeat
+    - 0.75 OZ Novo Fogo Tanager Cachaça
+    - 0.75 OZ Laird’s Bonded Applejack
+    - 1.5 OZ Piping-hot water
+    - "Garnish: nutmeg"
+    steps:
+    - Whip cold heavy cream until it thickens enough to float on top of the drink and is still pliable. (We suggest using cream that is 35% to 38% milk fat.)
+    - Build drink in warm glass.
+    - Add water and float cream.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - heated
+    - winter
+  - name: Talk of the Devil
+    author: Long Thai
+    notes: On a hot summer day, something sparkly and refreshing is definitely in order. Let’s start with honeydew and add mint - a killer combo. Apostoles is a unique gin from Argentina with flavors of yerba mate, eucalyptus, pink grapefruit and peppermint. Martini & Rossi Bianco gives a boost of refreshing green herbs and botanicals. Perry’s Tot Gin lends extra oomph with its Navy Strength Proof (57% ABV). Finally, top off with Champagne. Now, if only The Dead Rabbit had a rooftop bar...
+    glassware: flute
+    ingredients:
+    - 1.5 OZ Champagne (not to be shaken with other ingredients)
+    - 0.75 OZ Lemon juice
+    - 0.5 OZ Honeydew
+    - 0.75 OZ Mint Syrup
+    - 0.5 OZ Martini & Rossi Bianco Vermouth
+    - 1 OZ Perry’s Tot Navy Strength Gin
+    - 1 OZ Apostoles Gin
+    steps:
+    - Add Champagne to glass.
+    - Shake drink with ice.
+    - Fine-strain into glass with Champagne and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - summer
+    - shaken
+    - citrus
+    - sparkling
+  - name: Ace of Spades
+    author: Jillian Vose
+    notes: This is another one of those drinks inspired by spring. I know it seems a bit busy, but it just worked out that way - like a daiquiri with a lot of other interesting stuff in it. When we have drinks with a lot of elements in them, we batch up a portion of the ingredients for easy execution during service. In this case, we’ll make a mix of equal parts pear syrup, apricot eau-de-vie and Sotol and pour 0.75 ounce of the mix instead of 0.25 ounce of all three separately. So you’ll still have your drink in just a few minutes.
+    glassware: coupette
+    ingredients:
+    - 1 DASH Saline Solution
+    - 1 DASH Silver Needle Tincture
+    - 0.75 OZ Lime juice
+    - 0.5 OZ Cucumber juice
+    - 0.5 OZ Tarragon Syrup
+    - 0.25 OZ Viura Rioja Pear Syrup
+    - 0.5 OZ Pineau des Charentes
+    - 0.25 OZ Blume Marillen Apricot Eau-de-Vie
+    - 0.25 OZ Sotol Por Siempre
+    - 1.5 OZ Casa Magdalena Ron Blanco Rum
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - spring
+    - daiquiri
+    - citrus
+  - name: Yours Truly
+    author: Jillian Vose
+    notes: The unlikely vodka drink strikes again. This time with another spirit you won't typically find me using, white whiskey. However, I find High West Silver Oat works well in cocktails and has some interesting notes of banana, flowers, strawberry and grapefruit. The whiskey was a bit much for a full base so I split it with Barr Hill Vodka, which is distilled from raw honey. The honey comes through, and the texture of it is rich yet clean. The drink does read a bit sweet, but adding the dry vermouth and black peppercorn fixed that.
+    glassware: rocks
+    ingredients:
+    - 3 DASHES Smoked Black Pepper Tincture
+    - 1 DASH Saline Solution
+    - 0.5 TSP Macadamia Orgeat
+    - 1 TSP Strawberry Syrup
+    - 0.25 OZ Combier Crème de Pamplemousse Rose Liqueur
+    - 0.75 OZ Noilly Prat Dry Vermouth
+    - 1 OZ High West Silver Oat Whiskey
+    - 1OZ Barr Hill Vodka
+    - "Garnish: grapefruit twist, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve over a large block of ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - old-fashioned
+  - name: One-Hit Wonder
+    author: Jillian Vose
+    notes: Yes, I did it again - another riff on Eidolon... As we’re looking at spring and summer, I went for lighter and bright fruit flavors. The idea came to me when I finally found a lychee liqueur I liked. The gin simply didn’t work this time with the floral components of the drink, so I tried the slightly funky Barbancourt Haitian rum. I also went for a lighter and creamier style sherry as it complemented the rhubarb, lychee and vanilla better.
+    glassware: punch glass
+    ingredients:
+    - 1 Egg white
+    - 0.75 OZ Lemon juice
+    - 0.25 OZ Vanilla Syrup
+    - 0.5 OZ Rhubarb Syrup
+    - 0.5 OZ Giffard Lichi-Li Liqueur
+    - 0.75 OZ Barbadillo Manzanilla Sherry
+    - 2 OZ Barbancourt White Rhum
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Dry shake.
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - spring
+    - summer
+  - name: Baby Face
+    author: Jessica Friedman
+    notes: I needed to make a tequila cocktail for my boxing debut. I was looking for something that would be tropical and refreshing - and who doesn’t like a bit of spice with their margarita? Exactly.
+    glassware: sour glass
+    ingredients:
+    - 2 DASHES Bittered Sling Clingstone Peach Bitters
+    - 1 OZ Lime juice
+    - 0.25 OZ Guava Syrup
+    - 0.75 OZ Togarashi Syrup
+    - 0.25 OZ Boukman Botanical Rhum
+    - 2 OZ Oro de Lidia Reposado Tequila
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Citizen Kane
+    author: Jillian Vose
+    notes: We always have a fresh-style Martini on the menu, and I wanted to make sure we did that this time as well. Also, I’d been missing our sugar snap pea tequila. Ryan made the infusion and I plugged it into that 50/50 template with falernum and celery bitters to match the snap peas. It was a bit rich and a touch flat. I bumped it up with rum. A good agricole or high-proof Wray & Nephew usually does the trick - especially in tequila-based cocktails. QED.
+    glassware: nick & nora
+    ingredients:
+    - 1 DASH Bittermens Orchard Street Celery Shrub
+    - 0.25 OZ John D. Taylor’s Velvet Falernum Liqueur
+    - 0.75 OZ Dolin Blanc Vermouth
+    - 0.25 OZ Rhum J.M. Agricole
+    - 1.5 OZ Sugar Snap Pea-Infused El Tesoro Platinum Tequila
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - martini
+    - stirred
+  - name: Control Freak
+    author: Long Thai
+    notes: "I wanted a beer cocktail with mass appeal, but also with the complexities of an amazing cocktail. All ingredients were based on the flavor profile of the Bell’s Two Hearted IPA - a malt-forward beer bursting with grapefruit and pine flavors and aroma. The tequila and white peony tea heighten the pine element, with a touch of herbaceous notes. Bright, tropical, citrusy, herbaceous: What’s not to love? Beer for the win!"
+    glassware: moustache cup
+    ingredients:
+    - 1.5 OZ Bell’s Two Hearted IPA (not to be shaken with other ingredients)
+    - 2 DASHES White Peony Tea Tincture
+    - 0.75 OZ Lemon juice
+    - 0.5 OZ Lemon Sherbet
+    - 0.5 OZ Passion Fruit Syrup
+    - 0.5 OZ Combier Crème de Pamplemousse Rose Liqueur
+    - 0.5 OZ Siembra Valles Blanco Tequila
+    - 1.5 OZ Mango-Infused Pisco
+    - "Garnish: nutmeg"
+    steps:
+    - Add ale to mustache cup.
+    - SHake drink with ice.
+    - Fine-strain into cup with ale and serve with ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - beer
+  - name: Bang Out of Order
+    author: Jillian Vose
+    notes: I chose our Dead Rabbit Irish Whiskey for its higher proof and virgin American oak finish. It's really versatile in mixed drinks, especially shaken ones, as it doesn't get lost in the mix. I started with a simple sour of the syrups, lemon and whiskey. After tasting it, I picked two bitters that complemented the syrups well. The tiki brought a spicy, tropical high note and the decanter bound everything together. The sour was better but too sweet and too short. Sherry didn’t seem like it would be acceptable, sweet vermouth too muddy, dry vermouth would clash, Bonal too bitter... Ooh, I know - Lillet Rosé. Perfecto!
+    glassware: sour glass
+    ingredients:
+    - 1 DASH Bitter Truth Decanter Bitters
+    - 1 DASH Bittermens 'Elemakule Tiki Bitters
+    - 0.75 OZ Lemon juice
+    - 0.25 OZ Fennel Syrup
+    - 0.25 OZ Beet Syrup
+    - 0.5 OZ Blackberry Syrup
+    - 0.5 OZ Lillet Rosé
+    - 2 OZ Dead Rabbit Irish Whiskey
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Indian Rope Trick
+    author: Jillian Vose
+    notes: It'd been some time since I did a Martinez variation. I thought of it after tasting a new product, Glorious Gin, plus Phil Duff’s new genever was on the market finally. It all came together with the martinez template. I’m not a huge fan of maraschino, so I opted for a different modifier with a split of Bonal and vanilla. Ancho chili sweet vermouth gave it a unique character, and the pineapple liqueur was the last tweak to take it to Dead Rabbit standards.
+    glassware: nick & nora
+    ingredients:
+    - 1 DASH Bitter Truth Aromatic Bitters
+    - 1 TSP Nick Biz (equal parts Bonal and Vanilla Syrup)
+    - 1 TSP Giffard Caribbean Pineapple Liqueur
+    - 1 OZ Ancho Chili-Infused Sweet Vermouth
+    - 0.5 OZ Old Duff Genever
+    - "1 OZ Glorious Gin: Oaked"
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - manhattan
+  - name: Sunny-Side Up
+    author: Jillian Vose
+    notes: "I was lucky enouggh to try this new Tullamore D.E.W. expression before it hit the market. The rum cask finish lends it some beautiful tropical notes, which I enhanced with the banana liqueur. This is a Manhattan variation: nothing too crazy, but it reads really well and so is quite approachable - the complexity of the whiskey itself does all the talking."
+    glassware: nick & nora
+    ingredients:
+    - 1 DASH Bittermens Xocolatl Mole Bitters
+    - 1 DASH Angostura Bitters
+    - 0.25 OZ Giffard Banane du Brésil
+    - 0.25 OZ Pierre Ferrand Dry Curaçao
+    - 1 OZ Cocchi Vermouth di Torino
+    - 1.5 OZ Tullamore D.E.W. Caribbean Rum Cask Finish Irish Whiskey"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - manhattan
+    - stirred
+  - name: Business Before Pleasure
+    author: Gregory Buda
+    notes: The idea for this cocktail came from a wonderful dessert I had a long time ago at Nomad, a restaurant here in NYC. It was sort of a crumble made with pistachios, sour cherries and mascarpone cheese. That trio of flavors really stuck in my head. It took a while to figure out how to get them into a drink together. This rich whiskey sour variation was the answer.
+    glassware: punch glass
+    ingredients:
+    - 1 Egg white
+    - 1 BAR SPN Mascarpone cheese
+    - 2 DASHES Mace Tincture
+    - 2 DASHES Angostura Bitters
+    - 0.75 OZ Lime juice
+    - 0.25 OZ Tart Cherry Syrup
+    - 0.75 OZ Pistachio Orgeat
+    - 0.25 OZ Tempus Fugit Crème de Noyaux
+    - 1 OZ Rémy Martin 1738 Cognac
+    - 1 OZ Eagle Rare 10 Year Old Bourbon
+    - "Garnish: nutmeg"
+    steps:
+    - Dry shake.
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Guilt Trip
+    author: Harrison Ginsberg
+    notes: I was watching an Israeli documentary on cuisine - which is essentially a mishmash from all over the middle east and Mediterranean. I wanted to impart these flavors into a cocktail. Starting with a base of the whiskey sour, I swapped Greek yogurt for egg white and added a little bit of za’atar, the Middle Eastern spice blend made from sesame seeds, dried oregano and parsley and some ground sumac. A little more sumac and a clean single grain Irish whiskey was the perfect match for this drink.
+    glassware: sour glass
+    ingredients:
+    - 1 BAR SPN Greek yogurt
+    - 1 DASH House Orange Bitters
+    - 4 DASHES Za’atar Tincture
+    - 1 TSP Strega
+    - 0.75 OZ Lemon juice
+    - 0.75 OZ Sumac Syrup
+    - 1.5 OZ Teeling Single Grain Irish Whiskey
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Home Run
+    author: Jillian Vose
+    notes: We were low on Scotch cocktails, so that was my starting point. When I’m basing a drink off a particular spirit, I do a thorough tasting, writing down all the aromas I can get. I’ll use these notes to base the flavor pairing for modifiers. I thought that our genmaicha syrup would pair well with the scotch, and I knew pineapple was a great match to the brown rice as well. I then split Highland Park with calvados. Amaro Nonino is a softer style of amaro, so I picked that to add layers and complexity. Cinnamon was a nice accent to the drink.
+    glassware: sour glass
+    ingredients:
+    - 0.75 OZ Lime juice
+    - 0.5 OZ Pineapple juice
+    - 0.25 OZ Cinnamon Bark Syrup
+    - 0.75 OZ Genmaicha Tea Syrup
+    - 0.5 OZ Amaro Nonino
+    - 0.5 OZ Montreuil Calvados Selection
+    - 1 OZ Highland Park Magnus Scotch
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Magic Bullet
+    author: Nick Rolin
+    notes: Every now and then, a specific product will inspire a cocktail. In this case, it was Bruto Americano - a bitter, fruit- and pine-forward aperitif. I thought it would pair well with raspberry and coffee. This turned out to be fairly difficult, and I went through many versions. In the end, I reduced the original amount of Bruto, but the end product is a herbal, dark riff on a negroni.
+    glassware: rocks
+    ingredients:
+    - 0.5 TSP Demerara Syrup
+    - 0.5 TSP Galliano Ristretto
+    - 0.5 OZ Raspberry-Infused Bruto Americano
+    - 0.25 OZ Giffard Crème de Cacao (white)
+    - 0.5 OZ Cocchi Rosa
+    - 0.5 OZ Barbadillo Oloroso Sherry
+    - 0.75 OZ Torres 15 Year Spanish Brandy
+    - 0.75 OZ Scarlet Ibis Rum
+    - "Garnish: orange peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve over a large block of ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - negroni
+    - stirred
+  - name: Deep Down and Dirty
+    author: Jillian Vose
+    notes: I was seeking inspiration for this menu as I had a few slots to fill, so I started flipping through some of my older drinks notebooks. I have a ton of them - some organized, some definitely not. I found some dumb ideas and some really great ones. I went back to a drink called Witchdoctor I did at Death & Co, and then another at The Dead Rabbit called Rag & Bone. I morphed them together to make this drink.
+    glassware: punch glass
+    ingredients:
+    - 1 DASH Bitter Truth Aromatic Bitters
+    - 0.75 OZ Lemon juice
+    - 0.5 OZ Grapefruit juice
+    - 0.5 OZ Poppy Seed Syrup
+    - 0.25 OZ Macadamia Orgeat
+    - 0.25 OZ Blueberry Cane Syrup
+    - 1 OZ Tariquet VS Classique Armagnac
+    - 1 OZ Basil Hayden’s Bourbon
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Point Blank
+    author: Jillian Vose
+    notes: This is a summer Martini with ripe melon infused into delicate Botanist gin. Cucumber adds herbaceous notes; the chamomile and citrus bitters and spiced falernum give depth. Dolin Blanc ‘fattens’ and sweetens the drink, lending balance and finish.
+    glassware: nick & nora
+    ingredients:
+    - 1 DASH Bittermens Boston Bittahs
+    - 0.25 OZ John D. Taylor’s Velvet Falernum Liqueur
+    - 1.5 OZ Dolin Blanc Vermouth
+    - 2 OZ Honeydew and Cucumber-Infused Botanist Gin
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - martini
+    - stirred
+  - name: Total Diva
+    author: Jillian Vose
+    notes: This evolved into a tiki drink, with anise-green tea-coconut-almond-lime flavor notes. Gin was picked as a base to keep it on the refreshing side. Its piña colada-style required a cream quality for body, so a touch of half & half was added. Kaffir lime leaf was shaken in to cut through the richness, giving the drink a high note and a beautiful fragrance.
+    glassware: nog glass
+    ingredients:
+    - 1 TBSP Matcha Green Tea Coco López
+    - 0.75OZ Lime juice
+    - 0.5 OZ Orgeat
+    - 0.25 OZ Fennel Syrup
+    - 0.25 OZ Half & half
+    - 2 OZ Citadelle Gin
+    - 1 Fresh kaffir lime leaf
+    - "Garnish: nutmeg"
+    steps:
+    - Build drink in tin.
+    - Add kaffir lime leaf (do not muddle).
+    - Whip shake with cube ice.
+    - Fine-strain and serve over pebble ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - tiki
+    - citrus
+  - name: Psycho Killer
+    author: Jillian Vose
+    notes: An Irish whiskey variation on a Boulevardier. Spruced up with banana and chocolate liqueurs to match the Christmas-cake qualities of the Redbreast... A real favorite.
+    glassware: nick & nora
+    ingredients:
+    - 2 DASHES Vieux Pontarlier Absinthe
+    - 0.75 OZ Campari
+    - 0.5 OZ Giffard Crème de Cacao (white)
+    - 0.5 OZ Giffard Banane du Brésil
+    - 2 OZ Redbreast 12 Year Irish Whiskey
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - negroni
+  - name: Femme Fatale
+    author: Madeleine Solo Rapp
+    notes: Lingonberries are something I haven't seen in cocktails in the U.S., though they're a familiar part of my Scandinavian background. I decided I wanted to incorporate them into a distinctively fall drink.
+    glassware: punch glass 
+    ingredients:
+    - 1 TBSP Lingonberry preserves
+    - 1 DASH Peychaud’s Bitters
+    - 0.75 OZ Lemon juice
+    - 0.5 OZ Cane Syrup
+    - 0.5 OZ Kronan Swedish Punsch Liqueur
+    - 0.5 OZ Banks 5 Island Blend Rum
+    - 1 OZ Brennivín Aquavit
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve with ice nugget.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+    - autumn
+  - name: God Is a DJ
+    author: Jillian Vose
+    notes: Gold Digger was a stirred light Manhattan on the 3rd edition menu and a real favorite. To keep the drink alive and the sesame infusion we loved so much, I made a shaken version without the original’s Cocchi Americano, but with maple syrup as an additional sweetener to balance out the lemon juice.
+    glassware: sour glass
+    ingredients:
+    - 2 DASHES Dale DeGroff’s Pimento Bitters
+    - 1 TSP Cinnamon Bark Syrup
+    - 0.75 OZ Lemon juice
+    - 0.25 OZ Maple syrup (grade B)
+    - 0.5 OZ Banana Syrup
+    - 0.5 OZ Alvear Pale Cream Sherry
+    - 1.5 OZ Sesame-Infused Powers Gold Irish Whiskey
+    - "Garnish: nutmeg"
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Beat the Drag
+    author: Jillian Vose
+    notes: "Our guests often want something spicy, something American whiskey and something bitter. This is an attempt to making sense of that, using flavor combinations I know work well: vanilla, amaro and raspberry. Add some heat and a spicy rye - and we’re in business."
+    glassware: nick & nora
+    ingredients:
+    - 2 DASHES Bittermens Hopped Grapefruit Bitters
+    - 0.75 OZ Amaro Nardini
+    - 0.25 OZ Vanilla Syrup
+    - 0.5 OZ Jean-Luc Pasquet Marie-Framboise
+    - 0.5 OZ Arbol Chili-Infused Old Forester
+    - 1.5 OZ Rittenhouse Rye Whiskey
+    - "Garnish: orange twist, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+  - name: Bachelor Pad
+    author: Jillian Vose
+    notes: This drink was inspired by Gregory's Eidolon. It was such a hit, we needed to create something within the same realm for the new menu. I kept the template of his Army & Navy riff and changed out the sweetener and the liqueur. It worked out great.
+    glassware: punch glass
+    ingredients:
+    - 1 Egg white
+    - 0.75 OZ Lemon juice
+    - 0.75 OZ Poppy Seed Syrup
+    - 0.5 OZ Combier Crème de Pamplemousse Rose Liqueur
+    - 0.5 OZ Alvear Pale Cream Sherry
+    - 2 OZ Botanist Gin
+    - "Garnish: lemon peel, expressed and discarded"
+    steps:
+    - Dry shake.
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Tom, Dick and Harry
+    author: Jillian Vose
+    notes: This was flavor-drive, focused on the strawberry, rhubarb and hibiscus combination. It seemed the perfect setting for a vodka drink. Adding the bell pepper and pisco perked it up and added a floral note. It was a great way to introduce pisco to the vodka drinker as well - which was a gateway to try new drinks.
+    glassware: sour glass
+    ingredients:
+    - 2 DASHES Bittermens Burlesque Bitters
+    - 0.75 OZ Lime juice
+    - 0.5 OZ Red bell pepper juice
+    - 0.25 OZ Fennel Syrup
+    - 0.25 OZ Rhubarb Syrup
+    - 0.5 OZ Strawberry Syrup
+    - 0.5 OZ Waqar Pisco
+    - 1.5 OZ Ketel One Vodka
+    steps:
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Coup d'Etat
+    author: Gregory Buda
+    notes: I was very excited about the new Novo Fogo Tanager Cachaça - aged in Zebrawood casks and bursting with cinnamon and clove notes. The Coup d’Etat is an Old Fashioned-style drink designed to showcase this beautiful spirit.
+    glassware: rocks
+    ingredients:
+    - 0.25 OZ Cinnamon Bark Syrup
+    - 0.25 OZ Amaro Nonino
+    - 0.25 OZ Yellow Chartreuse
+    - 0.5 OZ Noilly Prat Ambré Vermouth
+    - 1 OZ Novo Fogo Tanager Cachaça
+    - 1 OZ Rémy Martin 1738 Cognac
+    - "Garnish: orange peel, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve over a large block of ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - old-fashioned
+  - name: Pale Rider
+    author: Jessica Friedman
+    notes: I love fizzes but sometimes they can be too rich, so I went with coconut milk to make it healthier and a bit more delicate. Coconut makes me think of bourbon barrels, so I created this cocktail around the flavors that you would find there.
+    glassware: highball
+    ingredients:
+    - 1 Egg white
+    - 1 DASH Dale DeGroff’s Pimento Bitters
+    - 2 DASHES Dill Syrup
+    - 0.75 OZ Lemon juice
+    - 0.5 OZ Caramel Cane Syrup
+    - 0.5 OZ Vanilla Syrup
+    - 0.75 OZ Coconut milk
+    - 0.5 OZ Giffard Banane du Brésil
+    - 0.5 OZ Blume Marillen Apricot Eau-de-Vie
+    - 1.5 OZ Old Forester 100 Proof Bourbon
+    - 1.5 OZ Soda water (not to be shaken with other ingredients)
+    - "Garnish: nutmeg"
+    steps:
+    - Dry shake.
+    - Long shake with ice.
+    - Add soda water to the glass and Fine-strain.
+    - Serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Beauty Parlor
+    author: Jillian Vose
+    notes: I had a Sazerac in London that was the best I'd ever had. So I set out to make a variation I thought was even better. The Sazerac template is still the same, with the addition of the dark Jamaican rum blend and cacao.
+    glassware: rocks
+    ingredients:
+    - 2 Lemon coins
+    - 1 DASH Bitter Truth Aromatic Bitters
+    - 4 DASHES Peychaud’s Bitters
+    - 1 TSP Cane Syrup
+    - 1 TSP Giffard Crème de Cacao (white)
+    - 1 TSP Dead Rabbit Jamaican Rum Blend
+    - 1 OZ Rémy Martin 1738 Cognac
+    - 1 OZ Torres 15 Year Spanish Brandy
+    - Absinthe to aromatize glass (not to be mixed in drink)
+    steps:
+    - Build drink.
+    - Express lemon oil and drop lemon coins in mixing glass.
+    - Stir with ice.
+    - Aromatize small rocks glass with absinthe.
+    - Strain with julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - sazerac
+  - name: Baby Boomer
+    author: Jillian Vose
+    notes: Virgil Kaine rye was the base inspiration. This has an intensity from its high rye mash bill and 45.5 ABV, so I had to really think about how to balance that out. The citrus, spice and notes of banana and berries made me think of the blueberry component. I now had the basic flavor profile. To modify it to be complex, I thought of Becherovka - a Czech herbal liqueur with a dominant cinnamon note. It needed to be boozier to hit the manhattan style I was after, but more rye made it too hot. I rounded it out with armagnac - yet another split base.
+    glassware: nick & nora
+    ingredients:
+    - 1 DASH Bitter Truth Aromatic Bitters
+    - 1 TSP Blueberry Cane Syrup
+    - 0.25 OZ Becherovka
+    - 1 OZ Ancho Chili-Infused Sweet Vermouth
+    - 0.5 OZ Tariquet VS Classique Bas-Armagnac
+    - 1.5 OZ Virgil Kaine Robber Baron Rye Whiskey
+    - "Garnish: orange twist, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - manhattan
+  - name: Song and Dance
+    author: Harrison Ginsberg
+    notes: Shiso is so aromatic and herbaceous that I really wanted to highlight it in a bright clean cocktail. I infused the shiso into dry vermouth and added some green tea-infused London dry gin as a base. I then added fennel and yuzu, rounding everything out with cucumber and lime juice. A dash of eucalyptus really ties everything together.
+    glassware: nog glass
+    ingredients:
+    - 1 DASH Eucalyptus Tincture
+    - 1 TSP Yuzu Cane Syrup
+    - 0.5 OZ Lime juice
+    - 0.25 OZ Cucumber juice
+    - 0.5 OZ Fennel Syrup
+    - 1 OZ Green Tea-Infused Tanqueray
+    - 1.5 OZ Shiso Dry Vermouth
+    steps:
+    - Whip shake with 15 pieces of pebble ice until ice has melted.
+    - Serve with pebble ice.
+    - Top with pebble ice until it's like a snowcone on top.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Pay As You Go
+    author: Jessica Friedman
+    notes: Guests ask for Amaretto Sours pretty often, but I wanted to make something different, but still appealing to the Amaretto Sour drinker. I looked at flavors that would pair well with the amaretto while still making it the star of the show...
+    glassware: punch glass
+    ingredients:
+    - 1 Egg white
+    - 2 DASHES Bitter Truth Aromatic Bitters
+    - 0.5 TSP Zucca Rabarbaro
+    - 1 TSP Blueberry Cane Syrup
+    - 0.75 OZ Lemon juice
+    - 0.5 OZ Lemon Sherbet
+    - 0.5 OZ Caffo Amaretto
+    - 0.5 OZ Pierre Ferrand Pineau des Charentes
+    - 0.25 OZ Blume Marillen Apricot Eau-de-Vie
+    - 1 OZ Torres 15 Year Spanish Brandy
+    - "Garnish: lemon twist, expressed and discarded"
+    steps:
+    - Dry shake.
+    - Shake with ice.
+    - Fine-strain and serve up without ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - shaken
+    - citrus
+  - name: Snap Decision
+    author: Gregory Buda
+    notes: "This Old Fashioned variation was designed around an amazing product that I bought to cook with at home: Stony Brook Butternut Squash seed oil. I wanted to use it as a fat wash in a drink, and selected single pot still Irish Whiskey as a good spirit to try, as it is complex enough to be interesting but soft enough to let the squash shine through. The rest of the ingredients were chosen to complement the butternut squash - apricot, orange, herbs and baking spice - all of which pair nicely with this squash in my kitchen."
+    glassware: rocks
+    ingredients:
+    - 2 DASHES House Cardamom Bitters
+    - 1 TSP Yellow Chartreuse
+    - 0.5 TSP Combier Liqueur d’Orange
+    - 0.25 OZ Dried Apricot Syrup
+    - 0.25 OZ Cocchi Americano
+    - 2 OZ Butternut Squash Seed Oil-Washed Powers Signature
+    - "Garnish: lemon twist, expressed and discarded"
+    steps:
+    - Stir with ice.
+    - Strain with julep strainer and serve over large block of ice.
+    tags:
+    - the dead rabbit
+    - the dead rabbit mixology & mayhem
+    - stirred
+    - old-fashioned

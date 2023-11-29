@@ -1,0 +1,302 @@
+source: "Death & Co."
+recipes:
+
+#
+  - name: Wizard in Black (Single Serving)
+    author: Jake Powell
+    url: https://www.deathandcompanymarket.com/blogs/recipes/wizard-in-black
+    year: 2022
+    notes: "“This is by far my favorite cocktail I’ve ever written, and it was very selfishly made for my personal taste. I moved to Colorado from South Florida, and I wanted to write an old-fashioned variation that reminded me of home. The cold brew and banana liqueur were inspired by Cuban coffee and sweet plantains, and they both pair really well with Ron Zacapa.This drink is perfect to make at home, because it’s actually written as a Freezer Bar pour. Normally when you stir a cocktail, the dilution from the melted ice is part of what balances the drink. For the Wizard, we measured out how much water we were getting from ice, then used cold brew instead of water for the dilution—almost like you’re stirring the drink over frozen coffee ice cubes. The best way to make this drink is to batch a whole bottle to keep in your freezer, then just pour some over ice whenever you want a drink.” —JP"
+    glassware: double rocks
+    ingredients:
+    - 1½ ounces Ron Zacapa 23 Solera rum
+    - ½ ounce cold brew concentrate
+    - ¼ ounce Punt e Mes
+    - 1 teaspoon Tempus Fugit Crème de Banane
+    - ½ teaspoon Demerara Syrup
+    - 2 dashes Angostura bitters
+    - 2 dashes (or 20 drops) Salt Solution
+    - "Garnish: 1 orange twist"
+    steps:
+    - Stir all the ingredients over ice, then strain into a double old-fashioned glass over 1 large ice cube. 
+    - Express the orange twist over the drink, then add it to the glass.
+    tags:
+    - stirred
+    - old-fashioned
+    - caffeinated
+    - freezer bar
+    - death & co
+  - name: Wizard in Black (Batched)
+    author: Jake Powell
+    url: https://www.deathandcompanymarket.com/blogs/recipes/wizard-in-black
+    year: 2022
+    notes: "“This is by far my favorite cocktail I’ve ever written, and it was very selfishly made for my personal taste. I moved to Colorado from South Florida, and I wanted to write an old-fashioned variation that reminded me of home. The cold brew and banana liqueur were inspired by Cuban coffee and sweet plantains, and they both pair really well with Ron Zacapa.This drink is perfect to make at home, because it’s actually written as a Freezer Bar pour. Normally when you stir a cocktail, the dilution from the melted ice is part of what balances the drink. For the Wizard, we measured out how much water we were getting from ice, then used cold brew instead of water for the dilution—almost like you’re stirring the drink over frozen coffee ice cubes. The best way to make this drink is to batch a whole bottle to keep in your freezer, then just pour some over ice whenever you want a drink.” —JP"
+    glassware: double rocks
+    ingredients:
+    - 15 ounces Ron Zacapa 23 Solera rum
+    - 5 ounces strong cold brew (Adjust for your taste, but I use 2:1 cold brew concentrate to water, or sometimes straight cold brew concentrate at home.)
+    - 2½ ounces Punt e Mes
+    - 1½ ounces Tempus Fugit Crème de Banane
+    - ¾ ounce Demerara Syrup
+    - 1 teaspoon Angostura Bitters
+    - 1 pinch of salt
+    steps:
+    - Pour into a double old-fashioned glass over 1 large ice cube. Express the orange twist over the drink, then add it to the glass.
+    tags:
+    - stirred
+    - old-fashioned
+    - caffeinated
+    - freezer bar
+    - death & co
+  - name: Necromancer
+    author: Javelle Taft
+    url: https://www.deathandcompanymarket.com/blogs/recipes/necromancer
+    year: 
+    notes: "This drink lands in my top five most-unconventional cocktails that I’ve developed. My intention was to create a drink utilizing ingredients grown in Mexico that are evocative of the terroir where mezcal is produced: cooked agave, bitter fruit (rhubarb) and orchard fruit (apple). The result is a bittersweet, somewhat morbidly named, apple- and rhubarb-flavored Negroni riff utilizing two uncommon bitters. Cardamaro (cardoon amaro) is a wine-based amaro that replaces the traditional sweet vermouth, while Amaro Zucca (rhubarb) stands in for Campari. Cyril Zangs' amazing apple cider eau-de-vie adds a nice juicy bite to the cocktail, and Del Maguey Chichicapa mezcal offers tropical notes and a smoky finish. It's cocktails like this that inspire me to keep pushing boundaries."
+    glassware: double rocks
+    ingredients:
+    - 1 ounce Del Amigo mezcal
+    - ¼ ounce Del Maguey Chichicapa mezcal
+    - ¼ ounce Cyril Zangs 00 apple cider eau-de-vie
+    - ¾ ounce Cardamaro
+    - ½ ounce Amaro Zucca
+    - "Garnish: 1 apple fan"
+    steps:
+    - Stir all the ingredients over ice, then strain into a double old-fashioned glass over 1 large ice cube. 
+    - Garnish with the apple fan.
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+    - freezer bar
+  - name: Winnebago
+    author: Dave Anderson
+    year: 2021
+    url: https://www.deathandcompanymarket.com/blogs/recipes/winnebago
+    notes: This variation on Sam Ross’s iconic Penicillin cocktail splits the modern classic’s base spirit (blended scotch) with a funky Jamaican rum and adds a touch of créme de cacao to round out the spicy ginger syrup. In addition to adding aromatics to the drink, the garnish uses two bitters, styled in a “W” as a nod to the cocktail’s namesake RV.
+    glassware: coupe
+    ingredients:
+    - 1 ounce Arran 10-year single malt Scotch
+    - 1 ounce Appleton 15-year Jamaican rum
+    - Scant ½ ounce ginger syrup
+    - Scant ½ ounce honey syrup
+    - 1 teaspoon Giffard white créme de cacao
+    - 1 egg white
+    - "Garnish: Bittermens Xocolatl mole bitters and Angostura bitters"
+    steps:
+    - Dry shake all the ingredients, then shake again with ice. 
+    - Double strain into a coupe. 
+    - Dash the top of the drink with two parallel lines of bitters, then draw the tip of a toothpick across the lines to make a “W” shape.
+    tags:
+    - death & co
+    - shaken
+    - peaty
+  - name: Mr. Fantasy
+    author: Edwin Rios
+    year: 2022
+    url: https://www.deathandcompanymarket.com/blogs/recipes/mr-fantasy
+    notes: For this white negroni variation, Death & Co LA’s Edwin Rios wanted to combine the flavors of various corn-based dishes—including esquites, masa, champurado, and atole—that he grew up with while reimagining the flavors or huitlacoche, the tasty fungus that grows on corn cobs. The drink’s bright, unmistakably corn-y flavor comes from Nixta Licor de Elote, a complex, sweet-savory liqueur made with a combination of raw, roasted, and nixtamalized corn. After many rounds of iteration—the drink was originally a boulevardier riff using bourbon, amaro, and Nixta—Edwin landed on the marriage of reposado tequila, Salers Gentian Apéritif, and a touch of mezcal, with a dash of spice-forward Moroccan bitters to bind all of the flavors together.
+    glassware: double rocks
+    ingredients:
+    - 1 ounce Cimarron reposado tequila
+    - ¾ ounce Salers Gentian Apéritif
+    - ¾ ounce Nixta Licor de Elote
+    - ½ ounce Legendario Domingo Guerrero Mezcal
+    - 1 dash Bitter End Moroccan Bitters
+    - "Garnish: 1 orange twist"
+    steps:
+    - Stir all the ingredients with ice, then strain into a double old-fashioned glass over 1 large ice cube. 
+    - Garnish with the orange twist.
+    tags:
+    - death & co
+    - stirred
+    - freezer bar
+    - negroni
+  - name: Cloak & Dagger
+    author: Matthew Belanger
+    year: 2021
+    url: https://www.deathandcompanymarket.com/blogs/recipes/cloak-and-dagger
+    notes: "The flavor of this cocktail was very much inspired by tasting Empirical Spirits habanero spirit (also known as “F*ck Trump and his Stupid F*cking Wall”). It’s a pretty interesting expression of habanero because the heat doesn’t survive the distillation process, so all you’re left with is this intense, floral fruitiness that you don’t normally notice in habaneros (because your mouth is too busy getting scorched by the capsaicin). Anyway, not too long after tasting that spirit I had the idea of habanero + peaches + bourbon in an old-fashioned template. I think I wrote the original spec down in 2019 or 2020, but it didn’t really line up with what we needed on our menu until 2021. The drink basically wrote itself after that; I think I tried one or two configurations before I found one that I liked: high-proof bourbon for structure, a little mezcal for some smoke (and because it made it a no-brainer order for our guests), and the combo of habanero spirit and crème de pêche bringing fruit but also a weird savory acidity. It was a top seller on that menu."
+    glassware: double rocks
+    ingredients:
+    - 1 ounce Stellum x Death & Co Dark Matter Bourbon (This special bourbon was a collaboration between us and Stellum Spirits. Any high-rye, (ideally) cask-strength bourbon will make a good substitute.)
+    - ¾ ounce Empirical Spirits Habanero
+    - ¼ ounce Mal Bien mezcal
+    - ½ teaspoon Giffard Crème de Pêche
+    - 1 teaspoon Cane Sugar Syrup (2:1 cane sugar to water)
+    - 1 dash Angostura bitters
+    - 1 dash Bittermens Hopped Grapefruit Bitters
+    - "Garnish: 1 lemon coin"
+    steps:
+    - Stir all the ingredients with ice, then strain into a single old-fashioned glass over 1 large ice cube. 
+    - Express the lemon coin over the drink, then place it in the drink.
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+    - freezer bar
+  - name: Tunnel Vision
+    author: Mike Perez
+    year: 2022
+    url: https://www.deathandcompanymarket.com/blogs/recipes/tunnel-vision
+    notes: "This drink was based on a past cocktail that my friend Edder Garcia and I worked on in 2018 at a bar called Sonny’s Hideaway. Together, we came up with the concept of combining carrot and coconut which unmistakably tastes like one of my favorite desserts: carrot cake! For the Tunnel Vision, I took that same concept and applied it towards a take on a piña colada. As the base spirit, Linie Aquavit lends its profile of caraway, anise, and vanilla to match with the earthiness of the carrot, and just a quarter ounce of Reisetbauer Carrot eau de vie can go a long way to ensure the carrot doesn’t get lost in the mix. It wouldn’t feel right to make a piña colada without a little bit of rum, so Probitas blended white rum ensures that it ties back to the classic. Lastly, a touch of acidity from lemon juice is the key to balancing the cocktail’s structure. The drink’s name is a play on how carrots are (supposedly) good for your vision."
+    glassware: tulip
+    ingredients:
+    - 1¼ ounces Linie Aquavit
+    - ½ ounce Probitas blended white rum
+    - ¼ ounce Reisetbauer Carrot eau de vie
+    - 1½ ounces fresh carrot juice
+    - ¾ ounce Coco Lopez
+    - ½ ounce fresh lemon juice
+    - "Garnish: 1 mint bouquet"
+    steps:
+    - Short shake all of the ingredients with 3 ice cubes, then strain into a tulip glass and fill with crushed ice. 
+    - Garnish with the mint bouquet and a straw.
+    tags:
+    - death & co
+    - shaken
+    - citrus
+    - tiki
+  - name: Majin Buu
+    author: Marc Rizzuto
+    year: 2021
+    url: https://www.deathandcompanymarket.com/blogs/recipes/majin-buu
+    notes: "The Majin Buu came out of repeated requests for a bitter, herbal, gin-based drink at the bar. Working off the Mai Tai template, I chose navy-strength Four Pillars gin for its bright citrus tones and proofiness, while the Amaro Meletti brings in some chocolate and cola notes. Donn’s Mix is simply grapefruit juice and cinnamon syrup, which brings some bittersweet notes that play nicely with the citrus and chocolate-cola profile. The drink’s name comes from the Dragon Ball manga series: Maijin Buu is a pink genie who transforms living things into chocolate, then eats them."
+    glassware: tulip
+    ingredients:
+    - 1 ounce Four Pillars navy-strength gin
+    - 1 ounce Amaro Meletti
+    - "1 ounce Donn's Mix #1"
+    - ½ ounce fresh lime juice
+    - ½ ounce Cane Sugar Syrup
+    - 2 dashes Bittermens Elemakule Tiki Bitters
+    - "Garnish: 1 grapefruit wheel and 1 mint sprig"
+    steps:
+    - ​​Combine all the ingredients in a shaker and whip, shaking with a few pieces of crushed ice, just until incorporated. 
+    - Dump into a tulip glass and fill the glass with crushed ice. 
+    - Garnish with the grapefruit wheel and mint sprig and serve with a straw.
+    tags:
+    - death & co
+    - shaken
+    - citrus
+    - tiki
+  - name: View of Toledo
+    author: Thomas Eslinger
+    year: 2022
+    url: https://www.deathandcompanymarket.com/blogs/recipes/view-of-toledo
+    notes: “My goal with this drink was to create a savory Negroni by skipping the typical orange and grapefruit citrus pops that can become a crutch when creating bitter, stirred aperitivos. The flavors are centered around the idea of an olive brine with the Olive Leaf gin, fennel from the Finocchietto and balsam fir and rosemary notes from the Bruto Americano. All combining to make a herbaceous, savory and unexpected Negroni variation.” —TE
+    glassware: double rocks
+    ingredients:
+    - 1½ ounces Four Pillars Olive Leaf Gin
+    - 1 ounce Tximista Vermouth Blanco
+    - ¾ ounce St. George Spirits Bruto Americano
+    - 1 teaspoon Il Gusto de Amalfi Finocchietto Liqueur
+    - "Garnish: 1 olive"
+    steps:
+    - Stir all the ingredients over ice, then strain into a double old-fashioned glass over 1 large ice cube. 
+    - Garnish with the olive.
+    tags:
+    - death & co
+    - stirred
+    - negroni
+    - freezer bar
+  - name: Fleur Noire Highball
+    author: Tyson Buhler
+    year: 2022
+    url: https://www.deathandcompanymarket.com/blogs/recipes/fleur-noire-highball
+    notes: "Tyson Buhler, Death & Co’s National Director of Food & Beverage, created this to celebrate the launch of our collaboration with Art of Tea: Fleur Noire, a rose- and apple-enhanced Pu-erh blend. Delivering the flavors of this soul-warming tea to a cocktail takes a couple of simple preparatory steps: first, you make a syrup from steeped tea and sugar, then add a trio of acids to convert the syrup into a cordial. Equal parts cordial and apple brandy, lengthened with cold seltzer (please chill your seltzer!) results in a complex, refreshing, sweater-season-appropriate highball." 
+    glassware: highball
+    ingredients:
+    - 1½ ounces Clear Creek 8-Year Apple Brandy 
+    - 1½ ounces Fleur Noir Cordial
+    - 4 ounces cold seltzer
+    - "Garnish: 1 lemon wedge"
+    steps:
+    - Combine all of the ingredients except the seltzer in a collins glass, then fill the glass with ice cubes. 
+    - Top with the seltzer and stir once. Garnish with the lemon wedge.
+    tags:
+    - death & co
+    - stirred
+  - name: Dance Yrself Clean
+    author: Jarred Weigand
+    year: 2019
+    url: https://www.deathandcompanymarket.com/blogs/recipes/dance-yrself-clean
+    notes: “There was a tropical drink on our previous menu that featured aquavit and Jamaican rum, and I enjoyed that pairing. I wanted to create some sort of Negroni variation and figured it would work because of the popularity of Joaquin Simo’s Kingston Negroni and the affinity between Jamaican rum and aquavit. But the drink needed another hook. I always enjoyed peanut butter on rye bread, with the nuttiness and caraway being a good dynamic, so I fat-washed the aquavit with peanut butter. Once the drink was spec’d out it just needed something to make the flavors pop, and a bit of banana liqueur did the trick. As far as the name goes, I was into playing LCD Soundsystem at the bar a lot and this song title felt like a fun name for a cocktail. Its ingredients were a little bit out there, and sometimes a good name can help sell a drink that people might otherwise be unsure of based on the ingredients alone.” -JW
+    glassware: double rocks
+    ingredients:
+    - 1¼ ounces Peanut Butter-Infused Linie Aquavit
+    - ¼ ounce Smith & Cross Jamaican rum 
+    - ¾ ounce Carpano Antica vermouth
+    - ½ ounce Campari 
+    - 1 teaspoon Giffard Banana liqueur 
+    steps:
+    - Stir all the ingredients with ice, then strain into a double old-fashioned glass over 1 large ice cube. No garnish.
+    tags:
+    - death & co
+    - stirred
+    - negroni
+    - freezer bar
+  - name: Hungry Ghost
+    author: Dave Anderson
+    year: 2021
+    url: https://www.deathandcompanymarket.com/blogs/recipes/hungry-ghost
+    notes: "The inspiration for this drink came to me when I was watching 'Roadrunner,' the Anthony Bourdain biopic. In the movie, there’s a clip of his very first episode of his early travel show. While visiting Japan, Tony refers to himself as a 'lost and hungry ghost,' which set the stage for the rest of the drink. Each element was chosen to represent his legacy and career in a respectful way, as a sort of tribute cocktail. The base is blended Japanese whisky (a nod to where it all started) along with Laird’s apple brandy (both Bourdain and Laird’s are from New Jersey), with a touch of peaty Islay whisky (because he very publicly loved a good smoke). And the honey, herbal génépy liqueur and absinthe rinse all point to the French influence that Tony carried through his early days as a chef and in his later days, when he spent much of his time in France. This Sazerac riff definitely has the most convoluted story of anything I’ve created, but the end result comes together perfectly. —DA"
+    glassware: 
+    ingredients:
+    - Absinthe
+    - 1 ounce Sunday’s Whisky 
+    - ¾ ounce Laird's Bonded Apple Brandy 
+    - ¼ ounce Bruichladdich Port Charlotte Islay Single-Malt whisky
+    - 1 teaspoon Honey Syrup
+    - ½ teaspoon Dolin Génépy Le Chamois liqueur
+    - 2 dashes orange bitters
+    - "Garnish: 1 lemon twist" 
+    steps:
+    - Rinse a single old-fashioned glass with absinthe and dump. Stir the remaining ingredients over ice, then strain into the glass. 
+    - Express the lemon twist over the drink and discard.
+    tags:
+    - death & co
+    - sazerac
+    - stirred
+  - name: Forefather
+    author: Evan Flynn
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/forefather
+    notes: "This cocktail came from trying to meet a deadline and my friend and 'work dad' Scott Key (a manager at Death & Co Denver) helping me into the wee hours of the morning with the drink development. My assignment was to make a simple, spirituous after-dinner drink. Scott grabbed two favorite after-dinner nips (Bénédictine and Grand Marnier), I love the former with brandy as a nightcap, as does my biological father. Apple brandy—both the robust juiciness of Laird’s and the floral, more nuanced Calvados—bridged the two liqueurs together perfectly, with mole bitters coming in with some complex spice notes. It was 7am and our morning kitchen staff was arriving by the time we finished, but we had a blast and my drink was green-lit on the first try, which made us both proud—and extremely hungover. -EF"
+    glassware: double rocks
+    ingredients:
+    - 1 ounce Laird’s Bonded Apple Brandy
+    - 1 ounce Roger Groult Reserve Calvados
+    - ½ ounce Grand Marnier
+    - ½ ounce Bénédictine
+    - 2 dashes Bittermen’s Mole Bitters
+    - "Garnish: 1 lemon twist"
+    steps:
+    - Stir all the ingredients over ice, then strain into a single old-fashioned glass over 1 large ice cube. 
+    - Express the lemon twist over the drink and discard.
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+    - freezer bar
+  - name: Desert Bloom
+    author: Jake Powell
+    year: 2023
+    url: 
+    notes: Using a mezcal with less smoke works best. Del Maguey’s Arroqueño is a little pricey, but my favorite for this drink. It’s got tons of pear and white flower flavors.
+    glassware: nick & nora
+    ingredients:
+    - 0.75 oz mezcal
+    - 0.5 oz Raicilla 
+    - 0.25 oz Clear Creek Pear Brandy
+    - 0.75 oz Blanc Vermouth
+    - 0.75 oz White Port
+    - 2 dashes Orange Bitters
+    - "Garnish: grapefruit twist"
+    steps:
+    - Stir over ice and strain into a Nick & Nora.
+    - Express a grapefruit twist over it and garnish.
+    tags:
+    - death & co
+    - stirred
+    - freezer bar

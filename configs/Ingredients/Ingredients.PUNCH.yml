@@ -1153,9 +1153,219 @@ recipes:
     - 1 part maple syrup
   steps:
     - Combine all of the ingredients and stir to integrate.
-- name: 
+- name: Grapefruit Cinnamon Syrup
   notes:
   ingredients:
-    - 
+    - 250 grams simple syrup
+    - 5 grams Vietnamese cinnamon, crushed
+    - 125 grams grapefruit juice, freshly squeezed and strained
+    - 125 grams cane sugar
+    - 1.25 grams citric acid
   steps:
-    - 
+    - Combine the simple syrup and cinnamon and let sit overnight. 
+    - Strain out the solids. 
+    - Combine the grapefruit juice, cane sugar and citric acid and stir until sugar and acid are completely dissolved. 
+    - Combine the cinnamon simple syrup and grapefruit juice cordial and pour into a sealable container. 
+    - Store in the refrigerator.
+- name: Chile Oil-Washed Blanco Tequila
+  notes:
+  ingredients:
+    - 3 ounces chile oil
+    - 1 broken dried puya chile (optional)
+    - 1 broken dried Thai chile
+    - 1 liter of blanco tequila
+  steps:
+    - Combine the chile oil, puya chile, Thai chile and blanco tequila in a container. 
+    - (For a simpler chile oil wash, simply combine chile oil and tequila.) 
+    - Let sit at room temperature for 2 hours while stirring occasionally. 
+    - Freeze for 24 hours so that the chile oil freezes solid. 
+    - Strain the solids from the tequila, then bottle.
+- name: Champagne Syrup
+  notes:
+  ingredients:
+    - 3 parts sugar
+    - 2 parts flat Champagne
+  steps:
+    - To make the Champagne syrup, mix 3 parts sugar to 2 parts flat Champagne. Agitate to mix (do not heat).
+- name: Milk-Washed Jasmine-Rhum
+  notes:
+  ingredients:
+    - 20g organic jasmine green tea pearls
+    - 1L rhum agricole, preferably Barbancourt Rhum Blanc
+    - 250ml room temperature whole milk
+    - 15ml citric acid, 15 percent solution
+  steps:
+    - Combine the tea and rhum and stir to integrate. 
+    - Let sit at room temperature for three hours then fine strain into a container. 
+    - Add the milk and whisk gently then let the mixture sit for 15 minutes. 
+    - Add the citric acid solution, gently stirring to incorporate, until the milk begins to break. 
+    - Once there is a top layer of clear rhum, spin in a centrifuge. 
+    - Marry all the spun rhum in a single container before use.
+- name: Acid Adjusted Grapefruit
+  notes:
+  ingredients:
+    - 4g citric acid powder
+    - 100mL strained grapefruit juice
+  steps:
+    - In a small container, combine all ingredients and stir to combine.
+- name: Pineapple Syrup
+  notes:
+  ingredients:
+    - organic cane sugar
+    - fresh pineapple juice
+  steps:
+    - Add organic cane sugar to fresh pineapple juice until it measures 50 Brix on a refractometer.
+- name: Milk-Washed Rum
+  notes:
+  ingredients:
+    - 1000 milliliters white rum
+    - 250 milliliters whole milk
+    - 15 milliliters 15% citric acid solution
+  steps:
+    - Slowly add rum to the milk, whisking gently to combine. 
+    - Let sit for 15 minutes. 
+    - Add the citric acid solution while whisking gently. 
+    - Once the milk curdles and clearly separates, spin in a centrifuge or strain through a coffee filter. 
+    - This process will be identical for any spirit.
+- name: 15% Citric Acid Solution
+  notes:
+  ingredients:
+    - 15 grams citric acid
+    - 85 grams water
+  steps:
+    - Add to a container and stir to dissolve.
+- name: Pineapple Syrup
+  notes:
+  ingredients:
+    - 500 grams pineapple juice
+    - 360 grams sugar
+    - 2 grams citric acid  
+  steps:
+    - Add all ingredients to a container and stir to dissolve.
+- name: Acid-Adjusted Orange Juice
+  notes:
+  ingredients:
+    - 500 milliliters orange juice
+    - 16 grams citric acid
+    - 10 grams malic acid
+  steps:
+    - Combine all ingredients.
+- name: Saline Solution
+  notes:
+  ingredients:
+    - 20 grams salt
+    - 80 grams water
+  steps:
+    - Add to a container and stir to dissolve. 
+    - Store in a dropper bottle indefinitely.
+- name: Milk-Washed Second Flush Darjeeling-Infused Vodka
+  notes:
+  ingredients:
+    - 1000 milliliters Vodka
+    - 20 grams second flush Darjeeling tea
+    - 250 milliliters milk
+    - 15 milliliters 15% citric acid solution  
+  steps:
+    - Combine tea and vodka and let sit for an hour, stirring regularly. 
+    - Once the vodka is dark and deeply infused, strain off the tea leaves. 
+    - Slowly add tea-infusede vodka to the milk, whisking gently to combine. 
+    - Let sit for 15 minutes. 
+    - Add the citric acid solution while whisking gently. 
+    - Once the milk curdles and clearly separates, spin in a centrifuge or strain through a coffee filter.
+- name: Honey Syrup
+  notes: Intended for Dave Arnold's "Tee Time."
+  ingredients:
+    - 1000 grams honey
+    - 640 grams hot water
+  steps:
+    - Combine and stir to dissolve.
+- name: Gardenia Mix
+  notes: For Khali's Coffee Grog.
+  ingredients:
+    - 350 grams water
+    - 12 grams Chinese cassia bark, crushed
+    - 12 grams Ceylon cinnamon, crushed
+    - 1.5 grams allspice, whole
+    - 2.5 grams Tahitian vanilla bean, minced
+    - 150 grams butter, unsalted
+    - 150 grams butter, salted
+    - 2.7 grams gum arabic, powdered
+    - 0.4 grams xanthan gum
+    - 300 grams acacia honey
+    - 18 grams raw cane sugar
+    - 16 grams Dale DeGroff’s Pimento Bitters
+  steps:
+    - Combine the water, cassia, cinnamon and allspice in a saucepan and heat to 195°F. Simmer gently for 5 minutes.
+    - Remove from the heat and add the vanilla bean; cover and steep for 10 minutes.
+    - In a separate saucepan (or a microwave), melt both butters over medium heat.
+    - Fine-strain the infused water to remove coarse spice solids.
+    - Use an immersion blender to incorporate both gums into the prepared water.
+    - Gradually add the melted butter, processing continuously with an immersion blender until emulsified.
+    - Gradually add the remaining ingredients, processing continuously with an immersion blender until incorporated. Pass through a fine strainer, then store refrigerated or frozen.
+- name: Jasmine Coconut Cream
+  notes: For Khali's Coffee Grog.
+  ingredients:
+    - 400 milliliters (1 can) Aroy-D coconut milk
+    - 375 grams (1 3/4 cups) white sugar
+    - 0.5 gram salt (1/8 teaspoon)
+    - 2 drops jasmine essential oil
+  steps:
+    - Combine all of the ingredients in a blender. Blend until the sugar has dissolved into solution.
+- name: Khali Cold-Brew Coffee
+  notes: For Khali's Coffee Grog.
+  ingredients:
+    - 4 ounces coarsely ground coffee beans, preferably Sweetleaf Roasters’ Cosa Nuestra
+    - 32 ounces water
+  steps:
+    - Coarsely grind the coffee beans to resemble cornmeal, rather than a fine powder.
+    - Transfer the grounds to a container. Pour water over them, then stir gently to make sure the grounds are saturated.
+    - Steep coffee for 12 hours.
+    - Strain the coffee through a coffee filter or cold-brew bag. Refrigerate.
+- name: Génépy Cream
+  notes: For the Strong Start.
+  ingredients:
+    - 1 ounce génépy, preferably Dolin Génépy des Alpes
+    - 3 ounces cold heavy cream
+    - 1 pinch salt
+  steps:
+    - Shake ingredients with a small amount of ice.
+- name: Acid-Adjusted Orange Juice
+  notes: For Run the Julius.
+  ingredients:
+    - 1 liter orange juice
+    - 20 grams malic acid
+    - 32 grams citric acid
+  steps:
+    - Combine.
+- name: Orange Cordial
+  notes: For Run the Julius.
+  ingredients:
+    - 7 parts strained orange juice
+    - 3 parts water
+    - sugar
+  steps:
+    - Combine the orange juice and water and then, in equal measure by volume, add white sugar and stir until dissolved.
+- name: Vanilla Syrup
+  notes: For the Fernet Ramos.
+  ingredients:
+    - 2 cups water
+    - 2 cups sugar
+    - 1 vanilla bean
+  steps:
+    - In a saucepan over high heat, stir together 2 cups of water and 2 cups of sugar until the sugar dissolves. Add one vanilla bean (split and scraped). Bring the mixture to a boil, then immediately remove the saucepan from the heat. Strain the mixture through a chinois and bottle. Makes 4 cups.
+- name: Orange Cordial
+  notes: For the Fernet Ramos.
+  ingredients:
+    - 3 oranges
+    - 1 1/4 cups sugar
+    - 2 cups orange juice
+    - 1/2 cup lemon juice
+  steps:
+    - Macerate peels from 3 oranges in 1 1/4 cups of sugar overnight. The next day, remove the orange peels. Combine the infused sugar with 2 cups of orange juice and a 1/2 cup of lemon juice and bottle. Makes about 3 3/4 cups.
+- name: Lime Scrap Cello
+  notes: For the Limonada Suiça Ramos.
+  ingredients:
+    - 250g lime peels
+    - 750 mL Everclear
+  steps:
+    - Combine 250 grams lime peels and 750 milliliters Everclear in a container. Cover and let sit for 1 week. Strain, then combine with 500 grams white sugar and heat until the sugar has dissolved. Remove from heat, strain, then bottle and refrigerate. Keeps indefinitely.

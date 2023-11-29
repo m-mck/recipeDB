@@ -3,14 +3,13 @@ recipes:
 
 #Agave
   - name: Margarita
-    author: 
     notes: "While many, many tequila cocktails are worthy of the same kind of reverence as the margarita, we can thank this Latin American classic for putting agave on the classic-cocktail map. And that it certainly has done: the margarita is arguably one of the most popular drinks of all time, poured the world over. Unfortunately, like everything popular, it’s easily butchered. (I’m looking at you, sour mix and cheap tequila!) Some bartenders also like to put an insane  amount of booze in their margaritas—as in three full ounces of 40 percent ABV spirit. I make mine less powerful and more balanced because I personally like to have a few of them at one sitting, because…they’re delicious! Made right, the margarita is the perfect harmony of agave, lime, and triple sec (and when it comes to the latter, I find there is absolutely no substitute for Cointreau)."
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1½ oz tequila of your choice
     - ¾ oz Cointreau
     - ¾ oz lime juice
-    - ¼ oz Simple Syrup (see this page)
+    - ¼ oz Simple Syrup
     - Lime wheel for garnish
     - Salt for garnish
     steps:
@@ -25,9 +24,8 @@ recipes:
     - shaken
     - citrus
   - name: Hail Mary
-    author: 
     notes: If you get the chance, you must go to the churchlike shrine of Siete Leguas’s new distillery in Jalisco. Stained-glass windows bathe the entire space with a warm glow, while horses circle languidly around tahonas, and gorgeous copper stills reflect the light. It’s like a cathedral, an art museum, and a traditional distillery all in one, and it’s absolutely breathtaking. This drink, for me, is the one to drink in such a place. I love bubbles, and I love riffing on sparkling-wine drinks. There are a lot of them out there; probably the best known is the French 75, to which I pay homage here. This drink takes its lead from the blanco tequila of Siete Leguas, with its rich fruit; I decided to add a touch of bittersweet Salers Aperitif to combat the sweeter fruit flavors and tie into the sparkling wine for a little more dryness.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz Siete Leguas Tequila Blanco
     - ¾ oz Salers Aperitif
@@ -48,14 +46,13 @@ recipes:
     - citrus
     - sparkling
   - name: Paloma
-    author: 
     notes: Traditionally, this classic Mexican cocktail is made with grapefruit soda—generally Squirt. (I also like mine made with the zesty Jamaican Ting.) But freshness is key at Leyenda, so we like to do ours the natural way, with fresh juices. It’s a drink that really comes alive. Try it with mezcal, try it with jalapeño-infused tequila—it’s good with just about anything!
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 oz tequila of your choice
     - ¾ oz lime juice
     - ¾ oz grapefruit juice
-    - ¾ oz Simple Syrup (see this page)
+    - ¾ oz Simple Syrup
     - Lime wheel for garnish
     - Salt for garnish
     - 1 oz club soda
@@ -71,9 +68,8 @@ recipes:
     - shaken
     - citrus
   - name: Cabezazo
-    author: 
     notes: On one infamous trip to Oaxaca, at one particular cantina, a group of us were playing dice in a corner when a man walked up to the bar, ordered a drink, and, when it came, suddenly headbutted the young bartender. He then left his drink on the bar and walked right out. The music didn’t even stop, and no one seemed to care or notice—except the bartender with his bloody nose. This drink, whose name means “headbutt,” is a tribute to that bizarre night.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 oz Jameson Black Barrel Irish Whiskey
     - ¾ oz Del Maguey Vida Mezcal
@@ -92,9 +88,8 @@ recipes:
     - "spirits of latin america: agave"
     - stirred
   - name: Tia Mia
-    author: 
     notes: Being a mezcal lover, I went through a phase where I tried floating mezcal on top of all sorts of different drinks. This drink is the first cocktail I ever put on one of Julie Reiner’s menus when I worked at Lani Kai in 2010. It continues to remain a staple on the menu at Leyenda. I started by floating an ounce of mezcal on top of my Mai Tai and then swapped out the funky rhum agricole we used in our recipe there altogether  by replacing it with the smoky and equally funky mezcal. The result was the Tia Mia, whose name is an anagram of its namesake (the mai tai) and an homage to my friend Catherine, my Tia de Alma (“spiritual aunt,” i.e., close, but not related by blood), who was my bar regular when I bartended in Guatemala.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 oz Del Maguey Chichicapa Mezcal
     - 1 oz Appleton Reserve Rum
@@ -116,7 +111,7 @@ recipes:
   - name: Ghost Coast
     author: Jesse Harris
     notes: Jesse Harris created this Leyenda classic as an homage to his home on the California coast, where eucalyptus trees line the beaches. The reposado tequila is given a punch-up with the higher-proof blanco tequila, providing the drink with a backbone to hold up the strong flavors within it. This one’s truly one of my all-time favorites.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 oz Tromba Reposado Tequila
     - ½ oz Tapatio 110 Tequila Blanco
@@ -140,7 +135,7 @@ recipes:
   - name: Capatáz
     author: Tom Macy  
     notes: Tom Macy, one of my business partners at Leyenda, created this drink. He was inspired by Del Maguey’s Santo Domingo de Albarradas mezcal, a rich and slightly bitter spirit with notes of super fruit and funk. Tom’s cocktail is structured almost like a Manhattan, with a blend of sherries in lieu of vermouth, Vida mezcal for backbone, a touch of Suze for bitterness, and banana liqueur for the fruit.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1¼ oz Del Maguey Vida Mezcal
     - 1¼ oz Cesar Florido Fino Sherry
@@ -162,7 +157,7 @@ recipes:
   - name: ¡Bola Bola!
     author: Ivy Mix
     notes: Of all my favorite bars in the world, few compare to Pare de Sufrir (literally meaning, “Stop Suffering”) in Guadalaja, Mexico, owned by agave specialist Pedro Jimenez Gurría. When you walk into this space, you’re immediately greeted by the sight of hipster Mexican youth dancing and drinking beers and an array of awesome Mexican distillates, particularly from their own state of Jalisco. Apart from the choice spirits, the best part of this bar is the disco ball in the middle of the room, which, rather than being motor-operated, has to be spun with a broom handle by the busy bartenders to get it going. Whenever it stops spinning—which it does many times a night—chants rise up of “Bola! Bola!” (literally meaning, “[disco] ball, [disco] ball!”). This drink features a particularly excellent agave spirit made by a secretive indigenous population in the hills between Jalisco and Durango. It’s a rare treat, really to be consumed neat and alone, with unique notes of apples, nuts, and bright vinegar. In honor of Pare de Sufrir, I decided to mix it up, just this once.
-    glassware: 
+    glassware: highball
     ingredients:
     - ¾ oz Mezonte Raicilla Tepe
     - ¾ oz Plantation Barbados 5-Year Rum
@@ -184,7 +179,7 @@ recipes:
   - name: Witching Hour
     author: Shannon Ponche
     notes: Sotol’s unusual, aggressive flavor profile can be even trickier to use than mezcal, and it usually requires a little hand-holding on the part of the bartender to introduce properly. Leyenda’s head bartender, Shannon Ponche went out on a limb when she created this delicious cocktail, combating the vegetal asparagus notes of the sotol with a bit of tamarind liqueur to make this savory treat.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1½ oz Sotol Por Siempre
     - ¾ oz Von Humboldt’s Tamarind Cordial
@@ -204,7 +199,7 @@ recipes:
   - name: Sinking Stone
     author: Ivy Mix
     notes: Frequently in the cocktail world, drinks imitate drinks imitate drinks—and this one is an adaptation of an adaptation of the Negroni. I liked the higher-proof mesquite notes of this particular espadin mezcal, and I wanted to heighten its slight bitterness and fruit notes. I elected to use a blend of rums and Spanish vermouth to accomplish this. This funky, earthy, bitter sipper brings in different fruit notes and a sweetness out of this complex mezcal.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1¼ oz Koch Espadin Mezcal
     - ½ oz Plantation Jamaican Rum
@@ -224,7 +219,7 @@ recipes:
   - name: Perennial Millennial
     author: Jesse Harris
     notes: This beautiful drink was created by Jesse Harris at Leyenda. Siete Leguas tequila has sweet, earthy notes that play up the rhubarb and vanilla, and the Chartreuse mellows it while the cardamom brings the acid back up. There’s quite a bit of prep for this drink with the rhubarb syrup, but the result is worth it!
-    glassware: 
+    glassware: pilsner
     ingredients:
     - 1¼ oz El Tesoro Tequila Blanco
     - ¼ oz Deniset-Klainguer Fraise des Bois
@@ -246,14 +241,13 @@ recipes:
     - stirred
     - citrus
   - name: Palo Negro
-    author: 
     notes: This is a great fall or winter slow-sipper that is rich and complex, celebrating the aged tequila and rich sherry. I created this drink to remember a particularly cool night I spent in the Tequila Valley, where we sipped reposado throughout “to keep warm.” The black-pepper notes of Partida tequila cut nicely into the nutty sweetness of the sherry, and the blackstrap rum acts as a bridge between them. Who says tequila is just a summer drink?
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 oz Partida Reposado Tequila
     - 1 oz Lustau Palo Cortado Sherry
     - ½ oz Cruzan Blackstrap Rum
-    - 1 tsp Demerara Syrup (see this page)
+    - 1 tsp Demerara Syrup
     - 1 tsp Grand Marnier
     - Orange twist for garnish
     steps:
@@ -263,10 +257,12 @@ recipes:
     - spirits of latin america
     - "spirits of latin america: agave"
     - stirred
+    - autumn
+    - winter
   - name: South Fence
     author: Ivy Mix
     notes: The drink’s name refers to the infamous wall that the forty-fifth president of the United States was so keen on building. With it, I took the classic Southside cocktail (made with gin and muddled mint and cucumber) and put a spin on it, using a little sherry to give nuance to the drink and help link the mezcal to the cucumber and jalapeño.
-    glassware: 
+    glassware: highball
     ingredients:
     - 4 slices cucumber
     - ¾ oz El Jolgorio Espadin Mezcal
@@ -290,7 +286,7 @@ recipes:
   - name: Say Anything
     author: Ivy Mix
     notes: I wanted to make the perfect romantic-comedy homage in a drink—a little sweet, a little bitter, and HOT. The inspiration for the Say Anything, a great little summer sipper, came about when I was doing a new menu tasting with the staff at Leyenda. As I was miming the classic moment in the movie of the same name, where John Cusack holds the boombox over his head, I suddenly realized that none of the young staff knew what I was talking about. Oh, youth!
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz jalapeño-infused Siembra Valles Blanco Tequila
     - ½ oz Novo Fogo Silver Cachaça
@@ -313,7 +309,7 @@ recipes:
   - name: Cereza Picante
     author: Ivy Mix
     notes: When making the road trip from the Tequila Valley to the highlands, I like to stop and get sweets to pair with the occasional taco, pulque, or nip of tequila. My favorite kind of sweet, if I can find them, are these spicy cherry lollipops sold by kids on the road, right next to their pulque-selling parents. I made this drink to remind me of those funky sour sweets and bring me back when I’m too far away!
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 oz jalapeño-infused Arette Blanco Tequila
     - ¾ oz Cherry Heering Liqueur
@@ -334,7 +330,7 @@ recipes:
   - name: Fíjate
     author: Ivy Mix
     notes: "Pechuga mezcals are so full and vibrant that they practically beg to be made into drinks—though frequently their cost prohibits that. Here, I wanted to indulge and create a cocktail that played on their unique fruity and gamey flavors. Tosba Pechuga is made with a turkey breast hung above the distillation with lots of wild apples and pineapples—all of which are grown on the distillery’s beautiful property in the misty mountains of northern Oaxaca. The apple aperitif acts like a fortified wine in the drink, and the Monk’s liqueur, which has a fantastic churchlike incense taste to it, reinforces the mezcal’s light smoke. Keep in mind: this recipe requires a longer infusion, so prep time is needed!"
-    glassware: 
+    glassware: rocks
     ingredients:
     - ¾ oz Tosba Pechuga Mezcal
     - ¾ oz Neversink Spirits Apple Aperitif
@@ -354,7 +350,7 @@ recipes:
   - name: Arinato
     author: Ivy Mix
     notes: Mezcal can be a beast, and when it first came into popularity in the United States, that was a big part of its appeal. (So much smoke! So much flavor!) However, in drink making, sometimes too much is too much; and if you want to use mezcal as your base and not a modifier, it can easily drown out the rest of the drink. I created the Arinato to be a lighter stirred drink and to celebrate the more delicate sides of what many think of as a brutish spirit. The mezcal I use is the 80-proof Ilegal Joven; paired with floral fortified wines, it makes for an easy-sipper that proves how elegant mezcal can be.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1½ oz Ilegal Mezcal Joven
     - ¾ oz Lillet Blanc
@@ -374,7 +370,7 @@ recipes:
   - name: Point Higher
     author: Ivy Mix
     notes: On one trip to the La Alteña distillery years ago, we went to eat in my favorite carnitas spot, Carnitas Jaimes. (This is a MUST-stop if you ever make it up to the highlands of Jalisco! Not only is the food next level but mariachis serenade you while you eat and drink.) The drink of choice there is, obviously, tequila, which pairs awesomely with the pork and pickled carrots and serranos. This drink was conceptualized while we ate our weight in carnitas and drank tequila from the entire region. When I returned to Brooklyn, I created this drink, adding just a touch of crème de pineapple to the recipe to bring out some of the sweetness of the agave.
-    glassware: 
+    glassware: coupe
     ingredients:
     - ¾ oz El Tesoro Reposado
     - ¼ oz Giffard Caribbean Pineapple
@@ -394,7 +390,7 @@ recipes:
   - name: As She So Told
     author: Ivy Mix
     notes: I have yet to visit Chihuahua’s own sotol distilleries, only ever having skirted around the Mexican state while driving in the south of Texas (and peering thirstily over the border). Luckily, Clande’s founder, Ricardo Pico, is a huge wealth of knowledge, and he is always happy to share random plastic bottles he’s brought back, educating me and others on this unusual, mossy-yet-minty drink. Here, I wanted to highlight the rich fruits but oddly pinesap-like quality of this spirit, which reminds me of nights along the border, wanting to go out and explore.
-    glassware: 
+    glassware: rocks
     ingredients:
     - ¾ oz Clande Sotol Lot 2
     - ¾ oz Fortaleza Reposado Tequila
@@ -414,7 +410,7 @@ recipes:
   - name: Lil Smokey
     author: Shannon Ponche
     notes: This is a drink created by the fantastically talented Shannon Ponche. She has mastered savory drinks better than anyone I know, and this refreshing, herbaceous cocktail is a great example. It’s a play on the Caipirinha that incorporates some mezcal for added complexity but avoids drowning out the other flavors with smoke.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 lime wedges
     - 5 sage leaves
@@ -436,7 +432,7 @@ recipes:
   - name: Big Karwinski
     author: Ivy Mix
     notes: While visiting the fantastic people at Rey Campero in Candelaria Yegolé, Oaxaca, we found ourselves running through rows of Madre cuishe agave at sunset, screaming “Karwinski!” (This is a particularly Dr. Seuss–esque family of agaves, to which Madre Cuishe belongs, that grow almost like a pineapple on a palm tree–like stalk; it’s not hard to pick out their silhouettes against the sky.) I’d like to say that was before the drinking started, but really no time was before the drinking started on that trip to the arid Oaxacan South. This drink is a riff on the White Russian—and its name, yes, is a Big Lebowski reference. Its flavors are meant to play up the fruit and light chocolate notes hiding behind the vegetal, split-wood greenness of the Madre Cuishe mezcal.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 oz Siembra Azul Reposado
     - ½ oz Rey Campero Madre Cuishe Mezcal
@@ -455,7 +451,7 @@ recipes:
   - name: Double Salute
     author: Alisha Neverson
     notes: Alisha Neverson created this nice rich drink for Leyenda. The bourbon acts as a rich canvas to carry the slight smoke of the mezcal, which in turn gets a boost from the turmeric. The apricot liqueur used here is actually pretty bitter, pairing with the red-wine float and pepper to round everything out.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1¼ oz Michter’s Bourbon Whiskey
     - ¾ oz Ilegal Mezcal Joven
@@ -476,7 +472,7 @@ recipes:
   - name: Alteña Vieja
     author: Ivy Mix
     notes: I have visited La Alteña distillery many times, starting with an epic trip for Tequila Ocho—which is made there—with co-founder Tomas Estes. Although Tomas is a foreigner, hailing from the United States and now living in London, he joined the multigenerational Camarena family at La Alteña to make his tequila; and on that first trip, I got to see the nuances of the distillery and, most important, their dedication to family and tradition. The family employs generations of different families at the distillery and in their agave fields; some stay their entire lives. On my last visit there, nearly a decade later, this time with El Tesora, I saw a man I’d met on that first trip. Too old now to do much physical labor anymore, he’s officially retired and comes into the distillery of his own accord to shine the stainless-steel holding tanks. This drink is for him.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 oz El Tesoro Añejo Tequila
     - ½ oz Knob Creek Rye Whiskey
@@ -497,9 +493,8 @@ recipes:
 
 #Sugarcane
   - name: Mojito
-    author: 
     notes: When I was in Havana, I made a point of drinking a Mojito in every bar I went to. (The resulting fresh buzz I had while walking the picturesque city was fantastic!) But perhaps my favorite memory was when I was asked behind the bar at the famed Hotel Nacional to whip some up for a group of visiting cantineros. The bar was the favorite of many of the celebrity elite who visited during their heyday; pictures of Ernest Hemingway, Jimmy Carter, Ava Gardner, and more line the walls. It was like stepping back in time to make one of the world’s most iconic cocktails. This drink is some bartenders’ worst nightmare, especially when they’re busy, but it happens to be my guilty pleasure—beautiful, delicious, and refreshing. If you can’t get your hands on some Havana Club, try making it with either Banks or Plantation Three Stars rum.
-    glassware: 
+    glassware: collins
     ingredients:
     - 8 to 10 mint leaves
     - ¾ oz Simple Syrup
@@ -518,10 +513,10 @@ recipes:
     - "spirits of latin america: sugarcane"
     - swizzle
     - citrus
+    - mojito
   - name: Caipirinha
-    author: 
     notes: This is one of those cases in which (outside of Brazil, anyway) the cocktail is better known than the spirit in it. This Latin classic started as a medicine for the Spanish flu, and the original recipe contained cachaça, lime, honey…and garlic. At some point, some bright-minded person decided to remove the garlic and replace the honey with sugar, and the rest was a much more delicious history. You can get a version of this at just about every bar or restaurant. I like to give them a real hard shake to express more of the flavorful oils of the limes.
-    glassware: 
+    glassware: rocks
     ingredients:
     - ½ lime, cut into quarters
     - 1 tsp superfine sugar
@@ -536,9 +531,8 @@ recipes:
     - shaken
     - citrus
   - name: Mai Tai
-    author: 
     notes: "The Mai Tai is one of the most fantastic—yet most bastardized—classic rum tiki drinks. Made famous by the iconic Trader Vic in 1944 (so the story goes) in his eponymous Oakland tiki haven, this drink, whose name means “the best” in Tahitian, can be seen today in bars and beach clubs from Honolulu to Cancún, in various forms far from the original concoction. One thing’s for sure: this recipe needs Jamaican rum. I took a note from my mentor and business partner, cocktail queen Julie Reiner, and added some Martinique rhum as well, to bring up the floral funkiness even further."
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 oz Appleton Reserve Jamaican Rum
     - ½ oz Smith & Cross Jamaican Rum
@@ -560,10 +554,12 @@ recipes:
     - "spirits of latin america: sugarcane"
     - shaken
     - citrus
+    - mai tai
+    - tiki
   - name: Jungle Slow Cruise
     author: Ivy Mix
     notes: "This cocktail is an homage to a flat tire I got while trying to make it to the Appleton distillery in the center of the island of Jamaica. While Shannon Sturgis, the photographer for this book, and I were driving up and over mountains, following (idiotically) Google Maps, we ended up on the skinniest, most pockmarked “road” of all time. Driving white-knuckled around a blind corner (on the “wrong side” of the road, mind you!) I walloped a pothole and nearly sent us tumbling down the steep ravine of the tropical mountain. Of course, the spare tire with which Avis had supplied us was conveniently flat, so Shannon and I went on a two-hour drive with a very nice family through the Jamaican bush attempting to find a fix. Fortunately, we eventually did—buying the baldest tire I’ve ever seen from a man who made me write my own receipt on a page from a daily planner from 1967. This was the drink we were both craving toward the end. It’s inspired by Leyenda bartender Ryan Liloia’s riff on a tiki classic, the Jungle Bird: tall, tropical, slightly bitter, and refreshing."
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 oz Appleton Reserve Rum
     - ¾ oz Pierre Ferrand Cognac
@@ -584,10 +580,11 @@ recipes:
     - "spirits of latin america: sugarcane"
     - shaken
     - citrus
+    - tiki
   - name: Quite Rightly
     author: Ivy Mix
     notes: St. Lucia has a unique colonial history. Being in line of sight both of French Martinique and the then-English Barbados, the island was fiercely fought over by the two powers when they were at war, and ultimately changed hands fourteen times between them before gaining its independence in 1979. The back-and-forth cultural influence of England and France is not only literally visible in St. Lucia today—the oldest buildings there are literally constructed in alternating French and English styles—but it’s also tasted in its approach to rum, which emphasizes experimentation and variety. One morning during a visit to St. Lucia, I woke up decently foggy after a night spent dancing and drinking horrific rum punches at their weekly Friday affair, the Jump Up. Groggily, I strolled down to the beach with SPIRIBAM’s Ben Jones, my guide on the trip, to take a dip in the beautiful ocean to wash away the cobwebs. From our idyllic swimming hole, Martinique was just in sight. This drink, incorporating a blend of St. Lucia and Martinique r(h)ums, commemorates that amazing morning and that interesting theory.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - Two 1-inch slices of yellow bell pepper
     - 1 oz Rhum J.M Blanc
@@ -608,9 +605,8 @@ recipes:
     - "spirits of latin america: sugarcane"
     - stirred
   - name: Maiden Name
-    author: 
     notes: I adore piña coladas and could basically drink them all day, every day, any day. In making this variant, I wanted to amplify the basic recipe a little. Rather than using a light rum that doesn’t bring much to the fat of the coconut, I used a more flavorful cachaça. I also elected to ditch the pineapple and obtain my fruit notes from passion fruit instead.
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 oz Avuá Prata Cachaça
     - ½ oz lime juice
@@ -631,9 +627,8 @@ recipes:
     - citrus
     - blended
   - name: Ti Punch
-    author: 
     notes: This classic rhum cocktail was originally imbibed by fieldworkers in the French Caribbean to fortify them during the workday. Now, though, everyone in the French West Indies makes it in his or her own way, and everyone has opinions (and strong ones) about how it should be made. When I was in Martinique, I asked why there were so many different ways of making the classic drink. In response I was told the famous expression, Chacun prepare sa propre mort (“Everyone prepares his own death”)—and that was enough for me! Whether you use granular sugar or syrup, ice or none, aged or blanc rhum, the mixture is your very own, and up to you. I prefer mine with a little sugar and a little ice.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 lime discs (cut to have a little meat for juice but a lot of skin for bitterness)
     - 1 tsp Rhum J.M Cane Syrup
@@ -647,9 +642,8 @@ recipes:
     - stirred
     - citrus
   - name: Rum Popo
-    author: 
     notes: The first drink I ever learned how to make was a Rum Popo, I made for my mother just as soon as she was comfortable letting me or my sister handle a knife. During that time, whenever we were on vacation, my mother would always get a few bottles of Appleton Rum (the good old stuff) for the house, and after a day of basic bliss on the beach (or wherever we were), she would ask one of us to run and make her a Popo. Essentially modeled after a Ti Punch; (not that Mama knew what that was), this simplest of drinks was named after her late dog—Malcolm X John Lennon, or Popo for short—who died before I was born. It goes to show that if the base spirit is good it takes very little to make it a cocktail.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 oz Appleton Estate 21 Year Old Jamaica Rum
     - 1 key lime, cut in half
@@ -663,7 +657,7 @@ recipes:
   - name: Flip Your Trade
     author: Ivy Mix
     notes: When I set out to create this cocktail, I wanted to conceptually link the trade routes of the first colonial trips from the “Old World” to the “New World” and back again. What I ended up with (somewhat surprisingly) was a variation on the historic Flip cocktail, a drink whose recipe dates back to Prohibition and includes—yes—a whole egg. This eggnog-reminiscent cocktail is an after-dinner drink, to be sure. A rich decadent affair.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 whole egg
     - 1 oz El Dorado 15 Year Old Special Reserve Rum
@@ -687,7 +681,7 @@ recipes:
   - name: Feelings Catcher
     author: Ivy Mix
     notes: Jamaica is a truly beautiful island that holds so much more than the all-inclusive resorts of Negril and Montego Bay would suggest. In my youth, practically the only place I ever experienced besides Vermont’s Green Mountains were the Blue Mountains on the northeast coast of Jamaica in the Portland Parish, far from cruise ships and their crisply sunburned patrons. My parents, who worked all year, would escape there with my twin sister and me for weeks at a time when we were little, adding up to years of my life spent there. Lena, the woman who helped raise us, gave me some of my first foods from this tropical island, including guava. This tiki-inspired drink takes its inspiration from the tropical notes that aging spirits draw out of barrels. Bourbon plays nicely with the brandy and the light funk and richness of the Jamaican rum. It’s the guava, though, that ties the rum together with the other ingredients.
-    glassware: 
+    glassware: pilsner
     ingredients:
     - ¾ oz Elijah Craig Bourbon Whiskey
     - ¾ oz Lustau Solera Reserva Brandy
@@ -699,7 +693,7 @@ recipes:
     - Mint sprig for garnish
     steps:
     - Add all the ingredients, except the bitters and the mint sprig, to a cocktail shaker with ice. 
-    - Shake briefly and strain over crushed or pebbled ice in a Pilsner glass or Collins glass. 
+    - Shake briefly and strain over crushed or pebbled ice in a pilsner glass or Collins glass. 
     - Float the bitters on top and garnish with the mint sprig.
     tags:
     - spirits of latin america
@@ -709,7 +703,7 @@ recipes:
   - name: Stir Key
     author: Ivy Mix
     notes: Camper English, a cocktail writer hailing from San Francisco, came into the bar I was working at one day about a decade ago and requested something “stirred and murky.” My head went right to rum, along with a few of the other densest flavors I could think of. Rum is very traditionally blended. Some buy rum the world over from different distilleries, do a little rum mixology, and bottle the resulting liquid as new, no heavy lifting of fermenting or distilling at all. I like to achieve that in cocktails by blending my own. With this resulting Stir Key cocktail, the funkiness of the Jamaican Smith & Cross gets muddied (in a good way!) by the rich blackstrap and Gosling’s rum. The orange twist brightens it up just enough.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 oz Smith & Cross Jamaica Rum
     - ½ oz Gosling’s Rum
@@ -729,7 +723,7 @@ recipes:
   - name: Shadow Boxer
     author: Ivy Mix
     notes: This cocktail started as yet another Negroni variation, but ended up something very much its own thing and a staple for us at Leyenda. The cachaça I selected here is a blend of an unaged silver with a touch of European oak, which lends itself well to the bitter sweetness of the Campari. The dry vermouth carries the apricot eau de vie to bring out the cachaça’s rich fruit even further, and the pamplemousse liqueur comes in to link everything back to the citrus of the Campari.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1½ oz Yaguara Cachaça
     - ¾ oz Campari
@@ -747,14 +741,14 @@ recipes:
     - stirred
     - negroni
   - name: Kingdom Come
-    author: 
+    author: Ivy Mix
     notes: This one’s a watermelon daiquiri with a kick. I decided to use a rhum agricole from the French West Indies isle of Guadaloupe to bring some proof and slightly vegetal and mineral notes to the watermelon syrup I used. The wine-based Italian bitter serves as a period at the end of the drink. Damoiseau is a classic bottle seen on back bars of local watering holes lining the beautiful beaches of Guadeloupe. As in much of the West Indies, like Wray and Nephew in Jamaica, high proof runs the show. When we finally got it in the States, I was thrilled to use the Guadeloupen classic in this crushable sipper.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1½ oz Damoiseau Rhum Agricole 110 proof
     - ½ oz Cappelletti Aperitivo
     - ¾ oz lime juice
-    - 1¼ oz Watermelon Syrup (see this page)
+    - 1¼ oz Watermelon Syrup
     - Spicy Salt
     - 1 lime twist
     steps:
@@ -767,10 +761,11 @@ recipes:
     - "spirits of latin america: sugarcane"
     - shaken
     - citrus
+    - daiquiri
   - name: Desde Siempre
     author: Ivy Mix
     notes: Charanda is a sugarcane aguardiente, hailing from the lush microclimate in Michoacan, Mexico. As it turns out, the land of some of Mexico’s greatest mezcales has some great terrain for sugarcane, too! The name of Uruapan, the city from which charanda hails, essentially means “the land of eternal spring” or “where the trees are always flowering” in the area’s native language, and that’s exactly what it is. This quaint city is a far cry from the vast sandy deserts of the north, and it is nestled next to the Cupatitzio River, whose abundant swimming holes are perfect places to sip this awesome spirit, if you get a chance. Charanda is made from fresh sugarcane juice, so it has some of that residual oily funk and full fall-fruit notes that you find in some cachaças and rhum agricoles. Here, I wanted to let the rum stand up for itself, so I used the mango brandy to highlight its fruit notes and the carrot to emphasize its slight funk and earthiness.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1½ oz Uruapan Charanda Mexican Aguardiente
     - ¾ oz Rhine Hall Mango Brandy
@@ -790,7 +785,7 @@ recipes:
   - name: Pancho Perico
     author: Shannon Ponche
     notes: This drink, by Shannon Ponche of Leyenda, is a tall, slightly spicy stunner. We traditionally garnish it with a banana leaf for visual effect, but it’s not necessary. The bright-green color speaks for itself. This cocktail proved itself a gateway to rhum agricole. If you’re perhaps skeptical of its deliciousness, whip this up to change your mind.
-    glassware: 
+    glassware: collins
     ingredients:
     - Banana leaf for garnish
     - 1¼ oz Duquesne Blanc Agricole Rhum
@@ -813,7 +808,7 @@ recipes:
   - name: Back at Ya
     author: Ivy Mix
     notes: This drink was inspired by a trip to Brazil where I got to do a deep dive into the various local woods used for aging cachaça. I went to the incredibly quaint but (to me) rather bizarre town of Ivoti in Rio Grande do Sul. This town, populated almost entirely by German descendants, looks more like Bavaria than what you might think of as Brazil. Brazil is a massive and wonderfully diverse country; and this town with its German-speaking, blond Brazilians is just an example! In Ivoti, unsurprisingly, they bring a German precision to their cachaça. While there, I visited the distillery of Weber Haus, home of Yaguarsa Cachaça and, after trying some amazing cachaça aged in balsam wood, I decided I would try to make an amplified Caipirinha with it back at home.
-    glassware: 
+    glassware: rocks
     ingredients:
     - ½ lime, sliced into quarters
     - ¼ oz Cane Syrup
@@ -834,7 +829,7 @@ recipes:
   - name: Chiller Instinct
     author: Ryan Liloia
     notes: Ryan Liloia created this variation on the traditional Old Fashioned for Leyenda. Passion fruit is usually left for bright, tropical drinks that we’d sip by the pool. But in this stirred drink, he paired it wonderfully with the Licor 43’s vanilla notes and the cinnamon and sherry. This is a real celebration of bourbon, but in an unconventional tiki/Leyenda-esque way.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 oz Michter’s US*1 Kentucky Straight Bourbon Whiskey
     - ½ oz Lustau East India Solera Sherry
@@ -854,7 +849,7 @@ recipes:
   - name: Brooklyn Burro
     author: Ivy Mix
     notes: This Moscow Mule variation is an attempt to give the vodka-based classic a little Latin flavor. With the addition of pineapple and bitters, this light drink is a familiar favorite made foreign yet again. A menu staple at Leyenda, it’s a crowd-pleaser but you can easily substitute other spirits to play around.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 oz Plantation 3 Stars White Rum
     - ½ oz lime juice
@@ -873,10 +868,11 @@ recipes:
     - "spirits of latin america: sugarcane"
     - shaken
     - citrus
+    - mule
   - name: Truth Fiction
     author: Ivy Mix
     notes: I first became interested in working with wood flavors after a visit to my favorite spot in Shoreditch, London, Sager + Wilde. They had two wood-flavored drinks on the menu, one of which (flavored with cedar) I completely fell in love with. The aromatics reminded me of the time in my late teens and early twenties living throughout Guatemala and other parts of Latin America, I developed a very strong interest in Catholicism and spent many hours in churches there. I’d come to appreciate the smell of cathedrals in particular—of musty incense, carved wood, and old books—and I wanted to create a drink inspired by that smell. Taking sandalwood as my starting point, I went down through its distinct tasting notes and put together a group of other ingredients that supported those flavors.
-    glassware: 
+    glassware: rocks
     ingredients:
     - ¾ oz Rittenhouse Rye Whiskey
     - ¾ oz Plantation Pineapple Rum
@@ -894,10 +890,11 @@ recipes:
     - spirits of latin america
     - "spirits of latin america: sugarcane"
     - stirred
+    - sazerac
   - name: El Viejuco
     author: Amanda de la Nuez
     notes: Bartender Amanda de la Nuez created this drink at Leyenda, combining her love of whiskey with her love of rum. The bright rye gives a little backbone to the English-style rum, and the heavy pot-stilled Jamaican rum lends it back some wonderful body. This Old Fashioned–like drink is rich and complex.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 oz Rittenhouse Rye Whiskey
     - ¾ oz El Dorado 12-Year Old Rum
@@ -919,7 +916,7 @@ recipes:
   - name: Lagrimas Rojas
     author: Ivy Mix
     notes: This drink was actually inspired by my trips to Spain, in particular to the south, where one can sit in a terraza for hours, alternately sipping sangria and espressos. This autumnal sangria-like pitcher is meant to be made in a big batch, from which guests are invited to serve themselves. To make it more Leyenda-esque, I chose to use an Argentinian Malbec and gave it some fortification and character with two different Jamaican rums. It’s slightly funky, with a little chocolate hint playing against the allspice. Serves 4 to 5.
-    glassware: 
+    glassware: pitcher
     ingredients:
     - 10 oz Malbec red wine
     - 3¾ oz Appleton Estate Signature Blend Rum
@@ -945,7 +942,7 @@ recipes:
   - name: Pan Am Sour
     author: Ivy Mix
     notes: Shortly after Leyenda opened, our friend David Wondrich, noted cocktail historian, came in with his wife, Karen, for a drink and a hello. I was behind the bar and upon hearing that Dave wanted, “You know, whatever,” I decided to go to one of his all-time favorites, the New York Sour from when I worked across the street at the Clover Club. I reworked it Leyenda-style. Dave named the resulting drink himself, after the defunct airline on which he’d once traveled the Americas.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1¼ oz Elijah Craig Bourbon Whiskey
     - ¾ oz Avuá Prata Cachaça
@@ -965,7 +962,7 @@ recipes:
   - name: Moontower
     author: Jesse Harris
     notes: Rarely, I think, does a drink come along that’s at once so simple and so celebratory of the spirit around which it’s made. Jesse Harris created this drink out of love for Plantation Pineapple Rum, and it shows. This rum has a cult following within the cocktail community and seems to make something delicious out of anything and everything it is added to—but what about when it’s the star of the show? With just a little highly funky Jamaican rum to up the rummy-ness and some acid from the verjus, this cocktail drinks as though a pineapple daiquiri and a Manhattan had a baby together.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 oz Plantation Pineapple Rum
     - 1½ oz Wölffer Estate Verjus
@@ -974,7 +971,8 @@ recipes:
     - 1 lime twist
     steps:
     - Add all the ingredients, except the lime twist, to a mixing glass with ice and then stir. 
-    - Strain into a Nick and Nora glass. Express the oils of the lime twist over the glass and then discard the twist.
+    - Strain into a Nick and Nora glass. 
+    - Express the oils of the lime twist over the glass and then discard the twist.
     tags:
     - spirits of latin america
     - "spirits of latin america: sugarcane"
@@ -983,7 +981,7 @@ recipes:
   - name: Clearly Far Affair
     author: Ivy Mix
     notes: I think clairin is one of the most interesting spirits out there, and my trip spent driving the expanse of Haiti and visiting the diversity of people and cultures there was so vibrant and unusual, I still fall back on it as the source of many cocktail inspirations. The country really does make a spirit as expressive and unique as its people. The Sajous clairin I use here tastes simultaneously of grass and green mango, and I pair it with the acidity of the apple juice, using some pommeau for more richness and cardamom and saline to bring back the tartness of the apple skins.
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 oz Clairin Sajous
     - ½ oz La Guita Manzanilla Sherry
@@ -1005,9 +1003,8 @@ recipes:
     - shaken
     - citrus
   - name: Cuba Libre
-    author: 
     notes: When I opened Leyenda, I became obsessed with Coca-Cola and the history behind it after hearing an NPR special. Latin America (led by Mexico) consumes more of the stuff than any other region on the planet, and it’s mixed with just about every alcohol consumed there to make a quick cocktail. The most popular of these mixtures is the Cuba Libre. This drink came to be in Cuba after the Spanish-American war, when Coca-Cola came in swinging to make money there. For this drink, I teamed up with tiki genius and rum mastermind Jelani Johnson to create our own Kola Syrup—a process that took far more research and development than any other drink on our menu, totaling more than 21 hours. We subbed out the original recipe’s classic cocaine for a slightly more legal mate reduction to complement the kola nut. You can use it in the Cuba Libre, in a Chilean Piscola, in Argentina’s famous Fernet and Coke, a Batanga with tequila, and so on. It’s labor intensive, but worth it! I was thrilled Jelani agreed to share this work.
-    glassware: 
+    glassware: highball
     ingredients:
     - 2 lime wedges
     - 2 oz Havana Club 3 Year Old Rum
@@ -1025,7 +1022,7 @@ recipes:
   - name: Lime in Ti Coconut
     author: Leanne Favre
     notes: "Leanne Favre took the dare of creating her own Ti Punch variation for a summer Leyenda menu, and really knocked it out of the park by marrying that classic with another one: the martini. The rhum in this drink is made specifically out of blue sugarcane, a particularly delicious treat that is only helped by the additional process of a coconut fat-washing."
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 oz Coconut-Infused Clément Rhum Canne Bleue
     - ½ oz Cesar Florido Fino Sherry
@@ -1047,7 +1044,7 @@ recipes:
   - name: Pisco Sour
     author: Ivy Mix
     notes: Morris’s Bar, opened in 1916 in Lima, Peru, by American expat Victor Morris, solidified pisco’s place within the world of classic cocktails with the Pisco Sour, for which Morris is credited as inventor. Morris died in 1939, at which point his many bartenders spread around the world, carrying the Pisco Sour and other great drinks with them. At our current moment in history, the Pisco Sour is what keeps pisco on the map. This version is my own, using lemon and lime juice to attempt to mimic the flavor of the small, acidic limes of South America.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz BarSol Acholado Peruvian Pisco
     - ½ oz lemon juice
@@ -1068,7 +1065,7 @@ recipes:
   - name: Shotgun Wedding
     author: Ivy Mix
     notes: "When I first heard of singani, I was thrilled to use it before I even tasted it. I was like, Aha! Bolivia—another Latin country to represent at the bar! Upon tasting it, however, I knew it would be a tricky component to work with, requiring some heavy-hitting complementary flavors to combat its heavily floral notes. Making singani drinks with other floral flavors just doesn’t work: you need something for it to butt up against. After all, unity sometimes only comes through conflict! For this drink, I decided to infuse the singani with tannic gunpowder green tea, to bite through the fat of the coconut and sweetness of the vanilla. The Mexican Fernet Vallet liqueur is rich and dark, and when mixed into the drink, it enhances the tannic tea to dry things out a little further."
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 oz Tea-Infused Singani 63
     - ¾ oz Novo Fogo Silver Cachaça
@@ -1091,7 +1088,7 @@ recipes:
   - name: Long Jump
     author: Ivy Mix
     notes: With pisco I usually think light, citrusy, and bright, but here I took the opposite approach to make a darker sipper. Using the Torontel pisco with its rich jasmine notes as my starting point, I use the age and sweetness of the pineapple rum to bridge to the proof, dryness, and spiciness of the rye whiskey. The Palo Cortado sherry and just a few dashes of highly potent Jamaican rum make this a contemplative, Manhattan-like drink.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - ¾ oz Capurro Torontel Peruvian Pisco
     - ¾ oz Lustau Almacenista Palo Cortado Sherry
@@ -1102,7 +1099,8 @@ recipes:
     - 1 dash House Aromatic Bitters
     - Orange twist for garnish
     steps:
-    - Stir all the ingredients, except the orange twist, in a mixing glass and strain into a Nick and Nora glass. Express the oils of the orange twist over the glass and then rest the twist on the rim.
+    - Stir all the ingredients, except the orange twist, in a mixing glass and strain into a Nick and Nora glass. 
+    - Express the oils of the orange twist over the glass and then rest the twist on the rim.
     tags:
     - spirits of latin america
     - "spirits of latin america: grape"
@@ -1111,7 +1109,7 @@ recipes:
   - name: Fitted Action
     author: Ivy Mix
     notes: This drink was inspired by an eye-opening lunch I had in the fields of Bodegas Concepción, where Rujero Singani is made. There (over wine and singani), I learned about the history of the region, its singani traditions, and the power of this delicious spirit to raise communities out of poverty.
-    glassware: 
+    glassware: rocks
     ingredients:
     - ¾ oz Rujero Singani
     - ½ oz Siembra Azul Reposado Tequila
@@ -1132,7 +1130,7 @@ recipes:
   - name: Pisces Rising
     author: Ivy Mix
     notes: One evening in Peru, while I was driving through Ica after a long, cloudy day of rare rainfall in the arid desert vineyards, the clouds finally cleared to reveal some of the crispest, brightest stars that I’ve ever seen. On the opposite side of the world from where I was born in Vermont, I felt somehow at home. Yes, I’d lived momentarily in Peru when I was in college—but I’d never felt at home there. Now, on the other hand, I felt tranquil…totally at peace. Pisces is the sign in the zodiac that embodies the opposite, balancing energies underlying the world. Via the stars and my feeling of balance in Ica, this drink represents that centering experience for me.
-    glassware: 
+    glassware: collins
     ingredients:
     - 1½ oz BarSol Acholado Peruvian Pisco
     - ½ oz La Guita Manzanilla Sherry
@@ -1156,7 +1154,7 @@ recipes:
   - name: Tight Connection
     author: Ivy Mix
     notes: When I did my whirlwind South American tour in preparation for this book, traipsing around from Peru to Bolivia to Brazil, I thought, How hard can it be? It’s all one continent; I’ve been to all these places before. And yet!—it turns out it’s pretty damn hard to get from one remote area of one country to another. It’s a journey that’s not for the faint of heart—or the impatient at airports—but trust me, it’s absolutely worth it!
-    glassware: 
+    glassware: rocks
     ingredients:
     - ¾ oz Singani 63
     - ¾ oz jalapeño-infused Siembra Valles tequila
@@ -1174,7 +1172,7 @@ recipes:
   - name: Buena Onda
     author: Ivy Mix
     notes: When I lived in Argentina, I adopted the habit of drinking yerba mate out of the traditional dried gourd with the filtered straw. I would drink it, religiously, throughout the day. Years later I returned for the first time, this time working in the cocktail world and visiting every bar I could. I was particularly struck by a mate cocktail I tried at one of them that contrasted the tea leaves’ bitterness against a sweet punch. This cocktail builds on the simplicity of a Pisco Sour but incorporates mate for some added tannins. The result, I like to think, is pan-Latin in feel.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz Yerba Mate-Infused BarSol Italia Selecto Peruvian Pisco
     - ½ oz lemon juice
@@ -1185,7 +1183,8 @@ recipes:
     - 4 drops Angostura Aromatic Bitters
     steps:
     - Add all the ingredients, except the Angostura Aromatic Bitters, to a cocktail shaker. 
-    - Dry shake without ice to emulsify the egg white. Add ice, shake, and strain into a coupe glass. 
+    - Dry shake without ice to emulsify the egg white. 
+    - Add ice, shake, and strain into a coupe glass. 
     - Garnish by dropping the Angostura bitters on top.
     tags:
     - spirits of latin america
@@ -1195,7 +1194,7 @@ recipes:
   - name: San Isidro
     author: Ivy Mix
     notes: "San Isidro is the patron saint of agriculture in Catholicism. Though campesinos (farmers) the world over pray to this particular saint, never had I seen such devotion to him as in the Ica Valley in Peru. I was raised in a spiritual but relatively agnostic household, and in my first journeys across Latin America, I was struck by the power of the Catholic Church: both its history of brutality in the name of God and also the current status of an entire continent arguably more dedicated than Europe is today to this faith. My first time living in Peru, I was volunteering teaching kindergarten and had to take a series of buses to get from Cuzco out of town, and every time we passed a church—there were literally dozens—everyone on every bus crossed themselves. It amazed me that it didn’t matter how poor or how rich, how light-skinned or dark-skinned the people were—Catholicism tied them together. To me, bars are the only other thing that can come close to having that kind of unifying power. This drink is a celebration of that."
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1¼ oz BarSol Italia Mosto Verde Peruvian Pisco
     - ¾ oz Clément Canne Rhum Bleue
@@ -1215,14 +1214,14 @@ recipes:
   - name: Pachamama
     author: Ivy Mix
     notes: Among the Incan people of the Andes, Pachamama is the goddess of fertility, the harvest, and the earth. Bolivia still maintains one of the most numerous indigenous populations in Latin America, and while Catholicism is now undisputably the religion of the country, many people continue to pray to the ancient deities. When I was there visiting Tarija, Bolivia, I had the opportunity to go to a farming co-op the day they confirmed the sales of their harvest of Muscat de Alexandria to the singani-making house Casa Real. It was cause for celebration, and we danced, sang, and drank the day away in honor of the harvest and its rewards. This drink is a fall-time sour, celebrating the fruits of harvest and the opportunities it can bring.
-    glassware: 
+    glassware: coupe
     ingredients:
     - ¾ oz Gilles Brisson VS Cognac
     - ½ oz Singani 63
     - ½ oz Lo-Fi Gentian Amaro
     - ¼ oz St. George Pear Brandy
     - ¼ oz Cynar
-    - ¾ oz Cinnamon Bark Syrup (see this page)
+    - ¾ oz Cinnamon Bark Syrup
     - ¾ oz lemon juice
     - ½ oz egg white
     - 1 dash Angostura Aromatic Bitters
@@ -1230,7 +1229,8 @@ recipes:
     - 2 cloves for garnish
     steps:
     - Add all the ingredients, except the pear slices and the cloves, to a cocktail shaker. 
-    - Dry shake without ice to emulsify the egg white. Add ice, shake, and strain into a coupe glass. 
+    - Dry shake without ice to emulsify the egg white. 
+    - Add ice, shake, and strain into a coupe glass. 
     - Finish by fanning the pear slices and piercing the cloves through their tops to tack them together. 
     - Rest this on the side of the glass.
     tags:
@@ -1241,7 +1241,7 @@ recipes:
   - name: Hey Suze
     author: Ivy Mix
     notes: This light, bitter drink takes a less-floral pisco and contrasts it with a big, bold juniper-heavy gin. The goal behind it was to build a drink around the sweet vegetal qualities of peas; the grape brings more sweetness to the party, and the gin and Suze add a bitter bite. A couple of dashes of absinthe highlight the vegetal character even more.
-    glassware: 
+    glassware: highball
     ingredients:
     - 4 sugar snap peas
     - ¾ oz Simple Syrup
@@ -1267,7 +1267,7 @@ recipes:
   - name: 50/25/25
     author: Ivy Mix
     notes: Pisco can find its perfect companion in gin, whose botanicals play awesomely with many piscos’ floral notes. For this particular drink, I took the most iconic cocktail of all time, the martini, and gave it a split base of gin and pisco to change things up.
-    glassware: 
+    glassware: martini
     ingredients:
     - ¾ oz La Diablada Acholado Peruvian Pisco
     - ¾ oz Fords Gin
@@ -1287,7 +1287,7 @@ recipes:
   - name: Point Being
     author: Ivy Mix
     notes: Singani 63 and Casa Real’s head of production, Jorge Edgardo Furio, is not Bolivian but Argentinian, and he made it worth the long trek out to Tarija to meet him. I found his perspective on singani to be fascinating. As a winemaker, he brings a unique vision to spirits making, and even as an expatriate, he shows massive pride in the national spirit of Bolivia. “This spirit is the heart of these high mountains,” he told me. “There’s a pride in what we make, because it’s what these people are. That’s the point.”
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1¼ oz Wild Turkey Rye Whiskey
     - ¾ oz Singani 63
@@ -1307,7 +1307,7 @@ recipes:
   - name: Pisco Ponche
     author: Ivy Mix
     notes: "The cocktail industry is a wasteful one: from the energy it takes to fly bottles around the world to the enormous amount of waste that bars produce. One way Shannon Ponche and I try to combat that at Leyenda is with a house-fermented tepache, made from the residual skins and pulp of the pineapples we juice. The tepache can be enjoyed on its own as a slightly fermented but essentially nonalcoholic beverage, or enjoyed in this drink, which can easily be made larger to serve big groups. Keep in mind that since tepache is a fermented beverage and takes a few days to ferment, it has to be made in advance."
-    glassware: 
+    glassware: wine glass
     ingredients:
     - 1 oz BarSol Acholado Peruvian Pisco
     - ½ oz ElVelo Tequila
@@ -1327,7 +1327,7 @@ recipes:
   - name: Chilcano
     author: Ivy Mix
     notes: "Believe it or not, Peruvians were drinking pisco mules in the 1800s, long before Moscow was given its own claim to fame. This drink (pictured opposite)—called the Chilcano—is now having a revival in Peru, and it is consumed in such quantities that a new verb has been coined: chilcaniar, or “to chilcano.” Its Bolivian cousin, the Choofly, is in effect a Singani mule. Though the drink is usually made with ginger ale or ginger beer, I decided to spice mine up with our own ginger syrup, and took the liberty of adding richness with some strawberry."
-    glassware: 
+    glassware: highball
     ingredients:
     - ½ strawberry
     - 2 oz BarSol Quebranta Peruvian Pisco (or Singani 63 for a Choofly)
@@ -1350,7 +1350,7 @@ recipes:
   - name: Pisco Punch
     author: Julie Reiner
     notes: This recipe is Julie Reiner’s rendition of the classic San Francisco gold-rush cocktail. While the real recipe is up for debate (as is known in the industry, the original recipe was a secret and taken to the grave), it is generally assumed that the drink contains pisco (duh), citrus of one kind or another, pineapple, and spices of some sort. I decided to make mine with an acholado pisco—as I believe most piscos traveling around during the late eighteenth century probably were.
-    glassware: 
+    glassware: wine glass
     ingredients:
     - 2 oz Capurro Acholado Peruvian Pisco
     - 1 oz pineapple juice
@@ -1369,7 +1369,7 @@ recipes:
   - name: Spicy Llama
     author: Leanne Favre
     notes: "This drink was created by Leanne Favre, and it takes a vegetal approach to a floral Chilean pisco. The result is a fantastic, colorful drink that does an excellent job of looking like it tastes: sweet-and-spicy, grassy, with bright floral notes."
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1½ oz El Gobernador Chilean Pisco
     - ½ oz Arette Blanco Tequila
@@ -1381,7 +1381,8 @@ recipes:
     - Edible orchid for garnish (optional)
     steps:
     - Add all the ingredients, except for the orchid, to a cocktail shaker. 
-    - Dry shake without ice to emulsify the egg white. Add ice, shake, and strain into a coupe glass. 
+    - Dry shake without ice to emulsify the egg white. 
+    - Add ice, shake, and strain into a coupe glass. 
     - If you can get an edible orchid, garnish the rim of the glass with it. (I love the bright pink of the orchid against the bright green, but it’s only decoration, so if you can’t get it, don’t fret.)
     tags:
     - spirits of latin america
@@ -1391,7 +1392,7 @@ recipes:
   - name: False Alarm
     author: Ivy Mix
     notes: "When I lived in Peru for a short stint in college, we drank a bright-red, sweet cola called Kola Inglesa with pisco whenever we went out. It was certainly a college student’s sugary hangover delight—but when I started to dive deeper into cocktail creation, I remembered it fondly and made up this fancier version. It really only resembles the Kola Inglesa in its red appearance, as the bitterness of the Campari gives it a different flavor altogether: fresher and more nuanced."
-    glassware: 
+    glassware: wine glass
     ingredients:
     - 1 oz Capurro Quebranta Peruvian Pisco
     - ½ oz lemon juice
@@ -1411,7 +1412,7 @@ recipes:
   - name: Peace Treaty
     author: Ivy Mix
     notes: "Yeah, I did it: I put Chilean and Peruvian piscos in a drink…together! Really, I wanted to play around with doing my own acholado-style pisco, blending the two countries’ spirits to create a nice background to build upon. Taking a martini as my inspiration, I replaced the usual vermouth with a manzanilla sherry, given a little weight by olive-leaf liqueur; it represents the offering of an olive branch between the two countries."
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 oz Capurro Quebranta Peruvian Pisco
     - 1 oz La Gitana Manzanilla Sherry
@@ -1433,13 +1434,13 @@ recipes:
   - name: Fifth Pew
     author: Ivy Mix
     notes: "When we were in the build-out stage at Leyenda, I had the idea of using church pews for seating in our back area. (Really, calling it an idea isn’t putting it quite strongly enough; I was pretty much dead-set on it.) At first, of course, we couldn’t find any—and then, magically, we found four just down the street at a reused building-supply store. The magic continued into the build-out, when we somehow gained a fifth pew. It was unaccounted for when we picked up the others: nobody has any idea how we got it or where it came from. This drink is an homage to that magical appearance."
-    glassware: 
+    glassware: tiki mug
     ingredients:
     - 1¼ oz Singani 63
     - ¾ oz Ancho Reyes Liqueur
     - ¾ oz lemon juice
     - ¼ oz maple syrup
-    - 2 dashes House Aromatic Bitters (see this page)
+    - 2 dashes House Aromatic Bitters
     - 1 Tbsp black currant compote
     - Lemon wheel for garnish
     - Chili powder for garnish

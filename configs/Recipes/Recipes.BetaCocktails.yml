@@ -5,7 +5,7 @@ recipes:
   - name: Angostura Sour
     author: Charles H. Baker & Kirk Estopinal
     notes: Two years later it still amazes us that the first recipe in rogue cocktails was a potable abstract of our entire philosophy. Thank you Charles H. Baker.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz Angostura bitters
     - 3/4 oz lime juice
@@ -20,7 +20,7 @@ recipes:
   - name: Arbitrary Nature of Time
     author: Maks Pazuniak
     notes: I mean, have you ever really thought about it?
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 1/2 oz Wild Turkey 101
     - 1 oz Campari
@@ -34,8 +34,7 @@ recipes:
     - stirred
   - name: Ashtray Heart
     author: Erik Ellestad
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - mezcal, to rinse
     - 1 oz Smith & Cross
@@ -49,7 +48,7 @@ recipes:
   - name: Art of Choke
     author: Kyle Davidson
     notes: When was the last time that you created a brand new drink template? It's hard to do, unless you're Kyle Davidson and you break breans like Daryl Dawkins breaks backboards.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 oz white rum
     - 1 oz Cynar
@@ -67,8 +66,7 @@ recipes:
     - citrus
   - name: Bitter Giuseppe
     author: Stephen Cole
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 oz Cynar
     - 3/4 oz Carpano Antica Formula vermouth
@@ -85,7 +83,7 @@ recipes:
   - name: Black Cat
     author: Nicholas Jarrett
     notes: You know what rules? Simple cocktails made ethereal via layered flavors and nuance.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz Chihicapa mezcal
     - 1/2 oz Hayman's Old Tom gin
@@ -105,7 +103,7 @@ recipes:
   - name: Broken Shoe Shiner
     author: Stephen Cole
     notes: Another original rogue cocktail, this one is still just as fucked sounding as it was the first time around. And still just as delicious.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz Pernod
     - 1 oz Aperol
@@ -123,8 +121,7 @@ recipes:
     - citrus
   - name: Burned Popcorn
     author: Kyle Davidson
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 1/2 oz Buffalo Trace
     - 1/4 oz El Dorado Aged Rum (at least 15 years)
@@ -143,7 +140,7 @@ recipes:
   - name: Campari Martini
     author: Maks Pazuniak
     notes: Salt!
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3 oz Campari
     - Heavy pinch of salt, to taste (For better dissolution, make a salt tincture (3 parts water to 1 part salt.))
@@ -157,7 +154,7 @@ recipes:
   - name: DLB
     author: Don Lee
     notes: I had to ask Don Lee for this recipe so many times that by the time I got around to making it for the first time I was sick of it. But it's pretty brilliant. -Maks
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz Rhum Barbancourt 8 Year
     - 1/2 oz Fernet Branca
@@ -173,8 +170,7 @@ recipes:
     - citrus
   - name: Easy Does It
     author: Toby Maloney
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 oz Plymouth gin
     - 1/2 oz Aperol
@@ -191,7 +187,7 @@ recipes:
   - name: Eeyor's Requiem
     author: Toby Maloney
     notes: Bitter layered on bitter given a backbone of proof and a measure of levity from the vermouth. Advanced cocktail construction.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz Campari
     - 1/2 oz Tanqueray
@@ -208,8 +204,7 @@ recipes:
     - negroni
   - name: Elk's Own (Variation)
     author: Paul Mcgee
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 1/2 oz Evan Williams Black
     - 1/2 oz ruby port
@@ -226,8 +221,7 @@ recipes:
     - citrus
   - name: Defend Arrack
     author: Maks Pazuniak
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz Batavia Arrack
     - 3/4 oz Marie Brizard Apry
@@ -244,7 +238,7 @@ recipes:
   - name: The Fall of Man
     author: Maks Pazuniak
     notes: Please note that Zwack does not work as a substitute for Unicum.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 oz bourbon
     - 1 oz Unicum
@@ -259,8 +253,7 @@ recipes:
     - stirred
   - name: Fatigue
     author: Troy Sidle
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz Jack Daniels
     - 1 oz Maraschino liqueur
@@ -274,7 +267,7 @@ recipes:
   - name: Felonious Monk
     author: Tim Lacrey
     notes: Do you remember when you were a kid and you would try to invent new flavor combinations at the Burger King soda fountain by mixing Coke and Dr. Pepper with a splash of Sprite? This cocktail is like that one time that you fucking nailed it.
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 1/2 oz Miller's Westbourne
     - 1 1/4 oz lemon juice
@@ -297,7 +290,7 @@ recipes:
   - name: Fernet Sling
     author: Maks Pazuniak
     notes: This cocktail tastes like what I imagine a weird soda from a weird country that I've never been to tastes like. I'm sure to the locals it's totally normal, but to you, you're all like "What is this, pine tree-grasshopper toothpaste soda?" - Maks
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 oz Fernet Branca
     - 3/4 oz Carpano Antica Formula vermouth
@@ -314,8 +307,7 @@ recipes:
     - citrus
   - name: Good Things Come
     author: Jeff Grdinich
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 3/4 oz Redbreast
     - 1/2 oz Pedro Ximenez sherry
@@ -329,7 +321,7 @@ recipes:
   - name: The End of the Road
     author: Chris McMillian
     notes: There are no words to describe how awed and excited we are to include a cocktail from Mister Chris McMillian in this book.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz Laphroaig 10-year
     - 1 oz Campari
@@ -338,10 +330,11 @@ recipes:
     - Stir and strain into a coupe.
     tags:
     - stirred
+    - peaty
   - name: Gunshop Fizz
     author: Kirk Estopinal & Maks Pazuniak
     notes: This ended up being the signature cocktail of the original book and one that we're still proud of.
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 oz Peychaud's Bitters
     - 1 oz lemon juice
@@ -362,8 +355,7 @@ recipes:
     - citrus
   - name: Heart of Glass
     author: Troy Sidle
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 1/2 oz Eagle Rare 10-Year Bourbon
     - 3/4 oz Carpano Antica Formula vermouth
@@ -383,8 +375,7 @@ recipes:
     - stirred
   - name: All's Fair
     author: Kirk Estopinal
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz El Dorado 12-Year Rum
     - 3/4 oz Carpano Antica Formula vermouth
@@ -400,8 +391,7 @@ recipes:
     - manhattan
   - name: Flip Out
     author: Kirk  Estopinal
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz Carpano Antica Formula vermouth
     - 3/4 oz El Dorado 12-Year Rum
@@ -418,7 +408,7 @@ recipes:
   - name: Hotel Room Temperature
     author: Kirk Estopinal
     notes: The idea for this is conceptual, though the drinks themselves are quite pleasing. The title is an homage to two song titles about the regretful aspects of love. "All's Fair" is an 'island' Manhattan and is a nod to the beginnings of love in all its fancy glory and style. Think vacations and summer vibes. The "Flip Out" should be obvious. The "Hotel Room Temperature" is representative of dishonest behavior, and so is served at room temperature. As if our hero is mixing drinks at the end of the night without his tools or ice. It's an exercise in texture and the fact that assembly can, and does, adjust the entire profile of the same ingredients.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 1/2 oz Carpano antica formula vermouth
     - 3/4 oz El Dorado 12-Year Rum
@@ -427,13 +417,14 @@ recipes:
     - 8 drops salt tincture
     - "Garnish: orange twist"
     steps:
-    - Build in a rocks glass, no ice. This is a room temperature cocktail. Garnish with an orange twist.
+    - Build in a rocks glass, no ice. 
+    - This is a room temperature cocktail. 
+    - Garnish with an orange twist.
     tags:
     - stirred
   - name: Heering Flip
     author: Maks Pazuniak
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2 oz Cherry Heering
     - generous 1/2 oz Bittermen's Mole bitters
@@ -448,7 +439,7 @@ recipes:
   - name: Infernal Architect
     author: Colin Shearn
     notes: One of our favorite recent trends is the room-temperature cocktail. And one of our favorite bartenders is Colin Shearn. That makes this cocktail like the little shaded part where the two circles overlap in a Venn diagram, except more badass.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/4 oz Laird's Applejack
     - 1/2 oz Nardini
@@ -462,8 +453,7 @@ recipes:
     - stirred
   - name: Italian Heirloom
     author: Maks Pazuniak
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz Cynar
     - 1/2 oz blended Scotch
@@ -479,8 +469,7 @@ recipes:
     - stirred
   - name: La Cola Nostra
     author: Don Lee
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 1/2 oz Ron Zacapa 23
     - 1 oz Averna
@@ -500,7 +489,7 @@ recipes:
   - name: The Last Mechanical Art
     author: Maks Pazuniak
     notes: I played with the proportions on this cocktail quite a bit, and kept coming back to the equal parts construction. I'm a sucker for eual parts. Is the cocktail perfectly balanced? Probably not, but perfection is overrated. -Maks
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3/4 oz Chichicapa mezcal
     - 3/4 oz Cynar
@@ -514,8 +503,7 @@ recipes:
     - stirred
   - name: Little Secrets
     author: Brad Bolt
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz St. Germain
     - 1 oz El Dorado 5-Year
@@ -531,15 +519,14 @@ recipes:
     - citrus
   - name: A Moment of Silence
     author: Maks Pazuniak
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 1/2 oz rye whiskey
     - 1 oz Marie Brizard Apry
     - 1/2 oz Averna
     - 1/2 oz Angostura bitters
     - 1/4 oz Laird's Apple Brandy (100-proof)
-    - Campari, to rinnse
+    - Campari, to rinse
     - "Garnish: orange twist"
     steps:
     - Season rocks with Campari in a rocks glass.
@@ -550,7 +537,7 @@ recipes:
   - name: Nana Ester
     author: Kirk Estopinal
     notes: Wine cocktails are the new beer cocktails.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz Shiraz or Zinfandel
     - 1/2 oz Bunratty Potcheen
@@ -564,10 +551,9 @@ recipes:
     - citrus
   - name: Notwist
     author: Ciaran Wiese
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
-    - 1/2 oz Laphroaig cask Strength
+    - 1/2 oz Laphroaig cask strength
     - 1/2 oz Bols Genever
     - 1/2 oz Crema de mezcal
     - 1 tsp Maraschino liqueur
@@ -582,8 +568,7 @@ recipes:
     - stirred
   - name: Pare de Sufrir
     author: Misty Kalkofen
-    notes: 
-    glassware: 
+    glassware: espresso cup
     ingredients:
     - 1 1/2 oz Lustau Pedro Ximenez San Emilio sherry
     - 5/8 oz Chichicapa mezcal
@@ -601,8 +586,7 @@ recipes:
     - stirred
   - name: The Nervous Light of Sunday
     author: Mike Yusko
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 1/2 oz Tanqueray
     - 1 oz lemon juice
@@ -620,7 +604,7 @@ recipes:
   - name: Riddles in the Dark
     author: Al Sotack
     notes: We could wax poetic on the harmony and narrative of this cocktail, or we could point out that it tastes like an oatmeal raisin cookie.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz rye whiskey
     - 3/4 oz Carpano Antica Formula vermouth
@@ -636,8 +620,7 @@ recipes:
     - stirred
   - name: The Red Light
     author: Charles Joly
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/4 oz Bols Genever
     - 1 1/4 oz Grand Marnier
@@ -648,8 +631,7 @@ recipes:
     - stirred
   - name: Sue Ellen
     author: Chris Hannah
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 oz Southern Comfort
     - 1/2 oz Cynar
@@ -665,14 +647,13 @@ recipes:
     - stirred
   - name: The Search for Delicious
     author: Kirk Estopinal
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
-    - One "bakers" pinch of sea salt`
+    - One "bakers" pinch of sea salt
     - 2 oz Cynar
     - 3/4 oz Punt e Mes
     - 15-21 drops of lemon juice
-    - 6 dashes Regan's bitters
+    - 6 dashes Regan's orange bitters
     - 2 pinches sea salt
     - 5 swaths of lemon peel
     steps:
@@ -689,8 +670,7 @@ recipes:
     - stirred
   - name: Six Inch Gold Blade
     author: Al Sotack
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz Smith and Cross
     - 1/2 oz Punt e Mes
@@ -707,8 +687,7 @@ recipes:
     - stirred
   - name: Speaking in Tongues
     author: Mike Ryan
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz Chichicapa mezcal
     - 1 oz Luxardo Amaro Abano
@@ -728,7 +707,7 @@ recipes:
   - name: Spice Trade
     author: Kirk Estopinal
     notes: This drink is fucking metal! I wanted to make a Weeper's Joy, but I couldn't remember the recipe. Voila! The Spice Trade. Happy accident! It's like three ships from different parts of the world crashed and the resulting mixture of worlds was metallicaly delicious. -Kirk
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz Gilka Kummel
     - 1 oz Herbsaint Legendre
@@ -740,8 +719,7 @@ recipes:
     - stirred
   - name: The Start and Finish
     author: Rhiannon Enlil
-    notes: 
-    glassware: 
+    glassware: rocks
     ingredients:
     - 1 1/2 oz Averna
     - 1/2 oz Lillet Blonde
@@ -756,8 +734,7 @@ recipes:
     - stirred
   - name: Teenage Riot
     author: Tonia Guffey
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz Cynar
     - 1 1/2 oz Rittenhouse rye
@@ -773,8 +750,7 @@ recipes:
     - flame
   - name: Tiger Balm
     author: Kirk Estopinal
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz Brugal Anejo
     - 3/4 oz lime juice
@@ -790,7 +766,7 @@ recipes:
   - name: Thrilla in Manilla
     author: David Wondrich
     notes: Lambanog is a type of clear Philippine coconut-palm brandy. Since this is difficult to impossible to find, any white spirit that's light, clean, and floral will do, although you may have to tinker with the name of the drink. Pisco is a good place to start. To make the Jaggery syrup, melt 2 pounds of jaggery in 16 oz. water over a low flame until all is dissolved. This is easier if you hack the loaves it comes in into small pieces first. Bottle and keep refrigerated; this stuff will ferment on you.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz Queen-brand Lambanog
     - 1/2 oz Old Grand-Dad 100-proof bourbon
@@ -807,7 +783,7 @@ recipes:
   - name: Transatlantic Giant
     author: Colin Shearn
     notes: Nailing the proportions could not have been easy on this one. A lot of strong flavors that want to pull the drink away from its natural center, but Colin got them all to fall in line.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz Buffalo Trace
     - 1/2 oz Smith & Cross
@@ -821,8 +797,7 @@ recipes:
     - stirred
   - name: Trans-Europe Express
     author: Ciaran Wiese
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3/4 oz Macallan Single Malt
     - 3/4 oz Campari
@@ -838,7 +813,7 @@ recipes:
   - name: Under the Volcano
     author: Kyle Davidson
     notes: This is entirely tangential, but this drink makes me want to say, "I'm under a volcano? No, you're under a volcano!" -Maks
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz Tesoro Anejo
     - 3/4 oz lime juice
@@ -852,8 +827,7 @@ recipes:
     - citrus
   - name: The Vellocet
     author: Kirk Estopinal
-    notes: 
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 oz Green Chartreuse
     - 1 1/4 oz pineapple juice
@@ -873,8 +847,7 @@ recipes:
     - flame
   - name: Viggo Cocktail
     author: Chris Amirault
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz Bluecoat gin
     - 1/2 oz Aalboarg Akvavit
@@ -890,8 +863,7 @@ recipes:
     - citrus
   - name: The Warning Label
     author: Maks Pazuniak
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 oz Cynar
     - 1 oz Demerara 151 rum
@@ -907,8 +879,7 @@ recipes:
     - stirred
   - name: West Indian Summer
     author: Rhiannon Enlil
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 1 1/2 oz Gilka Kummel
     - 1 oz Old Raj gin
@@ -925,8 +896,7 @@ recipes:
     - citrus
   - name: 2 Cups of Blood
     author: Tonia Guffey
-    notes: 
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3/4 oz Bittermen's Mole bitters
     - 3/4 oz Suze

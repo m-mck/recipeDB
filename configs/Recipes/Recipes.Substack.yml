@@ -4,10 +4,8 @@ recipes:
 #
   - name: Cherry Lady
     author: Jackson Mercier
-    url: 
-    notes: 
     year: 2023
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3/4 ounce apple brandy
     - 3/4 ounce gin
@@ -23,10 +21,8 @@ recipes:
     - citrus
   - name: Her Name Is Rio
     author: Abigail Gullo
-    url: 
-    notes: 
     year: 2021
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 ounces cachaça
     - 3/4 ounce sweet tea syrup (either commercial brand or simple syrup made with brewed tea instead of water)
@@ -43,11 +39,8 @@ recipes:
     - shaken
     - citrus
   - name: Smoky, Artsy, Autumnal Sour
-    author: 
-    url: 
-    notes: 
     year: 2023
-    glassware: 
+    glassware: rocks
     ingredients:
     - ⅜ ounce 3:1 honey syrup
     - ⅜ ounce ginger syrup

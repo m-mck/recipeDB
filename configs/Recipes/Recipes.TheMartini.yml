@@ -6,7 +6,7 @@ recipes:
     author: Jerry Thomas
     year: 1887
     notes: The 1887 edition of Jerry Thomas’s bartending guide, which was published posthumously, contained a recipe for the Martinez, a drink many believe to be the immediate precursor of the Martini. Whether or not that’s true, the histories of the two drinks have long been intertwined; it’s rare a discussion of the Martinez doesn’t include the Martini as well. Two ounces of sweet vermouth may seem like a lot, but the resulting drink is quite palatable. If you desire, you can reverse the gin and vermouth measurements; that works too. Angostura is an acceptable substitute for the Boker’s bitters. For the slice of lemon, use a lemon twist.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 ounces sweet vermouth
     - 1 ounce Old Tom gin
@@ -26,14 +26,16 @@ recipes:
     author: Frank Newman
     year: 1904
     notes: Perhaps the earliest printed recipe for a dry Martini appeared, ironically, in Newman’s volume, published in Paris. It’s a fifty-fifty Martini with a few dashes of bitters—the sort of drink that would become trendy among the cocktail elite a century later. It’s very simple, and an illustration of what “dry” meant back then in regard to the Martini. I suggest the orange bitters over the Angostura. Newman is quite democratic in his attitude toward Martini garnishes. Avoid the cherry.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1½ ounces dry gin
     - 1½ ounces dry vermouth
     - 3 dashes orange or Angostura bitters
     - Olive, cherry, or lemon twist
     steps:
-    - Combine the liquid ingredients in a mixing glass filled with ice and stir until chilled, about 30 seconds. Strain into a chilled cocktail glass. Drop an olive into the glass, or express a lemon twist over the surface of the drink and drop it into the glass.
+    - Combine the liquid ingredients in a mixing glass filled with ice and stir until chilled, about 30 seconds. 
+    - Strain into a chilled cocktail glass. 
+    - Drop an olive into the glass, or express a lemon twist over the surface of the drink and drop it into the glass.
     tags:
     - early martinis
     - martini
@@ -43,7 +45,7 @@ recipes:
     author: Harry Johnson
     year: 1888
     notes: Two bartenders, two cocktail books published the same year, both titled Bartender’s Manual. Again, we’re talking Old Tom gin and sweet vermouth in equal pwwortions. The “½ wineglassful” in Johnson’s recipe is equal to 1 ounce. Feel free to up that to 1½ ounces to make for a more sizeable drink. Gum syrup is made with gum Arabic and lends a silky texture to drinks. There are gum (or gomme) syrups on the market, if you want to seek them out. Or you can substitute simple syrup. Boker’s bitters, disappeared from the market some time ago. There are a couple of re-creations of the formula available today. If you can’t find them, Angostura bitters will do. For garnish, Johnson covered all the bases. Both the lemon twist or cherry work, but separately. The olive? Fuggedaboutit.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - ½ wineglassful (1 ounce) Old Tom gin
     - ½ wineglassful (1 ounce) sweet vermouth
@@ -64,7 +66,7 @@ recipes:
     author: Theodore Proulx
     year: 1888
     notes: Chicago bartender Proulx’s recipe could hardly be more direct. A Martini “is half Tom gin and half vermouth made like any other cocktail; no absinthe.” “Tom” is Old Tom gin. I recommend Hayman’s Old Tom. The vermouth is the sweet Italian kind. Try Martini & Rossi; it’s what Proulx would have had access to. “Like any other cocktail” is a shorthand instruction Proulx employs often in his book, including for the Turf and Manhattan cocktails. It refers to his recipe for a Whisky Cocktail, which includes bitters, syrup, and a lemon twist, and to combine the ingredients with ice and strain into a cocktail glass. For “1 part,” measure 1½ ounces.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - Lemon Twist
     - 1 part (1½ ounces) Old Tom gin
@@ -72,17 +74,17 @@ recipes:
     - 2 dashes aromatic bitters
     - 2 dashes gomme syrup
     steps:
-    - Express a lemon twist into a mixing glass and drop it in. Add the liquid ingredients in a mixing glass filled with ice and stir until chilled, about 30 seconds. Strain into a chilled cocktail glass.
+    - Express a lemon twist into a mixing glass and drop it in. 
+    - Add the liquid ingredients in a mixing glass filled with ice and stir until chilled, about 30 seconds. 
+    - Strain into a chilled cocktail glass.
     tags:
     - early martinis
     - martini
     - stirred
     - freezer bar
   - name: Dry Martini
-    author: 
-    year: 
     notes: What better way to announce your allegiance than to name your bar after the cocktail you specialize in? Dry Martini was opened in Barcelona in 1978 by Pedro Carbonell. The bartenders wear white jackets. The small mahogany bar is only three meters long, and the original recipe for their house drink is written in big letters on the mirror behind it. The clubby room is full of bottles, banquettes, cabinets, artwork, and dark wood. Like McDonald’s, Dry Martini keeps tabs on how many of its eponymous drink have been served. So far, the counter on the wall reads well over one million. True to the bar’s name, the Martinis made here are very dry, using just a few dashes of vermouth. When the bar prepares a Dry Martini, the bartender takes an ice-cold glass and places it on top of a silver tray. Each customer gets not only the drink ordered but also a certificate with his or her name and the number of the Martini being sipped. It’s the only certified Martini purchase in the world.
-    glassware: 
+    glassware: martini
     ingredients:
     - 2⅓ ounces Bombay Sapphire gin
     - 2 to 3 dashes dry vermouth
@@ -100,14 +102,16 @@ recipes:
     author: Harry McElhone
     year: 1922
     notes: The original sweet flavor profile of the Martini lingered for decades before the dry Martini finally achieved its status as king of the hill. Cocktail books from the early twentieth century are filled with recipes for sweet Martinis. Some contained two parts gin to one part sweet vermouth; some, equal parts of each; and a few demanded more vermouth than gin. Most were garnished with a cherry. For novelty’s sake, I’m featuring one of the vermouth-heavy recipes, from Harry McElhone’s book. Because of the large quotient of sweet vermouth here, I would opt for a more assertive London dry gin, like Beefeater. Use a good vermouth, with a nice depth of flavor; this drink is all about savoring the flavors of the wine. McElhone instructed a dash of gum syrup be added. I see no reason for it; the drink is sweet enough. The cherry, though, is a must.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 ounces sweet vermouth
     - 1 ounce gin
     - 1 dash gum syrup (optional)
     - Cherry
     steps:
-    - Combine the liquid ingredients in a mixing glass filled with ice and stir until chilled, about 30 seconds. Strain into a chilled cocktail glass. Garnish with a cherry.
+    - Combine the liquid ingredients in a mixing glass filled with ice and stir until chilled, about 30 seconds. 
+    - Strain into a chilled cocktail glass. 
+    - Garnish with a cherry.
     tags:
     - early martinis
     - martini
@@ -117,13 +121,14 @@ recipes:
     author: Harry McElhone
     year: 1922
     notes: Cocktail books in the early decades of the twentieth century often listed multiple recipes for the Martini, usually titled “Martini,” “Medium Martini,” and “Sweet Martini.” A medium Martini typically split the vermouth, with an equal portion of both dry and sweet going into the drink. This is an easy-to-remember, equal-parts recipe. Plymouth gin works well here, producing a very gentle, soothing aperitivo-style cocktail. No garnish is called for, and it really doesn’t need one. (If you’re interested in experimenting, other medium Martinis of the day called for two parts gin to one part each of dry and sweet vermouth.)
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 ounce Plymouth gin
     - 1 ounce dry vermouth
     - 1 ounce sweet vermouth
     steps:
-    - Combine the ingredients in a mixing glass filled with ice and stir until chilled, about 30 seconds. Strain into a chilled cocktail glass.
+    - Combine the ingredients in a mixing glass filled with ice and stir until chilled, about 30 seconds. 
+    - Strain into a chilled cocktail glass.
     tags:
     - early martinis
     - martini
@@ -131,15 +136,16 @@ recipes:
     - freezer bar
   - name: Bix's Martini
     author: Doug Biederbeck
-    year: 
     notes: When Barnaby Conrad III wrote his 1995 book The Martini, he knew his subject. He had experienced firsthand the dawning and zenith of one of the modern era’s great Martini meccas. Bix is an art-deco-fever-dream club straight out of an Astaire-Rogers flick. But instead of black and white, the decor glows in shades of amber, gold, and moss green. A wide, graceful staircase with a silver bannister leads up to a balcony lined with lushly upholstered booths and banquettes. The long bar, carved from a single piece of mahogany, is framed on either side by two soaring pillars and above by an enormous mural, depicting a buzzing social hall not unlike Bix. Bix was opened in 1988 by Doug “Bix” Biederbeck on a picturesque alley in the North Beach neighborhood of San Francisco. He opened it so that he and his Martini-loving friends, including Conrad, the son of a famous author, painter, restaurateur, and amateur bullfighter, would have someplace proper to drink. One of his  missions was “to figure out how to get a Martini as cold as I could.” He coveted the glass chiller at Jeremiah Tower’s restaurant Stars, where he was a frequent customer, but didn’t have the room for such a device behind his bar. He compromised by filling an enormous silver bowl with crushed ice. Upside-down cocktail glasses were sunk into it until needed. The basin quickly became a trademark. The Martini glasses themselves were a principled choice. Biederbeck hated the triangular fish bowls then used at most places. He opted instead for a smaller, rounder coupe. “We took a lot of criticism, when the Martini boom hit in the 1990s, that our drinks weren’t big enough,” he recalled. “I absolutely stood firm. I said, ‘Well, then have a second drink, because there’s no way that a Martini is going to be the same drink at the bottom of a seven-ounce glass.’” Most others, however, appreciated Bix from the start as a reservoir of bygone sophistication and respite from the harried, dusty world outside. When Conrad published his book, the launch party was, of course, at Bix. Bix shakes its Martinis “partly for the theatrics,” said Biederbeck.* “Customers rarely ask for it stirred. Also, it gets the drink the coldest the fastest. I know some purists think it dilutes the drink, but I think that is a nonissue if it isn’t overshaken. We don’t pound it at Bix. A few medium shakes.”
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 3½ ounces Gordon’s gin
     - ½ ounce Dolin dry vermouth
     - Olive, onion, or lemon twist
     steps:
-    - Combine the liquid ingredients in a cocktail shaker filled with ice and shake until cold, about 15 seconds. Strain into a chilled cocktail glass. Garnish with an olive, onion, or lemon twist.
+    - Combine the liquid ingredients in a cocktail shaker filled with ice and shake until cold, about 15 seconds. 
+    - Strain into a chilled cocktail glass. 
+    - Garnish with an olive, onion, or lemon twist.
     - Doug Biederbeck personally prefers a wetter Martini. His recipe is for four parts Hendrick’s gin to one part Dolin dry vermouth.
     tags:
     - early martinis
@@ -148,10 +154,8 @@ recipes:
 
 #Classic Variations & Kissing Cousins
   - name: Turf Cocktail
-    author: 
-    year: 
     notes: The Turf or Turf Club cocktail is a tricky customer. It and the Martini seem to have trod the same tipsy course during their early years, often crossing paths. Turf formulas often bore a resemblance to the Martini. And, like the Martini, Turf recipes were all over the place in the beginning, but usually called for some sort of gin and some sort of vermouth. By 1900, the recipe had settled down to something like the one here. Plymouth gin is specified in most of these recipes. For the vermouth, I prefer Noilly Prat. It gives the drink a bit more heft.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1½ ounces Plymouth Gin
     - 1½ ounces Noilly Prat dry vermouth
@@ -169,10 +173,8 @@ recipes:
     - stirred
     - freezer bar
   - name: Musso Martini
-    author: 
-    year: 
     notes: No restaurant or bar in Los Angeles serves more Martinis than Musso & Frank Grill, the old-school eatery that has fended off time and change for a century since opening in 1919. Nearly three hundred are sent out to patrons on a Saturday night. As befits an old standard-bearer like Musso, the Martinis are midcentury dry, with just a touch of Noilly Prat vermouth. Also in keeping with the joint’s frozen-in-time ways is the house gin, Gilbey’s, once a major brand but seldom requested today. (Gilbey’s was also the house Martini gin at the Colony, in New York, another exclusive twentieth-century American restaurant of international renown.) Part of the appeal of the Musso Martini is the presentation. The glasses are on the small side, by modern standards, but are accompanied by a small sidecar of backup liquor, nestled on crushed ice inside a hammered-metal caddy. Truth be told, the Musso Martini isn’t all that remarkable. But it is magical, owing to the environs. Even Ruben Rueda, Musso’s long-serving bartender, recognizes this. “I try to make them at home,” Rueda said in a 2017 interview. “I use the same ingredients. It doesn’t come out the same. I think it’s the environment. It’s this place.”
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 3 ounces Gilbey’s gin
     - 1 barspoon Noilly Prat dry vermouth
@@ -190,7 +192,7 @@ recipes:
     author: Jacques Straub
     year: 1914
     notes: The Alaska is roughly a century old, first appearing in cocktail manuals in the 1910s. How the drink got its name is not known, but Alaska was a hot news topic then, becoming a United States territory in 1912. Also, the drink is golden, like the ore famously mined there during many rushes. Never terribly renowned, the Alaska nonetheless became one of the “forgotten classics” celebrated by young cocktail bartenders in the early years of the recent cocktail revival. The big question when preparing an Alaska cocktail is the choice of gin. Though most bars make it with London dry gin, the earliest known recipe for the drink calls for Old Tom, a sweeter form of the spirit that was common in the nineteenth and early twentieth centuries. I opt for Hayman’s Old Tom, as it makes for a more well-rounded drink.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2¼ ounces Old Tom gin
     - ¾ ounce yellow Chartreuse
@@ -206,10 +208,8 @@ recipes:
     - stirred
     - freezer bar
   - name: Marguerite
-    author: 
-    year: 
     notes: Some cocktail historians like to tout the Marguerite as a major competitor of the Martini in the early years. Plymouth gin, in particular, likes to trumpet the drink’s importance (mainly because the first known recipes for it, in Harry Johnson’s 1900 edition of his Bartender’s Manual, and in Thomas Stuart’s 1904 Stuart’s Fancy Drinks and How to Mix Them, asked specifically for Plymouth). But the Marguerite was never really a contender, appearing in far fewer cocktail books and news accounts. The recipe below is adapted from Stuart’s. Certainly, it is one of the first mixes to resemble the sort of dry Martini the world came to know, using dry English gin and dry vermouth. (Johnson’s version was much sweeter, with more vermouth, a touch of anisette, and a cherry.)
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 ounces Plymouth gin
     - 1 ounce dry vermouth
@@ -228,7 +228,7 @@ recipes:
     author: Ernest Hemingway
     year: 1950
     notes: The Montgomery Martini is a concoction of Ernest Hemingway, first introduced in 1950 in his novel Across the River and into the Trees. It is named, rather mockingly, after British field marshal Bernard Montgomery, who liked fifteen-to-one odds before entering into battle. Hemingway encouraged his friends at Harry’s Bar in Venice—where some scenes in the book take place—to adopt these proportions for their Martinis. They did, and still do today. The resulting Martini is very dry and very much of its time and author. It’s also a pain in the neck, because who among us has the equipment at home to accurately measure fifteen parts gin to one part vermouth? Do the full 30 seconds of stirring. You’ll want that dilution. Hemingway mentions no garnish. Either an olive or a lemon twist will do fine.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 3 ounces gin
     - 1 barspoon dry vermouth
@@ -243,10 +243,8 @@ recipes:
     - stirred
     - freezer bar
   - name: Tuxedo No. 2
-    author: 
-    year: 
     notes: The Tuxedo, which drew its name, according to bar lore, from the same place as the evening suit—Tuxedo Park, enclave of the elite in upstate New York—is a confusing character. There are actually two Tuxedo cocktails running around, and have been since the early twentieth century. One, generally believed to be the original, contains gin, sherry, and orange bitters, and is bone dry. The other, typically referred to as Tuxedo No. 2, mixes gin, maraschino liqueur, vermouth, and absinthe, and is lightly luscious. Both are good, but No. 2 is perhaps more common. This version comes from Flora Bar, in New York, which does a great job with the drink.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - Absinthe rinse
     - 2¼ ounces Plymouth gin
@@ -265,10 +263,8 @@ recipes:
     - stirred
     - freezer bar
   - name: Dukes Martini
-    author: 
-    year: 
     notes: The Dukes Bar Martini is arguably the most famous version of the drink in the world. It is also unlike any other rendition. The gin and vodka are kept frozen and poured directly into equally frosty glasses, without dilution. (Dukes keeps several different brands on ice, so you can choose your favorite.) Just a smidgen of vermouth is added. It is, therefore, a pile driver of a Martini, murderously dry and cold, and so viscous it goes down like a glass of milk. Many have counseled not to drink more than two in one sitting; the bar itself permits only two. I would cut that to one and reserve an hour on your calendar afterward for recovery. The cocktail is prepared before your eyes from a rosewood trolley that is rolled to your table—a trick later borrowed by another destination Martini bar, the Connaught bar in London’s Connaught Hotel (see this page). Salvatore Calabrese, an Italian, gets credit for the Dukes Martini. The drink became renowned when famed San Francisco journalist Stanton Delaplane wrote, in his November 1, 1987, column in the San Francisco Chronicle, “Salvadore [sic], the bartender, makes the best Martini in England.” (Calabrese was lucky to catch the writer’s attention when he did. Delaplane died five months later.) It feels somewhat irresponsible to recommend that a home  bartender make a full 6-ounce Dukes Martini. So this recipe is for a half-Dukes. See how it sits, then decide for yourself if you can handle another.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3 ounces gin or vodka
     - 1 barspoon dry vermouth
@@ -284,10 +280,8 @@ recipes:
     - martini
     - freezer bar
   - name: Gibson
-    author: 
-    year: 
     notes: The Gibson is commonly regarded as a Martini garnished with a cocktail onion. The larger story is not that simple. Onions were frequently suggested as appropriate Martini garnishes in early cocktail books. But the first recipes for Gibsons called for no onions at all, just dry gin, dry vermouth, and nothing else, not even bitters. By the 1930s, the onion had begun to sneak into the drink. By the 1940s, it had a permanent home. If you can, buy quality pearl onions or, better yet, make your own cocktail onions. A batch will take you 20 minutes and yield months of pleasure.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2¼ ounces London dry gin
     - ¾ ounce dry vermouth
@@ -302,10 +296,8 @@ recipes:
     - stirred
     - freezer bar
   - name: Martini-on-the-Rocks
-    author: 
-    year: 
     notes: There are recipes out there for the Martini-on-the-Rocks. But let’s be serious. This is a lazy person’s Martini, and I’ve never seen anyone put too much effort into making one, let alone follow an exact formula. That’s the appeal of the drink, after all. No muss, no fuss. It’s good to go in a few seconds. I recommend olives as a garnish because, again, I’ve never seen a Martini-on-the-Rocks served any other way. A lemon twist indicates effort. Olives? Just drop ’em in.
-    glassware: 
+    glassware: rocks
     ingredients:
     - 2¼ ounces gin or vodka
     - ¾ ounce dry vermouth
@@ -320,9 +312,8 @@ recipes:
     - stirred
   - name: The Connaught Martini
     author: Agostino Perrone & Erik Lorinez
-    year: 
     notes: The Connaught, a hotel in London’s luxe Mayfair area, revamped its bar in 2008, bringing in two mixologists in the vanguard of their profession, Agostino Perrone and Erik Lorincz, to overhaul the drinks program. One of the immediate hallmarks of the new regime was the Martini service. And it was, indeed, a service. Taking a page from the nearby Dukes Hotel, the Connaught employed a Martini cart for anyone who ordered the drink. Each customer had the opportunity to make the cocktail their own by choosing from any one of several house-made  bitters. The Connaught Martini quickly became a classic. Since you can’t really replicate the Connaught’s bitters, create your own adventure by playing around with whatever bitters strikes your fancy. There are many brands and flavors available on the market matching the flavors offered by Connaught, including cardamom, lavender, and coriander. The same goes for vermouth, as the Connaught uses its own house brand.
-    glassware: 
+    glassware: martini
     ingredients:
     - 3 dashes bitters
     - 2½ ounces Tanqueray No. Ten gin or Ketel One vodka
@@ -339,10 +330,8 @@ recipes:
     - stirred
     - freezer bar
   - name: The Puritan Cocktail
-    author: 
-    year: 
     notes: The Puritan, another old variation, lies somewhere between the Martini and the Alaska, using both dry vermouth and a bit of yellow Chartreuse. Brooklyn bar Tooker Alley serves a fine version. This is their recipe.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 ounces Plymouth gin
     - 1 ounce Dolin dry vermouth
@@ -362,7 +351,7 @@ recipes:
     author: Ian Fleming
     year: 1953
     notes: Ian Fleming and his creation, James Bond, caused the world to suffer many bad Martinis. But they also gave us the Vesper, a damn fine drink. Bond comes up with the recipe on the spot in the 1953 novel Casino Royale. Gordon’s is a good English choice for the gin. For the Lillet, some people prefer to substitute Cocchi Americano, which is thought to have a flavor profile closer to the original. I am with those people. The spy’s exact instructions to the bartender were to “shake it very well until it is ice-cold.” But Bond was shake-crazy. I suggest stirring over ice. Either way, strain into a chilled coupe. Bond also asked for a “large, thin slice of lemon peel,” as opposed to a regular old lemon twist. Does it make a difference? Hard to say. But it looks pretty.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 3 ounces gin
     - 1 ounce vodka
@@ -370,17 +359,16 @@ recipes:
     - Large, thin slice lemon peel
     steps:
     - Combine the liquid ingredients in a mixing glass filled with ice and stir until chilled, about 30 seconds. 
-    - Strain into a chilled cocktail glass. Garnish with a large, thin slice of lemon peel.
+    - Strain into a chilled cocktail glass. 
+    - Garnish with a large, thin slice of lemon peel.
     tags:
     - classic variations & kissing cousins
     - martini
     - stirred
     - freezer bar
   - name: Dirty Martini
-    author: 
-    year: 
     notes: If you like your dirty Martini a little dirtier, add an extra barspoon of brine. For the garnish, feel free to add as many olives as you like. Olives are what this drink is about, after all. (A superstition that has trailed the Martini for years is that it is bad luck to garnish your drink with an even amount of olives. That is why you typically see Martinis adorned with either one or three olives.)
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 ounces gin or vodka
     - ½ ounce dry vermouth
@@ -395,10 +383,8 @@ recipes:
     - stirred
     - freezer bar
   - name: Vodka Martini
-    author: 
-    year: 
     notes: I have always suspected that people who prefer vodka Martinis also like very little vermouth in their drink, because—as they’ve shown by their choice of spirit—they don’t like the taste of alcohol. But I need a little flavor in my Martini, and since the vodka is not going to provide it, I advocate a decent dose of vermouth here, plus a dash of bitters.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2¼ ounces vodka
     - ¾ ounce dry vermouth
@@ -414,10 +400,7 @@ recipes:
     - stirred
     - freezer bar
   - name: The Grill House Martini
-    author: 
-    year: 
-    notes: 
-    glassware: 
+    glassware: martini
     ingredients:
     - 1½ ounces Plymouth Gin
     - 1½ ounces Tanqueray Gin
@@ -440,7 +423,7 @@ recipes:
     author: Hugo R. Ensslin
     year: 1917
     notes: This drink’s single deviation from the typical dry Martini setup of the time is a couple of dashes of the liqueur kümmel, which tastes of caraway and cumin, in place of the usual orange bitters. It’s a nice variation. The name refers to World War I allies England (represented by the gin), France (vermouth), and Russia (kümmel).
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1 ounce dry gin
     - 1 ounce dry vermouth
@@ -454,10 +437,8 @@ recipes:
     - stirred
     - freezer bar
   - name: Harry's Bar Martini
-    author: 
-    year: 
     notes: Perhaps the most unusual Martini in the world is served at Harry’s Bar, the urbane Grand Canal–side watering hole founded in Venice by Giuseppe Cipriani in 1931. It comes in what can only be called a shot glass—frost-covered and emblazoned with the Cipriani logo, and filled with about 1½ ounces of clear liquid and a lemon twist. The drink’s appearance always startles newcomers, who expect the usual Martini glass. But Harry’s has always done things its own way. The small glasses were originally employed because Harry’s was determined from the very first to deliver cocktails as cold as possible—not an easy feat in the 1930s and 40s. Thus, small glassware, which kept the drink colder longer. The preparation is singular as well. Dozens of the tiny glasses are filled with chilled Tanqueray gin and placed on a tray, which is kept in a fridge below the bar. When a waiter calls for a Martini, the bartender opens the fridge and pulls out a single glass. He then carefully ladles a barspoon of dry vermouth on the surface of the drink, gives it a brief stir, adds a lemon twist, and places it on the bar for the waiter to collect. The resulting dry Martini is fifteen parts gin to one part vermouth. The Montgomery formula was a favorite of novelist Ernest Hemingway, who pushed it on Harry’s staff in 1945, after World War II ended.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 15 parts (3 ounces) chilled Tanqueray gin
     - 1 part (1 barspoon) chilled Martini & Rossi extra-dry vermouth
@@ -473,10 +454,9 @@ recipes:
     - stirred
     - freezer bar
   - name: B.O.M.
-    author: 
     year: 1971
     notes: In 1971, the Olive Administrative Committee of the California Ripe Olive Industry decided it wanted some of that Martini money and trotted out a concoction called the B.O.M. (Black Olive Martini), which was just a strong vodka Martini with a black olive instead of a green one. A couple of columnists fell for it and wrote the thing up, and at least one restaurant, Phil Lehr’s Steakery, in San Francisco, gave it a try. Needless to say, the fad did not last. But, hey, there are people who prefer green olives instead of black on their pizzas, so might as well give this spin a go. The original recipes instructed, in all seriousness, to marinate the olive in vermouth “for two seconds.” I’ve changed that to two minutes. Let’s give the vermouth a fighting chance.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 3 ounces dry vermouth
     - 1 black olive
@@ -495,7 +475,7 @@ recipes:
     author: Erik Bergengren
     year: 1931
     notes: Twists on the Martini formula are numerous today. Back in 1931, when Benjamins Cocktails Bok was published in Stockholm, however, they were quite rare. In that volume, Bergengren gave us his dry Martini and sweet Martini, but also his “white Martini,” a novel creation asking for gin, white curaçao, bianco vermouth, and orange bitters.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 ounces dry gin
     - 1 ounce bianco vermouth
@@ -511,13 +491,12 @@ recipes:
     - freezer bar
   - name: Clarito
     author: Santiago 'Pichin' Policastro
-    year: 
     notes: Santiago Policastro, nicknamed both “the Gallant Barman” and “Pichin,” was one of the most famous Argentine bartenders of the 1950s. When you page through his 1950 volume Tragos Mágicos, you won’t find a Martini. What you will find is the Clarito, which is basically a Martini crusta—that is, a Martini with a sugar rim. In 2008, Buenos Aires bartender Federico Cuco rediscovered the cocktail and launched a “Save the Clarito” campaign. It worked. Today, you can order a Clarito most anywhere in the city. The sugar rim disappeared, though, and you’ll basically get a dry Martini with a lemon twist. The formula below is Pichin’s original recipe and instructions, complete with sugar rim. You can pass on it if you so desire, or perhaps rim only half of the glass in sugar. I suggest garnishing with a lemon twist.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 3⅓ ounces dry gin
     - ⅕ ounce French vermouth
-    - Lemon slice for coating glass rim, plus lemon twi   - (optional)
+    - Lemon slice for coating glass rim, plus lemon twist (optional)
     - 2 tablespoons sugar
     steps:
     - These are Pichin’s exact instructions. “In a glass shaker or container that serves as such, place 4 or 5 pieces of crushed ice, about the size of a walnut; then pour gin and vermouth. Stir for 1 minute and serve in a glass. Before serving, rub the rim of the glass with a slice of lemon, dip it in a saucer in which a bit of ground sugar has been placed, with the glass upside down, so that the sugar adheres to the part moistened with lemon.”
@@ -530,9 +509,8 @@ recipes:
 #Personal Martinis
   - name: Toby Cecchini's Martini
     author: Toby Cecchini
-    year: 
     notes: Toby Cecchini is the owner of Long Island Bar, a beloved Brooklyn saloon housed in a perfectly preserved, circa 1930s, former diner. His formulae for classic cocktails are often rather involved and his Martini is no exception. For that reason, he wisely titled it “A Martini”—not the Martini, but a Martini—on the bar’s menu. Hepple is an excellent new gin made in northern England in the  classic model.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 ounces Hepple Gin
     - 1 ounce Dassai 50 Junmai Daiginjo Sake
@@ -548,9 +526,8 @@ recipes:
     - freezer bar
   - name: Beefsteak Martini
     author: Phil Ward
-    year: 
     notes: Phil Ward, one of the central figures in New York’s cocktail renaissance, invented this drink while bartending at Long Island Bar, my local in Brooklyn. It didn’t have a name when he first served me the cocktail. When I wanted to write about it, I pressed Ward to christen the potion. He came up with Beefsteak Martini. “Beefsteak plant” is an alternate name for the shiso plant, which informs the flavor of the cocktail. Ward refers to the shiso leaves as an “invisible garnish.”
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3 fresh shiso leaves
     - 2 ounces Plymouth gin
@@ -568,9 +545,8 @@ recipes:
     - freezer bar
   - name: Old King Cole Martini
     author: William Elliott
-    year: 
     notes: As at Dukes and the Connaught, the house Martini at  Maison Premiere is a production number. The Martini ingredients are brought to you on a tray, and the drink is prepared before your eyes. If you’re at a table, one bartender prepares the cocktail while another poor sap stands at attention holding the heavy tray. William Elliott, the beverage director at Maison, is a Martini fanatic, and prefers the dry sort favored in the mid-twentieth century. “There is much talk of the ubiquitous dry Martini of the 1940s and ’50s,” he said. “This is that Martini.” Elliott uses Old Raj, a Scottish brand made by Cadenhead. A very specific gin, Old Raj gin is bottled at a strong 55 percent ABV and has a pale yellow tint due to the postdistillation addition of saffron. The vermouth, too, is particular, the modern artisanal Italian brand Mancino secco, which has nineteen botanicals. The name of the drink, Old King Cole, is a nod to the yarn that the Martini’s origins can be traced to the bar at the Knickerbocker Hotel, in Times Square. The bar was adorned with a large mural by Maxfield Parrish depicting the fictional monarch. (The mural now hangs in the bar at the St. Regis hotel.) The story is balderdash. But it’s a nice name for a drink. Maison garnishes the drink with a sidecar of crushed ice, on which there are three skewered Castelvetrano olives, a well-manicured lemon twist, and seaweed. You choose the garnish(es) you wish and drop them in the drink.
-    glassware: 
+    glassware: martini
     ingredients:
     - 3 ounces Old Raj gin
     - ¼  ounce Mancino secco vermouth
@@ -588,9 +564,8 @@ recipes:
     - maison premiere
   - name: Gallaghers Steakhouse Martini
     author: Dominic Venegas
-    year: 
     notes: Classic New York steakhouses have been, for decades, incubators for the Martini, making the cocktail by the hundreds when other bars and restaurants had given up on the established definition of the drink. Most of these steakhouses, however, were turning out Martinis that were watery, sloppy, insufficiently chilled, indifferently built, and made with bottom-shelf gins, vodkas, and vermouths. Gallaghers is a happy exception. When the restaurant—which was founded in 1927 as a speakeasy—reopened in 2014 following a revamp, management hired noted cocktail bartender Dominic Venegas to rethink the cocktail list. He brought the seasoned bar staff around to the idea of rendering classic cocktails  with more finesse. Martinis are served in a smaller  (but still sizable) coupe, rather than a mammoth  Martini glass. Proportions are roughly three to one.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2½ ounces Beefeater gin
     - ¾ ounce Dolin dry vermouth
@@ -607,9 +582,8 @@ recipes:
     - freezer bar
   - name: Dale DeGroff's Martini
     author: Dale DeGroff
-    year: 
     notes: This is the winning recipe that Dale DeGroff submitted to online drinks publication PUNCH (punchdrink.com) when, in 2017, they blind-tasted twenty-seven recipes from leading bartenders across the United States. It’s more than appropriate that DeGroff won. As the head bartender at the revamped Rainbow Room in New York in 1987, he spearheaded the cocktail renaissance in the United States. A classicist with the tastes of his generation, DeGroff’s recipe is simple and dry, without bitters, and relies on a classic London dry gin, Beefeater. The only elaborate touch is the Martini Reserva Speciale ambrato vermouth, a complex, well-rounded option that uses botanicals such as cinchona bark and Chinese rhubarb. It is amber in color.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 3½ ounces Beefeater gin
     - ½ ounce Martini Reserva Speciale ambrato vermouth
@@ -625,9 +599,8 @@ recipes:
     - freezer bar
   - name: Dante House Martini
     author: Naren Young
-    year: 
     notes: Dante is an aperitivo bar in New York’s Greenwich  Village that specializes in lighter and low-alcohol drinks, day drinking, and similarly civilized European traditions. It is also one of the few bars in the United States that throws its Martinis, slowly pouring the liquid from tin to glass and back again. Throwing is a method that goes back to the nineteenth century and is still common in Cuba, parts of Spain, and a few other corners of the world. As you can see from the recipe below, Dante’s Martini is a bit involved, with a lot of finishing touches. Aside from the fennel tincture, however, it’s all easily put together.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 ounces Fords gin
     - 2 ounces Mancino secco vermouth
@@ -646,11 +619,10 @@ recipes:
     - martini
     - stirred
     - freezer bar
+    - dante
   - name: Fitty-Fitty
-    author: 
-    year: 
     notes: Many bartenders in the early days of the cocktail revival harkened back to age-old recipes of the Martini, where the vermouth played a more dominant role. Sasha Petraske, founder of Milk & Honey on New York’s Lower East Side, was perhaps the first to reintroduce this model. But Audrey Sanders, an owner of Pegu Club, which opened in New York in 2005, made the drink famous. Her “Fitty-Fitty” began with equal parts Tanqueray and Noilly Prat dry vermouth. When Noilly fiddled with their formula, she switched to the more delicate combination of Plymouth gin and the newly imported Dolin dry vermouth. For orange bitters, she used a house mix of Regan’s and Fee Brothers—the only orange bitters brands widely available. The combination became known as Feegan’s. (“With that in mind, you could also probably refer to this martini as a 50-50-50-50,” she quipped.) Saunders is adamant that, since the drink is a mere three ounces in volume, only one dash of Feegan’s is needed. “The Fitty-Fitty recipe is a lesson in calibration, so every aspect of it is dialed in,” she said. “A lot of folks don’t realize that vermouth can have as many or even more botanicals than gin does, and one of my goals was to pair them together botanically.” Finally, she added, “a lemon twist is absolutely essential to making this recipe work. It sharpens the botanicals and ties it altogether. It’s downright flabby without it.”
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 1½ ounces Plymouth gin
     - 1½ ounces Dolin dry vermouth
@@ -667,9 +639,8 @@ recipes:
     - freezer bar
   - name: Sakura Martini
     author: Kenya Goto
-    year: 
     notes: This is the house Martini at Bar Goto, a New York cocktail bar owned by bartender Kenta Goto, who was born in Tokyo. The drink, which has the novel garnish of a cherry blossom, was the first Goto created for the bar. “That’s one thing I always, always wanted to do—use the cherry blossom,” said Goto. “Everyone loves cherry blossoms. That’s the national flower of Japan, too.” That blossom as well as the addition of sake and maraschino liqueur to the usual gin results in a very delicate Martini. Salted cherry blossoms (the salt is a preservative) can be purchased at large-scale Japanese grocery stores or on Amazon.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2½ ounces Dassai 50 sake
     - 1 ounce Plymouth gin
@@ -686,9 +657,8 @@ recipes:
     - freezer bar
   - name: Sauvage House Martini
     author: William Elliott
-    year: 
     notes: William Elliott illustrated his Martini skills when he unveiled the Martini service at Maison Premiere (see this page). He cemented his reputation as a Martini master when he debuted the house Martini at Maison’s sister restaurant, Sauvage. The mixture is unusual, using unfamiliar ingredients, but the result is recognizably a Martini, even in its sui generis way. The gin is Xoriguer Gin de Mahon, a Spanish gin loaded with juniper and only juniper. Subbing for the vermouth is Luli Moscato Chinato, a hard-to-find, high-quality aromatized wine, which Sauvage itself sometimes runs out of. Combined with orange bitters, the two ingredients are a bewitching blend. Mahon is fairly easy to locate. Luli is not. If you can’t secure a bottle, buy a plane ticket to New York. (Though Luli is critical to this recipe, Elliott suggested that an acceptable substitute, in a pinch, is L. N. Mattei’s Cap Corse blanc, a Corsican aperitif.) Sauvage garnishes the drink with an array of aromatics, but you can get by with just a lemon twist.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2¾ ounces Xoriguer Gin de Mahon gin
     - ¾ ounce Luli Moscato Chinato
@@ -705,9 +675,8 @@ recipes:
     - freezer bar
   - name: Tongue-Cut Sparrow Martini
     author: Bobby Heugel
-    year: 
     notes: Tongue-Cut Sparrow is the most traditional cocktail bar opened by Houston drinks mogul Bobby Heugel. Thus, the Martini has found a natural home there. The drink can be had in a wet version—with two parts gin to one part vermouth, and orange bitters—or a very circa-1950s dry version made in what Heugel calls the Japanese style, wherein the ice is “washed” with vermouth, tossed, and then supplanted by two and a half ounces of gin and no bitters. “Japanese Martinis are bold, dry and very juniper-forward,” he said. The drink arrives frosty cold and pulls no punches.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - ¾ ounce Noilly Prat dry Vermouth
     - 2½ ounces Tanqueray gin
@@ -722,9 +691,8 @@ recipes:
     - stirred
   - name: FAF Martini
     author: Jim Kearns
-    year: 
     notes: Burrough’s Reserve was launched by Beefeater’s master distiller, Desmond Payne, as a sort of sipping gin. Supposedly based on an old recipe by Beefeater founder James Burrough, it stands apart from standard Beefeater gin because it is distilled in small copper stills and rests for a while in Jean de Lillet casks. Bartender Jim Kearns found a place for the premium gin in the house Martini at Slowly Shirley, his swank, subterranean cocktail cove in Greenwich Village. The main two-to-one recipe is simplicity itself. But the recipe for the special olives is not. If you’d rather not bother making the olives, a lemon twist is an option here.
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 ounces Beefeater Burrough’s Reserve
     - 1 ounce Dolin dry vermouth
@@ -740,14 +708,13 @@ recipes:
     - freezer bar
   - name: Trash-Tini
     author: Christine Wiseman
-    year: 
     notes: The Broker Shaker bars strike an amazing balance between casual and exacting. The atmosphere is laid-back and careless, and the drinks seem cheeky on the surface. However, each cocktail is precisely devised. The Trash-tini is a good example of this yin and yang. The name telegraphs a goofy send-up of the  dirty Martini. But, as this recipe shows, the road to that spoof is a complex one, with multiple layers of flavor and execution. It’s one of the better high-low-concept cocktails I’ve encountered.
-    glassware: 
+    glassware: rocks
     ingredients:
     - ¾ ounce Plymouth gin
     - ¾ ounce Grey Goose vodka
     - ¾ ounce Luxardo bitter bianco
-    - ¾ ounce Charred Onion–Infused Dry Vermouth
+    - ¾ ounce Charred Onion-Infused Dry Vermouth
     - 2 dashes Bittermens Orchard Street celery shrub
     - 2 dashes sherry vinegar
     - Cocktail onion and olive
@@ -764,7 +731,7 @@ recipes:
     author: Bernard DeVoto
     year: 1951
     notes: "Bernard DeVoto, in his book-length rant about the cocktail, The Hour, declared that the only proportions for a correct Martini were 3.7 parts gin to 1 part vermouth. The man had his ideas. He also, in one of his most boneheaded exhortations, maintained that a Martini should be made with American-made gin. “Whatever imported gin may be for, it isn’t for Martinis,” he wrote. So much for London dry gin. Was a man ever more proudly wrong? But, in deference to his passion for the Martini, we’re going to honor his preference. Luckily for us, there are many more quality domestic gins on the market now than in Bernard’s day, ones that can go head to head with a classic London dry gin. For his 3.7 to 1 formula, I heartily recommend Dorothy Parker gin out of Brooklyn for a solid, stoic, and stiff Martini that even DeVoto would admire. Also recommended: J. Rieger Midwest dry gin from Missouri and Woody Creek gin from Colorado. As for measuring out 3.7 ounces of gin, just eyeball it. DeVoto says you can hum while you stir the drink, but not whistle or sing. Bitters are forbidden by the man."
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 3.7 ounces gin
     - 1 ounce dry vermouth
@@ -781,7 +748,7 @@ recipes:
     author: Lowell Edmunds
     year: 1981
     notes: In 1981, this Rutgers classics professor published The Silver Bullet, a meticulously researched book-length study of the Martini’s place in world culture. Thus, he established himself as one of the leading Martini authorities of all time. This is his recipe for a Martini. As you might imagine, it is very detailed and particular. I print his instructions verbatim.
-    glassware: 
+    glassware: martini
     ingredients:
     - 2 ounces Greenhook Ginsmiths gin or Beefeater gin
     - ⅛ ounce (for very dry) or ¼ ounce (for less dry) Dolin dry vermouth
@@ -804,7 +771,7 @@ recipes:
     author: Barnaby Conrad
     year: 1955
     notes: Like Lowell Edmunds, Conrad published an influential book on the cocktail. His recipe for a Martini is even more specific, and more fanciful, beginning with a paraphrased quote from Shakespeare’s Henry VI, Part II.
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 5 parts (2½ ounces) Plymouth or Beefeater gin
     - 1 part (½ ounce) Noilly Prat or Martini & Rossi dry vermouth
@@ -823,9 +790,8 @@ recipes:
 #Epilogue: My Martini
   - name: My Martini
     author: Robert Simonson
-    year: 
     notes: "What is my Martini? I’ve wrestled with this question since I began writing this book. I knew I would have to weigh in on the matter at some point. And I really did think hard about what my ideal Martini was. What is it made of? How is it made? How is it served? I had plenty of ideas and did plenty of experimenting, tasting dozens of Martinis at home, using different combinations of gin, vermouth, and bitters and varying techniques. But, in the end, it all began to feel foolish. An ideal Martini? A single Martini that I would drink until I die, eschewing all others? It was ridiculous, foolhardy. I would be denying myself so much, for there are so many great Martinis out there. That is the truth of the matter. There is no one perfect recipe. Instead, there are many wonderful recipes. I know. I have sampled a lot of them. Certainly, there are Martinis I prefer, gins I prefer, vermouths I prefer; as well as gins I abhor, vermouths I abhor, and drink-making practices I abhor—such as not chilling a drink enough or leaving a sloppy ice floe of shavings on the surface of the cocktail. But the truth is, there are many more things I like than dislike. What would, for instance, be my gin of choice? Beefeater? Excellent selection, a benchmark London Dry. Plymouth? Also excellent, but gentler and completely different from Beefeater. Tanqueray? Strong and assertive. Bombay? Dependable and steady. Old Raj? Eccentric, yet fascinating. So many good gins. The same goes for vermouth. Sometimes I want something elegant, like Dolin. Sometimes I want something traditional and straightforward, like Noilly Prat. Writers of the past who, in their books and articles, insisted there was but one proper Martini were fools, and it’s a wonder that we’ve spent so much time analyzing their self-important attitudinizing. Bernard DeVoto and David Embury, while good writers and interesting thinkers, were doctrinaire pedants. They had much wisdom to dispense, but, when it came to recipes, they were cranks—and that’s partly why we cocktail nuts love them so much. (Wouldn’t you know it: DeVoto and Embury disagreed with each other on matters Martini.) Great Martini recipes differ, but they all rest within certain parameters, they all live in Martini-ville. They all answer to a certain profile that we, even from a distance and without our glasses, recognize as the drink in question. So, then, what is my Martini? The recipe I give you on the followng page is just one that has dependably pleased me over the years. I’m not saying it’s the best Martini. I’m not saying it’s my favorite Martini. I’m saying it’s a Martini that never lets me down and always makes me giddy with anticipation when I know it’s in my future. It is made with an obscure gin, Blue gin, distilled by an Austrian named Hans Reisetbauer, who is best known for his exquisite eau-de-vie. His gin uses twenty-seven botanicals from ten countries, but is far from busy in flavor. It is only made once a year in small batches. I am not choosing this gin to be a fancy-pants. I’m choosing it because every time I have tasted it, since my first sip at Tabla—the Danny Meyer–run Indian restaurant that used to inhabit Union Square, in New York—it has struck me as exceptional. I don’t enjoy it often, because it is expensive and not easy to find, so I often save this Martini for special occasions, or when I feel like treating myself well. For all these reasons, I am happy to call this my Martini. But I will never call it my only Martini."
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2¼ ounces Blue gin
     - ¾ ounce Dolin dry vermouth
@@ -842,9 +808,7 @@ recipes:
     - freezer bar
   - name: My Martini #2
     author: Robert Simonson
-    year: 
-    notes: 
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2¼ ounces Beefeater gin
     - ¾ ounce Noilly Prat dry vermouth
@@ -861,9 +825,7 @@ recipes:
     - freezer bar
   - name: My Martini #3
     author: Robert Simonson
-    year: 
-    notes: 
-    glassware: 
+    glassware: nick & nora
     ingredients:
     - 2 ounces Bombay gin (regular, not Sapphire)
     - 1 ounce Dolin dry vermouth

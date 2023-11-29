@@ -1,0 +1,73 @@
+source: 
+hidden: true
+recipes:
+
+#
+  - name: Demerara Syrup
+    notes: 
+    ingredients: 
+    - 2 parts demerara sugar
+    - 1 part water
+    steps:
+    - Combine 2 parts demerara sugar and 1 part water in a sauce pan and cook over medium heat, stirring constantly, until the sugar has dissolved. 
+    - Transfer to a storage container and refrigerate until ready to use, up to 2 months.
+  - name: Salt Solution
+    notes: 
+    ingredients: 
+    - 10 parts water
+    - 1 part kosher salt
+    steps:
+    - Combine water and salt in a bowl and whisk until the salt has dissolved. Transfer to a dropper or dasher bottle.
+  - name: Fleur Noire Tea Syrup
+    notes: 
+    ingredients: 
+    - 200g water
+    - 10g Fleur Noire
+    - 200g granulated sugar
+    steps:
+    - Heat the water to 195°F and combine with the tea. 
+    - Let steep for 4 minutes, then strain into a bowl through a fine-mesh sieve or paper filter. 
+    - Add the sugar and whisk until the sugar has dissolved. 
+    - Transfer to a store container and refrigerate until ready to use, up to 4 weeks.
+  - name: Fleur Noire Tea Cordial
+    notes: 
+    ingredients: 
+    - Batch of Fleur Noire Tea Syrup
+    - Citric acid
+    - Malic acid
+    - Lcatic acid
+    steps:
+    - Prepare a batch of Fleur Noire Tea Syrup. 
+    - Weigh the syrup in a bowl and add 2% (by weight) of citric acid, 1% of malic acid and 0.5% of lactic acid. 
+    - Whisk until the acids have dissolved. 
+    - Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: Fleur Noire Tea Infusion
+    notes: 
+    ingredients: 
+    - 750mL bottle of spirit
+    - 30 grams Fleur Noire tea
+    steps:
+    - Combine the spirit and tea in a bowl and stir to combine. 
+    - Let stand at room temperature for 1 hour, stirring occasionally. 
+    - Pass the infusion through a fine-mesh sieve. 
+    - If any particles remain in the infusion, strain it again through a paper filter. 
+    - Funnel back into the spirit bottle and refrigerate until ready to use, up to 3 months.
+  - name: Peanut Butter-Infused Linie Aquavit
+    notes: 
+    ingredients: 
+    - 750mL Linie aquavit
+    - 40 grams creamy peanut butter
+    - 
+    steps:
+    - Combine aquavit with creamy peanut butter in a blender and blend until smooth. 
+    - Transfer to a bowl, cover, and freeze for 12 hours. 
+    - Carefully poke a hole in the solidified peanut butter and drain the liquid out. 
+    - Strain the liquid through a paper coffee filter or fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the aquavit bottle and refrigerate until ready to use, up to 1 month. 
+  - name: Honey Syrup
+    notes: 
+    ingredients: 
+    - 2 parts wildflower honey
+    - 1 part hot water
+    steps:
+    - Combine wildflower honey with hot water in a bowl and whisk until thoroughly blended. 
+    - Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.

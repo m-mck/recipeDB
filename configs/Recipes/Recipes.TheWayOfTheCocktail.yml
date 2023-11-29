@@ -3,24 +3,26 @@ recipes:
 
 #Risshun | Spring Begins
   - name: Kumiko Highball
-    notes: 
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: highball
     ingredients: 
     - 1½ ounces chilled Japanese whisky
     - Club soda, to top
     - 1 barspoon oloroso sherry (such as a Valdespino Don Gonzalo oloroso VOS)
     steps:
-    - In a chilled highball glass, add two pieces of ice large enough to fill the glass from top to bottom. Pour chilled whisky from the freezer into the glass. Add club soda, and gently nuzzle the ice upward with a barspoon to incorporate. Then drizzle the sherry over the top of the ice. This allows the sherry to layer on top of the drink, which makes the lovely aromas one of the first things you notice. No garnish.
+    - In a chilled highball glass, add two pieces of ice large enough to fill the glass from top to bottom. 
+    - Pour chilled whisky from the freezer into the glass. 
+    - Add club soda, and gently nuzzle the ice upward with a barspoon to incorporate. 
+    - Then drizzle the sherry over the top of the ice. 
+    - This allows the sherry to layer on top of the drink, which makes the lovely aromas one of the first things you notice. 
+    - No garnish.
     tags: 
     - "haru: spring"
     - stirred
   - name: Umé Old Fashioned
     notes: The noble umé trees will not bear fruit until later in the year, but seeing the pink and white flowers blossom underneath late winter’s cloak of snow always makes me crave a dose of Umé-shu (this page). Because preservation techniques are so commonly embraced in Japan, most people will have a jar from the previous year’s batch on hand in the spring, so it is not uncommon to see the liqueur consumed year-round. In this variation on the old fashioned, invented in homage to umé, the succulent flavors of umé-shu are amplified with the addition of the umé-flavored whisky from Eigashima Distillery. Powerful like the tree, but fragrant and bright like the flowers, the cocktail tastes of full-bodied malts, honey, and sweet stone fruit.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: rocks
     ingredients: 
     - 2 dashes Peychaud’s bitters
     - 1½ ounces Akashi Umé whisky
@@ -30,7 +32,10 @@ recipes:
     - 1 barspoon Lionel Osmin Estela Tannat-Malbec vin de liqueur
     - "Garnish: Lemon peel"
     steps:
-    - Dash the Peychaud’s bitters on top of a large piece of ice in a rocks glass. In a mixing glass, combine the umé whisky, Japanese single-malt whisky, umé-shu, honey syrup, and vin de liqueur. Add ice and stir to chill. Strain into the prepared rocks glass. Express lemon oils over the top of the drink (discard the peel).
+    - Dash the Peychaud’s bitters on top of a large piece of ice in a rocks glass. 
+    - In a mixing glass, combine the umé whisky, Japanese single-malt whisky, umé-shu, honey syrup, and vin de liqueur. 
+    - Add ice and stir to chill. Strain into the prepared rocks glass. 
+    - Express lemon oils over the top of the drink (discard the peel).
     tags: 
     - "haru: spring"
     - stirred
@@ -38,8 +43,7 @@ recipes:
   - name: Smoked Umé Margarita
     notes: This margarita-like cocktail toys with expectations in subtle ways as the woodsmoke flavor of mezcal sits under a ribbon of dark sweetness from the umé-shu and oloroso sherry. Those earthy flavors perk up with zesty lime juice and a touch of anise from the Peychaud’s bitters. On paper it reads somewhat intimidating with so many rich and brooding ingredients, but thanks to the fresh citrus, it is an evocative glass sprinkled with sunshine, ideal for a chilly spring evening.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: rocks
     ingredients: 
     - 1 ounce Fidencio Clásico mezcal
     - ¾ ounce Umé-shu
@@ -49,16 +53,18 @@ recipes:
     - 2 dashes Peychaud’s bitters
     - "Garnish: Lemon peel"
     steps:
-    - In a shaker tin, combine the mezcal, umé-shu, oloroso sherry, lime juice, simple syrup, and Peychaud’s bitters with ice. Shake to chill, then strain into a chilled rocks glass over cubed ice. Express the oils of the lemon peel over the top of the drink (discard the peel).
+    - In a shaker tin, combine the mezcal, umé-shu, oloroso sherry, lime juice, simple syrup, and Peychaud’s bitters with ice. 
+    - Shake to chill, then strain into a chilled rocks glass over cubed ice. 
+    - Express the oils of the lemon peel over the top of the drink (discard the peel).
     tags: 
     - "haru: spring"
     - shaken
+    - margarita
     - citrus
   - name: Silken Chocolate Martini
     notes: The first chocolate martini I learned to make featured the notoriously rich Godiva chocolate liqueur. At the time I found it delicious, but these days my palate calls for a more minimal and sophisticated approach. Like biting into a chocolate cherry cordial, this variation is lush and nuanced, with subtle vanilla and chocolate notes from crème de cacao meeting the sweet corn and barley flavors of Nikka Coffey vodka, which is softened by the fruity personality of Pineau des Charentes while Cocchi Americano Rosa adds floral rose and raspberry tones. Barley shōchū is another option for the base spirit if you do not have Nikka Coffey vodka or want to explore a variation.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 1¼ ounces Nikka Coffey vodka or Mizu Saga Barley shōchū
     - ½ ounce Pineau des Charentes
@@ -66,7 +72,10 @@ recipes:
     - ¼ ounce Cocchi Americano Rosa
     - "Garnish: Sprig of chocolate mint"
     steps:
-    - In a mixing glass, combine the vodka or shōchū, Pineau des Charentes, crème de cacao, and Cocchi Rosa. Add ice and stir to chill. Strain into a chilled cocktail glass. Garnish with a sprig of chocolate mint.
+    - In a mixing glass, combine the vodka or shōchū, Pineau des Charentes, crème de cacao, and Cocchi Rosa. 
+    - Add ice and stir to chill. 
+    - Strain into a chilled cocktail glass. 
+    - Garnish with a sprig of chocolate mint.
     tags: 
     - "haru: spring"
     - stirred
@@ -76,8 +85,7 @@ recipes:
   - name: Hishimochi Bitters and Soda
     notes: "As the country waits for sakura trees to bloom, a holiday known as Hinamatsuri (which translates to Doll Festival or Girl’s Day) offers the first taste of the season’s colors. The old tradition is still practiced in some rural areas, marked by floating paper or straw dolls downriver as a way of casting out the evil, sickness, and depression that comes with winter. It is also considered a moment to celebrate girls and hope for their health and happiness for the year (don’t worry, boys get a special day, too). Hishimochi is a rhombus-shaped ceremonial dessert eaten on this day. The wagashi has three layers from top to bottom: pink, white, and green, which represent security, purity, and health or long life, respectively. Inspired by the colorful layers and the intention behind Hinamatsuri, I came up with this bitters and soda variation that is served layered with matcha syrup on the bottom, followed by club soda and a generous dashing of Peychaud’s bitters on top. The matcha brings a semisweet, vegetal quality to the drink, which opens up when paired with the club soda, while the layer of bitters on top brings notes of aniseed and baking spices. Whether sipped top-down or mixed up and imbibed as such, the colors are striking to behold and delicious, too!"
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: collins
     ingredients: 
     - ¼ teaspoon matcha powder
     - 1 ounce hot water (about 130°F)
@@ -85,30 +93,39 @@ recipes:
     - 3 to 4 ounces club soda
     - "Garnish: 5 to 7 dashes Peychaud’s bitters"
     steps:
-    - Fill a collins glass with ice to chill. Sift the matcha through a tea strainer into a chawan or shallow bowl. Add the hot water and whisk until it becomes a paste. Add the simple syrup and whisk to incorporate. Pour off the chilling ice from the glass. Pour in the matcha syrup mixture and fill the collins glass with crushed ice. Slowly pour the club soda into the glass, without agitating the layers. Garnish with the Peychaud’s bitters and serve with a Japanese-style stir stick (madorā) or reusable straw.
+    - Fill a collins glass with ice to chill. 
+    - Sift the matcha through a tea strainer into a chawan or shallow bowl. 
+    - Add the hot water and whisk until it becomes a paste. 
+    - Add the simple syrup and whisk to incorporate. 
+    - Pour off the chilling ice from the glass. 
+    - Pour in the matcha syrup mixture and fill the collins glass with crushed ice. 
+    - Slowly pour the club soda into the glass, without agitating the layers. 
+    - Garnish with the Peychaud’s bitters and serve with a Japanese-style stir stick (madorā) or reusable straw.
     tags: 
     - "haru: spring"
     - n/a
   - name: Saké and Sonic
     notes: Taking inspiration from the aperitivo template of the Americano cocktail (sweet vermouth, Campari, and soda water), a soft rice-based shōchū comes together with Japanese saké to strike a similar low-proof balance in this simple highball. Like the Italian cocktail, this one also drinks like an apéritif, but is fashioned for leisurely sipping over a table of otsumami as the sweet tone of rice is juxtaposed with bitter tonic water. Try a couple of Saké and Sonics alongside dashimaki tamago, spinach with sesame miso dressing, or crisp, young greens to fully welcome spring.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: highball
     ingredients: 
     - 1 ounce Hakutake Ginrei Shiro rice shōchū
     - 1 ounce Chiyonosono Shared Promise junmai
     - 2 ounces club soda
     - 1 ounce tonic water
     steps:
-    - In a highball glass, add two large pieces of ice, then pour the shōchū and saké into the glass. Stir gently to chill. Add two parts club soda to one part tonic water. Give the drink a gentle nuzzle by scooping the barspoon under the bottom piece of ice. Keep the ice lifted for a few moments, then lower it gently and serve.
+    - In a highball glass, add two large pieces of ice, then pour the shōchū and saké into the glass. 
+    - Stir gently to chill. 
+    - Add two parts club soda to one part tonic water. 
+    - Give the drink a gentle nuzzle by scooping the barspoon under the bottom piece of ice. 
+    - Keep the ice lifted for a few moments, then lower it gently and serve.
     tags: 
     - "haru: spring"
     - stirred
   - name: Rose Manhattan
     notes: Japanese bartenders do not shy away from using commercial syrups or liqueurs in their cocktails, so in that spirit, this Manhattan variation celebrates spring via a floral liqueur and a grassy cane syrup from Martinique. The qualities of Hibiki Japanese Harmony whisky—a banana-like lightness along with sherry and smoke notes—pair sublimely with the Cocchi Rosa and oloroso sherry. A good fit for fans of the Reverse Manhattan or Adonis cocktail, the bright floral characteristics of the drink swim with flavors of dried roses and wrinkled stone fruit.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: coupe
     ingredients: 
     - 1½ ounces Hibiki Japanese Harmony whisky
     - ½ ounce Cocchi Americano Rosa
@@ -117,7 +134,9 @@ recipes:
     - 1 barspoon Combier crème de rose
     - "Garnish: Lime peel"
     steps:
-    - In a mixing glass, combine the whisky, Cocchi Americano Rosa, oloroso sherry, cane syrup, and rose liqueur. Add ice and stir to chill. Strain into a chilled coupe or cocktail glass and gently twist a lime peel over the cocktail, just enough to wake up the oils, and garnish.
+    - In a mixing glass, combine the whisky, Cocchi Americano Rosa, oloroso sherry, cane syrup, and rose liqueur. 
+    - Add ice and stir to chill. 
+    - Strain into a chilled coupe or cocktail glass and gently twist a lime peel over the cocktail, just enough to wake up the oils, and garnish.
     tags: 
     - "haru: spring"
     - stirred
@@ -127,8 +146,7 @@ recipes:
   - name: Ichigo Sour
     notes: Strawberries find a home in all kinds of delightful confections, on snack trays, and in cocktails this time of the year. Ichigo daifuku (strawberry-stuffed omochi) are a classic Japanese confectionery, typically a shell of chewy rice-based mochi wrapped around a strawberry and sweet red bean paste. To capture this essence in a cocktail, sweet potato shōchū and rice vodka form an earthy but agreeably sweet base. Airy egg whites represent the soft caress of the omochi shell, while herbaceous dry vermouth brings a solid balance to the strawberry syrup. This cocktail is perfect for the Clover Club drinker, or for someone who simply loves egg white cocktails.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 1½ ounces Nishi Shuzō Satsuma Hozan sweet potato shōchū
     - ½ ounce Suntory Haku vodka
@@ -138,7 +156,11 @@ recipes:
     - 1 egg white
     - "Garnish: 2 or 3 dashes Peychaud’s bitters"
     steps:
-    - In a shaker tin, combine the sweet potato shōchū, vodka, strawberry syrup, dry vermouth, and lemon juice. Add the egg white and shake without ice to emulsify. Add ice and shake briskly to aerate and chill the cocktail. Strain into a chilled cocktail glass. Garnish with artful dashes of Peychaud’s bitters.
+    - In a shaker tin, combine the sweet potato shōchū, vodka, strawberry syrup, dry vermouth, and lemon juice. 
+    - Add the egg white and shake without ice to emulsify. 
+    - Add ice and shake briskly to aerate and chill the cocktail. 
+    - Strain into a chilled cocktail glass. 
+    - Garnish with artful dashes of Peychaud’s bitters.
     tags: 
     - "haru: spring"
     - shaken
@@ -147,7 +169,7 @@ recipes:
     notes: Named after the Louis Armstrong song, the Kiss of Fire cocktail was created by bartender Kenji Ishioka and won first place in the All-Japan Drinks competition of 1953. While the drink never gained notoriety overseas, it quickly rose to the status of modern classic in Japan, especially in Ōsaka, where Ishioka-san’s grandson Yūji Uyama features the cocktail on the menu at his bar, Trickies. It is a somewhat unexpected combination of flavors as the rich red fruit from the sloe gin balances the sharpness of the vodka and the dry vermouth. The drink has an acidity that makes my mouth water and yet somehow it still strikes balance with just the sugar rim for sweetness.
     author: Kenji Ishioka
     year: 1953
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - ¾ ounce Suntory Haku vodka
     - ¾ ounce Sipsmith sloe gin
@@ -155,7 +177,12 @@ recipes:
     - 1 barspoon fresh lemon juice
     - Sugar and a lemon wheel, to rim the glass
     steps:
-    - Combine the vodka, sloe gin, dry vermouth, and lemon juice in a shaker tin with ice. Shake briskly, but not for long. Too much dilution and the drink will feel thin on the palate. Use more of a rolling canter of a shake, mostly to chill. Prepare a “snow style” sugar-rimmed cocktail glass by wetting the rim of the glass with the freshly cut edge of a lemon wheel and then dipping the wet rim into a dish of sugar. Strain the cocktail into the rimmed glass. With each sip, a little bit of sugar falls from the rim like snow, sweetening your lips and acting as a reminder of the fleeting nature of the seasons.
+    - Combine the vodka, sloe gin, dry vermouth, and lemon juice in a shaker tin with ice. 
+    - Shake briskly, but not for long. Too much dilution and the drink will feel thin on the palate. 
+    - Use more of a rolling canter of a shake, mostly to chill. 
+    - Prepare a “snow style” sugar-rimmed cocktail glass by wetting the rim of the glass with the freshly cut edge of a lemon wheel and then dipping the wet rim into a dish of sugar. 
+    - Strain the cocktail into the rimmed glass. 
+    - With each sip, a little bit of sugar falls from the rim like snow, sweetening your lips and acting as a reminder of the fleeting nature of the seasons.
     tags: 
     - "haru: spring"
     - shaken
@@ -163,8 +190,7 @@ recipes:
   - name: Washitsu
     notes: The islands of Okinawa are the heart of awamori country. When I think of the lively, funky island spirit, my mind usually meanders toward the realm of tropical drinks—awamori is savory and slightly fruity, a fitting partner for sultry flavors. In this cocktail, I wanted the drink’s escapist nature to be rooted in Japanese sentiment, so matcha adds a vigorous green tannin element to the combination of awamori and white rum, while the crème de cacao brings a dark sweetness to the mix. I particularly love the Château d’Arlay Macvin du Jura blanc, a French mistelle, because it reminds me of the smell of fresh bamboo and tatami floors.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: tulip
     ingredients: 
     - ¾ ounce Masahiro Shuzō Shimauta awamori
     - ¾ ounce Banks 5 Island Blend white rum
@@ -175,7 +201,11 @@ recipes:
     - 1 chashaku (traditional utensil used for measuring matcha) matcha powder (about ¼ teaspoon)
     - "Garnish: Grated dark chocolate and grated cinnamon"
     steps:
-    - In a shaker tin, combine the awamori, rum, lime juice, crème de cacao, mistelle, and cane syrup. Sift the matcha into the tin. Add one large ice cube and whip shake (short and rapid) to aerate and fold the powdery matcha into the other ingredients without creating clumps. Strain into a large tulip glass over crushed ice. Garnish with grated dark chocolate and cinnamon.
+    - In a shaker tin, combine the awamori, rum, lime juice, crème de cacao, mistelle, and cane syrup. 
+    - Sift the matcha into the tin. 
+    - Add one large ice cube and whip shake (short and rapid) to aerate and fold the powdery matcha into the other ingredients without creating clumps. 
+    - Strain into a large tulip glass over crushed ice. 
+    - Garnish with grated dark chocolate and cinnamon.
     tags: 
     - "haru: spring"
     - shaken
@@ -185,8 +215,7 @@ recipes:
   - name: Shiozakura Highball
     notes: Everyone should be able to have a taste of sakura season, so I created a spiritfree imbued with the graceful beauty of the sakura blossom. The shiozakura saline shines when paired with lemon, while sweet potato vinegar brings a weightiness to the combination. For fans of drinks like kombucha or salted lemonade, this is an ethereal sipper with decided balance.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: collins
     ingredients: 
     - ¼ ounce Shiozakura Saline Solution
     - ¾ ounce Purple Sweet Potato Vinegar Syrup
@@ -194,7 +223,10 @@ recipes:
     - Club soda, to top
     - "Garnish: Fresh mint sprig and rinsed shiozakura blossom"
     steps:
-    - In a mixing glass, combine the shiozakura saline solution, purple sweet potato vinegar syrup, and lemon juice with ice, and stir to chill. Strain into a collins glass over fresh ice. Top with club soda. Garnish with a sprig of fresh mint and a rinsed shiozakura blossom.
+    - In a mixing glass, combine the shiozakura saline solution, purple sweet potato vinegar syrup, and lemon juice with ice, and stir to chill. 
+    - Strain into a collins glass over fresh ice. 
+    - Top with club soda. 
+    - Garnish with a sprig of fresh mint and a rinsed shiozakura blossom.
     tags: 
     - "haru: spring"
     - n/a
@@ -202,8 +234,7 @@ recipes:
   - name: Sakura Collins
     notes: The classic Tom Collins is fresh, bright, and easygoing—a lovely option for spring sipping. To make a version for sakura season, I built upon the standard combination of gin, lemon juice, and soda by adding a few special touches of cherry blossoms. Between the Roku gin, sakura vermouth, and saline solution, the bubbly cocktail has a floral quality that tiptoes between roses and honeysuckle, bolstered by a ribbon of cinnamon and salt, and finishes in a fruity way that makes me think of sour cherries, aloe, and peaches. The drink transforms into a work of art as the flower garnish becomes suspended in the glass.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: collins
     ingredients: 
     - 1½ ounces Suntory Roku gin
     - ¼ ounce Mancino Sakura vermouth
@@ -213,7 +244,10 @@ recipes:
     - Club soda, to top
     - "Garnish: Rinsed shiozakura blossoms (see Note)"
     steps:
-    - In a collins glass, combine the gin, sakura vermouth, shiozakura saline solution, lemon juice, and simple syrup. Add some ice and give it a quick stir to incorporate the ingredients. Top it off with more ice to fill the glass and then finish with a splash of club soda. Garnish with a few shiozakura blossoms—use tweezers or the trident end of a barspoon to arrange them in the glass, so they dance around the cocktail as it is sipped.
+    - In a collins glass, combine the gin, sakura vermouth, shiozakura saline solution, lemon juice, and simple syrup. 
+    - Add some ice and give it a quick stir to incorporate the ingredients. 
+    - Top it off with more ice to fill the glass and then finish with a splash of club soda. 
+    - Garnish with a few shiozakura blossoms—use tweezers or the trident end of a barspoon to arrange them in the glass, so they dance around the cocktail as it is sipped.
     - "Note: For this cocktail, I use rinsed shiozakura blossoms left over from making the saline solution."
     tags: 
     - "haru: spring"
@@ -221,15 +255,15 @@ recipes:
   - name: Cherry Blossom Cocktail
     notes: Many bartenders across the globe have created cocktails in homage to sakura season, but the very first was likely created by Tasaburō Tao, who opened the prestigious Café de Paris in Yokohama in 1923. His cocktail of Cognac, Cherry Heering, grenadine, lemon juice, and Curaçao has since secured its place as the standard cocktail bearing the coveted name Cherry Blossom. The drink is a bold red, like American cherries rather than the pale pink and white cherry blossoms of Japan. For this reason, there is a notion that Tao created the drink for Western tourists and businesspeople who were visiting Yokohama, to give them a taste of home. This may or may not be true, but I appreciate the sentiment behind the tale. As with many drinks invented over a hundred years ago, Tao’s original cocktail leans much sweeter than what modern palates tend to appreciate, so for my iteration of the drink I removed the grenadine and brought up the citrus elements, reaching for Royal Combier Grande Liqueur for its profile of orange, vanilla, and spices. The heart of the cocktail remains intact, with the vivacious cherry liqueur shining through, supported by notes of vanilla and oak. It maintains a satisfying amount of sweetness, which I find best suited for a dessert cocktail, perhaps alongside super-dark bitter chocolate or a hearty cheese board. For the same reason, I also serve such cocktails in smaller doses, to be sipped as a petite nightcap instead of a regular-size quaff. To make a full-size version, just double the recipe.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - ½ ounce H by Hine VSOP Cognac
     - ½ ounce Cherry Heering
     - 1 barspoon fresh lemon juice
     - 1 barspoon Royal Combier Grande orange liqueur
     steps:
-    - In a shaker tin, combine the Cognac, Cherry Heering, lemon juice, and orange liqueur with ice. Shake to chill, then strain into a well-chilled cocktail glass.
+    - In a shaker tin, combine the Cognac, Cherry Heering, lemon juice, and orange liqueur with ice. 
+    - Shake to chill, then strain into a well-chilled cocktail glass.
     tags: 
     - "haru: spring"
     - shaken
@@ -237,8 +271,7 @@ recipes:
   - name: Sakurazuké Martini
     notes: When sakura season arrives we make pink snacks to celebrate, including sakura-mochi—a sakura-hued mochi filled with koshian (sweet red bean paste) and wrapped in pickled sakura leaves. The koshian tastes sweet and earthy, almost like black pepper when put next to the salty sakura rice, and the pickled sakura leaf wrapping tastes of sweet cinnamon and fresh tobacco leaves. In this cocktail, I pay homage to the snack. The saké, which represents the rice, brings a supple base to the drink, while sakura vermouth contributes a lightly sweet and floral bouquet. Campari saunters in with its bold grapefruit and clove-studded orange qualities, dyeing the contents of the glass a gorgeous crimson hue. Like a big bold slice of grapefruit dipped in salt, it is a cocktail for those who like their drinks with an audacious streak.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 1½ ounces Amabuki Gin no Kurenai junmai
     - ½ ounce Mancino Sakura vermouth
@@ -246,7 +279,11 @@ recipes:
     - 1 barspoon Shiozakura Saline Solution
     - "Garnish: 1 shiozakura blossom and lemon peel"
     steps:
-    - In a mixing glass, combine the saké, sakura vermouth, Campari, and shiozakura saline solution. Add ice and stir to chill. Place the sakura blossom in the bottom of a chilled cocktail glass. Strain the cocktail over the sakura blossom, unfurling the petals in a lively display of springtime delight. Express the oils of the lemon peel over the top of the drink (discard the peel).
+    - In a mixing glass, combine the saké, sakura vermouth, Campari, and shiozakura saline solution. 
+    - Add ice and stir to chill. 
+    - Place the sakura blossom in the bottom of a chilled cocktail glass. 
+    - Strain the cocktail over the sakura blossom, unfurling the petals in a lively display of springtime delight. 
+    - Express the oils of the lemon peel over the top of the drink (discard the peel).
     - "Shiozakura: Within the hundreds of varieties of sakura, the yaezakura, a double-petaled variety with a multitude of pale pink petals like the frills of a ballerina’s tutu is the flower of choice for salt-pickling. They are often used to make wagashi, or are incorporated into onigiri as sakura viewing snacks. I use shiozakura in cocktails for salinity, hints of baking spice, and an incomparable bouquet. When you rinse the salt from the flowers you end up with both an edible garnish and a floral saline solution, which may be used in cocktails and spiritfrees alike."
     tags: 
     - "haru: spring"
@@ -255,8 +292,7 @@ recipes:
   - name: Delicate Refusal
     notes: While running the bar program at GreenRiver in downtown Chicago, I created this drink to overturn preconceived notions about sakura cocktails. To achieve this, I incorporated ingredients that represent the cherry tree as a whole. The green notes of blanco tequila and sotol represent the earth, like the lichen-cloaked bark at the base of the tree. Verjus blanc, apricot eau-de-vie, grapefruit liqueur, and fino sherry meld together to represent the blossoms themselves, and the final touch of bitters represents the spring rains that eventually come to wash the flowers away. It is a springtime cocktail for the martini drinker. As the cocktail is poured, the flower blooms before your eyes as it flutters open in the liquid representing the coming of spring, and then witness the layer of pink cast over the surface with the garnishing of bitters, like the spring showers that carry the blossoms.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 1 shiozakura, rinsed
     - 1 ounce Tequila Fortaleza Blanco
@@ -267,7 +303,11 @@ recipes:
     - ¾ ounce Valdespino Inocente fino sherry
     - "Garnish: 5 sprays Peychaud’s bitters"
     steps:
-    - Place the rinsed shiozakura in a chilled cocktail glass and set aside. In a mixing glass, combine the blanco tequila, sotol, verjus blanc, apricot eau-de-vie, pink grapefruit liqueur, and fino sherry. Add ice and stir to chill. Strain into the prepared cocktail glass. Finish with a spritz of Peychaud’s bitters over the top of the cocktail, enough to cast a layer of dark pink over the surface (about 5 sprays).
+    - Place the rinsed shiozakura in a chilled cocktail glass and set aside. 
+    - In a mixing glass, combine the blanco tequila, sotol, verjus blanc, apricot eau-de-vie, pink grapefruit liqueur, and fino sherry. 
+    - Add ice and stir to chill. 
+    - Strain into the prepared cocktail glass. 
+    - Finish with a spritz of Peychaud’s bitters over the top of the cocktail, enough to cast a layer of dark pink over the surface (about 5 sprays).
     - "Note: Sometimes a cocktail benefits from a spray of bitters instead of using dashes or drops, because this method coats the surface of the drink in a light and even layer. In this case, I like to use little glass misters or atomizers, which can be bought online in various sizes. When spraying bitters over a cocktail, do a test to the side first to get a feel for how wide and intense the spray will be. Keep your mister far enough from the glass so it doesn’t overflow the liquid, but not so far that the droplets spill all over the bar surrounding the glass."
     tags: 
     - "haru: spring"
@@ -277,8 +317,7 @@ recipes:
   - name: Mosomé Martini
     notes: Seimei means clear, bright, and pure, and to me that is exactly how a great martini should look and taste—clean, crisp, and revitalizing. Dry gin martinis are plentiful in Japanese cocktail bars and every masutā (master bartender) has their exact preferences for how the drink should be made. More often than not, the martinis you find in Japan are dry—usually 5:1 gin to vermouth—made with chilled Gordon’s, Bombay Sapphire, or Beefeater and paired with Noilly Prat Original Dry vermouth. I also prefer the 5:1 ratio at Kumiko, reaching for the bottle of Suntory Roku gin from the freezer for our house martini, or the Ki No Bi dry gin from The Kyōto Distillery for a martini with a more voluptuous body. For times that call for something even more extravagant, I have an extra-special build that speaks to my personal tastes, made with Noilly Prat Original Dry vermouth, equal parts Ki No Tea gin and Monkey 47 gin, and yuzu bitters from the aptly named brand, The Japanese Bitters. I chill the cocktail glass with a full pour of dry vermouth over crushed ice first. When the glass is chilled, the vermouth and crushed ice are poured into a rocks glass, layered with absinthe, and served as an apéritif. For the martini itself, a medley of Japanese and German gin botanicals unite, and the yuzu bitters add luminosity. What may feel like an excess of steps to some, to me is a satisfying ritual and a stylish cocktail experience.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 2 to 3 ounces Noilly Prat Original Dry vermouth
     - 1¼ ounces The Kyōto Distillery Ki No Tea Kyōto dry gin
@@ -287,7 +326,12 @@ recipes:
     - ½ ounce absinthe
     - "Garnish: Lemon peel, lemon twist, and olives"
     steps:
-    - Fill a small cocktail glass with crushed ice and add the Noilly Prat Original Dry. In a mixing glass, combine both gins and the bitters. Add ice and stir to chill. Returning to the prepared cocktail glass, transfer the crushed ice and vermouth to a tumbler, layer the absinthe on top, and serve. Strain the martini into the seasoned cocktail glass, reserving a portion in a sidecar in a bed of crushed ice. Express the lemon peel oils over the cocktail (discard the peel), and arrange the lemon twist and olives carefully atop the ice in the sidecar so they remain cold.
+    - Fill a small cocktail glass with crushed ice and add the Noilly Prat Original Dry. 
+    - In a mixing glass, combine both gins and the bitters. 
+    - Add ice and stir to chill. 
+    - Returning to the prepared cocktail glass, transfer the crushed ice and vermouth to a tumbler, layer the absinthe on top, and serve. 
+    - Strain the martini into the seasoned cocktail glass, reserving a portion in a sidecar in a bed of crushed ice. 
+    - Express the lemon peel oils over the cocktail (discard the peel), and arrange the lemon twist and olives carefully atop the ice in the sidecar so they remain cold.
     tags: 
     - "haru: spring"
     - stirred
@@ -295,14 +339,18 @@ recipes:
   - name: Kinomé Martini
     notes: To celebrate the personality of seasonal kinomé (sanshō leaves), I created a martini variation using Nikka Coffey gin, which vibrates with the tingling sensation of sanshō. Japanese Bermutto, a vermouth-adjacent ingredient made with yuzu, kabosu (citrus that grows in Ōita and Kyūshū), mugwort, and sanshō, softens the sharp edges of the gin, while building on the sanshō flavor exponentially. (Noilly Prat Original Dry vermouth is a suitable substitution for the Bermutto, but lacks the robust quality the rice-based spirit provides.) When freshly poured, this martini bursts with piny citrus with an invigorating sanshō finish. It reminds me of the aromas of walking through a Japanese forest on a chilly spring morning just as the sun hits the leaves.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 1½ ounces Nikka Coffey gin
     - 1½ ounces Japanese Bermutto or dry vermouth
     - "Garnish: Kinomé sprig"
     steps:
-    - In a mixing glass, combine the gin and Japanese Bermutto. Add ice and stir to chill. Strain into a chilled cocktail glass. I recommend preparing a sidecar on ice (see Note, this page) so the martini is as cold as possible as you sip and savor. To garnish, press the kinomé leaves briefly with tongs to awaken the oils—the leaves are hearty (more so than mint) and withstand some agitation. Then place them on top of the drink as garnish. The leaves are edible, though I suggest tasting one at a time to get a sense of the potency.
+    - In a mixing glass, combine the gin and Japanese Bermutto. 
+    - Add ice and stir to chill. 
+    - Strain into a chilled cocktail glass. 
+    - I recommend preparing a sidecar on ice so the martini is as cold as possible as you sip and savor. 
+    - To garnish, press the kinomé leaves briefly with tongs to awaken the oils—the leaves are hearty (more so than mint) and withstand some agitation. Then place them on top of the drink as garnish. 
+    - The leaves are edible, though I suggest tasting one at a time to get a sense of the potency.
     tags: 
     - "haru: spring"
     - stirred
@@ -310,15 +358,16 @@ recipes:
   - name: Kumiko Bloody Mary
     notes: I think of the Bloody Mary mostly in the springtime when I wake up a little bit earlier in the day to catch the sun. In Japan, the brunch drink is usually prepared with only vodka, tomato juice, and lemon. Garnishes are similarly minimal—sometimes a celery stick, or a few dashes of salt or cracked black pepper. I offer a Bloody Mary at Kumiko that is almost identical to the ones served in Japan—it just isn’t on our menu. To please all types of drinkers, I offer both gin and a house-infused vodka as options for the base spirit—specifically, Nikka Coffey gin for its sanshō profile, or elegant Suntory Haku vodka infused with pink peppercorns, hibiscus, salt, and wasabi.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: rocks
     ingredients: 
     - 1¼ ounces Nikka Coffey gin or Spice-Infused Vodka
     - 4 ounces V8 Original vegetable juice
     - 1 barspoon fresh lemon juice
     - "Garnish: 1 lemon wedge"
     steps:
-    - Fill a rocks glass with ice. Measure the spirit of your choice, tomato juice, and lemon juice over the ice and stir gently, just to incorporate. Serve on a saucer with a Japanese-style stir stick (madorā) and a lemon wedge on the side.
+    - Fill a rocks glass with ice. 
+    - Measure the spirit of your choice, tomato juice, and lemon juice over the ice and stir gently, just to incorporate. 
+    - Serve on a saucer with a Japanese-style stir stick (madorā) and a lemon wedge on the side.
     tags: 
     - "haru: spring"
     - stirred
@@ -328,23 +377,25 @@ recipes:
   - name: Gimlet
     notes: The classic 1920s-era gin gimlet, as printed in Harry MacElhone’s Harry’s ABC of Mixing Cocktails, is equal parts gin and lime cordial. With a clean, brisk nature, the drink is famously embraced by Japanese bartenders. Lime cordial is what makes the gimlet come alive—the undertone of bitterness complements the gin in a manner that fresh lime juice cannot match. Rose’s Lime Cordial and Cocktail Lime specifically are still commonly used in Japanese cocktail bars, though increasingly I am seeing bartenders turn to fresh lime juice and sugar syrup instead. In America, the overly sugary nature of the ingredient has persuaded many bartenders to make their own versions, myself included. As a two-ingredient cocktail, the quality of the gin or vodka you choose can mean the difference between a good gimlet and a fantastic one, so I recommend something from Japan for the base.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: coupe
     ingredients: 
     - 2 ounces Suntory Haku vodka or Nikka Coffey gin
     - ¾ ounce Lime Cordial
     steps:
-    - In a shaker tin, combine the preferred spirit and lime cordial with ice. Shake and strain into a coupe. I prefer my gimlet served up with ice shards floating on the top, but the drink is also delightful when poured over a few cubes of ice. In that case, shake for a shorter period of time to leave room for continued dilution once strained.
+    - In a shaker tin, combine the preferred spirit and lime cordial with ice. 
+    - Shake and strain into a coupe. 
+    - I prefer my gimlet served up with ice shards floating on the top, but the drink is also delightful when poured over a few cubes of ice. 
+    - In that case, shake for a shorter period of time to leave room for continued dilution once strained.
     tags: 
     - "haru: spring"
     - classic
     - citrus
     - shaken
+    - gimlet
   - name: Ryūkyū Gimlet
     notes: For this variation on the classic gimlet, the complex qualities of awamori and shōchū contrast with the brightness of fresh lime juice. The drink sings of spring—pale green and alive, evocative of rain-kissed bamboo, savory shiitake, and zesty lime. If you enjoy a daiquiri made with rhum agricole, or a margarita made with mezcal, give this one a whirl; you may be pleasantly surprised.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 1 ounce Masahiro Shuzō Shimauta awamori
     - ½ ounce Mizu Saga barley shōchū
@@ -353,29 +404,35 @@ recipes:
     - ½ ounce Simple Syrup
     - "Garnish: Lime peel"
     steps:
-    - In a shaker tin, combine the awamori, barley shōchū, green tea shōchū, lime juice, and simple syrup with ice. Shake it hard to chill and aerate. Strain into a chilled cocktail glass, allowing some ice chips to come through into the drink. Garnish with a lime peel.
+    - In a shaker tin, combine the awamori, barley shōchū, green tea shōchū, lime juice, and simple syrup with ice. 
+    - Shake it hard to chill and aerate. 
+    - Strain into a chilled cocktail glass, allowing some ice chips to come through into the drink. 
+    - Garnish with a lime peel.
     tags: 
     - "haru: spring"
     - shaken
     - citrus
+    - gimlet
   - name: Ryokucha-Hi
     notes: Ryokucha translates directly to “green tea”—a broad category with many sub-styles. Tea doesn’t always have a home in cocktails in Japan, but it is common to find the ingredient in izakaya via a drink called ryokucha-hi, a simple highball of shōchū and green tea. This version was inspired by genmaicha, a traditional blend of toasted rice and green tea. In the glass, the rice is represented by a soothing shōchū and the tea is a cold-brewed sencha, which I often prefer in the warmer months for its restorative balance of tropical fruit and umami characteristics.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: collins
     ingredients: 
     - 1½ ounces rice shōchū
     - 3 to 4 ounces Cold-Brew Sencha
     - "Garnish: Edible flowers or fresh herbs"
     steps:
-    - Fill a collins glass with ice. Measure the rice shōchū and the chilled sencha over the ice and stir to chill. Top off with fresh ice as needed. Garnish with aromatic edible flowers or herbs. I use stock flowers at Kumiko for the vanilla aroma and contrast of purple against pastel green.
+    - Fill a collins glass with ice. 
+    - Measure the rice shōchū and the chilled sencha over the ice and stir to chill. 
+    - Top off with fresh ice as needed. 
+    - Garnish with aromatic edible flowers or herbs. 
+    - I use stock flowers at Kumiko for the vanilla aroma and contrast of purple against pastel green.
     tags: 
     - "haru: spring"
   - name: Wisteria Cocktail
     notes: Wisteria blooms don’t get as much attention as the sakura do, but for many Japanese people their rebirth in late spring is a special moment. Fat bumblebees dance around the purple flowers, drooping heavy like succulent grapes from the willowy branches. Their perfume—like a bundle of fresh lilac, violet, and honey—floats through the air like a sheet of cashmere. In honor of these intoxicating blooms, I invented this cocktail using crème de violette for its floral qualities and amethyst hue. The juicy botanicals of gin surface when paired with yuzu-shu (see this page), and white rum interjects with subtle grass and vanilla. Whenever I sip this cocktail, my attention always comes back to the gorgeous crème de violette, the way it illuminates the glass and infuses the air around it.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: coupe
     ingredients: 
     - 1 ounce The Kyōto Distillery Ki No Bi Kyōto dry gin
     - ¼ ounce Banks 5 Island white rum
@@ -386,7 +443,9 @@ recipes:
     - 3 dashes absinthe
     - "Garnish: Lemon peel"
     steps:
-    - In a shaker tin, combine the gin, rum, crème de violette, yuzu-shu, simple syrup, lemon juice, and absinthe with ice. Shake to chill and strain into a chilled coupe. Express the oils of the lemon peel over the top of the drink and garnish with a manicured peel.
+    - In a shaker tin, combine the gin, rum, crème de violette, yuzu-shu, simple syrup, lemon juice, and absinthe with ice. 
+    - Shake to chill and strain into a chilled coupe. 
+    - Express the oils of the lemon peel over the top of the drink and garnish with a manicured peel.
     tags: 
     - "haru: spring"
     - shaken
@@ -396,8 +455,7 @@ recipes:
   - name: Midori Shōchū Sour
     notes: When I was a kid we would drink kurīmu-sōda or “cream soda” at family restaurants with all-you-could-drink soda fountains. Unlike American cream soda, kurīmu-sōda is a melon soda float with vanilla ice cream and a maraschino cherry on top. Every time I smell Midori I think about inventing elaborate concoctions with my brothers, as we would layer ingredients onto the basic formula of the kurīmu-sōda for a sugar-rich accent to our meal. In the cocktail world, Midori is perhaps best known for its namesake role in the Midori Sour. The cocktail—made with the liqueur, sour mix (or sometimes lemonade), and a maraschino cherry garnish—was invented at Studio 54 in New York City and remained quite popular in America through the 1970s and ’80s. In my modern version, bright notes of melon contrast with the herbaceous undertones of green tea shōchū, which brings structure and complexity to the drink. The green tea flavors, with subtle notes of passion fruit and unripe banana, enhance the Midori. With each sip, there’s a layer of bright fruit and a flavor similar to lemon curd that gives way to the earthy tea and barley. Playful and fun, and yet still decidedly adult, it is an elevated version of the disco classic.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: highball
     ingredients: 
     - 1½ ounces Mizu green tea shōchū (see Note)
     - 1 ounce Midori melon liqueur
@@ -407,7 +465,12 @@ recipes:
     - Splash of club soda, to top
     - "Garnish: Melon ball"
     steps:
-    - In a shaker tin, combine the green tea shōchū, Midori, lemon juice, lime juice, and simple syrup. Dry shake to aerate and pour the mixture over fresh ice in a highball glass. Top off with club soda. Carefully slide a spoon down the side of the inside of the glass and scoop upward to nuzzle the ice up, allowing the ingredients to come together. Top off with ice as needed. Garnish with a melon ball and serve.
+    - In a shaker tin, combine the green tea shōchū, Midori, lemon juice, lime juice, and simple syrup. 
+    - Dry shake to aerate and pour the mixture over fresh ice in a highball glass. 
+    - Top off with club soda. 
+    - Carefully slide a spoon down the side of the inside of the glass and scoop upward to nuzzle the ice up, allowing the ingredients to come together. 
+    - Top off with ice as needed. 
+    - Garnish with a melon ball and serve.
     - "Note: If you can’t find green tea shōchū, I suggest using another rice-based shōchū. Something sleek, like the Hakutake Shiro shōchū or Chiyonosono 8,000 Generations."
     tags: 
     - "natsu: summer"
@@ -416,8 +479,7 @@ recipes:
   - name: Spindrift
     notes: As radiant summer unfurls her wings, melons come into season. Cantaloupe and watermelon are cut into slices and eaten as a midday snack or at the end of a meal, and muskmelons—the epitome of luxury in Japan—dazzle with their wrinkly skin and sweet green flesh. For this cocktail inspired by the fresh seasonal fruits, a lightly cloudy saké called sasanigori sets a fruity foundation for the drink, while cachaça, a fresh-pressed sugarcane rum from Brazil, adds a savory green olive undercurrent. The melon juice, the star of the show, ties all the disparate flavors together and the drink is garnished with a salty olive and a crack of black pepper. Depending on the sweetness of the melon, I suggest adjusting the lime juice or simple syrup to taste. This might take some experimentation before landing on the right balance, but the general key is that if the drink tastes too sweet, you can increase the amount of lime juice. If it’s not sweet enough because you have a melon that doesn’t have a lot of natural sugar, increase the volume of simple syrup.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: rocks
     ingredients: 
     - 1 ounce Shirakawago sasanigori junmai ginjō
     - ½ ounce Novo Fogo cachaça
@@ -426,7 +488,9 @@ recipes:
     - ½ ounce Simple Syrup
     - "Garnish: Olive and freshly cracked black pepper"
     steps:
-    - In a shaker tin, combine the sasanigori, cachaça, melon juice, lime juice, and simple syrup with ice. Shake briskly to chill, then strain into a rocks glass over a few pieces of large cracked ice. Garnish with a high-quality fruity olive (such as Filthy Foods coastal Greek or Sicilian Castelvetrano) and freshly cracked black pepper.
+    - In a shaker tin, combine the sasanigori, cachaça, melon juice, lime juice, and simple syrup with ice. 
+    - Shake briskly to chill, then strain into a rocks glass over a few pieces of large cracked ice. 
+    - Garnish with a high-quality fruity olive (such as Filthy Foods coastal Greek or Sicilian Castelvetrano) and freshly cracked black pepper.
     tags: 
     - "natsu: summer"
     - shaken
@@ -434,15 +498,16 @@ recipes:
   - name: Daiquiri
     notes: With three simple ingredients—rum, lime juice, and sugar—the classic daiquiri originated in Cuba in the late 1800s. It came to the States shortly thereafter, and the drink subsequently found a home within the canon of cocktails beloved by Japanese bartenders. In the 1970s and ’80s, the original recipe took a detour in Japan when an oil crisis impacted the import of many goods, including limes. Lemons were the replacement. They were easier to find, and as bartenders realized how the citrus made for a less bitter version of its lime-based counterpart, many adopted the switch permanently. You will still see certain bars using lemon juice today. The following recipe is one I created for the menu at GreenRiver in Chicago. I use a split base of Plantation Barbados 5-Year rum and Rhum Clément Select Barrel agricole, with lime juice. I like the contrast between the lively, grassy notes of agricole and the opulence of the aged rum—together they lead to a daiquiri with a rich flavor profile, round mouthfeel, and snappy finish.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 1½ ounces Plantation Barbados 5-Year rum
     - ½ ounce Rhum Clément Select Barrel agricole
     - ¾ ounce fresh lime juice
     - ½ ounce Rich Demerara Syrup
     steps:
-    - Combine the rum, rhum agricole, lime juice, and demerara syrup in a shaker tin and shake briskly with ice. Strain into a chilled cocktail glass. No garnish.
+    - Combine the rum, rhum agricole, lime juice, and demerara syrup in a shaker tin and shake briskly with ice. 
+    - Strain into a chilled cocktail glass. 
+    - No garnish.
     tags: 
     - "natsu: summer"
     - shaken
@@ -454,14 +519,15 @@ recipes:
   - name: Campari Soda
     notes: Originally invented in Italy, the Campari Soda has earned favor around the world for its balance of bracingly bitter Campari and the kiss of fizzy bubbles. Japanese cocktail bars are not immune to the allure of the highball—at places like Bar Shake in Ginza, master bartender Masayuki Kodato takes every aspect of the cocktail into consideration to make his most perfect version. Made with one piece of cracked ice, a bottle of Wilkinson club soda, chilled Campari, and lemon juice, it is a drink for which people travel from far and wide to get a taste. My recipe pairs respect for the one made by Kodato-san with my admiration for the version served over crushed ice at the Camparino in Galleria bar in Milan. Chilling the Campari in the freezer numbs some of its bitterness, and as it melts, the orange notes of the elixir bloom. I don’t use an entire bottle of club soda in my version so the Campari can shine, but I do include Bar Shake’s citrus, as it sets the drink in an eternally summery profile.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: collins
     ingredients: 
     - 1½ ounces Campari, chilled in the freezer
     - 1 lemon wedge (about ⅛ of a lemon)
     - 4 ounces club soda, to top
     steps:
-    - Fill a chilled collins glass one-third of the way with pebble ice. Add the chilled Campari, then squeeze the lemon wedge over the top to impart both juice and aromatic oils to the drink (discard the spent wedge). Top off with the club soda and give the drink a slight nuzzle with a barspoon or stir stick to integrate the ingredients.
+    - Fill a chilled collins glass one-third of the way with pebble ice. 
+    - Add the chilled Campari, then squeeze the lemon wedge over the top to impart both juice and aromatic oils to the drink (discard the spent wedge). 
+    - Top off with the club soda and give the drink a slight nuzzle with a barspoon or stir stick to integrate the ingredients.
     tags: 
     - "natsu: summer"
     - stirred
@@ -469,8 +535,7 @@ recipes:
   - name: Sakuranbō Americano
     notes: "One of my favorite summertime treats growing up was kakigōri, or shaved ice. Unlike American sno-cones, kakigōri is sheared into super fine sheets that melt like snowflakes on the tongue. Piled high into small bowls, they are drizzled with flavored syrups like strawberry with condensed milk or matcha; and in specialty cafés they sometimes come decorated with adzuki beans and omochi (rice cake). In this Americano-inspired cocktail, cherry liqueur pays homage to one of the best kakigōri flavors and most prized ripe fruits of the season: cherries! Called sakuranbō, sweet cherries are a delicacy in Japan, as most sakura trees do not bear edible fruit. The ones that do have cherries lighter in color and tarter than their rich, inky American counterparts known as Bing cherries. This cocktail won’t give you the same brain-freeze and sticky fingers as a good summertime kakigōri might, but the flavors may evoke nostalgia for those moments."
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: highball
     ingredients: 
     - 1 ounce Campari
     - ½ ounce Cappellano Barolo Chinato
@@ -478,15 +543,17 @@ recipes:
     - Splash of club soda
     - "Garnish: Fresh cherry"
     steps:
-    - Fill a highball glass with crushed or shaved ice. Pour in the Campari, Barolo Chinato, Cherry Heering, and a very small splash of club soda. Top with more fresh ice (as the first batch will have settled with the addition of the cocktail, leaving room at the top for more). Garnish with a cherry.
+    - Fill a highball glass with crushed or shaved ice. 
+    - Pour in the Campari, Barolo Chinato, Cherry Heering, and a very small splash of club soda. 
+    - Top with more fresh ice (as the first batch will have settled with the addition of the cocktail, leaving room at the top for more). 
+    - Garnish with a cherry.
     tags: 
     - "natsu: summer"
     - stirred
   - name: Elderflower Sour
     notes: Japan loves Scotch, not only for its historic connection to Japanese whisky, but because of its strong tradition and sense of place. Inspired by how the darker grain and chocolate notes of a blended scotch pair with nihonshu, I created this cocktail in homage to those noble ingredients and how well they work in tandem with one another. The drink starts with the perfume of elderflower liqueur, bolstered with lightly peated whisky, layered under a fluffy blanket of egg white. For the nihonshu, something floral and fruity like Fukucho Moon on the Water junmai ginjō pairs best with the bright citrus, frothy egg whites, and smoky whisky.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: coupe
     ingredients: 
     - 1½ ounces Chivas Regal 12-Year Blended Scotch whisky
     - ½ ounce Fukucho Moon on the Water junmai ginjō saké
@@ -496,7 +563,11 @@ recipes:
     - 1 egg white
     - "Garnish: Angostura bitters"
     steps:
-    - In a shaker tin, combine the Scotch, saké, lemon juice, simple syrup, elderflower liqueur, and egg white. Dry shake to aerate and combine the ingredients. Add ice and shake again to chill. Strain into a chilled coupe. Garnish with a flourish of Angostura bitters.
+    - In a shaker tin, combine the Scotch, saké, lemon juice, simple syrup, elderflower liqueur, and egg white. 
+    - Dry shake to aerate and combine the ingredients. 
+    - Add ice and shake again to chill. 
+    - Strain into a chilled coupe. 
+    - Garnish with a flourish of Angostura bitters.
     tags: 
     - "natsu: summer"
     - peaty
@@ -507,8 +578,7 @@ recipes:
   - name: Mojito
     notes: This muddled mint cocktail rose to popularity in America in the 1990s, sparking a wave of mojito-inspired concoctions, desserts, and other gimmicky iterations. If you order a mojito in the US today you may get a slight groan or a raised eyebrow from the bartender, but in Japan it has always been a much-loved cocktail. Historically, the mint is muddled to bring the oils of the herb directly into the liquid, but I prefer to shake the mint with the cocktail then fine-strain it to capture the essence of the mint without small bits of greenery floating in the glass. It is a true delight, served over crushed ice or cubed ice, depending on how hot the day feels and how quickly you wish to sip.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: collins
     ingredients: 
     - 7 mint leaves
     - 1 ounce Grace Rum Cor Cor Green
@@ -517,17 +587,20 @@ recipes:
     - Club soda, to top
     - "Garnish: 2 to 3 sprigs of mint"
     steps:
-    - In a shaker tin, combine the 7 mint leaves, rum, lime juice, and simple syrup with ice. Shake briskly to chill, then fine-strain into a chilled collins glass over fresh ice. Top off with club soda. Garnish with a healthy bunch of mint sprigs.
+    - In a shaker tin, combine the 7 mint leaves, rum, lime juice, and simple syrup with ice. 
+    - Shake briskly to chill, then fine-strain into a chilled collins glass over fresh ice. 
+    - Top off with club soda. 
+    - Garnish with a healthy bunch of mint sprigs.
     tags: 
     - "natsu: summer"
     - classic
     - shaken
     - citrus
+    - mojito
   - name: Kamakiri
     notes: "One of my favorite early summer flavors is myōga, a type of Japanese ginger prized for its flowers, buds, and shoots—each part of the plant has a zingy quality more youthful in nature than ginger root. At the Japanese table, myōga is often thinly sliced and served with sashimi or floating in a delicate clear broth. Finding myōga in America can be difficult, but I still wanted to pay homage to its flavors, so with the Kamakiri, named after the praying mantis, I have taken a classic ginger cocktail, the Moscow Mule, and intertwined its ginger spice with the fresh mint of a mojito. The spirits that make up this cocktail showcase a sense of terroir: Cor Cor Red, coming from the island village of Minamidaitōjima, brings dueling qualities of rich molasses and high tones of peppery papaya to the mix, while Ochiai’s Rihei Ginger shōchū offers a cleansing ginger spice that brings harmony to the rum, citrus, and mint."
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: collins
     ingredients: 
     - 7 to 10 mint leaves
     - ½ ounce Grace Rum Cor Cor Red white rum
@@ -539,7 +612,10 @@ recipes:
     - Splash of Q club soda
     - "Garnish: 3 mint sprigs"
     steps:
-    - In a shaker tin, combine the mint leaves, white rum, ginger shōchū, kabosu juice, lime juice, and simple syrup with ice. Shake briskly, then fine-strain into a chilled collins glass over fresh ice. Top with a splash each of ginger beer and club soda. Garnish with a healthy bouquet of mint sprigs.
+    - In a shaker tin, combine the mint leaves, white rum, ginger shōchū, kabosu juice, lime juice, and simple syrup with ice. 
+    - Shake briskly, then fine-strain into a chilled collins glass over fresh ice. 
+    - Top with a splash each of ginger beer and club soda. 
+    - Garnish with a healthy bouquet of mint sprigs.
     - "Note: Kabosu is a citrus native to southern Japan. In America, we can buy the pasteurized juice, in which I taste a hint of green melon within the bitter and green citrus juice. This element complements the ginger in a delightful manner. If you can’t find any, use yuzu juice with a splash of lime."
     tags: 
     - "natsu: summer"
@@ -549,30 +625,38 @@ recipes:
   - name: Mugi Gin and Tonic
     notes: The gin and tonic grew to such popularity in Japan that many people say the reason why Japanese barspoons have a trident on the end is to push a lime slice deep down into the drink. I invented this variation for summers so hot the thought of eating barely crosses the mind. For the gin, I chose Ki No Tou Old Tom gin from The Kyōto Distillery, which is sweetened with kokutō (black sugar) from the Okinawan island of Yonaguni. This brings an underlying caramel kiss to the drink. As you sip, notice how the toastiness of the barley tea arrives first, almost like the gin is waiting to get noticed in the background. Once the gin comes into play you get a wash of fresh lemon aroma, followed by flavors of peppercorn, juniper, coriander, and orange. A complex highball that is just sweet enough to comfort, but not to cloy.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: highball
     ingredients: 
     - 1½ ounces The Kyōto Distillery Ki No Tou Old Tom gin
     - 2 ounces Chilled Mugi-cha
     - Indian tonic water, to top
     - "Garnish: Lemon twist"
     steps:
-    - Fill a highball glass with ice. Stir the ice slowly, then add more ice to almost fill the glass and stir again until ice fills only about three-quarters of the glass. Strain the residual water out of the highball glass using a julep strainer. Measure the gin into the glass and stir softly, around 7 rotations. Add the mugi-cha, stir once more to incorporate, and top with tonic water. Carefully slide a spoon down the inside of the glass, scoop the ice upward to allow the ingredients to meld together, then lower the ice gently. Top with ice as needed and garnish with a lemon twist.
+    - Fill a highball glass with ice. 
+    - Stir the ice slowly, then add more ice to almost fill the glass and stir again until ice fills only about three-quarters of the glass. 
+    - Strain the residual water out of the highball glass using a julep strainer. 
+    - Measure the gin into the glass and stir softly, around 7 rotations. 
+    - Add the mugi-cha, stir once more to incorporate, and top with tonic water. 
+    - Carefully slide a spoon down the inside of the glass, scoop the ice upward to allow the ingredients to meld together, then lower the ice gently. 
+    - Top with ice as needed and garnish with a lemon twist.
     tags: 
     - "natsu: summer"
     - stirred
   - name: Mugi Tonic
     notes: In the Mugi Gin and Tonic, mugi-cha creates a medley of burnt sugar, soy, and spice flavors when paired with rich Old Tom gin, which got me wondering how to re-create the drink as a spiritfree. I started with Okinawa kokutō (black sugar) and incorporated some of the same botanicals found in a classic gin, like coriander and anise. The spices are cooked into a syrup with the kokutō to incorporate the savory and herbaceous qualities. The highball has the same stimulating personality as the spirited version, with depth and sweetness. I like to make this drink in individual portions at the bar, but at home, I will make a carafe and sip leisurely throughout the course of the day. Keep the tonic chilled on the side to retain the effervescence.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: highball
     ingredients: 
     - 2 to 3 ounces Chilled Mugi-cha
     - ½ ounce Spiced Kuromitsu
     - Indian tonic water, to top
     - "Garnish: Lemon twist"
     steps:
-    - In a chilled highball glass, combine the mugi-cha and spiced kuromitsu and stir (without ice) to incorporate. Add ice and stir to chill. Top with tonic water. Carefully slide a spoon down the inside of the glass and nuzzle the ice upward, allowing the ingredients to come together. Top with ice as needed and garnish with a lemon twist.
+    - In a chilled highball glass, combine the mugi-cha and spiced kuromitsu and stir (without ice) to incorporate. 
+    - Add ice and stir to chill. 
+    - Top with tonic water. 
+    - Carefully slide a spoon down the inside of the glass and nuzzle the ice upward, allowing the ingredients to come together. 
+    - Top with ice as needed and garnish with a lemon twist.
     tags: 
     - "natsu: summer"
     - n/a
@@ -582,8 +666,7 @@ recipes:
   - name: Umé Shōchū Sour
     notes: The inspiration for this drink came from a pairing I did at Kumiko for the first cocktail omakasé we offered. The dish was A5 Miyazaki Wagyu served with compressed plums, shiso, and an uméboshi vinaigrette. For the cocktail, I made a shōchū drink with umé-shu from Meiri Shurui, which is sweetened with honey, fortified with brandy, and aged for five years, making for a complex ingredient all on its own. In the drink, the tart stone fruit notes of umé-shu sing high above a layer of golden honey and lemongrass shōchū. Pineau des Charentes, a French apéritif made from the juice of Cognac grapes and fortified with young Cognac, supports the fruity qualities of the cocktail. Everything comes together when shaken with fresh lemon juice to create a citrus-forward sour with expansive layers of flavor.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 1½ ounces Mizu lemongrass shōchū or homemade lemongrass-infused shōchū
     - 1 ounce Pineau des Charentes
@@ -592,7 +675,10 @@ recipes:
     - ½ ounce Umé-shu
     - "Garnish: Lemon peel"
     steps:
-    - In a shaker tin, combine the shōchū, Pineau des Charentes, lemon juice, honey syrup, and umé-shu with ice. Shake until the shaker feels cold to the touch. Strain the cocktail into a chilled cocktail glass or coupe. Express the oils of a lemon peel over the top of the drink and garnish with a manicured lemon peel.
+    - In a shaker tin, combine the shōchū, Pineau des Charentes, lemon juice, honey syrup, and umé-shu with ice. 
+    - Shake until the shaker feels cold to the touch. 
+    - Strain the cocktail into a chilled cocktail glass or coupe. 
+    - Express the oils of a lemon peel over the top of the drink and garnish with a manicured lemon peel.
     tags: 
     - "natsu: summer"
     - shaken
@@ -600,8 +686,7 @@ recipes:
   - name: Grey Wolf
     notes: In Japan, the old fashioned never quite reached the level of ubiquity it did in the United States, but for me, it is a tried-and-true classic. Inspired by the flavors derived from the old fashioned technique that incorporates a muddled sugar cube, maraschino cherry, and orange wedge, I developed a new template by incorporating drinking vinegar in lieu of muddled fruit. The umé-su imbues a fruity note to the cocktail that echoes the richness you’d find in a good sherry—round and textured but with a bright acidity for balance. Together with the bitters and Bénédictine, the results are a bouquet of honeyed spice and oak.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: rocks
     ingredients: 
     - 2 ounces Mars Iwai 45 Japanese whisky
     - 1 barspoon Bénédictine
@@ -610,7 +695,11 @@ recipes:
     - ¼ ounce Rich Demerara Syrup
     - "Garnish: Grapefruit peel and (optional) umé macerated in syrup"
     steps:
-    - In a mixing glass, combine the whisky, Bénédictine, umé-su, and Angostura bitters. Add ice and stir. Strain into an old fashioned glass over a single sphere of clear ice. Express the oils of a grapefruit peel over the top of the drink (discard the peel). If available, an uméboshi macerated in syrup makes an excellent secondary garnish.
+    - In a mixing glass, combine the whisky, Bénédictine, umé-su, and Angostura bitters. 
+    - Add ice and stir. 
+    - Strain into an old fashioned glass over a single sphere of clear ice. 
+    - Express the oils of a grapefruit peel over the top of the drink (discard the peel). 
+    - If available, an uméboshi macerated in syrup makes an excellent secondary garnish.
     tags: 
     - "natsu: summer"
     - stirred
@@ -620,8 +709,7 @@ recipes:
   - name: Murasaki Sonic
     notes: Shiso is one of summer’s finest herbs, and one that always reminds me of home as my mom has cultivated a rather impressive crop in her garden over the years. The paper-thin leaves come into full bloom in late July, when she makes a special summertime drink called shiso no jyūsu (shiso juice). It tastes delicious on its own, over ice, or topped off with a splash of club soda or chilled green tea. After a trip home a couple of years ago, I was inspired to use shiso no jyūsu in cocktails. This particular highball harnesses the inherent duality of the herb by opening up its flavors of mint and baking spices with club soda. The vacuum-distilled barley shōchū creates supple structure for the drink and the bitter citrus notes of the tonic make for a great accent to the shiso and delicate barley shōchū blend.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: tumbler
     ingredients: 
     - 1½ ounces The Yanagita Koma Honkaku barley shōchū
     - ½ ounce Shiso no Jyūsu
@@ -629,15 +717,19 @@ recipes:
     - Splash of Fever-Tree Mediterranean tonic water
     - "Garnish: Lemon peel and shiso leaf"
     steps:
-    - Fill a tumbler with ice and stir to chill. Strain off the melted water and measure in the shōchū and shiso no jyūsu. Stir gently to chill. Top with club soda and tonic water. Add more ice if needed. Express the oils of a lemon peel over the drink (discard the peel) and garnish with a shiso leaf and a manicured lemon peel.
+    - Fill a tumbler with ice and stir to chill. 
+    - Strain off the melted water and measure in the shōchū and shiso no jyūsu. 
+    - Stir gently to chill. 
+    - Top with club soda and tonic water. 
+    - Add more ice if needed. 
+    - Express the oils of a lemon peel over the drink (discard the peel) and garnish with a shiso leaf and a manicured lemon peel.
     tags: 
     - "natsu: summer"
     - stirred
   - name: Magenta Cooler
     notes: This mixture of shiso no jyūsu (shiso juice) with lemon juice and cold-brew sencha cools the palate with an energizing contrast of minty spice and bright citrus—a favorite for cooling off on a relaxing summer afternoon.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: tumbler
     ingredients: 
     - 1½ ounces Shiso no Jyūsu
     - ¼ ounce fresh lemon juice
@@ -645,7 +737,10 @@ recipes:
     - Club soda, to top
     - "Garnish: Lemon wheel and shiso leaf"
     steps:
-    - Add cubed ice to a chilled tumbler. Layer the shiso no jyūsu, lemon juice, and cold-brew sencha over the ice. Add a splash of club soda. Garnish with a thinly sliced lemon wheel and a manicured shiso leaf.
+    - Add cubed ice to a chilled tumbler. 
+    - Layer the shiso no jyūsu, lemon juice, and cold-brew sencha over the ice. 
+    - Add a splash of club soda. 
+    - Garnish with a thinly sliced lemon wheel and a manicured shiso leaf.
     tags: 
     - "natsu: summer"
     - n/a
@@ -653,8 +748,7 @@ recipes:
   - name: Suika Spritz
     notes: When we’d go to the beach in the summer, my brothers and I would play a game called suikawari, where you blindfold someone and guide them with your voice to break a watermelon open with a stick. Everyone would eat the juicy fruit with salty fingers after swimming in the ocean, and even though the whole melon would be well covered in sand by then, everything in that instant made the melon taste even more delicious. The Suika Spritz is a gleeful wave back to those summers and is loosely modeled after the Aperol Spritz. Awamori brings a floral and grassy quality to the pairing of watermelon and sparkling wine and adds a slight peppery undercurrent to the drink that keeps everything in balance. In the spirit of the classic, the lower-proof awamori base keeps the drink at a sessionable strength.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: wine glass
     ingredients: 
     - Lemon or lime wedge, to rim the glass
     - Salt and Pepper Mix, to rim the glass
@@ -664,22 +758,27 @@ recipes:
     - Splash of club soda, to top
     - Splash of dry sparkling wine, to top
     steps:
-    - Prepare a spritz glass by running a lemon or lime wedge along the outer edge of the rim. Pour a line of salt and pepper mix on a plate and gently tap the prepared glass along the spice blend to create a light dusting halfway around the rim. Fill the spritz glass three-quarters of the way with ice. Add the watermelon juice, awamori, and Aperol and stir briefly to combine and chill. Add more ice if needed, then top with club soda and sparkling wine. Finish with a gentle nuzzle.
+    - Prepare a spritz glass by running a lemon or lime wedge along the outer edge of the rim. 
+    - Pour a line of salt and pepper mix on a plate and gently tap the prepared glass along the spice blend to create a light dusting halfway around the rim. 
+    - Fill the spritz glass three-quarters of the way with ice. 
+    - Add the watermelon juice, awamori, and Aperol and stir briefly to combine and chill. 
+    - Add more ice if needed, then top with club soda and sparkling wine. 
+    - Finish with a gentle nuzzle.
     tags: 
     - "natsu: summer"
     - stirred
   - name: Apricots and Cream
     notes: When the mornings become just as sticky as midday, it is hard to imagine sipping a hot cup of coffee with such heat bearing down on the body. For this reason, iced coffee is exceptionally popular in Japan. In bars, coffee-infused shōchū and the espresso martini are common coffee-based drinks, and growing up, one of my favorite summertime treats was a parfait made with coffee jelly and a drizzle of cream, a sign of the coffee lover I was to eventually become. To bring coffee into a cocktail, I found inspiration in the balance of the stone fruit and nuttiness of Kumiko’s first signature coffee. Roasted by Sparrow Coffee Roastery in Chicago, the first coffee we served was a nuanced single origin from the Guji Tero Farm in Ethiopia. Apricot liqueur highlights those lavish qualities and The Yanagita Koma barley shōchū complements with its floral grain structure. This cocktail is a fun way to put a little pep in your step, whether it is a midday treat or a late-night luxury.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: cordial glass
     ingredients: 
     - 2 ounces cold-brew coffee concentrate
     - ½ ounce The Yanagita Koma Honkaku barley shōchū
     - ¼ ounce apricot liqueur
     - Honey Cream, to top
     steps:
-    - In a small cordial glass, combine the cold-brew coffee concentrate, shōchū, and apricot liqueur and stir to combine. Layer with honey cream.
+    - In a small cordial glass, combine the cold-brew coffee concentrate, shōchū, and apricot liqueur and stir to combine. 
+    - Layer with honey cream.
     tags: 
     - "natsu: summer"
     - caffeinated
@@ -690,14 +789,20 @@ recipes:
     notes: Not all cocktails that win competitions become standard cocktails (the equivalent of a classic or a modern classic in America). I have tested and tasted many of these competition-winning cocktails, and when I came across the Sol Cubano, I was delighted by the appealing balance of moderate sweetness from the rum and the grapefruit, balanced with the refreshing acidity of the citrus and bitterness of the tonic water. It is the perfect summertime (or wintertime, if you need an escape) cocktail. Yoshihisa Kimura created this award-winning cocktail for Suntory’s first Tropical Cocktail Competition in 1980. He named it after Cuba’s sun, and you can visit the master himself at his bar, Savoy Kitanozaka, in Kobé.
     author: Yoshihisa Kimura
     year: 1980
-    glassware: 
+    glassware: tulip
     ingredients: 
     - 1½ ounces white rum (ideally Bacardi Superior)
     - 1½ ounces fresh grapefruit juice
     - Indian tonic water, to top
     - "Garnish: grapefruit wheel, mint sprig, and a reusable straw"
     steps:
-    - Fill a footed tulip glass with ice. Stir to chill and pour off the melted water. Combine the rum and grapefruit juice in the glass. Give a gentle stir to chill, and top with tonic water. Take care to pour the tonic directly into the chilled liquid to retain carbonation. Nuzzle a barspoon into the glass and lift the ice gently to mix the ingredients. To garnish, place a grapefruit wheel atop the glass and finish with a straw and mint sprig through the center.
+    - Fill a footed tulip glass with ice. 
+    - Stir to chill and pour off the melted water. 
+    - Combine the rum and grapefruit juice in the glass. 
+    - Give a gentle stir to chill, and top with tonic water. 
+    - Take care to pour the tonic directly into the chilled liquid to retain carbonation. 
+    - Nuzzle a barspoon into the glass and lift the ice gently to mix the ingredients. 
+    - To garnish, place a grapefruit wheel atop the glass and finish with a straw and mint sprig through the center.
     - "Note: The garnish is a key element in Japanese cocktail competitions. Kimura was very specific with his garnish: a full grapefruit wheel rested on top of the glass with a delicate sprig of mint and a straw placed through the center. He said it was inspired by the glamorous hats worn in Cuba. I typically don’t serve my cocktails with straws unless the drink is served over crushed ice. But I do keep reusable glass straws at Kumiko and would urge you to find environmentally friendly straws to use for sipping your drinks as well."
     tags: 
     - "natsu: summer"
@@ -706,15 +811,17 @@ recipes:
   - name: TSC (Tomato Sherry Cobbler)
     notes: "Fresh fruit cocktails are a staple in most authentic Japanese cocktail bars, so it’s no surprise the sherry cobbler is a recipe many bartenders have embraced. The classic version features sherry as the base with a crown of berries, mint, and other fresh fruit. The TSC incorporates tomato water and takes the drink in an unexpected but still very summery direction. The rosy hue and slight acidity of tomato water interweaves with fino sherry, which is dry, salty, and tastes like Marcona almonds. I suggest sipping the TSC alongside a cheese and charcuterie board, or one of my favorite izakaya dishes: tomato wedges with Kewpie mayo and salt."
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 2 ounces Valdespino Inocente fino sherry	
     - 1 ounce Tomato Water Syrup
     - ¼ ounce fresh lemon juice
     - "Garnish: Shiso leaf, cherry tomato, and powdered sugar"
     steps:
-    - In a shaker tin, combine the sherry, tomato water syrup, and lemon juice with ice. Shake just long enough to chill, then strain into a cocktail glass with crushed ice. Garnish with a green shiso leaf and a cherry tomato. Dust with powdered sugar.
+    - In a shaker tin, combine the sherry, tomato water syrup, and lemon juice with ice. 
+    - Shake just long enough to chill, then strain into a cocktail glass with crushed ice. 
+    - Garnish with a green shiso leaf and a cherry tomato. 
+    - Dust with powdered sugar.
     tags: 
     - "natsu: summer"
     - shaken
@@ -722,8 +829,7 @@ recipes:
   - name: Bell Pepper Margarita
     notes: The margarita is a sensational summertime sipper. In Japan, it is most common to find it made with just three ingredients (tequila, lime juice, and triple sec). This framework is often adjusted in America with the inclusion of simple syrup or agave nectar. I enjoy introducing a seasonal ingredient to the template, especially in the summertime when this cocktail is so craveable. I came up with this variation to capture the essence of fresh bell peppers, which share vegetal characteristics with awamori and tequila. You won’t always find margaritas on the rocks or frozen in Japanese bars—instead, bartenders usually serve them up with a salted rim—but I think the addition of ice makes this sunny version of the classic all the more enlivening.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: rocks
     ingredients: 
     - Maldon sea salt, to rim the glass
     - 1 ounce Masahiro Shuzō Shimauta awamori
@@ -732,16 +838,19 @@ recipes:
     - ¼ ounce Royal Combier Grande orange liqueur
     - ½ ounce Bell Pepper Syrup
     steps:
-    - Prepare a rocks glass by salting half the rim; set aside. In a shaker tin, combine the awamori, tequila, lime juice, orange liqueur, and bell pepper syrup with ice. Shake to chill, then strain into the salt-rimmed glass over fresh ice. No additional garnish.
+    - Prepare a rocks glass by salting half the rim; set aside. 
+    - In a shaker tin, combine the awamori, tequila, lime juice, orange liqueur, and bell pepper syrup with ice. 
+    - Shake to chill, then strain into the salt-rimmed glass over fresh ice. 
+    - No additional garnish.
     tags: 
     - "natsu: summer"
     - shaken
     - citrus
+    - margarita
   - name: Bamboo Cocktail
     notes: Perhaps the most famous cocktail served in Japan, Louis Eppinger’s Bamboo is a simple, versatile, and satisfying tipple for when you are in the mood for something dry with a whisper of umami. Many a bartender has tinkered with the ratios and there is much debate over the drink’s original recipe. Some say it should be equal parts dry sherry and French vermouth with orange and aromatic bitters. Others insist the cocktail was intended to be 3:1 ratio of sherry to vermouth, partnered with a single dash of orange bitters. The result of the latter ratio is a texture that’s leaner, with more subdued herbaceous tones. I enjoy my Bamboo somewhere in the middle, favoring fino as the base with a dash of orange bitters and a barspoon of rich oloroso sherry for added gravity.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: coupe
     ingredients: 
     - 1½ ounces Valdespino Inocente fino sherry
     - ½ ounce Dolin Dry Vermouth de Chambéry
@@ -749,16 +858,20 @@ recipes:
     - 1 barspoon El Maestro Sierra 15-Year oloroso sherry
     - "Garnish: Lemon peel, lemon twist"
     steps:
-    - In a mixing glass, combine the fino sherry, dry vermouth, orange bitters, and oloroso sherry. Add ice and stir. Strain into a chilled coupe. Express the oils of a lemon peel over the drink and garnish with a manicured lemon twist. Sip alongside a bowl of olives or crispy, salty otsumami, if you like.
+    - In a mixing glass, combine the fino sherry, dry vermouth, orange bitters, and oloroso sherry. 
+    - Add ice and stir. 
+    - Strain into a chilled coupe. 
+    - Express the oils of a lemon peel over the drink and garnish with a manicured lemon twist. 
+    - Sip alongside a bowl of olives or crispy, salty otsumami, if you like.
     tags: 
     - "natsu: summer"
     - stirred
     - classic
+    - low-abv
   - name: Kyūri Cocktail
     notes: While the Bamboo Cocktail is generally enjoyed year-round, its simple framework also allows for subtle seasonal changes. For my summer-friendly take on the recipe I use manzanilla sherry from the coastal region of Sanlúcar de Barrameda in Spain, which contributes a snappy green apple flavor that melds wonderfully with kyūri (cucumber). The Japanese cucumber is as adorable as the name itself with a marvelous “green” flavor and slight bitterness from the skins. To capture that vegetal sharpness, I muddle the flesh and skins together instead of peeling away the glossy covering. Génépi, a French alpine liqueur of wormwood akin to absinthe and Chartreuse, adds a hint of bitter chamomile to the equation and bridges the flavor gaps lingering between the fruity sherry, dry vermouth, and juicy cucumber. A brisk sipper for sweltering afternoons.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 5 cucumber slices (a scant ⅛ inch thick)
     - 1½ ounces La Guita manzanilla sherry
@@ -766,32 +879,39 @@ recipes:
     - 1 barspoon Guillaumette L’Authentique génépi
     - "Garnish: Cucumber slices"
     steps:
-    - Place the cucumber slices in the bottom of a mixing glass and press with a muddler just enough to crack the skin and extract some liquid. Do not pulverize the cucumbers. Add the sherry, vermouth, and génépi to the glass. Fill with ice and stir. Fine-strain into a chilled cocktail glass so no cucumber solids or seeds end up in the drink. Garnish with cucumber slices.
+    - Place the cucumber slices in the bottom of a mixing glass and press with a muddler just enough to crack the skin and extract some liquid. Do not pulverize the cucumbers. 
+    - Add the sherry, vermouth, and génépi to the glass. 
+    - Fill with ice and stir. 
+    - Fine-strain into a chilled cocktail glass so no cucumber solids or seeds end up in the drink. 
+    - Garnish with cucumber slices.
     tags: 
     - "natsu: summer"
     - stirred
+    - low-abv
 
 #Risshū | Autumn Begins
   - name: Japanese Cocktail
     notes: When I first heard about the Japanese Cocktail, the name alone made me want to explore its origins and find something to love in its esoteric combination of ingredients. The recipe first appears in Jerry Thomas’s How to Mix Drinks featuring a mix of brandy, orgeat, bitters, and lemon. In the book Imbibe!, cocktail historian David Wondrich says it’s one of the only recipes invented by Thomas himself, named to commemorate the time when the first Japanese legation visited New York in 1860. When made with top-notch ingredients, the cocktail offers a medley of fruit, nuts, and spices that align in a way that is unexpected and exciting. For my modern interpretation, I made a cashew orgeat spiced with toasted green cardamom and fragrant orange flower water. Using cashews instead of almonds lifts up the darker flavors of the Cognac and shaking instead of stirring the drink drives the cocktail into invigorating territory.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 2 ounces H by Hine VSOP Cognac
     - ½ ounce Cashew Orgeat
     - 2 dashes Angostura bitters
     - "Garnish: Lemon peel"
     steps:
-    - In a shaker tin, combine the Cognac, cashew orgeat, and bitters with ice. Shake to chill, then strain into a cocktail glass. I do not fine-strain this cocktail, allowing a few ice shards to lie on the surface to enhance its refreshing qualities. If that does not appeal to you, fine-strain into the glass before garnishing. Express the lemon peel over the top of the drink (discard the peel).
+    - In a shaker tin, combine the Cognac, cashew orgeat, and bitters with ice. 
+    - Shake to chill, then strain into a cocktail glass. 
+    - I do not fine-strain this cocktail, allowing a few ice shards to lie on the surface to enhance its refreshing qualities. 
+    - If that does not appeal to you, fine-strain into the glass before garnishing. 
+    - Express the lemon peel over the top of the drink (discard the peel).
     tags: 
     - "aki: autumn"
     - shaken
   - name: Japanese Cocktail #2
     notes: In this version of the Japanese Cocktail, I raise the potency of the drink and amplify the connection to Japan with sweet potato shōchū. I imagine this iteration being what the original recipe would have been had a Japanese bartender collaborated with Jerry Thomas on the matter. In the drink, redolent Armagnac lends a bouquet of figs, apricots, and dark chocolate—qualities that play effortlessly with the vanilla, tobacco, and leather notes of the sweet potato shōchū. Together, the French and Japanese spirits bolster the rich cashew orgeat in a sophisticated and contemporary cocktail.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 1 ounce Marie Duffau Bas Armagnac Napoléon
     - 1 ounce Nishi Shuzō Tenshi no Yūwaku sweet potato shōchū
@@ -799,22 +919,27 @@ recipes:
     - 2 dashes Angostura bitters
     - "Garnish: Lemon peel, lemon twist"
     steps:
-    - In a shaker tin, combine the Armagnac, sweet potato shōchū, cashew orgeat, and Angostura bitters with ice. Shake to chill, then strain into a cocktail glass. Express the lemon peel oils over the top of the drink (discard the peel), then garnish with a manicured lemon twist.
+    - In a shaker tin, combine the Armagnac, sweet potato shōchū, cashew orgeat, and Angostura bitters with ice. 
+    - Shake to chill, then strain into a cocktail glass. 
+    - Express the lemon peel oils over the top of the drink (discard the peel), then garnish with a manicured lemon twist.
     tags: 
     - "aki: autumn"
     - shaken
   - name: Ringo Highball
     notes: Great highballs are those that are more than the sum of their parts. For the signature version served at Kumiko I created a template that matches a fortified wine or apéritif with Japanese whisky. When we served our first guests in January 2019, the Highball No. 1 featured a 20-year-old oloroso sherry with Mars Iwai whisky. Distilled mostly from corn, with just a touch of barley and rye, and aged in former bourbon barrels, the whisky offers sweet grain notes alongside the rich oxidative character of the oloroso. This second version, the Ringo Highball, is all about the apple. I wanted to celebrate one of Japan’s most beloved fruits while making sure the whisky would remain the star of the drink, so I chose one of my favorite apéritifs, pommeau, as the apple element and Mars Iwai 45, a higher proof version of the standard Iwai, as the whisky. For an additional aromatic element, I drizzle Normandy apple eau de vie on the top before serving—the first sip sings with character as the salty bubbles tickle your senses. Once you get into the drink, there’s a wonderful baked apple flavor underneath. The combination tastes like a whisky highball, but with a dance of apple flavors just in time for autumn.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: highball
     ingredients: 
     - 1¼ ounces Mars Iwai 45 Japanese whisky, chilled in the freezer (see Note)
     - ¾ ounce Rhine Hall La Normande pommeau
     - Club soda, to top
     - "Garnish: 1 barspoon Christian Drouin “Blanche de Normandie” apple brandy"
     steps:
-    - Place a highball ice prism in a highball glass. Add the whisky and pommeau, and stir to integrate. Then top with club soda, being careful to pour between the ice and the glass. Slide a spoon down the side of the glass and nuzzle the ice up, allowing the ingredients to come together. Layer the apple brandy on top of the drink.
+    - Place a highball ice prism in a highball glass. 
+    - Add the whisky and pommeau, and stir to integrate. 
+    - Then top with club soda, being careful to pour between the ice and the glass. 
+    - Slide a spoon down the side of the glass and nuzzle the ice up, allowing the ingredients to come together. 
+    - Layer the apple brandy on top of the drink.
     - "Note: Storing the whisky in the freezer gives the drink a lush texture and more satisfying chill, as the ice won’t melt right away when you combine the ingredients."
     tags: 
     - "aki: autumn"
@@ -822,8 +947,7 @@ recipes:
   - name: Kyohō Sour
     notes: Japan’s giant mountain grape, the Kyohō, is a bulbous, inky hybrid developed to mimic the flavors of America’s popular Concord variety. The fruits have a dusty slipskin so when you squeeze them the shell comes off immediately, making for an effortless snack (most are seedless, too). In the autumn, my mom would make a grape pie that I think about to this day. In tribute to my favorite fall dessert, I concocted this youthful cocktail with an old soul. In it, Japanese vodka adds an element of pepper to Concord grape vinegar. An herbaceous note comes through from the vermouth, and Champagne delivers a dry finish and playful effervescence.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: coupe
     ingredients: 
     - 1½ ounces Suntory Haku vodka
     - ¾ ounce Dolin Dry Vermouth de Chambéry
@@ -834,19 +958,22 @@ recipes:
     - Splash of dry Champagne, to top
     - "Garnish: Mint leaf"
     steps:
-    - In a shaker tin, combine the vodka, dry vermouth, simple syrup, lemon juice, and vinegar with ice. Shake to chill, then strain into a coupe. Top with a splash of Champagne. Garnish with a mint leaf.
+    - In a shaker tin, combine the vodka, dry vermouth, simple syrup, lemon juice, and vinegar with ice. 
+    - Shake to chill, then strain into a coupe. 
+    - Top with a splash of Champagne. 
+    - Garnish with a mint leaf.
     - "Note: If you cannot find the specialty vinegar, you can make a version with grape juice. It yields a more playful mix, but the drink will have a similar temperament to the original. Combine 1½ ounces vodka, ¾ ounce vermouth, ½ ounce Concord grape juice, ½ ounce simple syrup, and ¾ ounce lemon juice. Shake with ice to chill, then strain into a coupe. Garnish with a mint leaf."
     tags: 
     - "aki: autumn"
     - shaken
     - citrus
+    - sparkling
 
 #Shosho | End of Heat
   - name: Opal Martini
     notes: Don’t judge this drink solely by its charming pink hue. Underneath its flirty beauty lies a lush vivacity and sturdy balance of flavor, thanks to the union of opulent junmai-shu and fragrant lemongrass shōchū. A surprising number of green flavors come through from the fennel-like freshness of Peychaud’s bitters, making it the perfect drink for clinging to the end of summer. From there, a tickle of clove and nutmeg emerges from the rum and falernum, and the saké wraps everything together in a soft blanket of sweet rice. You can use any junmai and the cocktail will taste great, but the Shared Promise from Chiyonosono is one I adore for its captivating personality.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 1½ ounces Chiyonosono Shared Promise junmai
     - ¾ ounce Mizu Lemongrass shōchū or homemade lemongrass-infused shōchū
@@ -856,15 +983,17 @@ recipes:
     - 3 dashes Peychaud’s bitters
     - "Garnish: Lime twist"
     steps:
-    - In a mixing glass, combine the saké, shōchū, rum, falernum, and both bitters. Add ice and stir to chill. Strain into a chilled stemmed glass. Garnish with a manicured twist of lime.
+    - In a mixing glass, combine the saké, shōchū, rum, falernum, and both bitters. 
+    - Add ice and stir to chill. 
+    - Strain into a chilled stemmed glass. 
+    - Garnish with a manicured twist of lime.
     tags: 
     - "aki: autumn"
     - stirred
   - name: Sudachi Shōchū Sour
     notes: When sudachi, a citrus fruit grown in Japan’s southern prefecture of Tokushima, comes into season, it becomes the star of food and drink in Japanese households and restaurants. Best known for its role in the soy and citrus dipping sauce called ponzu, the fruit also makes a memorable addition to cocktails that call for citrus juice. To highlight the seasonal flavor, I created this Cosmopolitan-like refresher with sudachi liqueur along with grapefruit and lime. The addition of Royal Combier, an orange liqueur enhanced with nutmeg, cardamom, saffron, and aloe, creates a pool of rich citrus notes that engage with the brightness of the shōchū.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 2 ounces Awa No Kaori Sudachi Chū
     - ½ ounce fresh lime juice
@@ -873,7 +1002,10 @@ recipes:
     - ¼ ounce Royal Combier Grande orange liqueur
     - "Garnish: Sudachi or lime wheel"
     steps:
-    - In a shaker tin, combine the Sudachi Chū, lime juice, grapefruit juice, simple syrup, and orange liqueur with ice. This cocktail requires a gentle shake to chill and aerate as the Sudachi Chū is lower in proof, so keep that in mind when mixing. Strain into a chilled cocktail glass. Garnish with a wheel of sudachi (or lime if you cannot find fresh sudachi).
+    - In a shaker tin, combine the Sudachi Chū, lime juice, grapefruit juice, simple syrup, and orange liqueur with ice. 
+    - This cocktail requires a gentle shake to chill and aerate as the Sudachi Chū is lower in proof, so keep that in mind when mixing. 
+    - Strain into a chilled cocktail glass. 
+    - Garnish with a wheel of sudachi (or lime if you cannot find fresh sudachi).
     tags: 
     - "aki: autumn"
     - shaken
@@ -881,15 +1013,17 @@ recipes:
   - name: Chawari Toddy
     notes: Served cold in a highball or hot in toddy form, the combination of tea and shōchū is a reliable standby for when that first nip in the air hints at the bitter chill to follow. It is the kind of drink I might put together at home—straightforward and light-bodied, demonstrating balance of the mild tannins of the tea and the flavor of the spirit. It is also low-proof, so you can snuggle up with a full pot of tea and a bottle of shōchū for a prolonged and pleasant evening of sipping. I do suggest a shōchū around 25% ABV for this recipe, though a higher proof shōchū will work fine with a slight calibration of the ratios.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: mug
     ingredients: 
     - 5 ounces Hot Bancha
     - 1½ ounces shōchū
     - ¼ ounce Rich Honey Syrup
     - "Garnish: Lemon or orange wheel (optional)"
     steps:
-    - Pour the freshly brewed bancha into a mug. Add the shōchū and honey syrup. Stir briefly to combine. This one doesn’t need a garnish, though if you want, you can garnish with a lemon or orange wheel to add a lingering marmalade note over the top of the drink.
+    - Pour the freshly brewed bancha into a mug. 
+    - Add the shōchū and honey syrup. 
+    - Stir briefly to combine. 
+    - This one doesn’t need a garnish, though if you want, you can garnish with a lemon or orange wheel to add a lingering marmalade note over the top of the drink.
     tags: 
     - "aki: autumn"
     - heated
@@ -899,8 +1033,7 @@ recipes:
   - name: Line Cocktail
     notes: Created by Japanese bartender Yonekichi Maeda, who wrote one of Japan’s first cocktail books, Kokutēru, in 1924, the Line Cocktail is an obscure treasure that has faded from popularity over time. This could be because the original drink—equal parts gin, sweet vermouth, and Bénédictine with two dashes of Angostura bitters—is a glass of syrupy sweetness rich enough to irk even the most avid sweet tooth. Yet, if you consider the fact that most of Maeda’s recipes were intended to be served in very small cordial glasses instead of the larger coupes and cocktail glasses we use today, it makes more sense—it is intended to be finished quickly, at its very coldest, so it remains palatable. Maeda shakes the drink instead of stirring (as contemporary bartending technique would normally instruct) to aerate the cocktail and liven up the texture, which makes the overall experience less cloying. This drink would be great for fans of the Bijou, Hanky Panky, or Martinez cocktails.
     author: Yonekichi Maeda
-    year: 
-    glassware: 
+    glassware: cordial glass
     ingredients: 
     - ⅓ ounce The Kyōto Distillery Ki No Bi Kyōto dry gin
     - ⅓ ounce Cocchi Vermouth di Torino
@@ -908,15 +1041,15 @@ recipes:
     - 2 dashes Angostura bitters
     - "Garnish: Pickled rakkyō"
     steps:
-    - In a shaker tin, combine the gin, sweet vermouth, Bénédictine, and Angostura bitters with ice. Shake to chill, then strain into a small cordial glass. Garnish with a gently crushed pickled rakkyō.
+    - In a shaker tin, combine the gin, sweet vermouth, Bénédictine, and Angostura bitters with ice. 
+    - Shake to chill, then strain into a small cordial glass. 
+    - Garnish with a gently crushed pickled rakkyō.
     tags: 
     - "aki: autumn"
     - shaken
   - name: Line Cocktail (Freezer Version)
-    notes:
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 8 ounces The Kyōto Distillery Ki No Bi Kyōto dry gin
     - 8 ounces Cocchi Vermouth di Torino
@@ -924,14 +1057,17 @@ recipes:
     - 8 dashes Angostura bitters
     - "Garnish: Pickled rakkyō"
     steps:
-    - I batch and store a bottle of this cocktail in the freezer for ease of use. For the freezer version, combine 8 ounces each of gin, vermouth, and Bénédictine with 8 dashes of Angostura bitters in a 750-milliliter bottle. (Do not add more bitters at this point because there is a likelihood of ruining the flavor of the drink. You can add more to taste later if needed.) Store in the freezer. To serve, pour a nip over ice, or measure out a few drams and shake to serve up, then garnish. Optionally, add dashes of Angostura to taste.
+    - I batch and store a bottle of this cocktail in the freezer for ease of use. 
+    - For the freezer version, combine all ingredients except the garnish in a 750-milliliter bottle. 
+    - (Do not add more bitters at this point because there is a likelihood of ruining the flavor of the drink. You can add more to taste later if needed.) 
+    - Store in the freezer. To serve, pour a nip over ice, or measure out a few drams and shake to serve up, then garnish. 
+    - Optionally, add dashes of Angostura to taste.
     tags: 
     - "aki: autumn"
   - name: Kaki Flip
     notes: The stunning display of oranges and reds of the kaki (persimmon) fruits suddenly bursting against the blue sky lifts my spirits this time of the year. The key thing to remember with kaki, as with many things in life, is patience. While the color may indicate a readiness, wait until the fruit feels soft and squishy to the touch before you cut off the tops and eat the insides with a spoon. Or, as in this cocktail, scoop the sweet flesh into your shaker and whip up a tasty treat! For this drink I use a soba (buckwheat) shōchū called Touge, which comes from Kitsukura Brewery in Nagano. Touge shares some of the honeyed notes of persimmon and has a vanilla-tinged buttery tone, which plays beautifully with saffron-scented Yellow Chartreuse. To round out the drink, choose an earthy junmai-shu, because the rice and the buckwheat meld together for a smooth flavor profile. The egg brings velvety viscosity to the glass, making it even more comforting to sip.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: coupe
     ingredients: 
     - 1½ tablespoons fully ripened Fuyū persimmon flesh
     - 1½ ounces Akashi-Tai Tokubetsu Honjōzo saké
@@ -941,15 +1077,18 @@ recipes:
     - 1 egg
     - "Garnish: Grated nutmeg"
     steps:
-    - In a shaker tin, combine the persimmon, saké, shōchū, Chartreuse, simple syrup, and egg. Dry shake to combine. Add ice, then shake again to chill. Strain into a chilled coupe. Garnish with freshly grated nutmeg.
+    - In a shaker tin, combine the persimmon, saké, shōchū, Chartreuse, simple syrup, and egg. 
+    - Dry shake to combine. 
+    - Add ice, then shake again to chill. 
+    - Strain into a chilled coupe. 
+    - Garnish with freshly grated nutmeg.
     tags: 
     - "aki: autumn"
     - shaken
   - name: Vector
     notes: For the Vector, my version of the Line Cocktail, I split French dry with Italian bianco vermouth to flesh out a bouquet of botanicals that play well with the shy tannins from the Ki No Bi dry gin. To the Gibson-like base comes Bénédictine as a honeyed kiss resonating through the glass. The flavor profile is familiar at first, as the juniper and vermouth intertwine, then the sweet nature of the Bénédictine partnered with the savory rakkyō makes this sipper stand apart from the rest.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: cordial glass
     ingredients: 
     - ⅓ ounce The Kyōto Distillery Ki No Bi Kyōto dry gin
     - ⅓ ounce Bénédictine
@@ -958,7 +1097,10 @@ recipes:
     - 2 dashes Angostura bitters
     - "Garnish: Lemon peel, grapefruit peel, and pickled rakkyō (see Note)"
     steps:
-    - In a shaker tin, combine the dry gin, Bénédictine, bianco vermouth, dry vermouth, and Angostura bitters with ice. Shake to chill, then strain into a small cordial glass. Express the oils of lemon and grapefruit peels over the top of the drink (discard the peels). Garnish with rakkyō.
+    - In a shaker tin, combine the dry gin, Bénédictine, bianco vermouth, dry vermouth, and Angostura bitters with ice. 
+    - Shake to chill, then strain into a small cordial glass. 
+    - Express the oils of lemon and grapefruit peels over the top of the drink (discard the peels). 
+    - Garnish with rakkyō.
     - "Note: Rakkyō are similar to shallots, with bulbs marginally larger than your typical scallion. When pickled, they have a snappy texture with a sweet onion-like flavor and sour notes coming from the pickling process. A cocktail onion is a potential substitute, but do keep in mind that its flavor is more bitter than a rakkyō."
     tags: 
     - "aki: autumn"
@@ -966,8 +1108,7 @@ recipes:
   - name: Autumn's Jacket
     notes: In the fall and winter months at Kumiko, it often feels like you’ll never shake Chicago’s eternal chill, so if a guest looks cold we will offer them a silky pashmina to cozy up with during their visit. This drink is all about capturing those snug vibes in cocktail form. A barley-based shōchū provides a roasty shelf upon which the other fall-friendly ingredients land. Cynar, an artichoke-based Italian amaro, bears dry and woodsy notes, a bouquet that mingles perfectly with the deep spice and honey flavors of Bénédictine. From there, luxurious crème de cassis brings in a deep black currant flavor with a wine-like quality—like the moody cousin of the perky cranberry. All together, it’s a big bouquet of cashmere and spice.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: rocks
     ingredients: 
     - 1½ ounces Kintaro Honkaku barley shōchū
     - ½ ounce crème de cassis
@@ -977,7 +1118,11 @@ recipes:
     - ¼ ounce fresh lemon juice
     - "Garnish: Rosemary sprig"
     steps:
-    - In a shaker tin, combine the shōchū, crème de cassis, Cynar, Bénédictine, simple syrup, and lemon juice with ice. Shake to chill, then strain into a rocks glass over ice. Float a burning match around the tip of the rosemary sprig, to warm and awaken the herb, but not burn it. This provides woodsy aromatics without the char. Garnish with the rosemary.
+    - In a shaker tin, combine the shōchū, crème de cassis, Cynar, Bénédictine, simple syrup, and lemon juice with ice. 
+    - Shake to chill, then strain into a rocks glass over ice. 
+    - Float a burning match around the tip of the rosemary sprig, to warm and awaken the herb, but not burn it. 
+    - This provides woodsy aromatics without the char. 
+    - Garnish with the rosemary.
     tags: 
     - "aki: autumn"
     - shaken
@@ -987,8 +1132,7 @@ recipes:
   - name: Momosé Manhattan
     notes: I delight in a good Manhattan. When you find the right balance of whisk(e)y, vermouth, and bitters, it is one of the most superb cocktails in the world. In Japan, the cocktail is commonly served up with American whiskey, like Old Overholt Rye Whiskey or Wild Turkey bourbon, a detail I was moved to replicate in this recipe. For my personal variation I was inspired by the Perfect Manhattan, which uses both dry and sweet vermouth. I was first introduced to the cocktail in my early days as a bartender, while working for Cornell Catering. I was both taken aback and drawn in by the intensity with which a guest dictated how he wanted the cocktail made. This led me to research more fully classic cocktails and their iterations. To this day, some of my favorite drinks are those made “perfectly,” with a split of sweet and dry, or with a split-base spirit. Instead of French dry vermouth, however, I like to use Pineau des Charentes, which has an inherent fruitiness and noticeable acidity that cuts through the lavish texture of the sweet vermouth. From there, the minty alpine botanicals that define Amaro Bràulio stand in for the Angostura bitters, offering a novel layer of bitterness that evokes the flavors of fall in Italy. At the end of the day, it still tastes like a Manhattan, just with a few personal twists and turns in the flavor.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: coupe
     ingredients: 
     - 1½ ounces High West Rendezvous rye whiskey
     - ½ ounce Amaro Bràulio
@@ -996,7 +1140,10 @@ recipes:
     - ½ ounce Cocchi Vermouth di Torino
     - "Garnish: Lemon peel"
     steps:
-    - In a mixing glass, combine the rye whiskey, amaro, Pineau des Charentes, and sweet vermouth. Add ice and stir to chill. Strain into a chilled coupe. Express the oils of a lemon peel over the top of the drink (discard the peel).
+    - In a mixing glass, combine the rye whiskey, amaro, Pineau des Charentes, and sweet vermouth. 
+    - Add ice and stir to chill. 
+    - Strain into a chilled coupe. 
+    - Express the oils of a lemon peel over the top of the drink (discard the peel).
     tags: 
     - "aki: autumn"
     - manhattan
@@ -1004,8 +1151,7 @@ recipes:
   - name: Kinmokusei Cocktail
     notes: When late fall arrives, most of the world fades into muted tones. Leaves fall to the ground and rustle underfoot, and everything starts to move in slow motion as the kinmokusei (osmanthus) flowers awaken—the buds offer one last bewitching moment of intense drama before winter arrives. To tap into the spirit of that moment, I created this gimlet-inspired cocktail with komé (rice) shōchū, Japanese gin, lime, Galliano, and a syrup made with osmanthus flowers. It is a gin drinker’s cocktail, with an added element of botanicals from the Galliano and soft rice notes from the shōchū.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 1½ ounces Takahashi Shuzō Hakutake Shiro rice shōchū
     - ½ ounce Nikka Coffey gin
@@ -1014,7 +1160,9 @@ recipes:
     - ¼ ounce Galliano L'autentico liqueur
     - "Garnish: Lime peel and rosemary sprig"
     steps:
-    - In a shaker tin, combine the shōchū, gin, kinmokusei syrup, lime juice, and Galliano with ice. Shake to chill, then strain into a cocktail glass. Garnish with a lime peel and a small tuft of rosemary.
+    - In a shaker tin, combine the shōchū, gin, kinmokusei syrup, lime juice, and Galliano with ice. 
+    - Shake to chill, then strain into a cocktail glass. 
+    - Garnish with a lime peel and a small tuft of rosemary.
     tags: 
     - "aki: autumn"
     - shaken
@@ -1022,8 +1170,7 @@ recipes:
   - name: Golden One
     notes: At my childhood home, lining a set of stairs that led up to the house were boulders, all in different sizes and shapes, with some covered in fuzzy patches of moss. Like a cushion meant just for me, I’d sit and listen to the birds sing, and smell the angelic kinmokusei flowers. To capture the essence of the flower in a spiritfree drink, I created this cooler reminiscent of a tall glass of lemonade. Yuzu juice brings a sparkle of citrus to the honey notes of the syrup, reminding me of those moments breathing in the cold air laced with the aroma of the flowers. Green tea adds bones to the otherwise breezy mix, which serves as a sunny contrast to the comforting foods of fall.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: highball
     ingredients: 
     - 2 ounces Cold-Brew Sencha
     - 1 ounce Kinmokusei Syrup
@@ -1032,7 +1179,11 @@ recipes:
     - Splash of tonic water, to top
     - "Garnish: Thyme sprig"
     steps:
-    - In a shaker tin, combine the cold-brew sencha, kinmokusei syrup, lemon juice, and yuzu juice with ice. Whip-shake to bring the ingredients together and soften the edges of the citrus. Strain into a chilled highball glass over fresh ice. Top with a splash of tonic water. Garnish with a sprig of thyme.
+    - In a shaker tin, combine the cold-brew sencha, kinmokusei syrup, lemon juice, and yuzu juice with ice. 
+    - Whip-shake to bring the ingredients together and soften the edges of the citrus. 
+    - Strain into a chilled highball glass over fresh ice. 
+    - Top with a splash of tonic water. 
+    - Garnish with a sprig of thyme.
     - "Note: If you can find fresh yuzu juice, that will be best for this cocktail. But you can also use pasteurized juice if that is what is available to you."
     tags: 
     - "aki: autumn"
@@ -1044,8 +1195,7 @@ recipes:
   - name: Negroni
     notes: Continuing our exploration of classic cocktails that have found a place in Japanese bars, the Negroni is a three-ingredient Italian classic many bartenders strive to perfect. Within its structured framework, even the slightest variation can result in something new and interesting, which is what I aimed for when developing this build behind the bar at GreenRiver. It is still technically equal parts but with a subtle flavor adjustment via a split base of bitters—the addition of Gran Classico, with dried orange peel and woodsy spice flavors like a lush suede, helps temper Campari’s aggressive bristles. I also prefer my Negronis on ice, because the richness of the drink can handle a wash of dilution over time and still maintain its integrity. It welcomes the water, just as we welcome the cold that settles in late fall.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: rocks
     ingredients: 
     - 1 ounce The Kyōto Distillery Ki No Bi Kyōto dry gin
     - 1 ounce Cocchi Vermouth di Torino
@@ -1053,7 +1203,11 @@ recipes:
     - ½ ounce Tempus Fugit Gran Classico
     - "Garnish: Lemon peel and orange peel"
     steps:
-    - In a mixing glass, combine the gin, sweet vermouth, Campari, and Gran Classico. Add ice and stir to chill. Strain into a rocks glass over fresh ice. Express the oils of a lemon peel over the top of the drink (discard the peel). With a match, lightly flame an orange peel over the drink (discard the peel).
+    - In a mixing glass, combine the gin, sweet vermouth, Campari, and Gran Classico. 
+    - Add ice and stir to chill. 
+    - Strain into a rocks glass over fresh ice. 
+    - Express the oils of a lemon peel over the top of the drink (discard the peel). 
+    - With a match, lightly flame an orange peel over the drink (discard the peel).
     tags: 
     - "aki: autumn"
     - stirred
@@ -1062,8 +1216,7 @@ recipes:
   - name: White Negroni
     notes: During the chrysanthemum season in the Gion district of Kyōto, flowing strands and meticulously manicured displays of the white, yellow, and maroon flowers show up in front of stores as obeisance to the national flower of Japan. In this Negroni improvisation invented in memory of that moment, the flavor of the flower manifests via a sweet liqueur. Glittering with citrus and a medley of botanicals from Suze, gin, and Cocchi Americano, this drink has amazing complexity when the woodsy notes of gentian play with the green tea tannins in Suntory’s Roku gin. A drop of sunshine to lengthen short autumn days.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: rocks
     ingredients: 
     - 1 ounce Suntory Roku gin
     - ¼ ounce Suze apéritif
@@ -1072,7 +1225,10 @@ recipes:
     - 5 drops Scrappy’s cardamom bitters
     - "Garnish: Lemon peel and orange peel"
     steps:
-    - In a mixing glass, combine the gin, Suze, chrysanthemum liqueur, Cocchi Americano, and bitters. Add ice and stir to chill. Strain into a rocks glass over fresh ice. Express the oils of orange and lemon peels over the top of the drink (discard the peels).
+    - In a mixing glass, combine the gin, Suze, chrysanthemum liqueur, Cocchi Americano, and bitters. 
+    - Add ice and stir to chill. 
+    - Strain into a rocks glass over fresh ice. 
+    - Express the oils of orange and lemon peels over the top of the drink (discard the peels).
     tags: 
     - "aki: autumn"
     - negroni
@@ -1080,8 +1236,7 @@ recipes:
   - name: Kiku Cocktail
     notes: A chic and easygoing balance defines this cocktail, which epitomizes the cold morning chill that sweeps in this time of year. Like many Japanese cocktails, great efforts were taken to make the complicated drink appear simple. If you focus, you might notice every sip tastes different based on what you’re thinking about in that moment. You can taste the flowers and honey if you concentrate, or revel in the clean vodka that comes through at the finish. With its interplay of sweet honey and opulent saké, this drink would appeal to fans of a classic Bee’s Knees cocktail. For those familiar with the Chrysanthemum Cocktail, a classic from The Savoy Cocktail Book featuring dry vermouth, Bénédictine, and absinthe, think of this as its sunny cousin.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 1 ounce Suntory Haku vodka
     - 1 ounce Dolin Dry Vermouth de Chambéry
@@ -1091,21 +1246,23 @@ recipes:
     - ½ ounce fresh lemon juice
     - "Garnish: 3 spritzes absinthe and a lemon twist"
     steps:
-    - In a shaker tin, combine the vodka, vermouth, saké, liqueur, simple syrup, and lemon juice with ice. Shake to chill, then strain into a cocktail glass. Spritz the drink three times with absinthe and garnish with a lemon twist.
+    - In a shaker tin, combine the vodka, vermouth, saké, liqueur, simple syrup, and lemon juice with ice. 
+    - Shake to chill, then strain into a cocktail glass. 
+    - Spritz the drink three times with absinthe and garnish with a lemon twist.
     tags: 
     - "aki: autumn"
     - shaken
   - name: Spiced Chrysanthemum Latte
     notes: Chrysanthemum tisane illuminates the complexities of the flower splendidly. With a golden sunflower hue, it has a grassy flavor with deep sylvan notes buried underneath a layer of fetching floral aromas. To celebrate the season, I pair the floral brew with cashew milk sweetened with Okinawa black sugar and spiced with star anise, sanshō, and coriander. This brings the spiritfree away from a simple afternoon tea and into the realm of a distinct and complex drink. With a medley of nutty spice and floral overtones, it’s a delight suited for sipping any time of the day or night. I suggest snuggling up under a blanket or heated kotatsu to enjoy this spiritfree alongside some wagashi and light reading.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: teacup
     ingredients: 
     - 6 ounces Chrysanthemum Tisane
     - ½ ounce Spiced Kuromitsu
     - 1 ounce cashew milk
     steps:
-    - In a teacup, combine the hot chrysanthemum tisane, spiced kuromitsu, and cashew milk. Stir briefly to combine. No garnish.
+    - In a teacup, combine the hot chrysanthemum tisane, spiced kuromitsu, and cashew milk. 
+    - Stir briefly to combine. No garnish.
     tags: 
     - "aki: autumn"
     - heated
@@ -1115,15 +1272,17 @@ recipes:
   - name: Yaki-imo Old Fashioned
     notes: Fall is satsumaimo season! When a chill hits the air, the street food trucks exchange coolers and kakigōri for a wood-fired grill and bushels of satsumaimo, or Japanese sweet potatoes, destined to become yaki-imo (roasted sweet potatoes). Holding yaki-imo and peeling away the magenta skin to reveal the sweet golden flesh is a tantalizing moment of autumn in Japan that I wanted to bring into the glass. The old fashioned is the perfect template—the spiced kuromitsu brings baking spice and caramel characteristics to the combination of brooding whisky and slow-cooked sweet potato. Each ingredient shines in its own right, but together they create a stunning synergy.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: rocks
     ingredients: 
     - 2 ounces Salt-Roasted Sweet Potato-Infused Japanese Whisky
     - ½ ounce Spiced Kuromitsu
     - 2 dashes Angostura bitters
     - "Garnish: Orange peel and Scrappy's cardamom bitters"
     steps:
-    - In a mixing glass, combine the infused whisky, spiced kuromitsu, and Angostura bitters. Add ice and stir to chill. Strain into a rocks glass over one large piece of ice. Express the oils of a manicured orange peel over the top of the drink and garnish with the manicured peel and one drop of green cardamom bitters.
+    - In a mixing glass, combine the infused whisky, spiced kuromitsu, and Angostura bitters. 
+    - Add ice and stir to chill. 
+    - Strain into a rocks glass over one large piece of ice. 
+    - Express the oils of a manicured orange peel over the top of the drink and garnish with the manicured peel and one drop of green cardamom bitters.
     tags: 
     - "aki: autumn"
     - stirred
@@ -1131,8 +1290,7 @@ recipes:
   - name: Carré Nouveau
     notes: The Vieux Carré is another classic cocktail near and dear to my heart. Invented in New Orleans in the 1930s, it resembles the Manhattan, but offers a more potent layering of flavors with Cognac, bitters, and Bénédictine in addition to rye whiskey. To bring a Japanese essence to the cocktail, iichiko Saiten shōchū steps in place of the rye whiskey, offering notes of jasmine tea and a tinge of funky mustiness from the high percentage of barley kōji used in production. Armagnac appears as a supporting character in lieu of the Cognac, with luxurious chocolate notes and a brawny texture; the stately grape distillate melds into the richly spiced and herbaceous quality of the Bénédictine and bitters. I think of this variation as a more robust, but still refined, take on the Vieux Carré.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: snifter
     ingredients: 
     - ¾ ounce Marie Duffau Bas Armagnac Napoléon
     - ¾ ounce iichiko Saiten barley shōchū
@@ -1142,15 +1300,17 @@ recipes:
     - 2 dashes Angostura bitters
     - "Garnish: Lemon peel"
     steps:
-    - In a mixing glass, combine the Armagnac, shōchū, vermouth, Bénédictine, and both bitters. Add ice and stir to chill. Strain into a snifter. Express the oils of a lemon peel over the drink (discard the peel).
+    - In a mixing glass, combine the Armagnac, shōchū, vermouth, Bénédictine, and both bitters. 
+    - Add ice and stir to chill. 
+    - Strain into a snifter. 
+    - Express the oils of a lemon peel over the drink (discard the peel).
     tags: 
     - "aki: autumn"
     - stirred
   - name: Clarified Mezcal Milk Punch
     notes: Bar Trench is one of my favorite modern cocktail bars in Tōkyō, a perfect example of how Japanese bartenders merge elements of Western-style bartending with a century of tradition. The atmosphere may be rambunctious with music and chatter, but the dapper bartenders still float with grace and elegance, making forward-thinking drinks like the Artichoke Julep alongside classics like the Corpse Reviver #2. The last time I was there, they had a mezcal milk punch on the menu—made with mezcal, green tea, and chamomile, which inspired me to create this cocktail. This milk punch is not your creamy New Orleans–style holiday drink. Instead it’s a gentle, wine-like mixture that balances the brightness of lemon and saké with the depth of earthy tea and smoky mezcal. I admire the way the mezcal and the hōjicha play together—there is a smokiness to the tea, which brings out a chocolate quality in the mezcal. Patience is involved in making the drink, as it must be allowed to rest overnight before being slowly strained through a paper coffee filter, but the sumptuous final cocktail is well worth the effort.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: wine glass
     ingredients: 
     - 10 ounces whole milk
     - 20 ounces Chilled Hōjicha
@@ -1159,33 +1319,40 @@ recipes:
     - ½ cup granulated sugar
     - 3½ ounces fresh lemon juice
     steps:
-    - Measure the milk into a large pitcher or bowl and set it aside. In another large pitcher or bowl, combine the hōjicha, mezcal, saké, sugar, and lemon juice. Stir thoroughly until the sugar dissolves. Pour the cocktail mixture into the milk, pouring in soft and slow motions in order to evenly distribute the cocktail without overly agitating the curds that form. Give the mixture a gentle stir and then cover and allow to sit overnight in the refrigerator.
-    - The next day, strain the milk punch through a damp coffee filter. Store the finished milk punch in the refrigerator in a glass bottle. To enjoy, pour straight from the bottle into a wineglass.
+    - Measure the milk into a large pitcher or bowl and set it aside. 
+    - In another large pitcher or bowl, combine the hōjicha, mezcal, saké, sugar, and lemon juice. 
+    - Stir thoroughly until the sugar dissolves. 
+    - Pour the cocktail mixture into the milk, pouring in soft and slow motions in order to evenly distribute the cocktail without overly agitating the curds that form. 
+    - Give the mixture a gentle stir and then cover and allow to sit overnight in the refrigerator.
+    - The next day, strain the milk punch through a damp coffee filter. 
+    - Store the finished milk punch in the refrigerator in a glass bottle. 
+    - To enjoy, pour straight from the bottle into a wineglass.
     tags: 
     - "aki: autumn"
     - punch
+    - clarified
 
 #Rittō | The Beginning of Winter
   - name: Vesper
     notes: British author Ian Fleming made the Vesper cocktail famous after including a mention of the drink in his 1953 James Bond novel, Casino Royale. With a split base of vodka and gin, and Kina Lillet for balance, the cocktail has inspired countless variations from bartenders around the globe. Japanese bartenders instead aim for the perfect balance in the drink while staying true to the original specifications, so more often than not you will see a bottle of Gordon’s Dry Gin pulled from the freezer and shaken briskly with Smirnoff Vodka and Lillet Blanc, finished with a hefty twist of lemon. I fancy a more luxurious iteration, so I turn to Japanese gin and vodka for their softness and subtleties. I also enjoy following Bond’s order for this drink to be shaken instead of stirred, so thin chips of ice float upon the surface. Drink it quickly, while it still bites back!
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: coupe
     ingredients: 
     - 1½ ounces Suntory Roku gin
     - ½ ounce Suntory Haku vodka
     - ½ ounce Lillet Blanc apéritif
     - "Garnish: Lemon twist"
     steps:
-    - In a shaker tin, combine the gin, vodka, and Lillet with ice. Shake to chill, then strain into a coupe. Garnish with a generous lemon twist, expressing the oils before resting it on the side of the glass.
+    - In a shaker tin, combine the gin, vodka, and Lillet with ice. 
+    - Shake to chill, then strain into a coupe. 
+    - Garnish with a generous lemon twist, expressing the oils before resting it on the side of the glass.
     tags: 
     - "fuyu: winter"
     - shaken
   - name: Evening Star
     notes: An iridescent Champagne shade of gold is not the only thing that sets this Vesper riff apart from the original. I created this variation on the classic for times when I am in the mood for something lower in proof—a drink that will open up and evolve in a pleasant way as you sit and sip. The cocktail tastes deeper in personality than the classic thanks to the apple and honey notes of the pommeau, and demands to be stirred instead of shaken to maintain a perfectly silky texture. Finish the drink with a small shower of lemon oils, for brightness.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - ½ ounce Nikka Coffey gin
     - ½ ounce Nikka Coffey vodka
@@ -1193,15 +1360,17 @@ recipes:
     - 1 ounce Koshi no Kanbai Sai junmai ginjō saké
     - "Garnish: Lemon peel, lemon twist"
     steps:
-    - In a mixing glass, combine the gin, vodka, pommeau, and saké. Add ice and stir to chill. Strain into a chilled cocktail glass. Express the oils of a lemon peel over the top of the drink (discard the peel), then garnish with a small lemon twist.
+    - In a mixing glass, combine the gin, vodka, pommeau, and saké. 
+    - Add ice and stir to chill. 
+    - Strain into a chilled cocktail glass. 
+    - Express the oils of a lemon peel over the top of the drink (discard the peel), then garnish with a small lemon twist.
     tags: 
     - "fuyu: winter"
     - stirred
   - name: Kami Hikōki
     notes: As children, my brothers and I would assemble paper planes and send them flying through the backyard. Sometimes they would get caught in the momiji trees, which in early winter were still graced with a few resilient leaves. Inspired by those playful moments, I created this riff on the Paper Plane, a modern American classic invented by bartender Sam Ross featuring bourbon, Aperol, Amaro Nonino, and fresh lemon juice. I’ve always loved the cocktail for its precise play of warmth, bitterness, and brightness. To take that model in a distinctly more Japanese direction, I turned to Japanese whisky. Akashi whisky is made of almost all corn, so it serves as a great match for bourbon lovers, and in the drink its sweet grain qualities and hint of peat fit snugly with Cappelletti, the bright red bitter I use in place of Aperol. Made with a base of white wine instead of neutral grain spirit, there is a softness that melds perfectly with the oaky whisky. While the drink itself comprises equal parts, the unaged brandy really pops out in its own right with a lovely roundness. A citrusy cocktail perfect for when the last lingering moments of fall transform into winter.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: coupe
     ingredients: 
     - ¾ ounce Copper & Kings Immature brandy
     - ¾ ounce Aperitivo Cappelletti
@@ -1209,15 +1378,16 @@ recipes:
     - ¼ ounce Simple Syrup
     - "Garnish: Lemon peel"
     steps:
-    - In a shaker tin, combine the brandy, Cappelletti, whisky, and simple syrup with ice. Shake to chill, then strain into a chilled coupe. Express the oils of a lemon peel over the top of the drink (discard the peel) and garnish with a manicured twist.
+    - In a shaker tin, combine the brandy, Cappelletti, whisky, and simple syrup with ice. 
+    - Shake to chill, then strain into a chilled coupe. 
+    - Express the oils of a lemon peel over the top of the drink (discard the peel) and garnish with a manicured twist.
     tags: 
     - "fuyu: winter"
     - shaken
   - name: Hotto Campari
     notes: "One of the more unexpected hot drinks enjoyed during the winter in Japan is a hot Campari: a mix of lemon, honey, hot water, Campari, and various liqueurs—the choice setting one apart from the other. It is a fantastic cocktail with enticing orange notes that blossom as the Campari warms. With a perky rosy hue, the drink is a playful version of the normally stoic winter toddy—a provocative cocktail that oscillates between a somewhat medicinal bitterness and bountiful bouquets of citrus and spice. Lower in proof, the bitter liqueur with the rich honey makes for a drink that lingers like a comforting embrace long after the last sip."
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: teacup
     ingredients: 
     - 1 ounce Campari
     - ¾ ounce Awa No Kaori Sudachi Chū
@@ -1227,7 +1397,10 @@ recipes:
     - 3 to 4 ounces hot water
     - "Garnish: Lemon peel"
     steps:
-    - In a teacup, combine the Campari, Sudachi Chū, Kümmel, lemon juice, and honey syrup. Add hot water, 3 ounces if you prefer a stronger, more boozy-tasting cocktail or 4 ounces if you like a drink that tastes a little lighter in body and character. Stir briefly to combine. Express lemon oils over the top of the drink and garnish with a manicured twist of lemon.
+    - In a teacup, combine the Campari, Sudachi Chū, Kümmel, lemon juice, and honey syrup. 
+    - Add hot water, 3 ounces if you prefer a stronger, more boozy-tasting cocktail or 4 ounces if you like a drink that tastes a little lighter in body and character. 
+    - Stir briefly to combine. 
+    - Express lemon oils over the top of the drink and garnish with a manicured twist of lemon.
     tags: 
     - "fuyu: winter"
     - stirred
@@ -1238,8 +1411,7 @@ recipes:
   - name: Yuzu Salty Dog
     notes: A forgotten or overlooked drink in Western cocktail bars, the Salty Dog cocktail never went out of style in Japan. To add dimension to the classic combo of vodka and grapefruit, I switch the spirit to gin and add a kiss of fresh yuzu juice, which has a balance of floral and bitter qualities. It dovetails perfectly with the tartness of ruby red grapefruit. I also add a layer of matcha to the top of the drink to add a dynamic pop of color and a verdant aroma that leads calmly into the heart of the gin botanicals. It is a great anytime drink, but tastes especially vivacious in early winter when fresh grapefruit comes into season.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: rocks
     ingredients: 
     - Grapefruit wheel and salt, to rim the glass
     - 1½ ounces ruby red grapefruit juice
@@ -1248,7 +1420,11 @@ recipes:
     - 1¼ ounces The Kyōto Distillery Ki No Bi Kyōto dry gin
     - 1 chashaku of matcha powder (see Note)
     steps:
-    - Cut a wheel off the grapefruit before juicing and run the wheel along the edge of a rocks glass. Roll the glass immediately through salt for a clean snow-style rim (this page). In the prepared rocks glass, combine the grapefruit juice, yuzu juice, and simple syrup and add ice. In a shaker tin, combine the matcha and gin with ice. Shake to chill, then strain into the rocks glass so as to layer over the grapefruit base.
+    - Cut a wheel off the grapefruit before juicing and run the wheel along the edge of a rocks glass. 
+    - Roll the glass immediately through salt for a clean snow-style rim. 
+    - In the prepared rocks glass, combine the grapefruit juice, yuzu juice, and simple syrup and add ice. 
+    - In a shaker tin, combine the matcha and gin with ice. 
+    - Shake to chill, then strain into the rocks glass so as to layer over the grapefruit base.
     - "Note: A chashaku is a traditional utensil for measuring matcha powder; it is the equivalent of about ¼ teaspoon."
     tags: 
     - "fuyu: winter"
@@ -1257,8 +1433,7 @@ recipes:
   - name: Hōjicha Coconut Daiquiri
     notes: "The straightforward template of the classic daiquiri lends itself well to seasonal interpretations. In the summer, I enjoy a split base of rhum agricole and aged rum for a light but complex flavor profile (see this page). In the winter, I experiment with heavier aged rums and rich demerara syrup for a darker, more wintry sweetness. In this variation I combine those elements together with hōjicha, which fans through the drink with a caramel, molasses, and freshly-roasted-coffee-like quality. I think about the story of this cocktail as the story of the seasons: how lively plants like sugarcane and tea start out fresh and green then shift to brown and dry in the winter—there is a beauty in the process because it showcases new and unexpected shades of the familiar ingredients as time goes by. Think of it as wabi-sabi. Finally, in the wintertime we really start to miss the sunshine, so I added a little coconut cream as a reminder of summer."
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: coupe
     ingredients: 
     - 1½ ounces El Dorado 12-Year rum
     - 1 ounce Chilled Hōjicha
@@ -1267,7 +1442,9 @@ recipes:
     - ¼ ounce Rich Demerara Syrup
     - "Garnish: Powdered genmai (Japanese toasted rice)"
     steps:
-    - In a shaker tin, combine the rum, hōjicha, coconut cream syrup, lime juice, and demerara syrup with ice. Shake to chill, then strain into a coupe. Garnish with a dusting of powdered genmai (use a mortar and pestle to gently crush the toasted rice grains into a loose powder).
+    - In a shaker tin, combine the rum, hōjicha, coconut cream syrup, lime juice, and demerara syrup with ice. 
+    - Shake to chill, then strain into a coupe. 
+    - Garnish with a dusting of powdered genmai (use a mortar and pestle to gently crush the toasted rice grains into a loose powder).
     tags: 
     - "fuyu: winter"
     - shaken
@@ -1276,15 +1453,17 @@ recipes:
   - name: Cassis Oolong
     notes: Cassis is a very popular ingredient in Japanese cocktail bars, often paired with soda, tea, or orange juice. I enjoy the mulberry-colored liqueur more in the winter because of the way its intensely dark, lush side contrasts with perky tartness. When paired with oolong tea, the two transform into an enticing tangle of rich tannins, floral notes, and berries, underscored here with the depths of sweet potato shōchū. A simple but satisfying number.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: highball
     ingredients: 
     - ¾ ounce Jacoulot Crème de Cassis de Dijon
     - 1 ounce Nishi Shuzō Satsuma Hozan sweet potato shōchū
     - Chilled Oolong
     - "Garnish: Lemon twist"
     steps:
-    - In a mixing glass, combine the crème de cassis, sweet potato shōchū, and oolong tea. Add ice and stir to chill. Strain into a highball glass over fresh ice. Garnish with a manicured lemon twist.
+    - In a mixing glass, combine the crème de cassis, sweet potato shōchū, and oolong tea. 
+    - Add ice and stir to chill. 
+    - Strain into a highball glass over fresh ice. 
+    - Garnish with a manicured lemon twist.
     tags: 
     - "fuyu: winter"
     - stirred
@@ -1293,8 +1472,7 @@ recipes:
   - name: Matcha Miruku
     notes: When I was a child, my parents would give me warm milk when I had trouble sleeping. Milk isn’t a typical ingredient used in food and drink in Japan—at least not in the same abundant way it is in America—but prepackaged milk drinks can be found in Japanese convenience stores and vending machines everywhere, always packaged in happy bright colors with fun fonts. Banana and strawberry are common flavors, as is matcha. Hot matcha in the wintertime paired with milk becomes a hearty drink in modern-day Japanese cafés. I wanted to capture this feeling in a cocktail, but instead of dairy-based milk I reached for cashew milk, which I enjoy for its depth of nutty goodness. I particularly like the way the earthy notes of the sweet potato shōchū interact with the cashew milk in this drink. This is a nice low-proof nip for under the kotatsu, or to tuck in with before bed.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: mug
     ingredients: 
     - 1½ ounces hot water (202°F)
     - ¼ ounce Rich Honey Syrup
@@ -1302,15 +1480,19 @@ recipes:
     - 1½ ounces cashew milk
     - 3 scoops of matcha powder (about ¾ teaspoon)
     steps:
-    - In a prewarmed vessel, combine the hot water, syrup, shōchū, and cashew milk. Stir to incorporate. Warm a chawan (Japanese tea bowl) and sift the matcha through a tea strainer into the chawan (this helps prevent clumps). Pour the hot cocktail into the chawan with the matcha and whisk with a chasen (Japanese bamboo matcha whisk) to combine. To get the right level of aeration, start slowly, drawing a wave or W-pattern into the liquid very loosely on the bottom to pull up all the grains of matcha. Then, lift the chasen up and whisk briskly using your wrist until a lovely froth forms all across the surface.
+    - In a prewarmed vessel, combine the hot water, syrup, shōchū, and cashew milk. 
+    - Stir to incorporate. 
+    - Warm a chawan (Japanese tea bowl) and sift the matcha through a tea strainer into the chawan (this helps prevent clumps). 
+    - Pour the hot cocktail into the chawan with the matcha and whisk with a chasen (Japanese bamboo matcha whisk) to combine. 
+    - To get the right level of aeration, start slowly, drawing a wave or W-pattern into the liquid very loosely on the bottom to pull up all the grains of matcha. 
+    - Then, lift the chasen up and whisk briskly using your wrist until a lovely froth forms all across the surface.
     tags: 
     - "fuyu: winter"
     - heated
   - name: Matcha Miruku (Non-Alcoholic)
     notes: This spiritfree version of the Matcha Miruku (this page) has an underlying richness thanks to the kinmokusei syrup that takes the place of sweet potato shōchū. Overall, the drink is more floral, and delicate, with the same nutty character and structure from the cashew milk, which offers a fragrant perceived sweetness to this drink while still finishing dry. Because it resembles a hot latte, you can either jumpstart your morning with a mug or settle in with one as a restorative treat in the middle of a long day.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: mug
     ingredients: 
     - ½ ounce Rich Honey Syrup
     - ¼ ounce Kinmokusei Syrup
@@ -1318,7 +1500,13 @@ recipes:
     - 1½ ounces hot water (202°F)
     - 3 scoops of matcha powder (about ¾ teaspoon)
     steps:
-    - In a prewarmed vessel, combine the honey syrup, kinmokusei syrup, cashew milk, and hot water. Stir to incorporate evenly. Aim to keep the temperature between 150°F and 160°F. Sift the matcha into a prewarmed chawan. Gently pour the sweetened cashew milk over the matcha and whisk with a chasen to combine. To get the right level of aeration, start slowly, drawing a wave or W into the liquid very loosely on the bottom to pull up all the grains of matcha. Then, lift the whisk up ever so slightly and whisk briskly using your wrist until a lovely froth forms all across the surface of the chawan.
+    - In a prewarmed vessel, combine the honey syrup, kinmokusei syrup, cashew milk, and hot water. 
+    - Stir to incorporate evenly. 
+    - Aim to keep the temperature between 150°F and 160°F. 
+    - Sift the matcha into a prewarmed chawan. 
+    - Gently pour the sweetened cashew milk over the matcha and whisk with a chasen to combine. 
+    - To get the right level of aeration, start slowly, drawing a wave or W into the liquid very loosely on the bottom to pull up all the grains of matcha. 
+    - Then, lift the whisk up ever so slightly and whisk briskly using your wrist until a lovely froth forms all across the surface of the chawan.
     tags: 
     - "fuyu: winter"
     - n/a
@@ -1326,8 +1514,7 @@ recipes:
   - name: Frosty Mikan
     notes: Citrus comes into season in the wintertime and my favorite variety is the mikan, a small relative of the mandarin orange, also called satsuma. I used to eat so many my hands would turn a deep orange color from all the snacking sessions. Other times, I’d save them for my favorite wintertime game. When heavy snow hit the mountains, we’d play in the deepest drifts, throwing mikans into fluffy banks of fresh powder and fishing them out the next day to eat frozen. The way the juicy segments snapped with frigid cold felt like tiny fireworks with each bite. To re-create that memory in a cocktail, I bury satsuma juice beneath a chilly layer of crushed ice and absinthe. As the absinthe seeps into the juice, it louches, creating a cloudy white layer that looks like snow. The first sip is bracingly cold, prickling waves of anisette, with relief from the satsuma juice below offering a sweet contrast. This cocktail brings me joy with each sip when mikan come into season, reminding me of another time and place.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: highball
     ingredients: 
     - 1 ounce satsuma juice (see Note)
     - ¼ ounce Simple Syrup
@@ -1335,7 +1522,10 @@ recipes:
     - Club soda, to top
     - "Garnish: Satsuma wheel and ¼ ounce absinthe"
     steps:
-    - In a highball glass, combine the satsuma juice, simple syrup, and 1 ounce absinthe. Stir lightly and fill the glass with crushed ice. Top with club soda. Garnish with a satsuma wheel, and ¼ ounce more of absinthe.
+    - In a highball glass, combine the satsuma juice, simple syrup, and 1 ounce absinthe. 
+    - Stir lightly and fill the glass with crushed ice. 
+    - Top with club soda. 
+    - Garnish with a satsuma wheel, and ¼ ounce more of absinthe.
     - "Note: I prefer the more intense, fruity, sweet, floral note that satsuma have over regular oranges, but any mandarin orange juice would work in place of satsuma if that is what you have handy."
     tags: 
     - "fuyu: winter"
@@ -1343,8 +1533,7 @@ recipes:
   - name: Saké Chai Flip
     notes: In Japan, there is a drink called tamagozaké, made with a whole egg whisked with sugar then topped with a slow pour of hot saké. With a soul similar to an American eggnog or the Tom & Jerry cocktail, it is a comforting winter drink with a big, bouncy texture. In my chilled version, a bouquet of baking spice from chai and allspice amps up the holiday aromas while saké adds sweetness and barley shōchū anchors the blend with a solid grain-y backbone. With robust cocktails like this one, seek out an affordable bottle of nihonshu, for its purpose is to meld seamlessly with the other flavors. A more highly polished saké might get lost completely, and that would be a terrible waste.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: coupe
     ingredients: 
     - 1½ ounces Akashi-Tai Tokubetsu Honjōzō saké
     - 1 ounce Mizu Saga barley shōchū
@@ -1354,15 +1543,19 @@ recipes:
     - 1 egg
     - "Garnish: Black pepper, grated nutmeg, and Angostura bitters"
     steps:
-    - In a Boston shaker (because they’re easier to clean), combine the saké, shōchū, chai cream liqueur, allspice dram, and kinmokusei syrup. Crack the egg into the other shaker tin. Bring the two parts together and employ a strong dry shake to fully emulsify. Add three large ice cubes and shake again to chill and build up a nice froth. Fine-strain into a flared cocktail glass or coupe. Garnish with an artistic splattering of Angostura bitters, cracked black pepper, and grated nutmeg.
+    - In a Boston shaker (because they’re easier to clean), combine the saké, shōchū, chai cream liqueur, allspice dram, and kinmokusei syrup. 
+    - Crack the egg into the other shaker tin. 
+    - Bring the two parts together and employ a strong dry shake to fully emulsify. 
+    - Add three large ice cubes and shake again to chill and build up a nice froth. 
+    - Fine-strain into a flared cocktail glass or coupe. 
+    - Garnish with an artistic splattering of Angostura bitters, cracked black pepper, and grated nutmeg.
     tags: 
     - "fuyu: winter"
     - shaken
   - name: Neither-Nor
     notes: A world of opulent flavors exists in the space between the gin-based Negroni and its cousin the whiskey-fueled Boulevardier—both beloved cocktails in Japanese bars. What if, instead of enjoying one or the other, you could enjoy the best characteristics of both cocktails, and with a Japanese angle? That’s exactly what I aimed to do in this drink, where Gran Classico and sherry combine in a labyrinth of dark bitter orange and nutty spice, while cranberry gin liqueur adds a piquant tartness reminiscent of Campari. Kintaro Baisen is a roasted barley shōchū, those toasty notes coming through with a unique and long finish, helping click the other ingredients into sync. Compared to the traditional Negroni or Boulevardier, this hybrid offers a lush envelope of beauty that bursts with sheer complexity.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: rocks
     ingredients: 
     - 1 ounce Tempus Fugit Gran Classico
     - 1 ounce Nishiyoshida Shuzō Kintaro Baisen Honkaku barley shōchū
@@ -1370,7 +1563,11 @@ recipes:
     - ½ ounce Valdespino Contrabandista Medium Dry Amontillado sherry
     - "Garnish: Lemon peel and orange peel"
     steps:
-    - In a mixing glass, combine the Gran Classico, barley shōchū, cranberry gin liqueur, and sherry. Add ice and stir lightly to incorporate the ingredients. It doesn’t need as much dilution as the typical Negroni or Boulevardier because the shōchū is lower in proof than gin or whisky, so don’t overstir. Strain into a rocks glass over fresh ice. Express the oils of both the lemon peel and orange peel over the drink, then garnish with the manicured peels.
+    - In a mixing glass, combine the Gran Classico, barley shōchū, cranberry gin liqueur, and sherry. 
+    - Add ice and stir lightly to incorporate the ingredients. 
+    - It doesn’t need as much dilution as the typical Negroni or Boulevardier because the shōchū is lower in proof than gin or whisky, so don’t overstir. 
+    - Strain into a rocks glass over fresh ice. 
+    - Express the oils of both the lemon peel and orange peel over the drink, then garnish with the manicured peels.
     tags: 
     - "fuyu: winter"
     - stirred
@@ -1380,8 +1577,7 @@ recipes:
   - name: White Grasshopper
     notes: The grasshopper is a classic cream-based cocktail that is particularly beloved in Japanese cocktail bars. For my version, I wanted to play up the “green” flavors while tricking the mind with a snowy white appearance. The key ingredient is Munemasa distillery’s Mizunomai green tea shōchū. Distilled from barley, black kōji, and freshly steamed green tea, this shōchū brings a distinctly “green” and chocolaty note to the traditional mix of crème de cacao, crème de menthe, and heavy cream. In Japan, most grasshopper cocktails take a spin through the blender with ice for a thick and creamy texture, but I prefer mine shaken because I like how much easier it is to drink without a straw or spoon. Finally, a light dusting of matcha on top tickles the nose, highlights the herbaceousness of the mint, and draws on the green tea shōchū.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - ¾ ounce Mizu green tea shōchū
     - ¾ ounce Giffard white crème de cacao
@@ -1389,15 +1585,16 @@ recipes:
     - 1 ounce heavy cream
     - "Garnish: Matcha powder"
     steps:
-    - In a shaker tin, combine the green tea shōchū, crème de cacao, menthe-pastille, and heavy cream with ice. Shake to chill, then strain into your festive glass of choice. Garnish with a light dusting of matcha on the top of the drink.
+    - In a shaker tin, combine the green tea shōchū, crème de cacao, menthe-pastille, and heavy cream with ice. 
+    - Shake to chill, then strain into your festive glass of choice. 
+    - Garnish with a light dusting of matcha on the top of the drink.
     tags: 
     - "fuyu: winter"
     - shaken
   - name: Sanshō Grasshopper
     notes: "For another version of the classic grasshopper, I wanted to highlight one of Japan’s most unique spices: sanshō. The zippy botanical has such a radiant quality, which is one of the reasons why it is prominently featured in several Japanese gins—none more so than Nikka Coffey gin. In the drink, sanshō’s fierce menthol-like personality pairs brilliantly with the chocolatey notes of crème de cacao. I chose to garnish the cocktail with a sprig of kinomé (leaves of the sanshō tree) on top of the pillowy white canvas. It looks like a small holly leaf on a bed of snow—everything about this drink evokes holiday feelings for me. I hope it will for you, too."
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - ¾ ounce Giffard Crème de Cacao (white)
     - ¾ ounce Giffard Menthe-Pastille
@@ -1405,29 +1602,32 @@ recipes:
     - 1 ounce heavy cream
     - "Garnish: Kinomé sprig"
     steps:
-    - In a shaker tin, combine the crème de cacao, menthe-pastille, gin, and heavy cream with ice. Shake to chill. then strain into a festive glass. Garnish with a sprig of fresh kinomé.
+    - In a shaker tin, combine the crème de cacao, menthe-pastille, gin, and heavy cream with ice. 
+    - Shake to chill. then strain into a festive glass. 
+    - Garnish with a sprig of fresh kinomé.
     tags: 
     - "fuyu: winter"
     - shaken
   - name: Strawberry White Cake
     notes: Every December, dazzling Christmas cakes arrive on the shelves of Japanese stores, tempting everyone’s sweet tooth. Made of sponge cake with white whipped cream icing, the cakes are layered with strawberries and topped with powdered white sugar. To harness that personality in a festive holiday cocktail, I reached for strawberry liqueur and soba (buckwheat) shōchū, which has vanilla and almond notes that mirror those found in the sponge cake. A layer of sweet cacao–imbued cream pretends to be frosting, upon which we drizzle a drop of Peychaud’s bitters to serve as a visual reminder of the kiss of strawberries that grace the tops of cakes. Before you mix, notice the smaller proportions of this drink. Like the Line Cocktail (this page), this recipe falls into the category of short drinks—ones that are meant to be consumed in two or three light, fleeting sips. The format works best for this recipe because it does have a hefty amount of sweetness. I recommend keeping a batch in the refrigerator, or pop a few servings into the freezer for a few minutes before drinking, so it comes out bracingly cold.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: cordial glass
     ingredients: 
     - ¼ ounce Giffard Crème de Fraise des Bois strawberry liqueur
     - ½ ounce Kitsukura soba shōchū
     - "Garnish: Cacao Cream and 1 drop Peychaud’s bitters"
     steps:
-    - In a mixing glass, combine the strawberry liqueur and shōchū and chill in the refrigerator. Prepare the cacao cream, whipping just enough to thicken, but not so much that it hardens into peaks. When ready to drink, pour the drink into a small stemmed cordial glass and gently top with about ¼ ounce of cacao cream to create a layered effect. Garnish with a drop of Peychaud’s bitters.
+    - In a mixing glass, combine the strawberry liqueur and shōchū and chill in the refrigerator. 
+    - Prepare the cacao cream, whipping just enough to thicken, but not so much that it hardens into peaks. 
+    - When ready to drink, pour the drink into a small stemmed cordial glass and gently top with about ¼ ounce of cacao cream to create a layered effect. 
+    - Garnish with a drop of Peychaud’s bitters.
     tags: 
     - "fuyu: winter"
     - stirred
   - name: French 75
     notes: Roast turkeys are not a common sight at the dinner table in Japan, so in the 1970s the fast-food chain KFC began to market fried chicken to the masses as a special way to mark the holidays. Fried chicken and Champagne has since become an annual ritual at many Christmas tables around the country. For me, the only thing better than a glass of good bubbles around the holidays is the classic French 75. You can find well-made ones on Japanese cocktail menus year-round, but the drink takes on extra-special festiveness in December. For this iteration the refined nature of Roku gin weaves seamlessly into the lemon juice and bubbles.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: flute
     ingredients: 
     - 1½ ounces Suntory Roku gin
     - ¾ ounce fresh lemon juice
@@ -1435,7 +1635,9 @@ recipes:
     - Champagne, to top
     - "Garnish: Lemon peel, lemon twist"
     steps:
-    - In a shaker tin, combine the gin, lemon juice, and simple syrup with ice. Shake to chill, then strain into a flute and top with Champagne. Express the oils of a lemon peel over the top of the drink (discard the peel) and garnish with a manicured lemon twist.
+    - In a shaker tin, combine the gin, lemon juice, and simple syrup with ice. 
+    - Shake to chill, then strain into a flute and top with Champagne. 
+    - Express the oils of a lemon peel over the top of the drink (discard the peel) and garnish with a manicured lemon twist.
     tags: 
     - "fuyu: winter"
     - shaken
@@ -1444,8 +1646,7 @@ recipes:
   - name: Holiday Highball
     notes: I prefer my French 75s made with gin instead of Cognac, as is the case in many Japanese bars. There is something marvelous about the way the juniper stands out within the sea of citrus. Thinking about how to make the festive classic even more exciting for the holiday season, I turned to a dose of cranberry gin liqueur from a local Chicago distillery instead of regular gin and took a note from the Japanese tradition of serving the cocktail in a highball glass over a collins spear of ice instead of up in a delicate flute. Not every bar does this, but when they do it’s wonderful because it creates a completely different drinking experience. In this variation especially, the ice works wonders as it softens the astringent qualities of the cranberry and lemon and creates a festive visual as the Champagne bubbles dance around the spear.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: collins
     ingredients: 
     - 1 ounce Suntory Roku gin
     - ¾ ounce Koval Cranberry Gin liqueur
@@ -1454,7 +1655,10 @@ recipes:
     - Champagne, to top
     - "Garnish: Lime twist"
     steps:
-    - In a shaker tin, combine the gin, cranberry gin liqueur, lemon juice, and simple syrup with ice. Briefly shake to chill, then strain into a tall glass over one large collins spear of ice. Top with Champagne. Garnish with a lime twist.
+    - In a shaker tin, combine the gin, cranberry gin liqueur, lemon juice, and simple syrup with ice. 
+    - Briefly shake to chill, then strain into a tall glass over one large collins spear of ice. 
+    - Top with Champagne. 
+    - Garnish with a lime twist.
     tags: 
     - "fuyu: winter"
     - shaken
@@ -1465,8 +1669,7 @@ recipes:
   - name: Azalea
     notes: A traditional part of New Year’s celebrations in Japan is mochi-tsuki, a communal gathering for mochi pounding. I was seven years old the first time my family went to one in Tomio—there, I tried my first taste of fresh mochi in the form of chewy dumplings dropped into zenzai, a sweet adzuki (red bean) soup. In homage to that delicious dish, I pair koshian (red bean paste) syrup with the creaminess of amazaké (a nonalcoholic rice brew; see this page) to create a rich base for the drink. Those two lovely flavors fit well together, and even more so when adjusted with the acidity of the verjus and the snappy qualities of the umé-su. A splash of tonic lightens up the otherwise heavy spiritfree and adds a small hint of quinine to temper the sweetness just a touch. Overall, it is a delightful dessert-friendly drink suited for sipping on cold winter nights.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: nick & nora
     ingredients: 
     - 2 ounces Amazaké
     - ¾ ounce Koshian Syrup
@@ -1475,7 +1678,10 @@ recipes:
     - Indian tonic water, to top
     - "Garnish: Grated nutmeg"
     steps:
-    - In a shaker tin, combine the amazaké, koshian syrup, verjus rouge, and umé-su with ice. Shake briskly to chill, then strain into a cocktail glass using a Hawthorne strainer with a tight coil, or double-strain using a tea strainer, so no ice chips land in the drink. Add the tonic water. Garnish with nutmeg.
+    - In a shaker tin, combine the amazaké, koshian syrup, verjus rouge, and umé-su with ice. 
+    - Shake briskly to chill, then strain into a cocktail glass using a Hawthorne strainer with a tight coil, or double-strain using a tea strainer, so no ice chips land in the drink. 
+    - Add the tonic water. 
+    - Garnish with nutmeg.
     tags: 
     - "fuyu: winter"
     - n/a
@@ -1483,8 +1689,7 @@ recipes:
   - name: Warm Note
     notes: Once the holidays have come and gone, it is time to turn toward understated flavors that bring nourishment. In the deep winter, I often enjoy a drink called yuzu-cha, made with a scoop of yuzu marmalade and hot water. This hot cocktail was inspired by the curative comfort that such beverages have always offered. Soothing and satisfying, the blend of ginger and green tea shōchū brings flavors of fire and earth together in pristine balance when sweetened with ribbons of honey. The drink hums with a low decibel of earthy spice while staying very clean and bright, the same way a healing brothy soup might taste in the dead of winter.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: teacup
     ingredients: 
     - 5½ ounces hot water (195°F)
     - 1½ ounces Mizu green tea shōchū
@@ -1492,21 +1697,24 @@ recipes:
     - ½ ounce Rich Honey Syrup
     - "Garnish: Wheel of kumquat or mikan (tangerine)"
     steps:
-    - Measure the hot water into a large teacup. Follow with the green tea shōchū, ginger shōchū, and honey syrup. Garnish with a wheel of kumquat or mikan. For an extra burst of flavor, express the oils of a citrus peel over the cocktail as a final flourish (discard the peel).
+    - Measure the hot water into a large teacup. 
+    - Follow with the green tea shōchū, ginger shōchū, and honey syrup. 
+    - Garnish with a wheel of kumquat or mikan. 
+    - For an extra burst of flavor, express the oils of a citrus peel over the cocktail as a final flourish (discard the peel).
     tags: 
     - "fuyu: winter"
     - heated
   - name: Sky Diving
     notes: For as formal and straightlaced as many Japanese bartenders might appear on the surface, most will go to great lengths to make a customer crack a smile. Sometimes that means the use of unexpected flavored liqueurs like blue Curaçao. Ōsaka bartender Yoshiyuki Watanabe won first place in the Nippon Bartenders Association (NBA) cocktail competition in 1967 with this drink, which he named inspired by its bright blue hue. History texts show he used a 3:2:1 ratio of rum to Curaçao and lime cordial. I have adjusted the portions into ounces, thus making the cocktail larger in volume to some degree, but still adhering to the original ratio. I also decided to make a lime cordial from fresh lime peels and juice rather than opting for juice and simple syrup, for a slightly more bitter touch.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: cordial glass
     ingredients: 
     - ¾ ounce Bacardi Superior white rum
     - ½ ounce Senior & Co. blue Curaçao
     - ¼ ounce Lime Cordial
     steps:
-    - In a shaker tin, combine the rum, blue Curaçao, and lime cordial with ice. Shake to chill, then strain into a small cocktail glass or cordial glass.
+    - In a shaker tin, combine the rum, blue Curaçao, and lime cordial with ice. 
+    - Shake to chill, then strain into a small cocktail glass or cordial glass.
     tags: 
     - "fuyu: winter"
     - shaken
@@ -1516,23 +1724,23 @@ recipes:
   - name: After Angels
     notes: The comforts of sweet potato help carry me through the wintertime. Nishi Shuzō in Kagoshima makes a sherry cask aged sweet potato shōchū called Tenshi no Yūwaku (the angels, temptation). This is, of course, in reference to the angels share, which wafts from the barrels as the shōchū rests in the hot Kagoshima weather. This shōchū is beguiling, buttery, and bold; so, for a wintery oyuwari serve, I chose to combine it with a purple sweet potato vinegar for tang and nectarous uméshu. The vinegar is powerful, so you only need a small splash, but keep the kettle on, because you may want another round.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: teacup
     ingredients: 
     - 3 ounces hot water (195°F)
     - 1½ ounces Nishi Shuzō Tenshi no Yūwaku sweet potato shōchū
     - ½ ounce uméshu
     - 1 (scant) barspoon beni imo-su (purple sweet potato vinegar)
     steps:
-    - Pour the hot water into a teacup. Measure the sweet potato shōchū, uméshu, and beni imo-su over the water. The heat of the water will help to mix the ingredients.
+    - Pour the hot water into a teacup. 
+    - Measure the sweet potato shōchū, uméshu, and beni imo-su over the water. 
+    - The heat of the water will help to mix the ingredients.
     tags: 
     - "fuyu: winter"
     - heated
   - name: Old Fashioned
     notes: Many bartenders in Japan will choose a classic cocktail and dedicate their time and attention to mastering it—for me, that cocktail is the old fashioned. I have spent countless hours working to perfect my preferred build. Spirit-forward and somewhat bitter, this should be a true staple in any bartender’s repertoire. This recipe is my preferred ratio for an old fashioned that skews pretty close to traditional. I would invite you to use it as a jumping-off point to find your perfect blend.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: rocks
     ingredients: 
     - 2 ounces Eagle Rare Kentucky Straight Bourbon whiskey
     - ¼ ounce Rich Demerara Syrup
@@ -1540,7 +1748,10 @@ recipes:
     - 1 dash orange bitters
     - "Garnish: Orange peel"
     steps:
-    - In a mixing glass, combine the bourbon, demerara syrup, and bitters. Add ice and stir to chill. Strain into an old fashioned glass over a tempered ice sphere. Express the oils of a manicured orange peel over the top of the drink, then garnish.	
+    - In a mixing glass, combine the bourbon, demerara syrup, and bitters. 
+    - Add ice and stir to chill. 
+    - Strain into an old fashioned glass over a tempered ice sphere. 
+    - Express the oils of a manicured orange peel over the top of the drink, then garnish.	
     - "Note: The old fashioned is one of the first classic cocktails that I learned how to make, though the recipe that was introduced to me initially was a bit more like a fruit cocktail than a refined mixture of spirit, bitter, sugar, and water. I love the flexibility of the template—within the framework, there are dozens of opportunities for mixing. You could use mezcal and agave nectar with orange bitters, for example, or make a rum old fashioned that uses Japanese curry syrup instead of demerara, and Bràulio Amaro instead of aromatic bitters."
     tags: 
     - "fuyu: winter"
@@ -1550,8 +1761,7 @@ recipes:
   - name: Million Dollar
     notes: The legendary Louis Eppinger created the Million Dollar cocktail while working at the Grand Hotel in Yokohama in 1894. In the original recipe, gin met sweet vermouth, pineapple juice, and grenadine. When Eppinger’s protégé Shogo Hamada took the drink with him to Café Raion in Ginza in the early 1920s, it is said he used an Old Tom gin, but the recipe featured in The Savoy Cocktail Book (1930) calls specifically for Plymouth. For modern palates I prefer Suntory Roku gin for the soft-handed sophistication it brings to the glass. To create a more even balance, I use dry vermouth instead of sweet, which also takes the fruitiness down a few notches. Consider this a more lithe, somewhat brisk version of the cocktail, suited for year-round sipping.
     author: Julia Momosé
-    year: 
-    glassware: 
+    glassware: coupe
     ingredients: 
     - 1½ ounces Suntory Roku gin
     - ½ ounce Cocchi Vermouth di Torino
@@ -1561,7 +1771,10 @@ recipes:
     - 1 egg white
     - "Garnish: Lemon peel, pineapple wedge"
     steps:
-    - In a shaker tin, combine the gin, both vermouths, the pineapple juice, grenadine, and egg white. Dry shake, then add ice and shake again to chill. Strain into a coupe. Express lemon oils over the drink (discard the peel) and garnish with a wedge of pineapple.
+    - In a shaker tin, combine the gin, both vermouths, the pineapple juice, grenadine, and egg white. 
+    - Dry shake, then add ice and shake again to chill. 
+    - Strain into a coupe. 
+    - Express lemon oils over the drink (discard the peel) and garnish with a wedge of pineapple.
     tags: 
     - "fuyu: winter"
     - shaken

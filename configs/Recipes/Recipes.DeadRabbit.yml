@@ -3,7 +3,7 @@ recipes:
 
   - name: Split Second
     notes: 
-    glassware: 
+    glassware: double rocks
     ingredients: 
     - 1 oz Plantation Pineapple Stiggins Fancy Rum
     - ¾ oz Jameson Original Irish Whiskey
@@ -20,3 +20,4 @@ recipes:
     - stirred
     - old-fashioned
     - the dead rabbit 
+    - freezer bar
