@@ -56,7 +56,7 @@ recipes:
     - Refrigerate overnight. 
     - Stir again before using. Will keep for 3 days, refrigerated.
   - name: Simple Syrup
-    notes: "Simple syrup is the most basic sweetener used in cocktails, and as the name states, it’s simple–made of just sugar and water. Like salt, sugar is a flavor enhancer, and simple syrup is used to bring out the character of other cocktail ingredients. Its sweetness also balances acidic elements like citrus juices. Superfine sugar (also called bar sugar, a nod to its use by bartenders) is best for making simple syrup because the fine granules dissolve easily without heating. There are two methods for making simple syrup: hot and cold. Most people are familiar with the hot method and do not realize that you can get the same result by simply stirring or shaking it. The cold method works only with superfine sugar. Standard granulated sugar requires heat to thoroughly dissolve all the granules. Either way, the sugar and water proportions are the same–one to one by volume; because there is a lot of air trapped between granules of sugar, we recommend measuring by weight. For those who don’t own a kitchen scale, we offer a volume measurement as well. Makes 1 quart."
+    notes: "Simple syrup is the most basic sweetener used in cocktails, and as the name states, it's simple–made of just sugar and water. Like salt, sugar is a flavor enhancer, and simple syrup is used to bring out the character of other cocktail ingredients. Its sweetness also balances acidic elements like citrus juices. Superfine sugar (also called bar sugar, a nod to its use by bartenders) is best for making simple syrup because the fine granules dissolve easily without heating. There are two methods for making simple syrup: hot and cold. Most people are familiar with the hot method and do not realize that you can get the same result by simply stirring or shaking it. The cold method works only with superfine sugar. Standard granulated sugar requires heat to thoroughly dissolve all the granules. Either way, the sugar and water proportions are the same–one to one by volume; because there is a lot of air trapped between granules of sugar, we recommend measuring by weight. For those who don't own a kitchen scale, we offer a volume measurement as well. Makes 1 quart."
     ingredients: 
     - 1½ pounds (3⅓ cups) superfine sugar
     - 2 cups water
@@ -173,7 +173,7 @@ recipes:
     - Keep refrigerated until use. 
     - Fill a labeled squeeze bottle for easiest use.
   - name: Hisbiscus Cordial
-    notes: Hibiscus is used throughout the Middle East and Latin America to make a ruby-red herbal tea. You can find the flowers at a tea or herb retailer. This hibiscus cordial is the brainchild of our bar manager and long-time friend Robert Krueger. This cleverly designed cordial brings out a rich color, beautiful floral notes, and a nice citrus flavor from the dried hibiscus flowers. It’s the main ingredient in Rob’s Roselle cocktail. Vodka and brandy serve to fortify the cordial for longer use. Makes about 1 quart.
+    notes: Hibiscus is used throughout the Middle East and Latin America to make a ruby-red herbal tea. You can find the flowers at a tea or herb retailer. This hibiscus cordial is the brainchild of our bar manager and long-time friend Robert Krueger. This cleverly designed cordial brings out a rich color, beautiful floral notes, and a nice citrus flavor from the dried hibiscus flowers. It's the main ingredient in Rob's Roselle cocktail. Vodka and brandy serve to fortify the cordial for longer use. Makes about 1 quart.
     ingredients: 
     - 2 cups water
     - ½ cup dried hibiscus flowers
@@ -216,7 +216,7 @@ recipes:
     - Bottle and store at room temperature. 
     - Will keep indefinitely.
   - name: Red Bush-Infused Vermouth
-    notes: This tea-infused vermouth was developed by EO bartender Milos Zica for the Quiet Storm cocktail. Also known as rooibos, South African red bush tea is a robust herbal tea with a rich mahogany color. We recommend the Silence rooibos tea blend from T Salon, which is where the cocktail’s name partially derives from. Like the Vermouth de Provence, this vermouth is created with the hot infusion method that requires steeping the tea and other ingredients in a small amount of vermouth to make a concentrate. The color of this infused vermouth is a rich pumpkin orange. Makes ¾ quart.
+    notes: This tea-infused vermouth was developed by EO bartender Milos Zica for the Quiet Storm cocktail. Also known as rooibos, South African red bush tea is a robust herbal tea with a rich mahogany color. We recommend the Silence rooibos tea blend from T Salon, which is where the cocktail's name partially derives from. Like the Vermouth de Provence, this vermouth is created with the hot infusion method that requires steeping the tea and other ingredients in a small amount of vermouth to make a concentrate. The color of this infused vermouth is a rich pumpkin orange. Makes ¾ quart.
     ingredients: 
     - 1 (750 ml) bottle Dolin Blanc vermouth
     - 1 tablespoon T Salon Silence red rooibos tea
@@ -246,11 +246,11 @@ recipes:
     notes: Peaches and bourbon is about as Southern as you can get. Drying the fruit before steeping is key–the flavors are concentrated and yield a strong, clean peach essence; fresh fruit, on the other hand, releases its water into the liquid and dilutes the infusion. The only problem with dried peaches is that they will soak up some of the bourbon, resulting in some loss, but it is worth it. Today, high-quality dried peaches are available in most supermarkets, which greatly simplifies the process. When the infused bourbon is tasted straight, the fruit flavor may seem subdued, but mixing it with sugar or sweetened ingredients awakens the peachiness. We created this infusion for our Pêche Bourbon cocktail. Makes ¾ quart.
     ingredients: 
     - 12 dried organic unsulphured peach halves
-    - 1 (1-liter) bottle Maker’s Mark bourbon
+    - 1 (1-liter) bottle Maker's Mark bourbon
     steps:
     - Place the peaches and bourbon in a large covered glass container or cookie jar. Let rest for 3 days, then strain into the bottle. Store at room temperature. Will keep indefinitely.
   - name: English Bourbon
-    notes: How to Mix Drinks or the Bon Vivant’s Companion offers a recipe for English Bishop that involves sketchy directions and an open fire. It took some trial and error, but we adapted it to a standard oven. The infusion can be a cocktail sipped on its own, or an ingredient that can be mixed into other cocktails; we use it in our Jersey Devil cocktail. Makes about ¾ quart.
+    notes: How to Mix Drinks or the Bon Vivant's Companion offers a recipe for English Bishop that involves sketchy directions and an open fire. It took some trial and error, but we adapted it to a standard oven. The infusion can be a cocktail sipped on its own, or an ingredient that can be mixed into other cocktails; we use it in our Jersey Devil cocktail. Makes about ¾ quart.
     ingredients: 
     - 1 orange
     - 30 whole cloves
@@ -269,7 +269,7 @@ recipes:
     ingredients: 
     - 3 cups Pernod 68 absinthe
     - ½ cup Green Chartreuse
-    - 1 teaspoon Peychaud’s bitters
+    - 1 teaspoon Peychaud's bitters
     - 1 teaspoon Angostura bitters
     - 2 tablespoons Fee Brothers mint bitters
     steps:

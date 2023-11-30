@@ -328,7 +328,7 @@ recipes:
   - name: Bee's Knees
     author: coupe
     notes: One of Sasha's favorite cocktails, this one dates back to the Prohibition era. The addition of lemon juice and honey was once used to mask the taste and smell of bathtub gin. -Georgette Moger-Petraske
-    glassware: 
+    glassware: coupe
     ingredients:
     - 2 oz gin
     - 1 oz fresh lemon juice
@@ -360,9 +360,8 @@ recipes:
     - shaken
     - citrus
   - name: Caipirinha
-    author: double rocks
     notes: Sasha loved Caipirinhas and has taught us how to make them properly. With 'peasant-style drinks'—those made with mdudled citrus and cracked ice—the acidity of the citrus can change drastically from day to day, depending on the size, ripeness, and origin of the fruit. This makes it especially important to taste your first drink of the night, gauge the acidity, and then use that as the benchmark for the rest of the evening. The same also goes for drinks with fresh berries and, basically, any ingredient with the potential for variation. The other important factor when tasting cracked-ice drinks is coldness and water content. Every facet of your cracked ice is going to affect the amount of water that will melt into the drink as you shake it. -Karin Stanley
-    glassware: 
+    glassware: double rocks
     ingredients:
     - 6 lime wedges
     - 2 oz cachaca
@@ -370,7 +369,7 @@ recipes:
     - 1 white sugar cube
     steps:
     - Muddle the lime wedges with the cachaca, simple syrup, and sugar cube in a cocktail shaker.
-    - Fill with craked ice and shake vigorously until the drink is sufficiently chilled.
+    - Fill with cracked ice and shake vigorously until the drink is sufficiently chilled.
     - Strain into a chilled double rocks glass and add enough cracked ice to fill the glass.
     tags:
     - Milk & Honey
@@ -1322,7 +1321,7 @@ recipes:
     - gimlet
   - name: Eskimo's Kiss
     notes: Sasha's drink of choice seemed to be a Mojito, and often he would get what he called an "Eskimo's Kiss," which was essentially a double Mojito in a large glass with two straws, though I can't recall ever seeing him share one. He always used one straw to taste, took the second straw out, and brought it to one of the clerks at Kinko's down the street, where he would barter the cocktail for printing services. Like the Petraske Mojito, the Eskimo's Kiss is as perfect, simple, and straightforward as could be—a shining example of Sasha's interpretation of the classics. Just fresh ingredients on crushed ice, no soda. The mint at the bottom of the glass adds flavor to the melting ice. The sugar cubes likewise enrich the drink's flavor as it is thinned by melting ice. -Abraham Hawkins
-    glassware: pint
+    glassware: pint glass
     ingredients:
     - 10 to 12 fresh mint leaves, plus whole sprigs for garnish
     - 2 Demerara sugar cubes (or 1 if it is giant) 
@@ -1614,9 +1613,8 @@ recipes:
     - citrus
     - sparkling
   - name: Wedding Punch
-    author: punch bowl
     notes: The month of May in a glass, this punch practically hums the Cole Porter songbook. Our wedding punch was a light prosecco and St-Germain refresher served in flutes that clinked like wind chimes in the garden throughout the day of our wedding. -Georgette Moger-Petraske (Makes about 2 1/2 gallons (10.75 L), enough for a boisterous party.)
-    glassware: 
+    glassware: punch bowl
     ingredients:
     - 1 (750-ml) bottle elderflower liqueur, such as St-Germain
     - 4 (750-ml) bottles dry vermouth, preferably Martini bianco

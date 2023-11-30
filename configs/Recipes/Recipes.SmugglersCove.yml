@@ -4,7 +4,7 @@ recipes:
 #The Birth of Tiki
   - name: Aku Aku
     author: Don the Beachcomber
-    notes: This inspired use of fresh mint and pineapple seems wholly contemporary, but has its roots in the 1930s when it was originally served at Don the Beachcomber’s and named the Missionary’s Downfall.
+    notes: This inspired use of fresh mint and pineapple seems wholly contemporary, but has its roots in the 1930s when it was originally served at Don the Beachcomber's and named the Missionary's Downfall.
     glassware: coupe
     ingredients:
     - 5 (1-inch-square) chunks fresh pineapple
@@ -53,8 +53,7 @@ recipes:
   - name: Don's Own Grog
     author: Don the Beachcomber
     year: 1937
-    notes: double rocks
-    glassware: 
+    glassware: double rocks
     ingredients:
     - ¾ ounce fresh lime juice
     - ¼ ounce SC Demerara syrup
@@ -84,7 +83,7 @@ recipes:
     - ½ ounce pineapple juice
     - ¼ ounce SC Demerara syrup
     - 1 dash SC Grenadine
-    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - 1½ ounces cane coffey still aged rum
     - 1 dash Angostura bitters
     - "Garnish: Lime wedge speared with a cocktail umbrella"
@@ -107,7 +106,7 @@ recipes:
     - ½ ounce fresh lime juice
     - ½ ounce fresh orange juice
     - ½ ounce SC Honey Syrup
-    - ¼ ounce John D. Taylor’s Velvet Falernum
+    - ¼ ounce John D. Taylor's Velvet Falernum
     - ¼ ounce St. Elizabeth Allspice Dram
     - 1½ ounces cane AOC Martinique rhum agricole vieux
     - ½ ounce blended aged rum
@@ -127,7 +126,7 @@ recipes:
   - name: Mexican El Diablo
     author: Trader Vic
     year: 1946
-    notes: As Vic said of his 1946 invention, “I hate like hell to bring up unpleasant things at a time like this, but go easy on this one because it’s tough on your running board.”
+    notes: As Vic said of his 1946 invention, “I hate like hell to bring up unpleasant things at a time like this, but go easy on this one because it's tough on your running board.”
     glassware: collins
     ingredients:
     - 1 lime wedge
@@ -201,7 +200,7 @@ recipes:
     - ½ ounce fresh lime juice
     - ½ ounce fresh grapefruit juice
     - ½ ounce SC Cinnamon Syrup
-    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - 1 ounce black blended rum
     - ¾ ounce blended aged rum
     - ¾ ounce black blended overproof rum
@@ -238,10 +237,10 @@ recipes:
     - shaken
     - citrus
   - name: Sidewinder's Fang
-    notes: As it used to be at the legendary Lanai restaurant in San Mateo, California. Beware this serpent’s bite!
+    notes: As it used to be at the legendary Lanai restaurant in San Mateo, California. Beware this serpent's bite!
     glassware: snifter
     ingredients:
-    - Sidewinder’s Fang peel
+    - Sidewinder's Fang peel
     - 1½ ounces fresh lime juice
     - 1½ ounces fresh orange juice
     - 1½ ounces SC Passion Fruit Syrup
@@ -250,7 +249,7 @@ recipes:
     - 1 ounce black blended rum
     - "Garnish: Mint sprig"
     steps:
-    - Line a snifter with the Sidewinder’s Fang peel, with one end hanging over the rim of the glass. 
+    - Line a snifter with the Sidewinder's Fang peel, with one end hanging over the rim of the glass. 
     - Fill glass with cracked or cubed ice to hold the peel in place. 
     - Put the remaining ingredients in a drink mixer tin with 12 ounces of crushed ice and 4 to 6 small “agitator” cubes. 
     - Flash blend then strain into the snifter. 
@@ -283,7 +282,7 @@ recipes:
     - citrus
   - name: Captain's Grog
     year: 1962
-    notes: "From the Captain’s Inn, Long Beach, California, this hearty blend will help keep you on an even keel. It’s easy to batch up a Captain’s Mix like we do at Smuggler’s Cove: multiply the ingredient quantities of the falernum, curaçao, maple syrup, and vanilla and almond extracts by the number of grogs you plan to serve and combine in a sealable container. Then, substitute 1½ ounces of this Captain’s Mix for those ingredients in the recipe."
+    notes: "From the Captain's Inn, Long Beach, California, this hearty blend will help keep you on an even keel. It's easy to batch up a Captain's Mix like we do at Smuggler's Cove: multiply the ingredient quantities of the falernum, curaçao, maple syrup, and vanilla and almond extracts by the number of grogs you plan to serve and combine in a sealable container. Then, substitute 1½ ounces of this Captain's Mix for those ingredients in the recipe."
     glassware: double rocks
     ingredients:
     - ½ ounce fresh lime juice
@@ -292,7 +291,7 @@ recipes:
     - 3 drops pure vanilla extract
     - 3 drops pure almond extract
     - 1 ounce seltzer
-    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - ½ ounce Pierre Ferrand Dry Curaçao
     - ¾ ounce black blended rum
     - ¾ ounce blended lightly aged rum
@@ -312,7 +311,7 @@ recipes:
   - name: Suffering Bastard
     author: Joe Scialom
     year: 1942
-    notes: Created at the Shepheard Hotel in Cairo by legendary globetrotting barman Joe Scialom, this was the drink that fortified Montgomery’s boys during the Second World War as they pushed back against Rommel in North Africa.
+    notes: Created at the Shepheard Hotel in Cairo by legendary globetrotting barman Joe Scialom, this was the drink that fortified Montgomery's boys during the Second World War as they pushed back against Rommel in North Africa.
     glassware: collins
     ingredients:
     - 4 ounces ginger beer
@@ -333,13 +332,13 @@ recipes:
     - shaken
     - citrus
   - name: Merciless Virgin
-    notes: "Frank “Skipper” Kent, owner of San Francisco’s Skipper Kent’s, quoted The Rubáiyát of Omar Khayyám in his description of this drink in an unpublished book of his recipes: “She must be merciless. Ah! Moon of my delight—that knows no wane—The moon of Heaven has risen once again. How oft hereafter rising—shall she look—through this same garden—after me—in vain!”"
+    notes: "Frank “Skipper” Kent, owner of San Francisco's Skipper Kent's, quoted The Rubáiyát of Omar Khayyám in his description of this drink in an unpublished book of his recipes: “She must be merciless. Ah! Moon of my delight—that knows no wane—The moon of Heaven has risen once again. How oft hereafter rising—shall she look—through this same garden—after me—in vain!”"
     glassware: pilsner
     ingredients:
     - ¾ ounce fresh lemon juice
     - ½ ounce seltzer
     - ½ ounce Cherry Heering liqueur
-    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - ¼ ounce Pierre Ferrand Dry Curaçao
     - 1½ ounces blended lightly aged rum
     - "Garnish: Maraschino cherries on a cocktail pick"
@@ -357,13 +356,13 @@ recipes:
   - name: Saturn
     author: J. "Popo" Galsini
     year: 1967
-    notes: "This is a winning combination of gin, lemon, passion fruit, falernum, and orgeat. And don’t just take our word for it: J. “Popo” Galsini, as part of the California Bartenders’ Guild, won the International Bartender’s Association World Championship in 1967 with this beauty. We chose a garnish that represents the rings of Saturn."
+    notes: "This is a winning combination of gin, lemon, passion fruit, falernum, and orgeat. And don't just take our word for it: J. “Popo” Galsini, as part of the California Bartenders' Guild, won the International Bartender's Association World Championship in 1967 with this beauty. We chose a garnish that represents the rings of Saturn."
     glassware: coupe
     ingredients:
     - ¾ ounce fresh lemon juice
     - ½ ounce SC Passion Fruit Syrup
     - ¼ ounce SC Orgeat
-    - ¼ ounce John D. Taylor’s Velvet Falernum
+    - ¼ ounce John D. Taylor's Velvet Falernum
     - 1¼ ounce London dry gin
     - "Garnish: Long spiral-cut lemon peel wrapped into rings"
     steps:
@@ -378,7 +377,7 @@ recipes:
     - shaken
     - citrus
   - name: Tiki Bowl
-    notes: A Kon-Tiki original, but still very closely related to any number of drinks in Donn’s style. Donn’s signature “secret weapon” was a combination of honey, Angostura bitters, and Pernod, which features in many of his cocktails. The “diaspora” of  Donn-style exotic cocktails was spread both by his acolytes and imitators to venues around the world. Serves 2.
+    notes: A Kon-Tiki original, but still very closely related to any number of drinks in Donn's style. Donn's signature “secret weapon” was a combination of honey, Angostura bitters, and Pernod, which features in many of his cocktails. The “diaspora” of  Donn-style exotic cocktails was spread both by his acolytes and imitators to venues around the world. Serves 2.
     glassware: tiki bowl
     ingredients:
     - 1½ ounces fresh orange juice
@@ -401,7 +400,7 @@ recipes:
     - citrus
   - name: Hurricane
     author: Pat O'Briens
-    notes: A perfect three-ingredient drink that captures exotic flavor in the simplest way. Even though Pat O’Brien’s is an Irish-themed bar, this drink became a tiki bar staple around the world. Much like the Mai Tai, the Hurricane you will be served today is often bright red, a far cry from the original.
+    notes: A perfect three-ingredient drink that captures exotic flavor in the simplest way. Even though Pat O'Brien's is an Irish-themed bar, this drink became a tiki bar staple around the world. Much like the Mai Tai, the Hurricane you will be served today is often bright red, a far cry from the original.
     glassware: hurricane
     ingredients:
     - 2 ounces fresh lemon juice
@@ -506,7 +505,7 @@ recipes:
     - flash blended
     - citrus
   - name: Peachtree Punch 2.0
-    notes: A modern twist on a Trader Vic’s drink from the 1970s incorporating coconut cream, lemon, and seltzer. The original Peachtree Punch was created for the opening of Trader Vic’s, Atlanta, hence the celebration of the peach!
+    notes: A modern twist on a Trader Vic's drink from the 1970s incorporating coconut cream, lemon, and seltzer. The original Peachtree Punch was created for the opening of Trader Vic's, Atlanta, hence the celebration of the peach!
     glassware: double rocks
     ingredients:
     - ½ fresh yellow or white peach, pitted, and coarsely chopped into chunks (with skin)
@@ -531,8 +530,7 @@ recipes:
     - citrus
   - name: Jungle Bird
     year: 1978
-    notes: collins
-    glassware: 
+    glassware: collins
     ingredients:
     - 2 ounces pineapple juice
     - ½ ounce fresh lime juice
@@ -562,7 +560,7 @@ recipes:
     - 1 ounce blended aged rum
     - 1 ounce blended lightly aged rum
     - 2 dashes Angostura bitters
-    - "Garnish: Participants didn’t have any garnish at their table, so garnish as you see fit!"
+    - "Garnish: Participants didn't have any garnish at their table, so garnish as you see fit!"
     steps:
     - Fill a Collins or highball glass with cracked or cubed ice. 
     - Add all the ingredients to a cocktail shaker filled with cracked or cubed ice. 
@@ -576,7 +574,7 @@ recipes:
     - citrus
   - name: Hinky Dink's Fizzy
     year: 1984
-    notes: Created by Trader Vic’s for their fiftieth anniversary, this old favorite is rarely seen, but shows that great mixology can transcend even the 1980s.
+    notes: Created by Trader Vic's for their fiftieth anniversary, this old favorite is rarely seen, but shows that great mixology can transcend even the 1980s.
     glassware: pilsner
     ingredients:
     - 2 ounces sparkling wine
@@ -603,7 +601,7 @@ recipes:
 #Creating the Space
   - name: Pampanito
     author: Martin Cate
-    notes: Load yer ballast tank and explore the depths! The Pampanito was inspired by a visit to Jamaica and her distilleries. When I spoke with Joy Spence, master blender of Appleton Rum, she said that they loved to take the wet sugar, a rich molasses stew from which the sugar has not been extracted, and use it to make lemonade. “Of course,” she added, “we usually put a little rum in there, too.” So I used that as my starting point, and added some traditional Jamaican flavors like allspice, and then lengthened it with soda so it wasn’t so heavy. It gets its name from the USS Pampanito submarine docked in San Francisco, although the story of how that came to be is convoluted and not interesting in the slightest.
+    notes: Load yer ballast tank and explore the depths! The Pampanito was inspired by a visit to Jamaica and her distilleries. When I spoke with Joy Spence, master blender of Appleton Rum, she said that they loved to take the wet sugar, a rich molasses stew from which the sugar has not been extracted, and use it to make lemonade. “Of course,” she added, “we usually put a little rum in there, too.” So I used that as my starting point, and added some traditional Jamaican flavors like allspice, and then lengthened it with soda so it wasn't so heavy. It gets its name from the USS Pampanito submarine docked in San Francisco, although the story of how that came to be is convoluted and not interesting in the slightest.
     glassware: collins
     ingredients:
     - 1 ounce fresh lemon juice
@@ -626,7 +624,7 @@ recipes:
     - citrus
   - name: Max's Mistake
     author: Martin Cate
-    notes: Created while I was a bartender at Trader Vic’s and named in honor of the Ray’s Mistake at Tiki-Ti, this too was an accidental combination of two other drinks. And my mother has always called me “Max.” You may not.
+    notes: Created while I was a bartender at Trader Vic's and named in honor of the Ray's Mistake at Tiki-Ti, this too was an accidental combination of two other drinks. And my mother has always called me “Max.” You may not.
     glassware: snifter
     ingredients:
     - 1 ounce fresh lemon juice
@@ -696,7 +694,7 @@ recipes:
     - stirred
   - name: Shudders in a Whisper
     author: Martin Cate
-    notes: When our photographers Dylan + Jeni first came to Smuggler’s Cove for our initial meeting and shot some sample photos, they needed some prop cocktails. I whipped up this tasty treat, which served as muse for the day.
+    notes: When our photographers Dylan + Jeni first came to Smuggler's Cove for our initial meeting and shot some sample photos, they needed some prop cocktails. I whipped up this tasty treat, which served as muse for the day.
     glassware: snifter
     ingredients:
     - ¾ ounce fresh lime juice
@@ -705,7 +703,7 @@ recipes:
     - ¼ ounce Drambuie liqueur
     - 2 ounces seltzer
     - 2 ounces column still aged rum
-    - 2 dashes Peychaud’s bitters
+    - 2 dashes Peychaud's bitters
     - 1 dash Angostura bitters
     - "Garnish: Edible orchid and mint sprig"
     steps:
@@ -764,14 +762,14 @@ recipes:
     - citrus
   - name: Juan Ho Royale
     author: Martin Cate
-    notes: Created for Hula’s in Santa Cruz, and originally named The Steamer after Steamer Lane, a famous surf spot in Santa Cruz. Hula’s wisely realized the name conjured a different image and cleverly renamed it Juan Ho. To capture the azure seas, I make a rare exception for blue curaçao. Revisiting it again recently revealed that it benefitted nicely from a splash of bubbly.
+    notes: Created for Hula's in Santa Cruz, and originally named The Steamer after Steamer Lane, a famous surf spot in Santa Cruz. Hula's wisely realized the name conjured a different image and cleverly renamed it Juan Ho. To capture the azure seas, I make a rare exception for blue curaçao. Revisiting it again recently revealed that it benefitted nicely from a splash of bubbly.
     glassware: coupe
     ingredients:
     - 2 ounces champagne or sparkling wine
     - ¾ ounce fresh lime juice
     - ½ ounce SC Orgeat
     - ½ ounce blue curaçao
-    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - 1½ ounces tequila blanco
     steps:
     - Pour the champagne into a chilled coupe. 
@@ -786,12 +784,12 @@ recipes:
     - sparkling
   - name: Chartreuse Swizzle
     author: Marcovaldo Dionysos
-    notes: While it’s been a staple of the cocktail renaissance for years now, the structure of this drink owes a debt to the exotic cocktail tradition. Sour, sweet, strong. And if the falernum isn’t enough spice for you, how about a hundred or so more in the mix from the Chartreuse?
+    notes: While it's been a staple of the cocktail renaissance for years now, the structure of this drink owes a debt to the exotic cocktail tradition. Sour, sweet, strong. And if the falernum isn't enough spice for you, how about a hundred or so more in the mix from the Chartreuse?
     glassware: zombie
     ingredients:
     - 1 ounce pineapple juice
     - ¾ ounce fresh lime juice
-    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - 1½ ounces Green Chartreuse
     - "Garnish: Swizzle napkin wrap, freshly grated nutmeg and mint sprig"
     steps:
@@ -816,7 +814,7 @@ recipes:
     - ½ ounce SC Hibiscus Liqueur
     - ½ ounce natural pear liqueur (such as Mathilde Poire)
     - 1½ ounces column still aged rum
-    - 1 dash Peychaud’s bitters
+    - 1 dash Peychaud's bitters
     - "Garnish: Edible hibiscus flower on cocktail pick or skewer"
     steps:
     - Add the seltzer to a Collins or highball glass. 
@@ -877,7 +875,7 @@ recipes:
 #Curating the Experience
   - name: Top Notch Volcano
     author: Martin Cate
-    notes: The Top Notch drink inspired by a Top Notch guy. Stare in wonder at the mighty volcano and decide quickly which of your friends should be the first into the fire. Named for the interior designer of Smuggler’s Cove, Ignacio “Notch” Gonzalez. Serves 4. 
+    notes: The Top Notch drink inspired by a Top Notch guy. Stare in wonder at the mighty volcano and decide quickly which of your friends should be the first into the fire. Named for the interior designer of Smuggler's Cove, Ignacio “Notch” Gonzalez. Serves 4. 
     glassware: novel
     ingredients:
     - 4 ounces fresh lime juice
@@ -905,7 +903,7 @@ recipes:
     - punch
   - name: The Naked Ape
     author: Martin Cate
-    notes: Created in honor of the San Francisco exotica band, Ape, for one of Smuggler’s Cove’s (incredibly) rare concerts.
+    notes: Created in honor of the San Francisco exotica band, Ape, for one of Smuggler's Cove's (incredibly) rare concerts.
     glassware: tiki mug
     ingredients:
     - ½ ounce fresh lemon juice
@@ -947,7 +945,7 @@ recipes:
   - name: Sparkling Mai Tai
     author: Marin Cate
     year: 2011
-    notes: To save time, you can batch this recipe ahead of time. To serve several people, multiply the ingredient quantities by the number of guests. Combine all the ingredients except the sparkling wine and chill for an hour. When you’re ready to serve, pour 1¾ ounces of the chilled mix into each glass (no need to stir with ice) and top each with 4 ounces of chilled sparkling wine.
+    notes: To save time, you can batch this recipe ahead of time. To serve several people, multiply the ingredient quantities by the number of guests. Combine all the ingredients except the sparkling wine and chill for an hour. When you're ready to serve, pour 1¾ ounces of the chilled mix into each glass (no need to stir with ice) and top each with 4 ounces of chilled sparkling wine.
     glassware: flute
     ingredients:
     - ¼ ounce fresh lime juice
@@ -996,7 +994,7 @@ recipes:
     ingredients:
     - ½ ounce fresh lemon juice
     - ½ ounce SC Passion Fruit Syrup
-    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - 1½ ounces Peruvian pisco
     - ½ ounce gin
     - 6 drops Bittermens Burlesque bitters
@@ -1039,7 +1037,7 @@ recipes:
     ingredients:
     - ¾ ounce fresh lime juice
     - ½ ounce Grade A maple syrup
-    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - 2 ounces blended aged rum (Guyana)
     - 2 dashes Angostura bitters
     - "Garnish: Swizzle napkin wrap and mint sprig"
@@ -1055,7 +1053,7 @@ recipes:
     - citrus
   - name: The Expedition
     author: Martin Cate
-    notes: The journeys of Donn Beach inspired this cocktail. From Donn’s roots in New Orleans, we start with bourbon. As his travels took him to the Caribbean, we add the rum and spices. And as he sets up shop in Southern California, we add the fresh citrus and honey. At the Mai Kai in Fort Lauderdale, Florida, ex–Don the Beachcomber’s bartender Mariano Licudine invented one of his most famous drinks, The Black Magic, which uses coffee and citrus. Inspired by The Black Magic, we add Bittermens New Orleans Coffee liqueur, which brings us full circle to Donn’s original home.
+    notes: The journeys of Donn Beach inspired this cocktail. From Donn's roots in New Orleans, we start with bourbon. As his travels took him to the Caribbean, we add the rum and spices. And as he sets up shop in Southern California, we add the fresh citrus and honey. At the Mai Kai in Fort Lauderdale, Florida, ex–Don the Beachcomber's bartender Mariano Licudine invented one of his most famous drinks, The Black Magic, which uses coffee and citrus. Inspired by The Black Magic, we add Bittermens New Orleans Coffee liqueur, which brings us full circle to Donn's original home.
     glassware: mug
     ingredients:
     - 1 ounce fresh lime juice
@@ -1080,14 +1078,14 @@ recipes:
   - name: The Undead Gentleman
     author: Martin Cate
     year: 2011
-    notes: This is a Zombie that’s been simplified slightly and served on the stem, for the sophisticated savage.
+    notes: This is a Zombie that's been simplified slightly and served on the stem, for the sophisticated savage.
     glassware: coupe
     ingredients:
     - 1 dash absinthe blanc
     - ½ ounce fresh lime juice
     - ½ ounce fresh grapefruit juice (white or pink)
     - ½ ounce SC Cinnamon Syrup
-    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - 1 ounce black blended overproof rum
     - 1½ ounces blended aged rum
     - 1 dash Angostura bitters
@@ -1139,7 +1137,7 @@ recipes:
     - 1 ounce fresh lemon juice
     - 1 ounce SC Coconut Cream
     - 1 ounce seltzer
-    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - 2 ounces column still aged rum
     - 1 dash orange bitters
     steps:
@@ -1159,7 +1157,7 @@ recipes:
     - ¾ ounce pineapple juice
     - ½ ounce SC Orgeat
     - 2 ounces gin
-    - 2 dashes Peychaud’s bitters
+    - 2 dashes Peychaud's bitters
     - "Garnish: Edible orchid and maraschino cherries on a cocktail pick"
     steps:
     - Add all the ingredients to a cocktail shaker and fill with crushed ice. 
@@ -1178,7 +1176,7 @@ recipes:
     - ¾ ounce pineapple juice
     - ½ ounce SC Orgeat
     - 2 ounces blended aged rum
-    - 2 dashes Peychaud’s bitters
+    - 2 dashes Peychaud's bitters
     - "Garnish: Edible orchid and maraschino cherries on a cocktail pick"
     steps:
     - Add all the ingredients to a cocktail shaker and fill with crushed ice. 
@@ -1192,7 +1190,7 @@ recipes:
     - citrus
   - name: Finkelgrog
     author: Martin Cate
-    notes: Created for Mai Kai Gents lead singer Judd Finkelstein for his home bar, the Wiki Wiki Grog Shop. Judd’s day job as one of the top winemakers in Napa County inspired the ingredients.
+    notes: Created for Mai Kai Gents lead singer Judd Finkelstein for his home bar, the Wiki Wiki Grog Shop. Judd's day job as one of the top winemakers in Napa County inspired the ingredients.
     glassware: double rocks
     ingredients:
     - ½ ounce fresh lime juice
@@ -1268,7 +1266,7 @@ recipes:
     - sparkling
     - flash blended
   - name: El Draque
-    notes: Named for famous “local” privateer Sir Francis Drake, this was the great-great (x 14) grandfather of the mojito. Originally a slurry, room-temperature mess, we’ve refined its fiery character with aged cachaça, Demerara sugar, fresh lime, and mint.
+    notes: Named for famous “local” privateer Sir Francis Drake, this was the great-great (x 14) grandfather of the mojito. Originally a slurry, room-temperature mess, we've refined its fiery character with aged cachaça, Demerara sugar, fresh lime, and mint.
     glassware: coupe
     ingredients:
     - 5 fresh mint leaves
@@ -1297,7 +1295,7 @@ recipes:
     steps:
     - Add the ingredients to a cocktail shaker filled with cracked or cubed ice. 
     - Shake and strain into an ice-filled old-fashioned glass.
-    - "Note: If you want to truly mimic a grog from the 1700s, use a pot still unaged rum or a black pot still rum. (And skip the ice. And the clean glass. And maybe add some brackish water. Maybe not.) If you’re looking for a nineteenth-century–style grog, try a black blended rum. For a more refined grog, as we serve at Smuggler’s Cove, choose a blended aged rum."
+    - "Note: If you want to truly mimic a grog from the 1700s, use a pot still unaged rum or a black pot still rum. (And skip the ice. And the clean glass. And maybe add some brackish water. Maybe not.) If you're looking for a nineteenth-century–style grog, try a black blended rum. For a more refined grog, as we serve at Smuggler's Cove, choose a blended aged rum."
     tags:
     - smuggler's cove
     - "smuggler's cove: rum through the ages"
@@ -1305,7 +1303,7 @@ recipes:
     - shaken
     - citrus
   - name: Rum Flip
-    notes: The original tavern flip of rum and beer gradually evolved. Egg was added, and then beer dropped altogether from the mix. A lovely drink to finish off the night, but don’t let us tell you when to enjoy it.
+    notes: The original tavern flip of rum and beer gradually evolved. Egg was added, and then beer dropped altogether from the mix. A lovely drink to finish off the night, but don't let us tell you when to enjoy it.
     glassware: coupe
     ingredients:
     - 1 medium egg
@@ -1332,7 +1330,7 @@ recipes:
     steps:
     - Stir the rum and syrup in a mixing glass and strain into an ice-filled old-fashioned glass. 
     - Top with grated nutmeg.
-    - "Note: At Smuggler’s Cove, the house style is to use a blended aged rum in this recipe. However, for a closer historical approximation of colonial-era drinks, you may wish to choose a pot still unaged rum or pot still lightly aged rum. Those produced today in New England especially mimic the rums of the day, albeit with much improved quality!"
+    - "Note: At Smuggler's Cove, the house style is to use a blended aged rum in this recipe. However, for a closer historical approximation of colonial-era drinks, you may wish to choose a pot still unaged rum or pot still lightly aged rum. Those produced today in New England especially mimic the rums of the day, albeit with much improved quality!"
     tags:
     - smuggler's cove
     - "smuggler's cove: rum through the ages"
@@ -1361,7 +1359,7 @@ recipes:
     - shaken
     - citrus
   - name: Mary Pickford
-    notes: Created to honor Mary Pickford, the legendary actress and founder of United Artists, while she was shooting a film in Cuba, this cocktail was a staple of Cuban bars and nightclubs serving thirsty Americans. The Smuggler’s Cove house style for the Prohibition-era cocktails is to use a blended lightly aged rum for more body and to mimic the less- efficient distillation methods of the day. Alternatively, you may wish to use a column still lightly aged rum, but we suggest using one with a slightly higher proof to maintain an era-appropriate “pop.”
+    notes: Created to honor Mary Pickford, the legendary actress and founder of United Artists, while she was shooting a film in Cuba, this cocktail was a staple of Cuban bars and nightclubs serving thirsty Americans. The Smuggler's Cove house style for the Prohibition-era cocktails is to use a blended lightly aged rum for more body and to mimic the less- efficient distillation methods of the day. Alternatively, you may wish to use a column still lightly aged rum, but we suggest using one with a slightly higher proof to maintain an era-appropriate “pop.”
     glassware: coupe
     ingredients:
     - 1½ ounces pineapple juice
@@ -1413,7 +1411,7 @@ recipes:
     - shaken
     - citrus
   - name: Daisy de Santiago
-    notes: A “lovely thing, indeed” and one of food and cocktail writer Charles H. Baker’s favorite drinks from his travels through Cuba.
+    notes: A “lovely thing, indeed” and one of food and cocktail writer Charles H. Baker's favorite drinks from his travels through Cuba.
     glassware: double rocks
     ingredients:
     - 1 ounce fresh lime juice
@@ -1434,7 +1432,7 @@ recipes:
     - shaken
     - citrus
   - name: El Presidente
-    notes: This drink honors a Cuban president, but there are differing accounts as to exactly which one it was. Yet he must have been a good one to get his name on a drink this tasty. A sadly forgotten classic, it’s described by author Wayne Curtis as “part tropical treat, part sophisticated lounge drink, and wholly Cuban.”
+    notes: This drink honors a Cuban president, but there are differing accounts as to exactly which one it was. Yet he must have been a good one to get his name on a drink this tasty. A sadly forgotten classic, it's described by author Wayne Curtis as “part tropical treat, part sophisticated lounge drink, and wholly Cuban.”
     glassware: coupe
     ingredients:
     - ½ teaspoon SC Grenadine
@@ -1451,7 +1449,7 @@ recipes:
     - shaken
   - name: Twelve Mile Limit
     author: Tommy Millard
-    notes: Sailing beyond the U.S. government’s Prohibition-era reach of 12 miles off-shore to load up on hooch is certainly a great inspiration for a drink name. This heady combination of rum, rye, and brandy shows that rum plays well with others. Though not a Cuban drink, it certainly belongs to the era and the theme.
+    notes: Sailing beyond the U.S. government's Prohibition-era reach of 12 miles off-shore to load up on hooch is certainly a great inspiration for a drink name. This heady combination of rum, rye, and brandy shows that rum plays well with others. Though not a Cuban drink, it certainly belongs to the era and the theme.
     glassware: coupe
     ingredients:
     - ½ ounce fresh lemon juice
@@ -1566,7 +1564,7 @@ recipes:
     - stirred
     - citrus
   - name: Hibiscus Rum Punch
-    notes: "A lovely and delicious twist on a Jamaican Christmas tradition. Fun marketing fact: This drink was originally called a Sorrel Rum Punch on our menu, as hibiscus is called sorrel in the Caribbean. Customers didn’t know what sorrel was, and so no one ordered the drink. We changed the name to Hibiscus Rum Punch and sales tripled. There is an art to menu copy, and I won’t pretend to have mastered it."
+    notes: "A lovely and delicious twist on a Jamaican Christmas tradition. Fun marketing fact: This drink was originally called a Sorrel Rum Punch on our menu, as hibiscus is called sorrel in the Caribbean. Customers didn't know what sorrel was, and so no one ordered the drink. We changed the name to Hibiscus Rum Punch and sales tripled. There is an art to menu copy, and I won't pretend to have mastered it."
     glassware: collins
     ingredients:
     - 2 ounces seltzer
@@ -1588,11 +1586,11 @@ recipes:
     - shaken
     - citrus
   - name: Ti' Punch / Ti' Punch Vieux
-    notes: The beautiful and traditional way to enjoy a Martinique rhum agricole is like this, with just a hint of lime and Martinique cane sugar. In Martinique, you are frequently given all of the ingredients to make the drink yourself, including a full bottle of rhum. (Since they only give you one slice of lime, there’s no chance you’ll tear through the whole bottle. Also, they assume you’re a decent person.) This tradition is referred to with the phrase, “chacun prépare sa propre mort” which, roughly translated, means “each prepares his own death.”
+    notes: The beautiful and traditional way to enjoy a Martinique rhum agricole is like this, with just a hint of lime and Martinique cane sugar. In Martinique, you are frequently given all of the ingredients to make the drink yourself, including a full bottle of rhum. (Since they only give you one slice of lime, there's no chance you'll tear through the whole bottle. Also, they assume you're a decent person.) This tradition is referred to with the phrase, “chacun prépare sa propre mort” which, roughly translated, means “each prepares his own death.”
     glassware: rocks
     ingredients:
     - 1 teaspoon Martinique sugarcane syrup
-    - 2 ounces cane AOC Martinique rhum agricole blanc (substitute an élevé sous bois, or rhum vieux  for a Ti’ Punch Vieux)
+    - 2 ounces cane AOC Martinique rhum agricole blanc (substitute an élevé sous bois, or rhum vieux  for a Ti' Punch Vieux)
     - 1 small rounded chunk of fresh lime (cut from the side of the lime, approximately the size of a quarter, with some pulp attached)
     steps:
     - In an old-fashioned glass, add the sugarcane syrup and rhum. 
@@ -1625,7 +1623,7 @@ recipes:
     - shaken
     - citrus
   - name: Jamaican Milk Punch
-    notes: This drink was described in 1873 in The Brooklyn Daily Eagle as “the surest thing in the world to get drunk on, and so fearfully drunk, that you won’t know whether you are a cow, yourself, or some other foolish thing.”
+    notes: This drink was described in 1873 in The Brooklyn Daily Eagle as “the surest thing in the world to get drunk on, and so fearfully drunk, that you won't know whether you are a cow, yourself, or some other foolish thing.”
     glassware: double rocks
     ingredients:
     - 1 ounce whole milk
@@ -1649,7 +1647,7 @@ recipes:
     notes: Old Barbadians confirmed a preference for crushed ice. And please—use Barbados rum.
     glassware: rocks
     ingredients:
-    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - 2 ounces blended aged rum (Barbados)
     - 2 to 4 dashes Angostura bitters
     steps:
@@ -1661,7 +1659,7 @@ recipes:
     - tiki
     - swizzle
   - name: Queen's Park Swizzle
-    notes: Named after the green oasis in the heart of Trinidad’s Port of Spain, Trader Vic described this drink, created at the Queen’s Park Hotel, as “the most delightful form of anesthesia given out today.” Rum was not produced on a large scale in Trinidad until after World War II, so despite the drink’s Trinidad origins, we suggest a black blended rum, the likely choice when the drink was created. We also believe that even though the bitters look pretty when floated on top, the drink tastes much better when they are swizzled with the rest of the ingredients. 
+    notes: Named after the green oasis in the heart of Trinidad's Port of Spain, Trader Vic described this drink, created at the Queen's Park Hotel, as “the most delightful form of anesthesia given out today.” Rum was not produced on a large scale in Trinidad until after World War II, so despite the drink's Trinidad origins, we suggest a black blended rum, the likely choice when the drink was created. We also believe that even though the bitters look pretty when floated on top, the drink tastes much better when they are swizzled with the rest of the ingredients. 
     glassware: collins
     ingredients:
     - 4 mint leaves
@@ -1686,7 +1684,7 @@ recipes:
 #Understanding Rum
   - name: The Chadburn
     author: Martin Cate
-    notes: If you’re looking for a change of speed, give this combination a try. The Chadburn (named for the Chadburn telegraph) is quite sweet and makes a fine after-dinner drink. But it’s easily converted to a more preprandial version by decreasing the amount of port and pear liqueur to ¼ ounce each.
+    notes: If you're looking for a change of speed, give this combination a try. The Chadburn (named for the Chadburn telegraph) is quite sweet and makes a fine after-dinner drink. But it's easily converted to a more preprandial version by decreasing the amount of port and pear liqueur to ¼ ounce each.
     glassware: coupe
     ingredients:
     - ½ ounce tawny port
@@ -1712,7 +1710,7 @@ recipes:
     - ½ ounce 2:1 Simple Syrup
     - ½ ounce Pierre Ferrand Dry Curaçao
     - 1½ ounces pot still lightly aged rum (New England)
-    - ¾ ounce Blandy’s 5 Year Verdelho Madeira
+    - ¾ ounce Blandy's 5 Year Verdelho Madeira
     - 1 dash Angostura bitters
     - "Garnish: Lemon twist"
     steps:
@@ -1725,7 +1723,7 @@ recipes:
     - shaken
     - citrus
   - name: Hot Buttered Rum
-    notes: The most famous way to ward off the chill of a cold night, a hot spiced rum appeared in the 1862 Jerry Thomas Bartender’s Guide.
+    notes: The most famous way to ward off the chill of a cold night, a hot spiced rum appeared in the 1862 Jerry Thomas Bartender's Guide.
     glassware: mug
     ingredients:
     - 3 barspoons SC Hot Buttered Rum Batter
@@ -1799,7 +1797,7 @@ recipes:
     - old-fashioned
   - name: Port Royal
     author: Martin Cate
-    notes: Savory, food-based spice blends can add a surprising complexity to cocktails, and Jamaica’s treasured jerk seasoning certainly has fun with its fellow countryman Wray & Nephew Overproof rum.
+    notes: Savory, food-based spice blends can add a surprising complexity to cocktails, and Jamaica's treasured jerk seasoning certainly has fun with its fellow countryman Wray & Nephew Overproof rum.
     glassware: coupe
     ingredients:
     - ¾ ounce fresh lime juice
@@ -1858,7 +1856,7 @@ recipes:
     - beer
   - name: Baie du Galion
     author: Martin Cate
-    notes: Named for the beautiful waters on the leeward side of  Martinique, this cocktail uses cane AOC Martinique rhum agricole in a contemporary stirred cocktail where all the ingredients have grassy or herbaceous notes. Another reminder that rhum agricole is not limited to the Ti’ Punch.
+    notes: Named for the beautiful waters on the leeward side of  Martinique, this cocktail uses cane AOC Martinique rhum agricole in a contemporary stirred cocktail where all the ingredients have grassy or herbaceous notes. Another reminder that rhum agricole is not limited to the Ti' Punch.
     glassware: coupe
     ingredients:
     - ½ ounce Green Chartreuse
@@ -1877,7 +1875,7 @@ recipes:
     - stirred
   - name: Agricole Guava Cooler
     author: Martin Cate
-    notes: Inspired by the spices and flavors found in the farmers’ market of the capital city of Martinique, Fort-de-France, this refreshing cooler mixes tropical fruit, Caribbean spices, and cane AOC Martinique rhum agricole.
+    notes: Inspired by the spices and flavors found in the farmers' market of the capital city of Martinique, Fort-de-France, this refreshing cooler mixes tropical fruit, Caribbean spices, and cane AOC Martinique rhum agricole.
     glassware: collins
     ingredients:
     - 2 ounces Bundaberg guava soda
@@ -1904,7 +1902,7 @@ recipes:
     - ½ ounce Pierre Ferrand Dry Curaçao
     - 1 ounce R. L. Seale 10 Year rum
     - 7 dashes Angostura bitters
-    - 7 dashes Peychaud’s bitters
+    - 7 dashes Peychaud's bitters
     - 4 ounces chilled champagne
     - "Garnish: Lemon twist"
     steps:
@@ -2017,7 +2015,7 @@ recipes:
     - ½ ounce fresh lemon juice
     - ¼ ounce SC Honey Syrup
     - ¼ ounce Yellow Chartreuse
-    - 1½ ounces Broker’s gin
+    - 1½ ounces Broker's gin
     - 1 ounce seltzer
     - 1 dash orange bitters
     steps:
@@ -2043,7 +2041,7 @@ recipes:
     - ½ ounce Maraschino liqueur
     - 1½ ounces blended aged rum
     - 1½ ounces bourbon
-    - 2 dashes Peychaud’s bitters
+    - 2 dashes Peychaud's bitters
     - "Garnish: Pineapple lid with a straw hole cut out or Mermaid Island"
     steps:
     - Add all the ingredients to a drink mixer tin. 
@@ -2113,7 +2111,7 @@ recipes:
   - name: Planter's Punch
     year: 2009
     notes: This follows the classic rhyming formula, one of sour, two of sweet, three of strong, four of weak (weak being juices, or in our case, ice). We add two of the most popular ingredients in Jamaica (allspice, Angostura bitters) to round it out and give it depth.
-    glassware: 
+    glassware: collins
     ingredients:
     - 1 ounce fresh lime juice
     - ¾ ounce SC Demerara syrup
@@ -2157,7 +2155,7 @@ recipes:
   - name: Doctor Funk
     author: Trader Vic
     year: 1946
-    notes: Well-known German doctor Bernard Funk was not only Robert Louis Stevenson’s physician and friend, but was also the alleged inventor of an early version of this drink during his many years serving as a doctor to the people of Apia, Samoa. Using a full flavored funky rum (no pun intended) is key to this cocktail as it stands up to and complements the Herbsaint. If Herbsaint is not to your taste, the Trader also made an alternate version called the Dr. Funk’s Son, in which the Herbsaint is dropped, and a ½ ounce of the black pot still unaged rum is substituted with ½ ounce of black blended overproof rum.
+    notes: Well-known German doctor Bernard Funk was not only Robert Louis Stevenson's physician and friend, but was also the alleged inventor of an early version of this drink during his many years serving as a doctor to the people of Apia, Samoa. Using a full flavored funky rum (no pun intended) is key to this cocktail as it stands up to and complements the Herbsaint. If Herbsaint is not to your taste, the Trader also made an alternate version called the Dr. Funk's Son, in which the Herbsaint is dropped, and a ½ ounce of the black pot still unaged rum is substituted with ½ ounce of black blended overproof rum.
     glassware: double rocks
     ingredients:
     - ½ ounce fresh lemon juice
@@ -2203,14 +2201,14 @@ recipes:
   - name: Zombie
     author: Donn the Beachcomber
     year: 1934
-    notes: Notorious would be an understatement. Donn’s most famous and lethal concoction, it too has been abused beyond recognition in the past. Urban legends about its madness-inducing properties and menu warnings about a two-per-person limit (“for your own safety”) cemented this drink in history.
+    notes: Notorious would be an understatement. Donn's most famous and lethal concoction, it too has been abused beyond recognition in the past. Urban legends about its madness-inducing properties and menu warnings about a two-per-person limit (“for your own safety”) cemented this drink in history.
     glassware: zombie
     ingredients:
     - ¾ ounce fresh lime juice
     - ¼ ounce fresh grapefruit juice
     - ¼ ounce SC Cinnamon Syrup
     - 1 teaspoon SC Grenadine
-    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - 1½ ounces blended aged rum
     - 1½ ounces column still aged rum
     - 1 ounce black blended overproof rum
@@ -2273,7 +2271,7 @@ recipes:
   - name: Scorpion
     author: Steve Crane
     year: 1958
-    notes: Steve Crane’s riff on Trader Vic’s iconic drink brings better balance and complexity to this famous recipe. Vic invented the idea of the shared bowl with long straws in the 1940s by reviving the dormant punch tradition and marrying it to the traditions of the kava bowl ceremony, which he witnessed in Micronesia. Serves 4.
+    notes: Steve Crane's riff on Trader Vic's iconic drink brings better balance and complexity to this famous recipe. Vic invented the idea of the shared bowl with long straws in the 1940s by reviving the dormant punch tradition and marrying it to the traditions of the kava bowl ceremony, which he witnessed in Micronesia. Serves 4.
     glassware: punch bowl
     ingredients:
     - 2 ounces fresh lime juice
@@ -2299,7 +2297,7 @@ recipes:
     - punch
   - name: Fog Cutter
     author: Trader Vic
-    notes: Another of Vic’s most famous drinks, the Fog Cutter is still served today at his restaurants around the world. Our version incorporates the pisco preferred by the Don the Beachcomber chain at later locations in their Fog Cutter to give it a brighter, more vegetal character. (We’re trying to make them friends in heaven by fusing their recipes.)
+    notes: Another of Vic's most famous drinks, the Fog Cutter is still served today at his restaurants around the world. Our version incorporates the pisco preferred by the Don the Beachcomber chain at later locations in their Fog Cutter to give it a brighter, more vegetal character. (We're trying to make them friends in heaven by fusing their recipes.)
     glassware: zombie
     ingredients:
     - 1½ ounce fresh lemon juice
@@ -2355,7 +2353,7 @@ recipes:
     - ½ ounce SC Honey Syrup
     - ¼ ounce blue curaçao
     - ¼ ounce tawny port
-    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - ¼ ounce natural pear liqueur (such as Mathilde Poire)
     - 2 ounces blended aged rum
     - 1 dash Angostura bitters
@@ -2423,7 +2421,7 @@ recipes:
   - name: Eureka Punch
     author: Martin Cate
     year: 2013
-    notes: Created originally for National Lemonade Day (really), the drink was turned into a bowl drink for four and served on the menu at San Francisco’s Tonga Room in 2013.
+    notes: Created originally for National Lemonade Day (really), the drink was turned into a bowl drink for four and served on the menu at San Francisco's Tonga Room in 2013.
     glassware: punch bowl
     ingredients:
     - 1½ ounces fresh lemon juice
@@ -2506,7 +2504,7 @@ recipes:
     - ¾ ounce pineapple juice
     - 1 ounce SC Honey Syrup
     - ¾ ounce SC Passion Fruit Syrup
-    - ½ ounce John D. Taylor’s Velvet Falernum
+    - ½ ounce John D. Taylor's Velvet Falernum
     - 1 ounce blended aged rum
     - 1 ounce blended lightly aged rum
     - ¾ ounce black blended rum

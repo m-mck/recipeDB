@@ -15,7 +15,7 @@ recipes:
     steps:
     - In a mixing glass, combine the bitters, vermouth, and gin. Fill the glass with ice. 
     - Continue adding ice as you stir until all the secondary ice has been submerged. 
-    - Strain the mixture into the chilled martini glass, expressing the lemon twist with one hand over the stream as you’re pouring the drink. 
+    - Strain the mixture into the chilled martini glass, expressing the lemon twist with one hand over the stream as you're pouring the drink. 
     - Then place the lemon twist alongside three skewered olives on the sidecar.
     tags:
     - the maison premiere alamanac
@@ -24,7 +24,7 @@ recipes:
     - martini
     - stirred
   - name: Martini Service
-    notes: At Maison Premiere, we serve our Old King Cole martini tableside with a floor manager explaining the drink while mixing it, as an assistant stands by holding the ingredients and equipment on a silver tray. At home, however, the martini is a perfect drink to arrange on a bar cart and mix for others. The gin and vermouth could be supplemented with other brands and styles to allow guests to choose and/or mix their own. There is much talk of the ubiquitous dry martini of the ’40s and ’50s. The Old King Cole is that martini, containing only what amounts to several hard dashes of dry vermouth, as opposed to a fourth or fifth part. From Scotland, Old Raj gin is highly botanical and infused with saffron, which adds fragrance and a slight hue. At 55 percent alcohol, it is intensely overproof. The Castelvetrano olive is grown exclusively in western Sicily along the Belice River valley, near the town of Castelvetrano. To put it lightly, this is a composed martini—every ingredient and proportion has been carefully chosen to set this drink apart from any other martini at Maison Premiere. We named this version of the martini for the painting of Old King Cole by Maxfield Parrish, commissioned in 1906 by American businessman John Jacob Astor IV for the bar of his Knickerbocker Hotel. At Broadway and 42nd Street, the hotel was a monument to prestige and opulence, becoming wildly popular for its luxurious restaurants and bars. One of the first iterations of the martini is said to have been invented there by head bartender Martini di Arma di Taggia in 1912, though historians speculate the original martini well predates this. Today—long after Astor’s death on the Titanic and the shuttering (and reopening) of the Knickerbocker—the thirty-foot-long painting attracts crowds to the posh bar of the St. Regis hotel.
+    notes: At Maison Premiere, we serve our Old King Cole martini tableside with a floor manager explaining the drink while mixing it, as an assistant stands by holding the ingredients and equipment on a silver tray. At home, however, the martini is a perfect drink to arrange on a bar cart and mix for others. The gin and vermouth could be supplemented with other brands and styles to allow guests to choose and/or mix their own. There is much talk of the ubiquitous dry martini of the '40s and '50s. The Old King Cole is that martini, containing only what amounts to several hard dashes of dry vermouth, as opposed to a fourth or fifth part. From Scotland, Old Raj gin is highly botanical and infused with saffron, which adds fragrance and a slight hue. At 55 percent alcohol, it is intensely overproof. The Castelvetrano olive is grown exclusively in western Sicily along the Belice River valley, near the town of Castelvetrano. To put it lightly, this is a composed martini—every ingredient and proportion has been carefully chosen to set this drink apart from any other martini at Maison Premiere. We named this version of the martini for the painting of Old King Cole by Maxfield Parrish, commissioned in 1906 by American businessman John Jacob Astor IV for the bar of his Knickerbocker Hotel. At Broadway and 42nd Street, the hotel was a monument to prestige and opulence, becoming wildly popular for its luxurious restaurants and bars. One of the first iterations of the martini is said to have been invented there by head bartender Martini di Arma di Taggia in 1912, though historians speculate the original martini well predates this. Today—long after Astor's death on the Titanic and the shuttering (and reopening) of the Knickerbocker—the thirty-foot-long painting attracts crowds to the posh bar of the St. Regis hotel.
     glassware: martini
     ingredients:
     - Two or three different gins
@@ -36,7 +36,7 @@ recipes:
     steps:
     - In a mixing glass, combine the bitters, vermouth, and gin. Fill the glass with ice. 
     - Continue adding ice as you stir until all the secondary ice has been submerged. 
-    - Strain the mixture into the chilled martini glass, expressing the lemon twist with one hand over the stream as you’re pouring the drink. 
+    - Strain the mixture into the chilled martini glass, expressing the lemon twist with one hand over the stream as you're pouring the drink. 
     - Then place the lemon twist alongside three skewered olives on the sidecar.
     tags:
     - the maison premiere alamanac
@@ -46,7 +46,7 @@ recipes:
     - martini
   #Ti' Punch Service
   - name: Ti' Punch Service
-    notes: "<i>Chacun prépare sa propre mort…</i> The ti’ punch hails from the islands of the French Antilles (most famously, Martinique). To these islands, this drink is as culturally ubiquitous as the old fashioned is in America and Europe. Simply described, it is but a basic yet soothingly addictive combination of rhum, lime, and sugar. Consumed in homes, bars, and restaurants, as well as at the beach, it’s often treated as an aperitif (giving way to wine with dinner—after all, these Caribbean islands are official regions of France). However, you will find that it’s infinitely sessionable, and an evening begun drinking ti’ punch can often become a late night drinking ti’ punch. The French phrase at the top of this page translates as “each prepares their own death,” wryly describing classic ti’ punch service in which the host sets out rhum, syrup, limes, and glassware but leaves the actual preparation to the drinker, so that guests may construct a ti’ punch to their own taste. This tradition perfectly suits tableside service. Though traditionally ti’ punch is served with unaged rhum, we offer a full selection of Rhum J.M aged expressions. Ask your guest to choose an expression and then a sweetener. We offer two: Rhum J.M Sirop de Canne, the reduced juice of pressed sugarcane; and Rhum J.M Shrubb Liqueur d’Orange, a rhum-based liqueur macerated with local oranges. Or, as is common in Martinique, you could simply offer a bowl of granulated raw cane sugar. Lime wedges are sliced thin, as only a couple of drops of juice, along with the oil from the peel, are added. Since the ti’ punch predates the widespread supply of ice on the islands, ice is considered optional. Tradition serves the drink neat, but modern times often find the ti’ punch cooled by a cube or two."
+    notes: "<i>Chacun prépare sa propre mort…</i> The ti' punch hails from the islands of the French Antilles (most famously, Martinique). To these islands, this drink is as culturally ubiquitous as the old fashioned is in America and Europe. Simply described, it is but a basic yet soothingly addictive combination of rhum, lime, and sugar. Consumed in homes, bars, and restaurants, as well as at the beach, it's often treated as an aperitif (giving way to wine with dinner—after all, these Caribbean islands are official regions of France). However, you will find that it's infinitely sessionable, and an evening begun drinking ti' punch can often become a late night drinking ti' punch. The French phrase at the top of this page translates as “each prepares their own death,” wryly describing classic ti' punch service in which the host sets out rhum, syrup, limes, and glassware but leaves the actual preparation to the drinker, so that guests may construct a ti' punch to their own taste. This tradition perfectly suits tableside service. Though traditionally ti' punch is served with unaged rhum, we offer a full selection of Rhum J.M aged expressions. Ask your guest to choose an expression and then a sweetener. We offer two: Rhum J.M Sirop de Canne, the reduced juice of pressed sugarcane; and Rhum J.M Shrubb Liqueur d'Orange, a rhum-based liqueur macerated with local oranges. Or, as is common in Martinique, you could simply offer a bowl of granulated raw cane sugar. Lime wedges are sliced thin, as only a couple of drops of juice, along with the oil from the peel, are added. Since the ti' punch predates the widespread supply of ice on the islands, ice is considered optional. Tradition serves the drink neat, but modern times often find the ti' punch cooled by a cube or two."
     glassware: rocks
     ingredients:
     - Bottle of cane sugar syrup or granulated sugar
@@ -65,7 +65,7 @@ recipes:
     - citrus
   #Toddy Service
   - name: Hot Toddy Service
-    notes: Nothing counteracts a chill like the cozy pleasure of a hot toddy. This former staple of autumn or winter is a simple, effective, and entirely underappreciated drink these days. The hot toddy’s history is quite blurry. There are at least two major theories on the name’s origin. It may have been repurposed during British colonial rule, as the term toddy refers to an Indian fermented palm, date, or coconut beverage. Or perhaps it refers to Robert Bentley Todd, a nineteenth-century doctor known to prescribe a warm mixture of brandy, cinnamon, sugar, and water for ailing patients. Today the hot toddy is quite synonymous with any hot cocktail involving spirit, lemon, sugar, and hot water. Like the Sazerac, Maison toddy service is a choice-of-spirit offering, featuring our recommendations. Your bar cart should do the same by featuring your own choices. Along with the recommended spirits sit a bottle of aromatic bitters, ginger, Demerara sugar, and dashes of absinthe verte, as well as cinnamon sticks, star anise pods, cardamom seeds, and juniper berries. At Maison, hot water is brought in an elegant, antique silver pitcher, but any hot-water vessel will do. Our toddy is a very brief pour-over infusion—there’s no steeping or concentration of flavor. Rather, it features the spirit, diluted with a subtly infused dose of hot water, gently sweetened and stirred. You’ll find it is incredibly fortifying and delivers maximal inner comfort.
+    notes: Nothing counteracts a chill like the cozy pleasure of a hot toddy. This former staple of autumn or winter is a simple, effective, and entirely underappreciated drink these days. The hot toddy's history is quite blurry. There are at least two major theories on the name's origin. It may have been repurposed during British colonial rule, as the term toddy refers to an Indian fermented palm, date, or coconut beverage. Or perhaps it refers to Robert Bentley Todd, a nineteenth-century doctor known to prescribe a warm mixture of brandy, cinnamon, sugar, and water for ailing patients. Today the hot toddy is quite synonymous with any hot cocktail involving spirit, lemon, sugar, and hot water. Like the Sazerac, Maison toddy service is a choice-of-spirit offering, featuring our recommendations. Your bar cart should do the same by featuring your own choices. Along with the recommended spirits sit a bottle of aromatic bitters, ginger, Demerara sugar, and dashes of absinthe verte, as well as cinnamon sticks, star anise pods, cardamom seeds, and juniper berries. At Maison, hot water is brought in an elegant, antique silver pitcher, but any hot-water vessel will do. Our toddy is a very brief pour-over infusion—there's no steeping or concentration of flavor. Rather, it features the spirit, diluted with a subtly infused dose of hot water, gently sweetened and stirred. You'll find it is incredibly fortifying and delivers maximal inner comfort.
     glassware: mug
     ingredients:
     - Kettle of hot water
@@ -91,7 +91,7 @@ recipes:
 
 #New Orleans Drinks
   - name: À la Louisiane
-    notes: "Hailing from the historic New Orleans restaurant La Louisiane, this spiritous cocktail is a less vaunted member of the Southern cocktail canon and contains many liquid tropes of New Orleans drinking: Peychaud’s bitters, a touch of absinthe, and rye whiskey (all chiefly associated with the Sazerac); Bénédictine (notable in the Vieux Carré); and red vermouth (relating it to its northern neighbor, the Manhattan). Due to the precision required in balancing it through proper measurement, the À la Louisiane has long been a litmus test cocktail in the training of all Maison Premiere bartenders, alongside more prominent names such as the martini and the daiquiri. The recipe was first printed in the 1938 classic New Orleans Drinks and How to Mix ’Em."
+    notes: "Hailing from the historic New Orleans restaurant La Louisiane, this spiritous cocktail is a less vaunted member of the Southern cocktail canon and contains many liquid tropes of New Orleans drinking: Peychaud's bitters, a touch of absinthe, and rye whiskey (all chiefly associated with the Sazerac); Bénédictine (notable in the Vieux Carré); and red vermouth (relating it to its northern neighbor, the Manhattan). Due to the precision required in balancing it through proper measurement, the À la Louisiane has long been a litmus test cocktail in the training of all Maison Premiere bartenders, alongside more prominent names such as the martini and the daiquiri. The recipe was first printed in the 1938 classic New Orleans Drinks and How to Mix 'Em."
     glassware: nick & nora
     ingredients:
     - 5 dashes of La Muse Verte absinthe
@@ -111,7 +111,7 @@ recipes:
     - freezer bar
     - new orleans drinks
   - name: Arnaud's French 75
-    notes: "While the French 75 has become a global classic when made with gin, we enjoy (and adhere to) the original recipe which employs Cognac, giving the drink breadth and a soothing richness that doesn’t appear in the gin version. Arnaud’s French 75 Bar is one of the great New Orleans institutions, and this is similar to how the drink is made there. When we first featured our version at Maison Premiere, we took great care to amplify flavor while preserving its simplicity by employing higher-grade ingredients than you’ll find in standard versions in New Orleans—small-grower Champagne instead of an industrial sparkling wine, artisanal Cognac instead of less-expressive brandy from the large houses—combined with a little fresh lemon juice and Demerara simple syrup. Word to the wise: When making this drink at home, use a wineglass (not a flute); pour the Champagne into the glass first; then pour the shaken mixture of Cognac, lemon, and sugar on top of the Champagne. Finish with a lemon twist, and inhale before your first sip."
+    notes: "While the French 75 has become a global classic when made with gin, we enjoy (and adhere to) the original recipe which employs Cognac, giving the drink breadth and a soothing richness that doesn't appear in the gin version. Arnaud's French 75 Bar is one of the great New Orleans institutions, and this is similar to how the drink is made there. When we first featured our version at Maison Premiere, we took great care to amplify flavor while preserving its simplicity by employing higher-grade ingredients than you'll find in standard versions in New Orleans—small-grower Champagne instead of an industrial sparkling wine, artisanal Cognac instead of less-expressive brandy from the large houses—combined with a little fresh lemon juice and Demerara simple syrup. Word to the wise: When making this drink at home, use a wineglass (not a flute); pour the Champagne into the glass first; then pour the shaken mixture of Cognac, lemon, and sugar on top of the Champagne. Finish with a lemon twist, and inhale before your first sip."
     glassware: white wine glass
     ingredients:
     - ¼ ounce simple syrup
@@ -132,16 +132,16 @@ recipes:
     - citrus
     - new orleans drinks
   - name: Old Hickory
-    notes: Cocktail lore has it that the old hickory was a favorite of the future president of the United States, Andrew Jackson, while he was stationed in New Orleans in the 1810s. Despite its namesake’s tough-as-nails reputation for swagger and brawling, this cocktail is smooth and easy, both to prepare and to sip. Also, its format can accommodate any variety of different fortified wines; simply combine a dry fortified wine with a sweet one, and add a few dashes of bitters and a citrus twist. While this pleasurable but mellow low-ABV concoction might not induce the full-throated boldness of a whiskey drink, that can often be for the best.
+    notes: Cocktail lore has it that the old hickory was a favorite of the future president of the United States, Andrew Jackson, while he was stationed in New Orleans in the 1810s. Despite its namesake's tough-as-nails reputation for swagger and brawling, this cocktail is smooth and easy, both to prepare and to sip. Also, its format can accommodate any variety of different fortified wines; simply combine a dry fortified wine with a sweet one, and add a few dashes of bitters and a citrus twist. While this pleasurable but mellow low-ABV concoction might not induce the full-throated boldness of a whiskey drink, that can often be for the best.
     glassware: rocks
     ingredients:
-    - 4 dashes of Peychaud’s bitters
+    - 4 dashes of Peychaud's bitters
     - 4 dashes of orange bitters
     - 1 ounce Dolin dry vermouth
     - 1½ ounces La Quintinye Rouge vermouth
     - Orange twist, for garnish
     steps:
-    - In a rocks glass, combine the Peychaud’s bitters, orange bitters, dry vermouth, and red vermouth, then top with ice. 
+    - In a rocks glass, combine the Peychaud's bitters, orange bitters, dry vermouth, and red vermouth, then top with ice. 
     - Briefly stir the mixture until the glass starts to sweat. 
     - Serve with an expressed and inserted orange twist.
     tags:
@@ -151,13 +151,13 @@ recipes:
     - low-abv
     - new orleans drinks
   - name: Carondelet
-    notes: "One of our most frequently ordered drinks, the Carondelet is built on the flavor template of a Ramos gin fizz—the notoriously laborious New Orleans classic—but artfully reimagined without the dairy and egg white. Its success includes several Ramos features as well as a few new ones: equal parts lemon and lime juice, orange flower water, and vanilla (all of which appear in the classic Ramos), as well as a salted honey syrup instead of simple syrup as a sweetener. Named for a famous eastbound street in New Orleans, the cocktail has broad appeal that makes it easy to look past its nuance and swagger. This is a cocktail that can do no wrong. It never offends but is also never forgettable. It is never the season’s quintessential drink, but it is always in season. It is enjoyed by first-time cocktail drinkers and consummate NYC barflies alike."
+    notes: "One of our most frequently ordered drinks, the Carondelet is built on the flavor template of a Ramos gin fizz—the notoriously laborious New Orleans classic—but artfully reimagined without the dairy and egg white. Its success includes several Ramos features as well as a few new ones: equal parts lemon and lime juice, orange flower water, and vanilla (all of which appear in the classic Ramos), as well as a salted honey syrup instead of simple syrup as a sweetener. Named for a famous eastbound street in New Orleans, the cocktail has broad appeal that makes it easy to look past its nuance and swagger. This is a cocktail that can do no wrong. It never offends but is also never forgettable. It is never the season's quintessential drink, but it is always in season. It is enjoyed by first-time cocktail drinkers and consummate NYC barflies alike."
     glassware: coupe
     ingredients:
     - ½ ounce lemon juice
     - ½ ounce lime juice
     - ¾ ounce Carondelet Syrup
-    - 2 ounces Hayman’s London Dry gin
+    - 2 ounces Hayman's London Dry gin
     steps:
     - In a Boston tin shaker, add the lemon and lime juices, Carondelet syrup, and gin. 
     - Fill the shaker with ice, cover, and shake vigorously for 20 seconds. 
@@ -169,7 +169,7 @@ recipes:
     - citrus
     - new orleans drinks
   - name: Hurricane
-    notes: We reclaimed this fruity, rum-based refresher from the depths of depravity, cutting against the pretense of the New York craft-cocktail scene (which would never stoop to list such a drink) by prominently placing it on our opening menu, and taking great care in its tasteful recreation. Currently, in New Orleans, the hurricane is nothing more than sickly-sweet, high-octane fuel of fratty Bourbon Street debauchery, poured like Icees from swirling machines into supersize plastic cups and carried around by partiers. However, despite its loucheness, the drink does possess classical roots and is indisputably a staple of the city we revere. So we resurrected it by serving it on crushed ice with two opposing straws (to facilitate sharing), employing a pot still Jamaican rum—a far superior choice to the bland white rums used in the French Quarter—and recreating its original base, a product called fassionola (a red-colored fruit punch concentrate of the 1930s), as a delicious amalgam of fresh passion fruit puree blended with coconut and homemade grenadine. And while this has never been a top seller, we think it was one of the gateway tropical drinks that led to the resurgence of interest in tiki and tropical drinks in the revivalist bar scene of early 2010s New York and abroad. Our version is adapted from the 1940s recipe of the mainstay New Orleans bar Pat O’Brien’s.
+    notes: We reclaimed this fruity, rum-based refresher from the depths of depravity, cutting against the pretense of the New York craft-cocktail scene (which would never stoop to list such a drink) by prominently placing it on our opening menu, and taking great care in its tasteful recreation. Currently, in New Orleans, the hurricane is nothing more than sickly-sweet, high-octane fuel of fratty Bourbon Street debauchery, poured like Icees from swirling machines into supersize plastic cups and carried around by partiers. However, despite its loucheness, the drink does possess classical roots and is indisputably a staple of the city we revere. So we resurrected it by serving it on crushed ice with two opposing straws (to facilitate sharing), employing a pot still Jamaican rum—a far superior choice to the bland white rums used in the French Quarter—and recreating its original base, a product called fassionola (a red-colored fruit punch concentrate of the 1930s), as a delicious amalgam of fresh passion fruit puree blended with coconut and homemade grenadine. And while this has never been a top seller, we think it was one of the gateway tropical drinks that led to the resurgence of interest in tiki and tropical drinks in the revivalist bar scene of early 2010s New York and abroad. Our version is adapted from the 1940s recipe of the mainstay New Orleans bar Pat O'Brien's.
     glassware: hurricane
     ingredients:
     - 1 ounce lemon juice
@@ -189,7 +189,7 @@ recipes:
     - citrus
     - new orleans drinks
   - name: Ramos Gin Fizz
-    notes: "The Ramos gin fizz is one of the most iconic New Orleans cocktails, perhaps second only to the Sazerac. Its charms are irresistible: lemon and lime provide the citric electricity over the low herbal hum of the gin, while cream, vanilla, and egg white give it a velvety, dessert-like richness, and the final addition of soda water sends the froth literally over the top. It’s a brilliant concoction, often served at brunch or during the daytime, but delicious and appropriate any time you need a lift. Because it’s so labor intensive, many bars have rules regarding when and how many RGFs one can order. At Maison Premiere, however, we encourage our guests to order the Ramos, and many of our bartenders enjoy the performative aspect to producing this labor of love. Our version has been tweaked and obsessed over until it matured into this exact recipe. You’ll note an excessive amount of shaking, including shaking until two ice cubes have completely dissolved into the drink. We do this because, though you could shake this drink in a tin full of ice and achieve cooling and dilution faster, that way risks overdilution. Additionally, the ice cubes remaining in the tin tend to trap and freeze some of the desirable froth we want to see end up in the glass. So instead we add a small amount of ice and shake until it dissolves."
+    notes: "The Ramos gin fizz is one of the most iconic New Orleans cocktails, perhaps second only to the Sazerac. Its charms are irresistible: lemon and lime provide the citric electricity over the low herbal hum of the gin, while cream, vanilla, and egg white give it a velvety, dessert-like richness, and the final addition of soda water sends the froth literally over the top. It's a brilliant concoction, often served at brunch or during the daytime, but delicious and appropriate any time you need a lift. Because it's so labor intensive, many bars have rules regarding when and how many RGFs one can order. At Maison Premiere, however, we encourage our guests to order the Ramos, and many of our bartenders enjoy the performative aspect to producing this labor of love. Our version has been tweaked and obsessed over until it matured into this exact recipe. You'll note an excessive amount of shaking, including shaking until two ice cubes have completely dissolved into the drink. We do this because, though you could shake this drink in a tin full of ice and achieve cooling and dilution faster, that way risks overdilution. Additionally, the ice cubes remaining in the tin tend to trap and freeze some of the desirable froth we want to see end up in the glass. So instead we add a small amount of ice and shake until it dissolves."
     glassware: collins
     ingredients:
     - 3 drops of vanilla extract
@@ -220,7 +220,7 @@ recipes:
     - citrus
     - new orleans drinks
   - name: Corpse Reviver #2
-    notes: "Hailing from a long lineage of wake-up-call cocktails, this particular member of the corpse reviver family is the most famous and is often associated with the Harry Craddock–era American Bar at The Savoy in London (1920 to 1938). This association is no doubt due to Craddock’s indelible characterizations of the drink in his authoritative The Savoy Cocktail Book: “To be taken before 11 a.m., or whenever steam and energy are needed,” while also warning that “four of these taken in swift succession will quickly unrevive the corpse again.” In this perfectly balanced drink, in which aromatic citrus and absinthe flavors provide the nasal tingle, all major ingredients are traditionally portioned in equal parts, with a single dash of absinthe. At Maison Premiere, we enjoy absinthe liberally and so increase the portion to a teaspoon, also adding a teaspoon of rich simple syrup to give some much-needed length and finish to the palate."
+    notes: "Hailing from a long lineage of wake-up-call cocktails, this particular member of the corpse reviver family is the most famous and is often associated with the Harry Craddock–era American Bar at The Savoy in London (1920 to 1938). This association is no doubt due to Craddock's indelible characterizations of the drink in his authoritative The Savoy Cocktail Book: “To be taken before 11 a.m., or whenever steam and energy are needed,” while also warning that “four of these taken in swift succession will quickly unrevive the corpse again.” In this perfectly balanced drink, in which aromatic citrus and absinthe flavors provide the nasal tingle, all major ingredients are traditionally portioned in equal parts, with a single dash of absinthe. At Maison Premiere, we enjoy absinthe liberally and so increase the portion to a teaspoon, also adding a teaspoon of rich simple syrup to give some much-needed length and finish to the palate."
     glassware: nick & nora
     ingredients:
     - 1 teaspoon Rich Simple Syrup
@@ -228,7 +228,7 @@ recipes:
     - ¾ ounce lemon juice
     - ¾ ounce Mattei Cap Corse Quinquina Blanc vermouth
     - ¾ ounce Combier orange liqueur
-    - 1 ounce Hayman’s London Dry gin
+    - 1 ounce Hayman's London Dry gin
     steps:
     - In a Boston tin or cobbler shaker, combine the simple syrup, absinthe, lemon juice, vermouth, orange liqueur, and gin. 
     - Fill the shaker with ice, cover, and shake vigorously. 
@@ -240,11 +240,11 @@ recipes:
     - citrus
     - new orleans drinks
   - name: Sazerac
-    notes: Some say that the Sazerac is America’s oldest and first cocktail, even predating the term cocktail. Others contend the Sazerac was originally a Cognac drink, which, due to the dearth of brandy from ruined European grape harvests of the 1860s and ’70s, became a rye drink. Rye whiskey soon became the de facto national spirit, fueling the era of the Manhattan, Old Fashioned, and Sazerac alike. Originally, a Sazerac preparation (or its cousin, the Old Fashioned) can be seen as a quick and simple treatment aimed at making harsh whiskeys (which would have been almost all of them) more palatable, but it swiftly became a part of New Orleans identity. From palaces like the Roosevelt Hotel to the dives of Bourbon Street, one can still find countless versions of the Sazerac. Before Prohibition, absinthe was popular in its own right, though always hailing from Europe. But after the absinthe ban and Prohibition, several producers created local New Orleans absinthe recipes, with one of them, Herbsaint (a subtle near-anagram of absinthe), becoming the de facto pastis with which to rinse the Sazerac glass. Tradition says that the Sazerac glass should be rinsed with absinthe and the spirit then dumped. To that end, bartenders would frequently toss a spinning dash-of-absinthe-containing glass many feet into the air to thoroughly coat its interior before deftly catching it, that classic bit of showmanship for which American bars are famous. (The Sazerac Bar in the Roosevelt New Orleans hotel is a good place to see this technique in action.) But since, at heart, we are an absinthe bar, we suggest not a drop be wasted. We conserve the absinthe selected for your Sazerac in a little sidecar glass and serve it in tandem with your cocktail.					
+    notes: Some say that the Sazerac is America's oldest and first cocktail, even predating the term cocktail. Others contend the Sazerac was originally a Cognac drink, which, due to the dearth of brandy from ruined European grape harvests of the 1860s and '70s, became a rye drink. Rye whiskey soon became the de facto national spirit, fueling the era of the Manhattan, Old Fashioned, and Sazerac alike. Originally, a Sazerac preparation (or its cousin, the Old Fashioned) can be seen as a quick and simple treatment aimed at making harsh whiskeys (which would have been almost all of them) more palatable, but it swiftly became a part of New Orleans identity. From palaces like the Roosevelt Hotel to the dives of Bourbon Street, one can still find countless versions of the Sazerac. Before Prohibition, absinthe was popular in its own right, though always hailing from Europe. But after the absinthe ban and Prohibition, several producers created local New Orleans absinthe recipes, with one of them, Herbsaint (a subtle near-anagram of absinthe), becoming the de facto pastis with which to rinse the Sazerac glass. Tradition says that the Sazerac glass should be rinsed with absinthe and the spirit then dumped. To that end, bartenders would frequently toss a spinning dash-of-absinthe-containing glass many feet into the air to thoroughly coat its interior before deftly catching it, that classic bit of showmanship for which American bars are famous. (The Sazerac Bar in the Roosevelt New Orleans hotel is a good place to see this technique in action.) But since, at heart, we are an absinthe bar, we suggest not a drop be wasted. We conserve the absinthe selected for your Sazerac in a little sidecar glass and serve it in tandem with your cocktail.					
     glassware: rocks
     ingredients:
     - ¼ ounce absinthe
-    - 6 heavy dashes of Peychaud’s bitters
+    - 6 heavy dashes of Peychaud's bitters
     - 6 heavy dashes of Creole bitters
     - 1 teaspoon Demerara Simple Syrup
     - 2 ounces Wild Turkey 101 rye whiskey
@@ -266,7 +266,7 @@ recipes:
     - old-fashioned
     - new orleans drinks
   - name: Improved Hurricane
-    notes: "After five or six years of being (mostly) on the menu, our reconstructed Hurricane, we decided, could use a bit of a makeover. Driving this impulse was massive expansion in the rum market. Since the opening of Maison Premiere, interest in the great variety of regional Caribbean rums had exploded, resulting in hundreds of new products hitting the market; in other words, myriad new flavors to paint into our cocktails. Chief among this new guard was a portfolio of products imported and/or created by Ed Hamilton (the self-proclaimed Minister of Rum and one of the world’s great experts on the subject), including unctuous pot still rums from Jamaica that add depth, richness, umami, and delicious funk to our original, fruity drink. (Word to the wise: try working your way through each of Ed Hamilton’s various rums in the Improved Hurricane, as each one offers a delightful new variation. The always-limited St. Lucian Pot Still is our favorite.)"
+    notes: "After five or six years of being (mostly) on the menu, our reconstructed Hurricane, we decided, could use a bit of a makeover. Driving this impulse was massive expansion in the rum market. Since the opening of Maison Premiere, interest in the great variety of regional Caribbean rums had exploded, resulting in hundreds of new products hitting the market; in other words, myriad new flavors to paint into our cocktails. Chief among this new guard was a portfolio of products imported and/or created by Ed Hamilton (the self-proclaimed Minister of Rum and one of the world's great experts on the subject), including unctuous pot still rums from Jamaica that add depth, richness, umami, and delicious funk to our original, fruity drink. (Word to the wise: try working your way through each of Ed Hamilton's various rums in the Improved Hurricane, as each one offers a delightful new variation. The always-limited St. Lucian Pot Still is our favorite.)"
     glassware: hurricane
     ingredients:
     - 1 ounce Passion Fruit Syrup
@@ -286,12 +286,12 @@ recipes:
     - swizzle
     - new orleans drinks
   - name: Obituary
-    notes: We adore this old New Orleans martini variation, the Obituary. Despite its morbid name—or perhaps because of it—the cocktail has been surprisingly beloved at Maison Premiere. Simply described, it is a classic gin martini with precisely 6 dashes of absinthe added. And while that small amount may not sound like much, it adds herbal complexity, complementing gin, vermouth, and lemon oil equally. That new dimension turns the stiff, familiar martini into a multilayered, ethereally aromatic gem. Be careful with the absinthe—a loose hand will result in a surfeit of this intense spirit, which can easily overpower the rest of the drink. Our version of this cocktail is adapted from a Lafitte’s Blacksmith Shop Bar recipe, which first appeared in the book New Orleans Drinks and How to Mix ’Em, published in 1938.
+    notes: We adore this old New Orleans martini variation, the Obituary. Despite its morbid name—or perhaps because of it—the cocktail has been surprisingly beloved at Maison Premiere. Simply described, it is a classic gin martini with precisely 6 dashes of absinthe added. And while that small amount may not sound like much, it adds herbal complexity, complementing gin, vermouth, and lemon oil equally. That new dimension turns the stiff, familiar martini into a multilayered, ethereally aromatic gem. Be careful with the absinthe—a loose hand will result in a surfeit of this intense spirit, which can easily overpower the rest of the drink. Our version of this cocktail is adapted from a Lafitte's Blacksmith Shop Bar recipe, which first appeared in the book New Orleans Drinks and How to Mix 'Em, published in 1938.
     glassware: coupe
     ingredients:
     - 6 dashes of absinthe
     - 1 ounce Dolin dry vermouth
-    - 2¼ ounces Hayman’s London Dry gin
+    - 2¼ ounces Hayman's London Dry gin
     - Lemon twist, for garnish
     steps:
     - In a mixing glass, add the absinthe, vermouth, and gin and fill with ice. 
@@ -305,17 +305,17 @@ recipes:
     - freezer bar
     - new orleans drinks
   - name: Vieux Carré
-    notes: "Easily one of New Orleans’s most recognizable drinks, the Vieux Carré—a spicy, strong, and strapping celebration of brown spirits that originated at the Hotel Monteleone in the early 1930s—is also no stranger to the dimly lit craft-cocktail haunts of NYC. However, many bartenders outside the Big Easy tend to overly complicate the recipe, adding fancier whiskey, house-made bitters, and richer vermouth. After tasting the cocktail with all manner of additions, “improvements,” and twists, we endorse the directness and classicism of a more humble rendering, using widely available bottlings and the classic combination of Angostura bitters and Peychaud’s bitters. Also note: Bigger, bolder, brasher vermouth does not improve the drink. Stick with Cinzano or another lighter-style sweet vermouth."
+    notes: "Easily one of New Orleans's most recognizable drinks, the Vieux Carré—a spicy, strong, and strapping celebration of brown spirits that originated at the Hotel Monteleone in the early 1930s—is also no stranger to the dimly lit craft-cocktail haunts of NYC. However, many bartenders outside the Big Easy tend to overly complicate the recipe, adding fancier whiskey, house-made bitters, and richer vermouth. After tasting the cocktail with all manner of additions, “improvements,” and twists, we endorse the directness and classicism of a more humble rendering, using widely available bottlings and the classic combination of Angostura bitters and Peychaud's bitters. Also note: Bigger, bolder, brasher vermouth does not improve the drink. Stick with Cinzano or another lighter-style sweet vermouth."
     glassware: rocks
     ingredients:
     - 1 dash of Angostura bitters
-    - 3 dashes of Peychaud’s bitters
+    - 3 dashes of Peychaud's bitters
     - ¼ ounce Bénédictine
     - 1 ounce Wild Turkey 101 rye whiskey
     - 1 ounce Dudognon VSOP Cognac
     - 1 ounce Cinzano Rosso
     steps:
-    - In a mixing glass, combine the Angostura bitters, Peychaud’s bitters, Bénédictine, rye, Cognac, and Cinzano, and fill with ice. 
+    - In a mixing glass, combine the Angostura bitters, Peychaud's bitters, Bénédictine, rye, Cognac, and Cinzano, and fill with ice. 
     - Stir the mixture rapidly, adding ice as needed, and strain into a rocks glass over ice.
     tags:
     - the maison premiere alamanac
@@ -324,7 +324,7 @@ recipes:
     - old-fashioned
     - new orleans drinks
   - name: New Orleans Buck
-    notes: Though rum is often overshadowed by whiskey and Cognac in the annals of New Orleans drinking, it finds the spotlight in this namesake buck. A buck, of course, is a classic cocktail form that combines citrus and ginger beer (or ale) with a base spirit to create a vibrant and refreshing cocktail that buzzes with intensity from all the strong flavors. And while this buck might have a kinship to the well-known Dark ’n’ Stormy, it can be diversely interpreted by the many shades of rum now available to the intrepid drink mixer. Once again, we quite prefer Ed Hamilton’s imports.
+    notes: Though rum is often overshadowed by whiskey and Cognac in the annals of New Orleans drinking, it finds the spotlight in this namesake buck. A buck, of course, is a classic cocktail form that combines citrus and ginger beer (or ale) with a base spirit to create a vibrant and refreshing cocktail that buzzes with intensity from all the strong flavors. And while this buck might have a kinship to the well-known Dark 'n' Stormy, it can be diversely interpreted by the many shades of rum now available to the intrepid drink mixer. Once again, we quite prefer Ed Hamilton's imports.
     glassware: collins
     ingredients:
     - ¾ ounce lime juice
@@ -347,7 +347,7 @@ recipes:
 
 #Garden Cocktails
   - name: Pimm's Cup
-    notes: Bright and summery and floridly garnished, the Pimm’s Cup is based on and named for Pimm’s No. 1 Cup, a gin-based health tonic with a secret recipe invented in the 1840s by James Pimm, who was, coincidentally, a London oyster bar owner. One hundred years later at New Orleans’s Napoleon House, the Pimm’s Cup cocktail was invented, meant to provide a refreshing, low-alcohol drink that patrons could enjoy in multiples during the midsummer swelter of the French Quarter. Back in England, the cocktail became the signature drink of Wimbledon, where a Pimm’s bar was established in 1971. Almost since opening, Maison Premiere has offered a seasonal Pimm’s Cup variation (totaling about forty-two), but it wasn’t until the summer of 2022 that we added our version of the original to the menu in all its flowery glory.
+    notes: Bright and summery and floridly garnished, the Pimm's Cup is based on and named for Pimm's No. 1 Cup, a gin-based health tonic with a secret recipe invented in the 1840s by James Pimm, who was, coincidentally, a London oyster bar owner. One hundred years later at New Orleans's Napoleon House, the Pimm's Cup cocktail was invented, meant to provide a refreshing, low-alcohol drink that patrons could enjoy in multiples during the midsummer swelter of the French Quarter. Back in England, the cocktail became the signature drink of Wimbledon, where a Pimm's bar was established in 1971. Almost since opening, Maison Premiere has offered a seasonal Pimm's Cup variation (totaling about forty-two), but it wasn't until the summer of 2022 that we added our version of the original to the menu in all its flowery glory.
     glassware: collins
     ingredients:
     - 2 dashes of Angostura bitters
@@ -358,12 +358,12 @@ recipes:
     - ¾ ounce lemon juice
     - ½ ounce Lemon Cordial
     - 2 thin slices of cucumber
-    - 1 ounce Pimm’s No. 1
-    - 1 ounce Hayman’s London Dry gin
+    - 1 ounce Pimm's No. 1
+    - 1 ounce Hayman's London Dry gin
     - Ginger beer, to top
     - Mint sprigs, borage flowers, lemon zest grated on a Microplane, and cucumber ribbons, for garnish
     steps:
-    - Combine the two bitters, orange flower water, saline, ginger syrup, lemon juice, lemon cordial, cucumber slices, Pimm’s, and gin in a Boston tin shaker. 
+    - Combine the two bitters, orange flower water, saline, ginger syrup, lemon juice, lemon cordial, cucumber slices, Pimm's, and gin in a Boston tin shaker. 
     - Fill the shaker with ice, cover, and shake vigorously. 
     - Strain into a collins glass filled with hand-cracked ice cubes. 
     - Add a splash of ginger beer (1½ to 2 ounces). 
@@ -376,7 +376,7 @@ recipes:
     - shaken
     - citrus
   - name: Maison Bloody Mary
-    notes: "In the process of designing the Maison Bloody Mary, we knew we couldn’t be parsimonious with flavor. It had to have impact. We created a standardized base puree to enhance the drink’s overall depth and texture, by including celery, onion, carrot, garlic, and chipotle peppers, in addition to the tomato juice. For spice and savory notes, we combined several classic ingredients with some original additions: Worcestershire sauce, Dijon mustard, horseradish, and Tabasco sauce. But perhaps the real secret is the addition of a half ounce of our very own Maison Premiere Oyster Stout, a traditional stout style brewed with the shells of oysters, giving a lactic hit of mineral salinity. It’s a wonderfully complex stew of flavors, and feel free to use any good oyster stout you can find. To make the Maison Bloody Caesar, add half an ounce of clam brine into the mix, and plate it on an iced saucer with a briny oyster."  
+    notes: "In the process of designing the Maison Bloody Mary, we knew we couldn't be parsimonious with flavor. It had to have impact. We created a standardized base puree to enhance the drink's overall depth and texture, by including celery, onion, carrot, garlic, and chipotle peppers, in addition to the tomato juice. For spice and savory notes, we combined several classic ingredients with some original additions: Worcestershire sauce, Dijon mustard, horseradish, and Tabasco sauce. But perhaps the real secret is the addition of a half ounce of our very own Maison Premiere Oyster Stout, a traditional stout style brewed with the shells of oysters, giving a lactic hit of mineral salinity. It's a wonderfully complex stew of flavors, and feel free to use any good oyster stout you can find. To make the Maison Bloody Caesar, add half an ounce of clam brine into the mix, and plate it on an iced saucer with a briny oyster."  
     glassware: poco grande
     ingredients:
     - 3 hard dashes of Tabasco sauce
@@ -400,7 +400,7 @@ recipes:
     - citrus
   - name: In the Maquis
     author: Will Elliott
-    notes: A study in green, this cocktail was inspired by head bartender Will Elliott’s trip to the historic Chartreuse distillery in the mountains of eastern France, where the monks tell stories of locals eluding Nazi patrols while hiding in the brambly woods, for which the French word is maquis. Like Chartreuse, the drink is very herbal, vegetal, and verdant. A take on Malört, the bitter Schnapps-like spirit heavily consumed in Chicago, Bësk is a sort of milder, less bitter version of European alpine herbal liqueur and is made by the American distiller Letherbee. Of course, we had to get that authentic alpine note in there anyway via the gentian-flavored genepy. All of the above interact gorgeously with one of our favorite gins, whose production dates back to the seventeenth century on the island of Menorca, Spain, where it was created to sate the thirst of visiting British sailors.
+    notes: A study in green, this cocktail was inspired by head bartender Will Elliott's trip to the historic Chartreuse distillery in the mountains of eastern France, where the monks tell stories of locals eluding Nazi patrols while hiding in the brambly woods, for which the French word is maquis. Like Chartreuse, the drink is very herbal, vegetal, and verdant. A take on Malört, the bitter Schnapps-like spirit heavily consumed in Chicago, Bësk is a sort of milder, less bitter version of European alpine herbal liqueur and is made by the American distiller Letherbee. Of course, we had to get that authentic alpine note in there anyway via the gentian-flavored genepy. All of the above interact gorgeously with one of our favorite gins, whose production dates back to the seventeenth century on the island of Menorca, Spain, where it was created to sate the thirst of visiting British sailors.
     glassware: white wine glass
     ingredients:
     - 3 dashes of celery bitters
@@ -425,7 +425,7 @@ recipes:
     - shaken
     - citrus
   - name: Mint Julep
-    notes: The great classic of bourbon country and the South, proper mint juleps became attractive for us at Maison only when the specialty equipment supplier Cocktail Kingdom began manufacturing metal julep tins, essential in amplifying the chill of the drink. While our preparation is quite traditional, it’s very much informed by New Orleans bartending legend Chris McMillian, whose instructional and historical YouTube videos are gems of cocktail erudition. Indeed, one particular video, which includes the recitation of a julep poem, is required viewing for every Maison bartender. We take to heart his exhortation to be gentle with the mint leaves and merely give them a gentle slap and a rub on the interior of the cup before discarding them. Mint will reappear as a small bouquet into which the straw is tucked, as every sip of julep should be accompanied by a strong whiff of mint perfume. We chose to use hand-cracked ice cubes in our juleps instead of the standard crushed ice because it fits with the rusticity we perceive in this drink. To us, crushed ice in this setting seems a little overly manicured, even though it’s the status quo for bars around the country. The word 'julep', as we understand it, comes from an ancient Arabic word referring to anything that’s aromatic. How it came over from Africa and the Arabian Peninsula and became a cocktail, we don’t know, though it’s been postulated to have originated as a genever drink, meaning that the julep wasn’t the sole possession of the South. While the definition of the genre is vague—something about a spirit being served over crushed ice, often with mint—we’ve taken it as a crushed-ice cocktail served in a julep tin. With that in mind, we see the julep as a genre and have riffed on it prolifically over the years.
+    notes: The great classic of bourbon country and the South, proper mint juleps became attractive for us at Maison only when the specialty equipment supplier Cocktail Kingdom began manufacturing metal julep tins, essential in amplifying the chill of the drink. While our preparation is quite traditional, it's very much informed by New Orleans bartending legend Chris McMillian, whose instructional and historical YouTube videos are gems of cocktail erudition. Indeed, one particular video, which includes the recitation of a julep poem, is required viewing for every Maison bartender. We take to heart his exhortation to be gentle with the mint leaves and merely give them a gentle slap and a rub on the interior of the cup before discarding them. Mint will reappear as a small bouquet into which the straw is tucked, as every sip of julep should be accompanied by a strong whiff of mint perfume. We chose to use hand-cracked ice cubes in our juleps instead of the standard crushed ice because it fits with the rusticity we perceive in this drink. To us, crushed ice in this setting seems a little overly manicured, even though it's the status quo for bars around the country. The word 'julep', as we understand it, comes from an ancient Arabic word referring to anything that's aromatic. How it came over from Africa and the Arabian Peninsula and became a cocktail, we don't know, though it's been postulated to have originated as a genever drink, meaning that the julep wasn't the sole possession of the South. While the definition of the genre is vague—something about a spirit being served over crushed ice, often with mint—we've taken it as a crushed-ice cocktail served in a julep tin. With that in mind, we see the julep as a genre and have riffed on it prolifically over the years.
     glassware: julep tin
     ingredients:
     - 3-4 fresh mint leaves			
@@ -436,7 +436,7 @@ recipes:
     steps:
     - Hand crack a cup of ice by your own method (we use a mallet and a Lewis bag). 
     - Clap the mint leaves in your hands to release the oils, place them inside a julep tin and rub them around the interior to coat all the surfaces, then discard. 
-    - To the tin, add the bitters, simple syrup, and bourbon, and fill with hand-cracked ice cubes until it’s half-full. 
+    - To the tin, add the bitters, simple syrup, and bourbon, and fill with hand-cracked ice cubes until it's half-full. 
     - Give a quick stir and then add more hand-cracked cubes until they are mounded over the top. 
     - Garnish with an extravagant mint bouquet with the straws tucked in, almost hidden among the mint leaves.
     tags:
@@ -457,7 +457,7 @@ recipes:
     - 1¾ ounces Avuá cachaça
     - Lime zest grated on a Microplane, ají chile, 2 small green paper straws, for garnish 
     steps:
-    - In a julep tin, combine the Suze, lime cordial, spice syrup, lemon juice, celery juice, and cachaça, and fill with hand-cracked ice cubes until it’s half-full. 
+    - In a julep tin, combine the Suze, lime cordial, spice syrup, lemon juice, celery juice, and cachaça, and fill with hand-cracked ice cubes until it's half-full. 
     - Give a quick stir and then add more hand-cracked cubes until they are mounded over the top. 
     - Garnish with the grated lime zest, the ají chile, and two straws.
     tags:
@@ -468,10 +468,10 @@ recipes:
     - citrus
     - stirred
   - name: De Surco Sling
-    notes: This soft summer sling (a sling is simply spirit plus water, sweetened and flavored) is primed for the season. Capurro is a soft, semifloral Peruvian pisco, and it perfectly frames the subtleties of strawberry and parsley. Likely the only lesser-known ingredient in this cocktail, Amaro dell’Erborista is a very natural and traditional amaro by Varnelli distillery, sporting a bracingly bitter spine that’s rounded and complemented by notes of rhubarb, gentian, and even sandalwood.
+    notes: This soft summer sling (a sling is simply spirit plus water, sweetened and flavored) is primed for the season. Capurro is a soft, semifloral Peruvian pisco, and it perfectly frames the subtleties of strawberry and parsley. Likely the only lesser-known ingredient in this cocktail, Amaro dell'Erborista is a very natural and traditional amaro by Varnelli distillery, sporting a bracingly bitter spine that's rounded and complemented by notes of rhubarb, gentian, and even sandalwood.
     glassware: collins
     ingredients:
-    - 1 teaspoon Amaro dell’Erborista
+    - 1 teaspoon Amaro dell'Erborista
     - ¼ ounce Rich Simple Syrup
     - ¼ ounce Giffard crème de fraise
     - ½ ounce lemon juice
@@ -481,7 +481,7 @@ recipes:
     - Parsley sprig, for garnish
     steps:
     - To a Boston tin shaker, add all the liquid ingredients and 2 whole strawberries. 
-    - Fill the shaker with ice cubes and shake vigorously but briefly. (To keep them concentrated, drinks served over crushed ice don’t get long shakes since crushed ice melts quickly.) 
+    - Fill the shaker with ice cubes and shake vigorously but briefly. (To keep them concentrated, drinks served over crushed ice don't get long shakes since crushed ice melts quickly.) 
     - Fine strain into a collins glass, then fill the glass with crushed ice, mounded over the top. 
     - Tuck the sliced strawberries into the side of the glass near the rim. 
     - Finish with a sprig of parsley.
@@ -541,17 +541,17 @@ recipes:
     - shaken
     - citrus
   - name: Rosetti
-    notes: A treatise on summer berries and all things deep crimson, the Rosetti is a juicy julep, racy and quenching. Crème de cassis, a sweet liqueur made from black currants, is native to Dijon, France, whence comes the famed mustard. Fruit and mustard are often combined there, and when drinking good cassis, one is often left with a hint of spice in the finish. Combining the puckering acidity of sloe berry and lemon and the herbal complexity of Cocchi’s Rosa vermouth, this julep nearly defies the genre in its supple and lightening elegance.
+    notes: A treatise on summer berries and all things deep crimson, the Rosetti is a juicy julep, racy and quenching. Crème de cassis, a sweet liqueur made from black currants, is native to Dijon, France, whence comes the famed mustard. Fruit and mustard are often combined there, and when drinking good cassis, one is often left with a hint of spice in the finish. Combining the puckering acidity of sloe berry and lemon and the herbal complexity of Cocchi's Rosa vermouth, this julep nearly defies the genre in its supple and lightening elegance.
     glassware: julep tin
     ingredients:
-    - ¾ ounce Hayman’s sloe gin
+    - ¾ ounce Hayman's sloe gin
     - ¾ ounce Giffard crème de cassis
     - 1 ounce lemon juice
     - 1 ounce Cocchi Rosa vermouth
     - Generous bouquet of fresh mint, 2 short straws, rosebuds, 3 drops rose flower water
     steps:
-    - To a julep tin, combine the gin, crème de cassis, lemon juice, and vermouth, and fill with crushed ice until it’s half-full. 
-    - Give a quick stir and then add more crushed ice until it’s mounded over the top. 
+    - To a julep tin, combine the gin, crème de cassis, lemon juice, and vermouth, and fill with crushed ice until it's half-full. 
+    - Give a quick stir and then add more crushed ice until it's mounded over the top. 
     - Garnish with an extravagant mint bouquet with the straws tucked in, almost hidden among the mint leaves. 
     - Nest the rosebuds in the mint, then with an eyedropper add a few drops of rose flower water onto the rosebuds.
     tags:
@@ -562,7 +562,7 @@ recipes:
     - stirred
     - citrus
   - name: Maison Sherry Cobbler
-    notes: Sometimes called the Cosmo of the 1860s, the sherry cobbler was the cocktail of its time. Instrumental—along with the julep—in the invention of the straw (because it was almost impossible to consume the second half of these highly garnished crushed-iced drinks without tipping the cup and having its contents fall on your face), it was also the first cocktail as popular with women as it was with men, according to one bartending manual of its time. It’s also quite low in alcohol, and therefore it can be drunk in some quantity—always a plus. Our technique of using four separate styles of sherry confers complexity and dimension well beyond the original simplicity of the drink and is unique in the cocktail world, to our knowledge. As it was back in the nineteenth century, the garnish must be extravagant and garish; if you are wondering if you have heaped enough vegetation on top of the sherry cobbler you are about to serve, you probably haven’t.
+    notes: Sometimes called the Cosmo of the 1860s, the sherry cobbler was the cocktail of its time. Instrumental—along with the julep—in the invention of the straw (because it was almost impossible to consume the second half of these highly garnished crushed-iced drinks without tipping the cup and having its contents fall on your face), it was also the first cocktail as popular with women as it was with men, according to one bartending manual of its time. It's also quite low in alcohol, and therefore it can be drunk in some quantity—always a plus. Our technique of using four separate styles of sherry confers complexity and dimension well beyond the original simplicity of the drink and is unique in the cocktail world, to our knowledge. As it was back in the nineteenth century, the garnish must be extravagant and garish; if you are wondering if you have heaped enough vegetation on top of the sherry cobbler you are about to serve, you probably haven't.
     glassware: poco grande
     ingredients:
     - 1 teaspoon allspice dram
@@ -610,7 +610,7 @@ recipes:
     - citrus
     - swizzle
   - name: Viva Alberti
-    notes: Strega, both the Italian word for “witch” as well as a saffron-infused Italian liqueur, became an object of fascination at Maison Premiere around 2011 because of its uniquely minty and anise-inflected flavor. Strega’s creation in 1860 is owed to a father-and-son team with the surname Alberti, hence the name of the cocktail. A joyful, refreshing contortion of a French 75—refreshing yet rich, with herbal top notes—this drink could also be called a Strega spritz, fortified with Cognac and topped with cava. In creating this, we hoped to subvert the ubiquitous Aperol spritz, which, to us, while delicious, seems more like a soda than a cocktail.
+    notes: Strega, both the Italian word for “witch” as well as a saffron-infused Italian liqueur, became an object of fascination at Maison Premiere around 2011 because of its uniquely minty and anise-inflected flavor. Strega's creation in 1860 is owed to a father-and-son team with the surname Alberti, hence the name of the cocktail. A joyful, refreshing contortion of a French 75—refreshing yet rich, with herbal top notes—this drink could also be called a Strega spritz, fortified with Cognac and topped with cava. In creating this, we hoped to subvert the ubiquitous Aperol spritz, which, to us, while delicious, seems more like a soda than a cocktail.
     glassware: wine glass
     ingredients:
     - 3 dashes of Angostura orange bitters
@@ -634,17 +634,17 @@ recipes:
     - sparkling
     - citrus
   - name: Golden Cup
-    notes: A true garden cocktail if there ever was one, the Golden Cup was created to echo in flavor and sensation the inspiring tenderness of a late spring garden, alive with young flowers, fraise du bois, and fresh herbs. Hence, rose and strawberry flavors are burnished by the citrus and spice in Pimm’s and buttressed by lemon juice. The other inspiration for this drink is the gin from Neversink Spirits, a wonderful craft distillery in New York, which specializes in apples. As such, the gin integrates apple-friendly botanicals (cinnamon, cardamom, star anise) and a base spirit made from apples. A new member of the julep family, this drink is meant to be sipped in dappled sunlight outdoors and is served in one of our golden julep tins (feel free to use any color, though) to promote maximum optimism.
+    notes: A true garden cocktail if there ever was one, the Golden Cup was created to echo in flavor and sensation the inspiring tenderness of a late spring garden, alive with young flowers, fraise du bois, and fresh herbs. Hence, rose and strawberry flavors are burnished by the citrus and spice in Pimm's and buttressed by lemon juice. The other inspiration for this drink is the gin from Neversink Spirits, a wonderful craft distillery in New York, which specializes in apples. As such, the gin integrates apple-friendly botanicals (cinnamon, cardamom, star anise) and a base spirit made from apples. A new member of the julep family, this drink is meant to be sipped in dappled sunlight outdoors and is served in one of our golden julep tins (feel free to use any color, though) to promote maximum optimism.
     glassware: julep tin
     ingredients:
     - ¼ teaspoon rose flower water
     - ½ ounce lemon juice
     - ½ ounce Giffard crème de fraise (strawberry liqueur)
-    - 1 ounce Pimm’s No. 1
+    - 1 ounce Pimm's No. 1
     - 1 ounce Neversink gin
     - 1 strawberry, thinly sliced into a fan, mint sprig, fresh borage flowers, 2 small straws, for garnish
     steps:
-    - In a julep tin, combine the rose flower water, lemon juice, crème de fraise, Pimm’s, and gin. 
+    - In a julep tin, combine the rose flower water, lemon juice, crème de fraise, Pimm's, and gin. 
     - Place a swizzle stick in the tin, then add a scoop of crushed ice. 
     - Agitate the liquids with the ice until they are combined and slushy. 
     - Gently remove the swizzle stick. 
@@ -684,7 +684,7 @@ recipes:
 
 #Drawing Room Drinks
   - name: Adonis
-    notes: "We unearthed this one while researching classic drinks that employed sherry, which was coming back into fashion as a cocktail ingredient during our early years. Named for what may have been, in 1884, the very first Broadway musical, the Adonis features no shortage of assertive ingredients, making for a low-ABV drink of high impact, notably with the nutty and buttery stamp of sherry. Maison’s version honors Broadway in its performative aspect: To garnish, one must use a channel knife to carve an exceedingly long single twist out of an orange and then tie that twist into an old sailor’s knot, the figure eight."
+    notes: "We unearthed this one while researching classic drinks that employed sherry, which was coming back into fashion as a cocktail ingredient during our early years. Named for what may have been, in 1884, the very first Broadway musical, the Adonis features no shortage of assertive ingredients, making for a low-ABV drink of high impact, notably with the nutty and buttery stamp of sherry. Maison's version honors Broadway in its performative aspect: To garnish, one must use a channel knife to carve an exceedingly long single twist out of an orange and then tie that twist into an old sailor's knot, the figure eight."
     glassware: adonis
     ingredients:
     - 3 dashes of Angostura orange bitters
@@ -704,7 +704,7 @@ recipes:
     - stirred
     - manhattan
   - name: Old Fashioned
-    notes: As classic as it gets, the Maison Old Fashioned bows to the primitive simplicity of the original—which was quite obviously a way to enhance and make more palatable the undoubtedly rough, coarse spirits of the day—but shows further respect by making it with elevated, elegant technique. First, we always ask what spirit the guest wants, as it’s not always rye (many choose brandy). The double orange and lemon twist both highlight and offset the spirits.
+    notes: As classic as it gets, the Maison Old Fashioned bows to the primitive simplicity of the original—which was quite obviously a way to enhance and make more palatable the undoubtedly rough, coarse spirits of the day—but shows further respect by making it with elevated, elegant technique. First, we always ask what spirit the guest wants, as it's not always rye (many choose brandy). The double orange and lemon twist both highlight and offset the spirits.
     glassware: rocks
     ingredients:
     - 3 dashes of Angostura orange bitters
@@ -747,14 +747,14 @@ recipes:
     - stirred
     - freezer bar
   - name: Future Days
-    notes: "An eclectic blend of spirits almost experimental in their combination, this drink was aptly inspired by the 1973 album of the same name by the progressive German band Can. On paper, this cacophony appears like it won’t work, but nevertheless it does, delighting the tongue while also confounding it. One note: Most Maison drinks can be fairly replicated by replacing one or more brands with comparable substitutes. This is not one of them. Without these specific brands, it refuses to coalesce."
+    notes: "An eclectic blend of spirits almost experimental in their combination, this drink was aptly inspired by the 1973 album of the same name by the progressive German band Can. On paper, this cacophony appears like it won't work, but nevertheless it does, delighting the tongue while also confounding it. One note: Most Maison drinks can be fairly replicated by replacing one or more brands with comparable substitutes. This is not one of them. Without these specific brands, it refuses to coalesce."
     glassware: coupe
     ingredients:
     - 3 dashes of grapefruit bitters
     - 5 dashes of absinthe
     - +¼ ounce Demerara Simple Syrup
     - 1 ounce Luxardo Amaro Abano
-    - 1 ounce Ransom’s Old Tom gin
+    - 1 ounce Ransom's Old Tom gin
     - 1 ounce Banhez mezcal
     - Grapefruit twist, for garnish
     steps:
@@ -790,7 +790,7 @@ recipes:
     - stirred
     - freezer bar
   - name: Round Robin
-    notes: Another example of Maison’s (never-ending?) alpine-spirits and amaro obsession, this one comes down out of the Alps and into the Rhône valley to pick up an ounce of Beaujolais wine, which froths into a foamy head upon shaking, giving the drink incredible body. Once, the producer of the wine we were using for this, a young Frenchman, happened to anonymously come into the bar and saw his precious creation disappearing into a mixing tin. His mouth gaped in surprise but then turned to a smile after his first sip.
+    notes: Another example of Maison's (never-ending?) alpine-spirits and amaro obsession, this one comes down out of the Alps and into the Rhône valley to pick up an ounce of Beaujolais wine, which froths into a foamy head upon shaking, giving the drink incredible body. Once, the producer of the wine we were using for this, a young Frenchman, happened to anonymously come into the bar and saw his precious creation disappearing into a mixing tin. His mouth gaped in surprise but then turned to a smile after his first sip.
     glassware: sour glass
     ingredients:
     - ½ ounce Braulio amaro
@@ -809,7 +809,7 @@ recipes:
     - shaken
     - citrus
   - name: Lady Lyndon
-    notes: Warm cocktails are hardly in fashion, but like the toddy, they have their place. Don’t overlook this one in the fall and winter months. Lemon juice, raspberry syrup, absinthe, and various fortified wines come together to form a potently aromatic and intense base that welcomes warm water and the touch of rose-infused cream. The daintier the tea set this is served in, the better. The accompanying madeleine is, of course, optional.
+    notes: Warm cocktails are hardly in fashion, but like the toddy, they have their place. Don't overlook this one in the fall and winter months. Lemon juice, raspberry syrup, absinthe, and various fortified wines come together to form a potently aromatic and intense base that welcomes warm water and the touch of rose-infused cream. The daintier the tea set this is served in, the better. The accompanying madeleine is, of course, optional.
     glassware: teacup
     ingredients:
     - ¼ ounce Germain-Robin absinthe
@@ -829,7 +829,7 @@ recipes:
     - When the cup is warm, dump the hot water and pour in the cocktail. 
     - Top with hot water. 
     - Then spoon rose cream over the top. 
-    - Sprinkle a little confectioners’ sugar on it and add a tiny mint sprig. 
+    - Sprinkle a little confectioners' sugar on it and add a tiny mint sprig. 
     - On the saucer include a skewer with the raspberries.
     - "Note • Rose cream: In a Boston tin shaker, combine 2 ounces heavy whipping cream, ¾ teaspoon Demerara sugar, and ¼ ounce rose flower water. Shake until you get stiff peaks."
     tags:
@@ -840,7 +840,7 @@ recipes:
     - stirred
     - citrus
   - name: Light Green Fellow
-    notes: "A heady dessert drink can reveal our innermost selves: We malign it for being intolerably unctuous while licking the too-soon-empty glass. This one is unassailable as it forces you into the same bed with such combative personalities as Cognac, coffee liqueur, crème de menthe, amaro, and almond-cherry grappa. It’s the cream, that usually laughable cocktail ingredient, to which we owe our deepest gratitude for keeping the peace."
+    notes: "A heady dessert drink can reveal our innermost selves: We malign it for being intolerably unctuous while licking the too-soon-empty glass. This one is unassailable as it forces you into the same bed with such combative personalities as Cognac, coffee liqueur, crème de menthe, amaro, and almond-cherry grappa. It's the cream, that usually laughable cocktail ingredient, to which we owe our deepest gratitude for keeping the peace."
     glassware: nick & nora
     ingredients:
     - ¾ ounce heavy cream
@@ -861,7 +861,7 @@ recipes:
     - drawing room drinks
     - shaken
   - name: Whiskeytown Regatta
-    notes: Based on an old cocktail called the sixpenny crank, which employs both beer and gin, this was meant to be the cocktail home for our famous oyster stout. The beer’s coffee notes seemed to call for a whiskey back, hence the addition of bourbon, which itself led to a craving for the honeyed scotch flavor of Drambuie, which ultimately brought us back to the espresso flavor of the stout. Dashes of absinthe, as always, pep things up and provide aromatic lift, as does the artistic garnishing license provided by the foam in a beer cocktail.
+    notes: Based on an old cocktail called the sixpenny crank, which employs both beer and gin, this was meant to be the cocktail home for our famous oyster stout. The beer's coffee notes seemed to call for a whiskey back, hence the addition of bourbon, which itself led to a craving for the honeyed scotch flavor of Drambuie, which ultimately brought us back to the espresso flavor of the stout. Dashes of absinthe, as always, pep things up and provide aromatic lift, as does the artistic garnishing license provided by the foam in a beer cocktail.
     glassware: coupe
     ingredients:
     - 4 dashes of absinthe
@@ -887,23 +887,23 @@ recipes:
 
 #Bracing and Urbane
   - name: The Martini
-    notes: "When people at the bar ask for a description of our standard martini? We don’t have one, as this is one of the most personal preparations in existence. Do you prefer it drier or wetter? Gin or vodka? We assume gin but always ask. What kind of gin? Hayman’s is our standard, but we have three kinds in the well—London Dry, Old Tom, and navy strength. We will shake a martini if asked to, though we don’t recommend it. When it comes to martinis, we have no rules, but we do have opinions. One unasked question is whether the guest prefers an olive or a twist because every martini at Maison Premiere is served with both—neatly presented atop a little sidecar of ice. Likewise, every martini, unless requested without, is finished with a lemon twist, which then is placed on the sidecar. While the representative Maison Premiere cocktail is inventive and idiosyncratic, the martini—which would never be described so—is taken very seriously here, in part because of the importance of our raw bar, as the pleasure of swallowing a raw oyster is exponentially heightened when chased by a sip of martini. When it comes to martinis, service protocol is paramount—whether you’re making one at home for yourself or behind a bar for others. Something about the drink calls for ritual and respect. First, prepare your garnish. An ice-cold martini should never be kept waiting while its maker fiddles with accoutrements. So, on a little cutting board, trim the lemon twist and skewer the olives (we do so meticulously, serving always three olives). Now fetch a chilled martini glass. When we opened we used then-fashionable coupes, but around 2014 we became early re-adopters of the classic V-shaped martini glass. In 2011, two-to-one (gin to vermouth) martinis were de rigueur. Then thanks to New York’s Pegu Club and Audrey Saunders, along came the fifty-fifty, which never floated our boat. Today, our standard is two-and-a-quarter-to-one, and the big leap to “dry” is twelve-to-one. The greatest problem with martinis is that they’re never (and can never be) cold enough. The most effective method of chilling is to shake, but that utterly alters the drink’s texture by adding aeration and ice crystals. The challenge becomes mathematical: the drink must be stirred quickly enough to achieve maximal chill while avoiding overdilution. You have a small window of time to get it cold enough. This requires a very rapid stir indeed and is the world’s greatest reason for practicing that skill. As described on this page, our technique at Maison involves adding ice while maintaining a high-rpm stir. How do you know when it’s been stirred enough? Practice, repetition, confidence, faith. An almost spiritual act, stirring a martini should be done with a Zen-like emptiness, filled only at the conclusion by the knowledge that you have tasted or can hold in your mind’s eye the perfect martini, and that it has been equaled in this moment. Right now."
+    notes: "When people at the bar ask for a description of our standard martini? We don't have one, as this is one of the most personal preparations in existence. Do you prefer it drier or wetter? Gin or vodka? We assume gin but always ask. What kind of gin? Hayman's is our standard, but we have three kinds in the well—London Dry, Old Tom, and navy strength. We will shake a martini if asked to, though we don't recommend it. When it comes to martinis, we have no rules, but we do have opinions. One unasked question is whether the guest prefers an olive or a twist because every martini at Maison Premiere is served with both—neatly presented atop a little sidecar of ice. Likewise, every martini, unless requested without, is finished with a lemon twist, which then is placed on the sidecar. While the representative Maison Premiere cocktail is inventive and idiosyncratic, the martini—which would never be described so—is taken very seriously here, in part because of the importance of our raw bar, as the pleasure of swallowing a raw oyster is exponentially heightened when chased by a sip of martini. When it comes to martinis, service protocol is paramount—whether you're making one at home for yourself or behind a bar for others. Something about the drink calls for ritual and respect. First, prepare your garnish. An ice-cold martini should never be kept waiting while its maker fiddles with accoutrements. So, on a little cutting board, trim the lemon twist and skewer the olives (we do so meticulously, serving always three olives). Now fetch a chilled martini glass. When we opened we used then-fashionable coupes, but around 2014 we became early re-adopters of the classic V-shaped martini glass. In 2011, two-to-one (gin to vermouth) martinis were de rigueur. Then thanks to New York's Pegu Club and Audrey Saunders, along came the fifty-fifty, which never floated our boat. Today, our standard is two-and-a-quarter-to-one, and the big leap to “dry” is twelve-to-one. The greatest problem with martinis is that they're never (and can never be) cold enough. The most effective method of chilling is to shake, but that utterly alters the drink's texture by adding aeration and ice crystals. The challenge becomes mathematical: the drink must be stirred quickly enough to achieve maximal chill while avoiding overdilution. You have a small window of time to get it cold enough. This requires a very rapid stir indeed and is the world's greatest reason for practicing that skill. As described on this page, our technique at Maison involves adding ice while maintaining a high-rpm stir. How do you know when it's been stirred enough? Practice, repetition, confidence, faith. An almost spiritual act, stirring a martini should be done with a Zen-like emptiness, filled only at the conclusion by the knowledge that you have tasted or can hold in your mind's eye the perfect martini, and that it has been equaled in this moment. Right now."
     glassware: martini
     ingredients:
     - Olives, lemon twist, for garnish
     - 3 dashes of Angostura orange bitters
     - 1 ounce Dolin dry vermouth
-    - 2¼ ounces Hayman’s London Dry gin
+    - 2¼ ounces Hayman's London Dry gin
     steps:
-    - Prepare your mise en place first—skewer the olives and cut the twist and have a chilled glass ready—because you don’t want to waste a second between preparing the drink and pouring it into the glass. 
+    - Prepare your mise en place first—skewer the olives and cut the twist and have a chilled glass ready—because you don't want to waste a second between preparing the drink and pouring it into the glass. 
     - In a mixing glass, combine the bitters, vermouth, and gin. Fill the glass with ice. 
     - Continue adding ice as you stir until all the secondary ice has been submerged. 
     - Strain the mixture into the chilled martini glass. 
-    - Express the lemon twist with one hand over the stream as you’re pouring the drink. 
+    - Express the lemon twist with one hand over the stream as you're pouring the drink. 
     - Then place the lemon twist alongside three skewered olives on the sidecar.
     - "NOTE:"
     - We positively associate the Gibson with a steakhouse dinner, as a superior choice to a dirty martini and a truly wonderful option with oysters. 
-    - The only difference from the martini is that it’s served with cocktail onions on a skewer, not olives. Follow the Martini recipe above and swap the garnish.
+    - The only difference from the martini is that it's served with cocktail onions on a skewer, not olives. Follow the Martini recipe above and swap the garnish.
     tags:
     - the maison premiere alamanac
     - maison premiere
@@ -911,14 +911,14 @@ recipes:
     - martini
     - stirred
   - name: "Tuxedo #2"
-    notes: Of all the tuxedo cocktail variations (upward of 4), the number 2 from the Savoy book is the best. It’s a classic martini variation with a little added herbaceousness and nuttiness for complexity and richness. The goal is to manage the potentially cloying marzipan presence of maraschino (a cherry pit liqueur). This endeavor is greatly aided by the existence of two great maraschinos, Vergnano and Bordiga, both of which are far more refined than the ubiquitous Luxardo version. The drink is a later variation on a cocktail invented at the Tuxedo Club in the 1890s, where the jacket of the same name also originated. This recipe is adapted from The Savoy Cocktail Book by Harry Craddock, originally published in 1930.
+    notes: Of all the tuxedo cocktail variations (upward of 4), the number 2 from the Savoy book is the best. It's a classic martini variation with a little added herbaceousness and nuttiness for complexity and richness. The goal is to manage the potentially cloying marzipan presence of maraschino (a cherry pit liqueur). This endeavor is greatly aided by the existence of two great maraschinos, Vergnano and Bordiga, both of which are far more refined than the ubiquitous Luxardo version. The drink is a later variation on a cocktail invented at the Tuxedo Club in the 1890s, where the jacket of the same name also originated. This recipe is adapted from The Savoy Cocktail Book by Harry Craddock, originally published in 1930.
     glassware: coupe
     ingredients:
     - 3 dashes of Angostura orange bitters
     - 1 teaspoon Duplais Verte absinthe
     - ½ ounce Vergnano or Bordiga maraschino liqueur
     - ¾ ounce Dolin dry vermouth
-    - 1¾ ounces Hayman’s London Dry gin
+    - 1¾ ounces Hayman's London Dry gin
     - Lemon twist, for garnish
     steps:
     - In a mixing glass, combine the bitters, absinthe, maraschino liqueur, vermouth, and gin, and fill with ice. 
@@ -932,12 +932,12 @@ recipes:
     - martini
     - freezer bar
   - name: Alaska
-    notes: "We always keep our eyes out for martini alternatives—drinks of the same genre and state of mind. This unusual classic marries gin with yellow Chartreuse. While the original called for Old Tom gin, we prefer the sharpness of London Dry. This recipe, like Tuxedo #2, is adapted from Harry Craddock’s The Savoy Cocktail Book."
+    notes: "We always keep our eyes out for martini alternatives—drinks of the same genre and state of mind. This unusual classic marries gin with yellow Chartreuse. While the original called for Old Tom gin, we prefer the sharpness of London Dry. This recipe, like Tuxedo #2, is adapted from Harry Craddock's The Savoy Cocktail Book."
     glassware: coupe
     ingredients:
     - 3 dashes of Angostura orange bitters
     - ¾ ounce yellow Chartreuse
-    - 2½ ounces Hayman’s navy strength gin
+    - 2½ ounces Hayman's navy strength gin
     - Lemon twist, for garnish
     steps:
     - In a mixing glass, combine the bitters, Chartreuse, and gin, and fill with ice. 
@@ -951,14 +951,14 @@ recipes:
     - martini
     - freezer bar
   - name: MP Arsenic and Old Lace
-    notes: "Cocktail scholarship shows that this interesting drink began its life as “The Attention” in 1917, was renamed “the Atty” by Harry Craddock in 1930, and then was recast in 1941 under this name after the Broadway play and subsequent Cary Grant film. To our palate, crème de violette is one step from blue curaçao—that is, cloying and somewhat nauseating. So, how to make it work in a cocktail? We actively try to erase or at least push back on violette’s cloyingness by ratcheting up the intensity of the accompanying spirits. Thus: La Muse Verte is an aggressive absinthe, the gin is navy strength (high proof), and Tempus Fugit is the most subtle of violette brands. Two twists are deployed, with the lemon’s sharpness undercutting the orange. One might ask, why violette in the first place? Well, that’s the cocktail. We can only assume the violette represents “old lace,” while absinthe is “arsenic.” This cocktail first appeared under this name in Cocktail Guide and Ladies’ Companion by Crosby Gaige, published in 1941."
+    notes: "Cocktail scholarship shows that this interesting drink began its life as “The Attention” in 1917, was renamed “the Atty” by Harry Craddock in 1930, and then was recast in 1941 under this name after the Broadway play and subsequent Cary Grant film. To our palate, crème de violette is one step from blue curaçao—that is, cloying and somewhat nauseating. So, how to make it work in a cocktail? We actively try to erase or at least push back on violette's cloyingness by ratcheting up the intensity of the accompanying spirits. Thus: La Muse Verte is an aggressive absinthe, the gin is navy strength (high proof), and Tempus Fugit is the most subtle of violette brands. Two twists are deployed, with the lemon's sharpness undercutting the orange. One might ask, why violette in the first place? Well, that's the cocktail. We can only assume the violette represents “old lace,” while absinthe is “arsenic.” This cocktail first appeared under this name in Cocktail Guide and Ladies' Companion by Crosby Gaige, published in 1941."
     glassware: nick & nora
     ingredients:
     - 3 dashes of Angostura orange bitters
     - ¼ ounce La Muse Verte absinthe
     - ½ ounce Tempus Fugit crème de violette
     - ¾ ounce La Quintinye Blanc vermouth
-    - 1¾ ounces Hayman’s Royal Dock navy strength gin
+    - 1¾ ounces Hayman's Royal Dock navy strength gin
     - Lemon twist, orange twist, for garnish
     steps:
     - In a mixing glass, combine the bitters, absinthe, crème de violette, vermouth, and gin, and fill with ice. 
@@ -972,7 +972,7 @@ recipes:
     - martini
     - freezer bar
   - name: Philadelphia Jack
-    notes: If we must call it what it is, this is an herbaceous, white negroni decked out with all kinds of alpine herbal intensity from the Bësk, Suze, and Sapin (pine liqueur). However, it’s unique (and delicious) in that it’s a stirred drink finished with tonic water, which provides a welcome prickly texture and hint of quinine-inflected bitterness.
+    notes: If we must call it what it is, this is an herbaceous, white negroni decked out with all kinds of alpine herbal intensity from the Bësk, Suze, and Sapin (pine liqueur). However, it's unique (and delicious) in that it's a stirred drink finished with tonic water, which provides a welcome prickly texture and hint of quinine-inflected bitterness.
     glassware: nick & nora
     ingredients:
     - –½ ounce Letherbee Bësk
@@ -994,12 +994,12 @@ recipes:
     - negroni
     - freezer bar
   - name: Tom Collins
-    notes: We often recommend the Tom Collins—a quenching, hydrating, lifting cocktail—as an alternative to a G&T or a beer. But people forget the correlation between the Tom Collins and Old Tom gin, which was almost certainly what would have been used at the time of the drink’s invention. We think this works beautifully with a barrel-aged Old Tom like Ransom’s.
+    notes: We often recommend the Tom Collins—a quenching, hydrating, lifting cocktail—as an alternative to a G&T or a beer. But people forget the correlation between the Tom Collins and Old Tom gin, which was almost certainly what would have been used at the time of the drink's invention. We think this works beautifully with a barrel-aged Old Tom like Ransom's.
     glassware: collins
     ingredients:
     - ½ ounce lemon juice
     - 1 ounce Lemon Cordial
-    - 2 ounces Ransom’s Barrel-Aged Old Tom gin
+    - 2 ounces Ransom's Barrel-Aged Old Tom gin
     - Soda water
     - Orange flag (a maraschino cherry skewered onto an orange wedge),for garnish
     steps:
@@ -1014,7 +1014,7 @@ recipes:
     - shaken
     - citrus
   - name: Negroni
-    notes: "We have thoughts. At the time we opened, the negroni, like the Last Word, was one of those classics so widely adopted by society at large as to become somewhat hackneyed and cliché. Despite its overexposure, the negroni’s popularity has held up, a testament to the brilliance of the formula and proving it’s no flash in the pan. However, the early years of the negroni were challenging, as the drink was often rendered heavy, sweet, and alcoholic—a bludgeon, not a wand. Bartenders often employed sweet and heavy Torino vermouths (like Carpano Antica formula) or people tried to substitute lesser aperitivi for Campari. At the end of the day, the negroni in its truest form can only be as written: equal parts, including Campari proper. However, the drink is infinitely improved when the vermouth is lighter, say with Cinzano or Dolin, and some bitters have been added. The gin should be a London Dry. The negroni is also often understirred—neither cold enough, nor diluted enough. Think elegance: It’s a rocks drink you have to treat like an up drink."
+    notes: "We have thoughts. At the time we opened, the negroni, like the Last Word, was one of those classics so widely adopted by society at large as to become somewhat hackneyed and cliché. Despite its overexposure, the negroni's popularity has held up, a testament to the brilliance of the formula and proving it's no flash in the pan. However, the early years of the negroni were challenging, as the drink was often rendered heavy, sweet, and alcoholic—a bludgeon, not a wand. Bartenders often employed sweet and heavy Torino vermouths (like Carpano Antica formula) or people tried to substitute lesser aperitivi for Campari. At the end of the day, the negroni in its truest form can only be as written: equal parts, including Campari proper. However, the drink is infinitely improved when the vermouth is lighter, say with Cinzano or Dolin, and some bitters have been added. The gin should be a London Dry. The negroni is also often understirred—neither cold enough, nor diluted enough. Think elegance: It's a rocks drink you have to treat like an up drink."
     glassware: rocks
     ingredients:
     - 3 dashes of Angostura orange bitters
@@ -1034,12 +1034,12 @@ recipes:
     - negroni
     - freezer bar
   - name: Gimlet
-    notes: "Our interest in the wonderfully simple, classic, and unfailingly delicious gimlet came via one of its few ingredients: lime cordial. A great gimlet is a strong exhortation to make your own cordials. Maison Premiere, like most bars, makes its own orgeat and grenadine. But, to our knowledge, few other bars make cordials. Bar director Will Elliott began experimenting with them and quickly became enamored. Made with both the juice and peel of a citrus fruit, the cordial becomes more than either alone—it’s a concentrated, focused expression of the whole fruit that mere juice or a twist can’t provide. In many of his drinks, he started bolstering citrus juice with the cordial of the same fruit and found they became more intense, defined, and memorable cocktails. A gimlet should just be cordial and gin. (Rose’s Lime, the classic gimlet ingredient, is nothing but an overly saccharine cordial.) Our cordial is pure intensity. The drink comes to your choice: on the rocks or up."
+    notes: "Our interest in the wonderfully simple, classic, and unfailingly delicious gimlet came via one of its few ingredients: lime cordial. A great gimlet is a strong exhortation to make your own cordials. Maison Premiere, like most bars, makes its own orgeat and grenadine. But, to our knowledge, few other bars make cordials. Bar director Will Elliott began experimenting with them and quickly became enamored. Made with both the juice and peel of a citrus fruit, the cordial becomes more than either alone—it's a concentrated, focused expression of the whole fruit that mere juice or a twist can't provide. In many of his drinks, he started bolstering citrus juice with the cordial of the same fruit and found they became more intense, defined, and memorable cocktails. A gimlet should just be cordial and gin. (Rose's Lime, the classic gimlet ingredient, is nothing but an overly saccharine cordial.) Our cordial is pure intensity. The drink comes to your choice: on the rocks or up."
     glassware: rocks
     ingredients:
     - ½ ounce lime juice
     - 1 ounce Lime Cordial
-    - 2 ounces Hayman’s navy strength gin
+    - 2 ounces Hayman's navy strength gin
     steps:
     - To a Boston tin or cobbler shaker, add the lime juice, cordial, and gin. 
     - Fill the shaker with ice, cover, and shake vigorously. 
@@ -1052,7 +1052,7 @@ recipes:
     - citrus
     - gimlet
   - name: High Chicago
-    notes: A study in the orange of beta-carotene, this original cocktail uses orange bitters, orange curaçao, mastiha (a Greek spirit that tastes like the core of a carrot), and apricot eau-de-vie. It’s vegetal but also ethereal. A spray of carrot eau-de-vie finishes it appropriately.
+    notes: A study in the orange of beta-carotene, this original cocktail uses orange bitters, orange curaçao, mastiha (a Greek spirit that tastes like the core of a carrot), and apricot eau-de-vie. It's vegetal but also ethereal. A spray of carrot eau-de-vie finishes it appropriately.
     glassware: nick & nora
     ingredients:
     - 4 dashes of Angostura orange bitters
@@ -1081,7 +1081,7 @@ recipes:
     - ¾ ounce lime juice
     - ¾ ounce green Chartreuse
     - ¾ ounce Vergnano or Bordiga maraschino liqueur
-    - ¾ ounce Hayman’s navy strength gin
+    - ¾ ounce Hayman's navy strength gin
     - Lime twist and cherry on a skewer, for garnish
     steps:
     - To a Boston tin or cobbler shaker, add the lime juice, Chartreuse, maraschino liqueur, and gin. 
@@ -1098,7 +1098,7 @@ recipes:
 
 #Tropicalia
   - name: Daiquiri
-    notes: Starting somewhere in the early 2010s, the daiquiri quietly but suddenly came back into vogue among New York bartenders. Some of the resurgence may have been linked to the importing boom, which saw a raft of new, interesting rums flooding the market. A couple of influential bartenders became obsessed with perfecting the drink, which, despite its somewhat chintzy pop-culture reputation, is an extremely elegant and natively complex drink that rewards precision at every step. Our version stays true to the original formula but plays with the fine-tuning. The drink traditionally calls for a Cuban rum, which wasn’t available at the time. While we were obsessed with rhum agricole and wanted to use it in the drink, we realized that a full two-ounce portion was too aggressively vegetal, so we balanced it with the easygoing Santa Teresa and never looked back. We also experimented with how to balance the sugar and acid. The original requirement of three-quarters of an ounce of lime juice didn’t provide enough zing, so we bumped it up to a full ounce, while shrinking the sugar addition to just half an ounce but using a more concentrated two-to-one simple syrup. Finally, we got it right—a taut daiquiri with strong, clear flavors that is nevertheless perfectly balanced on the boundary between sharp and sweet.
+    notes: Starting somewhere in the early 2010s, the daiquiri quietly but suddenly came back into vogue among New York bartenders. Some of the resurgence may have been linked to the importing boom, which saw a raft of new, interesting rums flooding the market. A couple of influential bartenders became obsessed with perfecting the drink, which, despite its somewhat chintzy pop-culture reputation, is an extremely elegant and natively complex drink that rewards precision at every step. Our version stays true to the original formula but plays with the fine-tuning. The drink traditionally calls for a Cuban rum, which wasn't available at the time. While we were obsessed with rhum agricole and wanted to use it in the drink, we realized that a full two-ounce portion was too aggressively vegetal, so we balanced it with the easygoing Santa Teresa and never looked back. We also experimented with how to balance the sugar and acid. The original requirement of three-quarters of an ounce of lime juice didn't provide enough zing, so we bumped it up to a full ounce, while shrinking the sugar addition to just half an ounce but using a more concentrated two-to-one simple syrup. Finally, we got it right—a taut daiquiri with strong, clear flavors that is nevertheless perfectly balanced on the boundary between sharp and sweet.
     glassware: coupe
     ingredients:
     - ½ ounce Rich Simple Syrup
@@ -1118,7 +1118,7 @@ recipes:
     - daiquiri
     - citrus
   - name: MP Jungle Bird
-    notes: This is an adaption of an adaption. The original, one of the first tiki drinks to contain a bitter liqueur, hails from the 1970s and Kuala Lumpur’s Aviary Bar. This cocktail received new life in 2010 when Giuseppe González, a bartender at New York’s Painkiller (now closed), improved the jungle bird by making it with blackstrap rum, whose dense molasses character provided the depth the drink had been lacking. At Maison, we enrich it further with a funky pot stilled Jamaican rum for maximum flavor impact. The garnish, which features a wedge of Campari-soaked pineapple, has an origami-like precision. Soak the pineapple in Campari for twelve to twenty-four hours, then use the Campari in the drink.
+    notes: This is an adaption of an adaption. The original, one of the first tiki drinks to contain a bitter liqueur, hails from the 1970s and Kuala Lumpur's Aviary Bar. This cocktail received new life in 2010 when Giuseppe González, a bartender at New York's Painkiller (now closed), improved the jungle bird by making it with blackstrap rum, whose dense molasses character provided the depth the drink had been lacking. At Maison, we enrich it further with a funky pot stilled Jamaican rum for maximum flavor impact. The garnish, which features a wedge of Campari-soaked pineapple, has an origami-like precision. Soak the pineapple in Campari for twelve to twenty-four hours, then use the Campari in the drink.
     glassware: rocks
     ingredients:
     - –½ ounce Saline Solution
@@ -1141,7 +1141,7 @@ recipes:
     - citrus
     - tiki
   - name: MP Mai Tai
-    notes: We love what we call “rum splits,” meaning that instead of just using the one generic rum called for in the original recipe, we divide that portion among different styles of rums to achieve a more compelling, complex, and layered profile. Here, we use four different rums, which we mix ahead of time into a blend we call the Maison Premiere Mai Tai. The Hamilton Jamaican rum provides pot stilled funk; the Cruzan Black Strap lays a dark, molasses-driven base; the Santa Teresa layers on a buttery, rich softness; and a full ounce of La Favorite Coeur d’Ambre rhum agricole sharpens it all up with its herbaceous top notes. We don’t make a lot of the modifiers we use in drinks, but we do love our homemade orgeat, which is produced with rose flower water, toasted almonds, and almond milk.
+    notes: We love what we call “rum splits,” meaning that instead of just using the one generic rum called for in the original recipe, we divide that portion among different styles of rums to achieve a more compelling, complex, and layered profile. Here, we use four different rums, which we mix ahead of time into a blend we call the Maison Premiere Mai Tai. The Hamilton Jamaican rum provides pot stilled funk; the Cruzan Black Strap lays a dark, molasses-driven base; the Santa Teresa layers on a buttery, rich softness; and a full ounce of La Favorite Coeur d'Ambre rhum agricole sharpens it all up with its herbaceous top notes. We don't make a lot of the modifiers we use in drinks, but we do love our homemade orgeat, which is produced with rose flower water, toasted almonds, and almond milk.
     glassware: poco grande
     ingredients:
     - ¾ ounce Maison Orgeat
@@ -1149,7 +1149,7 @@ recipes:
     - +¼ ounce Cruzan Black Strap rum
     - +¼ ounce Hamilton Pot Still Black rum
     - ½ ounce Santa Teresa rum
-    - 1 ounce La Favorite Coeur d’Ambre rhum agricole
+    - 1 ounce La Favorite Coeur d'Ambre rhum agricole
     - ½ ounce Pierre Ferrand orange curaçao
     - Mint bouquet, Angostura bitters, edible pansy, orange flag (a maraschino cherry skewered onto an orange wedge), parasol, 1 short toddy straw, for garnish
     steps:
@@ -1165,7 +1165,7 @@ recipes:
     - mai tai
     - tiki
   - name: MP Piña Colada
-    notes: Sneer if you like, but this drink should be irresistible to all who lack a coconut allergy. When well made it’s simply that delicious, no matter how your impression of it may have been colored by a family vacation to Club Med or reruns of The Love Boat. Our version, besides being served impressively in a hollowed-out coconut shell branded with our logo, is somewhat straightforward. But our two coconut syrups—one toasted, the other untoasted—give it a dimension you don’t taste in other versions. Pimento dram is also known as allspice dram. We use a brand called St. Elizabeth.
+    notes: Sneer if you like, but this drink should be irresistible to all who lack a coconut allergy. When well made it's simply that delicious, no matter how your impression of it may have been colored by a family vacation to Club Med or reruns of The Love Boat. Our version, besides being served impressively in a hollowed-out coconut shell branded with our logo, is somewhat straightforward. But our two coconut syrups—one toasted, the other untoasted—give it a dimension you don't taste in other versions. Pimento dram is also known as allspice dram. We use a brand called St. Elizabeth.
     glassware: novel
     ingredients:
     - 1 teaspoon pimento dram
@@ -1188,7 +1188,7 @@ recipes:
     - shaken
     - citrus
   - name: USS Bomber
-    notes: Tall, glistening with crushed ice, and in brilliant shades of red, white, and blue, this unique cocktail is perfect for summer in the back garden. We promote it on American holidays of note—Derby Day(!), Memorial Day, Fourth of July, and Labor Day—when we festoon the bar with antique American flags and hire an old-timey brass band for live music. The whole place looks straight out of a 1940s film. As for the drink, blue curaçao is of course not taken seriously by cocktail revivalists. But, Jesse, the bartender who created this drink, and Maxwell Britten weren’t aiming for gravitas, instead desiring to maximize the patriotic visual effect, which they did. Along the way, they realized you could use any clear spirit in the drink you want, and it works. So, as with the toddy, customers call their spirit. We don’t keep it on the menu for long, but it’s always popular when we revive it.
+    notes: Tall, glistening with crushed ice, and in brilliant shades of red, white, and blue, this unique cocktail is perfect for summer in the back garden. We promote it on American holidays of note—Derby Day(!), Memorial Day, Fourth of July, and Labor Day—when we festoon the bar with antique American flags and hire an old-timey brass band for live music. The whole place looks straight out of a 1940s film. As for the drink, blue curaçao is of course not taken seriously by cocktail revivalists. But, Jesse, the bartender who created this drink, and Maxwell Britten weren't aiming for gravitas, instead desiring to maximize the patriotic visual effect, which they did. Along the way, they realized you could use any clear spirit in the drink you want, and it works. So, as with the toddy, customers call their spirit. We don't keep it on the menu for long, but it's always popular when we revive it.
     glassware: pilsner
     ingredients:
     - 1 ounce coconut milk
@@ -1196,13 +1196,13 @@ recipes:
     - ¼ ounce Suze gentian liqueur
     - 1 ounce clear spirit of choice, such as vodka, gin,or rum
     - ¾ ounce blue curaçao
-    - Peychaud’s bitters
+    - Peychaud's bitters
     - 3 pineapple leaves, 1 red-and-white-striped straw,for garnish
     steps:
     - Build all ingredients except for the blue curaçao and the bitters in a tall pilsner glass filled with crushed ice. 
     - Swizzle gently to combine. 
     - Carefully pour the curaçao so that it sits on top, and then, using a barspoon, gently nudge the ice to work the curaçao down until it forms a layer above the original drink. 
-    - Now top with crushed ice and dash the Peychaud’s bitters on top to form the red layer. Garnish with the pineapple leaves and the straw.
+    - Now top with crushed ice and dash the Peychaud's bitters on top to form the red layer. Garnish with the pineapple leaves and the straw.
     tags:
     - the maison premiere alamanac
     - maison premiere
@@ -1212,7 +1212,7 @@ recipes:
     - tiki
   - name: Missionary's Downfall
     author: Don the Beachcomber
-    notes: “What one rum can’t do, three rums can” is a quote allegedly issued by Donn Beach, aka Don the Beachcomber, aka the godfather of tiki. He also happens to be the inventor of this suggestively named cocktail. Ironically, in his original 1930s recipe for this drink, which calls for only one rum, he didn’t follow his own dictum. We, however, did. Tripling a spirit in order to create complex layers of flavor is a technique we’ve used before in the sherry cobbler and mai tai. In true tiki fashion, this is a drink with a surfeit of ingredients, which we only exacerbate here. In the end, we hope you find it worthwhile. We surely do, as this is yet another tropical tiki drink whose complexity and sophistication belie its sunny brightness. You’ll find that the mint and pineapple supply the high tones, the aged rums bring umami and depth, and the lemony acidity holds it all together. We serve this in what we call a bamboo collins glass—a tall glass with segmented bulges to mimic a bamboo trunk—but it works just as well in a regular collins glass.
+    notes: “What one rum can't do, three rums can” is a quote allegedly issued by Donn Beach, aka Don the Beachcomber, aka the godfather of tiki. He also happens to be the inventor of this suggestively named cocktail. Ironically, in his original 1930s recipe for this drink, which calls for only one rum, he didn't follow his own dictum. We, however, did. Tripling a spirit in order to create complex layers of flavor is a technique we've used before in the sherry cobbler and mai tai. In true tiki fashion, this is a drink with a surfeit of ingredients, which we only exacerbate here. In the end, we hope you find it worthwhile. We surely do, as this is yet another tropical tiki drink whose complexity and sophistication belie its sunny brightness. You'll find that the mint and pineapple supply the high tones, the aged rums bring umami and depth, and the lemony acidity holds it all together. We serve this in what we call a bamboo collins glass—a tall glass with segmented bulges to mimic a bamboo trunk—but it works just as well in a regular collins glass.
     glassware: collins
     ingredients:
     - ¾ ounce lemon juice
@@ -1239,7 +1239,7 @@ recipes:
     - citrus
     - tiki
   - name: Pisco Sour
-    notes: Inseparably associated with its countries of origin, Chile and Peru, the pisco sour is seen as a niche drink to each country rather than the universal classic it could be. But because we get a lot of South American tourists, we are always ready to make one and do take the drink seriously. Indeed, it’s interesting because the pisco sour is not niche at all—it’s a classic sour. We add not only Angostura bitters but also Angostura orange bitters and orange flower water to amplify the floral high tones of pisco. Americans forget this drink, but they shouldn’t—it’s scrumptious.
+    notes: Inseparably associated with its countries of origin, Chile and Peru, the pisco sour is seen as a niche drink to each country rather than the universal classic it could be. But because we get a lot of South American tourists, we are always ready to make one and do take the drink seriously. Indeed, it's interesting because the pisco sour is not niche at all—it's a classic sour. We add not only Angostura bitters but also Angostura orange bitters and orange flower water to amplify the floral high tones of pisco. Americans forget this drink, but they shouldn't—it's scrumptious.
     glassware: wine glass
     ingredients:
     - 3 dashes of Angostura bitters
@@ -1261,17 +1261,17 @@ recipes:
     - shaken
     - citrus
   - name: Dark 'n' Stormy
-    notes: Legally, to call this drink a Dark ’n’ Stormy, it must include Gosling’s rum, which has trademarked the name. But nothing stipulates Gosling’s must be the only rum in the drink, so we give it the “rum split” treatment, by supplementing Gosling’s dark rum with a float of the even more potent and declarative Cruzan Black Strap rum. This is a phenomenal drink when made well, marrying depth, full-throated character, and a refreshing wispiness able to cut the oppressiveness of even the hottest summer day.
+    notes: Legally, to call this drink a Dark 'n' Stormy, it must include Gosling's rum, which has trademarked the name. But nothing stipulates Gosling's must be the only rum in the drink, so we give it the “rum split” treatment, by supplementing Gosling's dark rum with a float of the even more potent and declarative Cruzan Black Strap rum. This is a phenomenal drink when made well, marrying depth, full-throated character, and a refreshing wispiness able to cut the oppressiveness of even the hottest summer day.
     glassware: collins
     ingredients:
     - ¾ ounce Ginger Syrup
     - 1 ounce lime juice
-    - 1¾ ounces Gosling’s rum
-    - Ginger beer, such as Boylan’s, or ginger ale
+    - 1¾ ounces Gosling's rum
+    - Ginger beer, such as Boylan's, or ginger ale
     - ¼ ounce Cruzan Black Strap rum
     - Lime wheel, 1 tall straw, for garnish
     steps:
-    - To a Boston tin or cobbler shaker, add the ginger syrup, lime juice, and Gosling’s rum. 
+    - To a Boston tin or cobbler shaker, add the ginger syrup, lime juice, and Gosling's rum. 
     - Fill the shaker with ice, cover, and shake vigorously. 
     - Fine strain the mixture into an ice-filled collins glass. 
     - Top with ginger beer or ale to just below the rim. 
@@ -1286,7 +1286,7 @@ recipes:
 
 #Maison Original and Classic Absinthe Cocktails
   - name: Chrysanthemum
-    notes: "Making its first appearance in Hugo Ensslin’s 1916 Recipes for Mixed Drinks, the Chrysanthemum was ripe for reimagining in 2010s Brooklyn. It’s a lovely and early example of low-ABV drinking, a style growing in popularity in recent years. Since Maison Premiere is at its core an absinthe bar, we decided the selection of absinthe in our rendition must be thoughtfully chosen. Germain-Robin is what we call an “outlier” absinthe: though it follows all the rules of proper absinthe production, the end result yields a very unique profile, with heavy aromatics of mint, fresh fennel, and even rose. This adds finessed aromatics and finish to a powerfully herbal “up” drink that can often tend toward the two-dimensional. This recipe is adapted from The Savoy Cocktail Book by Harry Craddock, originally published in 1930."
+    notes: "Making its first appearance in Hugo Ensslin's 1916 Recipes for Mixed Drinks, the Chrysanthemum was ripe for reimagining in 2010s Brooklyn. It's a lovely and early example of low-ABV drinking, a style growing in popularity in recent years. Since Maison Premiere is at its core an absinthe bar, we decided the selection of absinthe in our rendition must be thoughtfully chosen. Germain-Robin is what we call an “outlier” absinthe: though it follows all the rules of proper absinthe production, the end result yields a very unique profile, with heavy aromatics of mint, fresh fennel, and even rose. This adds finessed aromatics and finish to a powerfully herbal “up” drink that can often tend toward the two-dimensional. This recipe is adapted from The Savoy Cocktail Book by Harry Craddock, originally published in 1930."
     glassware: nick & nora
     ingredients:
     - 6 drops of aromatic bitters
@@ -1296,7 +1296,7 @@ recipes:
     - 1 snapdragon, discarded lemon twist, for garnish
     steps:
     - In a mixing glass, combine the bitters, absinthe, Bénédictine, and vermouth, and fill with ice. 
-    - Stir rapidly for only 15 to 20 seconds, as you don’t want to overstir a vermouth drink. 
+    - Stir rapidly for only 15 to 20 seconds, as you don't want to overstir a vermouth drink. 
     - Strain into a chilled Nick & Nora glass, then express the lemon twist and discard. Garnish the glass with a snapdragon.
     tags:
     - the maison premiere alamanac
@@ -1319,7 +1319,7 @@ recipes:
     - To the small half of a Boston tin shaker, add the bitters, orange flower water, lemon juice, Parfait Amour, vermouth, and absinthe. 
     - Add 1 cup of crushed ice, cover, and shake vigorously until the tin begins to get icy on the outside. 
     - Pour into a Pontarlier glass filled with crushed ice. 
-    - If you don’t have a Pontarlier glass, use a collins glass. 
+    - If you don't have a Pontarlier glass, use a collins glass. 
     - Garnish with the cornflower blossoms, lemon zest, and straws, and serve on a saucer with a doily.
     tags:
     - the maison premiere alamanac
@@ -1351,7 +1351,7 @@ recipes:
     - swizzle
     - stirred
   - name: Inverness
-    notes: "Inverness (a Gaelic word meaning “mouth of the River Ness” and a city in the Scottish Highlands) connotes something wild, fresh, and elemental to us, and the drink is meant to reflect that. La Muse Verte is one of the most deeply herbaceous absinthes on our shelf and even boasts a mildly woodsy bitterness—so powerful, it’s not often used in our cocktails. But here it provides a great base for the Inverness’s progression of flavors: the first sips are strong, both in flavor and intensity. However, as the crushed ice melts, a curious thing happens: the layer of hand-whipped cassis cream that has been passively sitting on the top begins to seep into the lower half of the cocktail, rounding off all the sharp corners of flavor and adding a textured layer of peppery black currant."
+    notes: "Inverness (a Gaelic word meaning “mouth of the River Ness” and a city in the Scottish Highlands) connotes something wild, fresh, and elemental to us, and the drink is meant to reflect that. La Muse Verte is one of the most deeply herbaceous absinthes on our shelf and even boasts a mildly woodsy bitterness—so powerful, it's not often used in our cocktails. But here it provides a great base for the Inverness's progression of flavors: the first sips are strong, both in flavor and intensity. However, as the crushed ice melts, a curious thing happens: the layer of hand-whipped cassis cream that has been passively sitting on the top begins to seep into the lower half of the cocktail, rounding off all the sharp corners of flavor and adding a textured layer of peppery black currant."
     glassware: pilsner
     ingredients:
     - 3 dashes of Angostura bitters
@@ -1373,7 +1373,7 @@ recipes:
     - citrus
     - swizzle
   - name: Casablanca
-    notes: Yogurt is not often seen as a craft-cocktail ingredient, but the Casablanca makes an airtight case for it. What other ingredient could offer such a balanced foundation for the complexity of the other ingredients? Lactic, caloric, and mildly acidic, yogurt provides a perfectly clean canvas for the layers and details of chai and absinthe’s herbs, spices, and botanicals. The drink is finished with a grated Sicilian pistachio to complete its ambitious aromatic profile.
+    notes: Yogurt is not often seen as a craft-cocktail ingredient, but the Casablanca makes an airtight case for it. What other ingredient could offer such a balanced foundation for the complexity of the other ingredients? Lactic, caloric, and mildly acidic, yogurt provides a perfectly clean canvas for the layers and details of chai and absinthe's herbs, spices, and botanicals. The drink is finished with a grated Sicilian pistachio to complete its ambitious aromatic profile.
     glassware: moscow mule mug
     ingredients:
     - ½ ounce Duplais Verte absinthe
@@ -1394,7 +1394,7 @@ recipes:
     - shaken
     - citrus
   - name: Walcott Express
-    notes: The Walcott Express is a seemingly simple drink that recalls the gimlet or perhaps the southside. It has risen in the ranks of Maison cocktails over the years, and is currently Maison Premiere’s bestselling cocktail of all time. This is a shocking statistic, for the base spirit is Sapin, a little-known pine-bud liqueur from Pontarlier, France—hardly an easy sell to most guests! It is most likely that those who order it were in fact admonished by their friends to do so without question upon their next trip to our bar, and its popularity is certainly not hindered by its luminescent emerald hue. It is one of those confoundingly delightful examples of something that tastes precisely how it looks, and is similarly impossible to describe, much like trying to describe an orange. But if we must, it’s a bracing confection of mint, lime, and anise, with pine flavor magically tying them all together.
+    notes: The Walcott Express is a seemingly simple drink that recalls the gimlet or perhaps the southside. It has risen in the ranks of Maison cocktails over the years, and is currently Maison Premiere's bestselling cocktail of all time. This is a shocking statistic, for the base spirit is Sapin, a little-known pine-bud liqueur from Pontarlier, France—hardly an easy sell to most guests! It is most likely that those who order it were in fact admonished by their friends to do so without question upon their next trip to our bar, and its popularity is certainly not hindered by its luminescent emerald hue. It is one of those confoundingly delightful examples of something that tastes precisely how it looks, and is similarly impossible to describe, much like trying to describe an orange. But if we must, it's a bracing confection of mint, lime, and anise, with pine flavor magically tying them all together.
     glassware: nick & nora
     ingredients:
     - 1 teaspoon Giffard crème de menthe
@@ -1433,7 +1433,7 @@ recipes:
     - absinthe cocktails
     - stirred
   - name: Maison Suissesse
-    notes: Though its origin story is as foggy as its residual effects, the Suissesse was likely birthed in the venerable Brennan’s Restaurant in New Orleans, and thus was an easy pluck for our canon of cocktails. Our ambition wasn’t to reimagine it but to amplify and embolden it. Here, as in other drinks, absinthe’s anise flavor is complemented by mint, not to mention the floral zing of rose flower water. In addition to using the best crème de menthe, we add mint “to the shake,” meaning a handful of mint is put in the Boston shaker and shaken vigorously with ice, pulverizing the mint and extracting all the essential oils, which will heighten the drink’s already cooling, herbal profile.
+    notes: Though its origin story is as foggy as its residual effects, the Suissesse was likely birthed in the venerable Brennan's Restaurant in New Orleans, and thus was an easy pluck for our canon of cocktails. Our ambition wasn't to reimagine it but to amplify and embolden it. Here, as in other drinks, absinthe's anise flavor is complemented by mint, not to mention the floral zing of rose flower water. In addition to using the best crème de menthe, we add mint “to the shake,” meaning a handful of mint is put in the Boston shaker and shaken vigorously with ice, pulverizing the mint and extracting all the essential oils, which will heighten the drink's already cooling, herbal profile.
     glassware: white wine glass
     ingredients:
     - 6 drops of rose flower water

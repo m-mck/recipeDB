@@ -24,3 +24,4 @@ svelte repl -> shows u what code will do
 
 add seasons?
 show one, not two, copies of the recipes
+get search working on new site

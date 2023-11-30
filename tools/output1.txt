@@ -31,7 +31,7 @@
 (15 ml) green chartreuse
 (15 ml) grenadine
 (15 ml) guaycura damiana liqueur
-(15 ml) hayman’s royal dock navy-strength gin
+(15 ml) hayman's royal dock navy-strength gin
 (15 ml) honey syrup
 (15 ml) lazzaroni amaretto
 (15 ml) licor 43 liqueur
@@ -53,7 +53,7 @@
 (15 ml) soda water
 (15 ml) soda water, to top
 (15 ml) st-germain elderflower liqueur
-(15 ml) suze d’autrefois liqueur
+(15 ml) suze d'autrefois liqueur
 (15 ml) svol aquavit
 (15 ml) tabasco shrub
 (15 ml) tempranillo, or another medium-to-full-bodied red wine, to top
@@ -66,7 +66,7 @@
 (2.5 ml) demerara syrup
 (2.5 ml) giffard abricot du roussillon liqueur
 (2.5 ml) luxardo maraschino liqueur
-(2.5 ml) st. elizabeth’s allspice dram
+(2.5 ml) st. elizabeth's allspice dram
 (20 g) white sugar
 (22.5 ml) amaro montenegro
 (22.5 ml) aperol
@@ -84,7 +84,7 @@
 (22.5 ml) chamomile simple syrup
 (22.5 ml) cinnamon syrup
 (22.5 ml) cinzano rosso vermouth
-(22.5 ml) cocktail & son’s fassionola, or hurricane syrup
+(22.5 ml) cocktail & son's fassionola, or hurricane syrup
 (22.5 ml) cold brew concentrate
 (22.5 ml) cynar
 (22.5 ml) demerara syrup
@@ -157,14 +157,14 @@
 (30 ml) gilka kaiser-kümmel liqueur
 (30 ml) hamilton gold rum
 (30 ml) Hayman's Old Tom gin
-(30 ml) hayman’s royal dock navy-strength gin
+(30 ml) hayman's royal dock navy-strength gin
 (30 ml) heavy cream
 (30 ml) herbsaint
 (30 ml) infantado ruby port
 (30 ml) la gitana manzanilla sherry
 (30 ml) la quintinye extra dry royal vermouth
-(30 ml) laird’s bonded apple brandy
-(30 ml) laird’s bottled-in-bond apple brandy
+(30 ml) laird's bonded apple brandy
+(30 ml) laird's bottled-in-bond apple brandy
 (30 ml) macchu pisco
 (30 ml) marolo milla grappa and chamomile liqueur
 (30 ml) mattei cap corse blanc quinquina
@@ -248,12 +248,12 @@
 (60 ml) el jimador blanco tequila
 (60 ml) el tesoro añejo tequila
 (60 ml) fernando de castilla fino sherry
-(60 ml) jack daniel’s master distiller
+(60 ml) jack daniel's master distiller
 (60 ml) lillet blanc
 (60 ml) london dry gin
 (60 ml) nardini amaro
 (60 ml) ojen
-(60 ml) peychaud’s bitters
+(60 ml) peychaud's bitters
 (60 ml) Pimm's No. 1 liqueur
 (60 ml) punt e mes
 (60 ml) rare wine co. charleston sercial madeira
@@ -337,7 +337,7 @@ Wild Turkey 101 Rye
 a cucumber coin pierced by a fresh shiso leaf
 a field in innsbruck tea-infused apple brandy
 a toddy a day upper chamber solids
-abbott’s bitters
+abbott's bitters
 aberlour 12-year-old single malt scotch whisky
 absentroux
 absinthe
@@ -390,7 +390,7 @@ alpenglow cordial
 alvear festival pale cream sherry
 alvear pale cream sherry
 amabuki gin no kurenai junmai
-amara amaro d’arancia rossa
+amara amaro d'arancia rossa
 amarena or marasca cherry
 amarena or marasca cherry or lemon twist
 amaretto
@@ -434,7 +434,7 @@ ancho reyes ancho chile liqueur
 anchor genevieve gin
 anchor hophead vodka
 anchor junipero gin
-angel’s envy kentucky straight bourbon whiskey
+angel's envy kentucky straight bourbon whiskey
 angostura 5-year rum
 angostura and peychaud's bitters, and 1 mint bouquet
 angostura and peychaud's bitters, and 1 pineapple wedge
@@ -443,7 +443,7 @@ angostura aromatic bitters (optional)
 angostura aromatic bitters - 1930s
 angostura aromatic bitters, chilled
 angostura bitters
-angostura bitters (optional; if you’re feeling frisky)
+angostura bitters (optional; if you're feeling frisky)
 angostura bitters 1 dash orange bitters
 angostura bitters and 1 mint sprig
 angostura bitters and 1 orange crescent and cherry flag
@@ -543,13 +543,13 @@ bacardi superior white rum
 bacardí carta blanca rum
 bacardí reserva ocho rum
 bailey's irish cream
-baker’s bourbon
+baker's bourbon
 balcones brimstone whisky
 ballyhoo
 balvenie doublewood 12-year scotch
 banana
 banana chip
-banana chip-infused gosling’s black seal rum
+banana chip-infused gosling's black seal rum
 banana gin
 banana ice spear
 banana jameson (see recipe)
@@ -582,7 +582,7 @@ barista-quality oat milk (preferably oatly)
 barley shochu (yanagita koma shochu or iichiko silhouette shochu are recommended, both of which are at the classic 25% abv)
 barrel-aged gammal krogstad aquavit
 barrel-aged gin
-barrel-dusted buddha’s hand cube
+barrel-dusted buddha's hand cube
 barrell dovetail whiskey
 barrell whiskey batch 004
 barsol acholado pisco
@@ -623,10 +623,10 @@ beet syrup
 belgian-style wheat beer
 belgian-style wheat beer, to top
 bell pepper syrup
-bell’s ipa
+bell's ipa
 beniotome shochu
-benton’s bacon fat-infused bourbon
-benton’s bacon fat-washed four roses bourbon
+benton's bacon fat-infused bourbon
+benton's bacon fat-washed four roses bourbon
 bergamot citrus puree (preferably boiron)
 bergerac mix
 bernheim wheat whiskey
@@ -649,7 +649,7 @@ bitter truth cucumber bitters, for garnish
 bitter truth jerry thomas bitters
 bitter truth jerry thomas decanter bitters
 bitter truth jerry thomas' own decanter bitters
-bitter truth jerry thomas’ bitters
+bitter truth jerry thomas' bitters
 bitter truth lemon bitters or homemade meyer lemon bitters
 bitter truth peach bitters
 bittercube blackstrap bitters
@@ -698,7 +698,7 @@ blackberry-lime syrup
 blackstrap rum
 blackstrap rum, preferably cruzan
 blackstrap rum, preferably cruzan black strap
-blackwell’s black gold special reserve rum
+blackwell's black gold special reserve rum
 blanc de blanc sparkling wine (a dry bubbly may be substituted)
 blanc vermouth
 blanc vermouth, preferably dolin
@@ -707,8 +707,8 @@ blanche de bruxelles beer
 blanco tequila
 blanco tequila (preferably siete leguas blanco or el tesoro platinum blanco tequila)
 blandy's 5-year malmsey madeira
-blandy’s 5-year malmsey madeira
-blanton’s single barrel bourbon whiskey
+blandy's 5-year malmsey madeira
+blanton's single barrel bourbon whiskey
 blended scotch
 blended scotch, such as bank note or famous grouse
 blenheim hot ginger ale
@@ -747,11 +747,11 @@ boiron kalamansi puree
 boiron kalamansi purée
 boiron passion fruit puree
 boissiere dry vermouth
-boker’s bitters
-boker’s bitters (see headnote) or angostura aromatic bitters
-boker’s bitters or angostura aromatic bitters
-boker’s bitters or angostura aromatic bitters fig or cherries, for garnish
-boker’s bitters or angostura bitters
+boker's bitters
+boker's bitters (see headnote) or angostura aromatic bitters
+boker's bitters or angostura aromatic bitters
+boker's bitters or angostura aromatic bitters fig or cherries, for garnish
+boker's bitters or angostura bitters
 bols barrel-aged genever
 bols genever
 Bombay London Dry gin
@@ -779,7 +779,7 @@ bourbon barrel stave
 bourbon barrel stave section.
 bourbon or rye
 bourbon, preferably a pre-prohibition style like old forester
-bourbon, preferably booker’s
+bourbon, preferably booker's
 bourbon, preferably buffalo trace
 bourbon, preferably bulleit
 bourbon, preferably knob creek
@@ -831,7 +831,7 @@ bruto americano
 bubbly water
 bubbly water, to top
 buckwheat honey syrup
-buddha’s hand gin
+buddha's hand gin
 buffalo trace bourbon
 bulleit bourbon
 bulleit bourbon infused with skillet-roasted figs and pears
@@ -861,7 +861,7 @@ bèrto aperitiv dla tradission bianco vermouth
 bénédictine
 cabeza blanco tequila
 cabrito blanco tequila
-cacao cream and 1 drop peychaud’s bitters
+cacao cream and 1 drop peychaud's bitters
 cacao nib campari
 cacao nib tincture
 cacao nib-infused cabeza blanco tequila
@@ -1069,11 +1069,11 @@ christian drouin “blanche de normandie” apple brandy
 chrysanthemum flowers
 chrysanthemum tisane
 château cantegril sauternes
-château de pellehaut blanche d’armagnac
+château de pellehaut blanche d'armagnac
 château de pellehaut sélection armagnac
 château du tariquet 15-year armagnac
 château du tariquet blanche armagnac
-château d’arlay macvin du jura blanc mistelle
+château d'arlay macvin du jura blanc mistelle
 château la fleur d'or sauternes
 cider ice cubes
 cider reduction
@@ -1108,7 +1108,7 @@ citric acid solution
 citric acid solution, if needed
 citrus twist (optional)
 citrus vodka
-citrus-dusted buddha’s hand cube
+citrus-dusted buddha's hand cube
 clairin sajous rum
 clairin vaval haitian rum
 clam bite
@@ -1167,7 +1167,7 @@ cocchi americano 1 ounce fords gin
 cocchi americano bianco
 cocchi americano dry white vermouth
 cocchi americano rosa
-cocchi americano-dusted buddha’s hand cube
+cocchi americano-dusted buddha's hand cube
 cocchi barolo chinato
 cocchi di torino
 cocchi rosa
@@ -1257,8 +1257,8 @@ combier kümmel liqueur
 combier liqueur
 Combier crème de pamplemousse rose
 Combier crème de rose
-combier l’original
-combier l’original triple sec
+combier l'original
+combier l'original triple sec
 Combier crème de pamplemousse
 Combier crème de pamplemousse
 Combier crème de rose
@@ -1272,7 +1272,7 @@ compass box the peat monster scotch
 compressed celery stalk
 compressed pear cubes
 concord
-confectioners’ sugar
+confectioners' sugar
 connemara irish whisky
 connemara peated single malt
 connemara peated single malt irish whiskey
@@ -1375,20 +1375,20 @@ daikon juice (see note)
 daikon slices
 dale degroff pimento bitters
 dale degroff's pimento bitters
-dale degroff’s pimento aromatic bitters
-dale degroff’s pimento bitters
+dale degroff's pimento aromatic bitters
+dale degroff's pimento bitters
 damoiseau 110-proof rum
 damoiseau vsop rhum
 damoiseau vsop rhum agricole
 damrak gin
 dark chocolate
 dark chocolate 
-dark jamaican rum, preferably coruba original blend rum, Appleton Estate Rare Blend 12-Year, or myers’s original dark rum
+dark jamaican rum, preferably coruba original blend rum, Appleton Estate Rare Blend 12-Year, or myers's original dark rum
 dark maple syrup
 dark rum
 dark sherry, such as oloroso
 dark, robust maple syrup
-dash boker’s bitters or angostura aromatic bitters
+dash boker's bitters or angostura aromatic bitters
 dash of nutmeg
 dashes bittermens orchard street celery bitters
 dashi kombu-infused pear brandy
@@ -1397,7 +1397,7 @@ dassai 50 junmai daiginjo sake
 date syrup
 dead rabbit
 dead rabbit jamaica rum blend
-death’s door white whiskey
+death's door white whiskey
 dehydrated apple slice
 dehydrated green apple slice
 dehydrated lemon slices or fresh lemon twist
@@ -1444,14 +1444,14 @@ diplomático exclusiva reserva rum
 diplomático planas rum
 diplomático reserva exclusiva rum
 distilled water
-distillerie de biercée noir d’ivoire liqueur
+distillerie de biercée noir d'ivoire liqueur
 distillerie de biercée orangine eau de vie
 distillerie f. meyer eau-de-vie de framboise
 distillerie f. meyer eau-de-vie de poire william
 distillerie g. miclo rose liqueur
-doc’s draft hard pear cider
-doc’s hard apple cider
-doc’s hard pear cider
+doc's draft hard pear cider
+doc's hard apple cider
+doc's hard pear cider
 dogfish head festina pêche berliner weisse
 dolin blanc vermouth
 dolin dry vermouth
@@ -1493,9 +1493,9 @@ dos maderas px 5+5 aged rum
 double-brewed coffee
 dow's ruby port
 downeast cider house cider, chilled
-dow’s fine white port
-dr. adam elmegirab’s boker’s bitters
-dragon’s blood tea (see recipe)
+dow's fine white port
+dr. adam elmegirab's boker's bitters
+dragon's blood tea (see recipe)
 drambuie
 drambuie liqueur
 dried apple slice
@@ -1547,14 +1547,14 @@ dubliner blended
 dubonnet rouge
 dubonnet rouge grand aperitif de france
 dumante verdenoce pistachio liqueur
-dunville’s 1808 blended
+dunville's 1808 blended
 dupont aigre doux
 dupont calvados hors d'age
 dupont fine reserve calvados
 dupont pays d'auge original calvados
 dupont pommeau de normande
-dutch’s colonial cocktail bitters
-d’arbo elderflower syrup
+dutch's colonial cocktail bitters
+d'arbo elderflower syrup
 e&j burke jamaican rum - 1943
 each aromatic, orange, and chocolate bitters
 eagle rare 10-year bourbon
@@ -1578,8 +1578,8 @@ edible flowers, plus more for garnishing each glass
 edible gold leaf
 edible orchid for garnish
 edinburgh gin
-egan’s fortitude
-egan’s fortitude single malt
+egan's fortitude
+egan's fortitude single malt
 egg
 egg white
 egg white, beaten
@@ -1843,7 +1843,7 @@ galliano ristretto
 gamay red wine
 gamle ode dill aquavit
 gelée terrine
-generous dashes peychaud’s bitters
+generous dashes peychaud's bitters
 generous lemon twist
 genever
 genmaicha stock
@@ -1941,8 +1941,8 @@ good-quality vanilla extract
 goodnight & good morning solids
 gosling's black seal rum
 goslings black seal rum
-gosling’s black seal rum
-gosling’s black seal rum, chilled thoroughly in freezer
+gosling's black seal rum
+gosling's black seal rum, chilled thoroughly in freezer
 gourry de chadeville overproof cognac
 grace rum cor cor green
 grace rum cor cor red white rum
@@ -2026,7 +2026,7 @@ greenhook ginsmiths beach plum gin liqueur
 greenhook ginsmiths old tom gin
 grenadine
 grenadine syrup
-grey goose l’orange vodka
+grey goose l'orange vodka
 grey goose vodka
 grilled apricot syrup
 grilled apricot-infused irish whiskey
@@ -2041,13 +2041,13 @@ grüner veltliner wine
 guajillo chile chocolate, for grating
 guar gum
 guava syrup
-guillaumette l’authentique génépi
+guillaumette l'authentique génépi
 guillon-painturaud cognac grande champagne vsop
 guillon-painturaud vsop cognac
 guinness stout
 gunpowder tea syrup (see recipe)
 génépi
-g’vine nouaison gin
+g'vine nouaison gin
 h by hine vsop cognac
 h&h rainwater madeira
 habanero tincture
@@ -2083,7 +2083,7 @@ cherry heering liqueur
 hefeweizen beer
 hella bitter citrus bitters
 hendrick's gin
-hendrick’s quinetum
+hendrick's quinetum
 hennessy black cognac
 henriques & henriques 5-year vino generoso doce madeira
 henriques & henriques rainwater madeira
@@ -2126,7 +2126,7 @@ honey nut cheerio-infused cream
 honey syrup
 honey syrup (1:1)
 honey syrup (2:1 honey to water)
-honey syrup (see editor’s note)
+honey syrup (see editor's note)
 honey syrup (see recipe)
 honeydew melon juice
 honeydew melon juice, extracted with juicer
@@ -2138,7 +2138,7 @@ hopped pineapple gum syrup
 hopped yuzu sherbet
 hoppy (or substitute any nonalcoholic beer), for topping
 horseradish tincture
-horse’s neck lemon twist, for garnish
+horse's neck lemon twist, for garnish
 hot apple cider
 hot bancha
 hot brewed coffee
@@ -2166,7 +2166,7 @@ house orange bitters
 house orange bitters (page 298)
 house orange bitters club soda
 house orgeat
-house peychaud’s bitters
+house peychaud's bitters
 house sweet vermouth
 house-made blueberry preserves or low-sugar blueberry preserves
 house-made falernum (see recipe)
@@ -2203,7 +2203,7 @@ j. rieger caffé amaro
 j. rieger kansas city whiskey
 j.t.s. brown bottled in bond bourbon
 j.t.s. brown kentucky bourbon
-jack daniel’s single barrel rye whiskey
+jack daniel's single barrel rye whiskey
 jacoulot crème de cassis de dijon
 jalapeño blanco tequila
 jalapeño slices
@@ -2224,14 +2224,14 @@ jasmine rice milk
 jean-luc pasquet coeur de grande champagne cognac
 jean-luc pasquet marie-framboise
 jean-luc pasquet pineau des charentes
-jeppson’s malört
-joey sunshine’s maple simple syrup
+jeppson's malört
+joey sunshine's maple simple syrup
 John D. Taylor's Velvet Falernum
 John D. Taylor's Velvet Falernum
 johnnie walker gold reserve
 joto junmai nigori sake
 joto yuzu sake
-journeyman road’s end white rum
+journeyman road's end white rum
 juice of 1 lime
 juicy lime wedges
 jungle bird base
@@ -2252,7 +2252,7 @@ kamoizumi 2-year red maple sake
 kamoizumi red maple sake (or substitute a medium-bodied sake)
 kamoizumi umeshu
 kappa pisco
-karlsson’s gold vodka
+karlsson's gold vodka
 kefir whey (made by straining kefir through a cheesecloth lined sieve)
 kefir whey (made by straining kefir through a cheesecloth-lined sieve)
 key lime cordial
@@ -2325,15 +2325,15 @@ lactic acid
 lactic acid solution
 laird's 100-proof straight apple brandy
 laird's bonded apple brandy
-laird’s 12-year apple brandy
-laird’s applejack
-laird’s bonded apple brandy
-laird’s bonded apple brandy scant
-laird’s bonded applejack
-laird’s jersey lightning apple brandy
-laird’s straight apple brandy
-laird’s straight apple brandy (see headnote)
-laird’s straight apple brandy, warmed to 50°c (120°f)
+laird's 12-year apple brandy
+laird's applejack
+laird's bonded apple brandy
+laird's bonded apple brandy scant
+laird's bonded applejack
+laird's jersey lightning apple brandy
+laird's straight apple brandy
+laird's straight apple brandy (see headnote)
+laird's straight apple brandy, warmed to 50°c (120°f)
 lambrusco
 lambrusco, chilled
 laphroaig 10 year old scotch
@@ -2558,7 +2558,7 @@ local whisky blend
 london dry gin
 london dry gin (preferably Bombay London Dry gin)
 London Dry gin
-Martin Miller’s London Dry gin gin
+Martin Miller's London Dry gin gin
 london dry Plymouth Gin or bombay sapphire
 long lemon twist
 long orange twist
@@ -2610,7 +2610,7 @@ lychee juice
 lychee nuts, peeled and pitted
 lychee syrup
 léonce vermouth
-l’orgeat almond liqueur
+l'orgeat almond liqueur
 macadamia nut orgeat
 macadamia orgeat
 macadamia powder
@@ -2626,7 +2626,7 @@ madras curry syrup
 madras curry-infused gin (page 291)
 maggi sauce
 mahon gin
-maker’s mark private select aviary barrel bourbon
+maker's mark private select aviary barrel bourbon
 makrut lime leaf
 mal bien espadin mezcal
 maldon sea salt
@@ -2665,9 +2665,9 @@ mars iwai 45 japanese whisky
 mars iwai 45 japanese whisky, chilled in the freezer (see note)
 marshmallow and earl grey tea smoke
 marshmallow syrup
-Martin Miller’s London Dry gin
-martin miller’s westbourne strength gin
-Martin Miller’s Westbourne Strength gin
+Martin Miller's London Dry gin
+martin miller's westbourne strength gin
+Martin Miller's Westbourne Strength gin
 martini & rossi ambrato vermouth
 martini & rossi bianco vermouth
 martini & rossi fiero
@@ -2711,7 +2711,7 @@ Matusalem Platinon rum
 maudite strong dark ale or similar ale
 maurin quina
 maurin quina apéritif
-mcconnell’s
+mcconnell's
 medium egg
 medium egg white
 medium lemon, thinly sliced and deseeded
@@ -2760,7 +2760,7 @@ milk syrup
 milk-washed rum
 milk-washed tequila
 milliliters gin, preferably monkey 47 schwarzwald dry gin
-milliliters monk’s tisane (see editor’s note)
+milliliters monk's tisane (see editor's note)
 milliliters yellow chartreuse
 mineral water
 mini (50 ml) bottle clear creek pear brandy, chilled
@@ -2817,9 +2817,9 @@ miracle mile yuzu bitters
 mirin
 miso-infused pierre ferrand 1840 cognac
 miso-infused tariquet classique vs armagnac
-mister katz’s rock & rye
+mister katz's rock & rye
 mists angostura bitters
-mitcher’s us*1 kentucky straight rye whiskey
+mitcher's us*1 kentucky straight rye whiskey
 mizkan honey apple shrub
 mizu green tea shōchū
 mizu green tea shōchū (see note)
@@ -2840,11 +2840,11 @@ monkey shoulder blended malt scotch
 monkey shoulder blended malt scotch whisky
 montelobos mezcal
 montelobos mezcal joven
-montreuil selection calvados du pays d’auge
+montreuil selection calvados du pays d'auge
 morenita cream sherry
 morro bay chardonnay
 moscatel sherry
-moscato d’asti
+moscato d'asti
 mount gay black barrel rum
 mount gay eclipse rum
 mount gay silver rum
@@ -2871,18 +2871,18 @@ navazos palazzi oloroso rum
 navazos palazzi overseas malt whiskey
 navel orange juice
 navel orange peel
-navy strength gin (preferably perry’s tot)
+navy strength gin (preferably perry's tot)
 navy strength gin, preferably genius navy
 nectarine juice
 nectarine vermouth
 negra modelo beer
 neige apple ice wine
 neisson blanc agricole rhum
-neisson l’esprit rhum agricole blanc
+neisson l'esprit rhum agricole blanc
 neisson rhum agricole blanc
 neversink apple apéritif
 neversink gin
-new york distilling company mister katz’s rock and rye
+new york distilling company mister katz's rock and rye
 new york distilling company ragtime rye
 nigori sake
 nigori sake (preferably momokawa)
@@ -2936,7 +2936,7 @@ ocho 2012 plata tequila
 ocho cientos blanco sotol
 ocho reposado tequila
 of cruzan black strap rum
-of regans’ orange bitters no. 6
+of regans' orange bitters no. 6
 old duff dutch genever
 old duff genever single malt
 old english gin
@@ -2977,11 +2977,11 @@ oolong upper chamber solids
 oolong-infused vodka
 ooz st. george botanivore gin
 or 3 dashes angostura bitters
-or 3 dashes peychaud’s bitters
+or 3 dashes peychaud's bitters
 or 3 dashes wormwood bitters
 or 3 springs fresh mint
 or 4 dashes of gum syrup
-or 4 dashes peychaud’s bitters
+or 4 dashes peychaud's bitters
 or 4 mint leaves
 or 4 mint sprigs
 or 4 sprays of sel gris solution
@@ -2993,7 +2993,7 @@ or 6 mint leaves
 orange and brandied cherry flag
 orange bitters
 orange bitters (optional)
-orange bitters, preferably equal parts fee brothers west indian orange bitters and regans’ orange bitters no. 6
+orange bitters, preferably equal parts fee brothers west indian orange bitters and regans' orange bitters no. 6
 orange blossom water
 orange coin
 orange cream syrup
@@ -3073,7 +3073,7 @@ organic virgin coconut oil
 orgeat
 orgeat syrup (see recipe)
 orgeat works macadamia nut syrup
-orgeat, preferably orgeat works t’orgeat toasted almond syrup
+orgeat, preferably orgeat works t'orgeat toasted almond syrup
 orleans borbon manzanilla sherry
 orleans borbón manzanilla fino sherry
 other half forever ever ipa (or another local citrusy ipa)
@@ -3152,7 +3152,7 @@ peated malt barley
 peated scotch whiskey
 peated whisky, preferably compass box the peat monster
 pecan-infused buffalo trace bourbon
-pechaud’s bitters
+pechaud's bitters
 pectinex ultra sp-l
 pedro ximénez sherry
 peekskill sour ale
@@ -3170,7 +3170,7 @@ perfect purée papaya purée
 perfect purée passion fruit purée
 pernod
 pernod absinthe
-pernod-dusted buddha’s hand cube
+pernod-dusted buddha's hand cube
 Perry's Tot Navy Strength gin
 Perry's Tot Navy Strength gin
 Perry's Tot Navy Strength gin
@@ -3181,11 +3181,11 @@ petite canne sugarcane syrup (or rich cane syrup)
 peychaud's bitters
 peychaud's bitters, plus more
 peychaud's pudding
-peychaud’s aromatic bitters
-peychaud’s bitters
-peychaud’s bitters or bitter truth creole bitters
-peychaud’s bitters, for garnish
-peychaud’s bitters, plus 7 drops for garnish
+peychaud's aromatic bitters
+peychaud's bitters
+peychaud's bitters or bitter truth creole bitters
+peychaud's bitters, for garnish
+peychaud's bitters, plus 7 drops for garnish
 phosphoric acid solution
 pickle brine
 pickled asparagus, cherry tomatoes, and lime wedge, for garnish
@@ -3282,14 +3282,14 @@ plantation o.f.t.d. overproof rum
 plantation original dark rum
 plantation original dark rum 73% overproof
 plantation pineapple rum
-plantation stiggins’ fancy pineapple rum
+plantation stiggins' fancy pineapple rum
 plastic monkey and/or banana slice, for garnish
 plum fan
 plum-marionberry shrub mix (see recipe)
 plymouth gin
 plymouth gin infused with saffron
-plymouth gin, scarlet ibis rum, bernheim wheat whiskey, rittenhouse 100 rye, laird’s bonded apple brandy, or hine h cognac
-plymouth gin, scarlet ibis rum, laird’s bonded apple brandy, or siembra azul blanco tequila
+plymouth gin, scarlet ibis rum, bernheim wheat whiskey, rittenhouse 100 rye, laird's bonded apple brandy, or hine h cognac
+plymouth gin, scarlet ibis rum, laird's bonded apple brandy, or siembra azul blanco tequila
 Plymouth Navy-Strength gin
 Plymouth Sloe gin or Sipsmith Sloe gin
 Plymouth gin
@@ -3308,7 +3308,7 @@ porthole cranberry solids
 porthole heart of stone solids
 powdered genmai (japanese toasted rice)
 powdered sugar, for garnish
-powers john’s lane single pot still
+powers john's lane single pot still
 powers three swallow single pot still
 prepared horseradish
 prepared hot chocolate
@@ -3387,10 +3387,10 @@ redbreast 12 single pot still
 redbreast 12-year irish whiskey
 redbreast lustau single pot still
 regans' orange bitters
-regans’ orange bitters
-regans’ orange bitters no. 6
-regan’s orange bitters
-regan’s orange bitters no. 6
+regans' orange bitters
+regans' orange bitters no. 6
+regan's orange bitters
+regan's orange bitters no. 6
 reisetbauer apple eau-de-vie
 reisetbauer blue gin
 Reisetbauer Carrot eau-de-vie
@@ -3400,7 +3400,7 @@ Reisetbauer Hazelnut eau-de-vie
 reisetbauer sloeberry gin
 reposado tequila
 El Tesoro Reposado tequila
-reserved gosling’s spheres
+reserved gosling's spheres
 rhine hall apple brandy
 rhine hall apple eau-de-vie
 rhine hall cherry brandy
@@ -3447,7 +3447,7 @@ ripe peach slices
 ripe strawberry
 rittenhouse 100 rye
 rittenhouse 100 rye whiskey
-rittenhouse 100 rye, laird’s bonded apple brandy, santa teresa 1796 rum, hine h cognac, or famous grouse scotch
+rittenhouse 100 rye, laird's bonded apple brandy, santa teresa 1796 rum, hine h cognac, or famous grouse scotch
 rittenhouse 100-proof rye
 rittenhouse bonded rye
 rittenhouse bottled in bond rye whiskey
@@ -3496,8 +3496,8 @@ rum fire rum
 rum water, chilled thoroughly in freezer
 russell's reserve 10-year bourbon
 russell's reserve rye
-russell’s reserve 10-year bourbon
-russell’s reserve rye
+russell's reserve 10-year bourbon
+russell's reserve rye
 rutte old simon genever
 rye
 rye (preferably old overholt)
@@ -3507,13 +3507,13 @@ rye or cognac
 rye whiskey
 rye whiskey (preferably 18-year-old sazerac)
 rye whiskey (preferably barrel proof)
-rye whiskey (preferably michter’s, rittenhouse, or high west rendezvous)
+rye whiskey (preferably michter's, rittenhouse, or high west rendezvous)
 rye whiskey (preferably old grand-dad bonded)
 rye whiskey (preferably rittenhouse)
 rye whiskey syrup
 Rittenhouse rye whiskey
 rye, preferably rittenhouse
-rye-dusted buddha’s hand cube
+rye-dusted buddha's hand cube
 rémy martin 1738 accord royal cognac
 s.p. lancaster bourbon - 1932
 sage and green tea syrup
@@ -3608,10 +3608,10 @@ scrappy's cardamom bitters
 scrappy's celery bitters
 scrappy's grapefruit bitters
 scrappy's lavender bitters
-scrappy’s cardamom bitters
-scrappy’s celery bitters
-scrappy’s lavender bitters
-scrappy’s lime bitters or homemade key lime bitters
+scrappy's cardamom bitters
+scrappy's celery bitters
+scrappy's lavender bitters
+scrappy's lime bitters or homemade key lime bitters
 scuppernong or muscadine jelly, jam, or preserves
 seasonal fruit
 seedless cucumber slice
@@ -3729,7 +3729,7 @@ smoked pomelo salt
 smoked salt
 smoked salt solution
 smoked-salt rim, lime wheel, and basil bouquet
-snake oil tobacco bitters or a.b. smeby bittering co. highland heather bitters or regans’ orange bitters no. 6
+snake oil tobacco bitters or a.b. smeby bittering co. highland heather bitters or regans' orange bitters no. 6
 soda water
 soda water, chilled
 soda water, to top
@@ -3792,7 +3792,7 @@ spray of cedar tincture
 sprays of après-ski tincture
 sprays of islay scotch and 1 piece of candied ginger on a skewer
 sprays of white pepper-infused vodka
-sprays peychaud’s bitters
+sprays peychaud's bitters
 sprays saline solution and a crunchy ume
 sprig of chocolate mint
 sprigs fresh mint
@@ -3913,7 +3913,7 @@ suze
 suze apéritif
 suze gentiane liqueur
 suze orange bitters
-suze saveur d’autrefois liqueur
+suze saveur d'autrefois liqueur
 svöl swedish style aquavit
 swaths of grapefruit peel
 swaths of orange peel
@@ -4004,7 +4004,7 @@ the bitter truth aromatic bitters
 the bitter truth celery bitters
 the bitter truth chocolate bitters
 the bitter truth creole bitters
-the bitter truth jerry thomas’ own decanter bitters
+the bitter truth jerry thomas' own decanter bitters
 Botanist gin
 the busker 'triple cask triple smooth'
 the busker single grain
@@ -4043,14 +4043,14 @@ to 4 ounces cold-brew sencha
 to 4 ounces dry sparkling wine
 to 4 ounces grapefruit soda
 to 4 ounces hot water
-to 5 drops peychaud’s bitters
+to 5 drops peychaud's bitters
 to 5 mint leaves
 to 6 dashes angostura bitters
 to 6 dashes angostura or other aromatic bitters
 to 6 mint leaves
-to 7 dashes peychaud’s bitters
+to 7 dashes peychaud's bitters
 to 8 mint leaves
-toasted almond orgeat, preferably orgeat works t’orgeat almond syrup
+toasted almond orgeat, preferably orgeat works t'orgeat almond syrup
 toasted almond-infused apricot liqueur
 toasted almonds
 toasted coconut chips
@@ -4064,8 +4064,8 @@ toasted macadamia nuts
 toasted oat cream and nutmeg
 toasted pecan-infused plantation rum
 toasted sesame tincture
-toby’s lime cordial
-toby’s sour cherry shrub
+toby's lime cordial
+toby's sour cherry shrub
 togarashi salt, for rimming the glass
 togarashi tincture
 tom and jerry batter (page 296)
@@ -4148,9 +4148,9 @@ vanilla syrup
 vanilla tincture
 vanilla vodka
 vanilla-flavored vodka
-varnelli amaro dell’erborista
+varnelli amaro dell'erborista
 varnelli amaro sibilla
-varnelli l’anice secco speciale liqueur
+varnelli l'anice secco speciale liqueur
 vecchio amaro del capo
 velvet falernum
 velvet falernum liqueur
@@ -4171,7 +4171,7 @@ vintage seltzer or q club soda (feel free to substitute your favorite fizzy wate
 vittone fernet menta
 vodka
 von humboldt's tamarind cordial
-w. & j. graham’s late bottled vintage port
+w. & j. graham's late bottled vintage port
 walnut angostura bitters
 walnut orgeat
 waqar pisco
@@ -4189,7 +4189,7 @@ watermelon slice, for garnish
 watermelon syrup
 watermelon syrup (page 288)
 watermelon-infused dolin dry vermouth
-weatherby’s orange saffron bitters
+weatherby's orange saffron bitters
 wedge white grapefruit
 weller special reserve bourbon
 west cork 12 rum cask
@@ -4220,7 +4220,7 @@ white peach ice chips
 white port
 white rum
 white rum (ideally bacardi superior)
-white rum (preferably owney’s)
+white rum (preferably owney's)
 white rum, preferably flor de caña or ron botran
 white sugar
 white sugar cube
@@ -4289,7 +4289,7 @@ yuzushu (joto or umenoyado brands are recommended)
 zacapa 23 rum
 zacapa 23-year rum
 zaya gran reserva rum
-za’atar tincture
+za'atar tincture
 zest from 2 meyer lemons
 zest of 1 lemon, cut into strips with a peeler or paring knife
 zest of 2 oranges

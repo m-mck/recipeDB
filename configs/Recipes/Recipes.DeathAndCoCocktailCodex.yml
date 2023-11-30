@@ -577,7 +577,7 @@ recipes:
     author: Alex Day
     year: 2012
     notes: Although it's aged for eight years, the apple brandy in this drink doesn't taste much like an aged spirit, so we also include pot-distilled Irish whiskey, with its vanilla and spice flavors, in the core. And because Irish whiskey has a nice affinity for honey, we use a honey syrup for the sweetener, which keeps the drink light and crisp, whereas Demerara Gum Syrup would probably be too cloying.
-    glassware: 
+    glassware: rocks
     ingredients: 
     - Vieux Pontarlier absinthe
     - 1½ ounces Clear Creek 8-year apple brandy 
@@ -892,7 +892,7 @@ recipes:
       - martini
       - freezer bar
   - name: Martini (Very Dry)
-    glassware: nick & noraa
+    glassware: nick & nora
     ingredients: 
     - 2½ ounces Plymouth gin
     - ¼ ounce Dolin dry vermouth
@@ -990,7 +990,7 @@ recipes:
   - name: Blood Orange
     author: Dylan Bruce
     year: 2016
-    notes: While gorgeous blood oranges are tempting to use in cocktails, the flavor of their juice is flabby and leaves something to be desired. However, blood orange zest is fragrant, with a bright, almost savory orange flavor; here it makes an appearance in an infused vermouth. The Cognac acts as a bridge in this Manhattan variation, linking the spiciness of the rye with the vermouth’s bitter notes.
+    notes: While gorgeous blood oranges are tempting to use in cocktails, the flavor of their juice is flabby and leaves something to be desired. However, blood orange zest is fragrant, with a bright, almost savory orange flavor; here it makes an appearance in an infused vermouth. The Cognac acts as a bridge in this Manhattan variation, linking the spiciness of the rye with the vermouth's bitter notes.
     glassware: coupe
     ingredients: 
     - 1 ounce Rittenhouse rye
@@ -1043,7 +1043,7 @@ recipes:
   - name: Beth's Going to Town
     author: Daniel Zacharczuk
     year: 2015
-    notes: "Here’s a complex, Martinez-style drink that uses a soft scotch and a rich, spicy contemporary 
+    notes: "Here's a complex, Martinez-style drink that uses a soft scotch and a rich, spicy contemporary 
       gin in place of the traditional Old Tom gin. This is a great example of the value of knowing 
       your ingredients: The unique sarsaparilla flavors of the Aviation gin marry well with the 
       cola notes found in both the sweet Spanish vermouth and the Ramazzotti amaro; substituting 
@@ -1502,7 +1502,7 @@ recipes:
       what we do, as we've found that this cocktail isn't nearly as delicious when we use just one 
       or the other. The pungency of the lime juice plays well with the gritty texture of the pisco, 
       and the relative neutrality of lemon juice prevents the lime from taking over."
-    glassware: 
+    glassware: coupe
     ingredients: 
     - 2 ounces Campo de Encanto Grand and Noble pisco 
     - ½ ounce fresh lemon juice
@@ -1601,7 +1601,7 @@ recipes:
       - daiquiri
   - name: Jack Rose
     notes: Grenadine, made from pomegranate juice and spiked with orange oil, has a flavor that's both juicy and tangy, a character that highlights the apple brandy in this classic cocktail. Lime juice provides a counterpoint to the grenadine's richness, cutting through the deep sweetness of the syrup.
-    glassware: daiquiri
+    glassware: coupe
     ingredients: 
     - 1½ ounces Laird's 100-proof straight apple brandy
     - ½ ounce Clear Creek 2-year apple brandy
@@ -1616,7 +1616,7 @@ recipes:
       - shaken
       - citrus
       - classic
-  - name: Bee’s Knees
+  - name: Bee's Knees
     notes: The Boukman Daiquiri highlights an interesting way to play with the sour template - by substituting a flavorful syrup for the simple syrup. A good rule of thumb for matching flavorful syrups with citrus is that lemon juice has a soft acidity that doesn't distract from honey, whereas lime juice brings an astringency that can cut through a dense syrup or heighten the flavors in a syrup. If honey were paired with lime juice in this classic cocktail, its flavor would disappear into the background.
     glassware: coupe
     ingredients: 
@@ -1776,7 +1776,7 @@ recipes:
   - name: High Five
     author: Alex Day
     year: 2010
-    notes: Riffing on the Hemingway Daiquiri is a great way to create new cocktails that are both exciting and refreshing. In the High Five, we use a very similar formula but substitute gin as the core. We also use Aperol to amplify the bitterness of the grapefruit, and because Aperol isn’t as sweet as the maraschino liqueur in the Hemingway Daiquiri, we add in a bit more simple syrup.
+    notes: Riffing on the Hemingway Daiquiri is a great way to create new cocktails that are both exciting and refreshing. In the High Five, we use a very similar formula but substitute gin as the core. We also use Aperol to amplify the bitterness of the grapefruit, and because Aperol isn't as sweet as the maraschino liqueur in the Hemingway Daiquiri, we add in a bit more simple syrup.
     glassware: coupe
     ingredients: 
     - 1½ ounces Beefeater London Dry gin
@@ -3089,7 +3089,7 @@ recipes:
   - name: Normandie Club Spritz #1
     author: Devon Tarby & Alex Day
     year: 2015
-    notes: With fully clarified juices, it’s easy to think this cocktail is just a simple spritz, but it’s packed with bright, tart flavorz and fantastically complex piney notes, thanks to the Clear Creek Douglas Fir eau de vie.
+    notes: With fully clarified juices, it's easy to think this cocktail is just a simple spritz, but it's packed with bright, tart flavorz and fantastically complex piney notes, thanks to the Clear Creek Douglas Fir eau de vie.
     glassware: white wine glass
     ingredients: 
     - 1½ ounces Dolin Blanc Vermouth
@@ -3114,7 +3114,7 @@ recipes:
   - name: Daisy Chain
     author: Devon Tarby
     year: 2015
-    notes: "The Daisy Chain takes an approach similar to the Normandie Club Spritz #3 to produce a cocktail that mimics the flavors of a glass of sparkling wine. The combination of bone-dry, salty manzanilla sherry, sweet and floral St-Germain, and juicy verjus could almost trick you into thinking you’re drinking a dry Muscat. Bitter Suze is added to curb the candy notes and the St-Germain and add an aperitif quality, while the sparkling cider brings body and funk—qualities not found in seltzer or sparkling wine."
+    notes: "The Daisy Chain takes an approach similar to the Normandie Club Spritz #3 to produce a cocktail that mimics the flavors of a glass of sparkling wine. The combination of bone-dry, salty manzanilla sherry, sweet and floral St-Germain, and juicy verjus could almost trick you into thinking you're drinking a dry Muscat. Bitter Suze is added to curb the candy notes and the St-Germain and add an aperitif quality, while the sparkling cider brings body and funk—qualities not found in seltzer or sparkling wine."
     glassware: wine glass
     ingredients: 
     - 1½ ounces manzanilla sherry
@@ -3197,7 +3197,7 @@ recipes:
       - classic
       - sparkling
       - spritz
-  - name: King’s Landing
+  - name: King's Landing
     author: Alex Day
     year: 2013
     notes: In terms of its ingredients, the King's Landing may seem like a fairly typical sour-style cocktail, if a little lean in the sour department. But if you take a close look at the amounts called for, you'll see that cava and our birch infused vermouth make up most of the volume of the cocktail, with relatively small amounts of lemon juice and pear liqueur being added for balance, keeping this cocktail firmly in Highball territory.

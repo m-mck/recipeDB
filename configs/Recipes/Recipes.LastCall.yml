@@ -112,7 +112,7 @@ recipes:
     - stirred
     - martini
   - name: Recoil
-    author: Dylan O’Brien & Jon Santer
+    author: Dylan O'Brien & Jon Santer
     glassware: mason jar
     ingredients:
     - 2 ounces bourbon (preferably Bulleit)
@@ -183,7 +183,7 @@ recipes:
     - ½ ounce absinthe or Herbsaint (for rinsing, or do as Best does and just leave it in there)
     - 2 ounces rye whiskey (preferably barrel proof)
     - ¼ ounce simple syrup (1:1 sugar:water)
-    - 2 dashes Peychaud’s Bitters
+    - 2 dashes Peychaud's Bitters
     - 2 dashes Angostura bitters
     - "Garnish: lemon twist"
     steps: 
@@ -198,12 +198,12 @@ recipes:
     - classic
   - name: Death Row Sazerac
     author: Greg Best
-    glassware: pint
+    glassware: pint glass
     ingredients:
     - 1 ounce absinthe or Herbsaint (for rinsing, or do as Best does and just leave it in there)
     - 4½ ounces rye whiskey (preferably barrel proof)
     - 1 ounce simple syrup (1:1 sugar:water)
-    - 5 dashes Peychaud’s Bitters
+    - 5 dashes Peychaud's Bitters
     - 5 dashes Angostura bitters
     - "Garnish: lemon twist"
     steps: 
@@ -217,7 +217,7 @@ recipes:
     - sazerac
   - name: Grasshopper
     author: Jeffrey Morgenthaler
-    glassware: pint
+    glassware: pint glass
     ingredients:
     - 1½ ounces green crème de menthe
     - 1½ ounces white crème de cacao
@@ -340,7 +340,7 @@ recipes:
     ingredients:
     - 1 quarter-size lime disk, make sure it includes a small amount of flesh
     - 1 barspoon Martinique cane syrup
-    - 2 ounces Neisson L’Esprit rhum agricole blanc
+    - 2 ounces Neisson L'Esprit rhum agricole blanc
     steps: 
     - Squeeze the lime disk over an old-fashioned glass and drop it into the glass. 
     - Add the cane syrup and, using a barspoon, press against the lime disk to release its oils and integrate them with the syrup. 
@@ -387,7 +387,7 @@ recipes:
     - Splash of absinthe (for rinsing)
     - 2 ounces high-proof rye whiskey (preferably Wild Turkey 101)
     - 1 barspoon rich simple syrup (2:1 sugar:water)
-    - 2 or 3 dashes Peychaud’s Bitters
+    - 2 or 3 dashes Peychaud's Bitters
     - "Garnish: lemon twist"
     steps: 
     - Add the absinthe to a chilled old-fashioned glass. 
@@ -487,7 +487,7 @@ recipes:
     ingredients:
     - 3 ounces Citadelle gin
     - 1 ounce Dolin Dry Vermouth
-    - 2 dashes Regans’ Orange Bitters No. 6
+    - 2 dashes Regans' Orange Bitters No. 6
     - "Garnish: lemon twist, 3 Castelvetrano olives"
     steps: 
     - Combine the gin, vermouth, and bitters in a mixing glass filled with ice. 
@@ -564,7 +564,7 @@ recipes:
     steps: 
     - Combine the tequila, lime juice, and simple syrup in a cocktail shaker filled with ice. 
     - Shake until chilled and strain into a chilled old-fashioned glass filled with ice. 
-    - Garnish with the lime wheel, or if you’re Ariel, garnish with whatever citrus you have on hand.
+    - Garnish with the lime wheel, or if you're Ariel, garnish with whatever citrus you have on hand.
     tags:
     - shaken
     - citrus
@@ -607,7 +607,7 @@ recipes:
     - 2 large lemon wheels
     - 2 ounces Lustau amontillado sherry
     - ½ ounce Lustau PX sherry
-    - ½ ounce Plantation Stiggins’ Fancy Pineapple Rum
+    - ½ ounce Plantation Stiggins' Fancy Pineapple Rum
     - Pinch of salt
     - "Garnish: lemon wheel, orange wheel, fresh mint sprig, Angostura bitters"
     steps: 
@@ -623,7 +623,7 @@ recipes:
     author: Miles Macquarrie
     glassware: coupe
     ingredients:
-    - 2 ounces rye whiskey (preferably Michter’s, Rittenhouse, or High West Rendezvous)
+    - 2 ounces rye whiskey (preferably Michter's, Rittenhouse, or High West Rendezvous)
     - ¾ ounce Dolin Dry Vermouth
     - ¼ ounce Amer Picon (or Bigallet China-China Amer)
     - ¼ ounce Luxardo Maraschino Liqueur
@@ -687,7 +687,7 @@ recipes:
     - Combine the bitters, grenadine, maraschino liqueur, Cocchi Americano, Averna, and rum over a large ice cube in a double old-fashioned glass. 
     - Stir gently to incorporate the ingredients. 
     - Garnish with the lemon twist and the edible flower.
-    - At Canlis, MacWilliams keeps the Averna and Cocchi Americano chilled in a refrigerator. He builds the drink over a single cube rather than chilling the glass in order to maintain the potency of flavors. In addition, even if the Canlis guest doesn’t notice, he’s drawn to the visual appeal of the liquids of varying colors and viscosity cascading over the sides of the large ice cube.
+    - At Canlis, MacWilliams keeps the Averna and Cocchi Americano chilled in a refrigerator. He builds the drink over a single cube rather than chilling the glass in order to maintain the potency of flavors. In addition, even if the Canlis guest doesn't notice, he's drawn to the visual appeal of the liquids of varying colors and viscosity cascading over the sides of the large ice cube.
     tags:
     - stirred
   - name: Brandy Old-Fashioned
@@ -729,7 +729,7 @@ recipes:
     - ¾ ounce Cognac
     - ¾ ounce sweet vermouth
     - ¼ ounce Bénédictine
-    - 3 dashes Peychaud’s Bitters
+    - 3 dashes Peychaud's Bitters
     - 3 dashes Angostura bitters
     - "Garnish: lemon twist"
     steps: 

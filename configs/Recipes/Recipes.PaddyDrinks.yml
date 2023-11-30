@@ -4,7 +4,7 @@ recipes:
 #Classic Irish Whiskey Cocktails
   - name: Irish Coffee
     author: Dale DeGroff & Jillian Vose
-    notes: This is one of the most iconic, beloved, and misunderstood cocktails of all. We spent years perfecting the method and finessing every variation of this simple four-ingredient recipe. It’s become our signature drink, enjoyed and lovingly recalled by visitors from around the world.
+    notes: This is one of the most iconic, beloved, and misunderstood cocktails of all. We spent years perfecting the method and finessing every variation of this simple four-ingredient recipe. It's become our signature drink, enjoyed and lovingly recalled by visitors from around the world.
     glassware: irish coffee mug
     ingredients:
     - 1 ounce Bushmills The Original
@@ -15,7 +15,7 @@ recipes:
     steps:
     - Add the whiskey, demerara syrup, and hot coffee to an Irish coffee glass. 
     - Stir to ensure the syrup is evenly distributed. 
-    - Leave a finger’s worth of room for whipped cream. 
+    - Leave a finger's worth of room for whipped cream. 
     - Top with freshly whipped cream and garnish with freshly grated nutmeg, if you wish.
     tags:
       - the dead rabbit
@@ -26,7 +26,7 @@ recipes:
       - stirred
   - name: Tipperary
     author: Jack McGarry & Jillian Vose
-    notes: This cocktail’s first appearance in print was in 1917 in Recipes for Mixed Drinks by Hugo R. Ensslin. It was said to be named after a guest walked in asking for a drink while humming “It’s a Long Way to Tipperary,” an anthem for homesick Irish soldiers during World War I. Other credit is given to Harry Craddock, who included it in his 1930 classic The Savoy Cocktail Book.
+    notes: This cocktail's first appearance in print was in 1917 in Recipes for Mixed Drinks by Hugo R. Ensslin. It was said to be named after a guest walked in asking for a drink while humming “It's a Long Way to Tipperary,” an anthem for homesick Irish soldiers during World War I. Other credit is given to Harry Craddock, who included it in his 1930 classic The Savoy Cocktail Book.
     glassware: nick & nora
     ingredients:
     - 3 dashes Angostura bitters
@@ -47,7 +47,7 @@ recipes:
       - manhattan
   - name: Cameron's Kick
     author: Jack McGarry & Greg Buda
-    notes: Nobody knows for sure who created this drink—and even fewer know who Cameron was—but what is certain is that it’s an exceptional concoction. The original was just a mix of equal parts Scotch and Irish whiskeys, plus lemon and orgeat, to which we’ve added oloroso sherry and bitters for extra depth and balance.
+    notes: Nobody knows for sure who created this drink—and even fewer know who Cameron was—but what is certain is that it's an exceptional concoction. The original was just a mix of equal parts Scotch and Irish whiskeys, plus lemon and orgeat, to which we've added oloroso sherry and bitters for extra depth and balance.
     glassware: coupette
     ingredients:
     - 3 dashes Angostura bitters
@@ -68,7 +68,7 @@ recipes:
       - citrus
   - name: Emerald
     author: Jack McGarry & Jillian Vose
-    notes: It’s been argued—with some vigor—that the Emerald is an Irish version of the classic Manhattan, the rye replaced with Irish whiskey. And like the original Manhattan, it even contains a hint of orange commingled with the fruit of Erin’s green isle. Well, we are very adaptable people.
+    notes: It's been argued—with some vigor—that the Emerald is an Irish version of the classic Manhattan, the rye replaced with Irish whiskey. And like the original Manhattan, it even contains a hint of orange commingled with the fruit of Erin's green isle. Well, we are very adaptable people.
     glassware: nick & nora
     ingredients:
     - 2 dashes Angostura bitters
@@ -87,13 +87,13 @@ recipes:
       - manhattan
   - name: Bankers Punch
     author: Jack McGarry
-    notes: Jack rescued and developed this drink from a couple of almost-forgotten nineteenth-century cocktails, the Irish Planter’s Punch and the Knickerbocker. The Redbreast supplies spiciness and complexity and the overproof blend of rums brings heat and depth, while the port and fruit elements provide wonderful softness and sweetness.
+    notes: Jack rescued and developed this drink from a couple of almost-forgotten nineteenth-century cocktails, the Irish Planter's Punch and the Knickerbocker. The Redbreast supplies spiciness and complexity and the overproof blend of rums brings heat and depth, while the port and fruit elements provide wonderful softness and sweetness.
     glassware: punch glass
     ingredients:
     - 3 dashes Angostura bitters
     - ¾ ounce fresh lime juice
     - ¾ ounce raspberry syrup
-    - ¾ ounce W. & J. Graham’s late bottled vintage port
+    - ¾ ounce W. & J. Graham's late bottled vintage port
     - ¼ ounce Smith & Cross Jamaican rum
     - ¼ ounce Banks 7 Golden Age Rum
     - ¼ ounce Cruzan blackstrap rum
@@ -109,7 +109,7 @@ recipes:
       - citrus
   - name: Wild Irish Rose
     author: Jack McGarry & Jillian Vose
-    notes: "If you look at the original recipe for this drink and compare it with our version, you’ll see some differences. But the bones are still there: citrus, grenadine, whiskey. Jack then accentuated the tart and fruity sour with layers of hibiscus, absinthe, floral vermouth, and peated Irish whiskey. It’s an all-time favorite at the bar."
+    notes: "If you look at the original recipe for this drink and compare it with our version, you'll see some differences. But the bones are still there: citrus, grenadine, whiskey. Jack then accentuated the tart and fruity sour with layers of hibiscus, absinthe, floral vermouth, and peated Irish whiskey. It's an all-time favorite at the bar."
     glassware: punch glass
     ingredients:
     - 1 egg white
@@ -118,7 +118,7 @@ recipes:
     - ¾ ounce fresh lemon juice
     - ¾ ounce grenadine
     - ½ ounce Cocchi Americano Rosa
-    - 1 ounce Laird’s applejack
+    - 1 ounce Laird's applejack
     - 1 ounce Connemara peated single malt
     - "Garnish: lemon peel, for squeezing"
     steps:
@@ -144,7 +144,7 @@ recipes:
     - ¼ ounce palo cortado sherry
     - ¼ ounce Giffard rhubarb liqueur
     - ¾ ounce Martini & Rossi Riserva Speciale Rubino vermouth
-    - 1½ ounces Egan’s Fortitude
+    - 1½ ounces Egan's Fortitude
     - "Garnish: lemon peel, for squeezing"
     steps:
     - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
@@ -179,7 +179,7 @@ recipes:
       - citrus
   - name: Rollerball
     author: Long Thai
-    notes: This whiskey is great for mixing because its proof is on the higher side, at 43.6% ABV, and since it’s been finished in Bordeaux barrels, there are strong berry and rhubarb notes and a lot of orchard fruit coming from the distillate itself. The flavor pairings are thoughtful and elegantly complement the nose of the whiskey.
+    notes: This whiskey is great for mixing because its proof is on the higher side, at 43.6% ABV, and since it's been finished in Bordeaux barrels, there are strong berry and rhubarb notes and a lot of orchard fruit coming from the distillate itself. The flavor pairings are thoughtful and elegantly complement the nose of the whiskey.
     glassware: sour glass
     ingredients:
     - 3 dashes Dale DeGroff's pimento bitters
@@ -201,7 +201,7 @@ recipes:
       - citrus
   - name: Trailblazer
     author: Jillian Vose
-    notes: I had the pleasure of working with The Busker on their launch campaign in 2021. It was exciting to see a new line of whiskey that makes all four styles in one house, as it’s quite rare. The single grain really stuck out to me as the category has only a few choices and I just couldn’t wait to make a drink with it. The accent flavors here, cinnamon and passion fruit, are pairings to the aromas I picked out of the whiskey itself, making a beautiful, elegant, light, and refreshing stirred whiskey cocktail (if I say so myself). It’s a balance of many of the things I love in a light stirred drink—approachable, bright, yet boozy and great for any time of the year. I’m definitely proud of this one.
+    notes: I had the pleasure of working with The Busker on their launch campaign in 2021. It was exciting to see a new line of whiskey that makes all four styles in one house, as it's quite rare. The single grain really stuck out to me as the category has only a few choices and I just couldn't wait to make a drink with it. The accent flavors here, cinnamon and passion fruit, are pairings to the aromas I picked out of the whiskey itself, making a beautiful, elegant, light, and refreshing stirred whiskey cocktail (if I say so myself). It's a balance of many of the things I love in a light stirred drink—approachable, bright, yet boozy and great for any time of the year. I'm definitely proud of this one.
     glassware: coupe
     ingredients:
     - 1 dash mace tincture
@@ -226,7 +226,7 @@ recipes:
     glassware: sour glass
     ingredients:
     - 1 dash house orange bitters
-    - 4 dashes za’atar tincture
+    - 4 dashes za'atar tincture
     - 1 teaspoon Strega
     - ¾ ounce fresh lemon juice
     - ¾ ounce sumac syrup
@@ -268,7 +268,7 @@ recipes:
       - citrus
   - name: Transformer
     author: Jesse Vida
-    notes: Teeling single grain is aged exclusively in ex-bourbon barrels and comes with a high ABV of 46%. It’s quite cereal grain-forward, with notes of hay, vanilla, caramel, and baking spices within its rich texture. Here it played really nicely with the lighter fortified modifiers, complemented by the apple brandy. The contrast with the Hopped Grapefruit Bitters adds still more layers.
+    notes: Teeling single grain is aged exclusively in ex-bourbon barrels and comes with a high ABV of 46%. It's quite cereal grain-forward, with notes of hay, vanilla, caramel, and baking spices within its rich texture. Here it played really nicely with the lighter fortified modifiers, complemented by the apple brandy. The contrast with the Hopped Grapefruit Bitters adds still more layers.
     glassware: nick & nora
     ingredients:
     - 1 dash Bittermens Hopped Grapefruit Bitters
@@ -288,11 +288,11 @@ recipes:
       - stirred
   - name: Bare-Faced Liar
     author: Jillian Vose
-    notes: This came about by experimenting with Connacht’s Ballyhoo single grain. Its higher proof and nuances of rosebud and vanilla paired well with the beet and raspberry sweeteners. The nutty and earth tones worked glamorously with the toasted fennel salt garnish. The dubonnet lengthens the drink without over-proofing it or making the drink muddy.
+    notes: This came about by experimenting with Connacht's Ballyhoo single grain. Its higher proof and nuances of rosebud and vanilla paired well with the beet and raspberry sweeteners. The nutty and earth tones worked glamorously with the toasted fennel salt garnish. The dubonnet lengthens the drink without over-proofing it or making the drink muddy.
     glassware: sour glass
     ingredients:
     - Toasted fennel salt
-    - 2 dashes The Bitter Truth Jerry Thomas’ Own Decanter bitters
+    - 2 dashes The Bitter Truth Jerry Thomas' Own Decanter bitters
     - ¾ ounce fresh lemon juice
     - ¼ ounce beet syrup
     - ½ ounce raspberry syrup
@@ -310,7 +310,7 @@ recipes:
       - citrus
   - name: God Is a DJ
     author: Jillian Vose
-    notes: This was a shaken interpretation of another drink, the Gold Digger. When turning a stirred drink concept into a shaken one, you have to consider the addition of sugar to balance out the citrus. If you compare the two, you’ll see that the stirred Gold Digger has a lengthener of Cocchi Americano, whereas here the Cocchi is replaced with more substantial ingredients including banana and maple syrups.
+    notes: This was a shaken interpretation of another drink, the Gold Digger. When turning a stirred drink concept into a shaken one, you have to consider the addition of sugar to balance out the citrus. If you compare the two, you'll see that the stirred Gold Digger has a lengthener of Cocchi Americano, whereas here the Cocchi is replaced with more substantial ingredients including banana and maple syrups.
     glassware: sour glass
     ingredients:
     - 2 dashes Dale DeGroff Pimento bitters
@@ -358,7 +358,7 @@ recipes:
     notes: This lighter-styled Manhattan variation showcases the apple and pear notes in the elegant and fruity Knappogue single malt, complemented by the herbaceous accents of chamomile, génépy, Cocchi, and bitters.
     glassware: nick & nora
     ingredients:
-    - 2 dashes Peychaud’s bitters
+    - 2 dashes Peychaud's bitters
     - 2 dashes Bittermens Boston Bittahs
     - ¼ ounce Dolin Génépy le Chamois
     - ½ ounce Pür Likör Williams pear liqueur
@@ -399,7 +399,7 @@ recipes:
       - stirred
   - name: Stronghold
     author: Jesse Vida
-    notes: Here Jesse took a simple sour template, combined a beautiful base of complementary sweet and sour modifiers, and used a diverse single malt aged in sherry casks which was finished in charred Irish oak. The whiskey’s peated element is sensational against the pistachio and Asian pear.
+    notes: Here Jesse took a simple sour template, combined a beautiful base of complementary sweet and sour modifiers, and used a diverse single malt aged in sherry casks which was finished in charred Irish oak. The whiskey's peated element is sensational against the pistachio and Asian pear.
     glassware: punch glass
     ingredients:
     - 1 dash Angostura bitters
@@ -421,7 +421,7 @@ recipes:
       - citrus
   - name: Watch Tower
     author: Jillian Vose
-    notes: Bertoux is a blended grape brandy created expressly for cocktails. It’s bright and fresh and very aromatic, so it’s ideal for splitting with other spirits. Here it pairs wonderfully with the peach, caramel, and orange notes of the Madeira cask finish influence in this single malt Irish whiskey expression. The addition of yogurt tones down the brightness and adds a little tanginess.
+    notes: Bertoux is a blended grape brandy created expressly for cocktails. It's bright and fresh and very aromatic, so it's ideal for splitting with other spirits. Here it pairs wonderfully with the peach, caramel, and orange notes of the Madeira cask finish influence in this single malt Irish whiskey expression. The addition of yogurt tones down the brightness and adds a little tanginess.
     glassware: punch glass
     ingredients:
     - 1 barspoon Greek yogurt
@@ -447,7 +447,7 @@ recipes:
       - citrus
   - name: Love Shack
     author: Greg Buda
-    notes: Greg based this fizz cocktail around the flavor set of sunflower, coriander, orange, and smoke. The whiskey has sweet grape and honey notes that pair perfectly with the nuttiness and spice components. With the Teeling’s ABV being 46%, Greg chose a lengthener of soda water, which allows the whiskey to retain its characteristics against the other elements.
+    notes: Greg based this fizz cocktail around the flavor set of sunflower, coriander, orange, and smoke. The whiskey has sweet grape and honey notes that pair perfectly with the nuttiness and spice components. With the Teeling's ABV being 46%, Greg chose a lengthener of soda water, which allows the whiskey to retain its characteristics against the other elements.
     glassware: fizz
     ingredients:
     - 1 egg white
@@ -496,16 +496,16 @@ recipes:
       - stirred
   - name: Swear Blind
     author: Long Thai
-    notes: Two things inspired Long in the creation of this cocktail. The first was discovering the intense flavors in the white whiskey. The second, was a meal—a breakfast dish in this case that included maple syrup, oats, and banana. As he developed this drink he split the base, Egan’s Fortitude single malt, which brought out its dried fruit component due to the Pedro Ximenez casks, complementing the other ingredients that evoke Long’s wondrous breakfast of legend.
+    notes: Two things inspired Long in the creation of this cocktail. The first was discovering the intense flavors in the white whiskey. The second, was a meal—a breakfast dish in this case that included maple syrup, oats, and banana. As he developed this drink he split the base, Egan's Fortitude single malt, which brought out its dried fruit component due to the Pedro Ximenez casks, complementing the other ingredients that evoke Long's wondrous breakfast of legend.
     glassware: toddy mug
     ingredients:
     - 1 egg white
     - 1 dash Angostura bitters
     - ½ ounce maple syrup (grade B)
     - ¾ ounce Giffard crème de banane
-    - 1 ounce W. & J. Graham’s late bottled vintage port
+    - 1 ounce W. & J. Graham's late bottled vintage port
     - ¾ ounce High West Silver Whiskey Western Oat
-    - 1 ounce Egan’s Fortitude single malt
+    - 1 ounce Egan's Fortitude single malt
     - "Garnish: nutmeg, for grating"
     steps:
     - Add the ingredients (including the egg) to a shaker tin in the order indicated and shake with ice. 
@@ -518,7 +518,7 @@ recipes:
       - shaken
   - name: Broadway Junction
     author: Jillian Vose
-    notes: This drink is like a Boulevardier meets a Japanese cocktail with a twist. The Sexton was chosen because it has enough of a backbone to stand up to Campari and rich almond liqueur. It’s also exclusively aged in oloroso barrels, giving the drink a strong dried fruit and berry component.
+    notes: This drink is like a Boulevardier meets a Japanese cocktail with a twist. The Sexton was chosen because it has enough of a backbone to stand up to Campari and rich almond liqueur. It's also exclusively aged in oloroso barrels, giving the drink a strong dried fruit and berry component.
     glassware: rocks
     ingredients:
     - 1 dash The Bitter Truth Creole bitters
@@ -561,7 +561,7 @@ recipes:
       - stirred
   - name: Thunderbolt
     author: Jack McGarry
-    notes: Powers John’s Lane is one of the richest, most robust whiskeys to use as a cocktail base. It’s particularly suitable for stirred drinks, especially those with other rich or bitter components like this one. Pimento (or allspice) is a very potent ingredient, so make sure you’re using a very small amount to start and match it to a whiskey that has substantial proof and boldness.
+    notes: Powers John's Lane is one of the richest, most robust whiskeys to use as a cocktail base. It's particularly suitable for stirred drinks, especially those with other rich or bitter components like this one. Pimento (or allspice) is a very potent ingredient, so make sure you're using a very small amount to start and match it to a whiskey that has substantial proof and boldness.
     glassware: rocks
     ingredients:
     - 2 dashes Angostura bitters
@@ -569,7 +569,7 @@ recipes:
     - ¼ ounce St. Elizabeth allspice dram
     - ½ ounce Domaine de Canton ginger liqueur
     - ½ ounce Giffard crème de banane
-    - 1½ ounces Powers John’s Lane single pot still
+    - 1½ ounces Powers John's Lane single pot still
     - "Garnish: orange peel, for squeezing"
     steps:
     - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
@@ -606,7 +606,7 @@ recipes:
       - sparkling
   - name: Mean Fiddler
     author: Jillian Vose
-    notes: This is one of Jack’s favorites—a take on a Tipperary but upgraded with accents of cinnamon, aromatic bitters, chocolaty vermouth, and peat. I changed out the bases to keep the classic template intact by using Irish whiskey, but wanted a touch of peat for complexity from the peated Scotch. This medium-style pot still stands up to the bold flavors of the modifiers while giving a beautiful creaminess to the drink with this delicate pot still Irish whiskey that also gives a pop of bright fruit.
+    notes: This is one of Jack's favorites—a take on a Tipperary but upgraded with accents of cinnamon, aromatic bitters, chocolaty vermouth, and peat. I changed out the bases to keep the classic template intact by using Irish whiskey, but wanted a touch of peat for complexity from the peated Scotch. This medium-style pot still stands up to the bold flavors of the modifiers while giving a beautiful creaminess to the drink with this delicate pot still Irish whiskey that also gives a pop of bright fruit.
     glassware: nick & nora
     ingredients:
     - 1 dash aromatic bitters
@@ -666,10 +666,10 @@ recipes:
       - stirred
   - name: Dark Horse
     author: Gregory Buda
-    notes: This cocktail, a delicate low-proof sour with amontillado sherry as the base, follows the current trend toward low-ABV cocktails. I’ve always loved the combination of banana and amontillado, and the Green Spot provides just enough punch and body to balance the drink, with nutmeg and allspice added for complexity.
+    notes: This cocktail, a delicate low-proof sour with amontillado sherry as the base, follows the current trend toward low-ABV cocktails. I've always loved the combination of banana and amontillado, and the Green Spot provides just enough punch and body to balance the drink, with nutmeg and allspice added for complexity.
     glassware: sour glass
     ingredients:
-    - 1 dash Dale DeGroff’s pimento bitters
+    - 1 dash Dale DeGroff's pimento bitters
     - ¾ ounce fresh lemon juice
     - ¼ ounce nutmeg syrup
     - ½ ounce banana syrup
@@ -690,7 +690,7 @@ recipes:
       - citrus
   - name: Magic Spell
     author: Long Thai
-    notes: I’m not a big fan of kümmel, but here the contrast it provides with the other flavors is a thing of beauty. Although the rum cask–finished Tullamore D.E.W. had the right flavors, the drink needed a bit more body, so Long split the base with Green Spot, which works perfectly and doesn’t outshine the qualities of the Tully Caribbean.
+    notes: I'm not a big fan of kümmel, but here the contrast it provides with the other flavors is a thing of beauty. Although the rum cask–finished Tullamore D.E.W. had the right flavors, the drink needed a bit more body, so Long split the base with Green Spot, which works perfectly and doesn't outshine the qualities of the Tully Caribbean.
     glassware: nick & nora
     ingredients:
     - 3 dashes Combier kümmel
@@ -711,7 +711,7 @@ recipes:
       - stirred
   - name: Flash Point
     author: Long Thai
-    notes: Long is our in-house beer aficionado, and he’ll create drinks around the specific flavor and aroma elements of a beer. Here he took the idea of a fruit schnapps-based shandy or radler and created a cocktail with a kick that pairs raspberry to the sour ale.
+    notes: Long is our in-house beer aficionado, and he'll create drinks around the specific flavor and aroma elements of a beer. Here he took the idea of a fruit schnapps-based shandy or radler and created a cocktail with a kick that pairs raspberry to the sour ale.
     glassware: tulip
     ingredients:
     - ¾ ounce fresh lemon juice
@@ -736,7 +736,7 @@ recipes:
       - citrus
   - name: Sound as a Bell
     author: Samantha Casuga & Jillian Vose
-    notes: The first iteration of this drink was as a sour-style cocktail. I really liked the corn silk tea’s effect on the whiskey, making it velvety and round. To not lose the texture of the infused whiskey, I kept the initial flavor pairings but made it a Sazerac serve, which is better when not ice cold.
+    notes: The first iteration of this drink was as a sour-style cocktail. I really liked the corn silk tea's effect on the whiskey, making it velvety and round. To not lose the texture of the infused whiskey, I kept the initial flavor pairings but made it a Sazerac serve, which is better when not ice cold.
     glassware: rocks
     ingredients:
     - 2 dashes Bittercube blackstrap bitters
@@ -767,7 +767,7 @@ recipes:
     - ½ ounce Noilly Prat dry vermouth
     - ½ ounce Carpano Antica Formula sweet vermouth
     - ¾ ounce Siembra Azúl reposado tequila
-    - 1 ounce Powers John’s Lane single pot still
+    - 1 ounce Powers John's Lane single pot still
     - "Garnish: orange peel, for squeezing"
     steps:
     - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
@@ -811,7 +811,7 @@ recipes:
     ingredients:
     - 1 dash house orange bitters
     - 1 dash house cardamom bitters
-    - ½ teaspoon Combier L’original
+    - ½ teaspoon Combier L'original
     - 1 teaspoon Yellow Chartreuse
     - ¼ ounce dried apricot syrup
     - ¼ ounce Cocchi Americano
@@ -850,7 +850,7 @@ recipes:
       - stirred
   - name: Leading Light
     author: Ian Alexander
-    notes: Ian once had a white-chocolate-covered shiso leaf at a restaurant, and decided to try to use that combination of flavors in a drink. He added a further raspberry element and created this Old Fashioned-style cocktail that’s rich but bright.
+    notes: Ian once had a white-chocolate-covered shiso leaf at a restaurant, and decided to try to use that combination of flavors in a drink. He added a further raspberry element and created this Old Fashioned-style cocktail that's rich but bright.
     glassware: rocks
     ingredients:
     - ½ teaspoon Vittone Fernet Menta
@@ -872,7 +872,7 @@ recipes:
       - old-fashioned
   - name: Looking Glass
     author: Greg Buda
-    notes: The fruit, floral, and light smoke of the Don Amado mezcal and Green Spot’s fruit and oak qualities create a special base for this elegant stirred cocktail. I’d put this style of drink in the same category as other martini-style agedspirit drinks like the Doppelgänger, 11th Hour, Snap Decision, Perfect Storm, Gold Digger, etc.
+    notes: The fruit, floral, and light smoke of the Don Amado mezcal and Green Spot's fruit and oak qualities create a special base for this elegant stirred cocktail. I'd put this style of drink in the same category as other martini-style agedspirit drinks like the Doppelgänger, 11th Hour, Snap Decision, Perfect Storm, Gold Digger, etc.
     glassware: nick & nora
     ingredients:
     - ¼ ounce Avèze gentiane liqueur
@@ -928,8 +928,8 @@ recipes:
     - ¼ ounce demerara syrup
     - ½ ounce cinnamon bark syrup
     - 1 ounce cask ale
-    - 1 ounce Laird’s bonded applejack
-    - 1 ounce Powers John’s Lane single pot still
+    - 1 ounce Laird's bonded applejack
+    - 1 ounce Powers John's Lane single pot still
     - ¾ ounce half-and-half
     - "Garnish: nutmeg, for grating"
     steps:
@@ -996,7 +996,7 @@ recipes:
       - citrus
   - name: Glitterball
     author: Jillian Vose
-    notes: The components here contribute decadence and spice, nuttiness and citrus, while the Slane blended lends a distinct earthy note and some smokiness, giving it a certain mysterious quality you can’t quite figure out, so you just keep sipping...
+    notes: The components here contribute decadence and spice, nuttiness and citrus, while the Slane blended lends a distinct earthy note and some smokiness, giving it a certain mysterious quality you can't quite figure out, so you just keep sipping...
     glassware: nick & nora
     ingredients:
     - 1 dash mace tincture
@@ -1065,7 +1065,7 @@ recipes:
       - citrus
   - name: Joyride
     author: Mario Firmani & Jillian Vose
-    notes: This perfect fall sour was designed around the whiskey’s orchard fruit notes and richness. The fig leaf is herbaceous and vibrant, and the spiced pear brings depth against the nuttiness of the absinthe. The génépy, almond, and sherry offer complexity, while the cardamom cuts through the sweetness.
+    notes: This perfect fall sour was designed around the whiskey's orchard fruit notes and richness. The fig leaf is herbaceous and vibrant, and the spiced pear brings depth against the nuttiness of the absinthe. The génépy, almond, and sherry offer complexity, while the cardamom cuts through the sweetness.
     glassware: coupette
     ingredients:
     - 1 dash black cardamom tincture
@@ -1075,7 +1075,7 @@ recipes:
     - ½ ounce spiced pear syrup
     - ¼ ounce Lustau Don Nuño oloroso sherry
     - ¼ ounce Dolin Génépy le Chamois
-    - ¼ ounce L’Orgeat almond liqueur
+    - ¼ ounce L'Orgeat almond liqueur
     - 1½ ounces Dubliner blended
     steps:
     - Add the ingredients to a shaker tin in the order indicated and shake with ice. 
@@ -1089,16 +1089,16 @@ recipes:
       - autumn
   - name: Dead Ringer
     author: Jillian Vose
-    notes: "Dunville’s 1808 is a modern blend of malt, grain, and pot still whiskeys, strong, vivacious, and full of character. Not only do you get orchard fruits from this whiskey, but tropical notes can be pulled out as well, especially when you add pineapple rum to the mix. To offset the sweeter flavors, I’ve added three savory components: turmeric citrus (bright, umami), chipotle (hot spice), and sumac (tangy, spice)."
+    notes: "Dunville's 1808 is a modern blend of malt, grain, and pot still whiskeys, strong, vivacious, and full of character. Not only do you get orchard fruits from this whiskey, but tropical notes can be pulled out as well, especially when you add pineapple rum to the mix. To offset the sweeter flavors, I've added three savory components: turmeric citrus (bright, umami), chipotle (hot spice), and sumac (tangy, spice)."
     glassware: rocks
     ingredients:
     - 1 dash turmeric citrus
     - 1 dash chipotle tincture
     - 1 teaspoon sumac syrup
     - ¼ ounce Yellow Chartreuse
-    - ½ ounce Plantation Stiggins’ Fancy pineapple rum
+    - ½ ounce Plantation Stiggins' Fancy pineapple rum
     - ¾ ounce Cocchi Americano
-    - 1½ ounces Dunville’s 1808 blended
+    - 1½ ounces Dunville's 1808 blended
     - "Garnish: lemon peel, for squeezing"
     steps:
     - Add the ingredients to a mixing glass in the order indicated and stir with ice. 
@@ -1111,7 +1111,7 @@ recipes:
       - stirred
   - name: Birthday Suit
     author: Jillian Vose
-    notes: This is a drink that’s quite simple but which shows the value of a quality distillate. As this is supposed to be “blond” and not super bitter, I had to think of flavors that complemented a lighter style of drink but which were also defining. A mist of chamomile and lemon takes care of that, which just leaves making sure that the actual liquor is balanced in texture, dilution, and temperature.
+    notes: This is a drink that's quite simple but which shows the value of a quality distillate. As this is supposed to be “blond” and not super bitter, I had to think of flavors that complemented a lighter style of drink but which were also defining. A mist of chamomile and lemon takes care of that, which just leaves making sure that the actual liquor is balanced in texture, dilution, and temperature.
     glassware: rocks
     ingredients:
     - 2 lemon peels
@@ -1155,7 +1155,7 @@ recipes:
       - stirred
   - name: Beauty Spot
     author: Long Thai
-    notes: Each person brings a unique element to the process of creating drinks. For Long, inspiration often comes from either dining experiences in New York or his travels around the world. Here the spark was a particularly memorable dessert. Think green tea and sponge cake (yes, really), and you’re in the right ballpark. This blend of malt and grain 5-year Irish whiskey was a perfect fit, as it adds a sweet vanilla component while also cutting through the richness of the drink.
+    notes: Each person brings a unique element to the process of creating drinks. For Long, inspiration often comes from either dining experiences in New York or his travels around the world. Here the spark was a particularly memorable dessert. Think green tea and sponge cake (yes, really), and you're in the right ballpark. This blend of malt and grain 5-year Irish whiskey was a perfect fit, as it adds a sweet vanilla component while also cutting through the richness of the drink.
     glassware: collins
     ingredients:
     - 2 dashes Vieux Pontarlier absinthe
@@ -1164,7 +1164,7 @@ recipes:
     - ½ ounce pisatchio orgeat
     - ½ ounce Giffard crème de cacao
     - ½ ounce Blume Marillen apricot eau-de-vie
-    - 1 ounce McConnell’s
+    - 1 ounce McConnell's
     - ¼ ounce half-and-half
     - "Garnish: nutmeg, for grating"
     steps:
@@ -1223,7 +1223,7 @@ recipes:
     notes: Beet, cranberry, tangerine and pimento were the basis of this autumn-influenced cocktail. In place of bourbon, I chose a whiskey that had bourbon qualities but more complexity with hints of honey, chocolate, and toasted oak.
     glassware: punch glass
     ingredients:
-    - 2 dashes Dale DeGroff’s pimento bitters
+    - 2 dashes Dale DeGroff's pimento bitters
     - ¾ ounce fresh lemon juice
     - ¾ ounce fresh tangerine juice
     - ½ ounce beet syrup
@@ -1243,7 +1243,7 @@ recipes:
       - citrus
   - name: King of Clubs
     author: Jillian Vose
-    notes: Here I’ve taken a classic sour template and melded it with a Breakfast Martini of sorts. Instead of marmalade, I’ve used kumquat preserves for a tart, bold citrus flavor. Sage adds a soft herbaceous quality. The hint of anise and saffron from the Strega brings the drink together and really pair fluently with the honey and preserves.
+    notes: Here I've taken a classic sour template and melded it with a Breakfast Martini of sorts. Instead of marmalade, I've used kumquat preserves for a tart, bold citrus flavor. Sage adds a soft herbaceous quality. The hint of anise and saffron from the Strega brings the drink together and really pair fluently with the honey and preserves.
     glassware: coupette
     ingredients:
     - 2 sage leaves
@@ -1287,7 +1287,7 @@ recipes:
       - citrus
   - name: Faro Point
     author: Jillian Vose
-    notes: When I was first introduced to this whiskey, its innovative rum finish intrigued me. Could I use it to rethink the daiquiri? I broke down the whiskey’s flavor components and paired them with banana, chocolate, and almond. To mimic a daiquiri, it needed citrus and the right rum and, I realized, a layering modifier—that’s where Pineau des Charentes comes in. And a star is born.
+    notes: When I was first introduced to this whiskey, its innovative rum finish intrigued me. Could I use it to rethink the daiquiri? I broke down the whiskey's flavor components and paired them with banana, chocolate, and almond. To mimic a daiquiri, it needed citrus and the right rum and, I realized, a layering modifier—that's where Pineau des Charentes comes in. And a star is born.
     glassware: coupette
     ingredients:
     - 1 dash Angostura bitters
@@ -1315,7 +1315,7 @@ recipes:
     notes: This slightly sweet and salty cocktail really explodes on the palate. The apple, ginger, and miso really complement the notes of marmalade, dried apricot, and earth of the blended whiskey. The addition of Guinness, a surprising ingredient, brings a great texture—frothy, rich, salty, and pleasantly refreshing.
     glassware: smash glass
     ingredients:
-    - 2 dashes Peychaud’s bitters
+    - 2 dashes Peychaud's bitters
     - 1 teaspoon ginger syrup
     - ¾ ounce fresh lemon juice
     - ¾ ounce white miso cane syrup
@@ -1337,12 +1337,12 @@ recipes:
       - citrus
   - name: Knee-Jerk Reaction
     author: Jillian Vose
-    notes: I created this explicitly with Thanksgiving or Christmas in mind. Slane has a lot of dried fruit notes and spice and goes very well with apple spirits. I used bonded applejack for some kick and also because I didn’t want a lower-proof Calvados to bring too much fruit and elegance, as this drink was meant to be bold and boozy.
+    notes: I created this explicitly with Thanksgiving or Christmas in mind. Slane has a lot of dried fruit notes and spice and goes very well with apple spirits. I used bonded applejack for some kick and also because I didn't want a lower-proof Calvados to bring too much fruit and elegance, as this drink was meant to be bold and boozy.
     glassware: rocks
     ingredients:
-    - 2 dashes Dale DeGroff’s pimento bitters
+    - 2 dashes Dale DeGroff's pimento bitters
     - ½ ounce Alvear pale cream sherry
-    - 1 ounce Laird’s applejack
+    - 1 ounce Laird's applejack
     - 1 teaspoon coffee-pecan syrup
     - 1 teaspoon sweet potato syrup
     - 1 ounce Slane blended
@@ -1361,7 +1361,7 @@ recipes:
     notes: This was one of the first drinks I created for Dead Rabbit. The ingredients are easily accessible and the drink is not difficult to re-create. Grapefruit and Campari is one of those pairings that seems blindingly obvious in hindsight. How come no one thought of it sooner?
     glassware: rocks
     ingredients:
-    - 2 dashes Peychaud’s bitters
+    - 2 dashes Peychaud's bitters
     - ½ ounce Combier crème de pamplemousse rose
     - ¾ ounce Campari
     - 1 ounce Lillet Rose
@@ -1381,7 +1381,7 @@ recipes:
     notes: This Manhattan variation was built around the rum-aged whiskey. Sesame complements Small Batch well, and swapping out sweeter or more bitter vermouths for Cocchi Americano and pale cream sherry lengthened the drink and highlighted the whiskey.
     glassware: nick & nora
     ingredients:
-    - 2 dashes Dale DeGroff’s Pimento bitters
+    - 2 dashes Dale DeGroff's Pimento bitters
     - 1 teaspoon cinnamon bark syrup
     - ¼ ounce Pierre Ferrand Dry curaçao
     - ¾ ounce Alvear pale cream sherry
@@ -1425,14 +1425,14 @@ recipes:
       - citrus
   - name: Witch Hunt
     author: Jillian Vose
-    notes: Tropical flavors—especially pineapple, banana, and mango—go surprisingly well with Irish whiskey. We chose to infuse Dead Rabbit Irish whiskey because its virgin oak finish has strong hits of vanilla, nuts, spice, and citrus, which go well with the pineapple. (The higher ABV also helps.) The IPA’s distinctive hoppy, floral, and grapefruit notes work as pair modifiers with the tropical notes.
+    notes: Tropical flavors—especially pineapple, banana, and mango—go surprisingly well with Irish whiskey. We chose to infuse Dead Rabbit Irish whiskey because its virgin oak finish has strong hits of vanilla, nuts, spice, and citrus, which go well with the pineapple. (The higher ABV also helps.) The IPA's distinctive hoppy, floral, and grapefruit notes work as pair modifiers with the tropical notes.
     glassware: rocks
     ingredients:
     - 1 dash peach bitters
     - ½ teaspoon cinnamon bark syrup
     - ½ teaspoon Giffard crème de banane
     - 1 teaspoon Yellow Chartreuse
-    - ½ ounce Bell’s IPA
+    - ½ ounce Bell's IPA
     - 2 ounces pineapple-infused Dead Rabbit whiskey
     - "Garnish: lemon peel, for squeezing"
     steps:
@@ -1471,7 +1471,7 @@ recipes:
       - citrus
   - name: Kindred Spirit
     author: Jillian Vose
-    notes: This was a fun take on a piña colada—fitting, since this whiskey is finished in rum barrels. The tropical notes are strong, but the contrast with the coffee liqueur really defines the drink in a way. Who’d have thought Irish whiskey could bring something to tiki!
+    notes: This was a fun take on a piña colada—fitting, since this whiskey is finished in rum barrels. The tropical notes are strong, but the contrast with the coffee liqueur really defines the drink in a way. Who'd have thought Irish whiskey could bring something to tiki!
     glassware: tulip
     ingredients:
     - 1 teaspoon Coco López coconut cream
@@ -1479,7 +1479,7 @@ recipes:
     - ¼ ounce fig syrup
     - ¼ ounce caramel cane syrup
     - ¼ ounce Grand Brulot coffee liqueur
-    - ½ ounce Montreuil Selection Calvados du Pays d’Auge
+    - ½ ounce Montreuil Selection Calvados du Pays d'Auge
     - 1½ ounces Tullamore D.E.W. Caribbean rum cask
     - ¼ ounce half-and-half
     - "Garnish: nutmeg, for grating"
@@ -1496,7 +1496,7 @@ recipes:
       - tiki
   - name: Pay Per View
     author: Jillian Vose
-    notes: I’d recently opened a bottle of Dubonnet Rouge to mix a rare drink from an old menu for a guest, and the next day decided to use the bottle to make a seasonal mulled wine. I treated it like sangria and added fruit syrups. It still needed body and a bit of boozy bite, so I reached for Slane, a perfect medium-bodied blended whiskey with a heavy wood influence.
+    notes: I'd recently opened a bottle of Dubonnet Rouge to mix a rare drink from an old menu for a guest, and the next day decided to use the bottle to make a seasonal mulled wine. I treated it like sangria and added fruit syrups. It still needed body and a bit of boozy bite, so I reached for Slane, a perfect medium-bodied blended whiskey with a heavy wood influence.
     glassware: wine glass
     ingredients:
     - 1 dash Bittermens Xocolatl Mole Bitters
@@ -1519,7 +1519,7 @@ recipes:
       - citrus
   - name: Irish Coffee Martini
     author: Jillian Vose
-    notes: We often get asked for Espresso Martinis at the bar but could never properly execute them, as we don’t keep an espresso machine. As a solution, we went with cold brew, as it’s not as acidic as espresso and is also appealing to Irish coffee drinkers looking for a cool, refreshing caffeine hit in a cocktail.
+    notes: We often get asked for Espresso Martinis at the bar but could never properly execute them, as we don't keep an espresso machine. As a solution, we went with cold brew, as it's not as acidic as espresso and is also appealing to Irish coffee drinkers looking for a cool, refreshing caffeine hit in a cocktail.
     glassware: nick & nora
     ingredients:
     - 1 dash Bitter Truth Aromatic Bitters
@@ -1539,7 +1539,7 @@ recipes:
       - caffeinated
   - name: Time Traveler
     author: Erin Smyth
-    notes: The green apple note that comes through in this whiskey was Erin’s initial inspiration for the drink. She then layered in absinthe, apple juice, and lemon, making a great, approachable cocktail, especially for people just getting into loving Irish whiskey.
+    notes: The green apple note that comes through in this whiskey was Erin's initial inspiration for the drink. She then layered in absinthe, apple juice, and lemon, making a great, approachable cocktail, especially for people just getting into loving Irish whiskey.
     glassware: highball
     ingredients:
     - 3 dashes Vieux Pontarlier absinthe
@@ -1560,7 +1560,7 @@ recipes:
       - citrus
   - name: Moonwalk
     author: Samantha Casuga
-    notes: "There are a lot of ingredients here, and no, it’s not the easiest drink to make at home. But it’s worth giving a try for the wonderful clusters of flavor pairings: spice, orchard fruit, flower, peat, vanilla. Tullamore D.E.W. 12 makes for a silky backdrop and ensures the peatiness of the Connemara just lingers subtly in the background without taking over."
+    notes: "There are a lot of ingredients here, and no, it's not the easiest drink to make at home. But it's worth giving a try for the wonderful clusters of flavor pairings: spice, orchard fruit, flower, peat, vanilla. Tullamore D.E.W. 12 makes for a silky backdrop and ensures the peatiness of the Connemara just lingers subtly in the background without taking over."
     glassware: rocks
     ingredients:
     - 1 dash walnut Angostura bitters
@@ -1606,7 +1606,7 @@ recipes:
       - sparkling
   - name: Broken Promise
     author: Aidan Bowie, Mario Firmani & Jillian Vose
-    notes: "We’d been thinking about a whiskey-based coffee-and-tonic-style cooler. We started with the coffee liqueur Grand Brulot and house coconut rum for depth and tropical notes, but then: which whiskey? Slane’s multi-cask influences on a grain/malt blend were perfect. The drink was still a bit sweet, so we added a touch of fresh lemon. Finally, the cherry bark vanilla bitters bounced off the whiskey like fireworks."
+    notes: "We'd been thinking about a whiskey-based coffee-and-tonic-style cooler. We started with the coffee liqueur Grand Brulot and house coconut rum for depth and tropical notes, but then: which whiskey? Slane's multi-cask influences on a grain/malt blend were perfect. The drink was still a bit sweet, so we added a touch of fresh lemon. Finally, the cherry bark vanilla bitters bounced off the whiskey like fireworks."
     glassware: highball
     ingredients:
     - 1 dash cherry bark vanilla bitters
@@ -1631,7 +1631,7 @@ recipes:
       - citrus
   - name: Flight Attendant
     author: Nick Rolin
-    notes: The higher proof and rough, woody notes of the whiskey cut through any sweetness of the other components in this drink. Mole bitters give a sharp chocolate note, while the crème de cacao is more milk chocolate. The amaro has a unique bitter, smoky element to it and really makes this drink stand out. Though it reads quite fruity, it’s a great alternative to a classic Manhattan.
+    notes: The higher proof and rough, woody notes of the whiskey cut through any sweetness of the other components in this drink. Mole bitters give a sharp chocolate note, while the crème de cacao is more milk chocolate. The amaro has a unique bitter, smoky element to it and really makes this drink stand out. Though it reads quite fruity, it's a great alternative to a classic Manhattan.
     glassware: nick & nora
     ingredients:
     - 1 dash Bittermens Xocolatl Mole Bitters
@@ -1656,7 +1656,7 @@ recipes:
     notes: When creating this drink, I was really doing an Irish whiskey version of an Apple Martini. The Becherovka brought some cinnamon and herbaceousness to the drink for depth, almost giving it a spiced-apple-pie vibe. One of my favorites.
     glassware: nick & nora
     ingredients:
-    - 1 dash Dale DeGroff’s Pimento Bitters
+    - 1 dash Dale DeGroff's Pimento Bitters
     - ¼ ounce dried apricot syrup
     - ½ ounce verjus
     - ¼ ounce Becherovka
@@ -1743,7 +1743,7 @@ recipes:
       - citrus
   - name: Old Timer
     author: Shane Mulvany
-    notes: This Manhattan variation is a nod to the boozy version New York is known for, but with a lighter twist, using more Bianco vermouth than the bitter Punt e Mes. While there is a hint of Amaro Meletti to insinuate that there’s more bitterness, this particular amaro is on the softer side and is quite cinnamon-forward.
+    notes: This Manhattan variation is a nod to the boozy version New York is known for, but with a lighter twist, using more Bianco vermouth than the bitter Punt e Mes. While there is a hint of Amaro Meletti to insinuate that there's more bitterness, this particular amaro is on the softer side and is quite cinnamon-forward.
     glassware: nick & nora
     ingredients:
     - 1 dash The Bitter Truth Aromatic Bitters
@@ -1789,7 +1789,7 @@ recipes:
       - shaken
   - name: Viceroy
     author: Jillian Vose
-    notes: I’d never really worked with sarsaparilla before, and decided to create a cocktail that tasted like an adult cream soda. Vanilla and the beautifully rich Siembra Azul and the trio-cask finished Slane did the trick. This drink reminds me a great summer day on Cape Cod.
+    notes: I'd never really worked with sarsaparilla before, and decided to create a cocktail that tasted like an adult cream soda. Vanilla and the beautifully rich Siembra Azul and the trio-cask finished Slane did the trick. This drink reminds me a great summer day on Cape Cod.
     glassware: collins
     ingredients:
     - 2 drops sarsaparilla tincture
@@ -1846,7 +1846,7 @@ recipes:
     - ¾ ounce fresh lime juice
     - ½ ounce marshmallow syrup
     - ½ ounce pistachio orgeat
-    - ½ ounce Combier L’Original triple sec
+    - ½ ounce Combier L'Original triple sec
     - 1 ounce Mount Gay Eclipse rum
     - 1 ounce West Cork bourbon cask
     - "Garnish: nutmeg, for grating"
@@ -1907,7 +1907,7 @@ recipes:
       - stirred
   - name: Jumping Jack
     author: Long Thai
-    notes: Long’s idea was to play off the baking spice of the applejack and the bourbon-noted Jameson Black Barrel and accentuate them with the bitters and sweeteners. To not oversweeten the drink, he added Pineau des Charentes for some acidity and used a dry soda instead of something that would contribute more sugar. The result is a perfect early autumn cocktail.
+    notes: Long's idea was to play off the baking spice of the applejack and the bourbon-noted Jameson Black Barrel and accentuate them with the bitters and sweeteners. To not oversweeten the drink, he added Pineau des Charentes for some acidity and used a dry soda instead of something that would contribute more sugar. The result is a perfect early autumn cocktail.
     glassware: moustache cup
     ingredients:
     - 1 dash Bittermens 'Elemakule Tiki Bitters
@@ -1916,7 +1916,7 @@ recipes:
     - ¼ ounce cane syrup
     - ½ ounce cinnamon bark syrup
     - ½ ounce Pierre Ferrand Pineau des Charentes
-    - 1 ounce Laird’s applejack
+    - 1 ounce Laird's applejack
     - 1 ounce Jameson Black Barrel
     - Dry vanilla soda, to top
     - "Garnish: nutmeg, for grating"
@@ -1932,7 +1932,7 @@ recipes:
       - citrus
   - name: Culture Shock
     author: Long Thai
-    notes: Roe & Co is mostly a grain base, which gives the cocktail a lighter, refreshing mouthfeel. Genever boosts the body and brings a savory hint. Pineapple gives the cocktail enough juiciness to stand up to the fennel and cacao. The Earl Grey (a black tea with bergamot oil) boosts the cocoa element, while the Connemara’s smoky aroma brings everything to the next level.
+    notes: Roe & Co is mostly a grain base, which gives the cocktail a lighter, refreshing mouthfeel. Genever boosts the body and brings a savory hint. Pineapple gives the cocktail enough juiciness to stand up to the fennel and cacao. The Earl Grey (a black tea with bergamot oil) boosts the cocoa element, while the Connemara's smoky aroma brings everything to the next level.
     glassware: coupette
     ingredients:
     - 4 dashes earl grey tincture
@@ -1956,7 +1956,7 @@ recipes:
       - citrus
   - name: Bite the Bullet
     author: Jillian Vose
-    notes: This is a Manhattan variation with tropical notes that play well with the vanilla, chocolate, and toasted oak flavors of the Glendalough Double Barrel whiskey. You’ll get pineapple, cinnamon, vanilla, and chocolate flavors out of this drink, though not in a sweet way. Becherovka brings an herbal quality, along with cinnamon and ginger, plus a certain dryness due to the higher proof of the liqueur.
+    notes: This is a Manhattan variation with tropical notes that play well with the vanilla, chocolate, and toasted oak flavors of the Glendalough Double Barrel whiskey. You'll get pineapple, cinnamon, vanilla, and chocolate flavors out of this drink, though not in a sweet way. Becherovka brings an herbal quality, along with cinnamon and ginger, plus a certain dryness due to the higher proof of the liqueur.
     glassware: nick & nora
     ingredients:
     - 1 dash The Bitter Truth Aromatic Bitters
@@ -2001,7 +2001,7 @@ recipes:
       - stirred
   - name: Powerpoint
     author: Jillian Vose
-    notes: This a sour format featuring orchard fruit and almonds along with the whiskey. Using vermouths in citrusy cocktails is a great trick to add a touch of light aromatics and herbaceousness to a drink without bitterness. Roe & Co is a lighter style of whiskey, best used with ingredients that won’t overpower it but will pull out the vanillin and wood tones of the grain-heavy blend.
+    notes: This a sour format featuring orchard fruit and almonds along with the whiskey. Using vermouths in citrusy cocktails is a great trick to add a touch of light aromatics and herbaceousness to a drink without bitterness. Roe & Co is a lighter style of whiskey, best used with ingredients that won't overpower it but will pull out the vanillin and wood tones of the grain-heavy blend.
     glassware: sour glass
     ingredients:
     - 1 dash cilantro tincture

@@ -40,7 +40,7 @@ recipes:
     - sparkling
     - spritz
   - name: Elderflower Spritz
-    notes: The Elderflower Spritz is EO’s version of the St-Germain cocktail invented by Robert Cooper, the creator of St-Germain liqueur. The difference is that we add lemon slices for citrus in the middle. Our recipe was developed as a French version of the Italian Spritz, to offer to guests who dislike the bitterness of Aperol. Its flowery essence is calming and soothing, with a welcome simplicity.
+    notes: The Elderflower Spritz is EO's version of the St-Germain cocktail invented by Robert Cooper, the creator of St-Germain liqueur. The difference is that we add lemon slices for citrus in the middle. Our recipe was developed as a French version of the Italian Spritz, to offer to guests who dislike the bitterness of Aperol. Its flowery essence is calming and soothing, with a welcome simplicity.
     glassware: wine glass
     ingredients:
     - 4 ounces Perrier-Jouët Grand Brut champagne
@@ -79,7 +79,7 @@ recipes:
     - "speakeasy: aperitifs"
     - stirred
   - name: Manhattan
-    notes: The Manhattan cocktail we serve is not to be confused with the contemporary Manhattan. This recipe first appeared in the latter part of the nineteenth century and is referenced in later editions of  How to Mix Drinks or the Bon Vivant’s Companion as well as Harry Johnson’s 1882 Bartenders’ Manual. This forgotten formula has a higher ratio of sweet vermouth to rye whiskey, with an accent of orange Curaçao and Boker’s bitters, served straight up with a lemon twist. Cherries in Manhattans came later as the mixture evolved into a different cocktail. The subtle mingling of flavors in this version illustrates an older style of drink making. Of course, as with any epic cocktail, there are several conflicting stories about its origins. Our favorite version has Winston Churchill’s mother, Jennie, ordering its creation for the celebration of Samuel Tilden’s election as governor of New York at the Manhattan Club. As exciting as this may sound, it seems that little Winston had more to do with disproving the theory. At the time of the election, Lady Churchill was in England giving birth to Winston, and the only noted celebration for Tilden actually coincided with the day of Winston Churchill’s christening.
+    notes: The Manhattan cocktail we serve is not to be confused with the contemporary Manhattan. This recipe first appeared in the latter part of the nineteenth century and is referenced in later editions of  How to Mix Drinks or the Bon Vivant's Companion as well as Harry Johnson's 1882 Bartenders' Manual. This forgotten formula has a higher ratio of sweet vermouth to rye whiskey, with an accent of orange Curaçao and Boker's bitters, served straight up with a lemon twist. Cherries in Manhattans came later as the mixture evolved into a different cocktail. The subtle mingling of flavors in this version illustrates an older style of drink making. Of course, as with any epic cocktail, there are several conflicting stories about its origins. Our favorite version has Winston Churchill's mother, Jennie, ordering its creation for the celebration of Samuel Tilden's election as governor of New York at the Manhattan Club. As exciting as this may sound, it seems that little Winston had more to do with disproving the theory. At the time of the election, Lady Churchill was in England giving birth to Winston, and the only noted celebration for Tilden actually coincided with the day of Winston Churchill's christening.
     glassware: nick & nora
     ingredients:
     - 1½ ounces Rittenhouse 100-proof rye whiskey
@@ -99,7 +99,7 @@ recipes:
     - freezer bar
     - manhattan
   - name: Contemporary Manhattan
-    notes: Most people today understand a Manhattan to be bourbon whiskey with a dash of vermouth, shaken or stirred–little more than a nice way to order a big shot of whiskey. Only recently have people once again acknowledged the necessity of bitters in the recipe. What happened? Prohibition all but annihilated rye whiskey production in this country; by the end of World War II, America had embraced Canadian whiskies as rye, even though most are made of a blend of grains. When we first began bartending, it was common for Manhattans to be made with Seagram’s VO or Crown Royal. But in the early 1990s, bartenders making Manhattans gravitated toward newly released single-barrel and small-batch bourbons to meet the expectations of the luxury crowd. As with Martinis, these customers demanded only a whisper of vermouth so as not to destroy the precious whiskey. Our recipe is an excellent expression of a Manhattan made with soft-natured bourbon. Rye whiskey makes a sharp, racy alternative. As for cherries, keep clear of the big artificial ones floating in eerie red dye. Pit fresh cherries and soak them for a few days in amaretto or cherry liqueur instead.
+    notes: Most people today understand a Manhattan to be bourbon whiskey with a dash of vermouth, shaken or stirred–little more than a nice way to order a big shot of whiskey. Only recently have people once again acknowledged the necessity of bitters in the recipe. What happened? Prohibition all but annihilated rye whiskey production in this country; by the end of World War II, America had embraced Canadian whiskies as rye, even though most are made of a blend of grains. When we first began bartending, it was common for Manhattans to be made with Seagram's VO or Crown Royal. But in the early 1990s, bartenders making Manhattans gravitated toward newly released single-barrel and small-batch bourbons to meet the expectations of the luxury crowd. As with Martinis, these customers demanded only a whisper of vermouth so as not to destroy the precious whiskey. Our recipe is an excellent expression of a Manhattan made with soft-natured bourbon. Rye whiskey makes a sharp, racy alternative. As for cherries, keep clear of the big artificial ones floating in eerie red dye. Pit fresh cherries and soak them for a few days in amaretto or cherry liqueur instead.
     glassware: nick & nora
     ingredients:
     - 3 ounces Woodford Reserve 90-proof bourbon
@@ -139,13 +139,13 @@ recipes:
     - martini
     - freezer bar
   - name: Classic Martinez
-    notes: "Whether or not this drink is truly an ancestor of today’s Dry Gin Martini (with which it has little in common), it is a great model in the cocktail fossil record because it showcases how certain ingredients were used before the twentieth century: back in the day, maraschino liqueur and orange Curaçao were two cordials used interchangeably (depending on availability) as sweeteners in cocktails. Vermouth was always sweet Italian red vermouth; French or dry vermouth were not popular in cocktail making until the end of the nineteenth century. Legend says this drink was named for the small Northern California town where a Gold Rush miner ordered “one for the road” before heading for the hills."
+    notes: "Whether or not this drink is truly an ancestor of today's Dry Gin Martini (with which it has little in common), it is a great model in the cocktail fossil record because it showcases how certain ingredients were used before the twentieth century: back in the day, maraschino liqueur and orange Curaçao were two cordials used interchangeably (depending on availability) as sweeteners in cocktails. Vermouth was always sweet Italian red vermouth; French or dry vermouth were not popular in cocktail making until the end of the nineteenth century. Legend says this drink was named for the small Northern California town where a Gold Rush miner ordered “one for the road” before heading for the hills."
     glassware: nick & nora
     ingredients:
     - 1¾ ounces Beefeater London Dry gin
     - 2 ounces Dolin Rouge sweet vermouth
     - ¼ ounce Luxardo maraschino liqueur
-    - 1 dash Regan’s Orange Bitters No. 6
+    - 1 dash Regan's Orange Bitters No. 6
     - 1 lemon twist, for garnish
     steps:
     - Pour all the liquid ingredients into a mixing glass. 
@@ -218,7 +218,7 @@ recipes:
     - shaken
     - negroni
   - name: Americano
-    notes: "The Americano is the quintessential Italian aperitivo. When it was first created at Gaspare Campari’s bar in Milan in the 1860s, it was named Milano-Torino for its two main ingredients: Campari from Milan and Cinzano from Turin. The drink quickly became popular as an afternoon quencher at outdoor caffès in the Italian piazzas. The name changed during Prohibition due to the mass of thirsty American tourists who fell in love with it. Some fifty years later, this drink would inspire one of the most fantastic aperitifs ever: the Negroni. It is little noted that the Americano is the first cocktail that James Bond orders in Ian Fleming’s first novel Casino Royale, long before he orders a Martini."
+    notes: "The Americano is the quintessential Italian aperitivo. When it was first created at Gaspare Campari's bar in Milan in the 1860s, it was named Milano-Torino for its two main ingredients: Campari from Milan and Cinzano from Turin. The drink quickly became popular as an afternoon quencher at outdoor caffès in the Italian piazzas. The name changed during Prohibition due to the mass of thirsty American tourists who fell in love with it. Some fifty years later, this drink would inspire one of the most fantastic aperitifs ever: the Negroni. It is little noted that the Americano is the first cocktail that James Bond orders in Ian Fleming's first novel Casino Royale, long before he orders a Martini."
     glassware: collins
     ingredients:
     - 1½ ounces Campari
@@ -238,13 +238,13 @@ recipes:
     - citrus
     - negroni
   - name: Pêche Bourbon
-    notes: "Pêche bourbon is simply the French way of saying “peach bourbon.” These two items are as compatible a pairing as strawberries and vanilla. We wanted to showcase our peach-infused bourbon without overshadowing any of its subtle beauty. We blended it in the most straightforward way, with sugar and Peychaud’s bitters, then followed the ritual used to make the classic Sazerac cocktail: we first “season” the serving glass with French peach cordial. The ingredients swirl together in a slow dance, exciting the palate, then leaving it longing for more. This is a very delicate yet powerful cocktail. It is a great aperitif; it pairs well with grilled meats and seafood; and it is sublime as an after-dinner drink with a fruit tart or cake."
+    notes: "Pêche bourbon is simply the French way of saying “peach bourbon.” These two items are as compatible a pairing as strawberries and vanilla. We wanted to showcase our peach-infused bourbon without overshadowing any of its subtle beauty. We blended it in the most straightforward way, with sugar and Peychaud's bitters, then followed the ritual used to make the classic Sazerac cocktail: we first “season” the serving glass with French peach cordial. The ingredients swirl together in a slow dance, exciting the palate, then leaving it longing for more. This is a very delicate yet powerful cocktail. It is a great aperitif; it pairs well with grilled meats and seafood; and it is sublime as an after-dinner drink with a fruit tart or cake."
     glassware: rocks
     ingredients:
     - ½ ounce Massenez crème de pêche or peach liqueur
     - 1 raw brown sugar cube 
     - ½ teaspoon superfine sugar
-    - 3 dashes Peychaud’s bitters
+    - 3 dashes Peychaud's bitters
     - 3 dashes Fee Brothers peach bitters
     - 2 ounces Peach-Infused Bourbon
     - 1 mint sprig, for garnish
@@ -252,7 +252,7 @@ recipes:
     - Pour the crème de pêche into a rocks glass. 
     - Swirl it around until the inside of the glass is completely coated, then discard the excess. 
     - Place in the freezer to chill. 
-    - Place the sugars in the bottom of a mixing glass and saturate them with the Peychaud’s and peach bitters. 
+    - Place the sugars in the bottom of a mixing glass and saturate them with the Peychaud's and peach bitters. 
     - Muddle the sugars and bitters into a consistent paste. 
     - Add the bourbon and stir gently. 
     - Add large cold ice cubes and stir for 40 revolutions. 
@@ -266,13 +266,13 @@ recipes:
     - stirred
     - old-fashioned
   - name: Sazerac
-    notes: The Sazerac was invented by pharmacist Antoine Amedee Peychaud in New Orleans sometime in the early 1800s. In his French Quarter drugstore, M. Peychaud served his concoction of Sazerac cognac, absinthe, sugar, and his homemade bitters in the large end of an egg cup–what the French call a coquetier. (There had been speculation that the word cocktail comes from the mispronunciation of coquetier, but this myth has been disproven.) Later, rye whiskey replaced Sazerac cognac because it was more readily available, but the name stayed. The traditional making of a Sazerac is a ritual still practiced in New Orleans. It begins with the bartender pouring Herbsaint into a rocks glass, then tossing the glass in the air while yelling “Sazerac!” Coating the inside of a glass with liquor is referred to as “seasoning” the glass. The glass is then chilled as the cocktail is made. At Employees Only, we make Sazeracs by seasoning the glass with our Absinthe Bitters, and we use Angostura bitters in addition to Peychaud’s.
+    notes: The Sazerac was invented by pharmacist Antoine Amedee Peychaud in New Orleans sometime in the early 1800s. In his French Quarter drugstore, M. Peychaud served his concoction of Sazerac cognac, absinthe, sugar, and his homemade bitters in the large end of an egg cup–what the French call a coquetier. (There had been speculation that the word cocktail comes from the mispronunciation of coquetier, but this myth has been disproven.) Later, rye whiskey replaced Sazerac cognac because it was more readily available, but the name stayed. The traditional making of a Sazerac is a ritual still practiced in New Orleans. It begins with the bartender pouring Herbsaint into a rocks glass, then tossing the glass in the air while yelling “Sazerac!” Coating the inside of a glass with liquor is referred to as “seasoning” the glass. The glass is then chilled as the cocktail is made. At Employees Only, we make Sazeracs by seasoning the glass with our Absinthe Bitters, and we use Angostura bitters in addition to Peychaud's.
     glassware: rocks
     ingredients:
     - ¼ ounce Absinthe Bitters
     - 1 raw brown sugar cube
     - ½ teaspoon superfine sugar
-    - 3 dashes Peychaud’s bitters
+    - 3 dashes Peychaud's bitters
     - 1 dash Angostura bitters
     - 2½ ounces Rittenhouse 100-proof rye whiskey
     - 1 lemon twist, for garnish
@@ -280,7 +280,7 @@ recipes:
     - Pour the Absinthe Bitters into a rocks glass. 
     - Swirl it around until the inside of the glass is completely coated, then discard the excess. 
     - Place in the freezer to chill. 
-    - Place both sugars in the bottom of a mixing glass and saturate them with the Peychaud’s and Angostura bitters. 
+    - Place both sugars in the bottom of a mixing glass and saturate them with the Peychaud's and Angostura bitters. 
     - Muddle the sugars and bitters into a consistent paste. 
     - Add the whiskey and stir gently. 
     - Add large cold ice cubes and stir for 40 revolutions. 
@@ -292,7 +292,7 @@ recipes:
     - stirred
     - sazerac
   - name: Provençal
-    notes: The Provençal is Employees Only’s most romantic original aperitif and a seductive start to an intimate dinner. Mouthwatering, sexy, and savory, it was created as a pairing for raw oysters to heighten the sensual experience. After years of watching certain cocktails being erroneously labeled “Martinis,” we felt the need to get back to the roots of the Martini and create a gin and vermouth concoction. We use lavender-infused Plymouth gin and French dry vermouth scented with herbes de Provence and blend them with Cointreau to give the Provençal its unique appearance and flavor. We hoped it would rival the standard dry Martini as the predinner cocktail, and it exceeded all expectations. The Provençal is a tribute to the golden age of cocktails when bartenders made many of their own ingredients in-house–it is the archetypical EO aperitif. Both the gin and vermouth infusions are easy to make, and the results are truly extraordinary.
+    notes: The Provençal is Employees Only's most romantic original aperitif and a seductive start to an intimate dinner. Mouthwatering, sexy, and savory, it was created as a pairing for raw oysters to heighten the sensual experience. After years of watching certain cocktails being erroneously labeled “Martinis,” we felt the need to get back to the roots of the Martini and create a gin and vermouth concoction. We use lavender-infused Plymouth gin and French dry vermouth scented with herbes de Provence and blend them with Cointreau to give the Provençal its unique appearance and flavor. We hoped it would rival the standard dry Martini as the predinner cocktail, and it exceeded all expectations. The Provençal is a tribute to the golden age of cocktails when bartenders made many of their own ingredients in-house–it is the archetypical EO aperitif. Both the gin and vermouth infusions are easy to make, and the results are truly extraordinary.
     glassware: nick & nora
     ingredients:
     - 2 ounces Lavender-Infused Gin
@@ -316,7 +316,7 @@ recipes:
     ingredients:
     - 3½ ounces Beefeater London Dry gin
     - ½ ounce Dolin Dry vermouth
-    - 1 dash Regan’s Orange Bitters No. 6
+    - 1 dash Regan's Orange Bitters No. 6
     - 1 lemon twist, for garnish
     steps:
     - Pour the gin, vermouth, and bitters into a mixing glass. 
@@ -333,7 +333,7 @@ recipes:
   - name: Vesper
     author: Ian Fleming
     year: 1953
-    notes: The original recipe for the Vesper was created not by a bartender but by popular spy novelist Ian Fleming. In Fleming’s 1953 book Casino Royale, Agent 007 instructs the bartender to prepare him a Martini with “Three measures of Gordon’s, one of vodka, half a measure of Kina Lillet. Shake it very well until it’s ice cold, then add a large, thin slice of lemon.” Bond named this drink after Vesper Lynd, his first love interest in the series. Kina Lillet vermouth, with its flavor notes of quinine, no longer exists, so we replaced it with Lillet Blanc and a dash of Angostura bitters. We opted for a blend of Charbay clear vodka and Plymouth Navy Strength gin to finish off our interpretation. This is the cocktail that introduced the phrase “shaken, not stirred,” which changed Martini drinking forever. Thank you, Mr. Bond.
+    notes: The original recipe for the Vesper was created not by a bartender but by popular spy novelist Ian Fleming. In Fleming's 1953 book Casino Royale, Agent 007 instructs the bartender to prepare him a Martini with “Three measures of Gordon's, one of vodka, half a measure of Kina Lillet. Shake it very well until it's ice cold, then add a large, thin slice of lemon.” Bond named this drink after Vesper Lynd, his first love interest in the series. Kina Lillet vermouth, with its flavor notes of quinine, no longer exists, so we replaced it with Lillet Blanc and a dash of Angostura bitters. We opted for a blend of Charbay clear vodka and Plymouth Navy Strength gin to finish off our interpretation. This is the cocktail that introduced the phrase “shaken, not stirred,” which changed Martini drinking forever. Thank you, Mr. Bond.
     glassware: nick & nora
     ingredients:
     - 2 ounces Charbay vodka
@@ -376,7 +376,7 @@ recipes:
     - stirred
     - sparkling
   - name: Champagne Cocktail
-    notes: "The recipe for this cocktail appeared in the first 1862 edition of Jerry Thomas’s How to Mix Drinks or the Bon Vivant’s Companion. The original recipe illustrates the simplest incarnation of the cocktail in general: spirits or wines mixed with sugar, bitters, and water. Over the years, some recipes for the Champagne Cocktail called for the addition of brandy or cognac for a stronger kick and bigger body. But no matter what goes into it, the Champagne Cocktail has always been the choice of prominent and well-heeled U.S. citizens because champagne commands a lofty price and is a status symbol in America. We at Employees Only choose to make this cocktail with Curaçao, specifically Grand Marnier. We find that it adds more flavor notes and blends more effortlessly than does cognac. It’s a misconception that one must use the finest champagne in this cocktail. Please do not destroy a masterful tête de cuvee with bitters and sugar. Use a well-rounded nonvintage brut, which has the bones for such a cocktail."
+    notes: "The recipe for this cocktail appeared in the first 1862 edition of Jerry Thomas's How to Mix Drinks or the Bon Vivant's Companion. The original recipe illustrates the simplest incarnation of the cocktail in general: spirits or wines mixed with sugar, bitters, and water. Over the years, some recipes for the Champagne Cocktail called for the addition of brandy or cognac for a stronger kick and bigger body. But no matter what goes into it, the Champagne Cocktail has always been the choice of prominent and well-heeled U.S. citizens because champagne commands a lofty price and is a status symbol in America. We at Employees Only choose to make this cocktail with Curaçao, specifically Grand Marnier. We find that it adds more flavor notes and blends more effortlessly than does cognac. It's a misconception that one must use the finest champagne in this cocktail. Please do not destroy a masterful tête de cuvee with bitters and sugar. Use a well-rounded nonvintage brut, which has the bones for such a cocktail."
     glassware: flute
     ingredients:
     - ½ ounce Grand Marnier
@@ -419,7 +419,7 @@ recipes:
     - shaken
     - citrus
   - name: Cosmopolitan
-    notes: By the time Sex in the City featured Carrie and the Cosmo, we were already killing this contemporary cocktail during our tenure at Pravda in the late 1990s. Our recipe stood out in the world of popular downtown nightlife destinations as the hallmark of what a Cosmopolitan should be; light pink and citrusy, with ice shards and foam surrounding a flamed orange peel. Although it speaks to trendy fashionistas, when made properly the Cosmopolitan can be a tasty libation. Clubs and marketing agencies later bastardized this drink with Rose’s lime juice, cheap triple sec, and enough cranberry juice to cure a bladder infection.
+    notes: By the time Sex in the City featured Carrie and the Cosmo, we were already killing this contemporary cocktail during our tenure at Pravda in the late 1990s. Our recipe stood out in the world of popular downtown nightlife destinations as the hallmark of what a Cosmopolitan should be; light pink and citrusy, with ice shards and foam surrounding a flamed orange peel. Although it speaks to trendy fashionistas, when made properly the Cosmopolitan can be a tasty libation. Clubs and marketing agencies later bastardized this drink with Rose's lime juice, cheap triple sec, and enough cranberry juice to cure a bladder infection.
     glassware: nick & nora
     ingredients:
     - 1½ ounces Charbay Meyer lemon vodka
@@ -461,10 +461,10 @@ recipes:
     - shaken
     - citrus
   - name: Billionaire Cocktail
-    notes: This cocktail was created in a flash of inspiration to showcase overproof whiskey by offsetting it with wonderfully lush and flavorful ingredients. Strong Baker’s 107-proof bourbon serves as the backbone to the cocktail, providing vigor and heat. This is balanced with our rich homemade grenadine and fresh lemon juice to give a delightful sweet-and-sour balance. The Absinthe Bitters’ anise essence rounds out the cocktail, giving it a classic feel and third dimension. After conceiving the recipe, we were stumped for a name until we realized it was quite similar to a version of the Prohibition classic Millionaire Cocktail. Because of inflation and the fact that ours is a “richer” cocktail, we named it the Billionaire Cocktail.
+    notes: This cocktail was created in a flash of inspiration to showcase overproof whiskey by offsetting it with wonderfully lush and flavorful ingredients. Strong Baker's 107-proof bourbon serves as the backbone to the cocktail, providing vigor and heat. This is balanced with our rich homemade grenadine and fresh lemon juice to give a delightful sweet-and-sour balance. The Absinthe Bitters' anise essence rounds out the cocktail, giving it a classic feel and third dimension. After conceiving the recipe, we were stumped for a name until we realized it was quite similar to a version of the Prohibition classic Millionaire Cocktail. Because of inflation and the fact that ours is a “richer” cocktail, we named it the Billionaire Cocktail.
     glassware: nick & nora
     ingredients:
-    - 2 ounces Baker’s 107-proof bourbon
+    - 2 ounces Baker's 107-proof bourbon
     - 1 ounce freshly squeezed lemon juice
     - ½ ounce simple syrup
     - ½ ounce homemade Grenadine
@@ -524,7 +524,7 @@ recipes:
     - citrus
     - sparkling
   - name: French 75
-    notes: "The name “French 75” refers to the most deadly and accurate artillery piece of World War I: the 75-mm field gun. Some credit WWI French-American flying ace Raoul Lufbery as the creator, who poured a little cognac into his beloved champagne for added kick. Other recipes list gin as the main ingredient in what is basically a Tom Collins with champagne instead of club soda. This recipe is first seen in The Savoy Cocktail Book; author Harry Craddock notes that it “hits with remarkable precision.” Across the pond, the French 75 was made popular at New York’s infamous Stork Club, which opened during Prohibition and survived into the 1960s. Looking back at the historical cocktail record, it seems most likely that this cocktail began as the gin version, then makers shifted to cognac in order to make the drink a bit more French."
+    notes: "The name “French 75” refers to the most deadly and accurate artillery piece of World War I: the 75-mm field gun. Some credit WWI French-American flying ace Raoul Lufbery as the creator, who poured a little cognac into his beloved champagne for added kick. Other recipes list gin as the main ingredient in what is basically a Tom Collins with champagne instead of club soda. This recipe is first seen in The Savoy Cocktail Book; author Harry Craddock notes that it “hits with remarkable precision.” Across the pond, the French 75 was made popular at New York's infamous Stork Club, which opened during Prohibition and survived into the 1960s. Looking back at the historical cocktail record, it seems most likely that this cocktail began as the gin version, then makers shifted to cognac in order to make the drink a bit more French."
     glassware: wine glass
     ingredients:
     - 1¼ ounces Tanqueray No. 10 gin
@@ -544,7 +544,7 @@ recipes:
     - shaken
     - citrus
   - name: Roselle
-    notes: The story of the Roselle highlights the creative process at Employees Only. After seeking a hibiscus cordial, bar manager Robert Krueger infused the dried blossoms into syrup for a delicious result. The citrus and floral elements immediately suggested a pairing with gin, and the botanicals in Tanqueray No. 10 specifically led to grapefruit. A quick shake revealed that the red of the hibiscus turns an iridescent rose when mixed–inspiring the drink’s name. The resulting drink is a reminder that a confident bartender should never be afraid of mixing a pink drink–or of drinking one, for that matter.
+    notes: The story of the Roselle highlights the creative process at Employees Only. After seeking a hibiscus cordial, bar manager Robert Krueger infused the dried blossoms into syrup for a delicious result. The citrus and floral elements immediately suggested a pairing with gin, and the botanicals in Tanqueray No. 10 specifically led to grapefruit. A quick shake revealed that the red of the hibiscus turns an iridescent rose when mixed–inspiring the drink's name. The resulting drink is a reminder that a confident bartender should never be afraid of mixing a pink drink–or of drinking one, for that matter.
     glassware: nick & nora
     ingredients:
     - 1½ ounces Tanqueray No. 10 gin
@@ -562,7 +562,7 @@ recipes:
     - shaken
     - citrus
   - name: Gimlet
-    notes: The Gimlet, invented by a medical doctor, was born out of necessity. Sir Thomas D. Gimlette, a British naval surgeon, prescribed his vitamin-packed cocktail to sailors to prevent scurvy. His daily dose consisted of navy strength Plymouth gin, which was rationed to officers (common sailors drank rum), and lime cordial, which was a way of preserving lime juice on long sea voyages. The Gimlet found its way into social drinking and became as recognized as the Martini or Manhattan, due to the instant availability of Rose’s Lime Juice. Unfortunately, over years of de-evolution, lime cordials on the market fell victim to the same pressures as other massproduced products—to become more profitable. Today, most have little to do with lime and more to do with high-fructose corn syrup and artificial colorings. With the rebirth of the classic cocktail over the last decade, many enthusiasts have decided that fresh lime juice and simple syrup are the way to go, but in our opinion, the resulting “gin daiquiri” does not honor the spirit of the original cocktail and should not be called a Gimlet. True Gimlet drinkers look down their noses at such an abomination. To bridge the gap between both camps, we created our own all-natural lime cordial using lime and kaffir lime leaf. It is stunningly simple and classically structured but surprisingly novel and sophisticated.
+    notes: The Gimlet, invented by a medical doctor, was born out of necessity. Sir Thomas D. Gimlette, a British naval surgeon, prescribed his vitamin-packed cocktail to sailors to prevent scurvy. His daily dose consisted of navy strength Plymouth gin, which was rationed to officers (common sailors drank rum), and lime cordial, which was a way of preserving lime juice on long sea voyages. The Gimlet found its way into social drinking and became as recognized as the Martini or Manhattan, due to the instant availability of Rose's Lime Juice. Unfortunately, over years of de-evolution, lime cordials on the market fell victim to the same pressures as other massproduced products—to become more profitable. Today, most have little to do with lime and more to do with high-fructose corn syrup and artificial colorings. With the rebirth of the classic cocktail over the last decade, many enthusiasts have decided that fresh lime juice and simple syrup are the way to go, but in our opinion, the resulting “gin daiquiri” does not honor the spirit of the original cocktail and should not be called a Gimlet. True Gimlet drinkers look down their noses at such an abomination. To bridge the gap between both camps, we created our own all-natural lime cordial using lime and kaffir lime leaf. It is stunningly simple and classically structured but surprisingly novel and sophisticated.
     glassware: rocks
     ingredients:
     - 2¾ ounces Plymouth gin
@@ -579,7 +579,7 @@ recipes:
     - shaken
     - citrus
   - name: Grapefruit Gimlet
-    notes: "The Grapefruit Gimlet came as an inspiration upon tasting Charbay ruby red grapefruit vodka. Unlike other flavored vodkas, this producer actually uses real fruit in a natural process of infusion. Charbay pays Texas ruby red grapefruit growers premium prices to leave the fruit on the tree until they are overripe. Then they are shipped to California, where father-and-son distillers Miles and Marko Karakasevic grind the whole fruits–skins, pulp, and juice–then let them sit in alcohol for six months to extract the real fruit flavor. This essence is then strained and added to clear vodka. The result of this infusion is unlike any other flavored vodka. The beauty of our Grapefruit Gimlet is that it consists of only three ingredients: Charbay grapefruit vodka, fresh lime juice, and agave nectar. This recipe is very simple to make and really accentuates the grapefruit vodka. Make it and taste it and you’ll feel like you’ve just bitten into a sweet, ripe ruby red grapefruit through the skin. It’s refreshing and full flavored, and it begs for another sip."
+    notes: "The Grapefruit Gimlet came as an inspiration upon tasting Charbay ruby red grapefruit vodka. Unlike other flavored vodkas, this producer actually uses real fruit in a natural process of infusion. Charbay pays Texas ruby red grapefruit growers premium prices to leave the fruit on the tree until they are overripe. Then they are shipped to California, where father-and-son distillers Miles and Marko Karakasevic grind the whole fruits–skins, pulp, and juice–then let them sit in alcohol for six months to extract the real fruit flavor. This essence is then strained and added to clear vodka. The result of this infusion is unlike any other flavored vodka. The beauty of our Grapefruit Gimlet is that it consists of only three ingredients: Charbay grapefruit vodka, fresh lime juice, and agave nectar. This recipe is very simple to make and really accentuates the grapefruit vodka. Make it and taste it and you'll feel like you've just bitten into a sweet, ripe ruby red grapefruit through the skin. It's refreshing and full flavored, and it begs for another sip."
     glassware: rocks
     ingredients:
     - 2 ounces Charbay ruby red grapefruit vodka
@@ -597,7 +597,7 @@ recipes:
     - shaken
     - citrus
   - name: Gin Rickey
-    notes: The Gin Rickey is the most prominent member of the Rickey Cocktail family, which basically calls for a shot of any straight spirit, a splash of freshly squeezed lime juice, and club soda, served tall. The story has it that the founding father of this cocktail trend was a retired Civil War colonel and lobbyist, Joe Rickey. The man loved his bourbon with soda and a squeeze of lime. He refused sugar on the grounds that “drinks with sugar heat the blood,” and as a string-puller in D.C., he clearly didn’t want passion to interfere with clear thinking. We played with this cocktail but shelved it, feeling that although it is a wonderful drink, it was not intriguing enough to put on our menu. Then we made our own lime cordial. The concentrated flavor of the sweetened cordial created the same feel as the original, only with more depth and intensity and more focus on the gin. Also, our lime cordial is sweetened not with sugar but with agave nectar, which has a much lower glycemic index and therefore should not “heat” the blood as much. The good colonel would be pleased.
+    notes: The Gin Rickey is the most prominent member of the Rickey Cocktail family, which basically calls for a shot of any straight spirit, a splash of freshly squeezed lime juice, and club soda, served tall. The story has it that the founding father of this cocktail trend was a retired Civil War colonel and lobbyist, Joe Rickey. The man loved his bourbon with soda and a squeeze of lime. He refused sugar on the grounds that “drinks with sugar heat the blood,” and as a string-puller in D.C., he clearly didn't want passion to interfere with clear thinking. We played with this cocktail but shelved it, feeling that although it is a wonderful drink, it was not intriguing enough to put on our menu. Then we made our own lime cordial. The concentrated flavor of the sweetened cordial created the same feel as the original, only with more depth and intensity and more focus on the gin. Also, our lime cordial is sweetened not with sugar but with agave nectar, which has a much lower glycemic index and therefore should not “heat” the blood as much. The good colonel would be pleased.
     glassware: collins
     ingredients:
     - 1¾ ounces Plymouth gin
@@ -616,7 +616,7 @@ recipes:
     - shaken
     - citrus
   - name: Gin on Gin Julep
-    notes: The original Gin Julep published in Harry Johnson’s 1882 Bartenders’ Manual was the only other julep that people generally ordered besides the whiskey and brandy versions. It’s likely that the prominent malt flavor of Holland gin, a product we know today as genever, appealed to the whiskey lover. With the rerelease of Bols Genever gin to the U.S. marketplace, we tested this cocktail but were not at first happy with the results. So we cut the amount of genever in half and substituted Plymouth gin for the other half–and then we had one of those great drinks that will stand the test of time. It is unlike most cocktails because it has two base spirits. It is delicate, light yet full-flavored, and very refreshing. It is a cocktail to fall in love with.
+    notes: The original Gin Julep published in Harry Johnson's 1882 Bartenders' Manual was the only other julep that people generally ordered besides the whiskey and brandy versions. It's likely that the prominent malt flavor of Holland gin, a product we know today as genever, appealed to the whiskey lover. With the rerelease of Bols Genever gin to the U.S. marketplace, we tested this cocktail but were not at first happy with the results. So we cut the amount of genever in half and substituted Plymouth gin for the other half–and then we had one of those great drinks that will stand the test of time. It is unlike most cocktails because it has two base spirits. It is delicate, light yet full-flavored, and very refreshing. It is a cocktail to fall in love with.
     glassware: rocks
     ingredients:
     - 15 large mint leaves
@@ -645,7 +645,7 @@ recipes:
     - ½ ounce homemade Mint Syrup or ½ ounce simple syrup
     - 2 dashes Angostura bitters
     - 1 splash sparkling water or club soda
-    - 2 ounces Maker’s Mark bourbon
+    - 2 ounces Maker's Mark bourbon
     - 1 mint sprig, for garnish
     steps:
     - Muddle the spearmint leaves with the syrup and bitters in the bottom of a rocks or Old Fashioned glass. 
@@ -659,7 +659,7 @@ recipes:
     - stirred
     - julep
   - name: Havana-Style Mojito
-    notes: The Mojito was born at the La Bodeguita del Medio in Havana, Cuba, in the 1940s. Legend has it that Ernest Hemingway wrote “My Mojito in La Bodeguita,” which still can be read today, hanging on the wall. Others claim that this was a forgery, a marketing ploy of the restaurant owners to promote their mojito cocktail and bring in tourists after communism took over. Over the last decade, the Mojito has quietly become one of the most recognized drinks in the world. Today, people carelessly consume it regardless of the season or weather. But somewhere along the way, the mojito has been reconfigured as a short, stout, bittersweet rum hybrid of muddled lime wedges and pulverized mint. Then a friend of ours who went to film school in Cuba came back and pointed out that mojitos were supposed to be tall, light, and fizzy, clean and effervescent. We brought it back to its true form and labeled it the Havana-Style Mojito. Although it never made it onto our menu, it is the closest you can get to a true mojito without the luxury of Havana Club Cuban rum. It is a fantastic cocktail–but please don’t order it while there is snow on the ground.
+    notes: The Mojito was born at the La Bodeguita del Medio in Havana, Cuba, in the 1940s. Legend has it that Ernest Hemingway wrote “My Mojito in La Bodeguita,” which still can be read today, hanging on the wall. Others claim that this was a forgery, a marketing ploy of the restaurant owners to promote their mojito cocktail and bring in tourists after communism took over. Over the last decade, the Mojito has quietly become one of the most recognized drinks in the world. Today, people carelessly consume it regardless of the season or weather. But somewhere along the way, the mojito has been reconfigured as a short, stout, bittersweet rum hybrid of muddled lime wedges and pulverized mint. Then a friend of ours who went to film school in Cuba came back and pointed out that mojitos were supposed to be tall, light, and fizzy, clean and effervescent. We brought it back to its true form and labeled it the Havana-Style Mojito. Although it never made it onto our menu, it is the closest you can get to a true mojito without the luxury of Havana Club Cuban rum. It is a fantastic cocktail–but please don't order it while there is snow on the ground.
     glassware: collins
     ingredients:
     - 3 pinches fresh mint leaves
@@ -773,13 +773,13 @@ recipes:
     - citrus
     - autumn
   - name: Whiskey Smash
-    notes: According to David Wondrich, the Whiskey Smash comes from the Baroque Age of the cocktail. Obviously, it served as inspiration for our seasonal Ginger Smash cocktails, but it is in all its features a julep–the only difference being that the Smash has some ornamental fruits for garnish and is always shaken so that the mint is “smashed”–hence the name. From all the smashes in the Baroque Age, it appears that the Brandy Smash was the most popular (same drink, different base spirit–try it out for yourself), but somehow the whiskey version stuck with us. Maybe sampling Dale DeGroff’s rocking peach whiskey smash sealed the deal for us, or maybe it was just that we loved the term “smashed.” In any case, this is a very simple drink to make, and we suggest that you use our homemade Mint Syrup in place of simple syrup for a far more dimensional cocktail experience. This cocktail is one of the very few that contains no juice but nevertheless should be shaken and smashed.
+    notes: According to David Wondrich, the Whiskey Smash comes from the Baroque Age of the cocktail. Obviously, it served as inspiration for our seasonal Ginger Smash cocktails, but it is in all its features a julep–the only difference being that the Smash has some ornamental fruits for garnish and is always shaken so that the mint is “smashed”–hence the name. From all the smashes in the Baroque Age, it appears that the Brandy Smash was the most popular (same drink, different base spirit–try it out for yourself), but somehow the whiskey version stuck with us. Maybe sampling Dale DeGroff's rocking peach whiskey smash sealed the deal for us, or maybe it was just that we loved the term “smashed.” In any case, this is a very simple drink to make, and we suggest that you use our homemade Mint Syrup in place of simple syrup for a far more dimensional cocktail experience. This cocktail is one of the very few that contains no juice but nevertheless should be shaken and smashed.
     glassware: rocks
     ingredients:
     - 2 orange half-wheels
     - 1-finger pinch fresh mint leaves
     - ½ ounce homemade Mint Syrup
-    - 2 ounces Michter’s US No. 1 Rye Whiskey
+    - 2 ounces Michter's US No. 1 Rye Whiskey
     - Seasonal berries (strawberries, blackberries, blueberries, raspberries, currants, black currants, mulberries), for garnish
     - 1 mint sprig, for garnish
     steps:
@@ -794,7 +794,7 @@ recipes:
     - "speakeasy: long drinks and fancy cocktails"
     - shaken
   - name: Grand Fashioned
-    notes: This Grand Fashioned was the first-place winner of Grand Marnier and the New York Film Festival’s Independent Cocktail Festival in 1999, long before we ever opened Employees Only. The idea was to get two ounces of Grand Marnier into a cocktail without being cloyingly sweet. To balance this much Curaçao, we muddle fresh blood oranges with lime juice, sugar, and dashes of Angostura bitters. This cocktail looked so much like the contemporary recipe for an Old Fashioned that the name just took over. For the competition, we garnished the drink with a kumquat that had to be tediously scored and peeled to resemble a “blossom,” then stained inside with grenadine. You can imagine our surprise when, upon winning, we were told we would need to make five hundred of these cocktails at the premiere for All About My Mother by director Pedro Almodóvar. The Grand Fashioned is so rich and luscious that it can be consumed as an after-dinner drink.
+    notes: This Grand Fashioned was the first-place winner of Grand Marnier and the New York Film Festival's Independent Cocktail Festival in 1999, long before we ever opened Employees Only. The idea was to get two ounces of Grand Marnier into a cocktail without being cloyingly sweet. To balance this much Curaçao, we muddle fresh blood oranges with lime juice, sugar, and dashes of Angostura bitters. This cocktail looked so much like the contemporary recipe for an Old Fashioned that the name just took over. For the competition, we garnished the drink with a kumquat that had to be tediously scored and peeled to resemble a “blossom,” then stained inside with grenadine. You can imagine our surprise when, upon winning, we were told we would need to make five hundred of these cocktails at the premiere for All About My Mother by director Pedro Almodóvar. The Grand Fashioned is so rich and luscious that it can be consumed as an after-dinner drink.
     glassware: rocks
     ingredients:
     - 1 teaspoon superfine sugar
@@ -833,7 +833,7 @@ recipes:
     - stirred
     - old-fashioned
   - name: "Old Fashioned #2"
-    notes: We will not simply turn a blind eye to the contemporary version of the Old Fashioned–it was the first cocktail we were taught that used bitters. Somewhere between the 1890s and 1930s, what probably started out as an ornamental garnish of orange and cherry fell into the mixing glass and got muddled with sugar and bitters. We see evidence of this drink in Burke’s Complete Cocktail and Drinking Recipes from 1936, in which the fruit is muddled, whereas during the same period Old Mr. Boston Bartender’s Guide continued to add the fruit after making the drink. More than likely it was a trick used during Prohibition to mask poor-quality booze that stuck with many and was passed down over the generations. Today, many look down on this version of the cocktail, mostly because of the use of commercial, artificial maraschino cherries. Many young cocktail enthusiasts may not have enjoyed this cocktail in its original form, so we offer this restoration for them.
+    notes: We will not simply turn a blind eye to the contemporary version of the Old Fashioned–it was the first cocktail we were taught that used bitters. Somewhere between the 1890s and 1930s, what probably started out as an ornamental garnish of orange and cherry fell into the mixing glass and got muddled with sugar and bitters. We see evidence of this drink in Burke's Complete Cocktail and Drinking Recipes from 1936, in which the fruit is muddled, whereas during the same period Old Mr. Boston Bartender's Guide continued to add the fruit after making the drink. More than likely it was a trick used during Prohibition to mask poor-quality booze that stuck with many and was passed down over the generations. Today, many look down on this version of the cocktail, mostly because of the use of commercial, artificial maraschino cherries. Many young cocktail enthusiasts may not have enjoyed this cocktail in its original form, so we offer this restoration for them.
     glassware: rocks
     ingredients:
     - 1 raw brown sugar cube
@@ -856,7 +856,7 @@ recipes:
     - stirred
     - old-fashioned
   - name: Greenwich Sour
-    notes: Stunning to look at, the Greenwich Sour is rich and frothy, with a band of red wine floating on top. It is a variation of a Prohibition classic, the New York Sour. The key difference between the two is that we have added an egg white in our take, a practice common throughout the history of making sours. Many people today are wary about consuming raw eggs for fear of salmonella. The risk of contamination is actually quite low and can be reduced even more by using eggs from free-range chickens; add high-proof spirit to that, and the chances of getting sick are reduced to almost nothing. The egg white adds texture to the cocktail by trapping air and requires a very long hard shake to create the necessary consistency. Many bartenders will shake the egg white on its own first to begin this process. To give the Greenwich Sour its necessary backbone, it is important to use high-proof whiskey to cut through the sour body. The wine’s tannins add depth to the cocktail and complete its finish.
+    notes: Stunning to look at, the Greenwich Sour is rich and frothy, with a band of red wine floating on top. It is a variation of a Prohibition classic, the New York Sour. The key difference between the two is that we have added an egg white in our take, a practice common throughout the history of making sours. Many people today are wary about consuming raw eggs for fear of salmonella. The risk of contamination is actually quite low and can be reduced even more by using eggs from free-range chickens; add high-proof spirit to that, and the chances of getting sick are reduced to almost nothing. The egg white adds texture to the cocktail by trapping air and requires a very long hard shake to create the necessary consistency. Many bartenders will shake the egg white on its own first to begin this process. To give the Greenwich Sour its necessary backbone, it is important to use high-proof whiskey to cut through the sour body. The wine's tannins add depth to the cocktail and complete its finish.
     glassware: rocks
     ingredients:
     - ¾ ounces Wild Turkey 101-proof rye whiskey
@@ -868,7 +868,7 @@ recipes:
     - ¾ ounce dry red wine (Malbec or Syrah)
     steps:
     - Pour the whiskey, juice, syrup, and egg white into a mixing glass. 
-    - Add large cold ice cubes and shake vigorously for at least 1 minute; when your hands start to freeze and you can’t shake any more, you’ll know it’s enough. 
+    - Add large cold ice cubes and shake vigorously for at least 1 minute; when your hands start to freeze and you can't shake any more, you'll know it's enough. 
     - Strain into a rocks glass over large cold ice cubes. 
     - Float the red wine on top. 
     - Garnish with the orange and cherry.
@@ -879,7 +879,7 @@ recipes:
     - shaken
     - citrus
   - name: New York Sour
-    notes: We discovered the New York Sour in the summer of 2003 while we were researching cocktails to put on the opening drink list for Keith McNally’s Schiller’s Liquor Bar on the Lower East Side. Visually inviting, this sour is deep yellow with a crimson band of red wine floating on top. The origin of the cocktail is shrouded in mystery, but it is certain that it was served at several New York City speakeasies in the late 1920s. It was no surprise to discover that this cocktail was New York’s Prohibition-era favorite, probably because the lemon juice, sugar, and wine camouflaged and successfully balanced the bad watered-down whiskey common in those days. It was the cool drink to have, and people who ordered it were “in the know.” Think of it as the Prohibition-era Cosmo–or any other status-symbol cocktail that clearly advertises itself in appearance. Made with better ingredients, the cocktail became a masterpiece of complex flavors and mouthfeel. A chef friend of ours once remarked that this drink is like sangria à la minute–and one of the few cocktails that can be successfully paired with a main course.
+    notes: We discovered the New York Sour in the summer of 2003 while we were researching cocktails to put on the opening drink list for Keith McNally's Schiller's Liquor Bar on the Lower East Side. Visually inviting, this sour is deep yellow with a crimson band of red wine floating on top. The origin of the cocktail is shrouded in mystery, but it is certain that it was served at several New York City speakeasies in the late 1920s. It was no surprise to discover that this cocktail was New York's Prohibition-era favorite, probably because the lemon juice, sugar, and wine camouflaged and successfully balanced the bad watered-down whiskey common in those days. It was the cool drink to have, and people who ordered it were “in the know.” Think of it as the Prohibition-era Cosmo–or any other status-symbol cocktail that clearly advertises itself in appearance. Made with better ingredients, the cocktail became a masterpiece of complex flavors and mouthfeel. A chef friend of ours once remarked that this drink is like sangria à la minute–and one of the few cocktails that can be successfully paired with a main course.
     glassware: rocks
     ingredients:
     - 1¾ ounces Rittenhouse 100-proof rye whiskey
@@ -901,7 +901,7 @@ recipes:
     - shaken
     - citrus
   - name: Whiskey Sour
-    notes: The Whiskey Sour is the pinnacle of the sour cocktail family and unarguably its most famous member. In Harry Johnson’s Bartenders’ Manual, the preferred method is to stir together sugar, water, and lemon juice before shaking with whiskey. During the dark ages of the cocktail in the 1970s and ‘80s, it was turned into a two-ingredient drink in which cheap blended whiskey was poured over ice with sweet-and-sour mix from a soda gun. However, the real Whiskey Sour has been resurrected and can be made in its pure form almost anywhere that has a decent cocktail menu, even by aspiring actors working as bartenders. It is a very straightforward cocktail with a strong base of whiskey mixed with simple syrup and sour, freshly squeezed lemon juice. To bring together the body, add a splash of orange juice–just realize that with more than a splash, this drink becomes a Stone Sour. It is a fairly easy drink that can help you master the balance between sweet and sour to spirit. Make sure you shake it enough so that a thin foam rests on the surface–that is the hallmark for Whiskey Sour fans.
+    notes: The Whiskey Sour is the pinnacle of the sour cocktail family and unarguably its most famous member. In Harry Johnson's Bartenders' Manual, the preferred method is to stir together sugar, water, and lemon juice before shaking with whiskey. During the dark ages of the cocktail in the 1970s and ‘80s, it was turned into a two-ingredient drink in which cheap blended whiskey was poured over ice with sweet-and-sour mix from a soda gun. However, the real Whiskey Sour has been resurrected and can be made in its pure form almost anywhere that has a decent cocktail menu, even by aspiring actors working as bartenders. It is a very straightforward cocktail with a strong base of whiskey mixed with simple syrup and sour, freshly squeezed lemon juice. To bring together the body, add a splash of orange juice–just realize that with more than a splash, this drink becomes a Stone Sour. It is a fairly easy drink that can help you master the balance between sweet and sour to spirit. Make sure you shake it enough so that a thin foam rests on the surface–that is the hallmark for Whiskey Sour fans.
     glassware: rocks
     ingredients:
     - 2 ounces Rittenhouse 100-proof rye whiskey
@@ -921,7 +921,7 @@ recipes:
     - shaken
     - citrus
   - name: New Yorker
-    notes: Robert Krueger, our bar manager, discovered the New Yorker in a vintage copy of Booth’s cocktail book from the late 1930s. It is an offshoot of the New York Sour, with the addition of club soda. Think of it as a rye Collins with a float of red wine. The New Yorker is tall and fizzy, great for a hot day, and certainly stunning to look at. This cocktail is also a great culinary example of how substituting or adding one ingredient can drastically change the style and feel of a cocktail. The club soda changes the character from a simple sour into a long drink, which changes the perception of consumption by reducing the acidity and intensity in each sip. Whereas a Whiskey Sour is more a late-evening and cold-weather drink, the New Yorker tends to be more of a lazy-afternoon and summertime treat.
+    notes: Robert Krueger, our bar manager, discovered the New Yorker in a vintage copy of Booth's cocktail book from the late 1930s. It is an offshoot of the New York Sour, with the addition of club soda. Think of it as a rye Collins with a float of red wine. The New Yorker is tall and fizzy, great for a hot day, and certainly stunning to look at. This cocktail is also a great culinary example of how substituting or adding one ingredient can drastically change the style and feel of a cocktail. The club soda changes the character from a simple sour into a long drink, which changes the perception of consumption by reducing the acidity and intensity in each sip. Whereas a Whiskey Sour is more a late-evening and cold-weather drink, the New Yorker tends to be more of a lazy-afternoon and summertime treat.
     glassware: collins
     ingredients:
     - 1¾ ounces Wild Turkey 101-proof rye whiskey
@@ -942,7 +942,7 @@ recipes:
     - shaken
     - citrus
   - name: Hemingway Daiquiri
-    notes: They say that the Hemingway Daiquiri was invented for Ernest Hemingway in the La Floradita bar in Cuba. Whether the stories are true or false, no person in history can match Ernest Hemingway as an Olympian cocktail connoisseur. He seems to have been the bartenders’ muse, allegedly ordering up the creation of new cocktails everywhere he went. He was at Harry’s American Bar in Paris when the Bloody Mary was born, he was a part of the Ritz crew that sipped Sidecars, and he fancied Mojitos at La Bodeguita del Medio in Havana. But only this Daiquiri has the honor of bearing his name. He loved it so much that he always had a double serving, which earned the cocktail the moniker Papa Doble, or Double for Daddy. Legend has it that Hemingway once consumed sixteen of them in a row and walked out as if nothing had happened. In our take on the Hemingway Daiquiri, we replace Bacardi with 10 Cane rum to add grassy sugarcane notes to the cocktail; a splash of simple syrup balances the tartness. The result tastes equally of all its components–a great cocktail to practice nosing while building the drink, as each ingredient drastically changes the aromas.
+    notes: They say that the Hemingway Daiquiri was invented for Ernest Hemingway in the La Floradita bar in Cuba. Whether the stories are true or false, no person in history can match Ernest Hemingway as an Olympian cocktail connoisseur. He seems to have been the bartenders' muse, allegedly ordering up the creation of new cocktails everywhere he went. He was at Harry's American Bar in Paris when the Bloody Mary was born, he was a part of the Ritz crew that sipped Sidecars, and he fancied Mojitos at La Bodeguita del Medio in Havana. But only this Daiquiri has the honor of bearing his name. He loved it so much that he always had a double serving, which earned the cocktail the moniker Papa Doble, or Double for Daddy. Legend has it that Hemingway once consumed sixteen of them in a row and walked out as if nothing had happened. In our take on the Hemingway Daiquiri, we replace Bacardi with 10 Cane rum to add grassy sugarcane notes to the cocktail; a splash of simple syrup balances the tartness. The result tastes equally of all its components–a great cocktail to practice nosing while building the drink, as each ingredient drastically changes the aromas.
     glassware: nick & nora
     ingredients:
     - 1¾ ounces 10 Cane rum
@@ -965,7 +965,7 @@ recipes:
     - citrus
     - daiquiri
   - name: Classic Daiquiri
-    notes: The British Royal Navy, like every armed force, loves rules and discipline. So in 1740, they issued a rule that every sailor be supplied with a daily ration of grog, which he had to consume. No exceptions! By 1795, the recipe for grog called for rum, water, lime or lemon juice, and sugar. What a splendid idea! You’ve got to love the British; with that act, not only did they cure and prevent scurvy, but they also ensured that the crews had something to look forward to every day on long voyages. It was so popular that it quickly spread across the whole Caribbean and South America. The origins of the Daiquiri itself are somewhat vague, but most clues lead to a bar in Santiago, Cuba, called Venus. Near that bar there is a beach called Daiquiri–hence the name. The drink itself was supposedly invented by an American engineer, Jennings Cox, general manager of the Spanish American Iron Company who while stationed in Cuba ran out of gin and turned to rum to entertain his guests. The original recipe is simply beautiful, relying on the freshness of the limes and the quality of the rum. It is an exercise in balancing sweet and sour while letting the light, grassy, earthy rum flavor carry through.
+    notes: The British Royal Navy, like every armed force, loves rules and discipline. So in 1740, they issued a rule that every sailor be supplied with a daily ration of grog, which he had to consume. No exceptions! By 1795, the recipe for grog called for rum, water, lime or lemon juice, and sugar. What a splendid idea! You've got to love the British; with that act, not only did they cure and prevent scurvy, but they also ensured that the crews had something to look forward to every day on long voyages. It was so popular that it quickly spread across the whole Caribbean and South America. The origins of the Daiquiri itself are somewhat vague, but most clues lead to a bar in Santiago, Cuba, called Venus. Near that bar there is a beach called Daiquiri–hence the name. The drink itself was supposedly invented by an American engineer, Jennings Cox, general manager of the Spanish American Iron Company who while stationed in Cuba ran out of gin and turned to rum to entertain his guests. The original recipe is simply beautiful, relying on the freshness of the limes and the quality of the rum. It is an exercise in balancing sweet and sour while letting the light, grassy, earthy rum flavor carry through.
     glassware: nick & nora
     ingredients:
     - 2½ ounces Flor de Caña four-year-old rum
@@ -985,13 +985,13 @@ recipes:
     - citrus
     - daiquiri
   - name: Jersey Devil
-    notes: There is an old tale about a creature that dwells in the Pine Barrens of southern New Jersey. The Jersey Devil is three and a half feet tall, with hoofed hind legs, claws on its front legs, a horse-like head, and bat wings. Rumored to be born of a witch and Satan himself, the Jersey Devil has been blamed for odd sightings, missing people, and stolen livestock since colonial days. Around the same time the legend was born, the Laird family began distilling apple cider. Perfecting the family recipe for applejack, the Laird & Company Distillery became the first commercial distillery in America and is still in business today. They even weathered Prohibition, selling sweet cider and applesauce until they received a special license to produce “medicinal brandy.” Their two main products are Laird’s Apple Brandy and Laird’s AppleJack. The brandy is a 100-proof spirit distilled solely from apples; the AppleJack is a blended spirit of 35 percent apple brandy and 65 percent whiskey. Our Jersey Devil cocktail artistically uses the 100-percent apple brandy and blends it with a unique ingredient–the English Bishop, which calls for roasting a clove-studded orange in a fire and infusing it with port wine. This drink was one of the first to fall into our “fancy cocktail” category because of the detail in the ingredients. It’s also a killer drink and can be successfully used to bait and tranquilize a Jersey Devil.
+    notes: There is an old tale about a creature that dwells in the Pine Barrens of southern New Jersey. The Jersey Devil is three and a half feet tall, with hoofed hind legs, claws on its front legs, a horse-like head, and bat wings. Rumored to be born of a witch and Satan himself, the Jersey Devil has been blamed for odd sightings, missing people, and stolen livestock since colonial days. Around the same time the legend was born, the Laird family began distilling apple cider. Perfecting the family recipe for applejack, the Laird & Company Distillery became the first commercial distillery in America and is still in business today. They even weathered Prohibition, selling sweet cider and applesauce until they received a special license to produce “medicinal brandy.” Their two main products are Laird's Apple Brandy and Laird's AppleJack. The brandy is a 100-proof spirit distilled solely from apples; the AppleJack is a blended spirit of 35 percent apple brandy and 65 percent whiskey. Our Jersey Devil cocktail artistically uses the 100-percent apple brandy and blends it with a unique ingredient–the English Bishop, which calls for roasting a clove-studded orange in a fire and infusing it with port wine. This drink was one of the first to fall into our “fancy cocktail” category because of the detail in the ingredients. It's also a killer drink and can be successfully used to bait and tranquilize a Jersey Devil.
     glassware: nick & nora
     ingredients:
     - 1¾ ounces English Bishop
-    - 1½ ounces Laird’s straight apple brandy
+    - 1½ ounces Laird's straight apple brandy
     - ½ ounce Berentzen Apfelkorn apple liqueur
-    - 3 dashes Peychaud’s bitters
+    - 3 dashes Peychaud's bitters
     - 1 orange half-wheel, for garnish
     steps:
     - Pour the English Bishop, brandy, apple liqueur, and bitters into a mixing glass. 
@@ -1006,10 +1006,10 @@ recipes:
     - old-fashioned
     - freezer bar
   - name: Jack Rose
-    notes: Before corporate America overwhelmed New York City with its massive amounts of money, shallowness, and brainwashing, the Big Apple was a very lively and dangerous place. Historically, no other city housed such a menagerie of characters, lowlifes, gangsters, and crooks, whose activities gained them a healthy prominence and romantic fame. One of those guys was Jacob “Jack” Rosenzweig, aka Jack Rose. Born in Poland, this famous gambler of the day grew up in the late 1800s in Connecticut and later moved to New York City, where he opened a gambling den, Second Avenue. Although he was not of the caliber of Lucky Luciano or Meyer Lansky, he became very popular when he turned state’s evidence against Lieutenant Charles Becker, a crooked cop linked to bookies and gambling houses around town. Due to Jack Rose’s testimony, Becker was convicted and received the death sentence. Jack in turn became a hero for the common man. The Jack Rose cocktail was created in his honor in 1912 or 1913, using applejack as the dominant ingredient. It remained a crowd-pleaser throughout the Prohibition era because apple brandy was easy to bootleg and was considered one of the safest spirits of the day. We love the version with our homemade grenadine and believe that it makes a fantastic contribution to this Prohibition-era classic.
+    notes: Before corporate America overwhelmed New York City with its massive amounts of money, shallowness, and brainwashing, the Big Apple was a very lively and dangerous place. Historically, no other city housed such a menagerie of characters, lowlifes, gangsters, and crooks, whose activities gained them a healthy prominence and romantic fame. One of those guys was Jacob “Jack” Rosenzweig, aka Jack Rose. Born in Poland, this famous gambler of the day grew up in the late 1800s in Connecticut and later moved to New York City, where he opened a gambling den, Second Avenue. Although he was not of the caliber of Lucky Luciano or Meyer Lansky, he became very popular when he turned state's evidence against Lieutenant Charles Becker, a crooked cop linked to bookies and gambling houses around town. Due to Jack Rose's testimony, Becker was convicted and received the death sentence. Jack in turn became a hero for the common man. The Jack Rose cocktail was created in his honor in 1912 or 1913, using applejack as the dominant ingredient. It remained a crowd-pleaser throughout the Prohibition era because apple brandy was easy to bootleg and was considered one of the safest spirits of the day. We love the version with our homemade grenadine and believe that it makes a fantastic contribution to this Prohibition-era classic.
     glassware: nick & nora
     ingredients:
-    - 1½ ounces Laird’s straight apple brandy or AppleJack
+    - 1½ ounces Laird's straight apple brandy or AppleJack
     - ¾ ounce freshly squeezed lemon juice
     - ½ ounce simple syrup
     - ¼ ounce homemade Grenadine
@@ -1116,7 +1116,7 @@ recipes:
     - shaken
     - citrus
   - name: Mediterra
-    notes: This all-year-round cocktail, an Employees Only original, is a fine example of what you can do with a less-inspiring spirit like vodka. We wanted to combine traditional Mediterranean flavors such as figs, lemon, and honey. Mixing with vodka is a challenge similar to that of cooking with tofu; no matter what you do to it, it’s still tofu. All the flavor and texture comes from the other ingredients in the mixture; vodka really contributes only alcohol to the structure of the cocktail. In the case of the Mediterra, any other spirit would interfere with the clean balance of fig to honey.
+    notes: This all-year-round cocktail, an Employees Only original, is a fine example of what you can do with a less-inspiring spirit like vodka. We wanted to combine traditional Mediterranean flavors such as figs, lemon, and honey. Mixing with vodka is a challenge similar to that of cooking with tofu; no matter what you do to it, it's still tofu. All the flavor and texture comes from the other ingredients in the mixture; vodka really contributes only alcohol to the structure of the cocktail. In the case of the Mediterra, any other spirit would interfere with the clean balance of fig to honey.
     glassware: nick & nora
     ingredients:
     - 2 ounces Luksusowa potato vodka
@@ -1134,10 +1134,10 @@ recipes:
     - shaken
     - citrus
   - name: Bee's Knees
-    notes: Have you ever heard the slang term “the bee’s knees”? It was used in the 1920s during the Noble Experiment to describe something really cool and hip. The cocktail itself appeared sometime during Prohibition. The recipe appears in cocktail books printed after 1936, which helps back this theory. It is fairly easy to make—the trick is to use honey syrup instead of honey itself, as honey will not dissolve when shaken with ice in a cocktail. We suggest Cadenhead’s Old Raj saffron-infused gin, at 55 percent alcohol by volume. Some authorities claim this cocktail can also be made with rum. If you’re game, we suggest the Flor de Caña four-year-old clear rum, which adds the perfect amount of grassiness and earthiness to the overall flavor profile.
+    notes: Have you ever heard the slang term “the bee's knees”? It was used in the 1920s during the Noble Experiment to describe something really cool and hip. The cocktail itself appeared sometime during Prohibition. The recipe appears in cocktail books printed after 1936, which helps back this theory. It is fairly easy to make—the trick is to use honey syrup instead of honey itself, as honey will not dissolve when shaken with ice in a cocktail. We suggest Cadenhead's Old Raj saffron-infused gin, at 55 percent alcohol by volume. Some authorities claim this cocktail can also be made with rum. If you're game, we suggest the Flor de Caña four-year-old clear rum, which adds the perfect amount of grassiness and earthiness to the overall flavor profile.
     glassware: nick & nora
     ingredients:
-    - 2 ounces Cadenhead’s Old Raj gin 55
+    - 2 ounces Cadenhead's Old Raj gin 55
     - 1 ounce Honey Syrup
     - ¾ ounce freshly squeezed lemon juice
     - 1 lemon twist, for garnish
@@ -1152,7 +1152,7 @@ recipes:
     - shaken
     - citrus
   - name: Pimm's Cup
-    notes: "Pimm’s is a proprietary cocktail in a bottle created by James Pimm in 1820 for his London oyster bar. His first blend, Pimm’s No. 1 Cup, was a gin-based liqueur infused with quinine, fruit extracts, and a secret blend of herbs. The word “cup” in this case refers to a punch made with spirits, wine, and soda or sparkling wine. Pimm started commercially offering Pimm’s No. 1 Cup around 1859, and by the end of World War II five more bottled blends had been developed: Pimm’s No. 2 Cup, based on Scotch whisky; No. 3, on brandy; No. 4, on rum; No. 5, on rye whiskey; and finally, No. 6, on vodka. Originally, most cups were garnished with cucumber or cucumber peel. Employees Only pays tribute to this forgotten trend in our Pimm’s Cup cocktail, which can be made as a long drink or in large batches or pitchers for parties. We build the base of the cocktail with Cointreau and fresh lime juice to add more alcohol and firm up the body. Fresh mint and delicious thinly sliced cucumbers are lightly bruised in the shake to release aroma, and we top it off with ginger ale, which adds to and opens up the bright flavors of the cocktail."
+    notes: "Pimm's is a proprietary cocktail in a bottle created by James Pimm in 1820 for his London oyster bar. His first blend, Pimm's No. 1 Cup, was a gin-based liqueur infused with quinine, fruit extracts, and a secret blend of herbs. The word “cup” in this case refers to a punch made with spirits, wine, and soda or sparkling wine. Pimm started commercially offering Pimm's No. 1 Cup around 1859, and by the end of World War II five more bottled blends had been developed: Pimm's No. 2 Cup, based on Scotch whisky; No. 3, on brandy; No. 4, on rum; No. 5, on rye whiskey; and finally, No. 6, on vodka. Originally, most cups were garnished with cucumber or cucumber peel. Employees Only pays tribute to this forgotten trend in our Pimm's Cup cocktail, which can be made as a long drink or in large batches or pitchers for parties. We build the base of the cocktail with Cointreau and fresh lime juice to add more alcohol and firm up the body. Fresh mint and delicious thinly sliced cucumbers are lightly bruised in the shake to release aroma, and we top it off with ginger ale, which adds to and opens up the bright flavors of the cocktail."
     glassware: collins
     ingredients:
     - 2 ounces Pimm's No. 1 Cup
@@ -1162,7 +1162,7 @@ recipes:
     - 6 fresh mint leaves
     - 1 ounce ginger ale
     steps:
-    - Pour the Pimm’s, Cointreau, and lime juice into a Collins glass. 
+    - Pour the Pimm's, Cointreau, and lime juice into a Collins glass. 
     - Add the cucumber and mint. 
     - Fill with large cold ice cubes and cover the glass with a small shaker top. 
     - Shake briefly and top off with ginger ale.
@@ -1173,7 +1173,7 @@ recipes:
     - shaken
     - citrus
   - name: Classic Pimm's Cup
-    notes: Pimm’s is as British as cricket or a cup of tea and has gained in recognition with the general rebirth of the classic cocktail. The original recipe for the Pimm’s Cup is a very simple affair of Pimm’s No. 1 and lemon-lime soda served over ice with slices of cucumber. The Brits refer to this simply as Pimm’s and Lemonade (“lemonade” being the UK term for lemon-lime soda). What is fantastic about this recipe is the simplicity of ingredients. Add some cucumber and even a little mint and you have already elevated the cocktail. Try substituting champagne in the cocktail or even adding seasonal fruits to the mix, and you are light years beyond a simple highball.
+    notes: Pimm's is as British as cricket or a cup of tea and has gained in recognition with the general rebirth of the classic cocktail. The original recipe for the Pimm's Cup is a very simple affair of Pimm's No. 1 and lemon-lime soda served over ice with slices of cucumber. The Brits refer to this simply as Pimm's and Lemonade (“lemonade” being the UK term for lemon-lime soda). What is fantastic about this recipe is the simplicity of ingredients. Add some cucumber and even a little mint and you have already elevated the cocktail. Try substituting champagne in the cocktail or even adding seasonal fruits to the mix, and you are light years beyond a simple highball.
     glassware: collins
     ingredients:
     - 2 ounces Pimm's No. 1 Cup
@@ -1181,7 +1181,7 @@ recipes:
     - 6 fresh mint leaves
     - 3 ounces lemon-lime soda
     steps:
-    - Pour the Pimm’s into a Collins glass. 
+    - Pour the Pimm's into a Collins glass. 
     - Add the cucumbers and mint and large cold ice cubes. 
     - Top off with the soda.
     tags:
@@ -1191,7 +1191,7 @@ recipes:
     - shaken
     - citrus
   - name: Gringo Pisco Sour
-    notes: We have served this variation of the Pisco Sour ever since we first learned about the drink in the mid-1990s. There weren’t many Pisco choices available back then, so we worked with what we had. One brand we used was Pisco Capel Reservado from Chile, a blend of 30 percent Muscat and 70 percent Pedro Jimenez and Torontel grapes, which give the spirit a nice sweet full flavor, as it’s aged in wood for up to 6 months. Because of the slight oak, it combines beautifully with fresh lemon juice, so our variation was a gringo-styled sour, tall over ice. Little did we know that the true Peruvian Pisco Sour was created by a gringo as well.
+    notes: We have served this variation of the Pisco Sour ever since we first learned about the drink in the mid-1990s. There weren't many Pisco choices available back then, so we worked with what we had. One brand we used was Pisco Capel Reservado from Chile, a blend of 30 percent Muscat and 70 percent Pedro Jimenez and Torontel grapes, which give the spirit a nice sweet full flavor, as it's aged in wood for up to 6 months. Because of the slight oak, it combines beautifully with fresh lemon juice, so our variation was a gringo-styled sour, tall over ice. Little did we know that the true Peruvian Pisco Sour was created by a gringo as well.
     glassware: collins
     ingredients:
     - 2 ounces Pisco Capel Reservado brandy
@@ -1214,7 +1214,7 @@ recipes:
     - shaken
     - citrus
   - name: Peruvian Pisco Sour
-    notes: "The Pisco Sour is the official drink of Peru; there is even a National Pisco Sour Day, celebrated the first Saturday in February. Pisco brandy was first established by Spanish conquistadors, who planted grape vines as they traversed the mountainous terrains of Chile and Peru–and Chile also claims the Pisco as a national treasure. There is good reason for the debate, as Pisco was the first distilled spirit in the New World. The now-classic Pisco Sour was created in the 1920s by ex-pat American bartender Victor V. “Gringo” Morris at the Morris’ Bar in Lima, as a local variation on the Whiskey Sour. The cocktail became a favorite among the locals and quickly spread up the West Coast of America as far north as San Francisco, where it was popular by the late 1930s. This version contained pisco brandy, egg white, lime juice, simple syrup, and aromatic bitters served frothy and straight up. A specific kind of lime called Limon de Pica is the right ingredient for the Peruvian classic. Some places in Peru grate nutmeg or cinnamon on top of the cocktail to finish it; our version includes the nutmeg. The Peruvian Pisco Sour is the perfect brunch companion as a restorative drink: musky and clean, with a rich texture and alluring bitters."
+    notes: "The Pisco Sour is the official drink of Peru; there is even a National Pisco Sour Day, celebrated the first Saturday in February. Pisco brandy was first established by Spanish conquistadors, who planted grape vines as they traversed the mountainous terrains of Chile and Peru–and Chile also claims the Pisco as a national treasure. There is good reason for the debate, as Pisco was the first distilled spirit in the New World. The now-classic Pisco Sour was created in the 1920s by ex-pat American bartender Victor V. “Gringo” Morris at the Morris' Bar in Lima, as a local variation on the Whiskey Sour. The cocktail became a favorite among the locals and quickly spread up the West Coast of America as far north as San Francisco, where it was popular by the late 1930s. This version contained pisco brandy, egg white, lime juice, simple syrup, and aromatic bitters served frothy and straight up. A specific kind of lime called Limon de Pica is the right ingredient for the Peruvian classic. Some places in Peru grate nutmeg or cinnamon on top of the cocktail to finish it; our version includes the nutmeg. The Peruvian Pisco Sour is the perfect brunch companion as a restorative drink: musky and clean, with a rich texture and alluring bitters."
     glassware: nick & nora
     ingredients:
     - 2 ounces BarSol Pisco Quebranta brandy
@@ -1235,7 +1235,7 @@ recipes:
     - shaken
     - citrus
   - name: Pisco Punch
-    notes: Pisco became popular on the West Coast, especially in San Francisco, during the days of the Gold Rush. Many ships would bring men from the East Coast around Cape Horn, through the Strait of Magellan and up the West Coast. One of the stops for provisions was the popular port town of Pisco. There they would load up on the eponymous brandy and bring whatever was left with them to Northern California. Soon the spirit became a commodity on the trade route of the western seaboard. (This would, of course, later decline with the creation of the Panama Canal cutting Peru out of the route.) The Pisco Punch was created during the late 1800s by a barkeep named Duncan Nicol at the Bank Exchange and Billiard Saloon in San Francisco. The exact recipe was never shared with anyone but was enjoyed by the likes of Mark Twain and Jack London. After Nicol’s passing, those who knew offered up their interpretations of the Pisco Punch.
+    notes: Pisco became popular on the West Coast, especially in San Francisco, during the days of the Gold Rush. Many ships would bring men from the East Coast around Cape Horn, through the Strait of Magellan and up the West Coast. One of the stops for provisions was the popular port town of Pisco. There they would load up on the eponymous brandy and bring whatever was left with them to Northern California. Soon the spirit became a commodity on the trade route of the western seaboard. (This would, of course, later decline with the creation of the Panama Canal cutting Peru out of the route.) The Pisco Punch was created during the late 1800s by a barkeep named Duncan Nicol at the Bank Exchange and Billiard Saloon in San Francisco. The exact recipe was never shared with anyone but was enjoyed by the likes of Mark Twain and Jack London. After Nicol's passing, those who knew offered up their interpretations of the Pisco Punch.
     glassware: wine glass
     ingredients:
     - 2 1-inch cubes fresh pineapple
@@ -1258,10 +1258,10 @@ recipes:
     - shaken
     - citrus
   - name: Quiet Storm
-    notes: Inspiration for the Quiet Storm comes from hot, steamy New York City summer days. EO bartender Milos Zica wanted to find a refreshing bourbon cocktail that would transcend age and gender. His journey began by creating an infusion using T Salon’s Silence tea, made from rooibos or South African red bush tea with roses, vanilla, orange, and almonds–ingredients all known for their soothing properties. He steeped it in bianco or sweet white vermouth to help retain the softer flavors while showcasing the terra-cotta hue of the tea. Finished with ginger beer, lemon juice, and simple syrup, this drink lives up to its intended purpose as an elegant yet simple refreshing whiskey cocktail. The name hints at the Silence tea moniker while also hinting at the ginger beer found in a Dark and Stormy.
+    notes: Inspiration for the Quiet Storm comes from hot, steamy New York City summer days. EO bartender Milos Zica wanted to find a refreshing bourbon cocktail that would transcend age and gender. His journey began by creating an infusion using T Salon's Silence tea, made from rooibos or South African red bush tea with roses, vanilla, orange, and almonds–ingredients all known for their soothing properties. He steeped it in bianco or sweet white vermouth to help retain the softer flavors while showcasing the terra-cotta hue of the tea. Finished with ginger beer, lemon juice, and simple syrup, this drink lives up to its intended purpose as an elegant yet simple refreshing whiskey cocktail. The name hints at the Silence tea moniker while also hinting at the ginger beer found in a Dark and Stormy.
     glassware: collins
     ingredients:
-    - 1½ ounces Maker’s Mark bourbon
+    - 1½ ounces Maker's Mark bourbon
     - 1 ounce Red Bush-Infused Vermouth
     - ¾ ounce freshly squeezed lemon juice
     - ½ ounce simple syrup
@@ -1280,14 +1280,14 @@ recipes:
     - shaken
     - citrus
   - name: Dark and Stormy
-    notes: Dark and Stormy was created specifically for Gosling’s Black Seal rum in much the same way that the Moscow Mule was created for Smirnoff. The original recipe called for Gosling’s, ginger beer, and a lime. This simple com-bination works very well to create an interesting highball, but to expand on its potential, many mixologists have reconstructed it, and its popularity has approached that of the mojito. Over the years, we have created many recipes for our Dark and Stormy, using varying ingredients such as fresh gingerroot, lime juice, and even walnut liqueur. Today, we have settled on using dark rum, homemade ginger beer, and lime juice with the addition of Velvet Falernum–a clove-almond-flavored liqueur that bridges the flavors of molasses and fiery ginger.
+    notes: Dark and Stormy was created specifically for Gosling's Black Seal rum in much the same way that the Moscow Mule was created for Smirnoff. The original recipe called for Gosling's, ginger beer, and a lime. This simple com-bination works very well to create an interesting highball, but to expand on its potential, many mixologists have reconstructed it, and its popularity has approached that of the mojito. Over the years, we have created many recipes for our Dark and Stormy, using varying ingredients such as fresh gingerroot, lime juice, and even walnut liqueur. Today, we have settled on using dark rum, homemade ginger beer, and lime juice with the addition of Velvet Falernum–a clove-almond-flavored liqueur that bridges the flavors of molasses and fiery ginger.
     glassware: collins
     ingredients:
-    - ½ ounce John D. Taylor’s Velvet Falernum liqueur
+    - ½ ounce John D. Taylor's Velvet Falernum liqueur
     - ½ ounce freshly squeezed lime juice
     - 1 lime wheel
     - 4 ounces Spicy Ginger Beer or Fever-Tree ginger beer
-    - 2 ounces Gosling’s Black Seal rum
+    - 2 ounces Gosling's Black Seal rum
     steps:
     - Pour the liqueur and juice into a Collins glass. Add large cold ice cubes and the lime wheel. 
     - Cover the glass with a small shaker and shake briefly. 
@@ -1300,7 +1300,7 @@ recipes:
     - shaken
     - citrus
   - name: Moscow Mule
-    notes: The Moscow Mule became the flagship drink for Smirnoff vodka in the 1950s and started the vodka craze in the United States. Previously, vodka was not widely known. But this cocktail saved a vodka distillery and a restaurant in West Hollywood from going bankrupt. The first American vodka distillery was started in Connecticut by John G. Martin, using a recipe he acquired in Paris from Pierre Smirnoff. For fifteen years, vodka sales were minuscule, and the Smirnoff vodka was known as “Martin’s Folly.” At the Cock ‘n’ Bull restaurant on Hollywood’s Sunset Strip, Martin met the owner, Jack Morgan, who was sitting on a large quantity of ginger beer he had produced under his restaurant’s name. Coincidentally, Morgan was also about to lose his shirt. With both sitting on a large stock of unsold product, the myth is that they got drunk and decided to marry their miseries with a squeeze of lime. They named the concoction Moscow Mule because of the kick of the ginger. They served the new drink in a personally engraved copper mug to every movie star, and it became an overnight smash. Cold War controversy added to the appeal among the liberal Hollywood bons vivants. But it wasn’t long before vodka outshone the cocktail that had given it celebrity. Once Zsa Zsa Gabor declared that she only drank Martinis made with Smirnoff, vodka sales soared.
+    notes: The Moscow Mule became the flagship drink for Smirnoff vodka in the 1950s and started the vodka craze in the United States. Previously, vodka was not widely known. But this cocktail saved a vodka distillery and a restaurant in West Hollywood from going bankrupt. The first American vodka distillery was started in Connecticut by John G. Martin, using a recipe he acquired in Paris from Pierre Smirnoff. For fifteen years, vodka sales were minuscule, and the Smirnoff vodka was known as “Martin's Folly.” At the Cock ‘n' Bull restaurant on Hollywood's Sunset Strip, Martin met the owner, Jack Morgan, who was sitting on a large quantity of ginger beer he had produced under his restaurant's name. Coincidentally, Morgan was also about to lose his shirt. With both sitting on a large stock of unsold product, the myth is that they got drunk and decided to marry their miseries with a squeeze of lime. They named the concoction Moscow Mule because of the kick of the ginger. They served the new drink in a personally engraved copper mug to every movie star, and it became an overnight smash. Cold War controversy added to the appeal among the liberal Hollywood bons vivants. But it wasn't long before vodka outshone the cocktail that had given it celebrity. Once Zsa Zsa Gabor declared that she only drank Martinis made with Smirnoff, vodka sales soared.
     glassware: julep tin
     ingredients:
     - 2 ounces Smirnoff vodka
@@ -1340,7 +1340,7 @@ recipes:
     - citrus
     - autumn
   - name: Frisco Sour
-    notes: We were surprised to discover the Frisco Sour, as it was so close in ingredients to our Ruby Tuesday cocktail. This very tasty cocktail provides a multidimensional gastronomical experience. We serve it mainly to people who are exploring whiskey cocktails other than Manhattans and traditional sours. We have little information about this savory cocktail besides its recipe as it appears in Charles Schumann’s American Bar and later editions of Mr. Boston.
+    notes: We were surprised to discover the Frisco Sour, as it was so close in ingredients to our Ruby Tuesday cocktail. This very tasty cocktail provides a multidimensional gastronomical experience. We serve it mainly to people who are exploring whiskey cocktails other than Manhattans and traditional sours. We have little information about this savory cocktail besides its recipe as it appears in Charles Schumann's American Bar and later editions of Mr. Boston.
     glassware: nick & nora
     ingredients:
     - 2 ounces Sazerac rye whiskey
@@ -1370,7 +1370,7 @@ recipes:
     - 1 egg white
     - ¾ ounce freshly squeezed lemon juice
     - ½ ounce simple syrup
-    - 1 dash Regan’s Orange Bitters No. 6
+    - 1 dash Regan's Orange Bitters No. 6
     - 1 orange twist, for garnish
     steps:
     - Pour the gin, egg white, juice, syrup, and bitters into a mixing glass. 
@@ -1383,7 +1383,7 @@ recipes:
     - shaken
     - citrus
   - name: White Lady
-    notes: This Prohibition-era cocktail is not very ladylike on the surface. On paper, it looks like a Sidecar made with gin, but nothing could be farther from the truth. We tasted this cocktail at the Savoy in London where it was invented, according to Harry Craddock, author of The Savoy Cocktail Book, which was published in 1930. Three high-quality ingredients and a master technique make this cocktail a high point of everyone’s evening. We suggest you pack your freezer full of large ice cubes, squeeze a lot of fresh lemon juice, and get going. Play some slapstick movies while you drink it–it is said that this cocktail was the favorite of Laurel and Hardy.
+    notes: This Prohibition-era cocktail is not very ladylike on the surface. On paper, it looks like a Sidecar made with gin, but nothing could be farther from the truth. We tasted this cocktail at the Savoy in London where it was invented, according to Harry Craddock, author of The Savoy Cocktail Book, which was published in 1930. Three high-quality ingredients and a master technique make this cocktail a high point of everyone's evening. We suggest you pack your freezer full of large ice cubes, squeeze a lot of fresh lemon juice, and get going. Play some slapstick movies while you drink it–it is said that this cocktail was the favorite of Laurel and Hardy.
     glassware: nick & nora
     ingredients:
     - 1¾ ounces Plymouth gin
@@ -1422,7 +1422,7 @@ recipes:
     - shaken
     - citrus
   - name: West Side
-    notes: This cocktail is an Employees Only variation of the famous South Side cocktail, first served in the 1920s at the New York speakeasy Jack & Charlie’s–now known as the 21 Club. We replaced the gin with Meyer lemon-infused vodka to achieve a more balanced, subtler concoction. God only knows how many West Sides we have pushed over the bar in the last five years. It is by far the most popular cocktail served at Employees Only and lends itself naturally to being enjoyed in the sun. Why is this cocktail so popular? Even if we ignore the fact that it is a vodka cocktail and the fact that we are witnessing the end of the reign of vodka, the simplicity of a cocktail with just lemon and mint flavors makes it addictive and refreshing. It will definitely be a favorite at any cocktail party, served over ice or in pitchers.
+    notes: This cocktail is an Employees Only variation of the famous South Side cocktail, first served in the 1920s at the New York speakeasy Jack & Charlie's–now known as the 21 Club. We replaced the gin with Meyer lemon-infused vodka to achieve a more balanced, subtler concoction. God only knows how many West Sides we have pushed over the bar in the last five years. It is by far the most popular cocktail served at Employees Only and lends itself naturally to being enjoyed in the sun. Why is this cocktail so popular? Even if we ignore the fact that it is a vodka cocktail and the fact that we are witnessing the end of the reign of vodka, the simplicity of a cocktail with just lemon and mint flavors makes it addictive and refreshing. It will definitely be a favorite at any cocktail party, served over ice or in pitchers.
     glassware: nick & nora
     ingredients:
     - 2 ounces Charbay Meyer lemon vodka
@@ -1441,7 +1441,7 @@ recipes:
     - shaken
     - citrus
   - name: South Side
-    notes: Also known as South Side Fizz, the South Side seems to have first been published by famous American bartender Harry Craddock in The Savoy Cocktail Book. His recipe called for dry gin, powdered sugar, the juice of half a lemon, and two sprigs of fresh mint, finished with a splash of siphon soda water. The birthplace is disputed among Jack & Charlie’s (now the 21 Club) in New York City, a forgotten speakeasy in the South Side of Chicago, and a Long Island country club in the late 1800s known as the Southside Club. There is no controversy that the 21 Club has served more of these than anyone over the decades and they can lay claim to the South Side as their house cocktail. We’ve altered it a bit by replacing the powdered sugar with simple syrup and adding a splash of soda to the cocktail to “wake it up,” as some recipes dictate. We do not recommend double straining it; that would reduce the body and the ornamental presence of the shaken mint.
+    notes: Also known as South Side Fizz, the South Side seems to have first been published by famous American bartender Harry Craddock in The Savoy Cocktail Book. His recipe called for dry gin, powdered sugar, the juice of half a lemon, and two sprigs of fresh mint, finished with a splash of siphon soda water. The birthplace is disputed among Jack & Charlie's (now the 21 Club) in New York City, a forgotten speakeasy in the South Side of Chicago, and a Long Island country club in the late 1800s known as the Southside Club. There is no controversy that the 21 Club has served more of these than anyone over the decades and they can lay claim to the South Side as their house cocktail. We've altered it a bit by replacing the powdered sugar with simple syrup and adding a splash of soda to the cocktail to “wake it up,” as some recipes dictate. We do not recommend double straining it; that would reduce the body and the ornamental presence of the shaken mint.
     glassware: nick & nora
     ingredients:
     - 2 ounces Plymouth gin
@@ -1461,13 +1461,13 @@ recipes:
     - shaken
     - citrus
   - name: Yellow Jacket
-    notes: The Yellow Jacket cocktail was inspired by chance circumstances and a little harassment. For weeks, we had toyed with the idea of mixing together Partida Reposado tequila and St-Germain elderflower liqueur, but there was a piece of the puzzle missing. Then one evening, a bunch of obnoxious cocktail geeks came into Employees Only to stump the bartenders by ordering the Last Word cocktail. After being satisfied with that drink, they asked if we knew of another drink with Chartreuse. At that moment, Yellow Chartreuse became the ingredient needed to bind together the elderflower and tequila. So pretty and elegant, the rich yellow color grabs your attention. The true beauty of this drink, though, is the interplay of the ingredients. The light oak on the Partida Reposado tequila works so well with the St-Germain, and they in turn produce a perfect ground for Yellow Chartreuse to bring it all into balance. The orange bitters play a key role. This cocktail is similar in style to the Widow’s Kiss cocktail, as they both contain very sweet herbaceous ingredients balanced by high alcohol content. It’s named for the yellow jacket wasps that inhabit agave farms and tequila distilleries.
+    notes: The Yellow Jacket cocktail was inspired by chance circumstances and a little harassment. For weeks, we had toyed with the idea of mixing together Partida Reposado tequila and St-Germain elderflower liqueur, but there was a piece of the puzzle missing. Then one evening, a bunch of obnoxious cocktail geeks came into Employees Only to stump the bartenders by ordering the Last Word cocktail. After being satisfied with that drink, they asked if we knew of another drink with Chartreuse. At that moment, Yellow Chartreuse became the ingredient needed to bind together the elderflower and tequila. So pretty and elegant, the rich yellow color grabs your attention. The true beauty of this drink, though, is the interplay of the ingredients. The light oak on the Partida Reposado tequila works so well with the St-Germain, and they in turn produce a perfect ground for Yellow Chartreuse to bring it all into balance. The orange bitters play a key role. This cocktail is similar in style to the Widow's Kiss cocktail, as they both contain very sweet herbaceous ingredients balanced by high alcohol content. It's named for the yellow jacket wasps that inhabit agave farms and tequila distilleries.
     glassware: nick & nora
     ingredients:
     - 2 ounces Partida Reposado tequila
     - 1 ounce St-Germain elderflower liqueur
     - ¾ ounce Yellow Chartreuse
-    - 1 dash Regan’s Orange Bitters No. 6
+    - 1 dash Regan's Orange Bitters No. 6
     - 1 lemon twist, for garnish
     steps:
     - Pour the tequila, liqueur, Chartreuse, and bitters into a mixing glass. 
@@ -1480,7 +1480,7 @@ recipes:
     - "speakeasy: long drinks and fancy cocktails"
     - stirred
   - name: Bellini
-    notes: The story of the Bellini begins during Prohibition with American playboy Harry Pickering, who drank at the Europa Hotel in Venice with bartender Giuseppe Cipriani. Pickering’s family had cut off his funds in a last-ditch effort to get him back home and quit drinking. Pickering asked Cipriani for a loan of 10,000 lire–the equivalent of $61,000 today–to get his affairs in order. Cipriani lent him his life savings, only to not hear a word from Pickering for over a year. Legend has it that when Pickering returned to the bar, he ordered a drink and paid Cipriani 50,000 lire as a show of gratitude so he could open his own bar. In 1931, Harry’s Bar in Venice opened and the Bellini cocktail was created there shortly afterward.
+    notes: The story of the Bellini begins during Prohibition with American playboy Harry Pickering, who drank at the Europa Hotel in Venice with bartender Giuseppe Cipriani. Pickering's family had cut off his funds in a last-ditch effort to get him back home and quit drinking. Pickering asked Cipriani for a loan of 10,000 lire–the equivalent of $61,000 today–to get his affairs in order. Cipriani lent him his life savings, only to not hear a word from Pickering for over a year. Legend has it that when Pickering returned to the bar, he ordered a drink and paid Cipriani 50,000 lire as a show of gratitude so he could open his own bar. In 1931, Harry's Bar in Venice opened and the Bellini cocktail was created there shortly afterward.
     glassware: flute
     ingredients:
     - 1 ounce Boiron or homemade white peach purée
@@ -1517,7 +1517,7 @@ recipes:
     - stirred
     - sparkling
   - name: Bloody Mary
-    notes: The Bloody Mary is by far the most universally known pick-me-up. Legend has it that the Bloody Mary was born in Paris in or around 1921 at Harry’s New York Bar by a Frenchman, Fernand “Pete” Petiot. In those days, it consisted merely of a shot of vodka mixed with tomato juice and maybe a squeeze of lemon.
+    notes: The Bloody Mary is by far the most universally known pick-me-up. Legend has it that the Bloody Mary was born in Paris in or around 1921 at Harry's New York Bar by a Frenchman, Fernand “Pete” Petiot. In those days, it consisted merely of a shot of vodka mixed with tomato juice and maybe a squeeze of lemon.
     glassware: collins
     ingredients:
     - 2 ounces Russian Standard vodka
@@ -1540,7 +1540,7 @@ recipes:
     ingredients:
     - ½ ounce Green Chartreuse
     - 1 ounce club soda
-    - 1¾ ounces Martin Miller’s Westbourne Strength 100-proof gin
+    - 1¾ ounces Martin Miller's Westbourne Strength 100-proof gin
     - 1 ounce freshly squeezed lemon juice
     - ¾ ounce simple syrup
     - 5 drops orange blossom water
@@ -1561,11 +1561,11 @@ recipes:
     - shaken
     - citrus
   - name: Ramos Gin Fizz
-    notes: This frothy and very yummy long drink was invented in 1888 by Henry C. Ramos, bartender at Meyer’s Restaurant in New Orleans. Because the cocktail requires a lot of shaking, the bar used to hire so-called “shaker boys,” who would just shake one cocktail after another in times of heavy business. The Ramos Gin Fizz is a full-blown classic nowadays and is ordered regularly all the time, but it was intended to be enjoyed as a pick-me-up or an eye-opener. Meaning–in the morning. Shocking, isn’t it, how our forefathers used to drink? The key ingredient is the orange blossom water; just those few drops give the cocktail its definitive character. Widely popularized before, during, and after Prohibition at the Roosevelt Hotel in New Orleans, it has spawned countless variations–and it’s still enjoyed on porches across the South as the sun is setting.
+    notes: This frothy and very yummy long drink was invented in 1888 by Henry C. Ramos, bartender at Meyer's Restaurant in New Orleans. Because the cocktail requires a lot of shaking, the bar used to hire so-called “shaker boys,” who would just shake one cocktail after another in times of heavy business. The Ramos Gin Fizz is a full-blown classic nowadays and is ordered regularly all the time, but it was intended to be enjoyed as a pick-me-up or an eye-opener. Meaning–in the morning. Shocking, isn't it, how our forefathers used to drink? The key ingredient is the orange blossom water; just those few drops give the cocktail its definitive character. Widely popularized before, during, and after Prohibition at the Roosevelt Hotel in New Orleans, it has spawned countless variations–and it's still enjoyed on porches across the South as the sun is setting.
     glassware: collins
     ingredients:
     - 1 ounce club soda
-    - 1¾ ounces Martin Miller’s Westbourne Strength 100-proof gin
+    - 1¾ ounces Martin Miller's Westbourne Strength 100-proof gin
     - 1 ounce freshly squeezed lemon juice
     - ¾ ounce simple syrup
     - 5 drops orange blossom water
@@ -1584,7 +1584,7 @@ recipes:
     - shaken
     - citrus
   - name: Widow's Kiss
-    notes: According to cocktail historians, this cocktail first appeared in print in 1895 in Modern American Drinks by George J. Kappeler. Although this drink has fallen into obscurity today, it appeared in every respectable cocktail book printed in the early twentieth century, with the same easy recipe. It seems this drink always had the favor of knowledgeable bartenders and connoisseurs, as its unique blend of flavors could be very challenging to the untrained palate of the casual drinker. In other words, this drink is best recommended for people who have moved beyond simple straightforward flavors and are looking for a carnival in the mouth. The Widow’s Kiss is a seasonal experience best enjoyed when it is cold outside. This classic cocktail is also one of the few cocktails we recommend as a digestive or an after-dinner cocktail.
+    notes: According to cocktail historians, this cocktail first appeared in print in 1895 in Modern American Drinks by George J. Kappeler. Although this drink has fallen into obscurity today, it appeared in every respectable cocktail book printed in the early twentieth century, with the same easy recipe. It seems this drink always had the favor of knowledgeable bartenders and connoisseurs, as its unique blend of flavors could be very challenging to the untrained palate of the casual drinker. In other words, this drink is best recommended for people who have moved beyond simple straightforward flavors and are looking for a carnival in the mouth. The Widow's Kiss is a seasonal experience best enjoyed when it is cold outside. This classic cocktail is also one of the few cocktails we recommend as a digestive or an after-dinner cocktail.
     glassware: nick & nora
     ingredients:
     - 1½ ounces Daron Fine calvados
@@ -1603,7 +1603,7 @@ recipes:
     - "speakeasy: long drinks and fancy cocktails"
     - stirred
   - name: The Last Word
-    notes: "Who will have the last word? Well, obviously, the bartender! We always have the last word, because we have the goodies–the booze. So when an experienced bartender says something to you, listen, because it may well be a recommendation for this tasty cocktail. The Last Word is a mishmash of high-octane fuels, yet it comes out surprisingly balanced and delicate. Beware: have too many and this cocktail will have the last word. Allegedly this Prohibition-era cocktail’s origins are traced back to the Detroit Athletic Club, where it was invented by a gentleman named Frank Fogarty. He was said to be “a very fine monologue artist,” which is probably how the drink got its name. One thing is certain: this cocktail is now in the top five of cocktail geekdom, appearing in bars all over the country. Made properly, it is truly a wonderful concoction."
+    notes: "Who will have the last word? Well, obviously, the bartender! We always have the last word, because we have the goodies–the booze. So when an experienced bartender says something to you, listen, because it may well be a recommendation for this tasty cocktail. The Last Word is a mishmash of high-octane fuels, yet it comes out surprisingly balanced and delicate. Beware: have too many and this cocktail will have the last word. Allegedly this Prohibition-era cocktail's origins are traced back to the Detroit Athletic Club, where it was invented by a gentleman named Frank Fogarty. He was said to be “a very fine monologue artist,” which is probably how the drink got its name. One thing is certain: this cocktail is now in the top five of cocktail geekdom, appearing in bars all over the country. Made properly, it is truly a wonderful concoction."
     glassware: nick & nora
     ingredients:
     - 1 ounce Beefeater 24 gin
@@ -1624,7 +1624,7 @@ recipes:
 
 #Pitchers, Punches, and Sangrias
   - name: Pimm's Fruit Cup
-    notes: This is a party version of the Pimm’s Cup, for when you want to give your guests a break during a three-day cricket match marathon. The difference is you have a few more fresh fruits at your disposal. We find it tastes best if in addition to the cucumber and mint you add strawberries, diced apples, and orange half-wheels. Then again, you can experiment for yourself and play with some seasonal fruits. Maybe some pears will give it your special touch; gin and pears mix really well. When preparing the large-batch cocktail, try to press the fruits and herbs very gently. It’s essential that you mix the large batch several hours ahead–ideally, the night before your guests arrive. Refrigerate it to let the fruits steep and release their essence into the blend. Makes 2 quarts.
+    notes: This is a party version of the Pimm's Cup, for when you want to give your guests a break during a three-day cricket match marathon. The difference is you have a few more fresh fruits at your disposal. We find it tastes best if in addition to the cucumber and mint you add strawberries, diced apples, and orange half-wheels. Then again, you can experiment for yourself and play with some seasonal fruits. Maybe some pears will give it your special touch; gin and pears mix really well. When preparing the large-batch cocktail, try to press the fruits and herbs very gently. It's essential that you mix the large batch several hours ahead–ideally, the night before your guests arrive. Refrigerate it to let the fruits steep and release their essence into the blend. Makes 2 quarts.
     glassware: punch bowl
     ingredients:
     - 35 fresh mint leaves
@@ -1638,7 +1638,7 @@ recipes:
     - 2 cups ginger ale
     steps:
     - Put the mint leaves into a large pitcher or smaller punch bowl and gently tap them with a muddler or small ladle to extract the essence. 
-    - Add the Pimm’s, Cointreau, juice, cucumbers, strawberries, apple, and pear and stir to combine. 
+    - Add the Pimm's, Cointreau, juice, cucumbers, strawberries, apple, and pear and stir to combine. 
     - Cover with a lid or plastic wrap and refrigerate overnight. 
     - Just before serving, add large cold ice cubes and the ginger ale. 
     - Gently stir and serve in individual cups.
@@ -1672,7 +1672,7 @@ recipes:
     - citrus
     - punch
   - name: Jersey City Fish House Punch
-    notes: This is one of our End of Prohibition party special punch recipes and it was adapted from the Philadelphia Fish House punch, which was a favorite of Generals Washington and Lafayette. We replaced the original cognac with our local Laird’s Applejack and got something fantastic as a result. We use all seasonal fruits for this–a beautiful feature that also makes it extra tasty. Makes 5¾ quarts.
+    notes: This is one of our End of Prohibition party special punch recipes and it was adapted from the Philadelphia Fish House punch, which was a favorite of Generals Washington and Lafayette. We replaced the original cognac with our local Laird's Applejack and got something fantastic as a result. We use all seasonal fruits for this–a beautiful feature that also makes it extra tasty. Makes 5¾ quarts.
     glassware: punch bowl
     ingredients:
     - Decorative ice block
@@ -1681,7 +1681,7 @@ recipes:
     - 6 lemons, cut into half-wheels
     - 6 limes, cut into half-wheels
     - 3 cups Smith & Cross Traditional Jamaica rum
-    - 1 quart Laird’s AppleJack
+    - 1 quart Laird's AppleJack
     - 1 quart freshly squeezed lemon juice
     - 2 quarts water
     - ¾ cup Massenez crème de pêche or peach liqueur
@@ -1698,7 +1698,7 @@ recipes:
     - citrus
     - punch
   - name: Gin Punch
-    notes: We found this recipe in Jerry Thomas’s 1862 How to Mix Drinks or the Bon Vivant’s Companion, in a recipe for a single serving. It called for Holland gin–or genever, as we know it today–and was probably a very popular drink. The back story is that when planning our first End of Prohibition party we were searching for punch recipes that could be served in teacups. So we started going through books and shot a few ideas back and forth until we found papa Jerry’s recipe. We replaced the genever with Plymouth gin, and with a few more tweaks we got it perfect. The decorative ice block adds a great visual effect. Makes 5¾ quarts.
+    notes: We found this recipe in Jerry Thomas's 1862 How to Mix Drinks or the Bon Vivant's Companion, in a recipe for a single serving. It called for Holland gin–or genever, as we know it today–and was probably a very popular drink. The back story is that when planning our first End of Prohibition party we were searching for punch recipes that could be served in teacups. So we started going through books and shot a few ideas back and forth until we found papa Jerry's recipe. We replaced the genever with Plymouth gin, and with a few more tweaks we got it perfect. The decorative ice block adds a great visual effect. Makes 5¾ quarts.
     glassware: punch bowl
     ingredients:
     - Decorative ice block
@@ -1760,7 +1760,7 @@ recipes:
     - stirred
     - citrus
   - name: Sangria Blanca
-    notes: White Sangria is something you really want in the summertime when nothing is going on and it’s hot and very humid outside. We developed this recipe about six years ago and have loved it ever since. Highly suggested for afternoon gatherings and finger foods. Makes 2½ quarts.
+    notes: White Sangria is something you really want in the summertime when nothing is going on and it's hot and very humid outside. We developed this recipe about six years ago and have loved it ever since. Highly suggested for afternoon gatherings and finger foods. Makes 2½ quarts.
     glassware: pitcher
     ingredients:
     - 1 (750 ml) bottle Portuguese Vinho Verde

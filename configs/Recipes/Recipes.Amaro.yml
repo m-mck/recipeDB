@@ -3,7 +3,7 @@ recipes:
 
 #Aperitivo Cocktails
   - name: Americano
-    notes: The Americano, a low-alcohol highball consisting of Campari, sweet vermouth, and soda water, originated as the Milano-Torino—so named because the Campari was from Milan and the sweet vermouth from Turin. The drink was first served at Milan’s Caffè Camparino in 1860, but during Prohibition, tourists and American expats added fizzy soda to the mix and it became known as the Americano. It’s also the first of what turned out to be many signature drinks ordered, in meticulous detail, in Ian Fleming’s 1953 Bond novel, Casino Royale. My favorite Americano had as much to do with the setting in which it was served as the ingredients in the drink itself. I was driving with photographer Ed Anderson from Milan to Friuli on our way to meet the Nonino family, and after hours on the road, we finally reached our lodging for the night. We were staying at Orsone, a bed and breakfast owned by Joe and Lidia Bastianich in Cividale del Friuli. We checked in at the bar and before taking our bags out of the rental car, we took a seat at one of the patio tables overlooking the rolling hills of the vineyards. Simone, our bartender, brought us a round of Americanos (“for the Americanos,” he said with a wink), served in rocks glasses with plenty of ice and a long ribbon of orange zest, leaving the bottles on the table for us to admire. Instead of Campari he had used a brand not available in the United States, the cherry-red Riserva Carlo Alberto Bitter Rouge aperitivo, and a caramel-red-colored Mancino Rosso Amaranto vermouth. We sat in silence, sipping our drinks and picking at a bowl of nuts, as those hours on the road faded into a memory.
+    notes: The Americano, a low-alcohol highball consisting of Campari, sweet vermouth, and soda water, originated as the Milano-Torino—so named because the Campari was from Milan and the sweet vermouth from Turin. The drink was first served at Milan's Caffè Camparino in 1860, but during Prohibition, tourists and American expats added fizzy soda to the mix and it became known as the Americano. It's also the first of what turned out to be many signature drinks ordered, in meticulous detail, in Ian Fleming's 1953 Bond novel, Casino Royale. My favorite Americano had as much to do with the setting in which it was served as the ingredients in the drink itself. I was driving with photographer Ed Anderson from Milan to Friuli on our way to meet the Nonino family, and after hours on the road, we finally reached our lodging for the night. We were staying at Orsone, a bed and breakfast owned by Joe and Lidia Bastianich in Cividale del Friuli. We checked in at the bar and before taking our bags out of the rental car, we took a seat at one of the patio tables overlooking the rolling hills of the vineyards. Simone, our bartender, brought us a round of Americanos (“for the Americanos,” he said with a wink), served in rocks glasses with plenty of ice and a long ribbon of orange zest, leaving the bottles on the table for us to admire. Instead of Campari he had used a brand not available in the United States, the cherry-red Riserva Carlo Alberto Bitter Rouge aperitivo, and a caramel-red-colored Mancino Rosso Amaranto vermouth. We sat in silence, sipping our drinks and picking at a bowl of nuts, as those hours on the road faded into a memory.
     glassware: highball
     ingredients:
     - 1½ ounces Campari
@@ -20,7 +20,7 @@ recipes:
       - low-abv
       - stirred
   - name: Aperol Spritz
-    notes: "With its bright orange hue, ice-filled balloon serving glass, and signature black straw peeking over the rim, the Aperol spritz is one of the most ubiquitous and well-known aperitivo drinks across Italy. You can find it in bars, restaurants, and cafés from the north to the south. Much sweeter and not as bitter as Campari, it has a low-alcohol content that makes it the perfect vehicle for daytime drinking, especially during the summer months. Over the past few years, Gruppo Campari, which purchased the Aperol brand in 2003, has worked to make the Aperol spritz catch on with a younger crowd of drinkers with their “Easy as 3, 2, 1” advertising campaign (referring to the drink’s signature proportions of Prosecco, Aperol, and soda water). For more on the topic of the category of wine-based, soda-splashed aperitifs, turn to Spritz: Italy’s Most Iconic Aperitivo Cocktail, with Recipes by my friends Talia Baiocchi and Leslie Pariseau."
+    notes: "With its bright orange hue, ice-filled balloon serving glass, and signature black straw peeking over the rim, the Aperol spritz is one of the most ubiquitous and well-known aperitivo drinks across Italy. You can find it in bars, restaurants, and cafés from the north to the south. Much sweeter and not as bitter as Campari, it has a low-alcohol content that makes it the perfect vehicle for daytime drinking, especially during the summer months. Over the past few years, Gruppo Campari, which purchased the Aperol brand in 2003, has worked to make the Aperol spritz catch on with a younger crowd of drinkers with their “Easy as 3, 2, 1” advertising campaign (referring to the drink's signature proportions of Prosecco, Aperol, and soda water). For more on the topic of the category of wine-based, soda-splashed aperitifs, turn to Spritz: Italy's Most Iconic Aperitivo Cocktail, with Recipes by my friends Talia Baiocchi and Leslie Pariseau."
     glassware: wine glass
     ingredients:
     - 3 ounces Prosecco or sparkling wine
@@ -53,7 +53,7 @@ recipes:
       - stirred
       - classic
   - name: Garibaldi
-    notes: This cocktail is named after the popular Italian revolutionary Giuseppe Garibaldi, a central figure in the Italian Resurgence (Risorgimento), which ultimately led to the country’s unification of north and south in 1861. With just two ingredients, the drink itself displays the red Campari from Milan in the north—with a nod to the red shirts worn by Garibaldi and his all-volunteer army of freedom fighters—and oranges from Sicily in the south. Using freshly squeezed orange juice is key here. At his Italian-influenced aperitivo bar Dante in New York’s Greenwich Village, Naren Young juices one orange à la minute through a Breville juicer for each drink order, resulting in a finished drink with a frothy, Orange Julius-like finish.
+    notes: This cocktail is named after the popular Italian revolutionary Giuseppe Garibaldi, a central figure in the Italian Resurgence (Risorgimento), which ultimately led to the country's unification of north and south in 1861. With just two ingredients, the drink itself displays the red Campari from Milan in the north—with a nod to the red shirts worn by Garibaldi and his all-volunteer army of freedom fighters—and oranges from Sicily in the south. Using freshly squeezed orange juice is key here. At his Italian-influenced aperitivo bar Dante in New York's Greenwich Village, Naren Young juices one orange à la minute through a Breville juicer for each drink order, resulting in a finished drink with a frothy, Orange Julius-like finish.
     glassware: highball
     ingredients:
     - 1½ ounces Campari
@@ -66,7 +66,7 @@ recipes:
       - classic
       - citrus
   - name: Negroni Sbagliato
-    notes: Milan’s venerable Bar Basso opened in 1947, and in 1967, Mirko Stocchetto, a bartender from Venice, took over the bar and started adding cocktails to the menu to compete with the city’s larger hotels and cafés. His son Maurizio Stocchetto now runs Bar Basso and you’ll still find a menu of “Classic Cocktails from the Old School” behind the bar, including the White Russian, brandy Alexander, Grasshopper, and Gibson, but the Italian cocktail made famous at Basso is the Negroni Sbagliato. Sbagliato means “messed up” or “bungled” in Italian, and as the younger Stocchetto tells it, one night in the late 1960s or early 1970s a bartender had accidentally swapped the gin with a bottle of spumante. When his father was making a customer’s Negroni he reached for the spot on the bar where the gin was always kept but instead added the dry sparkling wine to the mix of Campari and vermouth. “The customer said, ‘Let’s try it.’ And he didn’t complain.” When I asked Stocchetto how many Negroni Sbagliatos he served each day, he just sighed and said “too many.” They normally serve it in a comically large hand-blown stemmed glass, the kind of fishbowl-sized vessel you’re more likely to encounter at a bachelorette party spilling out onto Bourbon Street, but when I ordered one he insisted on making mine in the standard rocks glass. He reminisced about hanging out at the bar as a boy, but he really lit up telling me about his time living in San Francisco in his twenties. His love of the Beats, jazz, and the NHL play-offs remains strong, but he’s particularly entertained by the American fast-food advertisements shown during his beloved hockey games. Taking a pause from serving a customer a supersized Sbagliato, he looked at me and smiled in wonder, “At Subway, they’ll put guacamole on anything you want!”
+    notes: Milan's venerable Bar Basso opened in 1947, and in 1967, Mirko Stocchetto, a bartender from Venice, took over the bar and started adding cocktails to the menu to compete with the city's larger hotels and cafés. His son Maurizio Stocchetto now runs Bar Basso and you'll still find a menu of “Classic Cocktails from the Old School” behind the bar, including the White Russian, brandy Alexander, Grasshopper, and Gibson, but the Italian cocktail made famous at Basso is the Negroni Sbagliato. Sbagliato means “messed up” or “bungled” in Italian, and as the younger Stocchetto tells it, one night in the late 1960s or early 1970s a bartender had accidentally swapped the gin with a bottle of spumante. When his father was making a customer's Negroni he reached for the spot on the bar where the gin was always kept but instead added the dry sparkling wine to the mix of Campari and vermouth. “The customer said, ‘Let's try it.' And he didn't complain.” When I asked Stocchetto how many Negroni Sbagliatos he served each day, he just sighed and said “too many.” They normally serve it in a comically large hand-blown stemmed glass, the kind of fishbowl-sized vessel you're more likely to encounter at a bachelorette party spilling out onto Bourbon Street, but when I ordered one he insisted on making mine in the standard rocks glass. He reminisced about hanging out at the bar as a boy, but he really lit up telling me about his time living in San Francisco in his twenties. His love of the Beats, jazz, and the NHL play-offs remains strong, but he's particularly entertained by the American fast-food advertisements shown during his beloved hockey games. Taking a pause from serving a customer a supersized Sbagliato, he looked at me and smiled in wonder, “At Subway, they'll put guacamole on anything you want!”
     glassware: rocks
     ingredients:
     - 1 ounce Campari
@@ -86,7 +86,7 @@ recipes:
 #Essential Amaro Cocktails
   - name: Boulevardier
     author: Erskine Gwynne
-    notes: Essentially a Negroni made with bourbon instead of gin, the Boulevardier is one of my favorite cocktails. The bourbon mellows the rich, herbal sweetness of the vermouth and Campari with an almost velvety mouthfeel that I’ve come to crave, and it’s a frequently ordered drink that’s often in my hand before, during, and after dinner. Its first appearance in print was in 1927 in Harry McElhone’s Barflies and Cocktails, and it takes its name from the Parisian magazine Boulevardier, which was founded by the drink’s creator, American expat Erskine Gwynne. The original recipe called for equal parts bourbon, sweet vermouth, and Campari, but most modern bartenders up the amount of bourbon.
+    notes: Essentially a Negroni made with bourbon instead of gin, the Boulevardier is one of my favorite cocktails. The bourbon mellows the rich, herbal sweetness of the vermouth and Campari with an almost velvety mouthfeel that I've come to crave, and it's a frequently ordered drink that's often in my hand before, during, and after dinner. Its first appearance in print was in 1927 in Harry McElhone's Barflies and Cocktails, and it takes its name from the Parisian magazine Boulevardier, which was founded by the drink's creator, American expat Erskine Gwynne. The original recipe called for equal parts bourbon, sweet vermouth, and Campari, but most modern bartenders up the amount of bourbon.
     glassware: double rocks
     ingredients:
     - 1½ ounces bourbon
@@ -102,7 +102,7 @@ recipes:
       - stirred
   - name: Hanky Panky
     author: Ada “Coley” Coleman
-    notes: Before Harry Craddock rose to fame as a celebrated bartender and author of The Savoy Cocktail Book, from 1903 through 1926 Ada “Coley” Coleman worked at the American Bar at the Savoy Hotel in London, eventually achieving the position of head bartender. Her most famous creation behind the bar was the Hanky Panky, an equal-parts gin–sweet vermouth martini spiked with two dashes of the inky, bitter, herbal liqueur Fernet-Branca. Actor Sir Charles Hawtrey, a regular at the bar, came in and requested something with “a bit of punch in it,” and after tasting Coley’s creation declared it as “the real hanky-panky!” In The PDT Cocktail Book, Jim Meehan offers a tweak of the classic formula, using two ounces gin, one ounce sweet vermouth, and one-quarter ounce Fernet-Branca, resulting in a drier drink. Give both versions a spin to determine which one agrees with your palate.
+    notes: Before Harry Craddock rose to fame as a celebrated bartender and author of The Savoy Cocktail Book, from 1903 through 1926 Ada “Coley” Coleman worked at the American Bar at the Savoy Hotel in London, eventually achieving the position of head bartender. Her most famous creation behind the bar was the Hanky Panky, an equal-parts gin–sweet vermouth martini spiked with two dashes of the inky, bitter, herbal liqueur Fernet-Branca. Actor Sir Charles Hawtrey, a regular at the bar, came in and requested something with “a bit of punch in it,” and after tasting Coley's creation declared it as “the real hanky-panky!” In The PDT Cocktail Book, Jim Meehan offers a tweak of the classic formula, using two ounces gin, one ounce sweet vermouth, and one-quarter ounce Fernet-Branca, resulting in a drier drink. Give both versions a spin to determine which one agrees with your palate.
     glassware: coupe
     ingredients:
     - 1½ ounces gin
@@ -117,7 +117,7 @@ recipes:
       - essential amaro cocktails
       - stirred
   - name: Jungle Bird
-    notes: I had my first Jungle Bird, fittingly enough, at the Chicago tiki mecca Three Dots and a Dash. I was meeting drinks writer and author Robert Simonson, and when he picks the spot to meet for cocktails, you know you’re in good hands. He suggested I order the Jungle Bird, one of the few tiki drinks to feature amaro—in this case, Campari. I’ve been back to Three Dots and a Dash for more of those, but I had a less tricked-out version at Seattle’s Rob Roy that really sold me on the drink, which was originally created at the Aviary bar at the Kuala Lumpur Hilton around 1979. Though the Jungle Bird was listed in the 1989 New American Bartender’s Guide by John J. Poister, it wasn’t until 2002 that Jeff Berry’s Beachbum Berry’s Intoxica! made it a bartender favorite with a cult following that rivals the Negroni. New York bartender Giuseppe Gonzalez substituted molasses-rich blackstrap rum for the dark rum of the original, and that’s the version that lives on today.
+    notes: I had my first Jungle Bird, fittingly enough, at the Chicago tiki mecca Three Dots and a Dash. I was meeting drinks writer and author Robert Simonson, and when he picks the spot to meet for cocktails, you know you're in good hands. He suggested I order the Jungle Bird, one of the few tiki drinks to feature amaro—in this case, Campari. I've been back to Three Dots and a Dash for more of those, but I had a less tricked-out version at Seattle's Rob Roy that really sold me on the drink, which was originally created at the Aviary bar at the Kuala Lumpur Hilton around 1979. Though the Jungle Bird was listed in the 1989 New American Bartender's Guide by John J. Poister, it wasn't until 2002 that Jeff Berry's Beachbum Berry's Intoxica! made it a bartender favorite with a cult following that rivals the Negroni. New York bartender Giuseppe Gonzalez substituted molasses-rich blackstrap rum for the dark rum of the original, and that's the version that lives on today.
     glassware: double rocks
     ingredients:
     - 1½ ounces blackstrap rum
@@ -136,7 +136,7 @@ recipes:
       - citrus
       - tiki
   - name: Negroni
-    notes: In his book The Negroni, Gary Regan takes a fascinating tour of the history and mystery of this elegant and sometimes controversial drink. The origin story is still up for debate, but after weighing recent updates uncovered by drinks historian David Wondrich, Regan is “absolutely convinced” that there was indeed a Count Camillo Negroni, who, when he requested gin in place of soda water in his Americano at Caffè Casoni in Florence, Italy, gave birth to his namesake cocktail. I struggled with whether or not this drink belongs here or the Aperitivo Cocktail section—but ultimately decided that the assertive presence of gin takes it out of the lower-alcohol aperitivo realm. (That having been said, don’t let me tell you when to enjoy your Negroni.) This ruby-red, equal-parts cocktail of gin, Campari, and sweet vermouth has gone on to become one of the most celebrated, and fetishized, drinks of our time. Variations, with and without Campari, abound, and it has taken on new life in the form of bottled and barrel-aged versions. For the past few years in June, the global charity event Negroni Week has consumed bartenders and cocktail aficionados alike with a passion for this bittersweet superstar of the cocktail world.
+    notes: In his book The Negroni, Gary Regan takes a fascinating tour of the history and mystery of this elegant and sometimes controversial drink. The origin story is still up for debate, but after weighing recent updates uncovered by drinks historian David Wondrich, Regan is “absolutely convinced” that there was indeed a Count Camillo Negroni, who, when he requested gin in place of soda water in his Americano at Caffè Casoni in Florence, Italy, gave birth to his namesake cocktail. I struggled with whether or not this drink belongs here or the Aperitivo Cocktail section—but ultimately decided that the assertive presence of gin takes it out of the lower-alcohol aperitivo realm. (That having been said, don't let me tell you when to enjoy your Negroni.) This ruby-red, equal-parts cocktail of gin, Campari, and sweet vermouth has gone on to become one of the most celebrated, and fetishized, drinks of our time. Variations, with and without Campari, abound, and it has taken on new life in the form of bottled and barrel-aged versions. For the past few years in June, the global charity event Negroni Week has consumed bartenders and cocktail aficionados alike with a passion for this bittersweet superstar of the cocktail world.
     glassware: rocks
     ingredients:
     - 1 ounce gin
@@ -155,7 +155,7 @@ recipes:
       - stirred
       - negroni
   - name: Old Pal
-    notes: Like many drinks with dueling and dubious origin stories, the Old Pal has evolved over the years. There is debate as to whether it should be made with dry French or sweet Italian vermouth, but the former dry version is what you’ll likely receive if you order one at a bar. (Sub in sweet vermouth, and you have something similar to a Boulevardier.) In his book, The Negroni, Gary Regan recommends, “Whatever type of vermouth you use, this cocktail works best with a good straight rye; try using Michter’s, Rittenhouse 100, or Sazerac.”
+    notes: Like many drinks with dueling and dubious origin stories, the Old Pal has evolved over the years. There is debate as to whether it should be made with dry French or sweet Italian vermouth, but the former dry version is what you'll likely receive if you order one at a bar. (Sub in sweet vermouth, and you have something similar to a Boulevardier.) In his book, The Negroni, Gary Regan recommends, “Whatever type of vermouth you use, this cocktail works best with a good straight rye; try using Michter's, Rittenhouse 100, or Sazerac.”
     glassware: coupe
     ingredients:
     - 1½ ounces rye whiskey
@@ -171,7 +171,7 @@ recipes:
       - stirred
       - negroni
   - name: Toronto
-    notes: "A relative from the north to America’s old-fashioned cocktail, the Fernet-kissed Toronto remains one of my favorite, spirit-forward cool-weather cocktails. David A. Embury’s 1948 book The Fine Art of Mixing Drinks contains the printed recipe most people reference, but it’s been pointed out that Robert Vermiere’s Cocktails: How to Mix Them from 1922 contains a “Fernet Cocktail” of similar composition with the boast that “this cocktail is much appreciated by the Canadians of Toronto.”"
+    notes: "A relative from the north to America's old-fashioned cocktail, the Fernet-kissed Toronto remains one of my favorite, spirit-forward cool-weather cocktails. David A. Embury's 1948 book The Fine Art of Mixing Drinks contains the printed recipe most people reference, but it's been pointed out that Robert Vermiere's Cocktails: How to Mix Them from 1922 contains a “Fernet Cocktail” of similar composition with the boast that “this cocktail is much appreciated by the Canadians of Toronto.”"
     glassware: coupe
     ingredients:
     - 2 ounces rye or Canadian whiskey
@@ -202,17 +202,17 @@ recipes:
     - Combine the Amaro Bràulio, Byrrh, vermouth, and Champagne acid in a mixing glass filled with ice and stir very quickly—just enough to chill the solution without overdiluting the mixture, which will lower the level of carbonation. 
     - (In a best-case scenario, chill all of the liquor bottles in the fridge or briefly in the freezer and mix together without ice before topping the drink with seltzer.) 
     - Pour into a chilled Champagne flute and top with soda water.
-    - If you’re eager to dive in and you want to make the drink without Champagne acid, it will still work, but increase the vermouth to ¾ ounce.
+    - If you're eager to dive in and you want to make the drink without Champagne acid, it will still work, but increase the vermouth to ¾ ounce.
     tags:
       - modern amaro cocktails
       - stirred
   - name: Alpine Sour
     author: Damon Boelte
-    notes: "Damon Boelte now runs his own bar, Grand Army, in Brooklyn’s Boerum Hill, but his storied tenure as bar director at Prime Meats is where he became known for his love of Underberg, the German herbal digestive bitters sold in single-serve 20-millilter bottles. He started playing around, putting a couple of drops of Underberg in a Manhattan instead of Angostura, and then it hit him. “I had a dream one night—it’s insane, I get a lot of work done when I sleep.” In a spirited dream rivaling one of Twin Peaks’ Special Agent Dale Cooper’s vision quests, Boelte saw the Trinidad Sour (a modern classic created by New York bartender Giuseppe Gonzalez, which calls for a full ounce of Angostura bitters) and swapped in a whole bottle of Underberg in place of the Angostura. Underberg is meant to be consumed on its own and not dispatched as a potent cocktail ingredient, but if you do want to add it to your backbar, heed Boelte’s parting advice: “Underberg is a funny thing, man. When making a cocktail, get greedy. Don’t just put a dash in there, put in the whole bottle.” Bitter words to live by, indeed."
+    notes: "Damon Boelte now runs his own bar, Grand Army, in Brooklyn's Boerum Hill, but his storied tenure as bar director at Prime Meats is where he became known for his love of Underberg, the German herbal digestive bitters sold in single-serve 20-millilter bottles. He started playing around, putting a couple of drops of Underberg in a Manhattan instead of Angostura, and then it hit him. “I had a dream one night—it's insane, I get a lot of work done when I sleep.” In a spirited dream rivaling one of Twin Peaks' Special Agent Dale Cooper's vision quests, Boelte saw the Trinidad Sour (a modern classic created by New York bartender Giuseppe Gonzalez, which calls for a full ounce of Angostura bitters) and swapped in a whole bottle of Underberg in place of the Angostura. Underberg is meant to be consumed on its own and not dispatched as a potent cocktail ingredient, but if you do want to add it to your backbar, heed Boelte's parting advice: “Underberg is a funny thing, man. When making a cocktail, get greedy. Don't just put a dash in there, put in the whole bottle.” Bitter words to live by, indeed."
     glassware: coupe
     ingredients:
     - 1 ounce Asbach Uralt German brandy
-    - 1 ounce orgeat, preferably Orgeat Works T’Orgeat toasted almond syrup
+    - 1 ounce orgeat, preferably Orgeat Works T'Orgeat toasted almond syrup
     - 1 ounce freshly squeezed lemon juice
     - 1 bottle Underberg
     - "Garnish: freshly grated nutmeg"
@@ -226,7 +226,7 @@ recipes:
       - citrus
   - name: Amaro Amanté
     author: Shawn Lickliter
-    notes: I first met Taylor Parsons when he was at Osteria Mozza and he’s now the general manager and beverage director at Los Angeles restaurant République. Though we can’t confirm it, he suspects I may be a long-lost relative. I should be so lucky. He connected me with République’s bar program director, Shawn Lickliter, who shared this aperitif for whiskey lovers. “I chose Old Overholt Rye Whiskey because the fresh apple, cinnamon, and ginger palate play nice with Abano’s cinnamon, pine, and chocolate notes. This cocktail has a cool tiki feel to it but drinks like an aperitif.”
+    notes: I first met Taylor Parsons when he was at Osteria Mozza and he's now the general manager and beverage director at Los Angeles restaurant République. Though we can't confirm it, he suspects I may be a long-lost relative. I should be so lucky. He connected me with République's bar program director, Shawn Lickliter, who shared this aperitif for whiskey lovers. “I chose Old Overholt Rye Whiskey because the fresh apple, cinnamon, and ginger palate play nice with Abano's cinnamon, pine, and chocolate notes. This cocktail has a cool tiki feel to it but drinks like an aperitif.”
     glassware: collins
     ingredients:
     - 1 ounce Old Overholt Rye Whiskey Whiskey		
@@ -245,7 +245,7 @@ recipes:
       - citrus
   - name: Amaro Sour
     author: Jeffrey Morgenthaler
-    notes: Mixing up my boozy and sugary analogies, amaro and bourbon comes close to topping the classic pairing of peanut butter and chocolate. It isn’t surprising that many American bartenders embracing the use of amaro in cocktails will reach for a classic American spirit like bourbon to pair it with. The amaro sour template allows you to mix and match your bourbon with amaro. I recommend complementing the bourbon with a lighter, user-friendly, gateway amaro like Amaro Lucano, Luxardo Amaro Abano, or Averna rather than going to the dark end of the bracingly medicinal spectrum. Portland bartender Jeffrey Morgenthaler makes the self-proclaimed “best amaretto sour in the world,” and I—along with legions of bartenders—agree with him. It’s his updated specs that are on display here, swapping the amaretto for amaro. I like this served with a frothy head on the rocks, but you can also try it served up in a chilled coupe glass.
+    notes: Mixing up my boozy and sugary analogies, amaro and bourbon comes close to topping the classic pairing of peanut butter and chocolate. It isn't surprising that many American bartenders embracing the use of amaro in cocktails will reach for a classic American spirit like bourbon to pair it with. The amaro sour template allows you to mix and match your bourbon with amaro. I recommend complementing the bourbon with a lighter, user-friendly, gateway amaro like Amaro Lucano, Luxardo Amaro Abano, or Averna rather than going to the dark end of the bracingly medicinal spectrum. Portland bartender Jeffrey Morgenthaler makes the self-proclaimed “best amaretto sour in the world,” and I—along with legions of bartenders—agree with him. It's his updated specs that are on display here, swapping the amaretto for amaro. I like this served with a frothy head on the rocks, but you can also try it served up in a chilled coupe glass.
     glassware: double rocks
     ingredients:
     - 1½ ounces amaro		
@@ -264,7 +264,7 @@ recipes:
       - citrus
   - name: The Art of the Choke
     author: Kyle Davidson
-    notes: Under “House Favorites” on the dessert menu at the Publican restaurant in Chicago, you’ll find something called Kyle’s After Pork Digestif. I first tried this end-of-meal closer when a glass was produced after I had helped take down a family-sized platter of their famous ham chop in hay at a Publican pop-up at Momofuku Ssäm Bar in New York. The server explained that they used a house-made amaro at the restaurant, which made me eager to learn more. Kyle, it turns out, is Kyle Davidson, head bartender at Publican’s sister restaurant, Blackbird. He told me that his namesake drink was born in 2008, when he was working at both the Violet Hour and the Publican. It’s origin story begins with a Cynar-based cocktail he created called The Art of the Choke, which was later published in the books Rogue Cocktails and Beta Cocktails by Kirk Estopinal and Maksym Pazuniak. When guests at the Publican were over-ordering, he’d suggest this drink to help them push through to the end. Then he found the drink made more of a statement with diners when he batched the drink and brought it to the table in a glass bottle with shot glasses. This method of service proved popular enough that The Art of the Choke cocktail morphed into the large-format service Kyle’s After Pork Digestif.
+    notes: Under “House Favorites” on the dessert menu at the Publican restaurant in Chicago, you'll find something called Kyle's After Pork Digestif. I first tried this end-of-meal closer when a glass was produced after I had helped take down a family-sized platter of their famous ham chop in hay at a Publican pop-up at Momofuku Ssäm Bar in New York. The server explained that they used a house-made amaro at the restaurant, which made me eager to learn more. Kyle, it turns out, is Kyle Davidson, head bartender at Publican's sister restaurant, Blackbird. He told me that his namesake drink was born in 2008, when he was working at both the Violet Hour and the Publican. It's origin story begins with a Cynar-based cocktail he created called The Art of the Choke, which was later published in the books Rogue Cocktails and Beta Cocktails by Kirk Estopinal and Maksym Pazuniak. When guests at the Publican were over-ordering, he'd suggest this drink to help them push through to the end. Then he found the drink made more of a statement with diners when he batched the drink and brought it to the table in a glass bottle with shot glasses. This method of service proved popular enough that The Art of the Choke cocktail morphed into the large-format service Kyle's After Pork Digestif.
     glassware: rocks
     ingredients:
     - 2 mint sprigs		
@@ -306,7 +306,7 @@ recipes:
       - stirred
   - name: Averna Smash
     author: Jason Stratton
-    notes: Seattle chef Jason Stratton has since moved on from the Italian restaurant Spinasse and its modern Italian-style aperitivo bar, Artusi, but a cocktail he created called the Averna Smash lives on. Stratton told me he has long been drawn to bitter flavors and the Italian ritual of amaro served after a meal, but he’s a strong believer that “using amaro in a cocktail is a better way of helping people understand it than offering a flight of amari at the end of dinner.” And about that walnut oil? A culinary touch from a chef playing around behind the bar to “make if feel more like food.”
+    notes: Seattle chef Jason Stratton has since moved on from the Italian restaurant Spinasse and its modern Italian-style aperitivo bar, Artusi, but a cocktail he created called the Averna Smash lives on. Stratton told me he has long been drawn to bitter flavors and the Italian ritual of amaro served after a meal, but he's a strong believer that “using amaro in a cocktail is a better way of helping people understand it than offering a flight of amari at the end of dinner.” And about that walnut oil? A culinary touch from a chef playing around behind the bar to “make if feel more like food.”
     glassware: double rocks
     ingredients:
     - ½ teaspoon high-quality walnut oil		
@@ -328,7 +328,7 @@ recipes:
       - artusi
   - name: Bartender on Acid
     author: Garret Richard
-    notes: Brooklyn bartender Garret Richard’s last shift at my local, Prime Meats, happened to coincide with its first ever ’70s Night. A rotating disco ball splashed a moody rainbow of colors around the bar as Curtis Mayfield’s “Move on Up” and Harry Nilsson’s “Jump into the Fire” pounded through the speakers. Men wore full-length Joe Namath–style fur coats, the bar served updated spins on the Grasshopper and Alabama Slammer, and instead of the regular dinner menu, the kitchen served bespoke TV dinners (though my TV dinners from that era never came with a foie gras entrée). The next day, I was somehow able to see through my fern bar–sized hangover to ask Richard for the recipe for one of my favorite featured drinks of the night, the Bartender on Acid. Mashing together two of his favorite things—tiki ephemera and liquor ads from the 1970s—he was aiming for a tropical cocktail that riffed on the 1970s-era drinks the Swampwater (green Chartreuse, pineapple and lime juices) and Surfer on Acid (Jägermeister, Malibu coconut rum, pineapple juice). The more sophisticated Amaro Nardini adds to the complex, herbal base ingredients along with fresh juices, and a little dry, Cuban-style rum adds structure (a tip he picked up from New Orleans tiki bar Latitude 29). “The cocktail is the drink equivalent of a Tarantino film, borrowing the best the ’70s had to offer and then making it better,” says Richard.
+    notes: Brooklyn bartender Garret Richard's last shift at my local, Prime Meats, happened to coincide with its first ever '70s Night. A rotating disco ball splashed a moody rainbow of colors around the bar as Curtis Mayfield's “Move on Up” and Harry Nilsson's “Jump into the Fire” pounded through the speakers. Men wore full-length Joe Namath–style fur coats, the bar served updated spins on the Grasshopper and Alabama Slammer, and instead of the regular dinner menu, the kitchen served bespoke TV dinners (though my TV dinners from that era never came with a foie gras entrée). The next day, I was somehow able to see through my fern bar–sized hangover to ask Richard for the recipe for one of my favorite featured drinks of the night, the Bartender on Acid. Mashing together two of his favorite things—tiki ephemera and liquor ads from the 1970s—he was aiming for a tropical cocktail that riffed on the 1970s-era drinks the Swampwater (green Chartreuse, pineapple and lime juices) and Surfer on Acid (Jägermeister, Malibu coconut rum, pineapple juice). The more sophisticated Amaro Nardini adds to the complex, herbal base ingredients along with fresh juices, and a little dry, Cuban-style rum adds structure (a tip he picked up from New Orleans tiki bar Latitude 29). “The cocktail is the drink equivalent of a Tarantino film, borrowing the best the '70s had to offer and then making it better,” says Richard.
     glassware: rocks
     ingredients:
     - 1¼ ounces Kalani coconut rum liqueur		
@@ -349,13 +349,13 @@ recipes:
       - tiki
   - name: Bitter Giuseppe
     author: Stephen Cole
-    notes: “I think my best cocktails are typically dealer’s choice with a little bit of guidelines,” says Chicago bartender Stephen Cole. He was part of the opening team of the celebrated bar the Violet Hour and created the Bitter Giuseppe soon after its opening in 2007. “This was the beginning of my career bartending, so a lot of my cocktails were built in steps,” Cole explains. Step one, sparked by a conversation with Chicago chef Giuseppe Tentori, was to create his take on a Cynar Manhattan. Sweet vermouth and Cynar proved too sweet for his tastes, but the bright acidity from the addition of fresh lemon juice did the trick.
+    notes: “I think my best cocktails are typically dealer's choice with a little bit of guidelines,” says Chicago bartender Stephen Cole. He was part of the opening team of the celebrated bar the Violet Hour and created the Bitter Giuseppe soon after its opening in 2007. “This was the beginning of my career bartending, so a lot of my cocktails were built in steps,” Cole explains. Step one, sparked by a conversation with Chicago chef Giuseppe Tentori, was to create his take on a Cynar Manhattan. Sweet vermouth and Cynar proved too sweet for his tastes, but the bright acidity from the addition of fresh lemon juice did the trick.
     glassware: double rocks
     ingredients:
     - 2 ounces Cynar
     - 1 ounce Carpano Antica Formula sweet vermouth
     - ¼ ounce freshly squeezed lemon juice
-    - 6 dashes Regans’ Orange Bitters No. 6
+    - 6 dashes Regans' Orange Bitters No. 6
     - "Garnish: lemon zest"
     steps:
     - Combine the Cynar, vermouth, lemon juice, and bitters in a mixing glass filled with ice. 
@@ -375,7 +375,7 @@ recipes:
     - ¾ ounce Punt e Mes
     - ¼ ounce freshly squeezed lemon juice
     - 2 pinches kosher salt		
-    - 6 dashes Regans’ Orange Bitters No. 6		
+    - 6 dashes Regans' Orange Bitters No. 6		
     - 5 lemon twists
     steps:
     - Combine the Cynar, Punt e Mes, lemon juice, salt, and bitters in a mixing glass filled with ice. 
@@ -388,7 +388,7 @@ recipes:
       - manhattan
   - name: The Bitter Swagger
     author: Nick Talarico
-    notes: For the past few years I’ve been making an annual trip down to Memphis and, without fail, I bookend my visit with stops at Hog and Hominy to see my friends, chefs Andy Ticer and Mike Hudman. They serve up some of my favorite Southern-inspired takes on Italian fare, including an insane mortadella hot dog and the Lil Red Ed, a pizza topped with speck, spicy peppers, fontina cheese, tomato sauce, and olives named after our mutual friend Ed Anderson, who also photographed the guys’ cookbook, Collards and Carbonara. Nick Talarico oversees the front of the house and the beverage program for their ever-expanding restaurants and also makes a mean old-fashioned, which he doctors with house-made Shiftless Hog orange bitters. I always love geeking out over cocktails and trying new local spirits and beers with Talarico and he kindly shared the story of the Bitter Swagger with me, a cocktail on the menu at Andrew Michael Italian Kitchen, just across the street from Hog and Hominy. “We had a comedian come in after his show downtown late one Saturday night, and he and I talked for a bit about Nardini amaro. He ended up leaving with a bottle from our stock to take with him on his tour and after he left.” That encounter inspired Nick to add a drink on the menu that focused on amaro as a base spirit, and a pisco sour template did the trick. “It’s a total cocktail nerd drink—amaro, pisco, and egg whites don’t necessarily sell themselves—but that’s the fun of having a few cocktail lists where you can hide your nerdiest drinks,” Talarico says.
+    notes: For the past few years I've been making an annual trip down to Memphis and, without fail, I bookend my visit with stops at Hog and Hominy to see my friends, chefs Andy Ticer and Mike Hudman. They serve up some of my favorite Southern-inspired takes on Italian fare, including an insane mortadella hot dog and the Lil Red Ed, a pizza topped with speck, spicy peppers, fontina cheese, tomato sauce, and olives named after our mutual friend Ed Anderson, who also photographed the guys' cookbook, Collards and Carbonara. Nick Talarico oversees the front of the house and the beverage program for their ever-expanding restaurants and also makes a mean old-fashioned, which he doctors with house-made Shiftless Hog orange bitters. I always love geeking out over cocktails and trying new local spirits and beers with Talarico and he kindly shared the story of the Bitter Swagger with me, a cocktail on the menu at Andrew Michael Italian Kitchen, just across the street from Hog and Hominy. “We had a comedian come in after his show downtown late one Saturday night, and he and I talked for a bit about Nardini amaro. He ended up leaving with a bottle from our stock to take with him on his tour and after he left.” That encounter inspired Nick to add a drink on the menu that focused on amaro as a base spirit, and a pisco sour template did the trick. “It's a total cocktail nerd drink—amaro, pisco, and egg whites don't necessarily sell themselves—but that's the fun of having a few cocktail lists where you can hide your nerdiest drinks,” Talarico says.
     glassware: coupe
     ingredients:
     - 1¼ ounces Amaro Nardini		
@@ -405,13 +405,13 @@ recipes:
       - citrus
   - name: Bjórn Supremacy
     author: Dennis Gobis
-    notes: I first met Dennis Gobis when he was tending bar at Drink.Well in Austin, and since then he’s gone on to open his own place in town called the Roosevelt Room. The Bjórn Supremacy was the first (of several) cocktails he made for me that night. The name is a play on the Robert Ludlum thriller and, Gobis adds, “seemed fitting for a cocktail accented with a Scandinavian spirit.” He was aiming for a stirred whiskey cocktail that was light but had depth, and the Bäska Snaps, which had just become available in Texas that summer, did the trick. “The pairing of the peach and the wormwood, licorice, and citrus notes was a perfect play off the overproof rye whiskey and lent just enough sweetness to balance out the drink.” For me, it remains unclear if the Bjórn Supremacy awoke me from my own Jason Bourne-like state of amnesia or played a role in bringing it on. Either way, I can’t remember.
+    notes: I first met Dennis Gobis when he was tending bar at Drink.Well in Austin, and since then he's gone on to open his own place in town called the Roosevelt Room. The Bjórn Supremacy was the first (of several) cocktails he made for me that night. The name is a play on the Robert Ludlum thriller and, Gobis adds, “seemed fitting for a cocktail accented with a Scandinavian spirit.” He was aiming for a stirred whiskey cocktail that was light but had depth, and the Bäska Snaps, which had just become available in Texas that summer, did the trick. “The pairing of the peach and the wormwood, licorice, and citrus notes was a perfect play off the overproof rye whiskey and lent just enough sweetness to balance out the drink.” For me, it remains unclear if the Bjórn Supremacy awoke me from my own Jason Bourne-like state of amnesia or played a role in bringing it on. Either way, I can't remember.
     glassware: coupe
     ingredients:
     - 1½ ounces overproof rye whiskey		
     - ½ ounce Bäska Snaps med Malört		
     - ½ ounce Briottet crème de peche		
-    - 2 dashes Dr. Adam Elmegirab’s Boker’s Bitters
+    - 2 dashes Dr. Adam Elmegirab's Boker's Bitters
     steps:
     - Combine all the ingredients in a cocktail shaker filled with ice. 
     - Shake until chilled and strain into a chilled coupe or cocktail glass.
@@ -438,7 +438,7 @@ recipes:
       - manhattan
   - name: Boss Colada
     author: Nick Detrich
-    notes: Before New Orleans’s Cane and Table opened for business, managing partner and bartender Nick Detrich was working on a sour that combined the herbal, Alpine liqueur génépi and pineapple juice for a pop-up preview of upcoming drinks that would eventually make their way into rotation beyond the opening menu. Eventually, Bäska Snaps—a Nordic-style wormwood-based liqueur created by Avery and Janet Glasser, known worldwide for their line of Bittermens cocktail bitters—was subbed in for the génépi, and Detrich had “a drink that was rich and tropical, but dried out considerably by the wormwood, licorice, and other citrus.” It fit in with the “ideology” of Cane and Table so well that it was scrapped for the preview and added to the debut menu, where it has remained ever since. Detrich advises serving the Bäska Snaps straight from the refrigerator, saying, “The viscosity increases, and some of the richer chocolate tones become more pronounced.”
+    notes: Before New Orleans's Cane and Table opened for business, managing partner and bartender Nick Detrich was working on a sour that combined the herbal, Alpine liqueur génépi and pineapple juice for a pop-up preview of upcoming drinks that would eventually make their way into rotation beyond the opening menu. Eventually, Bäska Snaps—a Nordic-style wormwood-based liqueur created by Avery and Janet Glasser, known worldwide for their line of Bittermens cocktail bitters—was subbed in for the génépi, and Detrich had “a drink that was rich and tropical, but dried out considerably by the wormwood, licorice, and other citrus.” It fit in with the “ideology” of Cane and Table so well that it was scrapped for the preview and added to the debut menu, where it has remained ever since. Detrich advises serving the Bäska Snaps straight from the refrigerator, saying, “The viscosity increases, and some of the richer chocolate tones become more pronounced.”
     glassware: pilsner
     ingredients:
     - 1 ounce Bäska Snaps med Malört
@@ -449,9 +449,9 @@ recipes:
     - 3 dashes Peychaud's Bitters
     - "Garnish: lime wheel"
     steps:
-    - Combine all the ingredients except the Peychaud’s Bitters and garnish in a cocktail shaker filled with ice. 
+    - Combine all the ingredients except the Peychaud's Bitters and garnish in a cocktail shaker filled with ice. 
     - Shake until chilled (Detrich calls for 20 shakes) and double-strain into a footed pilsner glass filled with pebble ice (or crushed ice). 
-    - Add more pebble (or crushed) ice to the top of the glass and coat with the Peychaud’s Bitters. 
+    - Add more pebble (or crushed) ice to the top of the glass and coat with the Peychaud's Bitters. 
     - Garnish with the lime wheel.
     tags:
       - modern amaro cocktails
@@ -459,7 +459,7 @@ recipes:
       - citrus
   - name: The Brave
     author: Bobby Heugel
-    notes: "A drink that took Anvil Bar and Refuge owner Bobby Heugel a year to perfect, the Brave remains the bar’s house cocktail—it hasn’t come off the menu since day one. Hard to believe for a room-temperature drink that’s neither shaken nor stirred—just swirled. Bobby told me: “I love drinking both agave spirits and amaro at room temperature, and amaros are among the few that I can think of that can stand up to mezcal. This cocktail is the perfect cocktail to end the evening, but with amaro and agave straightforward, it is only for the brave.”"
+    notes: "A drink that took Anvil Bar and Refuge owner Bobby Heugel a year to perfect, the Brave remains the bar's house cocktail—it hasn't come off the menu since day one. Hard to believe for a room-temperature drink that's neither shaken nor stirred—just swirled. Bobby told me: “I love drinking both agave spirits and amaro at room temperature, and amaros are among the few that I can think of that can stand up to mezcal. This cocktail is the perfect cocktail to end the evening, but with amaro and agave straightforward, it is only for the brave.”"
     glassware: wine glass
     ingredients:
     - 1 ounce Del Maguey Chichicapa mezcal		
@@ -477,7 +477,7 @@ recipes:
       - stirred
   - name: The Brunch Box
     author: Rebekah Graham
-    notes: "Rebekah Graham, formerly Publican’s wine and beer coordinator, collaborated on this riff on the Lunch Box—a glass of beer and orange juice with a dropped shot of amaretto—with former Publican bar manager Matt Poli. Graham became hip to the Lunch Box when a customer ordered a round when she was tending bar at the Pump Room in 2006. Inspired by the endless themes of vintage lunch boxes, she went to work: “We made a Strawberry Shortcake Lunch Box with strawberry Stoli, pineapple juice, and hard apple cider; a Dukes of Hazzard Lunch Box with Southern Comfort, iced tea, and Budweiser; even a Star Wars Lunch Box with blue curaçao, grape juice, and Belgian brown ale. Needless to say, they were all, basically, just gross.” But the eureka moment came later, when she subbed in Amaro Montenegro for the amaretto. Poli adds, “Montenegro has a bit of an orange peel character, which is perfect for breakfast and plays with grapefruit nicely.”"
+    notes: "Rebekah Graham, formerly Publican's wine and beer coordinator, collaborated on this riff on the Lunch Box—a glass of beer and orange juice with a dropped shot of amaretto—with former Publican bar manager Matt Poli. Graham became hip to the Lunch Box when a customer ordered a round when she was tending bar at the Pump Room in 2006. Inspired by the endless themes of vintage lunch boxes, she went to work: “We made a Strawberry Shortcake Lunch Box with strawberry Stoli, pineapple juice, and hard apple cider; a Dukes of Hazzard Lunch Box with Southern Comfort, iced tea, and Budweiser; even a Star Wars Lunch Box with blue curaçao, grape juice, and Belgian brown ale. Needless to say, they were all, basically, just gross.” But the eureka moment came later, when she subbed in Amaro Montenegro for the amaretto. Poli adds, “Montenegro has a bit of an orange peel character, which is perfect for breakfast and plays with grapefruit nicely.”"
     glassware: collins
     ingredients:
     - 1 ounce Amaro Montenegro
@@ -491,7 +491,7 @@ recipes:
       - beer
       - citrus
   - name: Cantina Band
-    notes: Because sometimes Figrin D’an and the Modal Nodes just isn’t a catchy enough name for a cocktail. With apologies to all of the non–Star Wars fans out there, the alien playing the toe-tapping number on kloo horn with his fellow Bith bandmates at the Mos Eisley Cantina lives on in spirit in the Cantina Band, from the restaurant Perla in Greenwich Village. This Fernet-Branca-spiked drink is a boozy, bitter summer cooler that will quench the thirst of a sun-scorched Tatooine moisture farmer, or a New Yorker on a humid August afternoon.
+    notes: Because sometimes Figrin D'an and the Modal Nodes just isn't a catchy enough name for a cocktail. With apologies to all of the non–Star Wars fans out there, the alien playing the toe-tapping number on kloo horn with his fellow Bith bandmates at the Mos Eisley Cantina lives on in spirit in the Cantina Band, from the restaurant Perla in Greenwich Village. This Fernet-Branca-spiked drink is a boozy, bitter summer cooler that will quench the thirst of a sun-scorched Tatooine moisture farmer, or a New Yorker on a humid August afternoon.
     glassware: collins
     ingredients:
     - 1½ ounces Fernet-Branca		
@@ -510,7 +510,7 @@ recipes:
       - shaken
   - name: Cappelletti Spritz
     author: Colin Clarke
-    notes: It’s easy to fall in love with the restaurant Franny’s in Prospect Heights, Brooklyn. Even when it moved down the block to a bigger space, this Flatbush Avenue institution still held on to its charm and intimacy. Beyond the artfully blistered pizzas (their clam pie is my go-to order), you’ll find a deep bench of amari, including several they make in-house and offer in tasting flights. Rolling solo at the bar over the years, I’ve gotten to know bartender Colin Clarke, who is always eager to show me the new bottles they’ve brought in. When they started carrying the tangy white wine–based Cappelletti Vino Aperitivo, I got in the habit of kicking things off with a Cappelletti spritz. I always ask for it in a rocks glass, but when I order it at other restaurants it never quite tastes as good as Clarke’s. He’s such a nice guy that all I really had to do was ask him for the recipe, which I’m now sharing with you.
+    notes: It's easy to fall in love with the restaurant Franny's in Prospect Heights, Brooklyn. Even when it moved down the block to a bigger space, this Flatbush Avenue institution still held on to its charm and intimacy. Beyond the artfully blistered pizzas (their clam pie is my go-to order), you'll find a deep bench of amari, including several they make in-house and offer in tasting flights. Rolling solo at the bar over the years, I've gotten to know bartender Colin Clarke, who is always eager to show me the new bottles they've brought in. When they started carrying the tangy white wine–based Cappelletti Vino Aperitivo, I got in the habit of kicking things off with a Cappelletti spritz. I always ask for it in a rocks glass, but when I order it at other restaurants it never quite tastes as good as Clarke's. He's such a nice guy that all I really had to do was ask him for the recipe, which I'm now sharing with you.
     glassware: rocks
     ingredients:
     - 1½ ounces Cappelletti Vino Aperitivo		
@@ -530,7 +530,7 @@ recipes:
       - spritz
   - name: Cardinal
     author: Jeff Bell
-    notes: This refreshing scarlet-hued aperitif owes its color to the combination of pink grapefruit and Casoni 1814 Aperitivo, and it made its debut on the spring 2014 menu at the popular East Village bar PDT. It also calls for the barrel-aged Vermouth del Professore Rosso, a collaboration between Antica Distilleria Quaglia in Mazzè outside of Turin and the Jerry Thomas Speakeasy in Rome. PDT general manager and head bartender Jeff Bell says the finished drink should “resemble a cardinal’s cassock.”
+    notes: This refreshing scarlet-hued aperitif owes its color to the combination of pink grapefruit and Casoni 1814 Aperitivo, and it made its debut on the spring 2014 menu at the popular East Village bar PDT. It also calls for the barrel-aged Vermouth del Professore Rosso, a collaboration between Antica Distilleria Quaglia in Mazzè outside of Turin and the Jerry Thomas Speakeasy in Rome. PDT general manager and head bartender Jeff Bell says the finished drink should “resemble a cardinal's cassock.”
     glassware: coupe
     ingredients:
     - 1 ounce Tanqueray No. Ten gin		
@@ -549,7 +549,7 @@ recipes:
       - citrus
   - name: Carroll Gardens
     author: Joaquín Simó
-    notes: I have a special place in my heart for Joaquín Simó’s signature Carroll Gardens cocktail, and not just because I reside in the Brooklyn neighborhood it’s named after. Simó, too, was living in Carroll Gardens when he came up with the drink, a hat tip to Enzo Errico’s Red Hook cocktail, which has become a modern classic and spawned a family tree of geographically named drinks celebrating the borough, including the Greenpoint, Bushwick, and Cobble Hill. Simó, a partner in the Lower East Side bar Pouring Ribbons, explains, “My contribution to this family of brown-and-stirred cousins nods to the Italian-American roots of Carroll Gardens. There are still tons of tiny little social clubs, Italian delis, and butchers and bakers, and more Madonna with Child statues in the front-facing lawns of the brownstones than you can shake a stick at.” Simó starts with a base spirit of classic American rye but turns to Italy for the modifiers. A whisper of maraschino offers suggestions of stone fruit and marzipan,” he says.
+    notes: I have a special place in my heart for Joaquín Simó's signature Carroll Gardens cocktail, and not just because I reside in the Brooklyn neighborhood it's named after. Simó, too, was living in Carroll Gardens when he came up with the drink, a hat tip to Enzo Errico's Red Hook cocktail, which has become a modern classic and spawned a family tree of geographically named drinks celebrating the borough, including the Greenpoint, Bushwick, and Cobble Hill. Simó, a partner in the Lower East Side bar Pouring Ribbons, explains, “My contribution to this family of brown-and-stirred cousins nods to the Italian-American roots of Carroll Gardens. There are still tons of tiny little social clubs, Italian delis, and butchers and bakers, and more Madonna with Child statues in the front-facing lawns of the brownstones than you can shake a stick at.” Simó starts with a base spirit of classic American rye but turns to Italy for the modifiers. A whisper of maraschino offers suggestions of stone fruit and marzipan,” he says.
     glassware: coupe
     ingredients:
     - 2 ounces Rittenhouse rye whiskey	
@@ -566,7 +566,7 @@ recipes:
       - stirred
   - name: The Chipileños
     author: Denise Spain
-    notes: "Being a creature of habit comes into play when I travel, and whenever I’m in New Orleans, locals are quick to point out that there are other restaurants in the city besides Cochon and Cochon Butcher. Thankfully, delicious cocktails are served at both locations and the Chipileños is another restaurant drink that takes inspiration from the kitchen. Bar manager Denise Spain says of working with chef de cuisine Matt Woodall: “One of my favorite aspects of the bar at Cochon is the ability to collaborate with our phenomenal chefs on different projects, sometimes if even by mistake, as was the case with this cocktail. Our chefs were playing around with kumquats picked from the tree in my front yard, believe it or not, but the project didn’t quite go as planned. We turned the pickled kumquats into an amazing kumquat syrup and ran away with the inspiration.” This led them to a drink that was layered and complex and ultimately a tribute to Chipilo, a town in Puebla, Mexico, founded by immigrants from Veneto, Italy. “We found it the perfect homage to the importance of amaro to the Italian palate, and agave spirit to the Mexican.”		Sal de gussano (“worm salt”) is a blend of sea salt, chile peppers, and dried Maguey worms that is often served as a condiment alongside tequila, mezcal, and salsas in Mexico. It can be purchased online on Amazon or The Meadow. If you can’t find it, a pinch of sea salt and chili powder can serve as a not-so-authentic substitute."
+    notes: "Being a creature of habit comes into play when I travel, and whenever I'm in New Orleans, locals are quick to point out that there are other restaurants in the city besides Cochon and Cochon Butcher. Thankfully, delicious cocktails are served at both locations and the Chipileños is another restaurant drink that takes inspiration from the kitchen. Bar manager Denise Spain says of working with chef de cuisine Matt Woodall: “One of my favorite aspects of the bar at Cochon is the ability to collaborate with our phenomenal chefs on different projects, sometimes if even by mistake, as was the case with this cocktail. Our chefs were playing around with kumquats picked from the tree in my front yard, believe it or not, but the project didn't quite go as planned. We turned the pickled kumquats into an amazing kumquat syrup and ran away with the inspiration.” This led them to a drink that was layered and complex and ultimately a tribute to Chipilo, a town in Puebla, Mexico, founded by immigrants from Veneto, Italy. “We found it the perfect homage to the importance of amaro to the Italian palate, and agave spirit to the Mexican.”		Sal de gussano (“worm salt”) is a blend of sea salt, chile peppers, and dried Maguey worms that is often served as a condiment alongside tequila, mezcal, and salsas in Mexico. It can be purchased online on Amazon or The Meadow. If you can't find it, a pinch of sea salt and chili powder can serve as a not-so-authentic substitute."
     glassware: double rocks
     ingredients:
     - 1½ ounces Mezcal Vago Elote		
@@ -600,12 +600,12 @@ recipes:
       - peaty
   - name: Cranberry Beret
     author: Brad Thomas Parsons
-    notes: This is a reboot of a cocktail with a not-so-sexy name, Cranberry-Spice Cocktail, that I created for Food and Wine magazine. Cranberries, oranges, and apples are still at the heart of the drink, but I amped up the proof a bit with Laird’s apple brandy and played off the bittersweet orange notes of the Amaro CioCiaro and brightness brought on by the Aperol. It’s a great before-dinner drink to kick off a Thanksgiving gathering, a time when it’s good to keep people busy with a drink in their hand. You can also batch it up as a punch and have your guests serve themselves.
+    notes: This is a reboot of a cocktail with a not-so-sexy name, Cranberry-Spice Cocktail, that I created for Food and Wine magazine. Cranberries, oranges, and apples are still at the heart of the drink, but I amped up the proof a bit with Laird's apple brandy and played off the bittersweet orange notes of the Amaro CioCiaro and brightness brought on by the Aperol. It's a great before-dinner drink to kick off a Thanksgiving gathering, a time when it's good to keep people busy with a drink in their hand. You can also batch it up as a punch and have your guests serve themselves.
     glassware: collins
     ingredients:
     - 1 orange wedge		
     - 12 fresh cranberries		
-    - 1½ ounces Laird’s Straight Apple Brandy		
+    - 1½ ounces Laird's Straight Apple Brandy		
     - ½ ounce Amaro CioCiaro		
     - ½ ounce Aperol		
     - 2 dashes cranberry bitters		
@@ -623,7 +623,7 @@ recipes:
       - cider
   - name: Cynara
     author: Maggie Early
-    notes: I lived in Seattle for more than a decade and Tom Douglas’s Palace Kitchen was where you could find me every Friday night. I make it a point to return to Seattle at least once a year, and immediately after dropping my bag off at the hotel, I head straight over to the Palace for a late-night Palace Burger Royale and immediately regret ever moving in the first place. Former Palace Kitchen assistant manager Maggie Early created the Cynara and shared its origin story with me. “I had spent a few weeks on Lake Maggiore in Northern Italy with my family the fall before I was working at Palace Kitchen. We went there to spread my father’s ashes on an island on the lake where he had visited a decade before and declared to my mom that he could die happy there.” The rental house where they were staying had a fully stocked bar and that’s where Maggie’s love of Cynar started. The centerpiece of the seemingly simple cocktail is a large, bitters-soaked ice cube that keeps the drink chilled while slowly rounding out the flavor as it melts. “When you first sip the cocktail, it’s sweet, boozy, and pleasant, like all of its liquid components,” Early explains. “As the ice cube starts to melt you get the rounded-out flavors from the bitters. It’s the kind of drink you want to sip slowly and experience the change in flavor.”
+    notes: I lived in Seattle for more than a decade and Tom Douglas's Palace Kitchen was where you could find me every Friday night. I make it a point to return to Seattle at least once a year, and immediately after dropping my bag off at the hotel, I head straight over to the Palace for a late-night Palace Burger Royale and immediately regret ever moving in the first place. Former Palace Kitchen assistant manager Maggie Early created the Cynara and shared its origin story with me. “I had spent a few weeks on Lake Maggiore in Northern Italy with my family the fall before I was working at Palace Kitchen. We went there to spread my father's ashes on an island on the lake where he had visited a decade before and declared to my mom that he could die happy there.” The rental house where they were staying had a fully stocked bar and that's where Maggie's love of Cynar started. The centerpiece of the seemingly simple cocktail is a large, bitters-soaked ice cube that keeps the drink chilled while slowly rounding out the flavor as it melts. “When you first sip the cocktail, it's sweet, boozy, and pleasant, like all of its liquid components,” Early explains. “As the ice cube starts to melt you get the rounded-out flavors from the bitters. It's the kind of drink you want to sip slowly and experience the change in flavor.”
     glassware: double rocks
     ingredients:
     - 1½ ounces bourbon, preferably Buffalo Trace
@@ -641,7 +641,7 @@ recipes:
       - stirred
   - name: Eeyore's Requiem
     author: Toby Maloney
-    notes: Inspired by what he calls “the most bitter character in literature,” Toby Maloney’s Eeyore’s Requiem is a “deep dark Negroni, turned on its head.” The partner and head mixologist at the Violet Hour in Chicago and the Patterson House in Nashville starts with a base of bitter complexity by stacking three different amari amped up with aromatic French vermouth and juniper-rich gin. “This drink is an excellent foil to the sweet, bumbling, fruity drinks with very little brain,” Maloney says.
+    notes: Inspired by what he calls “the most bitter character in literature,” Toby Maloney's Eeyore's Requiem is a “deep dark Negroni, turned on its head.” The partner and head mixologist at the Violet Hour in Chicago and the Patterson House in Nashville starts with a base of bitter complexity by stacking three different amari amped up with aromatic French vermouth and juniper-rich gin. “This drink is an excellent foil to the sweet, bumbling, fruity drinks with very little brain,” Maloney says.
     glassware: coupe
     ingredients:
     - 1½ ounces Campari		
@@ -685,7 +685,7 @@ recipes:
       - smoking gun
   - name: Embittered Garibaldi
     author: David Little
-    notes: David Little’s deconstructed take on the classic Garibaldi is one of his favorite drinks at his amaro-centric Seattle bar, Barnacle. The bright orange sunset color of the Garibaldi takes a moody turn toward twilight with the addition of the dark and cooling Bràulio in this austere old-fashioned variation.
+    notes: David Little's deconstructed take on the classic Garibaldi is one of his favorite drinks at his amaro-centric Seattle bar, Barnacle. The bright orange sunset color of the Garibaldi takes a moody turn toward twilight with the addition of the dark and cooling Bràulio in this austere old-fashioned variation.
     glassware: double rocks
     ingredients:
     - 2 ounces Amaro Bràulio		
@@ -702,7 +702,7 @@ recipes:
       - stirred
   - name: Exit Strategy
     author: Natasha David
-    notes: "With the Exit Strategy, Natasha David, co-owner and head bartender of the subterranean Lower East Side bar Nitecap, wanted to create a “rich and luscious, almost caramel-like old-fashioned using some of bartenders’ favorite ingredients.” As the proprietor of a popular late-night destination for her fellow bartenders, David should know a thing or two about what bartenders like to drink at the end of their shift. This cocktail hits on those prescriptive notes: “Not too boozy (don’t want to be hungover the next day), comforting (they’ve been working hard all night), decadent (Amaro Nonino and brandy!),” she says."
+    notes: "With the Exit Strategy, Natasha David, co-owner and head bartender of the subterranean Lower East Side bar Nitecap, wanted to create a “rich and luscious, almost caramel-like old-fashioned using some of bartenders' favorite ingredients.” As the proprietor of a popular late-night destination for her fellow bartenders, David should know a thing or two about what bartenders like to drink at the end of their shift. This cocktail hits on those prescriptive notes: “Not too boozy (don't want to be hungover the next day), comforting (they've been working hard all night), decadent (Amaro Nonino and brandy!),” she says."
     glassware: double rocks
     ingredients:
     - 1½ ounces Amaro Nonino Quintessentia
@@ -719,7 +719,7 @@ recipes:
       - stirred
   - name: Fields Forever
     author: Leo Robitschek
-    notes: If it’s on the menu when I’m drinking at the NoMad, chances are I’m ordering the summery Fields Forever. NoMad bar director Leo Robitschek points out that the drink is named after the Beatles’ “Strawberry Fields Forever,” and the song shares the name with a garden next to an orphanage where John Lennon used to play when he was a young boy. “The lyrics represent a beautiful and dark reprieve, much like this cocktail’s easy-drinking but bitter nature,” Robitschek says. It’s a low-proof, bitter, and summery cocktail in a coupe glass and Robitschek, in particular, likes how the drink “showcases the citrus and mint tones of the Foro Amaro while complementing the strawberry flavors.”
+    notes: If it's on the menu when I'm drinking at the NoMad, chances are I'm ordering the summery Fields Forever. NoMad bar director Leo Robitschek points out that the drink is named after the Beatles' “Strawberry Fields Forever,” and the song shares the name with a garden next to an orphanage where John Lennon used to play when he was a young boy. “The lyrics represent a beautiful and dark reprieve, much like this cocktail's easy-drinking but bitter nature,” Robitschek says. It's a low-proof, bitter, and summery cocktail in a coupe glass and Robitschek, in particular, likes how the drink “showcases the citrus and mint tones of the Foro Amaro while complementing the strawberry flavors.”
     glassware: coupe
     ingredients:
     - 1 fresh strawberry
@@ -729,19 +729,19 @@ recipes:
     - ¾ ounce freshly squeezed lemon juice		
     - ½ ounce simple syrup		
     - 1 egg white		
-    - 3 to 5 drops Peychaud’s Bitters
+    - 3 to 5 drops Peychaud's Bitters
     steps:
     - Cut the top off the strawberry, place the berry in a cocktail shaker, and muddle until lightly smashed.
     - Add the Foro Amaro, Aperol, Campari, lemon juice, simple syrup, and egg white and dry shake (without ice) for at least 10 seconds to fully incorporate the egg white.
     - Add ice and continue shaking until chilled and double-strain into a chilled coupe or cocktail glass.
-    - After the egg white foam settles, add drops of Peychaud’s Bitters and gently twist the stem of the glass between your thumb and index finger to create a centrifugal force-enhanced design.
+    - After the egg white foam settles, add drops of Peychaud's Bitters and gently twist the stem of the glass between your thumb and index finger to create a centrifugal force-enhanced design.
     tags:
       - modern amaro cocktails
       - shaken
       - citrus
   - name: Flip Ya for Real
     author: Brad Thomas Parsons
-    notes: "Before he makes his untimely exit in the 1995 film The Usual Suspects, Benicio del Toro’s character Fred Fenster mumbles his way through the movie in an unintelligible yet wholly delightful manner. When talking back to detectives trying to interrogate him, Fenster utters his most memorable line from the film: “He’ll flip ya. Flip ya for real.” Inspired by this cinematic retort, I present a flip of my own, a spicy, bitter, and smoky-sweet affair (much like Fenster himself) that brings together two Mexican liqueurs. With notes of cinnamon and bitter flowers, Fernet-Vallet is softer than its Italian cousin Fernet-Branca, and the Ancho Reyes liqueur, based on a 1927 recipe from Puebla, Mexico, adds a smoky sweetness with just a bit of heat."
+    notes: "Before he makes his untimely exit in the 1995 film The Usual Suspects, Benicio del Toro's character Fred Fenster mumbles his way through the movie in an unintelligible yet wholly delightful manner. When talking back to detectives trying to interrogate him, Fenster utters his most memorable line from the film: “He'll flip ya. Flip ya for real.” Inspired by this cinematic retort, I present a flip of my own, a spicy, bitter, and smoky-sweet affair (much like Fenster himself) that brings together two Mexican liqueurs. With notes of cinnamon and bitter flowers, Fernet-Vallet is softer than its Italian cousin Fernet-Branca, and the Ancho Reyes liqueur, based on a 1927 recipe from Puebla, Mexico, adds a smoky sweetness with just a bit of heat."
     glassware: coupe
     ingredients:
     - 1½ ounces Fernet-Vallet		
@@ -775,14 +775,14 @@ recipes:
       - stirred
   - name: Friûl Libar
     author: Justin Elliot
-    notes: My friend Bill Mann used to be the general manager at Prime Meats in Brooklyn but now he’s down in Austin, Texas, where he spent a few years holding the same position at Paul Qui’s eponymous restaurant, Qui. When I stopped in to have dinner and catch up with him at Qui, he recommended I start with the Friûl Libar, a cocktail created by Justin Elliott, then the bar manager, that featured a local Texas gin and Amaro Nonino. When I asked about the name of the drink, Elliott told me “Friûl Libar,” or “free Friuli” is the slogan of the autonomy movement of the Friulian people in northeastern Italy, where Nonino is produced. While this cocktail doesn’t share too much with the Cuba Libre, it is worth noting that there is some precedent for naming cocktails after the calls to arms graffitied by revolutionaries. But ultimately, he notes he has “at best, a cursory understanding of Friulian politics. Sometimes I just can’t help but enjoy watching people wrestle with how to pronounce funny words.” However you say it, the result is a winter-appropriate sour that is “light, drinkable, and most important, craveable.”
+    notes: My friend Bill Mann used to be the general manager at Prime Meats in Brooklyn but now he's down in Austin, Texas, where he spent a few years holding the same position at Paul Qui's eponymous restaurant, Qui. When I stopped in to have dinner and catch up with him at Qui, he recommended I start with the Friûl Libar, a cocktail created by Justin Elliott, then the bar manager, that featured a local Texas gin and Amaro Nonino. When I asked about the name of the drink, Elliott told me “Friûl Libar,” or “free Friuli” is the slogan of the autonomy movement of the Friulian people in northeastern Italy, where Nonino is produced. While this cocktail doesn't share too much with the Cuba Libre, it is worth noting that there is some precedent for naming cocktails after the calls to arms graffitied by revolutionaries. But ultimately, he notes he has “at best, a cursory understanding of Friulian politics. Sometimes I just can't help but enjoy watching people wrestle with how to pronounce funny words.” However you say it, the result is a winter-appropriate sour that is “light, drinkable, and most important, craveable.”
     glassware: coupe
     ingredients:
     - 1½ ounces Amaro Nonino Quintessentia
     - ½ ounce navy strength gin, preferably Genius Navy
     - ½ ounce freshly squeezed lemon juice
     - ¼ ounce Demerara syrup
-    - 2 dashes Peychaud’s Bitters
+    - 2 dashes Peychaud's Bitters
     - "Garnish: lemon zest"
     steps:
     - Combine all of the ingredients except the garnish in a cocktail shaker filled with ice.
@@ -794,7 +794,7 @@ recipes:
       - citrus
   - name: Gato Amargo
     author: Tad Carducci & Paul Tanguay
-    notes: "I first met Tad Carducci while he was guest-bartending at Bellocq in New Orleans during Tales of the Cocktail. He was making a lineup of amaro-based cocktails, and if that wasn’t enough to win me over, he was also a gracious and generous guy to talk with. Carducci, and his business partner, Paul Tanguay, comprise the well-traveled, high-volume bartending duo and industry consultants the Tippling Bros., and also the authors of the Mexican-inspired cocktail book, The Tippling Bros: A Lime and a Shaker. In their book, you’ll find the Gato Amargo (“bitter cat” in Spanish), a “playful and quaffable drink that’s got some chutzpah,” as Carducci puts it. This juicy, fruity long drink pairs Amaro Montenegro, one of the best examples of a gateway amaro, with bubbly orange soda rounded out with a kick of tequila. Carducci and Tanguay encourage you to seek out Mexican Fanta, which is made with pure cane sugar, instead of the syrupy sweet, high-fructose corn syrup that’s used in the States. To give this bitter kitty a proper taste of la dolce vita, try it with a bottle of orange Fanta from Italy."
+    notes: "I first met Tad Carducci while he was guest-bartending at Bellocq in New Orleans during Tales of the Cocktail. He was making a lineup of amaro-based cocktails, and if that wasn't enough to win me over, he was also a gracious and generous guy to talk with. Carducci, and his business partner, Paul Tanguay, comprise the well-traveled, high-volume bartending duo and industry consultants the Tippling Bros., and also the authors of the Mexican-inspired cocktail book, The Tippling Bros: A Lime and a Shaker. In their book, you'll find the Gato Amargo (“bitter cat” in Spanish), a “playful and quaffable drink that's got some chutzpah,” as Carducci puts it. This juicy, fruity long drink pairs Amaro Montenegro, one of the best examples of a gateway amaro, with bubbly orange soda rounded out with a kick of tequila. Carducci and Tanguay encourage you to seek out Mexican Fanta, which is made with pure cane sugar, instead of the syrupy sweet, high-fructose corn syrup that's used in the States. To give this bitter kitty a proper taste of la dolce vita, try it with a bottle of orange Fanta from Italy."
     glassware: highball
     ingredients:
     - 1 fresh strawberry, quartered		
@@ -816,7 +816,7 @@ recipes:
       - citrus
   - name: Grandmother's Tea
     author: Sother Teague
-    notes: “I had the good fortune of visiting Cognac and Jarnac in France with Nicolas Royer, the sixth generation of the venerable Louis Royer Cognac house,” begins Sother Teague’s tale of the origin of Grandmother’s Tea. On that memorable trip, Teague, who runs New York’s bitters bar Amor y Amargo, had the chance to visit Royer’s grand-mère at her home on one of the vineyards. “Being a good Southern boy, I have a tremendous affection for my own grandmother, so I was excited by this notion. We arrived in the early afternoon and was greeted by his grandmother on the front porch of her beautiful home. She was as gracious as I expected and gave us a tour of the grounds and offered us pastry. It remains my fondest memory of the trip,” he says. Back in New York, Teague went to work to create a cocktail in her honor, and recalling his own grandmother’s fondness for iced tea, he looked to “mimic the flavors of Southern-style iced tea but pack the punch of 106-proof Cognac.”
+    notes: “I had the good fortune of visiting Cognac and Jarnac in France with Nicolas Royer, the sixth generation of the venerable Louis Royer Cognac house,” begins Sother Teague's tale of the origin of Grandmother's Tea. On that memorable trip, Teague, who runs New York's bitters bar Amor y Amargo, had the chance to visit Royer's grand-mère at her home on one of the vineyards. “Being a good Southern boy, I have a tremendous affection for my own grandmother, so I was excited by this notion. We arrived in the early afternoon and was greeted by his grandmother on the front porch of her beautiful home. She was as gracious as I expected and gave us a tour of the grounds and offered us pastry. It remains my fondest memory of the trip,” he says. Back in New York, Teague went to work to create a cocktail in her honor, and recalling his own grandmother's fondness for iced tea, he looked to “mimic the flavors of Southern-style iced tea but pack the punch of 106-proof Cognac.”
     glassware: rocks
     ingredients:
     - 1 ounce Louis Royer Force 53 VSOP Cognac		
@@ -834,7 +834,7 @@ recipes:
       - stirred
   - name: Here Today, Saigon Amaro
     author: Brice Hoffman
-    notes: This whimsically named drink was first featured on a particularly pun-driven cocktail menu at Nashville’s Rolf and Daughters (that may have been the same menu where I once ordered a Cynar-nold Palmer). “I wanted to create a light, bitter, amaro-driven cocktail that could be drunk as easily at the beginning of the meal or the end of one,” says bar director Brice Hoffman. “The Amaro Sibilla brings a heavier alcohol presence as well as an intense bitterness mixed with honey and nutty elements.” The sweeter Cynar and Carpano Antiqua sweet vermouth continue the play of bitter and sweet ingredients, “creating something challenging for the palate but also approachable.” The Saigon Cinnamon Syrup plays well with the herbal notes of the three primary spirits, and the bright acidity from the lime juice and crisp soda water “help to lighten up what would otherwise be a quite heavy drink,” notes Hoffman.
+    notes: This whimsically named drink was first featured on a particularly pun-driven cocktail menu at Nashville's Rolf and Daughters (that may have been the same menu where I once ordered a Cynar-nold Palmer). “I wanted to create a light, bitter, amaro-driven cocktail that could be drunk as easily at the beginning of the meal or the end of one,” says bar director Brice Hoffman. “The Amaro Sibilla brings a heavier alcohol presence as well as an intense bitterness mixed with honey and nutty elements.” The sweeter Cynar and Carpano Antiqua sweet vermouth continue the play of bitter and sweet ingredients, “creating something challenging for the palate but also approachable.” The Saigon Cinnamon Syrup plays well with the herbal notes of the three primary spirits, and the bright acidity from the lime juice and crisp soda water “help to lighten up what would otherwise be a quite heavy drink,” notes Hoffman.
     glassware: collins
     ingredients:
     - ¾ ounce Amaro Sibilla		
@@ -855,7 +855,7 @@ recipes:
       - citrus
   - name: Hunting Vest
     author: Evan Zimmerman
-    notes: “On the West Coast, amaro has been a big part of drinking culture since Fernet-Branca blew up in San Francisco,” says Portland’s Evan Zimmerman. Playing around with spirited infusions like cherry liqueur and Lapsang souchong tea or Cynar and Stumptown coffee beans has long been a favorite pastime of Zimmerman, who heads up North+Lands, a boutique cocktail consulting group. When he helped open the Woodsman Tavern, the Hunting Vest, his decidedly Pacific Northwest take on the classic Old Pal cocktail, quickly became the most popular drink on the menu. The Cedar-Infused Campari used in the cocktail brings a bit of the woodsy outdoors into your coupe glass, but is delicious sipped on its own or chilled over ice.
+    notes: “On the West Coast, amaro has been a big part of drinking culture since Fernet-Branca blew up in San Francisco,” says Portland's Evan Zimmerman. Playing around with spirited infusions like cherry liqueur and Lapsang souchong tea or Cynar and Stumptown coffee beans has long been a favorite pastime of Zimmerman, who heads up North+Lands, a boutique cocktail consulting group. When he helped open the Woodsman Tavern, the Hunting Vest, his decidedly Pacific Northwest take on the classic Old Pal cocktail, quickly became the most popular drink on the menu. The Cedar-Infused Campari used in the cocktail brings a bit of the woodsy outdoors into your coupe glass, but is delicious sipped on its own or chilled over ice.
     glassware: coupe
     ingredients:
     - 1 ounce Cedar-Infused Campari		
@@ -872,12 +872,12 @@ recipes:
       - stirred
   - name: Ice-Berg
     author: Garret Richard
-    notes: If you’re talking to Brooklyn bartender Garret Richard, then the topic of tiki drinks will likely—scratch that, definitely—come up. You can now find him wearing his custom-made bolo ties behind the stick at New York’s Happiest Hour and their sister bar Slowly Shirley, but when he was working at Prime Meats under the tutelage of Damon Boelte, he developed a great appreciation for the German digestif Underberg. “My style is, and will always have, a tropical bent, so incorporating a heavy bitter into a tiki drink seemed like a hard task,” he says. “But with its strong clove and spice notes, Underberg provides a wonderful canvas to demonstrate some exotic flair.” His eureka moment came on a hot summer day when bartender Thomas Waugh was day drinking at one of the sidewalk tables outside the bar. “He drank margaritas with an Underberg shot on the side throughout the afternoon. Channeling the Cabo-style Mexican Bulldog, I decided to make a frozen margarita with an Underberg bottle in it just to be playful.” After that, it became an off-the-menu hit among the regulars. Mixing Underberg into a cocktail had been done before, but making the tiny bottle part of the actual garnish—something that’s catching on among bartenders—was first documented on that illustrated place mat menu at Prime Meats’ Tiki Takeover.
+    notes: If you're talking to Brooklyn bartender Garret Richard, then the topic of tiki drinks will likely—scratch that, definitely—come up. You can now find him wearing his custom-made bolo ties behind the stick at New York's Happiest Hour and their sister bar Slowly Shirley, but when he was working at Prime Meats under the tutelage of Damon Boelte, he developed a great appreciation for the German digestif Underberg. “My style is, and will always have, a tropical bent, so incorporating a heavy bitter into a tiki drink seemed like a hard task,” he says. “But with its strong clove and spice notes, Underberg provides a wonderful canvas to demonstrate some exotic flair.” His eureka moment came on a hot summer day when bartender Thomas Waugh was day drinking at one of the sidewalk tables outside the bar. “He drank margaritas with an Underberg shot on the side throughout the afternoon. Channeling the Cabo-style Mexican Bulldog, I decided to make a frozen margarita with an Underberg bottle in it just to be playful.” After that, it became an off-the-menu hit among the regulars. Mixing Underberg into a cocktail had been done before, but making the tiny bottle part of the actual garnish—something that's catching on among bartenders—was first documented on that illustrated place mat menu at Prime Meats' Tiki Takeover.
     glassware: coupe
     ingredients:
     - 1 ounce Pueblo Viejo reposado tequila		
     - 1 bottle Underberg		
-    - 1 ounce orgeat, preferably Orgeat Works T’Orgeat toasted almond syrup		
+    - 1 ounce orgeat, preferably Orgeat Works T'Orgeat toasted almond syrup		
     - ¾ ounce freshly squeezed lemon juice
     steps:
     - Combine the tequila, Underberg (reserving the bottle), orgeat, and lemon juice in a blender.
@@ -890,7 +890,7 @@ recipes:
       - blended
   - name: Italian Buck
     author: Jamie Boudreau
-    notes: The implied kick in the category of drinks known as the Buck comes from the addition of spicy ginger ale or ginger beer. Most bucks have a bourbon base, but Jamie Boudreau’s Italian Buck lives up to its name with a split base of Cynar and Amaro Montenegro, resulting in a refreshing and bittersweet long drink.	Boudreau’s Seattle bar, canon Whiskey and Bitters Emporium, continues to garner global accolades, including a Tales of the Cocktail Spirited Award for World’s Best Spirits Selection, and in his book The canon Cocktail Book, he shares his philosophy of running a successful bar, along with dozens of his signature recipes. He also has a deep selection of amari, and just in case you’ve got an extra grand to burn, you can have a taste of vintage Amer Picon from 1890 for $950.
+    notes: The implied kick in the category of drinks known as the Buck comes from the addition of spicy ginger ale or ginger beer. Most bucks have a bourbon base, but Jamie Boudreau's Italian Buck lives up to its name with a split base of Cynar and Amaro Montenegro, resulting in a refreshing and bittersweet long drink.	Boudreau's Seattle bar, canon Whiskey and Bitters Emporium, continues to garner global accolades, including a Tales of the Cocktail Spirited Award for World's Best Spirits Selection, and in his book The canon Cocktail Book, he shares his philosophy of running a successful bar, along with dozens of his signature recipes. He also has a deep selection of amari, and just in case you've got an extra grand to burn, you can have a taste of vintage Amer Picon from 1890 for $950.
     glassware: collins
     ingredients:
     - 1½ ounces Cynar
@@ -910,7 +910,7 @@ recipes:
       - canon
   - name: The Jump Off
     author: Ashley Christensen
-    notes: I first met Raleigh chef Ashley Christensen at the Southern Foodways Symposium in Oxford, Mississippi, and if I remember it correctly, there was a flask of bourbon involved. She is among the kindest (and coolest) people I know and her generosity knows no bounds. After my book Bitters came out, she invited me down to Raleigh and hosted me at Fox Liquor Bar for a bitters talk and tasting with the local bartending community (she also made sure I never went hungry and sent me back to my hotel each night with a to-go container of chess pie).	This Fox Liquor Bar original is a joint creation from bar manager John Parra and head bartender Garrett Waddell. The name the Jump Off is lifted from a Plastic Little song, and according to Parra, it’s the placeholder title the Fox crew uses for any cocktail in the early stages of development. This “tiki in a coupe,” as Parra calls it, weaves in the fruity character of Amaro Montenegro “in a fun, unconventional, yet nevertheless relatable fashion.” Parra stresses, “It’s important that the Jump Off achieves this accessibility without hiding the character of the Montenegro, but by highlighting appealing aspects of it.”
+    notes: I first met Raleigh chef Ashley Christensen at the Southern Foodways Symposium in Oxford, Mississippi, and if I remember it correctly, there was a flask of bourbon involved. She is among the kindest (and coolest) people I know and her generosity knows no bounds. After my book Bitters came out, she invited me down to Raleigh and hosted me at Fox Liquor Bar for a bitters talk and tasting with the local bartending community (she also made sure I never went hungry and sent me back to my hotel each night with a to-go container of chess pie).	This Fox Liquor Bar original is a joint creation from bar manager John Parra and head bartender Garrett Waddell. The name the Jump Off is lifted from a Plastic Little song, and according to Parra, it's the placeholder title the Fox crew uses for any cocktail in the early stages of development. This “tiki in a coupe,” as Parra calls it, weaves in the fruity character of Amaro Montenegro “in a fun, unconventional, yet nevertheless relatable fashion.” Parra stresses, “It's important that the Jump Off achieves this accessibility without hiding the character of the Montenegro, but by highlighting appealing aspects of it.”
     glassware: coupe
     ingredients:
     - ¾ ounce Amaro Montenegro		
@@ -945,7 +945,7 @@ recipes:
       - citrus
   - name: Letters of Marque
     author: Jerry Slater
-    notes: I’ll forever hold a spot on my mantel for any drink from Jerry Slater, the owner of H. Harper Station in Atlanta. My first public book signing for Bitters was at the Southern Foodways Symposium in Oxford, Mississippi, at a reception where visiting authors were spread out around the room standing next to a small stack of their book. David Wondrich and I were the lone drinks writers among the well-seasoned cookbook authors, and as we took our places, he said with a smirk, “Welcome to the cocktail book ghetto, where drinks books sell one copy for every ten cookbooks.” And then, almost on cue, Slater came over to introduce himself and buy a book, and he instantly became the very first person with a signed copy of my book. Whenever I see him in Oxford each fall, I still remember to thank him.	The name Letters of Marque refers to the government documents that authorized privateers to profit from possessions seized at sea. “A license to pirate, basically,” offers Slater. “I really prefer Scarlet Ibis rum from Trinidad in this cocktail; it has a beautiful richness that balances the unique vegetal bitterness of the Cynar perfectly.”
+    notes: I'll forever hold a spot on my mantel for any drink from Jerry Slater, the owner of H. Harper Station in Atlanta. My first public book signing for Bitters was at the Southern Foodways Symposium in Oxford, Mississippi, at a reception where visiting authors were spread out around the room standing next to a small stack of their book. David Wondrich and I were the lone drinks writers among the well-seasoned cookbook authors, and as we took our places, he said with a smirk, “Welcome to the cocktail book ghetto, where drinks books sell one copy for every ten cookbooks.” And then, almost on cue, Slater came over to introduce himself and buy a book, and he instantly became the very first person with a signed copy of my book. Whenever I see him in Oxford each fall, I still remember to thank him.	The name Letters of Marque refers to the government documents that authorized privateers to profit from possessions seized at sea. “A license to pirate, basically,” offers Slater. “I really prefer Scarlet Ibis rum from Trinidad in this cocktail; it has a beautiful richness that balances the unique vegetal bitterness of the Cynar perfectly.”
     glassware: coupe
     ingredients:
     - 1 ounce Scarlet Ibis rum		
@@ -963,7 +963,7 @@ recipes:
       - flame
   - name: Little Italy
     author: Audrey Saunders
-    notes: "This 2005 cocktail from New York cocktail icon Audrey Saunders is true to its name, with a combination of classic Italian and American ingredients: spicy American rye mixed with the vegetal, bittersweet Cynar and sweet, herbal Italian vermouth. This variation on the classic Manhattan has become the constant drink I order when I’m looking for something brown, bitter, and stirred at the end of the night. A little splash of cherry syrup in the mixing glass would also be welcome."
+    notes: "This 2005 cocktail from New York cocktail icon Audrey Saunders is true to its name, with a combination of classic Italian and American ingredients: spicy American rye mixed with the vegetal, bittersweet Cynar and sweet, herbal Italian vermouth. This variation on the classic Manhattan has become the constant drink I order when I'm looking for something brown, bitter, and stirred at the end of the night. A little splash of cherry syrup in the mixing glass would also be welcome."
     glassware: coupe
     ingredients:
     - 2 ounces rye whiskey		
@@ -980,7 +980,7 @@ recipes:
       - manhattan
   - name: M&M
     author: Marco Pompili
-    notes: After strolling through the picturesque alleyways and bridges of Ascoli Piceno with brothers Matteo and Mauro Meletti, we joined the rest of their family for aperitivi at Caffè Meletti in Piazza del Popolo, in the heart of the city center. This historic Art Nouveau building originally served as the Royal Post Office but was purchased by Matteo and Mauro’s great-great-grandfather in 1903 and turned into a café patronized by the likes of Hemingway and Sartre. The Melettis no longer own the café, but when your name is emblazoned across a building, you can be sure that you’re welcomed with open arms when you walk through the door. We gathered around a corner banquette with Matteo and Mauro and their parents Silvio and Louisa and their uncle Aldo. Marco Pompili, the silver-haired barman, who, despite the heat wave, remained cool in a white jacket and black necktie, rolled a bar cart to our tables and, executing each simple gesture with a dignified flourish, crafted three cocktails using the café’s namesake spirits. The first drink was made with equal parts Amaro Meletti and their 1870 Bitter, a ruby-colored aperitivo-style bitter they had recently released, and united with four hearty dashes of Angostura bitters. As we raised our glasses, Matteo explained that the drink was invented by his mother, Louisa, who nodded in approval after we clinked glasses. When I asked what it was called, Matteo said, “It has no name. Maybe you’ll call it something you like?” Now, whenever I have this drink I think back to that hot summer night with the Melettis. I’ve taken to calling it the M&M, honoring the initials of the two Meletti bittersweet liqueurs used to make it and for my hosts, Matteo and Mauro.
+    notes: After strolling through the picturesque alleyways and bridges of Ascoli Piceno with brothers Matteo and Mauro Meletti, we joined the rest of their family for aperitivi at Caffè Meletti in Piazza del Popolo, in the heart of the city center. This historic Art Nouveau building originally served as the Royal Post Office but was purchased by Matteo and Mauro's great-great-grandfather in 1903 and turned into a café patronized by the likes of Hemingway and Sartre. The Melettis no longer own the café, but when your name is emblazoned across a building, you can be sure that you're welcomed with open arms when you walk through the door. We gathered around a corner banquette with Matteo and Mauro and their parents Silvio and Louisa and their uncle Aldo. Marco Pompili, the silver-haired barman, who, despite the heat wave, remained cool in a white jacket and black necktie, rolled a bar cart to our tables and, executing each simple gesture with a dignified flourish, crafted three cocktails using the café's namesake spirits. The first drink was made with equal parts Amaro Meletti and their 1870 Bitter, a ruby-colored aperitivo-style bitter they had recently released, and united with four hearty dashes of Angostura bitters. As we raised our glasses, Matteo explained that the drink was invented by his mother, Louisa, who nodded in approval after we clinked glasses. When I asked what it was called, Matteo said, “It has no name. Maybe you'll call it something you like?” Now, whenever I have this drink I think back to that hot summer night with the Melettis. I've taken to calling it the M&M, honoring the initials of the two Meletti bittersweet liqueurs used to make it and for my hosts, Matteo and Mauro.
     glassware: rocks
     ingredients:
     - 1 ounce Amaro Meletti
@@ -996,14 +996,14 @@ recipes:
       - stirred
   - name: The Mayor's Lament
     author: Travis Brazil
-    notes: A few years back a mutual friend introduced me to Nashville chef Matt Bolus, and we shared some e-mails on the subject of bitters as he was preparing to open his restaurant, the 404 Kitchen. On my first visit to Nashville I had the chance to finally meet Matt in person over dinner at the bar of his restaurant, which is connected to the 404 Hotel in a converted shipping container.	That night at the 404 Kitchen, the first cocktail I tried was the Mayor’s Lament, created by Travis Brazil, 404’s general manager and sommelier. The drink was created and named for 404 Kitchen regular Eric Close, who played Mayor Teddy Conrad on the TV series Nashville. Brazil told me, “He is a big fan of American whiskey and I love a good amaro, so I thought this would be a great way to introduce the distinctive minty, herbal notes of the Nardini amaro to him.” He then amped up the bitters as a key ingredient to bridge the drink, deciding on using three different kinds—orange, cherry, and Peychaud’s—to “highlight their own properties while complementing the others.” Close’s character had just taken a drastic arc toward the dark side on the series and Brazil thought “the cocktail named after him would be a great opportunity for a 'character study of bitters.'”
+    notes: A few years back a mutual friend introduced me to Nashville chef Matt Bolus, and we shared some e-mails on the subject of bitters as he was preparing to open his restaurant, the 404 Kitchen. On my first visit to Nashville I had the chance to finally meet Matt in person over dinner at the bar of his restaurant, which is connected to the 404 Hotel in a converted shipping container.	That night at the 404 Kitchen, the first cocktail I tried was the Mayor's Lament, created by Travis Brazil, 404's general manager and sommelier. The drink was created and named for 404 Kitchen regular Eric Close, who played Mayor Teddy Conrad on the TV series Nashville. Brazil told me, “He is a big fan of American whiskey and I love a good amaro, so I thought this would be a great way to introduce the distinctive minty, herbal notes of the Nardini amaro to him.” He then amped up the bitters as a key ingredient to bridge the drink, deciding on using three different kinds—orange, cherry, and Peychaud's—to “highlight their own properties while complementing the others.” Close's character had just taken a drastic arc toward the dark side on the series and Brazil thought “the cocktail named after him would be a great opportunity for a 'character study of bitters.'”
     glassware: double rocks
     ingredients:
     - 1½ ounces Rittenhouse rye whiskey	
     - 1 ounce Amaro Nardini		
     - 3 dashes Woodford Reserve Spiced Cherry Bitters		
-    - 3 dashes Regans’ Orange Bitters No. 6		
-    - 2 dashes Peychaud’s Bitters
+    - 3 dashes Regans' Orange Bitters No. 6		
+    - 2 dashes Peychaud's Bitters
     steps:
     - Combine all the ingredients in a mixing glass filled with ice. 
     - Stir until chilled and strain into a double old-fashioned glass over a large ice cube.
@@ -1012,10 +1012,10 @@ recipes:
       - stirred
   - name: Monte Clift
     author: Brad Thomas Parsons
-    notes: I was a bit of a theater geek in high school, and when I went off to college, I had aspirations of treading the boards on the campus stage. I ended up as a double major in English and theater and was cast in several plays, but after my sophomore year, I switched gears to pursue writing. During my theater days, I was pretty obsessed with James Dean and Montgomery Clift and read every book I could find about them. Even though I was being cast as “Drunk Santa” in a stage adaptation of a musical version of Miracle on 34th Street, in my head, I was a moody, Method-acting misfit in a rumpled tweed jacket and tortoiseshell glasses. I used to keep a dog-eared mass-market paperback edition of Patricia Bosworth’s 1978 biography of Clift tucked into my coat pocket to read between classes. This bittersweet tribute to Monty features Mister Katz’s Rock and Rye from Brooklyn’s New York Distilling Company. On its own it’s like a cocktail in a glass, with rye flavored with cinnamon, citrus, sour cherries, and rock candy sugar, and the Amaro Montenegro punches up the sweetness with a burst of orange and tangerine and a mild hint of herbal bitterness. Let’s imagine him mixing up a pitcher of these for Elizabeth Taylor.
+    notes: I was a bit of a theater geek in high school, and when I went off to college, I had aspirations of treading the boards on the campus stage. I ended up as a double major in English and theater and was cast in several plays, but after my sophomore year, I switched gears to pursue writing. During my theater days, I was pretty obsessed with James Dean and Montgomery Clift and read every book I could find about them. Even though I was being cast as “Drunk Santa” in a stage adaptation of a musical version of Miracle on 34th Street, in my head, I was a moody, Method-acting misfit in a rumpled tweed jacket and tortoiseshell glasses. I used to keep a dog-eared mass-market paperback edition of Patricia Bosworth's 1978 biography of Clift tucked into my coat pocket to read between classes. This bittersweet tribute to Monty features Mister Katz's Rock and Rye from Brooklyn's New York Distilling Company. On its own it's like a cocktail in a glass, with rye flavored with cinnamon, citrus, sour cherries, and rock candy sugar, and the Amaro Montenegro punches up the sweetness with a burst of orange and tangerine and a mild hint of herbal bitterness. Let's imagine him mixing up a pitcher of these for Elizabeth Taylor.
     glassware: double rocks
     ingredients:
-    - 1½ ounces New York Distilling Company Mister Katz’s Rock and Rye		
+    - 1½ ounces New York Distilling Company Mister Katz's Rock and Rye		
     - 1 ounce Amaro Montenegro		
     - ¼ ounce freshly squeezed lemon juice		
     - 2 dashes Hella Bitter citrus bitters		
@@ -1030,13 +1030,13 @@ recipes:
       - citrus
   - name: Mustache Ride
     author: Anna Wallace & Joe Sundberg
-    notes: Anna Wallace and Joe Sundberg are just two of the many distinguished alumni from chef Renee Erickson’s the Walrus and the Carpenter who have gone on to enrich the Seattle food scene with their own contributions. Anna now owns the Seattle Seltzer Company and Joe is a partner at the restaurant Manolin. The Mustache Ride was a drink they collaborated on during the early days of W and C, sparked when the guys on staff started a high-stakes mustache-growing competition. Even customers got in on the action, donning elaborate fake mustaches and laying down odds on staff favorites likely to win. Wallace recalls, “At one point, we even caught a group of women rating the mustaches on the back of their oyster list.” Wallace and Sundberg decided to feed the frenzy with a drink to commemorate the event, and the Mustache Ride was born. “The drink is very similar to a Lion’s Tail, though the replacement of simple syrup with a warming, but not too sweet Grade B maple syrup blows the true classic out of the water,” states Wallace. She was making her own allspice dram but switched to St. Elizabeth Allspice Dram when she couldn’t keep up with the demand. “Bulleit stands up to the complex flavors, but Cynar was really the dark horse in this race,” she continues. “It adds a wonderful mouthfeel that truly completes the cocktail. It ramps the bitterness up to balance out the sweetness.” Ladies and gentlemen, we have a winner.
+    notes: Anna Wallace and Joe Sundberg are just two of the many distinguished alumni from chef Renee Erickson's the Walrus and the Carpenter who have gone on to enrich the Seattle food scene with their own contributions. Anna now owns the Seattle Seltzer Company and Joe is a partner at the restaurant Manolin. The Mustache Ride was a drink they collaborated on during the early days of W and C, sparked when the guys on staff started a high-stakes mustache-growing competition. Even customers got in on the action, donning elaborate fake mustaches and laying down odds on staff favorites likely to win. Wallace recalls, “At one point, we even caught a group of women rating the mustaches on the back of their oyster list.” Wallace and Sundberg decided to feed the frenzy with a drink to commemorate the event, and the Mustache Ride was born. “The drink is very similar to a Lion's Tail, though the replacement of simple syrup with a warming, but not too sweet Grade B maple syrup blows the true classic out of the water,” states Wallace. She was making her own allspice dram but switched to St. Elizabeth Allspice Dram when she couldn't keep up with the demand. “Bulleit stands up to the complex flavors, but Cynar was really the dark horse in this race,” she continues. “It adds a wonderful mouthfeel that truly completes the cocktail. It ramps the bitterness up to balance out the sweetness.” Ladies and gentlemen, we have a winner.
     glassware: double rocks
     ingredients:
     - 1½ ounces bourbon, preferably Bulleit		
     - ½ ounce Cynar		
     - ¾ ounce freshly squeezed lemon juice		
-    - ½ ounce Joey Sunshine’s Maple Simple Syrup		
+    - ½ ounce Joey Sunshine's Maple Simple Syrup		
     - ½ ounce St. Elizabeth Allspice Dram		
     - "Garnish: lemon twist and cocktail cherry"
     steps:
@@ -1048,7 +1048,7 @@ recipes:
       - shaken
   - name: Paper Plane
     author: Sam Ross
-    notes: I bet most of you can’t think of the Paper Plane without automatically hearing the “All I wanna do is…” refrain from the M.I.A. song “Paper Planes.” Sam Ross, a partner at New York’s Attaboy, admits he was “playing the hell out of it” when he created this modern classic in 2008. Ross’s equal-parts riff on the classic Last Word started with Amaro Nonino, “my absolute favorite amaro of all time.” The first printed version of the Paper Plane had Campari, but Ross swapped in Aperol for better balance. Rye, scotch, applejack, and rum were up for the final component, but, Ross says, “bourbon remained the perfect complement” to the cocktail.
+    notes: I bet most of you can't think of the Paper Plane without automatically hearing the “All I wanna do is…” refrain from the M.I.A. song “Paper Planes.” Sam Ross, a partner at New York's Attaboy, admits he was “playing the hell out of it” when he created this modern classic in 2008. Ross's equal-parts riff on the classic Last Word started with Amaro Nonino, “my absolute favorite amaro of all time.” The first printed version of the Paper Plane had Campari, but Ross swapped in Aperol for better balance. Rye, scotch, applejack, and rum were up for the final component, but, Ross says, “bourbon remained the perfect complement” to the cocktail.
     glassware: coupe
     ingredients:
     - ¾ ounce bourbon		
@@ -1065,7 +1065,7 @@ recipes:
       - classic
   - name: Red Hook Criterium
     author: St. John Frizell
-    notes: Every March since the late 2000s, a bike race called the Red Hook Criterium (known as “the Crit”) tears through the Brooklyn waterfront neighborhood it’s named after. St. John Frizell has held a box seat to this spectacle from his perch at his bar Fort Defiance on Van Brunt Street. He recalls the early days of the race as an “unsanctioned, unsponsored, ad hoc race conducted without official permission in the middle of the night on Red Hook’s cobblestone streets,” with a vivid memory of witnessing three stacked tiers of bikes locked to the chain link at the 2010 after-party held at a third-floor walk-up across from the bar.	The race got bigger, and with that came sponsorship and additional races around the world in Barcelona, London, and Milan. Frizell commemorated the first Milan race with a special cocktail. “After all, this was the biggest sporting event to happen in Red Hook since Sir Thomas Lipton docked the Shamrock II during the America’s Cup in Erie Basin back in 1899,” he says. He reached for the Zucca Rabarbaro, the Milanese amaro that had just become available in the United States, and put it “front and center” in a lighter drink, so that “you could conceivably ride a bike after having one or two.” This “bitter and juicy highball” has remained on the menu ever since and is one of the greatest hits at Fort Defiance, especially during Crit Week.
+    notes: Every March since the late 2000s, a bike race called the Red Hook Criterium (known as “the Crit”) tears through the Brooklyn waterfront neighborhood it's named after. St. John Frizell has held a box seat to this spectacle from his perch at his bar Fort Defiance on Van Brunt Street. He recalls the early days of the race as an “unsanctioned, unsponsored, ad hoc race conducted without official permission in the middle of the night on Red Hook's cobblestone streets,” with a vivid memory of witnessing three stacked tiers of bikes locked to the chain link at the 2010 after-party held at a third-floor walk-up across from the bar.	The race got bigger, and with that came sponsorship and additional races around the world in Barcelona, London, and Milan. Frizell commemorated the first Milan race with a special cocktail. “After all, this was the biggest sporting event to happen in Red Hook since Sir Thomas Lipton docked the Shamrock II during the America's Cup in Erie Basin back in 1899,” he says. He reached for the Zucca Rabarbaro, the Milanese amaro that had just become available in the United States, and put it “front and center” in a lighter drink, so that “you could conceivably ride a bike after having one or two.” This “bitter and juicy highball” has remained on the menu ever since and is one of the greatest hits at Fort Defiance, especially during Crit Week.
     glassware: highball
     ingredients:
     - 1½ ounces Zucca Rabarbaro amaro		
@@ -1085,7 +1085,7 @@ recipes:
       - citrus
   - name: Rickey Ramazzotti
     author: Brad Thomas Parsons
-    notes: A Ramazzotti rickey is one thing, but Rickey Ramazzotti sounds like a decent guy from the neighborhood. He’s the guy you call to help you move out of your apartment. This is my bitter take on the cherry limeade from Sonic Drive-In, which, when you’re on foot and not behind the wheel, is even better when spiked with bourbon. I’ve always loved the root-beer spice notes of Ramazzotti—especially how they work together with the orange and vanilla from the bourbon and the brightness of the lime.
+    notes: A Ramazzotti rickey is one thing, but Rickey Ramazzotti sounds like a decent guy from the neighborhood. He's the guy you call to help you move out of your apartment. This is my bitter take on the cherry limeade from Sonic Drive-In, which, when you're on foot and not behind the wheel, is even better when spiked with bourbon. I've always loved the root-beer spice notes of Ramazzotti—especially how they work together with the orange and vanilla from the bourbon and the brightness of the lime.
     glassware: double rocks
     ingredients:
     - 6 cherries, pitted		
@@ -1107,7 +1107,7 @@ recipes:
       - citrus
   - name: Root Down
     author: Charlie Schott
-    notes: It’s just one letter that separates Parson from Parsons, but upon my first visit to my almost-namesake restaurant, I instantly felt a surname-inspired kinship with the Chicago restaurant Parson’s Chicken and Fish. Hot chicken, fried fish, hush puppies, and serious cocktails are all part of the program in this fun and funky Logan Square outpost. You can find the recipe for bar manager Charlie Schott’s signature Negroni Slushy in Gary Regan’s wonderful book, The Negroni, so rather than offering a cover version of that already perfect drink, I asked Schott for another favorite amaro drink from the menu to share. The Root Down inverts the classic spirit/vermouth ratio, with a healthy pour of Cocchi Vermouth di Torino. Based on a recipe from 1891, the Moscato-based vermouth comes together with the barky, herbal notes of Philadelphia’s Art in the Age Root Liqueur. Mole bitters and a float of smoky single-malt scotch bring a well-balanced finish to this bittersweet sipper.
+    notes: It's just one letter that separates Parson from Parsons, but upon my first visit to my almost-namesake restaurant, I instantly felt a surname-inspired kinship with the Chicago restaurant Parson's Chicken and Fish. Hot chicken, fried fish, hush puppies, and serious cocktails are all part of the program in this fun and funky Logan Square outpost. You can find the recipe for bar manager Charlie Schott's signature Negroni Slushy in Gary Regan's wonderful book, The Negroni, so rather than offering a cover version of that already perfect drink, I asked Schott for another favorite amaro drink from the menu to share. The Root Down inverts the classic spirit/vermouth ratio, with a healthy pour of Cocchi Vermouth di Torino. Based on a recipe from 1891, the Moscato-based vermouth comes together with the barky, herbal notes of Philadelphia's Art in the Age Root Liqueur. Mole bitters and a float of smoky single-malt scotch bring a well-balanced finish to this bittersweet sipper.
     glassware: coupe
     ingredients:
     - 1¼ ounces Cocchi Vermouth di Torino		
@@ -1125,7 +1125,7 @@ recipes:
       - peaty
   - name: Safe Passage
     author: Kenaniah Bystrom
-    notes: In the Ballard neighborhood of Seattle, Brandon Pettit had long been experimenting with his own small-batch shrubs, bitters, ginger beer, and liqueurs at Delancey—the popular pizzeria he runs with his wife, writer Molly Wizenberg—but when the vintage umbrella shop next door closed up, the couple turned it into a twelve-stool craft cocktail bar called Essex. You’ll find sparkling Americano cocktails on tap and many of the drinks are doctored with house-made amaro and liqueurs. Spiked with Castelvetrano olive brine, the Safe Passage was created by Delancey’s then bar manager Kenaniah Bystrom as a tribute to Brooklyn restaurant Franny’s Sweet Olive cocktail for a party they hosted in honor of the Franny’s cookbook release. The resulting drink is the perfect balance of salty, sweet, and bitter.
+    notes: In the Ballard neighborhood of Seattle, Brandon Pettit had long been experimenting with his own small-batch shrubs, bitters, ginger beer, and liqueurs at Delancey—the popular pizzeria he runs with his wife, writer Molly Wizenberg—but when the vintage umbrella shop next door closed up, the couple turned it into a twelve-stool craft cocktail bar called Essex. You'll find sparkling Americano cocktails on tap and many of the drinks are doctored with house-made amaro and liqueurs. Spiked with Castelvetrano olive brine, the Safe Passage was created by Delancey's then bar manager Kenaniah Bystrom as a tribute to Brooklyn restaurant Franny's Sweet Olive cocktail for a party they hosted in honor of the Franny's cookbook release. The resulting drink is the perfect balance of salty, sweet, and bitter.
     glassware: coupe
     ingredients:
     - 1 ounce Amaro Nardini
@@ -1144,7 +1144,7 @@ recipes:
       - sparkling
   - name: San Francisco Treat
     author: Sam Levy
-    notes: Bar manager Sam Levy is one of the first people you see upon entering the three Michelin–starred Restaurant at Meadowood in Saint Helena, California, and you’d be remiss if you didn’t begin your soon-to-be unforgettable dining experience without first taking a seat at the bar to sample one of his creations. He’ll also be happy to see you for an after-dinner drink, where he might serve you his signature San Francisco Treat. Named for the catchy Rice-A-Roni jingle, this equal-parts sipper unites Fernet-Branca, Averna, and Dolin Blanc vermouth. Levy says, “I wanted to soften the Fernet up with other things I love to use in cocktails. The Averna rounds it out and the Dolin Blanc softens everything, adding a delicate floral side. As a bartender, one thing I think I know is that most San Franciscans love Fernet. Adding the Averna and Dolin Blanc turned it into a treat.”
+    notes: Bar manager Sam Levy is one of the first people you see upon entering the three Michelin–starred Restaurant at Meadowood in Saint Helena, California, and you'd be remiss if you didn't begin your soon-to-be unforgettable dining experience without first taking a seat at the bar to sample one of his creations. He'll also be happy to see you for an after-dinner drink, where he might serve you his signature San Francisco Treat. Named for the catchy Rice-A-Roni jingle, this equal-parts sipper unites Fernet-Branca, Averna, and Dolin Blanc vermouth. Levy says, “I wanted to soften the Fernet up with other things I love to use in cocktails. The Averna rounds it out and the Dolin Blanc softens everything, adding a delicate floral side. As a bartender, one thing I think I know is that most San Franciscans love Fernet. Adding the Averna and Dolin Blanc turned it into a treat.”
     glassware: double rocks
     ingredients:
     - 1 ounce Fernet-Branca		
@@ -1160,7 +1160,7 @@ recipes:
       - flame
       - stirred
   - name: Senegalese Friendship Bracelet
-    notes: "No matter how savvy a traveler you think you might be, there are those unexpected moments when it feels like you’ve got a great big SUCKER bull’s-eye stamped on your forehead. I was in Milan with photographer Ed Anderson and we had just followed in the footsteps of Verdi and Toscanini, enjoying a civilized aperitivo of an Americano and a Garibaldi while standing at the marble bar at Caffè Camparino in the Galleria Vittorio Emanuele II. We stepped outside the bar, and wanting to avoid the crowds, leaned against the wall and pulled out our phones to look up the address for our next destination. In an instant, a buoyant man decked out in colorful robes whisked between us and greeted us with a hearty “America!” He told us he was from Senegal and that he loved the United States. When he asked where we lived, he smiled and shouted back, “Brooklyn! California!” and more curiously, “Michael Jackson! Michael Jordan!” In the midst of all of this jolly banter, he had not so subtly wrapped a rainbow-colored friendship bracelet snugly around each of our wrists. He insisted they were free but his open palm seemed to imply that wasn’t the case. We may have lost two Euros, but we gained matching souvenirs for the remainder of our trip through Italy. In a nod to the Americano, I’ve paired two herbaceous spirits to represent my journey from Brooklyn to Milan: Campari from Milan and the tart, floral, and hibiscus-based Sorel liqueur made in Red Hook, a stone’s throw from my apartment. Here’s to you, my Senegalese friend!"
+    notes: "No matter how savvy a traveler you think you might be, there are those unexpected moments when it feels like you've got a great big SUCKER bull's-eye stamped on your forehead. I was in Milan with photographer Ed Anderson and we had just followed in the footsteps of Verdi and Toscanini, enjoying a civilized aperitivo of an Americano and a Garibaldi while standing at the marble bar at Caffè Camparino in the Galleria Vittorio Emanuele II. We stepped outside the bar, and wanting to avoid the crowds, leaned against the wall and pulled out our phones to look up the address for our next destination. In an instant, a buoyant man decked out in colorful robes whisked between us and greeted us with a hearty “America!” He told us he was from Senegal and that he loved the United States. When he asked where we lived, he smiled and shouted back, “Brooklyn! California!” and more curiously, “Michael Jackson! Michael Jordan!” In the midst of all of this jolly banter, he had not so subtly wrapped a rainbow-colored friendship bracelet snugly around each of our wrists. He insisted they were free but his open palm seemed to imply that wasn't the case. We may have lost two Euros, but we gained matching souvenirs for the remainder of our trip through Italy. In a nod to the Americano, I've paired two herbaceous spirits to represent my journey from Brooklyn to Milan: Campari from Milan and the tart, floral, and hibiscus-based Sorel liqueur made in Red Hook, a stone's throw from my apartment. Here's to you, my Senegalese friend!"
     glassware: highball
     ingredients:
     - 1½ ounces Campari		
@@ -1177,7 +1177,7 @@ recipes:
       - stirred
   - name: Seventh Heaven
     author: Adam Schmidt
-    notes: This bittersweet tiki drink from bartender Adam Schmidt made its debut on the winter 2015 menu at PDT. Schmidt calls it a “a Zombie–mai tai mash-up and an ode to old-school tiki,” pointing out his homage to tiki legend Donn Beach’s “classic combination of Angostura and absinthe.”
+    notes: This bittersweet tiki drink from bartender Adam Schmidt made its debut on the winter 2015 menu at PDT. Schmidt calls it a “a Zombie–mai tai mash-up and an ode to old-school tiki,” pointing out his homage to tiki legend Donn Beach's “classic combination of Angostura and absinthe.”
     glassware: tiki mug
     ingredients:
     - 1½ ounces Banks 7 Golden Age Rum		
@@ -1200,7 +1200,7 @@ recipes:
       - tiki
   - name: Sharpie Mustache
     author: Chris Elford
-    notes: One of the most recognized (at least most Instagrammed) and well-traveled drinks to come out of New York’s Amor y Amargo is the Sharpie Mustache. That it’s served in a small glass flask adorned with a mustache sticker certainly helps elevate it beyond the standard coupe glass experience, and it doesn’t hurt that it’s delicious, complex, well balanced, and pleasantly boozy. Chris Elford now lives in Seattle, but when he was at Amor y Amargo in 2011 and 2012, he spent months tasting and playing around with the bar’s dozens of bottles of amari on the shelf. He happened to be on a Meletti kick when “an older woman with a gruff voice who seemed like she was no stranger to drinking” came into the bar and ordered “whatever you like to make.” Splitting the bases, rye and gin seemed like “strange but awesome bedfellows,” and the tiki bitters and Orange twist “made the drink pop just right.” And about that name? “I named it the Sharpie Mustache because, well, this drink is very, very boozy—deceptively so—and one of my favorite frat boy inclinations in America is that of drawing a Sharpie mustache on some poor soul who passed out early. I believe the rule is they are fair game if they still have their shoes on.”
+    notes: One of the most recognized (at least most Instagrammed) and well-traveled drinks to come out of New York's Amor y Amargo is the Sharpie Mustache. That it's served in a small glass flask adorned with a mustache sticker certainly helps elevate it beyond the standard coupe glass experience, and it doesn't hurt that it's delicious, complex, well balanced, and pleasantly boozy. Chris Elford now lives in Seattle, but when he was at Amor y Amargo in 2011 and 2012, he spent months tasting and playing around with the bar's dozens of bottles of amari on the shelf. He happened to be on a Meletti kick when “an older woman with a gruff voice who seemed like she was no stranger to drinking” came into the bar and ordered “whatever you like to make.” Splitting the bases, rye and gin seemed like “strange but awesome bedfellows,” and the tiki bitters and Orange twist “made the drink pop just right.” And about that name? “I named it the Sharpie Mustache because, well, this drink is very, very boozy—deceptively so—and one of my favorite frat boy inclinations in America is that of drawing a Sharpie mustache on some poor soul who passed out early. I believe the rule is they are fair game if they still have their shoes on.”
     glassware: rocks
     ingredients:
     - ¾ ounce dry gin, preferably Rutte		
@@ -1217,7 +1217,7 @@ recipes:
       - modern amaro cocktails
       - stirred
   - name: Skystone Meletti
-    notes: "On my last night in Ascoli Piceno, a small town in central Italy, after an evening of cocktails, wine, and dinner with the Meletti family, we walked across Piazza del Popolo in the shadows of the historic buildings and stopped into the small but lively Bar Sestili for one last drink.	Owner and bartender Fabio Caponi welcomed us and immediately went to work behind the bar, where he created a special drink in our honor. With two generations of the town’s storied Meletti family sitting at the tables outside, Fabio naturally reached for a bottle of Amaro Meletti, which he said matched perfectly with a vintage bottle of 12-year-old Glenlivet. “A gift from my beloved grandfather. I like to think this cocktail celebrates his memory, too.” When I checked back in with him to get the recipe, he shared this advice on the drink: “Skystone Meletti is my tribute to the Meletti family and to Ascoli Piceno. I suggest enjoying it as a meditative drink under the stars—in a cozy corner, ideally within Ascoli’s marble buildings, with great company, as it was originally created and first tasted.” I’m looking forward to returning back there someday soon for more drinks under the stars."
+    notes: "On my last night in Ascoli Piceno, a small town in central Italy, after an evening of cocktails, wine, and dinner with the Meletti family, we walked across Piazza del Popolo in the shadows of the historic buildings and stopped into the small but lively Bar Sestili for one last drink.	Owner and bartender Fabio Caponi welcomed us and immediately went to work behind the bar, where he created a special drink in our honor. With two generations of the town's storied Meletti family sitting at the tables outside, Fabio naturally reached for a bottle of Amaro Meletti, which he said matched perfectly with a vintage bottle of 12-year-old Glenlivet. “A gift from my beloved grandfather. I like to think this cocktail celebrates his memory, too.” When I checked back in with him to get the recipe, he shared this advice on the drink: “Skystone Meletti is my tribute to the Meletti family and to Ascoli Piceno. I suggest enjoying it as a meditative drink under the stars—in a cozy corner, ideally within Ascoli's marble buildings, with great company, as it was originally created and first tasted.” I'm looking forward to returning back there someday soon for more drinks under the stars."
     glassware: highball
     ingredients:
     - 2 ounces Glenlivet 12 year single-malt scotch
@@ -1236,7 +1236,7 @@ recipes:
       - shaken
   - name: Smithstreeter
     author: Chris DeCrosta
-    notes: I am proud to be a member of the so-called mug club at Prime Meats in Carroll Gardens, Brooklyn. For a onetime fee, you become the proud owner of your own mug, which is kept behind the bar just awaiting your arrival. I was happy with my status as mug number 24 (doesn’t that make me one of the top twenty-five regulars?)—until I met Chris DeCrosta, owner of mug 1. DeCrosta lives a few blocks away from the bar, and whenever I see him, he’s usually at his favorite stool (B1). But before I actually met him, I only knew him by his Instagram handle, @smithstreeter. He’s inked up and obsessed with the brand Supreme and casts a cool, laid-back vibe, typically decked out in a T-shirt and ball cap. For the longest time, I thought he might be a fourth Beastie Boy, but it turns out he’s a successful retail real estate specialist. I always love running into him and wanted to create a drink in tribute to our friendship—something that I could envision him drinking from his favorite stool. Stay bitter, Chris!
+    notes: I am proud to be a member of the so-called mug club at Prime Meats in Carroll Gardens, Brooklyn. For a onetime fee, you become the proud owner of your own mug, which is kept behind the bar just awaiting your arrival. I was happy with my status as mug number 24 (doesn't that make me one of the top twenty-five regulars?)—until I met Chris DeCrosta, owner of mug 1. DeCrosta lives a few blocks away from the bar, and whenever I see him, he's usually at his favorite stool (B1). But before I actually met him, I only knew him by his Instagram handle, @smithstreeter. He's inked up and obsessed with the brand Supreme and casts a cool, laid-back vibe, typically decked out in a T-shirt and ball cap. For the longest time, I thought he might be a fourth Beastie Boy, but it turns out he's a successful retail real estate specialist. I always love running into him and wanted to create a drink in tribute to our friendship—something that I could envision him drinking from his favorite stool. Stay bitter, Chris!
     glassware: highball
     ingredients:
     - 1 ounce rye whiskey		
@@ -1258,7 +1258,7 @@ recipes:
       - stirred
   - name: Summer Babe (Winter Version)
     author: Brad Thomas Parsons
-    notes: You didn’t think you’d get through this bittersweet cocktail playlist of mine without coming across a drink named after a Pavement song, did you? Granted, fresh blackberries aren’t exactly in season in the colder months, but I envisioned a drink that would be appropriate as a cool refresher in the humid days of August and as a spicy cooler for the change of seasons. For the summer version, you can pack your glass with ice, and in winter, fill your glass with one large ice cube for ease of dilution (and seasonal contemplation). The blackberries bring a kick to the fruity notes and toasted char finish of the rum and bitter orange from the Ramazzotti, along with a bright and spicy kick from the lime and ginger beer. Plastic-tipped cigar garnish optional.
+    notes: You didn't think you'd get through this bittersweet cocktail playlist of mine without coming across a drink named after a Pavement song, did you? Granted, fresh blackberries aren't exactly in season in the colder months, but I envisioned a drink that would be appropriate as a cool refresher in the humid days of August and as a spicy cooler for the change of seasons. For the summer version, you can pack your glass with ice, and in winter, fill your glass with one large ice cube for ease of dilution (and seasonal contemplation). The blackberries bring a kick to the fruity notes and toasted char finish of the rum and bitter orange from the Ramazzotti, along with a bright and spicy kick from the lime and ginger beer. Plastic-tipped cigar garnish optional.
     glassware: double rocks
     ingredients:
     - 1½ ounces Mount Gay Black Barrel rum		
@@ -1279,7 +1279,7 @@ recipes:
       - winter
   - name: Summer Quartet
     author: John deBary
-    notes: The Summer Quartet made its debut on the menu at Momofuku Ssäm Bar and Momofuku Ko under the category listed as Quartet. Momofuku bar director John deBary says, “I’m really drawn to four-ingredient, equal-part drinks like the Last Word, Naked and Famous, and Corpse Reviver No. 2, so at Momofuku we’ve created a category to feature these.” Sotol is an herbaceous, rustic spirit produced in Chihuahua, Mexico, distilled from the sotol plant, with notes of citrus and smoke. “One hallmark of these drinks is that they take intensely flavored ingredients and manage to balance each other out,” says deBary.
+    notes: The Summer Quartet made its debut on the menu at Momofuku Ssäm Bar and Momofuku Ko under the category listed as Quartet. Momofuku bar director John deBary says, “I'm really drawn to four-ingredient, equal-part drinks like the Last Word, Naked and Famous, and Corpse Reviver No. 2, so at Momofuku we've created a category to feature these.” Sotol is an herbaceous, rustic spirit produced in Chihuahua, Mexico, distilled from the sotol plant, with notes of citrus and smoke. “One hallmark of these drinks is that they take intensely flavored ingredients and manage to balance each other out,” says deBary.
     glassware: double rocks
     ingredients:
     - ¾ ounce Ocho Cientos Blanco sotol		
@@ -1295,11 +1295,11 @@ recipes:
       - shaken
       - citrus
   - name: Thistle and Weeds
-    notes: The lighter, wine-based Cardamaro plays nicely as an aperitif. The 100-year-old Bosca family recipe infuses the wine with cardoon and Roman thistle, among other botanicals, and it is then aged in new oak barrels, resulting in a softer, sherry-like amaro. The Amara Amaro d’Arancia Rossa, made with blood oranges from Sicily, is on the sweeter side of the bittersweet spectrum and brings a pop of citrus-forward brightness to the drink.
+    notes: The lighter, wine-based Cardamaro plays nicely as an aperitif. The 100-year-old Bosca family recipe infuses the wine with cardoon and Roman thistle, among other botanicals, and it is then aged in new oak barrels, resulting in a softer, sherry-like amaro. The Amara Amaro d'Arancia Rossa, made with blood oranges from Sicily, is on the sweeter side of the bittersweet spectrum and brings a pop of citrus-forward brightness to the drink.
     glassware: highball
     ingredients:
     - 1 ounce Cardamaro Vino Amaro		
-    - ½ ounce Amara Amaro d’Arancia Rossa		
+    - ½ ounce Amara Amaro d'Arancia Rossa		
     - 2 dashes grapefruit bitters		
     - Prosecco or sparkling wine		
     - "Garnish: orange zest"
@@ -1313,13 +1313,13 @@ recipes:
       - stirred
   - name: The Velvet Ditch
     author: Jayce McConnell
-    notes: Jayce McConnell is now the head bartender at Edmund’s Oast in Charleston, South Carolina, but when I first met him he was behind the stick at his first bartending job at John Currence’s Snackbar in Oxford, Mississippi. “It was a great first experience—wonderful customers, passionate coworkers, and a welcoming small town vibe. Oxford is a great place to live, but it’s an easy place to get comfortably stuck for a while, which is why the locals have given it the nickname the Velvet Ditch.” It’s fitting, then, that his homage to his Oxford days has a “wonderful, velvety mouthfeel” thanks to the mix of citrus and confectioners’ sugar that settles on top of the drink, adding body. The resulting frothy head on the drink becomes a landing pad for delicate garnishes, like the freshly grated cinnamon that closes out the drink with a warm burst of aromatics.
+    notes: Jayce McConnell is now the head bartender at Edmund's Oast in Charleston, South Carolina, but when I first met him he was behind the stick at his first bartending job at John Currence's Snackbar in Oxford, Mississippi. “It was a great first experience—wonderful customers, passionate coworkers, and a welcoming small town vibe. Oxford is a great place to live, but it's an easy place to get comfortably stuck for a while, which is why the locals have given it the nickname the Velvet Ditch.” It's fitting, then, that his homage to his Oxford days has a “wonderful, velvety mouthfeel” thanks to the mix of citrus and confectioners' sugar that settles on top of the drink, adding body. The resulting frothy head on the drink becomes a landing pad for delicate garnishes, like the freshly grated cinnamon that closes out the drink with a warm burst of aromatics.
     glassware: coupe
     ingredients:
     - 1½ ounces Damoiseau VSOP rhum agricole
     - ¾ ounce Cynar
     - ½ ounce Amaro Montenegro
-    - 1 tablespoon confectioners’ sugar
+    - 1 tablespoon confectioners' sugar
     - 2 lemon wedges
     - 5 dashes grapefruit bitters
     - "Garnish: freshly grated cinnamon"
@@ -1333,12 +1333,12 @@ recipes:
       - shaken
   - name: The Victorian
     author: Alex Bachman
-    notes: This bold and bitter creation comes from Alex Bachman, a partner and bartender at Chicago’s Billy Sunday, home to one of the greatest selections of rare and vintage amari in America. The Victorian is a tribute to “the wonderful Vicki Wadick,” a regular at a southern Sonoma County, California, bar where Bachman worked around 2011. “She used to carry around a laminated piece of paper with names of amaro on it to check off as she tasted through them. Naturally we became fast friends.”
+    notes: This bold and bitter creation comes from Alex Bachman, a partner and bartender at Chicago's Billy Sunday, home to one of the greatest selections of rare and vintage amari in America. The Victorian is a tribute to “the wonderful Vicki Wadick,” a regular at a southern Sonoma County, California, bar where Bachman worked around 2011. “She used to carry around a laminated piece of paper with names of amaro on it to check off as she tasted through them. Naturally we became fast friends.”
     glassware: coupe
     ingredients:
     - 2 ounces Damrak gin
     - ½ ounce Tempus Fugit Spirits Fernet del Frate Angelico
-    - ½ ounce Varnelli Amaro Dell’Erborista
+    - ½ ounce Varnelli Amaro Dell'Erborista
     - ¼ ounce Sirop de Capillaire
     - 2 or 3 dashes wormwood bitters
     - "Garnish: lemon zest"
@@ -1351,7 +1351,7 @@ recipes:
       - stirred
   - name: The Waterfront
     author: Damon Boelte
-    notes: "There are three cocktails at Prime Meats that have been on the menu since day one: the Manhattan, the old-fashioned, and the Waterfront. This “pretty aggressive highball” created by Damon Boelte packs in three ounces of Fernet. “It has the most Fernet-Branca in a cocktail in the cocktail world. No one will ever be able to beat it without it just being too bitter.” The drink started off when Boelte was working at LeNell’s, the now shuttered but still beloved Brooklyn liquor store. “It was a bartender’s dream,” remembers Boelte, telling me about LeNell’s open cabinet policy to encourage staffers to taste the “rare, weird stuff from [the owner’s] travels,” and how David Wondrich taught him how to make a Blue Blazer in the kitchen of the store. When he added it to the menu at Prime Meats it was meant to be an industry drink, but it caught on with customers. “It was sent back a lot. It’s the only drink I made sure all the servers offered a verbal disclaimer to customers. It’s every fucking bold flavor I can pour into a drink. That’s really how it came about. It’s a medicinal, bitter, and minty Dark and Stormy. The darkest Dark and Stormy.”"
+    notes: "There are three cocktails at Prime Meats that have been on the menu since day one: the Manhattan, the old-fashioned, and the Waterfront. This “pretty aggressive highball” created by Damon Boelte packs in three ounces of Fernet. “It has the most Fernet-Branca in a cocktail in the cocktail world. No one will ever be able to beat it without it just being too bitter.” The drink started off when Boelte was working at LeNell's, the now shuttered but still beloved Brooklyn liquor store. “It was a bartender's dream,” remembers Boelte, telling me about LeNell's open cabinet policy to encourage staffers to taste the “rare, weird stuff from [the owner's] travels,” and how David Wondrich taught him how to make a Blue Blazer in the kitchen of the store. When he added it to the menu at Prime Meats it was meant to be an industry drink, but it caught on with customers. “It was sent back a lot. It's the only drink I made sure all the servers offered a verbal disclaimer to customers. It's every fucking bold flavor I can pour into a drink. That's really how it came about. It's a medicinal, bitter, and minty Dark and Stormy. The darkest Dark and Stormy.”"
     glassware: highball
     ingredients:
     - 2 ounces Fernet-Branca
@@ -1368,7 +1368,7 @@ recipes:
       - stirred
   - name: White Negroni
     author: Wayne Collins
-    notes: When a Negroni variation doesn’t use Campari and bypasses the equal parts ratio of the classic cocktail formula, can it still be called a Negroni, if not in name, then in spirit? What if it isn’t even red? In the case of the White Negroni, which also travels under the title Negroni Bianco and originated in 2002 with London bartender Wayne Collins, the spirit of the drink is there—herbal, gin-forward, bittersweet—but its complexion is altered. The bitterness is brought on by Suze Saveur d’Autrefois, a French, gentian-based aperitif liqueur created in 1885 but only recently available in America. (I picked up my first bottle from a grocery store in Cognac, France, and checked it through in my suitcase.) Many bartenders have continued to put their own twists on Collins’s original cover, with other new-to-the-States quinquinas and liqueurs like Salers, Bonal, or Avèze standing in for Suze, and the popular Cocchi Aperitivo Americano stepping in for the Lillet Blanc.
+    notes: When a Negroni variation doesn't use Campari and bypasses the equal parts ratio of the classic cocktail formula, can it still be called a Negroni, if not in name, then in spirit? What if it isn't even red? In the case of the White Negroni, which also travels under the title Negroni Bianco and originated in 2002 with London bartender Wayne Collins, the spirit of the drink is there—herbal, gin-forward, bittersweet—but its complexion is altered. The bitterness is brought on by Suze Saveur d'Autrefois, a French, gentian-based aperitif liqueur created in 1885 but only recently available in America. (I picked up my first bottle from a grocery store in Cognac, France, and checked it through in my suitcase.) Many bartenders have continued to put their own twists on Collins's original cover, with other new-to-the-States quinquinas and liqueurs like Salers, Bonal, or Avèze standing in for Suze, and the popular Cocchi Aperitivo Americano stepping in for the Lillet Blanc.
     year: 2002
     glassware: rocks
     ingredients:
@@ -1386,7 +1386,7 @@ recipes:
       - stirred
   - name: Yesterday, Today, and Amaro
     author: Brian Kane
-    notes: One of the showcase dishes at Mike Solomonov and Steve Cook’s Philadelphia restaurant Abe Fisher is a large-format, Montreal-style smoked short-rib platter. This is a dish that will have most customers pleading for a glass of amaro to help push them through to the bitter end, and beverage director Brian Kane makes sure his bar is stocked with plenty of bottles to answer that call. “The name pays homage to the history of passing down recipes for amari production from one generation to the next,” says Kane. The drink is also a nod to the classic Manhattan, swapping in amaro for sweet vermouth. Kane continues, “Cynar is used for its notes of bitter orange, cocoa, and caramel, along with a bright acidity. The Averna brings cola, coffee, and vanilla, together with notes of angelica and lemon from the herbaceous Bénédictine, to create a flavor reminiscent of a complex and delicious vermouth. There are very few ingredients behind the bar that provide as much character in such small doses as amari. This drink seeks to introduce the exotic by showcasing it in a familiar setting.”
+    notes: One of the showcase dishes at Mike Solomonov and Steve Cook's Philadelphia restaurant Abe Fisher is a large-format, Montreal-style smoked short-rib platter. This is a dish that will have most customers pleading for a glass of amaro to help push them through to the bitter end, and beverage director Brian Kane makes sure his bar is stocked with plenty of bottles to answer that call. “The name pays homage to the history of passing down recipes for amari production from one generation to the next,” says Kane. The drink is also a nod to the classic Manhattan, swapping in amaro for sweet vermouth. Kane continues, “Cynar is used for its notes of bitter orange, cocoa, and caramel, along with a bright acidity. The Averna brings cola, coffee, and vanilla, together with notes of angelica and lemon from the herbaceous Bénédictine, to create a flavor reminiscent of a complex and delicious vermouth. There are very few ingredients behind the bar that provide as much character in such small doses as amari. This drink seeks to introduce the exotic by showcasing it in a familiar setting.”
     glassware: coupe
     ingredients:
     - 2 ounces Wild Turkey 101 Rye		
@@ -1404,7 +1404,7 @@ recipes:
       - stirred
   - name: Zucca for Love
     author: Payman Bahmani & Adam Robinson
-    notes: Kavalan, the Taiwanese whisky maker that’s been taking home some of the spirits world’s most prestigious awards, invited a small group of American writers, including myself, to visit the distillery in Yuanshan in Yilan County. On our last night in Taipei, we were able to convince our hosts to add a visit to Ounce, the speakeasy-style bar tucked behind a nondescript door in the back of an espresso bar, to the itinerary. Exhausted from our busy schedules and still jet-lagged, most of my traveling companions went back to the hotel after one drink. But I hung back and caught up with head bartender Payman Bahmani, whom I knew from his days at PDT in New York, and bar manager Adam Robinson, an expat from Portland. Just as I was about to call it a night, Ounce owner, Yee-Hung Soong, dropped in. Knowing my love of cats (I guess that sort of information travels with you), he took me around to several nearby bars to show off some of Taipei’s finest bar cats. I was not disappointed. Bahmani and Robinson, who have both since moved on from Ounce, put together a drink to mark the occasion using one quintessentially Taiwanese ingredient, passion fruit, which, Bahmani discovered, “goes surprisingly well with amaro.”
+    notes: Kavalan, the Taiwanese whisky maker that's been taking home some of the spirits world's most prestigious awards, invited a small group of American writers, including myself, to visit the distillery in Yuanshan in Yilan County. On our last night in Taipei, we were able to convince our hosts to add a visit to Ounce, the speakeasy-style bar tucked behind a nondescript door in the back of an espresso bar, to the itinerary. Exhausted from our busy schedules and still jet-lagged, most of my traveling companions went back to the hotel after one drink. But I hung back and caught up with head bartender Payman Bahmani, whom I knew from his days at PDT in New York, and bar manager Adam Robinson, an expat from Portland. Just as I was about to call it a night, Ounce owner, Yee-Hung Soong, dropped in. Knowing my love of cats (I guess that sort of information travels with you), he took me around to several nearby bars to show off some of Taipei's finest bar cats. I was not disappointed. Bahmani and Robinson, who have both since moved on from Ounce, put together a drink to mark the occasion using one quintessentially Taiwanese ingredient, passion fruit, which, Bahmani discovered, “goes surprisingly well with amaro.”
     glassware: coupe
     ingredients:
     - 1 ounce Zucca Rabarbaro amaro
@@ -1425,7 +1425,7 @@ recipes:
 #50/50s
   - name: Chile-Choke
     author: Clint Rogers
-    notes: Created at The Dawson restaurant in Chicago’s West Town by Dogma Group partner Clint Rogers when he was tending bar there.
+    notes: Created at The Dawson restaurant in Chicago's West Town by Dogma Group partner Clint Rogers when he was tending bar there.
     glassware: shot
     ingredients:
     - ¾ ounce Ancho Reyes ancho chile liqueur
@@ -1437,7 +1437,7 @@ recipes:
       - shot
   - name: CIA
     author: Tonia Guffey
-    notes: The CIA, from Tonia Guffey, bar manager at Brooklyn’s Dram, started with Fernet. “I am a huge fan of Fernet-Branca. I have three Fernet bikes, a tattoo, and my twenty-ninth and thirtieth birthdays were even sponsored by Fernet.” But looking for a change of pace, she started drinking Cynar. She missed the higher-proof kick of Fernet-Branca, so she went looking through her backbar for something to spike her Cynar. And that’s when a bottle of Laird’s 100-proof bonded apple brandy was put into service. “I knew I wanted overproof and I knew I wanted something pretty inexpensive that I could drink without feeling bad. And that was Laird’s bonded. I added a dash of Angostura ’cause I am fancy like that, and because cinnamon and apples are a natural pairing, and it turned out to be really fucking tasty.” Guffey can take the CIA to the next level with Cynar 70, the 2015 release that’s double the alcohol content of the original.
+    notes: The CIA, from Tonia Guffey, bar manager at Brooklyn's Dram, started with Fernet. “I am a huge fan of Fernet-Branca. I have three Fernet bikes, a tattoo, and my twenty-ninth and thirtieth birthdays were even sponsored by Fernet.” But looking for a change of pace, she started drinking Cynar. She missed the higher-proof kick of Fernet-Branca, so she went looking through her backbar for something to spike her Cynar. And that's when a bottle of Laird's 100-proof bonded apple brandy was put into service. “I knew I wanted overproof and I knew I wanted something pretty inexpensive that I could drink without feeling bad. And that was Laird's bonded. I added a dash of Angostura 'cause I am fancy like that, and because cinnamon and apples are a natural pairing, and it turned out to be really fucking tasty.” Guffey can take the CIA to the next level with Cynar 70, the 2015 release that's double the alcohol content of the original.
     glassware: shot
     ingredients:
     - 1 ounce Cynar or Cynar 70
@@ -1449,7 +1449,7 @@ recipes:
       - 50/50s
       - shot
   - name: Ferrari
-    notes: No one stepped up to claim ownership but rumor has it that this speedy shot hails from San Francisco, which makes sense, considering the Fernet-Branca. And like a Ferrari at a stoplight, you can’t help but pause to admire it.
+    notes: No one stepped up to claim ownership but rumor has it that this speedy shot hails from San Francisco, which makes sense, considering the Fernet-Branca. And like a Ferrari at a stoplight, you can't help but pause to admire it.
     glassware: shot
     ingredients:
     - ¾ ounce Fernet-Branca		
@@ -1473,7 +1473,7 @@ recipes:
       - shot
   - name: Hard Start
     author: Damon Boelte
-    notes: One of my all-time favorite 50/50s and one I’ve witnessed travel by name across New York bars is Damon Boelte’s Hard Start. “Not that I like to promote drinking on the job or anything,” Boelte said when remembering its origin, “but I was working brunch one day at Prime Meats with our old general manager, Bill Mann. It was kind of slow and I was probably a little hungover.” Mann suggested a shot of Fernet-Branca to help bring them back to life, but as Boelte remembers, “Sometimes, early in the day, Fernet can be kind of aggressive.” Taking a cue from his own cocktail, the Waterfront, he cut the shot with Branca Menta. “We take it and we’re like, ‘Bam! That’s really good.’” Mann agreed, and upon reflection, the name of the drink and the first of many shots was born. “Bill said, ‘You know when your battery is dead and you’ve got to roll down the hill and pop the clutch?’ And I was like, ‘Yeah, a hard start.’ And that’s the name of that drink.” One of my proudest accomplishments was introducing Fernet’s Count Edoardo Branca, the sixth generation of his family to make fernet, to this Brooklyn tribute to his family’s product. After giving me a personal tour around the historic Fratelli Branca Distillerie in Milan, we ended up in a room outfitted with a bar stocked with all of their products. “I’m not a bartender, but may I offer you a drink before you leave?” It was still before noon and the sunlight was spilling into the saffron-colored room, but Branca helped set the mood by turning on the neon Fernet-Branca sign that hung over the bottles behind the bar. Seeing bottles of Fernet-Branca and Branca Menta side by side meant only one thing, and I asked the count if he had ever had a Hard Start. And with that, as he poured equal parts of his family’s namesake spirits into our glasses, I had inadvertently sent a bitter boomerang all the way from Carroll Gardens to Milan. He winced watching me shoot it back. “You Americans love your shots. In Italy we still sip fernet.”
+    notes: One of my all-time favorite 50/50s and one I've witnessed travel by name across New York bars is Damon Boelte's Hard Start. “Not that I like to promote drinking on the job or anything,” Boelte said when remembering its origin, “but I was working brunch one day at Prime Meats with our old general manager, Bill Mann. It was kind of slow and I was probably a little hungover.” Mann suggested a shot of Fernet-Branca to help bring them back to life, but as Boelte remembers, “Sometimes, early in the day, Fernet can be kind of aggressive.” Taking a cue from his own cocktail, the Waterfront, he cut the shot with Branca Menta. “We take it and we're like, ‘Bam! That's really good.'” Mann agreed, and upon reflection, the name of the drink and the first of many shots was born. “Bill said, ‘You know when your battery is dead and you've got to roll down the hill and pop the clutch?' And I was like, ‘Yeah, a hard start.' And that's the name of that drink.” One of my proudest accomplishments was introducing Fernet's Count Edoardo Branca, the sixth generation of his family to make fernet, to this Brooklyn tribute to his family's product. After giving me a personal tour around the historic Fratelli Branca Distillerie in Milan, we ended up in a room outfitted with a bar stocked with all of their products. “I'm not a bartender, but may I offer you a drink before you leave?” It was still before noon and the sunlight was spilling into the saffron-colored room, but Branca helped set the mood by turning on the neon Fernet-Branca sign that hung over the bottles behind the bar. Seeing bottles of Fernet-Branca and Branca Menta side by side meant only one thing, and I asked the count if he had ever had a Hard Start. And with that, as he poured equal parts of his family's namesake spirits into our glasses, I had inadvertently sent a bitter boomerang all the way from Carroll Gardens to Milan. He winced watching me shoot it back. “You Americans love your shots. In Italy we still sip fernet.”
     glassware: shot
     ingredients:
     - ¾ ounce Fernet-Branca		
@@ -1485,7 +1485,7 @@ recipes:
       - shot
   - name: Jälort
     author: Dennis Gobis
-    notes: "Austin bartender Dennis Gobis was doing inventory with the varsity team at the 2015 Portland Cocktail Week when they uncovered a bartender’s version of the Ark of the Covenant: a cache of eighteen bottles of Jeppson’s Malört and eighteen bottles of Jägermeister. Back home, he’s making them with Bäska Snaps. “They share some botanicals, yet the citrus in Bäska Snaps complements the heavier botanicals in Jägermeister.”"
+    notes: "Austin bartender Dennis Gobis was doing inventory with the varsity team at the 2015 Portland Cocktail Week when they uncovered a bartender's version of the Ark of the Covenant: a cache of eighteen bottles of Jeppson's Malört and eighteen bottles of Jägermeister. Back home, he's making them with Bäska Snaps. “They share some botanicals, yet the citrus in Bäska Snaps complements the heavier botanicals in Jägermeister.”"
     glassware: shot
     ingredients:
     - ¾ ounce Jägermeister
@@ -1497,7 +1497,7 @@ recipes:
       - shot
   - name: The Jimbo
     author: Jimmy Palumbo
-    notes: "“The Jimbo is one of my favorite examples of the double helix that is bar life and bar lore,” says Jimmy Palumbo, recalling the early days of his namesake amaro shot. Palumbo is now working at New York’s Up and Up, but at the time of the Jimbo’s creation he was behind the stick at Extra Fancy. He lived across the street from the bar and would often end up spending late nights developing the drink menu after they closed. After these late-night rounds of R&D, he’d retire to his rooftop across the street and enjoy one last drink as he watched the sun rise (“a nightcap, minus the night”). On one of these occasions, home-bar pickings were slim. “We had basically drunk everything but a bottle of Rittenhouse rye and a bottle of Amaro Meletti.” That combination came back to him a few days later at Extra Fancy, when a pack of twentysomething women spilled into the bar seeking “a round of shots, whiskey shots, but not sweet, and not, like, sour, but strong, but not too strong.” Seeking to quickly please them and send them on their way, he reached for the Rittenhouse and Meletti. After knocking them back, he was greeted with: “That. Was. Fucking. Amazing. What do you call that?” On cue, Palumbo’s colleague leaned in and put his arms around his shoulders. “It’s called the Jimbo. And ladies, this is Jimbo.” “And there it happened. A few days later we poured shots for some close industry friends. They loved it, and from that point on it became the house industry shot. We eventually changed to Overholt because the Rittenhouse was getting people a bit too tipsy at the rate we poured them out.” While the drink is typically just poured into a glass, Palumbo has a specific technique. “The Meletti has to be poured first and then you float the rye on top. Now, is that to say that I always make sure to float the rye? Not even close.” Looking back, he admits, “It’s just been a fun little thing watching this grow from a serendipitous accident on my rooftop into something that people are calling for in other cities.”"
+    notes: "“The Jimbo is one of my favorite examples of the double helix that is bar life and bar lore,” says Jimmy Palumbo, recalling the early days of his namesake amaro shot. Palumbo is now working at New York's Up and Up, but at the time of the Jimbo's creation he was behind the stick at Extra Fancy. He lived across the street from the bar and would often end up spending late nights developing the drink menu after they closed. After these late-night rounds of R&D, he'd retire to his rooftop across the street and enjoy one last drink as he watched the sun rise (“a nightcap, minus the night”). On one of these occasions, home-bar pickings were slim. “We had basically drunk everything but a bottle of Rittenhouse rye and a bottle of Amaro Meletti.” That combination came back to him a few days later at Extra Fancy, when a pack of twentysomething women spilled into the bar seeking “a round of shots, whiskey shots, but not sweet, and not, like, sour, but strong, but not too strong.” Seeking to quickly please them and send them on their way, he reached for the Rittenhouse and Meletti. After knocking them back, he was greeted with: “That. Was. Fucking. Amazing. What do you call that?” On cue, Palumbo's colleague leaned in and put his arms around his shoulders. “It's called the Jimbo. And ladies, this is Jimbo.” “And there it happened. A few days later we poured shots for some close industry friends. They loved it, and from that point on it became the house industry shot. We eventually changed to Overholt because the Rittenhouse was getting people a bit too tipsy at the rate we poured them out.” While the drink is typically just poured into a glass, Palumbo has a specific technique. “The Meletti has to be poured first and then you float the rye on top. Now, is that to say that I always make sure to float the rye? Not even close.” Looking back, he admits, “It's just been a fun little thing watching this grow from a serendipitous accident on my rooftop into something that people are calling for in other cities.”"
     glassware: shot
     ingredients:
     - ¾ ounce Old Overholt Rye Whiskey Whiskey
@@ -1520,10 +1520,10 @@ recipes:
       - 50/50s
       - shot
   - name: Malori
-    notes: The house shot at Slippery Slope in Chicago’s Logan Square features the Windy City’s infamous bitter liqueur.
+    notes: The house shot at Slippery Slope in Chicago's Logan Square features the Windy City's infamous bitter liqueur.
     glassware: shot
     ingredients:
-    - ¾ ounce Jeppson’s Malört
+    - ¾ ounce Jeppson's Malört
     - ¾ ounce Campari
     steps:
     - Pour all ingredients into a shot glass. Stir to combine.
@@ -1532,7 +1532,7 @@ recipes:
       - shot
   - name: Maserati
     author: Jane Danger
-    notes: Mother of Pearl’s Jane Danger is the mother of this invention, which she batches at her bar and pours by the glass.
+    notes: Mother of Pearl's Jane Danger is the mother of this invention, which she batches at her bar and pours by the glass.
     glassware: shot
     ingredients:
     - 1 ounce Amaro Ramazzotti
@@ -1543,7 +1543,7 @@ recipes:
       - 50/50s
       - shot
   - name: Nar Nar
-    notes: A favorite of Wade McElroy at the Sportsman’s Club in Chicago’s Ukranian Village.
+    notes: A favorite of Wade McElroy at the Sportsman's Club in Chicago's Ukranian Village.
     glassware: shot
     ingredients:
     - ¾ ounce Amaro Nardini
@@ -1555,7 +1555,7 @@ recipes:
       - shot
   - name: Newport
     author: Sother Teague
-    notes: When you want that menthol-smooth sensation of a Newport cigarette in your shot glass, Amor y Amargo’s Sother Teague has you covered.
+    notes: When you want that menthol-smooth sensation of a Newport cigarette in your shot glass, Amor y Amargo's Sother Teague has you covered.
     glassware: shot
     ingredients:
     - ¾ ounce mezcal
@@ -1567,7 +1567,7 @@ recipes:
       - shot
   - name: Schatz, Bro
     author: Chris Lowder
-    notes: When Chris Lowder was behind the bar at Amor y Amargo, he might’ve welcomed you with a big bitter squeeze in the form of his favorite house shot, Shatz, Bro!
+    notes: When Chris Lowder was behind the bar at Amor y Amargo, he might've welcomed you with a big bitter squeeze in the form of his favorite house shot, Shatz, Bro!
     glassware: shot
     ingredients:
     - 1 ounce Pierre Ferrand 1840 Cognac    

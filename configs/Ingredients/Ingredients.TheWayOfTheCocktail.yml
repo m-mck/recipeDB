@@ -14,7 +14,7 @@ recipes:
 
 #Spindrift
   - name: Honeydew Melon Syrup
-    notes: Cut a ripe melon in half, scooping out the seeds with a large spoon. Juice with a masticating juicer. If you don’t have a juicer, place melon chunks in a blender and blend until smooth. Using a spoon, push the blended liquid through a fine-mesh sieve.
+    notes: Cut a ripe melon in half, scooping out the seeds with a large spoon. Juice with a masticating juicer. If you don't have a juicer, place melon chunks in a blender and blend until smooth. Using a spoon, push the blended liquid through a fine-mesh sieve.
     ingredients: 
     - Ripe honeydew
 
@@ -62,9 +62,9 @@ recipes:
     notes: 
     ingredients: 
     - 2 stalks of fresh lemongrass
-    - 1 (750 mL) bottle of rice or barley shōchū, ideally Chiyonosono 8,000 Generations rice shōchū, Takahashi Shuzō’s Hakutake Shiro rice shōchū, or Takahashi Shuzō’s Ginrei Shiro rice shōchū
+    - 1 (750 mL) bottle of rice or barley shōchū, ideally Chiyonosono 8,000 Generations rice shōchū, Takahashi Shuzō's Hakutake Shiro rice shōchū, or Takahashi Shuzō's Ginrei Shiro rice shōchū
     steps:
-    - Peel the outer leaves and trim the tips and tails of 2 stalks of fresh lemongrass. Rinse thoroughly and pat dry. Take the tip of a knife and slice through the lower stalk of the lemongrass, rotating to make three incisions while keeping the stalk intact. This will make for a better infusion and allow you to remove the lemongrass more easily when it is ready. Place the prepared lemongrass into a 750-milliliter bottle of rice or barley shōchū at room temperature and infuse for 3 days. I suggest Chiyonosono 8,000 Generations rice shōchū, Takahashi Shuzō’s Hakutake Shiro rice shōchū, or their Ginrei Shiro rice shōchū for this infusion. The infusion will last indefinitely.
+    - Peel the outer leaves and trim the tips and tails of 2 stalks of fresh lemongrass. Rinse thoroughly and pat dry. Take the tip of a knife and slice through the lower stalk of the lemongrass, rotating to make three incisions while keeping the stalk intact. This will make for a better infusion and allow you to remove the lemongrass more easily when it is ready. Place the prepared lemongrass into a 750-milliliter bottle of rice or barley shōchū at room temperature and infuse for 3 days. I suggest Chiyonosono 8,000 Generations rice shōchū, Takahashi Shuzō's Hakutake Shiro rice shōchū, or their Ginrei Shiro rice shōchū for this infusion. The infusion will last indefinitely.
 
 #Chawari Toddy
   - name: 
@@ -170,7 +170,7 @@ recipes:
     - sugar
     - ¼ teaspoon orange blossom water
     steps:
-    - "Crack 5 green cardamom pods and toast in a pan over low heat until aromatic (make sure you agitate the pan so they don’t burn). To make via sous vide: Pour 16 fluid ounces cashew milk (such as Elmhurst) in a sous vide bag with the toasted cardamom. Seal the bag and cook sous vide for 1 hour at 180°F."
+    - "Crack 5 green cardamom pods and toast in a pan over low heat until aromatic (make sure you agitate the pan so they don't burn). To make via sous vide: Pour 16 fluid ounces cashew milk (such as Elmhurst) in a sous vide bag with the toasted cardamom. Seal the bag and cook sous vide for 1 hour at 180°F."
     - "To make on the stovetop: Combine 16 fluid ounces cashew milk with the cardamom pods in a saucepan and gently warm the mixture. Keep covered on low (just under a simmer) for 30 minutes, and adjusting the heat as necessary to make sure it does not boil over or burn."
     - Strain the cardamom out of the milk. Weigh the milk and add 2 parts sugar to 1 part spiced cashew milk by weight. Finish with ¼ teaspoon of orange blossom water. Store in the refrigerator.
   - name: Shiso No Jyūsu
@@ -263,14 +263,14 @@ recipes:
     - 3 tablespoons grated fresh ginger
     - 1 (750mL) bottle rice shōchū
     steps:
-    - In a large glass jar, combine 3 tablespoons grated fresh ginger and one 750-milliliter bottle rice shōchū and let infuse at room temperature for 24 hours. Strain through a fine-mesh sieve (or for a smoother finish through a coffee filter). I suggest Chiyonosono 8,000 Generations rice shōchū or Takahashi Shuzō’s Hakutake Shiro rice shōchū for this infusion. The infusion will last indefinitely.
+    - In a large glass jar, combine 3 tablespoons grated fresh ginger and one 750-milliliter bottle rice shōchū and let infuse at room temperature for 24 hours. Strain through a fine-mesh sieve (or for a smoother finish through a coffee filter). I suggest Chiyonosono 8,000 Generations rice shōchū or Takahashi Shuzō's Hakutake Shiro rice shōchū for this infusion. The infusion will last indefinitely.
   - name: Green Tea-Infused Shōchū
     notes: 
     ingredients: 
     - 5 tablespoons loose-leaf Japanese green tea
     - 1 (750mL) bottle rice or barley shōchū
     steps:
-    - In a large glass jar, combine 5 tablespoons loose-leaf Japanese green tea and one 750-milliliter bottle rice or barley shōchū and let infuse at room temperature for 3 hours. Strain and store in a cool, dark place. I suggest Chiyonosono 8,000 Generations rice shōchū, Takahashi Shuzō’s Ginrei Shiro rice shōchū, or The Yanagita Koma Honkaku barley shōchū for this infusion. The infusion will last indefinitely.
+    - In a large glass jar, combine 5 tablespoons loose-leaf Japanese green tea and one 750-milliliter bottle rice or barley shōchū and let infuse at room temperature for 3 hours. Strain and store in a cool, dark place. I suggest Chiyonosono 8,000 Generations rice shōchū, Takahashi Shuzō's Ginrei Shiro rice shōchū, or The Yanagita Koma Honkaku barley shōchū for this infusion. The infusion will last indefinitely.
   - name: Spice-Infused Vodka
     notes: 
     ingredients: 

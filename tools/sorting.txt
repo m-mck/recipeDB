@@ -2,7 +2,7 @@
         chinato
         macvin du jura
             red macvin du jura
-            château d’arlay macvin du jura blanc mistelle
+            château d'arlay macvin du jura blanc mistelle
         cocchi barolo
         maurin quina
         tresmontaine "tabacal" rancio sec
@@ -37,7 +37,7 @@
             clove white port
             croft fine ruby port
             dow's ruby port
-            dow’s fine white port
+            dow's fine white port
             feist tawny port
             infantado ruby port
             otima 10-year tawny port
@@ -50,7 +50,7 @@
             tawny port
             taylor fladgate 20-year port
             taylor fladgate ruby port
-            w. & j. graham’s late bottled vintage port
+            w. & j. graham's late bottled vintage port
             white port
         UMESHU    
             choya kokuto umeshu
@@ -67,7 +67,7 @@
         madiera
             barbeito 5-year rainwater madeira
             blandy's 5-year malmsey madeira
-            blandy’s 5-year malmsey madeira
+            blandy's 5-year malmsey madeira
             h&h rainwater madeira
             henriques & henriques 5-year vino generoso doce madeira
             henriques & henriques rainwater madeira
@@ -165,7 +165,7 @@
             Batavia-Arrack Van Oosten
             wild sardinia mirto liqueur
             vicardio dragoncello liqueur
-            guillaumette l’authentique génépi
+            guillaumette l'authentique génépi
             pajarote toronja arandense & romero licor
             génépi
             escubac botanical spirit
@@ -227,7 +227,7 @@
             pernod
             pastis
             stoupakis homeric mastiha liqueur
-            varnelli l’anice secco speciale liqueur
+            varnelli l'anice secco speciale liqueur
         GIN LIQUEUR
             pimm's no. 1
             greenhook ginsmiths beach plum gin liqueur
@@ -241,7 +241,7 @@
             contratto fernet
             tempus fugit spirits fernet del frate angelico
         MALÖRT
-            jeppson’s malört
+            jeppson's malört
         KÜMMEL
             combier kümmel
             gilka kaiser-kümmel liqueur
@@ -320,7 +320,7 @@
         CHOCOLATE LIQUEUR
             giffard crème de cacao
             brovo chocolate liqueur
-            distillerie de biercée noir d’ivoire liqueur
+            distillerie de biercée noir d'ivoire liqueur
             crème de cacao, teardrop's diy recipe
             tempus fugit spirits crème de cacao
             tempus fugit spirits crème de cacao a la vanilla
@@ -362,7 +362,7 @@
         ORANGE LIQUEUR
             cointreau
             bigallet china-china amer
-            combier l’original
+            combier l'original
             royal combier
             mandarine napoléon liqueur
             rhum clément créole shrubb
@@ -463,7 +463,7 @@
         NUTMEG LIQUEUR
             myrus nutmeg liqueur
         ALMOND LIQUEUR
-            l’orgeat almond liqueur
+            l'orgeat almond liqueur
         APPLE LIQUEUR
             leopold bros. new york sour apple liqueur
         TOBACCO LIQUEUR
@@ -475,9 +475,9 @@
         CHAI LIQUEUR
             somrus chai cream liqueur
         SUZE
-            suze d’autrefois liqueur
+            suze d'autrefois liqueur
             suze gentiane liqueur
-            suze saveur d’autrefois liqueur
+            suze saveur d'autrefois liqueur
             suze apéritif
             strawberry infused suze-cappelletti mixture
         MACADAMIA NUT LIQUEUR
@@ -636,7 +636,7 @@
             coffee-infused campari
             ferrari
         alta verde amaro
-        amara amaro d’arancia rossa
+        amara amaro d'arancia rossa
         amargo vallet amaro
         amaro averna
             averna
@@ -683,7 +683,7 @@
         paolucci amaro ciociaro
         ramazzotti amaro
         rucolino amaro
-        varnelli amaro dell’erborista
+        varnelli amaro dell'erborista
         varnelli amaro sibilla
         varnelli sibilla amaro
         vecchio amaro del capo
@@ -699,7 +699,7 @@
                 salted butter-washed whiskey
             bernheim wheat whiskey
                 lavender-infused bernheim original wheat whiskey
-            death’s door white whiskey
+            death's door white whiskey
             j. rieger kansas city whiskey
             george dickel no. 1 white corn whiskey
             george dickel no. 1 white corn whisky
@@ -714,18 +714,18 @@
             high west silver whiskey western oat
             high west western oat silver whiskey
             elijah craig 12-year bourbon
-            angel’s envy kentucky straight bourbon whiskey
+            angel's envy kentucky straight bourbon whiskey
             balcones brimstone whisky
-            baker’s bourbon
+            baker's bourbon
             four roses
                 four roses single barrel bourbon
-                benton’s bacon fat-washed four roses bourbon
-            benton’s bacon fat-infused bourbon
-            blanton’s single barrel bourbon whiskey
+                benton's bacon fat-washed four roses bourbon
+            benton's bacon fat-infused bourbon
+            blanton's single barrel bourbon whiskey
             bonded bourbon
             booker's bourbon
             bourbon, preferably a pre-prohibition style like old forester
-            bourbon, preferably booker’s
+            bourbon, preferably booker's
             bourbon, preferably buffalo trace
             bourbon, preferably bulleit
             bourbon, preferably knob creek
@@ -754,7 +754,7 @@
             j.t.s. brown kentucky bourbon
             knob creek 100 bourbon
             knob creek single barrel reserve bourbon
-            maker’s mark private select aviary barrel bourbon
+            maker's mark private select aviary barrel bourbon
             mic drop bourbon 
             old forester 100 bourbon
             old forester classic 86 proof bourbon
@@ -769,7 +769,7 @@
             pistachio-infused elijah craig bourbon
             rabbit hole bourbon
             russell's reserve 10-year bourbon
-            russell’s reserve 10-year bourbon
+            russell's reserve 10-year bourbon
             rye or bourbon
             s.p. lancaster bourbon - 1932    
             sazerac rye or evan williams single-barrel bourbon
@@ -791,8 +791,8 @@
             high west double rye
             kilbeggan single pot still rye
             leopold bros. maryland rye
-            mister katz’s rock & rye
-            new york distilling company mister katz’s rock and rye
+            mister katz's rock & rye
+            new york distilling company mister katz's rock and rye
             new york distilling company ragtime rye
             old overholt 100-proof rye
             overproof rye
@@ -808,9 +808,9 @@
             rittenhouse rye
             rittenhouse rye 100-proof
             russell's reserve rye
-            russell’s reserve rye
+            russell's reserve rye
             rye
-            rye-dusted buddha’s hand cube
+            rye-dusted buddha's hand cube
             rye, preferably rittenhouse
             sazerac 6-year rye
             sazerac rye
@@ -824,8 +824,8 @@
             cody road rye whiskey
             high west rendezvous rye whiskey
             high-proof rye whiskey
-            jack daniel’s single barrel rye whiskey
-            mitcher’s us*1 kentucky straight rye whiskey
+            jack daniel's single barrel rye whiskey
+            mitcher's us*1 kentucky straight rye whiskey
             old overholt 5-year rye whiskey - 1940s
             old overholt rye whiskey
             old overholt rye whiskey whiskey
@@ -848,7 +848,7 @@
             Single Malt Scotch
                 aberlour 12-year-old single malt scotch whisky
                 connemara peated single malt
-                egan’s fortitude single malt
+                egan's fortitude single malt
                 knappogue castle 12 single malt
                 the sexton single malt
                 westward american single malt
@@ -948,11 +948,11 @@
             hinch 5-year-old double wood
             paddys blended
             pearse lyons 5-year-old
-            mcconnell’s
+            mcconnell's
             glendalough double barrel
-            jack daniel’s master distiller
-            egan’s fortitude
-            dunville’s 1808 blended
+            jack daniel's master distiller
+            egan's fortitude
+            dunville's 1808 blended
             dublin liberties 5-year-old 'oak devil'
             dubliner blended
             coriander-infused glenmorangie 10
@@ -976,7 +976,7 @@
             powers three swallow single pot still
                 butternut squash seed oil-washed powers three swallow
                 corn silk tea–infused powers three swallow
-            powers john’s lane single pot still
+            powers john's lane single pot still
             tullamore d.e.w.
                 tullamore d.e.w. cider cask
                 earl grey tea-infused tullamore d.e.w. 12
@@ -1090,20 +1090,20 @@
             akashi white oak blended whiskey
             applejack
                 applejack, preferably laird's
-                laird’s applejack
-                laird’s bonded applejack
-            laird’s bonded apple brandy
+                laird's applejack
+                laird's bonded applejack
+            laird's bonded apple brandy
             neversink apple apéritif
             brown butter-infused apple brandy
                     christian drouin “blanche de normandie” apple brandy
             laird's 100-proof straight apple brandy
             laird's bonded apple brandy
-            laird’s 12-year apple brandy
-            laird’s bonded apple brandy
-            laird’s bonded apple brandy scant
-            laird’s bottled-in-bond apple brandy
-            laird’s jersey lightning apple brandy
-            laird’s straight apple brandy
+            laird's 12-year apple brandy
+            laird's bonded apple brandy
+            laird's bonded apple brandy scant
+            laird's bottled-in-bond apple brandy
+            laird's jersey lightning apple brandy
+            laird's straight apple brandy
             clear creek 2-year apple brandy
             clear creek 8-year apple brandy
             clear creek apple brandy
@@ -1214,7 +1214,7 @@
             dupont calvados hors d'age
             dupont fine reserve calvados
             lemorton selection calvados domfrontais
-            montreuil selection calvados du pays d’auge
+            montreuil selection calvados du pays d'auge
             père magloire calvados xo
             dupont pays d'auge original calvados
             dupont pommeau de normande
@@ -1240,7 +1240,7 @@
             scarlet glow tea-infused macchu pisco
         Armagnac
             blanche armagnac domaine d'esperance
-            château de pellehaut blanche d’armagnac
+            château de pellehaut blanche d'armagnac
             château de pellehaut sélection armagnac
             château du tariquet 15-year armagnac
             château du tariquet blanche armagnac
@@ -1345,7 +1345,7 @@
         tarragon and agave nectar gastrique
         strawberry-balsamic gastrique
         american fruits black currant cordial
-        hendrick’s quinetum
+        hendrick's quinetum
         apple-coriander beer syrup
         banana syrup
         basil stem syrup
@@ -1380,7 +1380,7 @@
         cinnamon syrup
         clarified strawberry syrup
         clement cane syrup
-        cocktail & son’s fassionola, or hurricane syrup
+        cocktail & son's fassionola, or hurricane syrup
         coconut cream syrup
         coffee-pecan syrup
         coriander syrup
@@ -1388,7 +1388,7 @@
         cucumber magnesium syrup
         cumin syrup
         curried ginger syrup
-        d’arbo elderflower syrup
+        d'arbo elderflower syrup
         dark maple syrup
         dark rum    
         dark, robust maple syrup
@@ -1432,7 +1432,7 @@
         house honey syrup
         huckleberry syrup
         hunt + alpine cardamom-coriander syrup
-        joey sunshine’s maple simple syrup
+        joey sunshine's maple simple syrup
         kinmokusei syrup
         kiwi syrup
         koshian syrup
@@ -1527,7 +1527,7 @@
         sweet potato syrup
         tamarind demerara syrup
         thyme-picpoul syrup
-        toasted almond orgeat, preferably orgeat works t’orgeat almond syrup
+        toasted almond orgeat, preferably orgeat works t'orgeat almond syrup
         toasted jasmine-pomelo syrup
         tomato water syrup
         tonic syrup
@@ -1561,7 +1561,7 @@
             pineapple pulp cordial
             shiso-quinine cordial
             spent citrus cordial    
-            toby’s lime cordial
+            toby's lime cordial
             tutti-fruity cordial
             von humboldt's tamarind cordial
             salted lemon-lime cordial
@@ -1671,7 +1671,7 @@
             plum-marionberry shrub mix    
             rhubarb shrub    
             tabasco shrub
-            toby’s sour cherry shrub
+            toby's sour cherry shrub
             blackberry shrub
             clement creole shrubb
             salted plum shrub
@@ -1702,15 +1702,15 @@
         popcorn stock
         strawberry txakolina
         wasabi white chocolate base
-        monk’s tisane
+        monk's tisane
         black truffle stock
         cranberry stock
         cocktail distillate and reduction
         clamato mix
         disco dust
-        citrus-dusted buddha’s hand cube
-        cocchi americano-dusted buddha’s hand cube
-        pernod-dusted buddha’s hand cube
+        citrus-dusted buddha's hand cube
+        cocchi americano-dusted buddha's hand cube
+        pernod-dusted buddha's hand cube
         sage pudding
         peychaud's pudding
         hot sauce
@@ -1793,7 +1793,7 @@
         yakima salt solution
         crème de menthe spheres
         cucumber spheres
-        reserved gosling’s spheres
+        reserved gosling's spheres
         strawberry cobbler base
         compressed celery stalk
         compressed pear cubes
@@ -1836,7 +1836,7 @@
             apple cider
                 cold-pressed apple cider
                 hard apple cider
-                    doc’s hard apple cider
+                    doc's hard apple cider
                 hot apple cider
                 normandy sparkling apple cider
                 dry apple cider
@@ -1847,8 +1847,8 @@
                 isastegi spanish cider
                 dupont aigre doux
             pear cider
-                doc’s draft hard pear cider
-                doc’s hard pear cider
+                doc's draft hard pear cider
+                doc's hard pear cider
                 eric bordelet poire authentique
         apple celery soda
         soda water
@@ -1922,8 +1922,8 @@
                     pineapple-infused Tanqueray London Dry gin
                     tanqueray malacca gin
                     tanqueray sweet gin - 1900s
-                Martin Miller’s London Dry gin
-                    martin miller’s westbourne strength gin
+                Martin Miller's London Dry gin
+                    martin miller's westbourne strength gin
                 Thomas Dakin Red Cole
                 Hayman's London Dry
                 monkey 47 schwarzwald dry gin
@@ -1933,7 +1933,7 @@
                 bruichladdich botanist gin
             rutte
                 rutte dry gin
-        buddha’s hand gin
+        buddha's hand gin
         old raj gin
                 cadenhead's old raj gin
                 old raj 110-proof dry gin
@@ -1965,7 +1965,7 @@
             Sipsmith Sloe gin
             Reisetbauer Sloeberry gin
             sipsmith sloe gin
-        g’vine nouaison gin
+        g'vine nouaison gin
         mahon gin
         sipsmith v.j.o.p. gin    
         spring44 mountain gin
@@ -2480,7 +2480,7 @@
         pickled red onion
         wheatgrass
     //BITTERS
-        abbott’s bitters
+        abbott's bitters
         aromatic bitters
             angostura aromatic bitters (OR angostura bitters)
         peychaud's bitters
@@ -2500,7 +2500,7 @@
         bitter truth jerry thomas bitters
         bitter truth jerry thomas decanter bitters
         bitter truth jerry thomas' own decanter bitters
-        bitter truth jerry thomas’ bitters
+        bitter truth jerry thomas' bitters
         bitter truth lemon bitters
         homemade meyer lemon bitters
         bitter truth peach bitters
@@ -2526,13 +2526,13 @@
         bartlett pear bitters
         becherovka bitters
         bitters ice cube
-        boker’s bitters
-        boker’s bitters or angostura aromatic bitters
-        boker’s bitters or angostura aromatic bitters
-        boker’s bitters or angostura aromatic bitters fig or cherries, for garnish
-        boker’s bitters or angostura bitters
+        boker's bitters
+        boker's bitters or angostura aromatic bitters
+        boker's bitters or angostura aromatic bitters
+        boker's bitters or angostura aromatic bitters fig or cherries, for garnish
+        boker's bitters or angostura bitters
         burnet brand orange bitters - 1900s    
-        cacao cream and 1 drop peychaud’s bitters
+        cacao cream and 1 drop peychaud's bitters
         cardamom bitters
         celery bitters
         cherry bark vanilla bitters
@@ -2545,12 +2545,12 @@
         cucumber ribbon, 1 mint sprig, and 1 or 2 drops angostura bitters
         dale degroff pimento bitters
         dale degroff's pimento bitters
-        dale degroff’s pimento aromatic bitters
-        dale degroff’s pimento bitters
-        dash boker’s bitters or angostura aromatic bitters
+        dale degroff's pimento aromatic bitters
+        dale degroff's pimento bitters
+        dash boker's bitters or angostura aromatic bitters
         dashes bittermens orchard street celery bitters
-        dr. adam elmegirab’s boker’s bitters
-        dutch’s colonial cocktail bitters
+        dr. adam elmegirab's boker's bitters
+        dutch's colonial cocktail bitters
         fee brothers cardamom bitters
         fee brothers gin barrel-aged orange bitters
         fee brothers old fashion bitters
@@ -2562,14 +2562,14 @@
         angostura bitters
         fee brothers whiskey barrel–aged bitters
         fee brothers old fashion aromatic bitters
-        generous dashes peychaud’s bitters
+        generous dashes peychaud's bitters
         grapefruit bitters
         hella bitter citrus bitters
         homemade coffee-pecan bitters or 
         house cardamom bitters
         house orange bitters
         house orange bitters club soda
-        house peychaud’s bitters
+        house peychaud's bitters
         iki japanese bitters or bittermens hellfire habanero shrub
         lavender bitters
         lemon wheel, orange wheel, fresh mint sprig, angostura bitters
@@ -2587,35 +2587,35 @@
         miracle mile yuzu bitters
         mists angostura bitters
         mole bitters
-        regans’ orange bitters no. 6
+        regans' orange bitters no. 6
         dashes wormwood bitters
-        peychaud’s bitters
+        peychaud's bitters
         orange bitters
         scrappy's cardamom bitters
         peach bitters
-        pechaud’s bitters
+        pechaud's bitters
         bittered sling moondog aromatic bitters
         bittered sling zingiber crabapple bitters
         bittermens hellfire habanero shrub
         peychaud's bitters
-        peychaud’s aromatic bitters
+        peychaud's aromatic bitters
         bitter truth creole bitters
-        regan’s orange bitters
-        regan’s orange bitters no. 6
+        regan's orange bitters
+        regan's orange bitters no. 6
         regans' orange bitters
-        regans’ orange bitters
-        regans’ orange bitters no. 6
+        regans' orange bitters
+        regans' orange bitters no. 6
         sangostura bitters
         scrappy's cardamom bitters
         scrappy's celery bitters
         scrappy's grapefruit bitters
         scrappy's lavender bitters
-        scrappy’s cardamom bitters
-        scrappy’s celery bitters
-        scrappy’s lavender bitters
-        scrappy’s lime bitters or homemade key lime bitters
-        snake oil tobacco bitters or a.b. smeby bittering co. highland heather bitters or regans’ orange bitters no. 6
-        sprays peychaud’s bitters
+        scrappy's cardamom bitters
+        scrappy's celery bitters
+        scrappy's lavender bitters
+        scrappy's lime bitters or homemade key lime bitters
+        snake oil tobacco bitters or a.b. smeby bittering co. highland heather bitters or regans' orange bitters no. 6
+        sprays peychaud's bitters
         suze orange bitters
         the bitter end mexican mole bitters
         the bitter end moroccan bitters
@@ -2623,16 +2623,16 @@
         the bitter truth celery bitters
         the bitter truth chocolate bitters
         the bitter truth creole bitters
-        the bitter truth jerry thomas’ own decanter bitters
+        the bitter truth jerry thomas' own decanter bitters
         the japanese bitters yuzu bitters
-        peychaud’s bitters
+        peychaud's bitters
         angostura bitters
         angostura or other aromatic bitters
-        peychaud’s bitters
+        peychaud's bitters
         urban moonshine maple bitters
         urban moonshine maple bitters or homemade apple bitters
         walnut angostura bitters
-        weatherby’s orange saffron bitters
+        weatherby's orange saffron bitters
         woodford reserve spiced cherry bitters
         yuzu bitters
         miracle mile bay rum bitters
@@ -2677,7 +2677,7 @@
             toasted sesame tincture
             togarashi tincture
             vanilla tincture
-            za’atar tincture
+            za'atar tincture
             lime leaf tincture
             parsley tincture
             popcorn tincture
@@ -2712,10 +2712,10 @@
         citrus vodka
         craft distillers dsp ca 162 vodka
         good vodka
-        grey goose l’orange vodka
+        grey goose l'orange vodka
         hangar one buddha's hand vodka
         jalapeño-infused vodka
-        karlsson’s gold vodka
+        karlsson's gold vodka
         nikka coffey vodka
         oolong-infused vodka
         p3 placid vodka
@@ -2871,14 +2871,14 @@
                 coconut-infused el dorado white rum
         Black Blended
             gosling's black seal rum
-            gosling’s black seal rum
-                banana chip-infused gosling’s black seal rum
+            gosling's black seal rum
+                banana chip-infused gosling's black seal rum
             goslings black seal rum
             blackstrap rum
                 cruzan black strap rum
                 cruzan blackstrap rum
                     thai spice rum
-            blackwell’s black gold special reserve rum
+            blackwell's black gold special reserve rum
             coruba dark rum
         Black Blended Overproof
         Cane AOC Martinique Rhum Agricole Blanc
@@ -2898,7 +2898,7 @@
             brugal añejo rum
         Light Rum
             angostura 5-year rum
-            journeyman road’s end white rum
+            journeyman road's end white rum
             casa magdalena ron blanco rum
             caña brava white rum
             brugal white rum
@@ -2926,7 +2926,7 @@
             la favorite rhum agricole ambre
             la favorite rhum agricole blanc
             neisson blanc agricole rhum
-            neisson l’esprit rhum agricole blanc
+            neisson l'esprit rhum agricole blanc
             neisson rhum agricole blanc
             nori-infused la favorite rhum agricole blanc
             rhum clément select barrel agricole
@@ -2951,7 +2951,7 @@
                 carrot cake rum
             spiced rum
             plantation pineapple rum
-                plantation stiggins’ fancy pineapple rum
+                plantation stiggins' fancy pineapple rum
                 plantation pineapple stiggins fancy rum
         Gold Rum
             hamilton gold rum     
@@ -3232,7 +3232,7 @@
         ipa
             other half forever ever ipa
             ipa beer
-            bell’s ipa
+            bell's ipa
             green flash ipa
             stillwater nu-tropic ipa
         lager
@@ -3264,7 +3264,7 @@
         one 12-ounce bottle of beer, preferably mexican beer or shiner bock
     SPARKLING WINES
         hot bancha
-        moscato d’asti
+        moscato d'asti
         champagne
             champagne
             champagne (preferably bourgeois-diaz)
@@ -3323,7 +3323,7 @@
         cold brewed sencha green tea
         cold-brewed rare tea company genmaicha
         cold-steeped black tea
-        dragon’s blood tea
+        dragon's blood tea
         freshly brewed orange pekoe tea
         green tea-infused tumugi
         lapsang souchong tea-infused lillet rouge
