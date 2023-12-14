@@ -1,0 +1,727 @@
+source: "The Bar Book"
+recipes:
+
+#
+- name: Daiquiri No. 3
+  author: Constantino Ribalaigua Vert
+  notes: |+2
+      At the Floridita bar in Havana, Cuba, in the 1930s and 1940s, the daiquiri was king,and an extensive daiquiri menu was developed there, due in large part to bartenders likeConstantino Ribalaigua Vert. His famed Daiquiri No. 3 was consumed in massive quantities byErnest Hemingway, though he took his “without sugar and double the rum,” which became thelegendary Hemingway, or Papa doble, daiquiri. Personally, I find the Hemingway daiquirirepulsive and instead prefer Constante’s original.
+  glassware: rocks
+  ingredients:
+  - 2 ounces white rum
+  - 1/2 ounce 2:1 simple syrup
+  - 1/2 ounce lime juice
+  - 1/4 ounce grapefruit juice
+  - 1 tsp Luxardo maraschino liqueur
+  - "Garnish: 1 lime wedge"
+  steps:
+  - Combine the rum, simple syrup, lime juice, grapefruit juice, and maraschino liqueur in acocktail shaker or mixing glass. 
+  - Shake with ice cubes and strain over the old-fashioned glass filled with crushed ice. 
+  - Garnish with the lime wedge and serve with a straw.
+  tags:
+  - shaken
+  - citrus
+  - daiquiri
+- name: Flannel Shirt
+  author: Jeffrey Morgenthaler
+  notes: |+2
+      I developed this recipe with Highland Park Scotch for the StarChefs Rising Star Awards in Portland, Oregon. The event took place in December, and I knew I wanted to do something with Scotch and apple cider that would be served cold. So after coming up with the apple blend described [elsewhere in this book], I set out to build a cocktail whose other ingredients would play a supportive role in expressing how beautifully Scotch whisky and fresh apple cider pair together.
+  glassware: double rocks
+  ingredients:
+  - 1 3/4 oz Scotch
+  - 1 1/2 oz apple cider
+  - 1/2 oz Averna amaro
+  - 1/4 oz lemon juice
+  - 1 tsp 2:1 demerara syrup
+  - 1/2 tsp St. Elizabeth Allspice Dram
+  - 2 dashes Angostura bitters
+  - "Garnish: 1 orange peel"
+  steps:
+  - Combine the Scotch, apple cider, Averna amaro, lemon juice, Demerara syrup, St. Elizabeth Allspice Dram, and bitters in a cocktail shaker or mixing glass. 
+  - Shake with ice cubes and strain over the old-fashioned glass filled with cracked ice. 
+  - Twist the peel over the surface of the cocktail and drop in the drink to serve.
+  tags:
+  - shaken
+  - citrus
+  - autumn
+- name: Kingston Club
+  author: Jeffrey Morgenthaler
+  notes: |+2
+      "Palates tend to be pretty advanced here in Portland. Maybe it’s the weather, maybe it’s our intense love for coffee and big, bitter beers. But whatever the reason, I found myself in a bit of a conundrum while trying to put something tiki-inspired on my drink menu: Portlanders demand more depth of flavor than you’ll find in most rum-based tropical drinks. Herbal liqueurs to the rescue. I’ve always loved working with herbal liqueurs such as Drambuie, and Fernet-Branca makes a solid chunk of their sales from the staff at our restaurant. And behold, the Kingston Club was born."
+  glassware: collins
+  ingredients:
+  - 1 1/2 oz Drambuie
+  - 1 1/2 oz pineapple juice
+  - 3/4 oz lime juice
+  - 1 tsp Fernet-Branca
+  - 3 dashes Angostura bitters
+  - 1 oz soda weather
+  - "Garnish: 1 orange twist"
+  steps:
+  - Combine the Drambuie, pineapple juice, lime juice, Fernet-Branca, and bitters in a cocktail shaker or mixing glass. 
+  - Shake with ice cubes and finish with the soda water. 
+  - Strain the mix into the chilled collins glass filled with fresh ice, and garnish with the orange twist to serve.
+  tags:
+  - shaken
+  - citrus
+  - tiki
+- name: Bellini
+  author: 
+  notes: |+2
+      "There is no classic cocktail that takes advantage of fruit puree quite like the Bellini, a concoction of sparking wine and white peach puree. The drink reflects the same philosophy that Italians have toward food: use only the best ingredients at their peak season, and don’t muck them up—let the ingredients speak for themselves. Unlike so many classic cocktails, there is no dispute over who invented the Bellini, though the date is still fuzzy. Giuseppe Cipriani, founder and owner of the fabled Harry’s Bar in Venice, adored the delicately fragrant white peaches that were plentiful during the Italian summer. He “squeezed” one (must have been mighty ripe) and blended the puree with some prosecco. The flavor was like summer in a glass, and the drink had a gorgeous pale pink blush to it, thanks to the little tinge of red flesh that’s closest to the pit of a white peach. The drink never left Harry’s menu, and in fact he subsequently named a New York restaurant Bellini. The risk you run with the Bellini is the drink becoming too thick, so that it feels as if you’re slurping down peach puree touched with a hint of wine. After toying around with the proportions at my bar for years, we’ve finally settled on the ratio of 1 part puree to 3 parts prosecco. It’s the perfect balance. In an 8-oz/240-ml Champagne flute, this works out perfectly to 11/2 oz/45 ml of puree finished with 41/2 oz/135 ml of prosecco, leaving a 2-oz/60-ml head space at the top of the glass. I gotta admit that I’m not the world’s biggest fan of prosecco, as it tends to be a little sweeter, simpler, and more one-dimensional than the French or even Spanish sparkling wines I typically seek out. But for this drink, there is absolutely nothing that will work like prosecco. Trust me on this one, as a lot of dry, complex depth is not what you’re looking for in this cocktail."
+  glassware: flute
+  ingredients:
+  - 1 1/2 oz white peach puree
+  - 4 1/2 oz chilled prosecco
+  steps:
+  - Pour the peach puree in the Champagne flute. 
+  - Top up slowly with the chilled prosecco. 
+  - I like to give this one a stir with a chopstick rather than a metal bar spoon, as the Champagne flutes I have at home and in my bar are too delicate to handle with steel implements
+  tags:
+  - stirred
+  - sparkling
+- name: Tom Collins
+  author: 
+  notes: |+2
+      The first recipe for a single-serving Tom Collins appeared in the 1876 edition of Jerry Thomas’s The Bar-Tender’s Guide. By this time, sparkling cocktails such as collinses and fizzes were a mainstay of American bar culture. I can’t think of many more refreshing drinks than a perfectly carbonated Tom Collins. It’s the sort of thing I’ll whip up at a party when the only things on hand are a little gin, some fresh lemons, sugar, and soda water. A Tom Collins is just one of those drinks that always seems to wow people when made correctly. I find that adding soda to the glass once the drink has been shaken and strained over ice merely results in a layer of cocktail and a layer of soda. I always add the soda directly to the shaker once I’m done shaking the drink, and I never double-strain; the fine strainer provides too many nucleation sites, which help dissipate that carbon dioxide too quickly.
+  glassware: collins
+  ingredients:
+  - 2 oz Old Tom Gin
+  - 3/4 oz lemon juice
+  - 1/2 oz 2:1 simple syrup
+  - 2 oz chilled soda water.
+  - "Garnish: 1 lemon peel"
+  steps:
+  - Combine the gin, lemon juice, and simple syrup in a cocktail shaker or mixing glass. 
+  - Shake with ice cubes and add the soda water to the contents of the shaker. 
+  - Strain into the chilled collins glass filled with fresh ice. 
+  - Twist the peel over the surface of the cocktail and drop in the drink to serve.
+  tags:
+  - shaken
+  - citrus
+- name: Gin and Tonic
+  author: 
+  notes: |+2
+      There are gin and tonics, and then there are Gin and Tonics. This is one you won’t be embarrassed to serve your guests. I make pitcher after pitcher every summer for friends to sip in the backyard.
+  glassware: rocks
+  ingredients:
+  - 2 oz London Dry or Plymouth gin
+  - 1/2 oz Quinine Syrup
+  - 1 1/2 oz chilled soda water
+  - "Garnish: lime wedge"
+  steps:
+  - Combine the gin, quinine syrup, and soda water in the old-fashioned glass and fill with ice cubes. 
+  - Garnish with the lime wedge to serve.
+  tags:
+  - stirred
+- name: Dark & Stormy
+  author: 
+  notes: |+2
+      A Dark and Stormy is one of my favorite drinks in spring, when the weather here in the Pacific Northwest is warm, but the clouds are heavy and full of rain. Sitting out on a covered porch watching the rain clouds roll in is always better with one of these sunny refreshers in hand. But sometimes, during our long, dark, cold winters, we need a little refreshment, too. So we came up with this version, “winterized” slightly with the Christmas-y scent of Chinese five-spice powder.
+  glassware: collins
+  ingredients:
+  - 2 oz Chinese Five-Spiced Dark Rum
+  - 4 oz/120 ml Ginger Beer
+  - "Garnish: 1 lime wedge"
+  steps:
+  - Fill the glass with cracked ice and add the spiced rum and ginger beer. 
+  - Stir with a chopstick or bar spoon, and garnish with the lime to serve.
+  tags:
+  - stirred
+  - citrus
+- name: French 75
+  author: Jeffrey Morgenthaler
+  notes: |+2
+      "The 1919 edition of Harry MacElhone’s Harry’s ABC of Mixing Cocktails contains the first printed recipe for a drink surprisingly similar to a Tom Collins, but calling for sparkling wine in place of the sparkling water. Made with London dry gin, which was prevalent at the time, the drink is named the French 75 and credited to a bartender by the name of Malachy McGarry, of Buck’s Club in London. For me, nothing epitomizes the use of sparkling wine in a classic cocktail like the French 75. But for the longest time, I didn’t really see the drink’s appeal; it’s a little gin, a little lemon, and a little sugar thrown into a Champagne flute, with some sparking wine on top and maybe a sad little lemon peel floating around. But then I realized something while perusing old bar books: the French 75 is basically a dressed-up Tom Collins! And once I took the collins approach and served it on the rocks as the original recipe states, I began to see what a truly refreshing and inspired cocktail this is."
+  glassware: collins
+  ingredients:
+  - 1 oz London dry gin
+  - 1 oz lemon juice
+  - 1/2 oz 2:1 simple syrup
+  - 2 oz Champagne or sparkling wine
+  - "Garnish: lemon peel"
+  steps:
+  - Combine the gin, lemon juice, and simple syrup in a cocktail shaker or mixing glass. 
+  - Fill with cracked ice and shake. 
+  - Add the Champagne to the shaker. 
+  - Strain into the collins glass. 
+  - Twist the peel over the surface of the cocktail and drop in the drink to serve.
+  tags:
+  - shaken
+  - sparkling
+  - citrus
+- name: House Old-Fashioned
+  author: Jeffrey Morgenthaler
+  notes: |+2
+      Combine the gin, lemon juice, and simple syrup in a cocktail shaker or mixing glass. Fill with cracked ice and shake. Add the Champagne to the shaker. Strain into the collins glass. Twist the peel over the surface of the cocktail and drop in the drink to serve.
+  glassware: double rocks
+  ingredients:
+  - 1 tsp 2:1 simple syrup
+  - 2 dashes Angostura bitters
+  - 2 oz bourbon
+  - "Garnish: 1 orange peel"
+  steps:
+  - Combine the simple syrup, bitters, and bourbon in a mixing glass and stir with ice cubes. 
+  - Strain over fresh ice into an old-fashioned glass. 
+  - Twist the peel over the surface of the cocktail, rub the rim of the glass with the peel, and drop in the drink to serve.
+  tags:
+  - stirred
+  - old-fashioned
+- name: Rum Old-Fashioned
+  author: Jeffrey Morgenthaler
+  notes: |+2
+      Occasionally we’ll encounter rum drinkers who may have been exposed to the spirit only through tropical fruit-based concoctions. So when we’re asked to whip up something different with rum, this is often the first drink we’ll turn to.
+  glassware: double rocks
+  ingredients:
+  - 1 tsp 1:1 Demerara syrup
+  - 2 dashes House Orange Bitters
+  - 2 oz 12-year rum
+  - "Garnish: lime peel"
+  steps:
+  - Combine the Demerara syrup, bitters, and rum in a mixing glass and stir with ice cubes. 
+  - Strain over fresh ice into an old-fashioned glass. 
+  - Twist the peel over the surface of the cocktail, rub the rim of the glass with the peel, and drop in the drink to serve.
+  tags:
+  - stirred
+  - old-fashioned
+- name: Oaxaca Old-Fashioned
+  author: Phil Ward
+  notes: |+2
+      Combine the Demerara syrup, bitters, and rum in a mixing glass and stir with ice cubes. Strain over fresh ice into an old-fashioned glass. Twist the peel over the surface of the cocktail, rub the rim of the glass with the peel, and drop in the drink to serve.
+  year: 2007
+  glassware: double rocks
+  ingredients:
+  - 1 1/2 oz reposado tequila
+  - 1/2 oz mezcal
+  - 1 tsp 2:1 agave simple syrup
+  - 2 dashes Bittermens Xocolatl Mole bitters
+  - "Garnish: wide swath of grapefruit peel"
+  steps:
+  - Combine the Demerara syrup, bitters, and rum in a mixing glass and stir with ice cubes. 
+  - Strain over fresh ice into an old-fashioned glass. 
+  - Twist the peel over the surface of the cocktail, rub the rim of the glass with the peel, and drop in the drink to serve.
+  tags:
+  - stirred
+  - old-fashioned
+  - death & co
+- name: Maple Old-Fashioned
+  author: Jeffrey Morgenthaler
+  notes: |+2
+      Sometimes pairing the sweetener with the base spirit is about using the same raw ingredient, as is the case with the Rum and Oaxaca Old-Fashioned. But at other times it's about invoking a range of flavors that are familiar to the region, as is the case with this drink. Maple syrup and whisky work wonderfully together, and the high cinnamon content of the bitters ties up the whole package.
+  glassware: double rocks
+  ingredients:
+  - 2 oz Canadian whisky
+  - 1 tsp 2:1 maple simple syrup
+  - 2 dashes Fee Brothers Old Fashion Aromatic bitters
+  - "Garnish: wide swath of lemon peel"
+  steps:
+  - Combine the whisky, simple syrup, and bitters in a mixing glass and stir with ice cubes.
+  - Strain over fresh ice and into an old-fashioned glass.
+  - Twist the peel over the surface of the cocktail, rub the rim of the glass with the peel, and drop in the drink to serve.
+  tags:
+  - stirred
+  - autumn
+  - old-fashioned
+- name: Jack Rose
+  author: 
+  notes: |+2
+      Your grenadine will be great in all manner of classic cocktails, and, hell even in a Shirley Temple if that's your thing (I know I treat myself to one at least once a year). But the one drink in which I think grenadine really shines is the Jack Rose. There are a number of stories circulating about the origin of the name Jack Rose, most of which I'm sure are a load of b.s. The best one I've heard yet is that 'Jack' was inspired by the applejack, and 'Rose' by the rose color of the drink, from the grenadine. Regardless, it's a delicious classic.
+  glassware: nick & nora
+  ingredients:
+  - 1 1/2 oz Laird's Applejack
+  - 3/4 oz lemon juice
+  - 1/2 oz Grenadine
+  - "Garnish: 1 lemon peel (optional)"
+  steps:
+  - Combine the applejack, lemon juice, and Grenadine in a cocktail shaker or mixing glass.
+  - Fill with ice cubes and shake.
+  - Strain into the chilled cocktail glass.
+  - Twist the peel over the surface of the cocktail and drop in the drink, if desired, to serve.
+  tags:
+  - shaken
+  - citrus
+- name: Clover Club
+  author: 
+  notes: |+2
+      There's probably a deep historical story to this drink... But I don't know it. What I do know is that when you make this variation of a gin sour with raspberry syrup, it's one of the most beautiful things you can put in your mouth.
+  glassware: nick & nora
+  ingredients:
+  - 1 1/2 oz gin
+  - 3/4 oz lemon juice
+  - 3/4 oz Raspberry Syrup
+  - 1/2 oz egg white
+  steps:
+  - Combine the gin, lemon juice, raspberry syrup, and egg white in a cocktail shaker or mixing glass.
+  - Shake until the egg white is frothy and the ingredients are combined.
+  - Add the ice cubes and shake again.
+  - Strain into the chilled cocktail glass and serve.
+  tags:
+  - shaken
+  - citrus
+- name: Hotel Nacional Special
+  author: Charles H. Baker & Erik Adams
+  notes: |+2
+      "Charles H. Baker's incredible 1939 account of his encouters as a gadabout, The Gentleman's Companion: Being an Exotic Cookery and Drinking Book, is full of breathtaking cocktail recipies from around the world. His offering from the Hotel Nacional in Havana, Cuba, calls for fresh pineapple juice, but my friend Erik Adkins, the bar manager at the Slanted Door, in San Francisco, put a spin on the drink that has always seemed so right: Using pineapple syrup in place of the juice. I've gone on record in the press saying that I kinda hate Erik Adams. I struggle with recipes, and I sorta feel like every second spent behind the bar for me is a tense moment, as I desperately try not to screw up people's drinks. But Erik isn't like that at all; his drinks are always, always, always perfect. As one mutual friend so eloquently put it, 'Erik sprinkles magic pixie dust on top of his drinks. No matter how hard you try, you can never make the same drink as well as he can.' And it's true. I've followed his version of this recipe to the letter, but I still enjoy it more when he makes it for me. Good for you if you can make it the way Erik does; otherwise, you'll have to be content to be a mere mortal, like the rest of us."
+  glassware: coupe
+  ingredients:
+  - 1 1/2 oz aged rum
+  - 3/4 oz lime juice
+  - 3/4 oz pineapple syrup
+  - 1/2 oz apricot brandy
+  - 1 drop Angostura bitters
+  - "Garnish: 1 lime wheel"
+  steps:
+  - Combine the rum, lime juice, pineapple syrup, apricot brandy, and bitters in a cocktail shaker or mixing glass.
+  - Fill with ice cubes and shake.
+  - Strain into the chilled coupe glass.
+  - Garnish the rim with the lime wheel and serve.
+  tags:
+  - shaken
+  - citrus
+  - daiquiri
+- name: Philadelphia Fish House Punch
+  author: 
+  notes: |+2
+      Likely the most storied of all American punches is the Philadelphia Fish House Punch. Created some time around 1732 at the Schuylkill Fishing CLub, in Philadelphia, this potent punch is rumored to have kicked off every meeting. Given the unavilability of unsweetened peach brandy at the time, we present our version, using David Wondrich's solution, a 3:1 ratio off American apple brandy to French sweetened peach liqueur. Makes about 5 1/2 quarts.
+  glassware: punch bowl
+  ingredients:
+  - 1 bath Oleo Saccharum
+  - 16 oz Appleton Estate rum
+  - 8 oz Smith & Cross rum
+  - 12 oz cognac
+  - 3 oz crème de pêche
+  - 9 oz applejack
+  - 16 oz lemon juice, finely strained
+  - 3 qt cold water
+  steps:
+  - Combine all ingredients in a punch bowl and chill.
+  - Add an ice ring mold when ready to serve.
+  tags:
+  - citrus
+  - punch
+- name: Japanese Cocktail
+  author: 
+  notes: |+2
+      I'm not really a history guy, but from  what I've read, Jerry Thomas came up with this drink to commemorate the visit of a Japanese dignitary to New York. Or something. Ask David Wondrich if you run into him, and tell him I told you to bug him. What I do know is that it's a cocktail in the classical sense - spirit, bitters, and sweetener, in this case orgeat.
+  glassware: coupe
+  ingredients:
+  - 2 oz cognac
+  - 1/2 oz orgeat
+  - 2 dashes Angostura bitters
+  - "Garnish: 1 lemon peel"
+  steps:
+  - Combine the cognac, orgeat, and bitters in a cocktail shaker or mixing glass.
+  - Fill with ice cubes and shake.
+  - Strain into the chilled coupe glass.
+  - Twist the peel over the surface of the cocktail and drop in the drink to serve.
+  tags:
+  - shaken
+- name: Tequila por mi Amante
+  author: Charles H. Baker
+  notes: |+2
+      Makes about 16 ounces.
+  glassware: mason jar
+  ingredients:
+  - 1 qt / 680g fresh strawberries, halved
+  - 16 oz / 480 mL reposado tequila
+  steps:
+  - Combine the berries and tequila in a 1-qt canning jar and seal.
+  - Let sit for 3 weeks, agitating occasionally.
+  - Strain through a mesh strainer, gently pressing on the berries to release their liquid.
+  - Discard the berries.
+  - Strain the entire mixture through a coffee filter suspended in a strainer set over a bowl.
+  - Bottle and store away from direct sunglight indefinitely, although the color may fade after 6 months.
+  tags:
+  - stirred
+- name: Autumn Leaves
+  author: 
+  notes: |+2
+      We came up with this variation on the classic New Orleans cocktail, the Vieux Carré, as an autumnal offering at my bar. The drink was so popular when it debuted on our menu five years ago that it's still frequently requested by name.
+  glassware: rocks
+  ingredients:
+  - 3/4 oz rye whiskey
+  - 3/4 oz apple brandy
+  - 3/4 oz sweet vermouth
+  - 1/4 oz Strega
+  - 1 dash Cinnamon Tincture
+  - "Garnish: orange peel"
+  steps:
+  - Combine the rye whiskey, apple brandy, vermouth, Strega, and cinnamon tincture in a mixing glass.
+  - Add ice cubes and stir until chilled.
+  - Strain into the rocks glass filled with more ice cubes.
+  - Twist the orange peel over the surface of the cocktail, rub the rim of the glass with the peel, and then drop in the drink to serve.
+  tags:
+  - stirred
+  - autumn
+- name: Revolver
+  author: Jon Santer
+  notes: |+2
+      
+  glassware: nick & nora
+  ingredients:
+  - 2 oz bourbon (dry & spicy)
+  - 1/2 oz coffee liqueur
+  - 2 dashes House Orange Bitters
+  - "Garnish: 1 orange peel"
+  steps:
+  - Combine the bourbon, coffee liqueur, and House Orange Bitters in a mixing glass. 
+  - Add ice cubes and stir until chilled.
+  - Strain into the chilled Nick and Nora glass.
+  - Using the orange peel, express flamed orange oil over the surace of the drink.
+  - Drop the orange peel into the drink and serve.
+  tags:
+  - stirred
+  - manhattan
+  - flame
+  - winter
+- name: Alexander Cocktail
+  author: 
+  notes: |+2
+      If you ever have the good fortune to meet my father, ask him to tell you the story about the time he and his buddy Henry Reynoso had, like, fifteen brandy Alexanders each at the bar down the road from the cabin we owned back in the 1980s. My dad knows two things for certain, the first being that brandy Alexanders will make you sicker than anything you've ever had in your life, and the second being that they come from a blender full of ice cream. All I know about the brandy Alexander is that it's sort of the sequel to an even oldern drink called the Alexander cocktail, which first appeared sometime around 1915 in New York, and is made with equal parts gin, dark crème de cacao, and cream. Of course, I use half-and-half because it's lighter than cream. It's also lighter than a carton of vanilla ice cream, which was never used in the original Alexander.
+  glassware: nick & nora
+  ingredients:
+  - 1 oz London Dry gin
+  - 1 oz dark crème de cacao
+  - 1 oz half-and-half
+  - "Garnish: Nutmeg"
+  steps:
+  - Combine gin, crème de cacao, and half-and-half in a cocktail shaker filled with ice cubes and shake for 10 seconds.
+  - Double-strain into the chilled cocktail glass and garnish with a little freshly grated nutmeg to serve.
+  tags:
+  - shaken
+  - winter
+- name: Irish Coffee
+  author: 
+  notes: |+2
+      
+  glassware: irish coffee mug
+  ingredients:
+  - 1 1/2 oz Irish whiskey
+  - 2 tsp 2:1 brown sugar syrup
+  - 3 oz hot freshly brewed coffee
+  - "Garnish: Whipped cream"
+  steps:
+  - Heat the glass with hot water.
+  - Once the glass is warm enough, empty the contents and add the whiskey and brown sugar syrup.
+  - Stir in the coffee.
+  - Top with whipped cream and serve.
+  tags:
+  - shaken
+  - caffeinated
+- name: Cynar Flip
+  author: Ben Sandrof
+  notes: |+2
+      
+  glassware: coupe
+  ingredients:
+  - 1 egg
+  - 2 oz Cynar
+  - 2 tsp 2:1 simple syrup
+  - "Garnish: Fee Brothers Whiskey Barrel-Aged bitters"
+  steps:
+  - Put the egg into the cocktail shaker, making sure no shell came along. Then, using your bar spoon, break up the yolk, and whip the egg vigorously to loosen up the whites.
+  - Add the Cynar and simple syrup, fill the shaker with ice cubes, and shake.
+  - Strain into the chilled cocktail coupe.
+  - Using an eyedropper, drop bitters into the foam on top of the drink and drag a toothpick thrrough the bitters to garnish before serving.
+  tags:
+  - shaken
+- name: Clyde Common Eggnog
+  author: 
+  notes: |+2
+      Eggnog is essentially a flip, with the addition of cream. While you can technically make eggnog as you would the flip, adding 2 oz of cream to the mix, I find that eggnog is best shared with friends,and it also lends itself to aging for a day or so in the fridge. Therefore, I always make my eggnog in a large batch and trade in my shaker and bar spoon for a blender. You simply blend the eggs for a few seconds on low speed, which will get the consistency fluid enough to play well with the other ingredients as you continue to build your cocktail. The eggnog we serve at my bar, Clyde Commons, in Portland, Oregon, has been immensely popular for years. The combination of sweet añejo tequila with dry amontillado sherry is a goregeous pairing. Makes about 1 gallon.
+  glassware: punch glass
+  ingredients:
+  - 12 eggs
+  - 2 1/4 cups / 450g superfine sugar
+  - 12 oz añejo tequila
+  - 15 oz amontillado sherry
+  - 36 oz while milk
+  - 24 oz heavy cream
+  - "Garnish: freshly grated nutmeg"
+  steps:
+  - In a blender or stand mixer on low speed, beat the eggs until smooth.
+  - Slowly add the sugar and blend or beat until all of it is incorporated.
+  - Slowly add the tequila, sherry, milk, and cream.
+  - Refrigerate overnight and serve in small chilled punch glasses.
+  - Dust with fresh nutmeg before serving.
+  tags:
+  - blended
+  - winter
+  - batch
+- name: White Lady
+  author: Jeffrey Morgenthaler
+  notes: |+2
+      "The original White Lady recipe in Harry Craddock's Savoy Cocktail Book, published in 1930, doesn't contain any egg whites. Hoever, almost every recipe you'll find after that inexplicably does. Maybe it's because bartenders learned what I learned: while a White Lady made without egg white (a gin sidecar, essentially) is a great drink, one made with egg white is absolutely sublime. I've taken a few other liberties with this drink, but my favorite has to be the addition of the thyme-infused Cointreau."
+  glassware: nick & nora
+  ingredients:
+  - 1 1/2 oz London dry gin
+  - 1 oz Thyme-Infused Cointreau
+  - 3/4 oz lemon juice
+  - 1 tsp 2:1 simple syrup
+  - 1/2 oz egg white
+  - "Garnish: orange peel"
+  steps:
+  - Combine the gin, Cointreau, lemon juice, simple syrup, and egg white in your cocktail shaker.
+  - Shake without ice until the white is frothy.
+  - Add ice cubes and shake again until chilled.
+  - Strain into the chilled cocktail glass.
+  - Twist the orange peel over the drink, discard the peel, and serve.
+  tags:
+  - shaken
+  - citrus
+- name: Mint Julep
+  author: 
+  notes: |+2
+      "I like to think of the mint julep as one of the world's first single-serving cocktails and as the predecessor to the cocktail that we now know as the old-fashioned. If you look closely, the two formulas are essentially identical: 1 tsp of sugar, 2 oz of liquor, some water, and a little something to add a flavorful kick to the drink. In the case of the old-fashioned, that kick comes in the form of bitters. In the case of the mint julep, it comes from fresh spearmint."
+  glassware: julep tin
+  ingredients:
+  - 10 sprigs fresh spearmint
+  - 1 tsp 2:1 simple syrup
+  - 2 oz boubon
+  steps:
+  - In the bottom of the julep cup, combine about 10 fresh spearmint leaves with the simple syrup.
+  - Muddle the mint gently with the disc end of a bar spoon, add the bourbon, and stir to combine.
+  - Working slowly, add crushed ice while stirring the ingredients to chill them and incorporate the ice.
+  - Continue packing the cup with crushed ice until the ice forms a mound on top of the drink.
+  - Insert the tip of a chopstick into the ice to make a small hole.
+  - Gather together 6 to 8 trimmed sprigs of mint and insert the boquet into the hole.
+  - Guide a straw into the hole alongside the garnish and serve.
+  tags:
+  - stirred
+  - julep
+- name: Martini
+  author: 
+  notes: |+2
+      The martini is the great-grandfather of all stirred cocktails. At my bar we prefer a 5:1 gin-to-vermouth ratio, which I've found to be most pleasing to the greatest number of martini drinkers.
+  glassware: coupe
+  ingredients:
+  - 2 1/2 oz London dry gin
+  - 1/2 oz dry vermouth
+  - "Ganish: lemon twist or olive"
+  steps:
+  - Combine the gin and vermouth in a mixing glass and stir with ice cubes.
+  - Strain into the coupe glass.
+  - Twist the peel over the surface of the cocktail and drop in the drink, or garnish with the olive, to serve.
+  tags:
+  - stirred
+  - martini
+  - freezer bar
+- name: Sidecar
+  author: 
+  notes: |+2
+      The first drink I really got to know was the sidecar. A tart, bracing blend of cognac, Cointreau, and fresh lemon juice, a perfectly made sidecar is the ultimate expression of a shaken cocktail. Most recipes you'll see out there call for a sugared rim; I skip it and choose to balance the drink in the glass instead.
+  glassware: 
+  ingredients:
+  - 1 1/2 oz cognac
+  - 3/4 oz Cointreau
+  - 3/4 oz lemon juice
+  - 1 tsp 2:1 simple syrup
+  - "Garnish: orange peel"
+  steps:
+  - Combine the cognac, Cointreau, lemon juice, and simple syrup in a mixing glass and shake with ice cubes.
+  - Double-strain into the cocktail glass.
+  - Twist the peel over the surface of the cocktail and drop in the drink.
+  tags:
+  - shaken
+  - citrus
+- name: Queen's Park Swizzle
+  author: 
+  notes: |+2
+      Long before anyone came up with those overly alcoholic, sugary concoctions for chugging down in dance clubs and college bars, like the Long Island iced tea, there was another tall, boozy drink, which was served and sipped at the bar in the Queen's Park Hotel, in Trinidad. Composed mostly of rum, with a few other ingredients and a lot of crushed ice to temper the heat of the alcohol, the Queen's Park swizzle is a classic booze-laden sipper.
+  glassware: collins
+  ingredients:
+  - 3 oz Demerara rum
+  - 3/4 oz lime juice
+  - Spent lime half
+  - 1/2 oz 2:1 demerara syrup
+  - 3 dashes Angostura bitters
+  - 1 bunch spearmint
+  steps:
+  - Combine the rum, lime juice, demerara syrup, and the spent lime half in the chilled collins glass.
+  - Fill the glass with crushed ice and swizzle until the glass becomes well frosted.
+  - Finish with the bitters, and garnish with a large boquet of spearmint.
+  - Serve with a straw.
+  tags:
+  - swizzle
+  - citrus
+- name: Piña Colada
+  author: 
+  notes: |+2
+      
+    The pina colada is likely the most famous, and in some quarters maybe even the most reviled, blended drink. The drink - rum, fresh pineapple juice, and coconut cream - was popularized in 1954 as a jet-setters' destination, the Beachcomber Bar of the Caribe Hilton in San Juan, Puerto Rico.
+
+    Who actually 'invented' the drink is in dispute. Most sources, including Hilton press releases, credit bartender Ramón 'Monchito' Marrero Pérez, but another Hilton bartender, Ricardo Gracia, has claimed over the years that he invented it. 'Invention' is a tricky term in the food and drink world, because it's almost never possible to pin down a time and place where three ingredients were mixed together for the first time. The New York Times mentionned on April 16, 1950, that 'Drinks in the West Indies range from Martinique's famous rum punch to Cuba's piña colada (rum, pineapple, and coconut milk),' so clearly the drink predates Marrero's creation.
+    
+    Two technological developments secured the status of the drink as a worldwide favorite - the invention of a method for extracting coconut cream from coconut meat, and the invention of the blender. Early versions of the drink were made with coconut cream obtained the way generations of tropical cooks had done it - crack the coconut, pry out the meat, shave off the brown skin, chop or grate the meat, soak it in water, squeeze out the liquid, and then wait for the fat - the cream - to rise to the top so the cook could skim it. A labor-intensive process to be sure. The University of Puerto Rico's agricultural department awarded a grant to a professor who succeeded in creating a mechanized process in 1949, and ultimately the Coco López company was born; its success became intertwined with the piña colada.
+    
+    A decade or so before the professor made his discovery, Fred Waring perfected his Waring mixer. Waring, who was also a famous big-band leader, had purchased the design from the inventors and improved upon it. The blender became popular throughout the bar and restaurant world as well as among consumers. The piña colada received one more boost to its popularity, a musical earworm that came out in 1979, but we'd rather just leave that one alone.
+    
+    When I make this drink at home, I like to break out a special tool just for the occasion - my vintage 1950s-era Waring blender. Its beehive shape and ribbed glass blender cup just look so damn good with a frosty piña colada whizzing around inside.
+  glassware: wine glass
+  ingredients:
+  - 2 oz aged rum
+  - 1 oz pineapple juice
+  - 1 1/2 oz cream of coconut
+  - 8 oz crushed ice
+  - "Garnish: 1 pineapple spear"
+  steps:
+  - Combine the rum, pineapple juice, cream of coconut, and crushed ice in a blender and blend until smooth.
+  - Serve in the wineglass and garnish with the pineapple spear.
+  tags:
+  - blended
+  - tiki
+  - citrus
+- name: Mojito
+  author: 
+  notes: |+2
+      
+    Sure, since the Mojito became the most popular drink ever, once again, it's also become popular for bartenders and self-described cocktail geeks to complain about it. It's pedestrian, it's the new cosmopolitan, it takes too long to make.
+
+    But I remember a time when we were all just beginning to rediscover the Mojito. And despite the fact that I've made literally thousands of them during the course of my career, I still have fond memories of those summers when we'd all gather in the kitchen while we waited for the grill to heat up and discovered the drink together, a new generation of Mojito lovers. It's an amazing drink when it's made right, and that's all you really need to know.
+  glassware: pint glass
+  ingredients:
+  - 1 bunch spearmint
+  - 1/2 oz 2:1 simple syrup
+  - 2 oz white rum
+  - 1 oz lime juice
+  - 1 spent lime half
+  - 2 oz soda water, chilled
+  steps:
+  - Put 12 or so large spearmint leaves in the bottom of the chilled pint glass and add the simple syrup.
+  - Muddle the spearmint gently to release the oils.
+  - Add the rum, lime juice, and the spent lime half.
+  - Fill the glass with crushed ice and finish wht soda water.
+  - Serve with a straw.
+  tags:
+  - stirred
+  - tiki
+- name: Caipirinha
+  author: 
+  notes: |+2
+      
+    Cachaça is one of the most rustic spirits in the world. The national liqour of Brazil, cachaça is made from the juice of fresh-presssed sugarcane, which is then fermented and distilled. Unlike rum, which is usually made from molasses, cachaça retains the fresh, grassy, vegetal flavors of cane juice.
+
+    It would be tough for cachaça to claim its position as the third-most-consuumed spirit in the world if it weren't for the simple, peasant-like preparation of a drink known as a Caipirinha. With nothing more than a little sugar and lime to ameliorate the rough edges found in many cachaças, this is one drink that's more than the sum of its parts. 
+  glassware: double rocks
+  ingredients:
+  - 1/2 lime, quartered lenghwise, and whiite membrane removed
+  - Heaping 2 tsp sugar
+  - 2 oz cachaça
+  steps:
+  - Combine the 4 lime wedges and sugar in the bottom of the old-fashioned glass. Muddle the lime wedges with the sugar to release their juices and grind their oils from the peel.
+  - Add the cachaça.
+  - Fill the glass with crushed or cracked ice and serve.
+  tags:
+  - citrus
+- name: Blue Blazer
+  author: Jerry Thomas
+  notes: |+2
+      
+    Personally, I've never found the combination of Scotch and hot water all that interesting or appealing, but a whole new generation of bartenders has rediscovered this cocktail, so there's got to be something to it. Here is Jerry Thomas's original recipe.
+  glassware: blue blazer mug
+  ingredients:
+  - 2 oz boiling water
+  - 1 tsp sugar
+  - 2 oz cask-strength Scotch
+  - "Garnish: 1 lemon twist"
+  steps:
+  - Prewarm your blue blazer mugs with boiling water for several minutes. Empty the mugs.
+  - Mix the boiling water and sugar in one mug and put the whisky in the other.
+  - Carefully ignite the whisky, and while it is flaming, pour the whisky into the water.
+  - Mix the ingredients by pouring them back and forth from one mug to the other several times.
+  - Serve in a tempered wineglass and garnish with the lemon twist.
+  tags:
+  - heated
+  - flame
+  - winter
+- name: Café Brûlot
+  author: 
+  notes: |+2
+      Makes 4 to 6 drinks.
+  glassware: brûlot demitasse cups
+  ingredients:
+  - 1 orange, peeled in a single continuous spiral
+  - 9 whole cloves
+  - 1 lemon, peeled in a single continuous spiral
+  - 1 1/2 tbsp sugar
+  - 1 long cinnamon stick
+  - 3 oz cognac
+  - 2 oz Grand Marnier
+  - 24 oz hot freshly brewed strong coffee
+  steps:
+  - Stud the orange peel with the cloves, placing them about 1 inch apart, and set aside.
+  - In a brûlot cauldron, combine the lemon peel, sugar, cinnamon stick, cognac, and Grand Marnier.
+  - Light the burner and adjust the flame so it's low.
+  - Cook for 2 to 3 minutes, stirring with a ladle to dissolve the sugar and warm the ingredients.
+  - When the mixture is warm, carefully ignite with a match.
+  - While the mixture is flaming, hold the spiraled orange peel with very long tongs over the cauldron, ladle the flaminng mixture down the peel into the boowl several times, and then drop the peel into the cauldron.
+  - Add the hot coffee, stir to combine, and ladle the café brûlot into brûlot or demitasse cups, being careful to leave the spices and citrus peels behind in the cauldron. Serve immediately.
+  tags:
+  - batch
+  - flame
+  - caffeinated
+  - winter
+  - heated
+- name: Spanish Coffee
+  author: 
+  notes: |+2
+      
+  glassware: wine glass
+  ingredients:
+  - Sugar for rimming the glass
+  - 1 lime wedge
+  - 3/4 oz 151-proof rum
+  - 1/2 oz Triple Sec
+  - 1 1/2 oz Kahlúa
+  - 3 oz hot freshly brewed coffee
+  - "Garnish: lightly whipped cream and nutmeg"
+  steps:
+  - Put some sugar in a shallow bowl. Make a slit in the lime wedge, and moisten the rim of the wine glass with it.
+  - Make a band of sugar around the rim.
+  - Fill the glass with the rum and Triple sec, and light with a match.
+  - Holding the glass at an angle, heat the sugar using the flame until the sugar begins to bubble and caramelize, about 1 minute.
+  - Add the Kahlúa and coffee, and finish with whipped cream and freshly grated nutmeg to serve.
+  tags:
+  - heated
+  - flame
+  - caffeinated
+- name: Margarita
+  notes: |+2
+      To salt or not to salt, that is the question. It's believed that originally, the salted rim, which is indelibly linked with tequila, was provided to mask the taste of inferior spirits. While many bartenders have begun to show disdain for the salted rim as we've discovered the beauty of handmade artisan tequilas, the fact remains that the vast majority of margarita drinkers demand a salted rim with their cocktail. And if that's the weay it's going to be, you might as well give them a perfectly salted rim and a perfectly made margarita to go with it.
+  glassware: double rocks
+  ingredients:
+  - salt, for rimming the glass
+  - 1 1/2 oz silver tequila
+  - 3/4 oz Cointreau
+  - 3/4 oz fresh lime juice
+  - 1 tsp 2:1 simple syrup
+  steps:
+  - Rim the lip of the old-fashioned glass with salt.
+  - Shake the tequila, Cointreau, lime juice, and simple syrup together in a cocktail shaker filled with ice cubes.
+  - Strain into the glass filled with cracked ice and serve.
+  tags:
+  - shaken
+  - citrus
+  - margarita
+- name: Sazerac
+  notes: |+2
+      
+    Sometimes it's helpful to think of a garnish in an uncommon way. I like to think of the absinthe rinse found in a traditional Sazerac cocktail as an aromatic garnish that's placed underneath the drink. It incorporates into the finished product but also retains some aromatics along the inside collar of the glass.
+    
+    The classic methodology is to pour a small measure of absinthe into the glass, swirl it, and then dump it out, which coats the glass evenly, but is also a waste of absinthe and is slightly messy. At our bars we like to use an atomizer filled with absinthe to neatly and evenly coat the inside of the glass.
+  glassware: rocks
+  ingredients:
+  - 2 oz rye
+  - 1 tsp 2:1 simple syrup
+  - 3 dashes Peychaud's bitters
+  - 1 dash Angostura bitters
+  - Absinthe
+  - "Garnish: lemon peel"
+  steps:
+  - Stir the whiskey, simple syrup, and bitters together in a mixing glass.
+  - Add ice cubes and stir until chilled.
+  - In the frozen rocks glass, spray absinthe until the entire interior surface is evenly coated.
+  - Strain the cocktail into the glass, twist the lemon peel over the surface, and discard the peel before serving.
+  tags:
+  - stirred
+  - sazerac

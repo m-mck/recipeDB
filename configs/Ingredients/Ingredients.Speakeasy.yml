@@ -4,7 +4,8 @@ recipes:
 
 #
   - name: Blackberry Purée
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - ¼ pound fresh or frozen, thawed blackberries (about 1 cup)
     - 2 tablespoons superfine sugar
@@ -16,7 +17,8 @@ recipes:
     - Refrigerate until use. 
     - Will keep for 3 to 4 days, refrigerated.
   - name: Fig Purée
-    notes: Makes about 1 cup.
+    notes: |+2
+      Makes about 1 cup.
     ingredients: 
     - 1 pound ripe Black Mission figs
     - 1 tablespoon superfine sugar
@@ -28,7 +30,8 @@ recipes:
     - Refrigerate until use. 
     - Will keep for 4 days.
   - name: White Peach Purée
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 4 fresh white peaches, skin on, cut in half and pitted
     - 8 raspberries
@@ -40,7 +43,8 @@ recipes:
     - Liquefy to consistency. 
     - Keep refrigerated until use. Will keep for 3 days.
   - name: Bloody Mary Mix
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 3 cups tomato juice
     - ½ tablespoon capers, crushed
@@ -56,7 +60,8 @@ recipes:
     - Refrigerate overnight. 
     - Stir again before using. Will keep for 3 days, refrigerated.
   - name: Simple Syrup
-    notes: "Simple syrup is the most basic sweetener used in cocktails, and as the name states, it's simple–made of just sugar and water. Like salt, sugar is a flavor enhancer, and simple syrup is used to bring out the character of other cocktail ingredients. Its sweetness also balances acidic elements like citrus juices. Superfine sugar (also called bar sugar, a nod to its use by bartenders) is best for making simple syrup because the fine granules dissolve easily without heating. There are two methods for making simple syrup: hot and cold. Most people are familiar with the hot method and do not realize that you can get the same result by simply stirring or shaking it. The cold method works only with superfine sugar. Standard granulated sugar requires heat to thoroughly dissolve all the granules. Either way, the sugar and water proportions are the same–one to one by volume; because there is a lot of air trapped between granules of sugar, we recommend measuring by weight. For those who don't own a kitchen scale, we offer a volume measurement as well. Makes 1 quart."
+    notes: |+2
+      "Simple syrup is the most basic sweetener used in cocktails, and as the name states, it's simple–made of just sugar and water. Like salt, sugar is a flavor enhancer, and simple syrup is used to bring out the character of other cocktail ingredients. Its sweetness also balances acidic elements like citrus juices. Superfine sugar (also called bar sugar, a nod to its use by bartenders) is best for making simple syrup because the fine granules dissolve easily without heating. There are two methods for making simple syrup: hot and cold. Most people are familiar with the hot method and do not realize that you can get the same result by simply stirring or shaking it. The cold method works only with superfine sugar. Standard granulated sugar requires heat to thoroughly dissolve all the granules. Either way, the sugar and water proportions are the same–one to one by volume; because there is a lot of air trapped between granules of sugar, we recommend measuring by weight. For those who don't own a kitchen scale, we offer a volume measurement as well. Makes 1 quart."
     ingredients: 
     - 1½ pounds (3⅓ cups) superfine sugar
     - 2 cups water
@@ -65,7 +70,8 @@ recipes:
     - "Cold Method: Using a funnel, pour the sugar into a quart bottle. Add the water in small increments, capping and shaking between additions to loosen the sugar and free the trapped air. Once all the water has been added, continue to rotate the bottle until all the sugar is dissolved."
     - Store in the refrigerator. It will firm up when cold, so allow to return to room temperature before using. The syrup will keep for 4 days, refrigerated.
   - name: Demerara Simple Syrup
-    notes: Makes 1 quart.
+    notes: |+2
+      Makes 1 quart.
     ingredients: 
     - 1 pound demerara sugar
     - 2 cups water
@@ -75,7 +81,8 @@ recipes:
     - Let cool, then store in a bottle. 
     - The syrup will keep for 4 days, refrigerated.
   - name: Honey Syrup
-    notes: When added straight from the bottle or jar, honey does not work well in chilled cocktails. It will stick to the sides of the shaker when the ice is introduced and will resist mixing. If you want the flavor of honey in cocktails, you must first dilute its texture, make it soluble, and make it into a syrup. Most honey syrups contain just honey and water, but we have added vanilla and orange peel to accentuate some of the key flavor notes in the honey. Acacia honey is light in flavor and fragrant and is one of the few honeys that is truly liquid and does not crystallize. This particular recipe was developed for our Mediterra cocktail, which was one of the most popular cocktails in the first years after Employees Only opened. Makes 1 quart.
+    notes: |+2
+      When added straight from the bottle or jar, honey does not work well in chilled cocktails. It will stick to the sides of the shaker when the ice is introduced and will resist mixing. If you want the flavor of honey in cocktails, you must first dilute its texture, make it soluble, and make it into a syrup. Most honey syrups contain just honey and water, but we have added vanilla and orange peel to accentuate some of the key flavor notes in the honey. Acacia honey is light in flavor and fragrant and is one of the few honeys that is truly liquid and does not crystallize. This particular recipe was developed for our Mediterra cocktail, which was one of the most popular cocktails in the first years after Employees Only opened. Makes 1 quart.
     ingredients: 
     - 3 cups water
     - 1½ cups acacia honey
@@ -87,7 +94,8 @@ recipes:
     - Fill a labeled squeeze bottle for easiest use. 
     - The syrup will keep for 7 days, refrigerated.
   - name: Fresh Pineapple Syrup
-    notes: Pineapple syrup is a very simple affair and a tasty sweetener made for use in the Pisco Punch. The flavor experience is different from using juice or fruit, because although it is clean, it picks up much of the vegetal characteristics of the pineapple. This syrup has many applications and can substitute for simple syrup to add more depth in tropical cocktails. Makes 1 quart.
+    notes: |+2
+      Pineapple syrup is a very simple affair and a tasty sweetener made for use in the Pisco Punch. The flavor experience is different from using juice or fruit, because although it is clean, it picks up much of the vegetal characteristics of the pineapple. This syrup has many applications and can substitute for simple syrup to add more depth in tropical cocktails. Makes 1 quart.
     ingredients: 
     - 2 cups fresh pineapple cubes
     - 1 quart simple syrup
@@ -97,7 +105,8 @@ recipes:
     - Fill a labeled squeeze bottle for easiest use. 
     - The syrup will keep for 7 days, refrigerated.
   - name: Mint Syrup
-    notes: In many antiquated recipes for this Southern specialty, infusing mint syrup is a necessary step in making a proper Mint Julep. This is a very simple ingredient to make and will greatly enhance the flavor of the cocktails you use it in. It is traditionally used as an ingredient in juleps and smashes. Makes 1 quart.
+    notes: |+2
+      In many antiquated recipes for this Southern specialty, infusing mint syrup is a necessary step in making a proper Mint Julep. This is a very simple ingredient to make and will greatly enhance the flavor of the cocktails you use it in. It is traditionally used as an ingredient in juleps and smashes. Makes 1 quart.
     ingredients: 
     - About 50 fresh mint leaves
     - 1 quart simple syrup
@@ -108,7 +117,8 @@ recipes:
     - Fill a labeled squeeze bottle for easiest use. 
     - The syrup will keep for about 3 days.
   - name: Spicy Ginger Beer
-    notes: Ginger beer is often made as a live fermented brew, a time-consuming and messy process–our method shortcuts time, but not flavor. For a controlled version of premade ginger beer, use a soda siphon to provide carbonation. Makes about 4 quarts.
+    notes: |+2
+      Ginger beer is often made as a live fermented brew, a time-consuming and messy process–our method shortcuts time, but not flavor. For a controlled version of premade ginger beer, use a soda siphon to provide carbonation. Makes about 4 quarts.
     ingredients: 
     - 2 pounds fresh gingerroot, peeled and coarsely chopped
     - 1 English cucumber, unpeeled and coarsely chopped
@@ -129,7 +139,8 @@ recipes:
     - The ratio of syrup to club soda is 1:3 when made to order. 
     - If using a soda siphon, pour 1 cup syrup and 3 cups water into a 1-liter soda siphon.
   - name: Grenadine
-    notes: Grenadine has suffered a tragic alteration at the hand of commercial producers, who have made it into an artificially flavored and colored, high-fructose corn syrup travesty that has nothing to do with the fruit for which it is named. (The word “grenadine” comes from the Spanish word for pomegranate, grenada.) Determined to revive the real deal, we crafted our own recipe using POM Wonderful pomegranate juice. We fortify it with Cardenal Mendoza aged Spanish brandy to help preserve it and add an additional depth of flavor. Alternatively, try our Employees Only brand (see the Resources section). Makes about 1 quart.
+    notes: |+2
+      Grenadine has suffered a tragic alteration at the hand of commercial producers, who have made it into an artificially flavored and colored, high-fructose corn syrup travesty that has nothing to do with the fruit for which it is named. (The word “grenadine” comes from the Spanish word for pomegranate, grenada.) Determined to revive the real deal, we crafted our own recipe using POM Wonderful pomegranate juice. We fortify it with Cardenal Mendoza aged Spanish brandy to help preserve it and add an additional depth of flavor. Alternatively, try our Employees Only brand (see the Resources section). Makes about 1 quart.
     ingredients: 
     - 2½ cups pomegranate juice
     - 1 cup simple syrup
@@ -142,7 +153,8 @@ recipes:
     - Fill a labeled squeeze bottle for easiest use. 
     - Grenadine will keep for 2 weeks, refrigerated.
   - name: Lime Cordial
-    notes: Unfortunately, most lime cordials on the market today are some of the nastiest artificial garbage you could put into your body. With no strong-flavored natural options, many bartenders have been making their Gimlets with fresh lime juice and simple syrup. Yet without the bitterness of the lime oils, a fresh Gimlet falls flat. We have created an alternative using lime juice and agave nectar and flavored with the oils of kaffir lime leaf. Kaffir lime leaves are traditionally used in Thai cooking and have a wonderful aroma. Lime leaves can be found in Asian markets and some specialty stores such as Whole Foods. You can also buy our Employees Only brand (see the Resources section). Makes about 1⅓ quarts.
+    notes: |+2
+      Unfortunately, most lime cordials on the market today are some of the nastiest artificial garbage you could put into your body. With no strong-flavored natural options, many bartenders have been making their Gimlets with fresh lime juice and simple syrup. Yet without the bitterness of the lime oils, a fresh Gimlet falls flat. We have created an alternative using lime juice and agave nectar and flavored with the oils of kaffir lime leaf. Kaffir lime leaves are traditionally used in Thai cooking and have a wonderful aroma. Lime leaves can be found in Asian markets and some specialty stores such as Whole Foods. You can also buy our Employees Only brand (see the Resources section). Makes about 1⅓ quarts.
     ingredients: 
     - 4 cups freshly squeezed lime juice
     - 2½ cups raw light agave nectar
@@ -157,7 +169,8 @@ recipes:
     - Lime cordial will keep for 7 days, refrigerated. 
     - Fill a labeled squeeze bottle for easiest use.
   - name: Wild Strawberry Cordial
-    notes: Our wild strawberry cordial is actually somewhere between a fruit purée and a syrup. The idea was to create a high-octane strawberry flavor to blend in a French 75 cocktail. Much of the flavor comes from the wild strawberries we have imported frozen from France–they are tiny in size but big in flavor and vary from light yellow to deep red. You can use regular fresh strawberries, but make absolutely certain that they are ripe and fragrant. Makes about 1 quart.
+    notes: |+2
+      Our wild strawberry cordial is actually somewhere between a fruit purée and a syrup. The idea was to create a high-octane strawberry flavor to blend in a French 75 cocktail. Much of the flavor comes from the wild strawberries we have imported frozen from France–they are tiny in size but big in flavor and vary from light yellow to deep red. You can use regular fresh strawberries, but make absolutely certain that they are ripe and fragrant. Makes about 1 quart.
     ingredients: 
     - 4 pounds frozen or fresh strawberries, hulled
     - 1 cup granulated sugar
@@ -173,7 +186,8 @@ recipes:
     - Keep refrigerated until use. 
     - Fill a labeled squeeze bottle for easiest use.
   - name: Hisbiscus Cordial
-    notes: Hibiscus is used throughout the Middle East and Latin America to make a ruby-red herbal tea. You can find the flowers at a tea or herb retailer. This hibiscus cordial is the brainchild of our bar manager and long-time friend Robert Krueger. This cleverly designed cordial brings out a rich color, beautiful floral notes, and a nice citrus flavor from the dried hibiscus flowers. It's the main ingredient in Rob's Roselle cocktail. Vodka and brandy serve to fortify the cordial for longer use. Makes about 1 quart.
+    notes: |+2
+      Hibiscus is used throughout the Middle East and Latin America to make a ruby-red herbal tea. You can find the flowers at a tea or herb retailer. This hibiscus cordial is the brainchild of our bar manager and long-time friend Robert Krueger. This cleverly designed cordial brings out a rich color, beautiful floral notes, and a nice citrus flavor from the dried hibiscus flowers. It's the main ingredient in Rob's Roselle cocktail. Vodka and brandy serve to fortify the cordial for longer use. Makes about 1 quart.
     ingredients: 
     - 2 cups water
     - ½ cup dried hibiscus flowers
@@ -186,7 +200,8 @@ recipes:
     - Remove from the heat and allow to cool. 
     - Add the vodka and cognac, then strain and bottle immediately.
   - name: Vermouth de Provence
-    notes: When first conceiving Employees Only, we knew we wanted to create our own house vermouths. We abandoned the idea of making our vermouth from raw wine and decided instead to use dry vermouth as a base for an infusion of additional herbs. The primary flavors in dry vermouth are rosemary, thyme, lavender, and anise–the same botanicals that make up the herbes de Provence blend used in cooking. To extract and transfuse flavors, we use a hot infusion method to create just a small amount of highly concentrated liquid that can be blended with the rest of a bottle of vermouth without cooking out all the alcohol. This controlled method of infusing reduces the amount of contact between alcohol and herbs–if left to steep too long, the finish is bitter. EO Vermouth de Provence is one of the key ingredients in the Provençal cocktail. Makes 1 quart.
+    notes: |+2
+      When first conceiving Employees Only, we knew we wanted to create our own house vermouths. We abandoned the idea of making our vermouth from raw wine and decided instead to use dry vermouth as a base for an infusion of additional herbs. The primary flavors in dry vermouth are rosemary, thyme, lavender, and anise–the same botanicals that make up the herbes de Provence blend used in cooking. To extract and transfuse flavors, we use a hot infusion method to create just a small amount of highly concentrated liquid that can be blended with the rest of a bottle of vermouth without cooking out all the alcohol. This controlled method of infusing reduces the amount of contact between alcohol and herbs–if left to steep too long, the finish is bitter. EO Vermouth de Provence is one of the key ingredients in the Provençal cocktail. Makes 1 quart.
     ingredients: 
     - 2 tablespoons herbes de Provence
     - 1 (750 ml) bottle Noilly Prat dry vermouth
@@ -199,7 +214,8 @@ recipes:
     - Bottle and store at room temperature. 
     - Will keep indefinitely.
   - name: Chai-Infused Sweet Vermouth
-    notes: Whereas dry vermouths are herbal, sweet vermouths are spice driven. When we decided to formulate our own sweet vermouth infusion with a deep, accentuated spiciness, we found the perfect warmth and fragrance in chai–the much-loved blend of black tea, cardamom, clove, cinnamon, and ginger. The resulting flavor is so sexy that you will feel like you have been kissed by a Bollywood beauty. This intoxicating concoction is the defining ingredient in our Mata Hari cocktail. Makes 1 quart.
+    notes: |+2
+      Whereas dry vermouths are herbal, sweet vermouths are spice driven. When we decided to formulate our own sweet vermouth infusion with a deep, accentuated spiciness, we found the perfect warmth and fragrance in chai–the much-loved blend of black tea, cardamom, clove, cinnamon, and ginger. The resulting flavor is so sexy that you will feel like you have been kissed by a Bollywood beauty. This intoxicating concoction is the defining ingredient in our Mata Hari cocktail. Makes 1 quart.
     ingredients: 
     - 4 green cardamom pods
     - 4 whole cloves
@@ -216,7 +232,8 @@ recipes:
     - Bottle and store at room temperature. 
     - Will keep indefinitely.
   - name: Red Bush-Infused Vermouth
-    notes: This tea-infused vermouth was developed by EO bartender Milos Zica for the Quiet Storm cocktail. Also known as rooibos, South African red bush tea is a robust herbal tea with a rich mahogany color. We recommend the Silence rooibos tea blend from T Salon, which is where the cocktail's name partially derives from. Like the Vermouth de Provence, this vermouth is created with the hot infusion method that requires steeping the tea and other ingredients in a small amount of vermouth to make a concentrate. The color of this infused vermouth is a rich pumpkin orange. Makes ¾ quart.
+    notes: |+2
+      This tea-infused vermouth was developed by EO bartender Milos Zica for the Quiet Storm cocktail. Also known as rooibos, South African red bush tea is a robust herbal tea with a rich mahogany color. We recommend the Silence rooibos tea blend from T Salon, which is where the cocktail's name partially derives from. Like the Vermouth de Provence, this vermouth is created with the hot infusion method that requires steeping the tea and other ingredients in a small amount of vermouth to make a concentrate. The color of this infused vermouth is a rich pumpkin orange. Makes ¾ quart.
     ingredients: 
     - 1 (750 ml) bottle Dolin Blanc vermouth
     - 1 tablespoon T Salon Silence red rooibos tea
@@ -230,7 +247,8 @@ recipes:
     - Store at room temperature. 
     - Will keep indefinitely.
   - name: Lavender-Infused Gin
-    notes: Plymouth gin has a slightly floral nature. We accentuated it with dried lavender, creating a fast and versatile infusion with many possibilities. This infusion is visually stunning–the herb colors the gin with a slight hue of dark lavender. We use it as the base for our Provençal cocktail and recommend it for making a lavender fizz or even an Aviation cocktail made with lemon juice, maraschino liqueur, and infused gin. Makes 1 quart.
+    notes: |+2
+      Plymouth gin has a slightly floral nature. We accentuated it with dried lavender, creating a fast and versatile infusion with many possibilities. This infusion is visually stunning–the herb colors the gin with a slight hue of dark lavender. We use it as the base for our Provençal cocktail and recommend it for making a lavender fizz or even an Aviation cocktail made with lemon juice, maraschino liqueur, and infused gin. Makes 1 quart.
     ingredients: 
     - 2 teaspoons organic dried lavender
     - 1 (1-liter) bottle Plymouth gin
@@ -243,14 +261,16 @@ recipes:
     - Store at room temperature away from sunlight. 
     - Will keep indefinitely.
   - name: Peach-Infused Bourbon
-    notes: Peaches and bourbon is about as Southern as you can get. Drying the fruit before steeping is key–the flavors are concentrated and yield a strong, clean peach essence; fresh fruit, on the other hand, releases its water into the liquid and dilutes the infusion. The only problem with dried peaches is that they will soak up some of the bourbon, resulting in some loss, but it is worth it. Today, high-quality dried peaches are available in most supermarkets, which greatly simplifies the process. When the infused bourbon is tasted straight, the fruit flavor may seem subdued, but mixing it with sugar or sweetened ingredients awakens the peachiness. We created this infusion for our Pêche Bourbon cocktail. Makes ¾ quart.
+    notes: |+2
+      Peaches and bourbon is about as Southern as you can get. Drying the fruit before steeping is key–the flavors are concentrated and yield a strong, clean peach essence; fresh fruit, on the other hand, releases its water into the liquid and dilutes the infusion. The only problem with dried peaches is that they will soak up some of the bourbon, resulting in some loss, but it is worth it. Today, high-quality dried peaches are available in most supermarkets, which greatly simplifies the process. When the infused bourbon is tasted straight, the fruit flavor may seem subdued, but mixing it with sugar or sweetened ingredients awakens the peachiness. We created this infusion for our Pêche Bourbon cocktail. Makes ¾ quart.
     ingredients: 
     - 12 dried organic unsulphured peach halves
     - 1 (1-liter) bottle Maker's Mark bourbon
     steps:
     - Place the peaches and bourbon in a large covered glass container or cookie jar. Let rest for 3 days, then strain into the bottle. Store at room temperature. Will keep indefinitely.
   - name: English Bourbon
-    notes: How to Mix Drinks or the Bon Vivant's Companion offers a recipe for English Bishop that involves sketchy directions and an open fire. It took some trial and error, but we adapted it to a standard oven. The infusion can be a cocktail sipped on its own, or an ingredient that can be mixed into other cocktails; we use it in our Jersey Devil cocktail. Makes about ¾ quart.
+    notes: |+2
+      How to Mix Drinks or the Bon Vivant's Companion offers a recipe for English Bishop that involves sketchy directions and an open fire. It took some trial and error, but we adapted it to a standard oven. The infusion can be a cocktail sipped on its own, or an ingredient that can be mixed into other cocktails; we use it in our Jersey Devil cocktail. Makes about ¾ quart.
     ingredients: 
     - 1 orange
     - 30 whole cloves
@@ -265,7 +285,8 @@ recipes:
     - Allow to cool, strain out any debris, and bottle. 
     - Will keep for 2 weeks, refrigerated.
   - name: Absinthe Bitters
-    notes: Poring through old cocktail books, we noted that every reputable bar had a house recipe for bitters. Originally we played with infusing bitter herbs and spices in absinthe but found the task too time-consuming and the results too inconsistent. We settled instead on a blend of different absinthes, Green Chartreuse, and bitters to create just the right balance of anise and bitterness. Makes 1 quart.
+    notes: |+2
+      Poring through old cocktail books, we noted that every reputable bar had a house recipe for bitters. Originally we played with infusing bitter herbs and spices in absinthe but found the task too time-consuming and the results too inconsistent. We settled instead on a blend of different absinthes, Green Chartreuse, and bitters to create just the right balance of anise and bitterness. Makes 1 quart.
     ingredients: 
     - 3 cups Pernod 68 absinthe
     - ½ cup Green Chartreuse
@@ -279,7 +300,8 @@ recipes:
     - Will keep indefinitely.
 
   - name: Employees Only Chicken Soup
-    notes: Every night around 4 a.m. at Employees Only, we offer up a hot cup of chunky chicken soup to the survivors of the long, cruel night. It is a tradition came by way of Greek night clubs. It is how we say “thank you” and “good night” to all the people who might expect one more drink. Makes 4½ to 5 quarts.
+    notes: |+2
+      Every night around 4 a.m. at Employees Only, we offer up a hot cup of chunky chicken soup to the survivors of the long, cruel night. It is a tradition came by way of Greek night clubs. It is how we say “thank you” and “good night” to all the people who might expect one more drink. Makes 4½ to 5 quarts.
     ingredients: 
     - 1 whole chicken, about 3½ pounds, rinsed
     - 1 onion, cut into quarters

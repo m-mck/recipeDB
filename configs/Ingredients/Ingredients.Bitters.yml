@@ -2,7 +2,8 @@ source: "Bitters: A Spirited History of a Classic Cure-All, With Cocktails, Reci
 hidden: true
 recipes:
   - name: Ginger-Lime Syrup
-    notes: Makes about 1½ cups.
+    notes: |+2
+      Makes about 1½ cups.
     ingredients: 
     - 1 cup sugar
     - 1 cup water
@@ -11,7 +12,8 @@ recipes:
     steps:
     - In a medium saucepan, combine the sugar, water, ginger, and lime zest and bring to a simmer, stirring occasionally to dissolve the sugar. At the first crack of a boil, remove from the heat. Once it has cooled, pour the syrup through a strainer and store in a glass jar. The syrup will keep in the refrigerator for up to a month.
   - name: Pineapple Syrup
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 1 cup sugar
     - 1 cup water
@@ -19,20 +21,23 @@ recipes:
     steps:
     - In a medium saucepan, combine the sugar and water and bring to a simmer, stirring occasionally to dissolve the sugar. At the first crack of a boil, remove from the heat. Once it has cooled, add the pineapple chunks, cover, and allow to steep overnight in the refrigerator. Pour the syrup through a strainer and store in a glass jar. The syrup will keep in the refrigerator for up to a month.
   - name: Blood Orange Reduction
-    notes: This is best made using fresh blood oranges, but if they're out of season you can use freshly squeezed orange juice instead, adding some pomegranate juice and a splash of grenadine to taste. Makes about ⅔ cup.
+    notes: |+2
+      This is best made using fresh blood oranges, but if they're out of season you can use freshly squeezed orange juice instead, adding some pomegranate juice and a splash of grenadine to taste. Makes about ⅔ cup.
     ingredients: 
     - 1 cup freshly squeezed blood orange juice
     steps:
     - In a small saucepan, bring the blood orange juice to a boil over medium-high heat and boil until reduced by a third. Remove from the heat and let cool.
   - name: Rye Whiskey Syrup
-    notes: Makes 1 cup.
+    notes: |+2
+      Makes 1 cup.
     ingredients: 
     - 1 cup sugar
     - 1 cup rye
     steps:
     - In a medium saucepan, bring the sugar and rye to a simmer, stirring occasionally to dissolve the sugar. At the first crack of a boil, remove from the heat. Let cool completely, then store the syrup in a glass jar. Due to the alcohol, the syrup will keep in the refrigerator for several months.
   - name: Sour Cherry Syrup
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 1 cup sugar
     - 1 cup water
@@ -40,7 +45,8 @@ recipes:
     steps:
     - In a medium saucepan, bring the sugar, water, sour cherries, and any of their juices to a simmer, stirring occasionally to dissolve the sugar and pressing the cherries with the back of a wooden spoon to help break them down. At the first crack of a boil, remove from the heat. Once cooled, pour the syrup through a strainer, discard the cherries, and store in a glass jar. The syrup will keep in the refrigerator for up to a month.
   - name: Cranberry Syrup
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 1 cup sugar
     - 1 cup water
@@ -49,14 +55,16 @@ recipes:
     steps:
     - In a medium saucepan, bring the sugar, water, cranberries, and cinnamon stick to a simmer, stirring occasionally to dissolve the sugar and pressing the cranberries with the back of a wooden spoon to help break them down. At the first crack of a boil, remove from the heat. Once cooled, pour the syrup through a strainer, discard the solids, and store in a glass jar. The syrup will keep in the refrigerator for up to a month.
   - name: Honey Syrup
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 1 cup honey
     - 1 cup hot water
     steps:
     - Combine the honey and hot water in a bowl and whisk to dissolve. Once cooled completely, pour the syrup into a glass jar. The syrup will keep in the refrigerator for up to a month.
   - name: Rosemary Syrup
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 1 cup sugar
     - 1 cup water
@@ -64,20 +72,23 @@ recipes:
     steps:
     - In a medium saucepan, bring the sugar, water, and rosemary to a simmer, stirring occasionally to dissolve the sugar. At the first crack of a boil, remove from the heat. Once cooled completely, pour the syrup through a strainer, discard the rosemary, and store in a glass jar. The syrup will keep in the refrigerator for up to a month.
   - name: Rosemary Tincture
-    notes: Makes 1 cup.
+    notes: |+2
+      Makes 1 cup.
     ingredients: 
     - ½ cup fresh rosemary needles
     - 1 cup high-proof (80 to 100 proof) vodka or Everclear
     steps:
     - Crush the rosemary needles using a mortar and pestle and transfer to a glass jar. Cover the needles with the vodka, cover the jar, shake, and store in a cool, dark place. The alcohol will begin to turn green as it leaches the oils from the rosemary. Shake and taste the infusion daily until it reaches the desired intensity, anywhere from a few days to up to 2 weeks. When the tincture is ready, strain the solution through cheesecloth and, using a funnel, pour into small eyedropper bottles or an atomizer.
   - name: Mexican Coca-Cola Reduction
-    notes: Makes about 6 ounces.
+    notes: |+2
+      Makes about 6 ounces.
     ingredients: 
     - 12-ounce bottle Mexican Coca-Cola
     steps:
     - In a small saucepan, bring the Coca-Cola to boil over medium-high heat and boil until reduced by half. Remove from the heat and let cool. The reduction will keep in the refrigerator for up to a week.
   - name: Lemon-Basil Syrup
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 1 cup sugar
     - 1 cup water
@@ -86,7 +97,8 @@ recipes:
     steps:
     - Rinse the basil leaves in water and let dry on a towel. In a medium saucepan, bring the sugar, water, basil, and lemon zest to a simmer, stirring occasionally to dissolve the sugar and pressing the basil against the pan with the back of a wooden spoon. At the first crack of a boil, remove from the heat. Once cooled, pour the syrup through a strainer, discard the basil, and store in a glass jar. The syrup will keep in the refrigerator for up to a month.
   - name: Lemon Syrup
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 1 cup sugar
     - 1 cup water
@@ -94,7 +106,8 @@ recipes:
     steps:
     - In a medium saucepan, bring the sugar, water, and lemon zest to a simmer, stirring occasionally to dissolve the sugar. At the first crack of a boil, remove from the heat. Once cooled, pour the syrup through a strainer, discard the lemon zest, and store in a glass jar. The syrup will keep in the refrigerator for up to a month.
   - name: Blood Orange Syrup
-    notes: If blood oranges are out of season you can use freshly squeezed orange juice, adding some pomegranate juice and a splash of grenadine to taste. Makes 1½ cups.
+    notes: |+2
+      If blood oranges are out of season you can use freshly squeezed orange juice, adding some pomegranate juice and a splash of grenadine to taste. Makes 1½ cups.
     ingredients: 
     - 1 cup sugar
     - 1 cup water
@@ -102,7 +115,8 @@ recipes:
     steps:
     - In a medium saucepan, bring the sugar, water, and blood orange zest and juice to a boil, stirring occasionally to dissolve the sugar. At the first crack of a boil, remove from the heat. Once cooled, pour the syrup through a strainer, discard the orange zest, and store in a glass jar. The syrup will keep in the refrigerator for a few days.
   - name: Blackberry-Lime Syrup
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 1 cup sugar
     - 1 cup water
@@ -111,14 +125,16 @@ recipes:
     steps:
     - In a medium saucepan, combine the sugar, water, blackberries, and lime zest and bring to a simmer, stirring occasionally to dissolve the sugar and pressing the blackberries against the side of the pan with the back of a wooden spoon. At the first crack of a boil, remove from the heat. Once cooled, pour the syrup through a strainer, discard the solids, and store in a glass jar. The syrup will keep in the refrigerator for up to a month.
   - name: Tea-Infused Bourbon
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 2 cups bourbon
     - 2 bags Earl Grey or other black tea
     steps:
     - Pour the bourbon into a jar and add the tea bags. Allow to steep for 15 minutes, then remove the tea bags. The tea-infused bourbon will last indefinitely, but for optimum flavor use within a year.
   - name: Smoked Lemonade
-    notes: Makes about 1 quart.
+    notes: |+2
+      Makes about 1 quart.
     ingredients: 
     - Enough wood chips to completely cover the bottom of your smoker
     - 6 to 8 large lemons
@@ -128,13 +144,15 @@ recipes:
     - Soak the wood chips in tap water to cover for 30 minutes. Remove the chips from the water and line the bottom of your smoker with them. Slice the lemons in half and lay them across the smoking grate, flesh side down. Place the smoker on a single burner over medium heat. Once the wood chips begin to emit wisps of smoke, seal the smoker and smoke the lemons for at least 30 minutes and up to an hour—they should be soft and still have some give. Remove from the heat and allow to cool before opening the smoker. Juice the lemons into a glass jar with a lid. Measure out ½ cup smoked lemon juice. Save the rest for another use.
     - Combine the ½ cup smoked lemon juice and the simple syrup in a 2-quart glass pitcher and stir. Taste and adjust the ratio of lemon juice to simple syrup to reach your preferred balance of sweet and sour, then add enough seltzer to reach your preferred level of smokiness.
   - name: Cider Reduction
-    notes: Makes ½ cup.
+    notes: |+2
+      Makes ½ cup.
     ingredients: 
     - 1 cup apple cider
     steps:
     - In a small saucepan, bring the apple cider to a boil and cook until the liquid is reduced by half, about 30 minutes. Allow to cool before using. The reduction will keep in the refrigerator for up to a week.
   - name: Cinnamon Syrup
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 1 cup water
     - 1 cup sugar
@@ -142,7 +160,8 @@ recipes:
     steps:
     - In a medium saucepan, combine the water, sugar, and cinnamon stick. Bring to a simmer, stirring occasionally to dissolve the sugar. At the first crack of a boil, remove from the heat. Once cooled, remove the cinnamon sticks and store the syrup in a glass jar. The syrup will keep in the refrigerator for up to a month.
   - name: Lime Syrup
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 1 cup sugar
     - 1 cup water

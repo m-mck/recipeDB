@@ -6,7 +6,8 @@ recipes:
 #The Edible Negronis
   - name: Negroni Popsicle
     author: Jake Godby
-    notes: What could be more refreshing than walking around on a hot summer's day with one of these to keep your mouth watering, huh? Makes about 12 popdicles, depending on the size of your mold.
+    notes: |+2
+      What could be more refreshing than walking around on a hot summer's day with one of these to keep your mouth watering, huh? Makes about 12 popdicles, depending on the size of your mold.
     ingredients:
     - 1 cup water
     - ½ cup sugar
@@ -21,7 +22,8 @@ recipes:
       - the edible negronis
   - name: Negroni Cheesecake
     author: Monica Berg
-    notes: Monica created this recipe when she worked at Aqua Vitae in Oslo, Norway. I first met her a few years ago when visiting the good folk at G'Vine Gin in Cognac, France, where we had some damned good chin-wags and capped off the week with a drunken yoga session at around midnight. She now works at the Pollen Street Social in London, where she can keep a close eye on her beau, Alex Kratena of London's Artesian bar. I think of them as the royal family of cocktailians in the UK. Back when Monica was still working in Oslo, she noted that the Negroni Cheesecake basically started out as a joke but became a tradition for birthdays and staff parties. Note that the raspberry-infused Campari for the topping must rest overnight, so plan accordingly. Makes 8 to 12 servings.
+    notes: |+2
+      Monica created this recipe when she worked at Aqua Vitae in Oslo, Norway. I first met her a few years ago when visiting the good folk at G'Vine Gin in Cognac, France, where we had some damned good chin-wags and capped off the week with a drunken yoga session at around midnight. She now works at the Pollen Street Social in London, where she can keep a close eye on her beau, Alex Kratena of London's Artesian bar. I think of them as the royal family of cocktailians in the UK. Back when Monica was still working in Oslo, she noted that the Negroni Cheesecake basically started out as a joke but became a tradition for birthdays and staff parties. Note that the raspberry-infused Campari for the topping must rest overnight, so plan accordingly. Makes 8 to 12 servings.
     ingredients:
     - 3½ ounces fresh raspberries
     - ⅔ cup Campari
@@ -48,7 +50,8 @@ recipes:
       - the edible negronis
   - name: Parson's Negroni Slushy
     author: Charlie Schott
-    notes: Makes 2 or 3 servings. Charlie kindly adjusted Parson's recipe for this slushy, figuring that you probably don't have a slushy machine. The recipe here works well in a blender. Or, if you have an ice cream machine, add around 4½ ounces of water for the best results. The Luxardo Bitter, by the way, brings a nice ripe cherry note to the potion.
+    notes: |+2
+      Makes 2 or 3 servings. Charlie kindly adjusted Parson's recipe for this slushy, figuring that you probably don't have a slushy machine. The recipe here works well in a blender. Or, if you have an ice cream machine, add around 4½ ounces of water for the best results. The Luxardo Bitter, by the way, brings a nice ripe cherry note to the potion.
     ingredients:
     - 2 ounces Letherbee gin
     - 2 ounces sweet vermouth
@@ -63,7 +66,8 @@ recipes:
       - the edible negronis
   - name: Negroni Ice Cream
     author: Natasha Case & Freya Estreller
-    notes: Makes about 6 servings. When making this ice cream, use the freshest eggs available for best results. If possible, refrigerate the base for a full 24 hours—the longer, the better. We like to chill our bases in plastic or stainless steel pitchers (with airtight lids) for easy pouring into the ice cream maker after chilling.
+    notes: |+2
+      Makes about 6 servings. When making this ice cream, use the freshest eggs available for best results. If possible, refrigerate the base for a full 24 hours—the longer, the better. We like to chill our bases in plastic or stainless steel pitchers (with airtight lids) for easy pouring into the ice cream maker after chilling.
     ingredients:
     - 2 cups whole milk
     - 2 cups heavy cream
@@ -87,7 +91,8 @@ recipes:
       - the edible negronis
   - name: Negroni Caramel Popcorn
     author: Stephen Lee
-    notes: Makes about 8 servings. Many thanks to Stephen for sending me this recipe for Perbacco's spectacular Negroni popcorn.
+    notes: |+2
+      Makes about 8 servings. Many thanks to Stephen for sending me this recipe for Perbacco's spectacular Negroni popcorn.
     ingredients:
     - 8 cups popped popcorn
     - 1 cup granulated sugar

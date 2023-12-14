@@ -4,7 +4,8 @@ recipes:
 
 #
   - name: Raspberry Syrup
-    notes: Makes 1 quart.
+    notes: |+2
+      Makes 1 quart.
     ingredients: 
     - 1 cup raspberries
     - 2 cups granulated sugar
@@ -14,7 +15,8 @@ recipes:
     - Pour through a chinois strainer to remove solids and transfer to an airtight container. 
     - Store in the refrigerator for up to 2 weeks.
   - name: Eucalyptus Tincture
-    notes: Makes 20 ounces.
+    notes: |+2
+      Makes 20 ounces.
     ingredients: 
     - 2 oz (by weight) eucalyptus leaves, washed
     - 9 oz Spirytus Rektyfikowany or other everclear alcohol 
@@ -25,7 +27,8 @@ recipes:
     - Strain, add the water, and bottle. 
     - Store in the refrigerator indefinitely.
   - name: Rhubarb Syrup
-    notes: Makes 1 cup. 
+    notes: |+2
+      Makes 1 cup. 
     ingredients: 
     - ½ lb rhubarb cut into 1-inch cubes
     - ½ lb cleaned and hulled strawberries
@@ -39,7 +42,8 @@ recipes:
     - Blend with an immersion blender and then transfer to an airtight container. 
     - Store in the refrigerator for up to 4 weeks.
   - name: Watermelon Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 2 cups cubed seedless watermelon
     - ¾ cup superfine sugar
@@ -49,7 +53,8 @@ recipes:
     - Transfer to an airtight container. 
     - Store in the refrigerator for up to 2 weeks.
   - name: Fig-Infused Rancho Tepua Bacanora Blanco
-    notes: Makes 750 mL.
+    notes: |+2
+      Makes 750 mL.
     ingredients: 
     - 5 medim figs
     - 750 ml Rancho Tepua Bacanora Blanco
@@ -60,7 +65,8 @@ recipes:
     - Pour through a chinois strainer to remove solids and bottle. 
     - Store in the refrigerator indefinitely.
   - name: Serrano Syrup
-    notes: Makes 8 ounces.
+    notes: |+2
+      Makes 8 ounces.
     ingredients: 
     - 4 serrano peppers (preferably red or orange)
     - 2 oz water
@@ -71,7 +77,8 @@ recipes:
     - Add the water and nectar to the serrano juice. Stir to integrate, then fine-strain and bottle. 
     - Store in the refrigerator for up to 2 weeks.
   - name: Mole Negro Kahlua
-    notes: Makes 1 quart.
+    notes: |+2
+      Makes 1 quart.
     ingredients: 
     - 5 oz mole negro paste
     - 750 ml Kahlua Coffee Liqueur
@@ -80,7 +87,8 @@ recipes:
     - Transfer to an airtight container. 
     - Store in the refrigerator indefinitely.
   - name: Tumericane
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 2 tsp powdered turmeric
     - 1 cup water
@@ -91,7 +99,8 @@ recipes:
     - Remove from the heat, allow to cool, and bottle. 
     - Store in the refrigerator for up 1 month.
   - name: Mace-Infused Tapatio 110 Tequila Blanco
-    notes: Makes 10 ounces.
+    notes: |+2
+      Makes 10 ounces.
     ingredients: 
     - 10 oz Tapatio 110 Tequila Blanco
     - 1 tbsp dried and ground mace
@@ -100,7 +109,8 @@ recipes:
     - Strain through a chinois and bottle. 
     - Store refrigerated indefinitely.
   - name: Passion Fruit Syrup
-    notes: Makes 4 ounces.
+    notes: |+2
+      Makes 4 ounces.
     ingredients: 
     - 3 oz Perfect Purée passion fruit puree
     - 1 oz superfine sugar
@@ -108,7 +118,8 @@ recipes:
     - Combine the ingredients in a blender, blend until dissolved and integrated, and bottle. 
     - Store in the refrigerator for up to 1 month.
   - name: Guava Syrup
-    notes: Makes 7 ounces.
+    notes: |+2
+      Makes 7 ounces.
     ingredients: 
     - 4 oz Perfect Purée pink guava puree
     - 4 oz superfine sugar
@@ -118,7 +129,8 @@ recipes:
     - Transfer to an airtight container. 
     - Store in the refrigerator for up to 1 month.
   - name: Donn's Mix
-    notes: Makes 3 ounces.
+    notes: |+2
+      Makes 3 ounces.
     ingredients: 
     - 2 oz grapefruit juice
     - 1 oz Cinnamon Bark Syrup
@@ -126,7 +138,8 @@ recipes:
     - Combine the ingredients in a glass and stir to fully incorporate. 
     - Store in the refrigerator for up to 4 days.
   - name: Spicy Salt
-    notes: Yields 4 tablespoons.
+    notes: |+2
+      Yields 4 tablespoons.
     ingredients: 
     - 2 Tbsp superfine sugar
     - 1 Tbsp ground pink peppercorns
@@ -135,7 +148,8 @@ recipes:
     - Add the sugar, pink peppercorns, and salt to a bowl and stir to integrate. 
     - Store in an airtight jar in a cool dry place indefinitely.
   - name: Poblano Syrup
-    notes: Makes 3 cups.
+    notes: |+2
+      Makes 3 cups.
     ingredients: 
     - 8 poblano peppers, stemmed but not seeded
     - 1 cup agave nectar
@@ -144,7 +158,8 @@ recipes:
     - Add the juice and agave nectar to a blender, blend until integrated, and bottle. 
     - Store in the refrigerator for up to 2 weeks.
   - name: Sandalwood Tincture
-    notes: Makes 8 ounces.
+    notes: |+2
+      Makes 8 ounces.
     ingredients: 
     - 6 drops sandalwood oil
     - 8 oz Polmos Spirytus Rektyfikowany
@@ -152,7 +167,8 @@ recipes:
     - In a blender, combine the sandalwood oil and Spirytus and blend for 30 seconds on high speed. 
     - Store in an airtight jar in a cool dry place indefinitely.
   - name: Ginger Syrup
-    notes: Makes 6 ounces.
+    notes: |+2
+      Makes 6 ounces.
     ingredients: 
     - About five 1-inch cubes fresh ginger
     - 1 cup superfine sugar
@@ -162,7 +178,8 @@ recipes:
     - Remove from the heat immediately, allow to cool, and then bottle. 
     - Store in the refrigerator for up to 4 weeks.
   - name: Kola Syrup
-    notes: Makes 1 quart.
+    notes: |+2
+      Makes 1 quart.
     ingredients: 
     - 3 cups white sugar
     - 2 tsp dark brown sugar
@@ -185,7 +202,8 @@ recipes:
     steps:
     - Add both sugars, the water, vanilla bean, star anise, juniper berries, cinnamon bark, ginger, nutmeg, and all the zests to a pot and bring to a simmer over medium heat; cook for 10 minutes. Allow to cool overnight (about 10 hours). Run through a chinois strainer and add the lime juice, kola extract, mate extract, Angostura bitters, phosphoric acid, and molasses and stir. Transfer to an airtight container. Store in the refrigerator for up to 1 month.
   - name: Coconut-Infused Clément Rhum Canne Bleue
-    notes: Makes 750 mL.
+    notes: |+2
+      Makes 750 mL.
     ingredients: 
     - 2 Tbsp coconut oil
     - 750 ml Clément Rhum Canne Bleue
@@ -196,7 +214,8 @@ recipes:
     - The next day, strain off the frozen solidified oil through a cheesecloth. 
     - Store in the refrigerator indefinitely.
   - name: Tea-Infused Singani 63
-    notes: Makes 750 mL.
+    notes: |+2
+      Makes 750 mL.
     ingredients: 
     - 4 Tbsp gunpowder green tea
     - 750 ml Singani 63
@@ -205,7 +224,8 @@ recipes:
     - Allow to infuse for 20 minutes, run through a chinois strainer, and bottle. 
     - Stored refrigerated indefinitely.
   - name: Yerba Mate-Infused BarSol Italia Selecto Peruvian Pisco
-    notes: Makes 750 mL.
+    notes: |+2
+      Makes 750 mL.
     ingredients: 
     - 3 Tbsp yerba mate
     - 750 ml pisco
@@ -214,7 +234,8 @@ recipes:
     - Fine-strain through a coffee filter and rebottle. 
     - Store in the refrigerator indefinitely.
   - name: Tepache
-    notes: Makes 3 quarts.
+    notes: |+2
+      Makes 3 quarts.
     ingredients: 
     - Skins and leftover pulp from the juicing of 1 large pineapple, yielding about 1 qt
     - 1 cone piloncillo or panela sugar (You can use about 1 cup raw sugar if you can't find panela)
@@ -228,7 +249,8 @@ recipes:
     - Pass through a chinois strainer and then bottle. 
     - Store in the refrigerator for up to 1 month.
   - name: Jalapeño Syrup
-    notes: Makes 6 ounces.
+    notes: |+2
+      Makes 6 ounces.
     ingredients: 
     - 5 or 6 jalapeños
     - 2 oz agave nectar
@@ -237,7 +259,8 @@ recipes:
     - Add the agave nectar, whisk together to integrate, and bottle. 
     - Store in the refrigerator for up to 2 weeks.
   - name: Agave Syrup
-    notes: Makes approximately 12 ounces.
+    notes: |+2
+      Makes approximately 12 ounces.
     ingredients: 
     - 8 oz agave nectar
     - 4 oz water
@@ -245,7 +268,8 @@ recipes:
     - Combine the agave and water in a blender and blend until fully integrated.
     - Bottle.
   - name: Cane Syrup
-    notes: Makes approximately 1½ cups.
+    notes: |+2
+      Makes approximately 1½ cups.
     ingredients: 
     - 1 cup cane sugar
     - 4 oz water
@@ -254,7 +278,8 @@ recipes:
     - Stir until the sugar is fully dissolved and integrated. 
     - Remove from the heat, let cool, and bottle.
   - name: Cardamom Tincture
-    notes: Makes approximately 750 mL (1 bottle) after straining
+    notes: |+2
+      Makes approximately 750 mL (1 bottle) after straining
     ingredients: 
     - ½ cup ground cardamom pods
     - 750 ml Polmos Spirytus Rektyfikowany or other 190 proof everclear
@@ -263,7 +288,8 @@ recipes:
     - Allow to sit unrefrigerated for 24 hours. 
     - Strain and bottle.
   - name: Cinnamon Bark Syrup
-    notes: Makes approximately 2 cups.
+    notes: |+2
+      Makes approximately 2 cups.
     ingredients: 
     - 10 g cinnamon bark (about 4 sticks, crushed)
     - 1 cup superfine sugar
@@ -273,7 +299,8 @@ recipes:
     - Remove from the heat and let cool for 15 minutes. 
     - Run through a chinois strainer and then bottle.
   - name: Demerara Syrup
-    notes: Makes approximately 1½ cups.
+    notes: |+2
+      Makes approximately 1½ cups.
     ingredients: 
     - 1 cup Demerara sugar
     - 4 oz water
@@ -282,7 +309,8 @@ recipes:
     - Stir until the sugar is fully dissolved and integrated. 
     - Remove from the heat, let cool, and bottle.
   - name: Honey Syrup
-    notes: Makes approximately 12 ounces.
+    notes: |+2
+      Makes approximately 12 ounces.
     ingredients: 
     - 8 oz honey
     - 4 oz water
@@ -290,7 +318,8 @@ recipes:
     - Combine the honey and water in a blender and blend until fully integrated. 
     - Bottle.
   - name: House Aromatic Bitters
-    notes: Makes approximately 2 ounces.
+    notes: |+2
+      Makes approximately 2 ounces.
     ingredients: 
     - 1 oz Bitter Truth Aromatic Bitters
     - 1 oz Fee Brothers Old Fashion Aromatic Bitters
@@ -298,7 +327,8 @@ recipes:
     - Combine both bitters in a bowl and blend together. 
     - Rebottle.
   - name: House Orange Bitters
-    notes: Makes approximately 4 ounces.
+    notes: |+2
+      Makes approximately 4 ounces.
     ingredients: 
     - 3 oz Regan's Orange Bitters
     - 1 oz Angostura Orange Bitters
@@ -306,7 +336,8 @@ recipes:
     - Combine both bitters in a bowl and blend together. 
     - Rebottle.
   - name: Jalapeño-Infused Tequila
-    notes: Makes approximately 750 mL. The recipe for the jalapeño tequila will vary because not all jalapeños are equally spicy. You need to taste it frequently to make sure it's right. Ensure your tequila is not cold, as cold tequila will not infuse properly.
+    notes: |+2
+      Makes approximately 750 mL. The recipe for the jalapeño tequila will vary because not all jalapeños are equally spicy. You need to taste it frequently to make sure it's right. Ensure your tequila is not cold, as cold tequila will not infuse properly.
     ingredients: 
     - 4 jalapeños
     - 750 ml blanco tequila (I prefer tequila from the Tequila valley, such as Siembra Valles, Fortaleza, Arette, etc.)
@@ -317,7 +348,8 @@ recipes:
     - Add the tequila and allow to infuse for 12 to 20 minutes, depending on spice level desired. 
     - Rebottle.
   - name: Pineapple Syrup
-    notes: Makes approximately 2 quarts.
+    notes: |+2
+      Makes approximately 2 quarts.
     ingredients: 
     - 1 pineapple, cut into 1-inch cubes to yield about 28 oz
     - 1 qt superfine sugar
@@ -325,7 +357,8 @@ recipes:
     - Combine the pineapple and sugar in a bowl and place in refrigerator to macerate for 4 hours. 
     - Blend with an immersion blender and then strain through a colander and then through a chinois into 2-quart jar.
   - name: Saline Tincture
-    notes: Makes approximately 2 ounces.
+    notes: |+2
+      Makes approximately 2 ounces.
     ingredients: 
     - 1 Tbsp salt
     - 2 oz water
@@ -334,7 +367,8 @@ recipes:
     - Stir until the salt is fully dissolved and integrated. 
     - Remove from the heat, let cool, and bottle.
   - name: Simple Syrup
-    notes: Makes approximately 2 cups.
+    notes: |+2
+      Makes approximately 2 cups.
     ingredients: 
     - 1 cup superfine sugar
     - 1 cup water
@@ -343,7 +377,8 @@ recipes:
     - Stir until the sugar is fully dissolved and integrated. 
     - Remove from the heat, let cool, and bottle.
   - name: Vanilla Syrup
-    notes: Makes approximately 2 cups.
+    notes: |+2
+      Makes approximately 2 cups.
     ingredients: 
     - 1 vanilla bean
     - 1 cup superfine sugar

@@ -2,7 +2,8 @@ source: "The Aviary"
 recipes:
 
   - name: Gin and Tonic
-    notes: "This drink has never actually appeared on our menu: the labor involved in producing the number of spheres necessary for a full night of service is prohibitively high for us. This isn't to say this cocktail isn't delicious, however. And in situations where scale becomes less of an issue (such as in a home kitchen), this recipe becomes much more reasonable to make."
+    notes: |+2
+      "This drink has never actually appeared on our menu: the labor involved in producing the number of spheres necessary for a full night of service is prohibitively high for us. This isn't to say this cocktail isn't delicious, however. And in situations where scale becomes less of an issue (such as in a home kitchen), this recipe becomes much more reasonable to make."
     glassware: collins
     ingredients:
     - 2oz Junipero Gin
@@ -36,7 +37,8 @@ recipes:
       - citrus
       - sparkling
   - name: Edison Square
-    notes: This drink is derived, both in name and content, from a traditional Vieux Carré (a French phrase for “Old Square”). We began with an intensely aromatic caramel tea, and replaced the herbal notes classically provided by Bénédictine and vermouth with notes of chocolate, pistachio, and ancho chile.
+    notes: |+2
+      This drink is derived, both in name and content, from a traditional Vieux Carré (a French phrase for “Old Square”). We began with an intensely aromatic caramel tea, and replaced the herbal notes classically provided by Bénédictine and vermouth with notes of chocolate, pistachio, and ancho chile.
     glassware: novel
     ingredients:
     - 1 1/2oz caramel pu-erh tea syrup
@@ -77,7 +79,8 @@ recipes:
       - the aviary
       - shaken
   - name: Hurricane
-    notes: Here we highlight the various flavors that can go into a classic Hurricane. By simply observing the differences in the ingredients' densities, we find that - with a bit of care and patience - they can be layered.
+    notes: |+2
+      Here we highlight the various flavors that can go into a classic Hurricane. By simply observing the differences in the ingredients' densities, we find that - with a bit of care and patience - they can be layered.
     glassware: hurricane
     ingredients:
     - 1.75oz cranberry stock
@@ -95,7 +98,8 @@ recipes:
       - the aviary
       - citrus
   - name: Jab & Right Cross
-    notes: Inspired by two classic punches (Boston Club Punch and Punch à la Romaine), this cocktail also includes a meringue that we mix à la minute with granita just before serving, which adds an interesting and luxurious texture.
+    notes: |+2
+      Inspired by two classic punches (Boston Club Punch and Punch à la Romaine), this cocktail also includes a meringue that we mix à la minute with granita just before serving, which adds an interesting and luxurious texture.
     glassware: coupe
     ingredients:
     - 1oz Novo Fogo Silver Cachaça
@@ -116,7 +120,8 @@ recipes:
       - shaken
       - citrus
   - name: Margarita
-    notes: "This cocktail - one of the more straightforward ones we include - is designed to showcase one of our favorite tequilas. We use a light hand with technique to let this product shine, but the use of Fresno chili ice adds an extra dimension of interest. Because the ice consists mostly of water, it melts more slowly than other flavored ices found in this book. This allows a guest a bit of control: the slower the cocktail is consumed, the spicier it gets."
+    notes: |+2
+      "This cocktail - one of the more straightforward ones we include - is designed to showcase one of our favorite tequilas. We use a light hand with technique to let this product shine, but the use of Fresno chili ice adds an extra dimension of interest. Because the ice consists mostly of water, it melts more slowly than other flavored ices found in this book. This allows a guest a bit of control: the slower the cocktail is consumed, the spicier it gets."
     glassware: double rocks
     ingredients:
     - 2oz Tequila Fortaleza Blanco
@@ -132,7 +137,8 @@ recipes:
       - citrus
       - margarita
   - name: Green Thumb
-    notes: This drink is us trying to fit summer in a glass, then sit the glass on a bed of summer, then spray the whole thing with more summer. Summer all the way down.
+    notes: |+2
+      This drink is us trying to fit summer in a glass, then sit the glass on a bed of summer, then spray the whole thing with more summer. Summer all the way down.
     glassware: double rocks
     ingredients:
     - 2 pea shoots
@@ -183,7 +189,8 @@ recipes:
     tags:
       - the aviary
   - name: Honeydew Chartreuse
-    notes: First in a flight alongside Pineapple Chartreuse and Blueberry Chartreuse. Serves 6. Serve 1 1/4oz.
+    notes: |+2
+      First in a flight alongside Pineapple Chartreuse and Blueberry Chartreuse. Serves 6. Serve 1 1/4oz.
     glassware: rocks
     ingredients:
     - 122g Yellow Chartreuse
@@ -202,7 +209,8 @@ recipes:
       - flight
       - shaken
   - name: Pineapple Chartruese
-    notes: Second in a flight alongside Honeydew Chartreuse and Blueberry Chartreuse. Serves 6. Serve 2 1/2oz.
+    notes: |+2
+      Second in a flight alongside Honeydew Chartreuse and Blueberry Chartreuse. Serves 6. Serve 2 1/2oz.
     glassware: rocks
     ingredients:
     - 183g pineapple juice, extracted with juicer
@@ -221,7 +229,8 @@ recipes:
       - "the aviary: flights"
       - flight
   - name: Blueberry Chartruese
-    notes: Third in a flight alongside Honeydew Chartreuse and Pineapple Chartreuse. Serves 6. Serve 2 1/2oz.
+    notes: |+2
+      Third in a flight alongside Honeydew Chartreuse and Pineapple Chartreuse. Serves 6. Serve 2 1/2oz.
     glassware: rocks
     ingredients:
     - 310g blueberry juice, extracted with juicer
@@ -349,7 +358,8 @@ recipes:
       - the aviary
       - heated
   - name: Infernal Imagery
-    notes: Our inspiration for the flavor, visual presentation, and name of this cocktail originated from a tasting of Maurin Quina Apéritif, which features an example of “internal imagery” on the label of its bottle.
+    notes: |+2
+      Our inspiration for the flavor, visual presentation, and name of this cocktail originated from a tasting of Maurin Quina Apéritif, which features an example of “internal imagery” on the label of its bottle.
     glassware: rocks
     ingredients:
     - 1oz Clément V.S.O.P. Rhum Agricole Vieux
@@ -384,7 +394,8 @@ recipes:
       - n/a 
       - smoking gun
   - name: How Does Snoop Dogg Use Lemongrass?
-    notes: Featured on our inaugural menu, this play on a Moscow mule elaborates on the classic flavors of ginger and lime with those characteristic of traditional Thai cuisine. Serves 6.
+    notes: |+2
+      Featured on our inaugural menu, this play on a Moscow mule elaborates on the classic flavors of ginger and lime with those characteristic of traditional Thai cuisine. Serves 6.
     glassware: rocks
     ingredients:
     - 374g Karlsson's Gold Vodka
@@ -427,7 +438,8 @@ recipes:
       - carbonated
       - citrus
   - name: Scotch Soda
-    notes: "Serve alongside the Scotch Sour, Scotch Manhattan, and the Scotch Old Fashioned. Invite guests to taste drinks in the following order: scotch soda, scotch sour, scotch manhattan, scotch old fashioned. Serves 6."
+    notes: |+2
+      "Serve alongside the Scotch Sour, Scotch Manhattan, and the Scotch Old Fashioned. Invite guests to taste drinks in the following order: scotch soda, scotch sour, scotch manhattan, scotch old fashioned. Serves 6."
     glassware: rocks
     ingredients:
     - 218g Chivas Regal 18 Year Blended Scotch Whisky
@@ -446,7 +458,8 @@ recipes:
       - carbonated
       - "the aviary: a study of scotch"
   - name: Scotch Sour
-    notes: "The smaller portion size of this cocktail means that a shorter shaking time is required to avoid the risk of over-diluting it. Serve alongside the Scotch Soda, Scotch Manhattan, and the Scotch Old Fashioned. Invite guests to taste drinks in the following order: scotch soda, scotch sour, scotch manhattan, scotch old fashioned. Serves 6."
+    notes: |+2
+      "The smaller portion size of this cocktail means that a shorter shaking time is required to avoid the risk of over-diluting it. Serve alongside the Scotch Soda, Scotch Manhattan, and the Scotch Old Fashioned. Invite guests to taste drinks in the following order: scotch soda, scotch sour, scotch manhattan, scotch old fashioned. Serves 6."
     glassware: rocks
     ingredients:
     - 168g Chivas Regal 18 Year Blended Scotch Whisky
@@ -468,7 +481,8 @@ recipes:
       - shaken
       - "the aviary: a study of scotch"
   - name: Scotch Manhattan
-    notes: "Serve alongside the Scotch Soda, Scotch Sour, and the Scotch Old Fashioned. Invite guests to taste drinks in the following order: scotch soda, scotch sour, scotch manhattan, scotch old fashioned. Serves 6."
+    notes: |+2
+      "Serve alongside the Scotch Soda, Scotch Sour, and the Scotch Old Fashioned. Invite guests to taste drinks in the following order: scotch soda, scotch sour, scotch manhattan, scotch old fashioned. Serves 6."
     glassware: nick & nora
     ingredients:
     - 205g Chivas Regal 18 Year Blended Scotch Whisky
@@ -489,7 +503,8 @@ recipes:
       - stirred
       - "the aviary: a study of scotch"
   - name: Scotch Old Fashioned
-    notes: "Serve alongside the Scotch Soda, Scotch Sour, and the Scotch Manhattan. Invite guests to taste drinks in the following order: scotch soda, scotch sour, scotch manhattan, scotch old fashioned. Serves 6."
+    notes: |+2
+      "Serve alongside the Scotch Soda, Scotch Sour, and the Scotch Manhattan. Invite guests to taste drinks in the following order: scotch soda, scotch sour, scotch manhattan, scotch old fashioned. Serves 6."
     glassware: rocks
     ingredients:
     - 201g Chivas Regal 18 Year Blended Scotch Whisky
@@ -522,7 +537,8 @@ recipes:
       - citrus
       - carbonated
   - name: Jungle Bird
-    notes: The original Jungle Bird is thought to have originated at Aviary Bar in Kuala Lumpur in the late 1970s. It seemed only fitting that we develop our own version of this classic tiki drink.
+    notes: |+2
+      The original Jungle Bird is thought to have originated at Aviary Bar in Kuala Lumpur in the late 1970s. It seemed only fitting that we develop our own version of this classic tiki drink.
     glassware: collins
     ingredients:
     - 4.5oz jungle bird base
@@ -540,7 +556,8 @@ recipes:
       - citrus
       - shaken
   - name: Argentinian Soda Jerk
-    notes: The Fernet con Coca - widely heralded as the national drink of Argentina - is so popular there that Italian producer Fratelli Branca built a second Fernet distillery in Buenos Aires to address demand for the bitter liqueur. Interestingly, the Argentine formulation of the product is drier than its international counterpart, a subtle acknowledgement of the way it's generally consumed. Our riff - inspired by the 2016 Tour of South America menu at Next - adds a bit of depth and complexity to the traditional foundation of this drink.
+    notes: |+2
+      The Fernet con Coca - widely heralded as the national drink of Argentina - is so popular there that Italian producer Fratelli Branca built a second Fernet distillery in Buenos Aires to address demand for the bitter liqueur. Interestingly, the Argentine formulation of the product is drier than its international counterpart, a subtle acknowledgement of the way it's generally consumed. Our riff - inspired by the 2016 Tour of South America menu at Next - adds a bit of depth and complexity to the traditional foundation of this drink.
     glassware: novel
     ingredients:
     - 6oz Coca-Cola
@@ -557,7 +574,8 @@ recipes:
       - stirred
       - carbonated
   - name: Up the Ice Ante
-    notes: Inspired by the sound of shuffling poker chips and a desire to further challenge and grow our ice program, we asked Martin Kastner at Crucial Detail if he could develop a custom ice mold for this drink. The mildness of the horchata offers an accepting canvas for the myriad flavors released by the fast-melting ice chips.
+    notes: |+2
+      Inspired by the sound of shuffling poker chips and a desire to further challenge and grow our ice program, we asked Martin Kastner at Crucial Detail if he could develop a custom ice mold for this drink. The mildness of the horchata offers an accepting canvas for the myriad flavors released by the fast-melting ice chips.
     glassware: rocks
     ingredients:
     - 4oz Marcona rice milk
@@ -581,7 +599,8 @@ recipes:
       - the aviary
       - stirred
   - name: Loaded to the Gunwalls
-    notes: Serves 6.
+    notes: |+2
+      Serves 6.
     glassware: mug
     ingredients:
     - 278g hazelnut orgeat (serves 6)
@@ -657,7 +676,8 @@ recipes:
       - carbonated
       - shaken
   - name: Chai
-    notes: Portioned for two.
+    notes: |+2
+      Portioned for two.
     glassware: mug
     ingredients:
     - Chai Porthole Solids
@@ -677,7 +697,8 @@ recipes:
       - the aviary
       - "the aviary: porthole"
   - name: Heart of Stone
-    notes: Portioned for two.
+    notes: |+2
+      Portioned for two.
     glassware: mug
     ingredients:
     - Porthole Heart of Stone Solids
@@ -696,7 +717,8 @@ recipes:
       - the aviary
       - "the aviary: porthole"
   - name: The Hollow
-    notes: Portioned for two.
+    notes: |+2
+      Portioned for two.
     glassware: mug
     ingredients:
     - The Hollow Porthole Solids
@@ -716,7 +738,8 @@ recipes:
       - the aviary
       - "the aviary: porthole"
   - name: Blueberry
-    notes: Portioned for two.
+    notes: |+2
+      Portioned for two.
     glassware: mug
     ingredients:
     - Blueberry Porthole Solids
@@ -734,7 +757,8 @@ recipes:
       - the aviary
       - "the aviary: porthole"
   - name: Cranberry
-    notes: Portioned for two.
+    notes: |+2
+      Portioned for two.
     glassware: mug
     ingredients:
     - Porthole Cranberry Solids
@@ -755,7 +779,8 @@ recipes:
       - the aviary
       - "the aviary: porthole"
   - name: 3 in 441 (Non-Alcoholic)
-    notes: Portioned for two.
+    notes: |+2
+      Portioned for two.
     glassware: mug
     ingredients:
     - 3 in 441 (Non-Alcoholic) Porthole Solids
@@ -774,7 +799,8 @@ recipes:
       - "the aviary: porthole"
       - n/a
   - name: 3 in 441
-    notes: Portioned for two.
+    notes: |+2
+      Portioned for two.
     glassware: mug
     ingredients:
     - 3 in 441 Porthole Solids
@@ -796,7 +822,8 @@ recipes:
       - the aviary
       - "the aviary: porthole"
   - name: Mad World
-    notes: "Here we're playing with flavors of French onion soup: bourbon stands in for beef broth, Madeira takes the place of sherry, and the sweetness of caramelized onions is simplified by pear liqueur. A bit of lemon adds the refreshing brightness necessary to bring the drink into balance."
+    notes: |+2
+      "Here we're playing with flavors of French onion soup: bourbon stands in for beef broth, Madeira takes the place of sherry, and the sweetness of caramelized onions is simplified by pear liqueur. A bit of lemon adds the refreshing brightness necessary to bring the drink into balance."
     glassware: rocks
     ingredients:
     - 1 1/2oz Eagle Rare Bourbon Whiskey
@@ -836,7 +863,8 @@ recipes:
       - shaken
       - flame
   - name: Bring Another Smurf!
-    notes: The origin of this drink stems from our interest in making a blue cocktail using only naturally-occurring colors. In this case, we infuse tequila and mezcal with a deep blue pigment found in butterfly pea flowers. This pigment, we discovered, dramatically changes color (from deep blue to a light magenta) with the addition of acid. We wanted to share the excitement of seeing this color transformation with our guests, so we devised a way to temporarily sequester the blue tequila from an acidic cordial until the guest “stirs” the drink together. Serves 6.
+    notes: |+2
+      The origin of this drink stems from our interest in making a blue cocktail using only naturally-occurring colors. In this case, we infuse tequila and mezcal with a deep blue pigment found in butterfly pea flowers. This pigment, we discovered, dramatically changes color (from deep blue to a light magenta) with the addition of acid. We wanted to share the excitement of seeing this color transformation with our guests, so we devised a way to temporarily sequester the blue tequila from an acidic cordial until the guest “stirs” the drink together. Serves 6.
     glassware: novel
     ingredients:
     - 400g Tequila Cabeza
@@ -864,7 +892,8 @@ recipes:
       - flame
       - shaken
   - name: Chorizo
-    notes: We designed this drink in collaboration with the chefs across the hall at Next for their 2013 menu The Hunt. We wanted to create something that felt rough and a little bit savage.
+    notes: |+2
+      We designed this drink in collaboration with the chefs across the hall at Next for their 2013 menu The Hunt. We wanted to create something that felt rough and a little bit savage.
     glassware: novel
     ingredients:
     - 1 1/2oz Knob Creek Single Barrel Reserve bourbon
@@ -987,7 +1016,8 @@ recipes:
       - the aviary
       - "the aviary: two turtle doves"
   - name: Turtledove No. 2
-    notes: We use a combination of whole and skim milks here (rather than all whole milk) to offset the fat and viscosity provided by the macadamia nuts. The result is a texture we find pleasingly thick but not too heavy.
+    notes: |+2
+      We use a combination of whole and skim milks here (rather than all whole milk) to offset the fat and viscosity provided by the macadamia nuts. The result is a texture we find pleasingly thick but not too heavy.
     glassware: rocks
     ingredients:
     - 140g toasted macadamia nuts
@@ -1244,7 +1274,8 @@ recipes:
       - carbonated
       - smoking gun
   - name: Truffled Negroni
-    notes: Chef Achatz really likes negronis. He also likes truffles. So...
+    notes: |+2
+      Chef Achatz really likes negronis. He also likes truffles. So...
     glassware: bowl
     ingredients:
     - 1 1/2oz truffled gin
@@ -1260,7 +1291,8 @@ recipes:
       - stirred
       - negroni
   - name: Snake Blood
-    notes: This drink is typically part of a set tasting menu we offer at our Kitchen Table. We present the infusion vessel at the beginning of the menu, filling it with the relatively color-free cocktail and allowing it to infuse for the duration of the guest's visit. It's then poured as the final, small sip that concludes the experience.
+    notes: |+2
+      This drink is typically part of a set tasting menu we offer at our Kitchen Table. We present the infusion vessel at the beginning of the menu, filling it with the relatively color-free cocktail and allowing it to infuse for the duration of the guest's visit. It's then poured as the final, small sip that concludes the experience.
     glassware: nick & nora
     ingredients:
     - 1 1/2oz Dimmi Liquore Di Milano
@@ -1277,7 +1309,8 @@ recipes:
       - the aviary
       - stirred
   - name: Venerable
-    notes: Serves 6.
+    notes: |+2
+      Serves 6.
     glassware: nick & nora
     ingredients:
     - 128g Bénédictine
@@ -1307,7 +1340,8 @@ recipes:
       - flight
       - stirred
   - name: Trappist
-    notes: We've used a number of different Trappist beers throughout the life of this flight. We mention our favorite here, but encourage you to consider using this as a good excuse to explore this style of beer yourself.
+    notes: |+2
+      We've used a number of different Trappist beers throughout the life of this flight. We mention our favorite here, but encourage you to consider using this as a good excuse to explore this style of beer yourself.
     glassware: pint glass
     ingredients:
     - 4oz La Trappe Quadrupel
@@ -1353,7 +1387,8 @@ recipes:
       - carbonated
       - citrus
   - name: Monkey Tail
-    notes: If liquid nitrogen is not available, an ice cream maker may be used to freeze the daiquiri portion. The coffee portion may be layered on by pouring it gently over the back of a spoon held near the top of the daiquiri.
+    notes: |+2
+      If liquid nitrogen is not available, an ice cream maker may be used to freeze the daiquiri portion. The coffee portion may be layered on by pouring it gently over the back of a spoon held near the top of the daiquiri.
     glassware: novel
     ingredients:
     - 79g Amaro Averna
@@ -1381,7 +1416,8 @@ recipes:
       - shaken
       - citrus
   - name: Midnight Mary
-    notes: This very clean riff on a Bloody Mary is inspired in part by the process of “nitro-muddling” herbs into cocktails. We wanted a way to utilize this visually interesting technique in front of a guest while minimizing the need to strain or otherwise filter the cocktail during the presentation.
+    notes: |+2
+      This very clean riff on a Bloody Mary is inspired in part by the process of “nitro-muddling” herbs into cocktails. We wanted a way to utilize this visually interesting technique in front of a guest while minimizing the need to strain or otherwise filter the cocktail during the presentation.
     glassware: coupe
     ingredients:
     - 1 1/2oz North Shore Distillery Aquavit
@@ -1404,7 +1440,8 @@ recipes:
       - citrus
       - shaken
   - name: Carrot Is the New Tomato
-    notes: We drew inspiration for this cocktail by asking ourselves, “Can we make a drink with the vegetal, herbal qualities of a Bloody Mary, but with something other than tomato?” The result is this drink that offers a savory, rustic, freshly-foraged vibe.
+    notes: |+2
+      We drew inspiration for this cocktail by asking ourselves, “Can we make a drink with the vegetal, herbal qualities of a Bloody Mary, but with something other than tomato?” The result is this drink that offers a savory, rustic, freshly-foraged vibe.
     glassware: mason jar
     ingredients:
     - 50g olive oil
@@ -1424,7 +1461,8 @@ recipes:
       - shaken
       - citrus
   - name: Meet Me in Tennessee
-    notes: The addition of rye to the red wine changes its alcohol density, which allows us to layer it more crisply and easily.
+    notes: |+2
+      The addition of rye to the red wine changes its alcohol density, which allows us to layer it more crisply and easily.
     glassware: collins
     ingredients:
     - 3/4oz Saintsbury Sonoma Coast Pinot Noir
@@ -1442,7 +1480,8 @@ recipes:
       - shaken
       - autumn
   - name: New Melonnium
-    notes: The 20th Century Limited was an express passenger train that ran between Chicago and New York from 1902 through 1967, and served as the namesake for a popular cocktail during this area consisting of gin, vermouth, and crème de cacao. Nearly a century later, we wanted to try our hand at a slightly modernized version of this cocktail.
+    notes: |+2
+      The 20th Century Limited was an express passenger train that ran between Chicago and New York from 1902 through 1967, and served as the namesake for a popular cocktail during this area consisting of gin, vermouth, and crème de cacao. Nearly a century later, we wanted to try our hand at a slightly modernized version of this cocktail.
     glassware: rocks
     ingredients:
     - 1 1/2oz nectarine vermouth 
@@ -1462,7 +1501,8 @@ recipes:
       - citrus
       - shaken
   - name: Mai Tai
-    notes: Serves 6.
+    notes: |+2
+      Serves 6.
     glassware: tiki mug
     ingredients:
     - 133g Flor de Caña 12 Year Aged Rum
@@ -1537,7 +1577,8 @@ recipes:
       - flight
       - frozen
   - name: Meloncholy
-    notes: We frequently find inspiration in single ingredients or products. This drink was born from a tasting of BarSol Perfecto Amor, which featured an intense, ripe cantaloupe flavor. Other flavors amplify and complement the idea of a melon ripening over time. While we suggest that three minutes is a good minimum amount of time to allow this cocktail to steep, allowing the cocktail to infuse longer further intensifies its flavor. When serving this drink at The Aviary, we present the guest with the press pot and a small sand timer, which we invert at the table. We keep a separate timer running at the bar, so our staff knows when to return to the table to depress the plunger and strain the drink for the guest.
+    notes: |+2
+      We frequently find inspiration in single ingredients or products. This drink was born from a tasting of BarSol Perfecto Amor, which featured an intense, ripe cantaloupe flavor. Other flavors amplify and complement the idea of a melon ripening over time. While we suggest that three minutes is a good minimum amount of time to allow this cocktail to steep, allowing the cocktail to infuse longer further intensifies its flavor. When serving this drink at The Aviary, we present the guest with the press pot and a small sand timer, which we invert at the table. We keep a separate timer running at the bar, so our staff knows when to return to the table to depress the plunger and strain the drink for the guest.
     glassware: rocks
     ingredients:
     - 1 1/2oz The Scarlet Ibis Trinidad Rum
@@ -1563,7 +1604,8 @@ recipes:
       - shaken
       - citrus
   - name: Cawberry Strobbler
-    notes: The classic Cobbler - a mixture of spirit, sweetener, and fruit - is thought to be the first cocktail served with a straw (made necessary by the crushed ice, or “cobbles,” on which the drink is served). We use the crushed ice as an opportunity to add flavors of sherry, black pepper, and melon to a cocktail base of citrus and strawberry. Serves 6.
+    notes: |+2
+      The classic Cobbler - a mixture of spirit, sweetener, and fruit - is thought to be the first cocktail served with a straw (made necessary by the crushed ice, or “cobbles,” on which the drink is served). We use the crushed ice as an opportunity to add flavors of sherry, black pepper, and melon to a cocktail base of citrus and strawberry. Serves 6.
     glassware: rocks
     ingredients:
     - 273g strawberries
@@ -1602,7 +1644,8 @@ recipes:
       - stirred
       - citrus
   - name: Tea in Trinidad
-    notes: Sometimes our inspiration comes from an interesting service piece; such was the case when we found these vessels that reminded us of a cartoon bomb. While playing around with them, we discovered they could comfortably hold dry ice, spouting dramatic clouds that we reasoned might be great for dispersing an aroma. We began sniffing the contents of our pantry, combining the most aromatic ingredients we could find until we had something that smelled and tasted great.
+    notes: |+2
+      Sometimes our inspiration comes from an interesting service piece; such was the case when we found these vessels that reminded us of a cartoon bomb. While playing around with them, we discovered they could comfortably hold dry ice, spouting dramatic clouds that we reasoned might be great for dispersing an aroma. We began sniffing the contents of our pantry, combining the most aromatic ingredients we could find until we had something that smelled and tasted great.
     glassware: mug
     ingredients:
     - 1 1/2oz Zaya Gran Reserva rum
@@ -1617,7 +1660,8 @@ recipes:
       - the aviary
       - heated
   - name: Branding Iron
-    notes: The unlikely origin of this drink came from a discussion amongst several of our bartenders about replacing the black felt coasters we use with something more rustic. We found some interesting pine branch cross-sections that we felt might work well for this. At the same time, we were exploring the use of a branding iron on citrus peels. We wondered about using the iron to brand our logo into our pine branch coasters; when we tried this, we noticed the smoke from the coaster smelled quite aromatic and delicious. We pair the pine smoke with St. George's Terroir Gin, which is made with pine boughs from the mountains near the distillery.
+    notes: |+2
+      The unlikely origin of this drink came from a discussion amongst several of our bartenders about replacing the black felt coasters we use with something more rustic. We found some interesting pine branch cross-sections that we felt might work well for this. At the same time, we were exploring the use of a branding iron on citrus peels. We wondered about using the iron to brand our logo into our pine branch coasters; when we tried this, we noticed the smoke from the coaster smelled quite aromatic and delicious. We pair the pine smoke with St. George's Terroir Gin, which is made with pine boughs from the mountains near the distillery.
     glassware: rocks
     ingredients:
     - 1/2oz St. George Terroir Gin
@@ -1637,7 +1681,8 @@ recipes:
       - stirred
       - flame
   - name: On a Wire
-    notes: Questioning the purpose of a cocktail garnish leads us to try expanding the role this accoutrement can play in a drink. Here, a rosemary garnish adds visual appeal while also contributing a significant flavor impact to the drink itself. The unique service piece used to suspend the garnish in the glass was designed for us by Martin Kastner.
+    notes: |+2
+      Questioning the purpose of a cocktail garnish leads us to try expanding the role this accoutrement can play in a drink. Here, a rosemary garnish adds visual appeal while also contributing a significant flavor impact to the drink itself. The unique service piece used to suspend the garnish in the glass was designed for us by Martin Kastner.
     glassware: rocks
     ingredients:
     - 1 1/2oz Jean-Luc Pasquet Coeur de Grande Champagne Cognac
@@ -1660,7 +1705,8 @@ recipes:
       - shaken
       - flame
   - name: Hermoso
-    notes: We base this drink on a very special barrel of reposado tequila we procured from Casa Noble. When working with limited, small quantities of rare or special spirits, we generally try to enhance the base spirit's flavor in subtle ways rather than overpowering it or losing it in a more complex build. We pair this cocktail with an aroma of cigar and cedar, the latter of which adds length and complexity to the smoke.
+    notes: |+2
+      We base this drink on a very special barrel of reposado tequila we procured from Casa Noble. When working with limited, small quantities of rare or special spirits, we generally try to enhance the base spirit's flavor in subtle ways rather than overpowering it or losing it in a more complex build. We pair this cocktail with an aroma of cigar and cedar, the latter of which adds length and complexity to the smoke.
     glassware: rocks
     ingredients:
     - 2oz Casa Noble Reposado Tequila
@@ -1741,7 +1787,8 @@ recipes:
       - "the aviary: pillows"
       - stirred
   - name: Prize Inside (Non-Alcoholic)
-    notes: It's hard to live in Chicago and not be a Cubs fan. As the end of the season nears, the temperature here plummets - but that doesn't stop bundled-up fans from lining the bleachers of Wrigley, draped in thick blankets and sipping warming drinks to carry them through the final games. Here's how we fly the W at The Aviary.
+    notes: |+2
+      It's hard to live in Chicago and not be a Cubs fan. As the end of the season nears, the temperature here plummets - but that doesn't stop bundled-up fans from lining the bleachers of Wrigley, draped in thick blankets and sipping warming drinks to carry them through the final games. Here's how we fly the W at The Aviary.
     glassware: mug
     ingredients:
     - 447g popcorn stock
@@ -1761,7 +1808,8 @@ recipes:
       - heated
       - blended
   - name: Prize Inside
-    notes: It's hard to live in Chicago and not be a Cubs fan. As the end of the season nears, the temperature here plummets - but that doesn't stop bundled-up fans from lining the bleachers of Wrigley, draped in thick blankets and sipping warming drinks to carry them through the final games. Here's how we fly the W at The Aviary.
+    notes: |+2
+      It's hard to live in Chicago and not be a Cubs fan. As the end of the season nears, the temperature here plummets - but that doesn't stop bundled-up fans from lining the bleachers of Wrigley, draped in thick blankets and sipping warming drinks to carry them through the final games. Here's how we fly the W at The Aviary.
     glassware: mug
     ingredients:
     - 375g popcorn stock
@@ -1811,7 +1859,8 @@ recipes:
       - the aviary
       - stirred
   - name: Bloody Mary (2011)
-    notes: When we first opened The Aviary, we felt that inclusion of a Bloody Mary was compulsory. We'd just begun learning about flavored ices, and our idea was to try refactoring the flavors usually used as garnishes into interesting ice for the drink. When we opened our second Aviary location in New York in 2017, we felt it was only fitting to revisit this drink for our inaugural menu there. Maturity and the benefit of hindsight led us to reconsider and rebalance much of the drink into something we feel is more refined. We present both versions here to highlight the iterative process many of our drinks undergo over their lifespans. Serves 6.
+    notes: |+2
+      When we first opened The Aviary, we felt that inclusion of a Bloody Mary was compulsory. We'd just begun learning about flavored ices, and our idea was to try refactoring the flavors usually used as garnishes into interesting ice for the drink. When we opened our second Aviary location in New York in 2017, we felt it was only fitting to revisit this drink for our inaugural menu there. Maturity and the benefit of hindsight led us to reconsider and rebalance much of the drink into something we feel is more refined. We present both versions here to highlight the iterative process many of our drinks undergo over their lifespans. Serves 6.
     glassware: novel
     ingredients:
     - 1 compressed celery stalk
@@ -1865,7 +1914,8 @@ recipes:
       - stirred
       - citrus
   - name: Netflix & Chilcano
-    notes: The Chilcano, a popular drink in Peru, is a concoction composed of pisco, ginger ale, and bitters. Peruvian bartenders often infuse pisco with various flavors to add complexity to this cocktail. Our riff plays with the idea of infusion using flavors of quince and Sauternes.
+    notes: |+2
+      The Chilcano, a popular drink in Peru, is a concoction composed of pisco, ginger ale, and bitters. Peruvian bartenders often infuse pisco with various flavors to add complexity to this cocktail. Our riff plays with the idea of infusion using flavors of quince and Sauternes.
     glassware: collins
     ingredients:
     - 2oz quince Sauternes
@@ -1977,7 +2027,8 @@ recipes:
       - "the aviary: in the rocks"
       - stirred
   - name: Cloche Encounters of the 46 Kind
-    notes: The bourbon used as the base of this cocktail is one we crafted in collaboration with Maker's Mark. We present it in a service piece that was custom-designed for us by Martin Kastner. The “cloche,” as it's called, helps constrain the aroma of this cocktail to avoid potentially contaminating the experience of nearby guests who may be drinking something different. Maker's 46 may be used as a substitute bourbon in this recipe.
+    notes: |+2
+      The bourbon used as the base of this cocktail is one we crafted in collaboration with Maker's Mark. We present it in a service piece that was custom-designed for us by Martin Kastner. The “cloche,” as it's called, helps constrain the aroma of this cocktail to avoid potentially contaminating the experience of nearby guests who may be drinking something different. Maker's 46 may be used as a substitute bourbon in this recipe.
     glassware: novel
     ingredients:
     - 2oz Maker's Mark Private Select Aviary Barrel Bourbon
@@ -1996,7 +2047,8 @@ recipes:
       - the aviary
       - stirred
   - name: Doppia Bevanda
-    notes: This drink was originally inspired by an affogato (coffee and vanilla ice cream). The carbonated milk punch replicates the role of the ice cream, with its creamy mouthfeel and vanilla notes. The coffee shares geographic roots with the herbaceous, earthy flavors it's combined with, exemplifying the general culinary tendency that “things that grow together go together.”
+    notes: |+2
+      This drink was originally inspired by an affogato (coffee and vanilla ice cream). The carbonated milk punch replicates the role of the ice cream, with its creamy mouthfeel and vanilla notes. The coffee shares geographic roots with the herbaceous, earthy flavors it's combined with, exemplifying the general culinary tendency that “things that grow together go together.”
     glassware: collins
     ingredients:
     - 1/2oz spiced cold brew coffee
@@ -2041,7 +2093,8 @@ recipes:
       - heated
       - stirred
   - name: Micahlada (2011)
-    notes: The classic Michelada, one of our favorite hangover soothers, is an unfussy combination of cold light beer, lime, salt, and a dash of hot sauce. An early version of our take on this drink - which we served at The Aviary in Chicago - was served in a pint glass with a spice rim. We used our opening of another Aviary in New York as an opportunity to revisit and refine this cocktail, adding a few bites of food to pair with it as well. We present both variations here. This constant iteration on ideas is common for us; it's rare that any given recipe becomes set in stone.
+    notes: |+2
+      The classic Michelada, one of our favorite hangover soothers, is an unfussy combination of cold light beer, lime, salt, and a dash of hot sauce. An early version of our take on this drink - which we served at The Aviary in Chicago - was served in a pint glass with a spice rim. We used our opening of another Aviary in New York as an opportunity to revisit and refine this cocktail, adding a few bites of food to pair with it as well. We present both variations here. This constant iteration on ideas is common for us; it's rare that any given recipe becomes set in stone.
     glassware: pint glass
     ingredients:
     - 1oz Micahlada base
@@ -2123,7 +2176,8 @@ recipes:
       - shaken
       - sparkling
   - name: Chamomile
-    notes: This drink is anchored squarely in our culinary roots at Alinea, where questions like, “What if we made an edible cocktail that's eaten with a spoon?” are not unusual. We drew our original inspiration from a seminal dish of carrot-flavored foam created by the inimitable chefs at elBulli, starting with a similar foam made of beer. We then crafted a list of flavors that we felt would complement our beer foam - a process we refer to as “flavor bouncing.”
+    notes: |+2
+      This drink is anchored squarely in our culinary roots at Alinea, where questions like, “What if we made an edible cocktail that's eaten with a spoon?” are not unusual. We drew our original inspiration from a seminal dish of carrot-flavored foam created by the inimitable chefs at elBulli, starting with a similar foam made of beer. We then crafted a list of flavors that we felt would complement our beer foam - a process we refer to as “flavor bouncing.”
     glassware: novel
     ingredients:
     - 6 small sage leaves
@@ -2142,7 +2196,8 @@ recipes:
       - beer
       - frozen
   - name: Carrot Cake Ramos Rum Fizz
-    notes: While attending a prominent cocktail industry event in New Orleans, we had the opportunity to taste a rum that reminded us of carrot cake. Inspired by this, we wanted to riff on one of New Orleans' most popular classic cocktails - the Ramos Gin Fizz - and develop a drink with similar characteristics while highlighting that carrot cake flavor. This recipe took us nearly two years to develop and perfect.
+    notes: |+2
+      While attending a prominent cocktail industry event in New Orleans, we had the opportunity to taste a rum that reminded us of carrot cake. Inspired by this, we wanted to riff on one of New Orleans' most popular classic cocktails - the Ramos Gin Fizz - and develop a drink with similar characteristics while highlighting that carrot cake flavor. This recipe took us nearly two years to develop and perfect.
     glassware: collins
     ingredients:
     - 2oz carrot cake rum
@@ -2182,7 +2237,8 @@ recipes:
       - flame
       - peaty
   - name: Thai Iced Coffee
-    notes: In addition to providing a visually-interesting way to sweeten this cocktail, the cotton candy also helps minimize splashing when we pour in the rum mixture.
+    notes: |+2
+      In addition to providing a visually-interesting way to sweeten this cocktail, the cotton candy also helps minimize splashing when we pour in the rum mixture.
     glassware: collins
     ingredients:
     - 1 1/4oz thai spice rum
@@ -2215,7 +2271,8 @@ recipes:
       - shaken
       - citrus
   - name: Bitter
-    notes: The smoke from a used bourbon barrel stave is uniquely aromatic. We pair its sweetness here with apple brandy and Cognac, while complementing the smoke's bitter notes with several different amari and apéritifs. We aggressively chill this cocktail before serving to enhance the contrast between it and the glass, which is warmed by the smoke.
+    notes: |+2
+      The smoke from a used bourbon barrel stave is uniquely aromatic. We pair its sweetness here with apple brandy and Cognac, while complementing the smoke's bitter notes with several different amari and apéritifs. We aggressively chill this cocktail before serving to enhance the contrast between it and the glass, which is warmed by the smoke.
     glassware: rocks
     ingredients:
     - 1oz Pierre Ferrand 1840 Cognac
@@ -2453,7 +2510,8 @@ recipes:
 
 #Dusty Bottles
   - name: "Dusty Bottle: Vesper"
-    notes: In addition to crafting delicious martinis, Dukes Bar - situated in London's Dukes Hotel - historically served as the local watering hole for Sir Ian Fleming during his time writing the James Bond novels. The bar is said to have been the birthplace of the Vesper martini, a cocktail infamously introduced by Bond in Casino Royale. Shaking a martini (as Bond regularly requests) serves to aggressively chill it, which flouted contention at the time, but dampens the flavors of the spirits being used. With all due respect to 007, we've altered his original proportions a bit and prefer to stir this drink to allow the character of the vintage spirits to shine through.
+    notes: |+2
+      In addition to crafting delicious martinis, Dukes Bar - situated in London's Dukes Hotel - historically served as the local watering hole for Sir Ian Fleming during his time writing the James Bond novels. The bar is said to have been the birthplace of the Vesper martini, a cocktail infamously introduced by Bond in Casino Royale. Shaking a martini (as Bond regularly requests) serves to aggressively chill it, which flouted contention at the time, but dampens the flavors of the spirits being used. With all due respect to 007, we've altered his original proportions a bit and prefer to stir this drink to allow the character of the vintage spirits to shine through.
     glassware: nick & nora
     ingredients:
     - 1oz Beefeater London Dry gin - 1970s gallon
@@ -2468,7 +2526,8 @@ recipes:
       - classic
       - stirred
   - name: "Dusty Bottle: Daiquiri"
-    notes: Irish brothers Edward and John Burke were distillers and importers in New York City during the turn of the twentieth century. In 1943, they imported the case of Jamaican rum we make use of in this cocktail. The rum has an earthy funkiness, offering notes of canned artichokes and green olive that lend themselves to an unusual and delicious daiquiri.
+    notes: |+2
+      Irish brothers Edward and John Burke were distillers and importers in New York City during the turn of the twentieth century. In 1943, they imported the case of Jamaican rum we make use of in this cocktail. The rum has an earthy funkiness, offering notes of canned artichokes and green olive that lend themselves to an unusual and delicious daiquiri.
     glassware: nick & nora
     ingredients:
     - 2oz E&J Burke Jamaican Rum - 1943
@@ -2484,7 +2543,8 @@ recipes:
       - daiquiri
       - classic
   - name: "Dusty Bottle: White Negroni"
-    notes: The modern-day White Negroni is typically bracingly bitter and earthy. Up until a few decades ago, however, a different variant of this classic cocktail could be made using a raspberry-flavored liqueur produced by Campari. The cordial contributed to a drink that was rich, sweet, and deliciously smooth.
+    notes: |+2
+      The modern-day White Negroni is typically bracingly bitter and earthy. Up until a few decades ago, however, a different variant of this classic cocktail could be made using a raspberry-flavored liqueur produced by Campari. The cordial contributed to a drink that was rich, sweet, and deliciously smooth.
     glassware: double rocks
     ingredients:
     - 1 1/2oz Beefeater London Dry gin - 1970s half-gallon
@@ -2501,7 +2561,8 @@ recipes:
       - negroni
       - classic
   - name: "Dusty Bottle: Gin Martini"
-    notes: "Something we notice about vintage gins is that they tend to be remarkably stable; the botanicals and other flavors take on interesting mature qualities, but overall the spirit still tastes recognizably gin-like. Vermouth, on the other hand, dramatically changes as it ages: the color deepens and flavors turn nutty as they oxidize, not dissimilar from those found in aged sherries."
+    notes: |+2
+      "Something we notice about vintage gins is that they tend to be remarkably stable; the botanicals and other flavors take on interesting mature qualities, but overall the spirit still tastes recognizably gin-like. Vermouth, on the other hand, dramatically changes as it ages: the color deepens and flavors turn nutty as they oxidize, not dissimilar from those found in aged sherries."
     glassware: nick & nora
     ingredients:
     - 1 1/2oz Tanqueray Sweet Gin - 1900s
@@ -2518,7 +2579,8 @@ recipes:
       - classic
       - martini
   - name: "Dusty Bottle: Brooklyn"
-    notes: The first known recorded recipe for the Brooklyn seems to come in 1914 by way of David Straub, who tended bar at the Waldorf-Astoria Hotel. The cocktail made use of Amer Picon, a bittersweet herbal liqueur that has undergone several reformulations since the 1970s, which have left it bearing little resemblance to its original self. Our discovery of a bottle of this liqueur in its original formulation  inspired us to gather the other contemporary ingredients for an early-century version of this cocktail.
+    notes: |+2
+      The first known recorded recipe for the Brooklyn seems to come in 1914 by way of David Straub, who tended bar at the Waldorf-Astoria Hotel. The cocktail made use of Amer Picon, a bittersweet herbal liqueur that has undergone several reformulations since the 1970s, which have left it bearing little resemblance to its original self. Our discovery of a bottle of this liqueur in its original formulation  inspired us to gather the other contemporary ingredients for an early-century version of this cocktail.
     glassware: nick & nora
     ingredients:
     - 2oz Old Overholt 5-Year Rye Whiskey - 1940s
@@ -2534,7 +2596,8 @@ recipes:
       - classic
       - manhattan
   - name: "Dusty Bottle: Old Fashioned"
-    notes: The S.P. Lancaster Distillery was a small distillery located near Bardstown, Kentucky. In addition to bourbon, the distillery also produced what would become the base for a line of bitters produced by the New York-based Fee Brothers. The distillery was ultimately forced to close during the Prohibition era. A batch of bourbon distilled by S.P. Lancaster in the spring of 1916 sat aging in barrels until it was  discovered, bottles, and sold in 1932 as “medicinal whiskey” by the American Medicinal Spirits Company.
+    notes: |+2
+      The S.P. Lancaster Distillery was a small distillery located near Bardstown, Kentucky. In addition to bourbon, the distillery also produced what would become the base for a line of bitters produced by the New York-based Fee Brothers. The distillery was ultimately forced to close during the Prohibition era. A batch of bourbon distilled by S.P. Lancaster in the spring of 1916 sat aging in barrels until it was  discovered, bottles, and sold in 1932 as “medicinal whiskey” by the American Medicinal Spirits Company.
     glassware: double rocks
     ingredients:
     - 2oz S.P. Lancaster Bourbon - 1932

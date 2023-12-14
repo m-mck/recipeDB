@@ -28,7 +28,8 @@ recipes:
 
 #syrups
   - name: Rich Simple Syrup
-    notes: "Simple syrup is commonly used in the industry: It is 1 part sugar to 1 part water; e.g., 4 cups sugar to 1 quart (4 cups) water. We don't use 1:1 syrup at canon: Ours is a 2:1 syrup sometimes called “rich syrup.” For simplicity's sake, we refer to the rich syrup as simple syrup interchangeably. It's used the same way as simple syrup in our recipes because we don't want to add unnecessary water to our cocktails. Our 2:1 ratio also makes our syrups last longer than the typical 1:1 recipes out there because the sugar acts as a preservative (just like alcohol). Quite often, we add a dash of “simple” to a cocktail that feels a little thin, lending a slightly more unctuous quality to the finished product. Feel free to switch the sugars in this recipe as well, but replacing white sugar with, let's say, demerara, will yield very different syrup and therefore a very different cocktail. Makes about 1 liter."
+    notes: |+2
+      "Simple syrup is commonly used in the industry: It is 1 part sugar to 1 part water; e.g., 4 cups sugar to 1 quart (4 cups) water. We don't use 1:1 syrup at canon: Ours is a 2:1 syrup sometimes called “rich syrup.” For simplicity's sake, we refer to the rich syrup as simple syrup interchangeably. It's used the same way as simple syrup in our recipes because we don't want to add unnecessary water to our cocktails. Our 2:1 ratio also makes our syrups last longer than the typical 1:1 recipes out there because the sugar acts as a preservative (just like alcohol). Quite often, we add a dash of “simple” to a cocktail that feels a little thin, lending a slightly more unctuous quality to the finished product. Feel free to switch the sugars in this recipe as well, but replacing white sugar with, let's say, demerara, will yield very different syrup and therefore a very different cocktail. Makes about 1 liter."
     ingredients: 
     - 4 cups distilled water
     - 8 cups granulated white sugar
@@ -37,7 +38,8 @@ recipes:
     - Add the water and sugar to a large saucepan and bring to a low simmer over medium heat. Stir until all the sugar has dissolved. Remove from the heat and allow to cool.
     - Add the Everclear for stability, if desired. Pour into an appropriate-size bottle, cap, and refrigerate until needed.
   - name: Apple-Coriander Beer Syrup
-    notes: Makes about 1 liter.
+    notes: |+2
+      Makes about 1 liter.
     ingredients: 
     - 4 cups Bitburger beer
     - 8 cups granulated white sugar
@@ -47,7 +49,8 @@ recipes:
     steps:
     - Add the beer, sugar, apple, and coriander to a pot over medium heat. Allow to heat, stirring occasionally, for 20 minutes to dissolve the sugar. Remove from the heat and let cool for 20 minutes. Use a fine-mesh strainer to remove and discard the solids. Add the Everclear. Pour into an appropriate-size bottle, cap, and refrigerate until needed.
   - name: Honey Syrup
-    notes: Makes about 1 liter.
+    notes: |+2
+      Makes about 1 liter.
     ingredients: 
     - 4 cups distilled water
     - 4 cups honey
@@ -55,7 +58,8 @@ recipes:
     steps:
     - Add the water and honey to a large saucepan over medium heat. Stir until all the honey has dissolved. Remove from the heat and let cool. Add the Everclear for stability, if desired. Pour into an appropriate-size bottle, cap, and refrigerate until needed.
   - name: Donn's Mix
-    notes: Makes about 1 liter.
+    notes: |+2
+      Makes about 1 liter.
     ingredients: 
     - 4 cups fresh grapefruit juice
     - 8 cups granulated white sugar
@@ -65,7 +69,8 @@ recipes:
     steps:
     - Add the grapefruit juice, sugar, ground cinnamon, and cinnamon sticks to a large saucepan over medium heat. Stir until all the sugar has dissolved. Lower the heat to a simmer and cook, stirring occasionally, for 1 hour. Remove from the heat and let cool. Strain the solids and discard. Add the Everclear for stability, if desired. Pour into an appropriate-size bottle, cap, and refrigerate until needed.
   - name: Ginger Syrup
-    notes: Makes about 1 liter.
+    notes: |+2
+      Makes about 1 liter.
     ingredients: 
     - 4 cups distilled water
     - 8 cups granulated white sugar
@@ -75,7 +80,8 @@ recipes:
     steps:
     - Add the water, sugar, pepper, and ginger to a large saucepan over medium heat. Stir until all the sugar has dissolved. Lower the heat and simmer, stirring occasionally, for 1 hour. Remove from the heat and let cool. Strain the solids and discard. Add the Everclear for stability, if desired. Pour into an appropriate-size bottle, cap, and refrigerate until needed.
   - name: Gunpowder Tea Syrup
-    notes: Makes about 1 liter.
+    notes: |+2
+      Makes about 1 liter.
     ingredients: 
     - 4 cups cold distilled water
     - 6 teaspoons green tea leaves, preferably gunpowder
@@ -84,7 +90,8 @@ recipes:
     steps:
     - Add the water to a large saucepan over medium heat. Bring to a light simmer and then add the tea, stir, and let steep until very strong, 2 to 3 minutes. Add the sugar and stir until all the sugar has dissolved. Let cool. Strain and discard the tea leaves. Add the Everclear for stability, if desired. Pour into an appropriate-size bottle, cap, and refrigerate until needed.
   - name: Amer Boudreau (Picon)
-    notes: Ramazzotti Amaro is an Italian bitter liqueur. This recipe layers additional citrus flavors into it to make a distinctive liqueur. If you have one, you can zap this mixture in an ultrasonic homogenizer to speed up the process. Makes about ¾ liter.
+    notes: |+2
+      Ramazzotti Amaro is an Italian bitter liqueur. This recipe layers additional citrus flavors into it to make a distinctive liqueur. If you have one, you can zap this mixture in an ultrasonic homogenizer to speed up the process. Makes about ¾ liter.
     ingredients: 
     - 2¼ cups orange tincture (see recipe)
     - 1 bottle (750 ml) Ramazzotti Amaro
@@ -93,7 +100,8 @@ recipes:
     steps:
     - Add the orange tincture, Ramazzotti Amaro, bitters, and the water to a container and stir. Cover and let sit for at least 1 week. Pour into an appropriate-size bottle, cap, and refrigerate until needed.
   - name: Old Fashioned Syrup
-    notes: Alcohol and heat do not mix. Do not leave alcohol unattended on the stove. Stir constantly using the lowest possible heat setting for your stove that will still allow the sugar to dissolve. Remove and cool quickly as soon as the sugar is dissolved. Makes about 1 liter.
+    notes: |+2
+      Alcohol and heat do not mix. Do not leave alcohol unattended on the stove. Stir constantly using the lowest possible heat setting for your stove that will still allow the sugar to dissolve. Remove and cool quickly as soon as the sugar is dissolved. Makes about 1 liter.
     ingredients: 
     - 1 liter rye
     - 4 cups white sugar
@@ -106,7 +114,8 @@ recipes:
     - Add 32 ounces of the rye, both sugars, the bitters, cloves, allspice, and star anise to a large saucepan over low heat. Carefully stir until the moment the sugars dissolve, not longer. Immediately remove from the heat and allow to cool.
     - Use a fine-mesh strainer to remove and discard the solids. Add the remaining 2 ounces of rye and stir until well incorporated. Pour into an appropriate-size bottle, cap, and refrigerate until needed.
   - name: Orgeat Syrup
-    notes: Makes about 1 liter.
+    notes: |+2
+      Makes about 1 liter.
     ingredients: 
     - 4 cups organic unflavored, unsweetened almond milk
     - 8 cups granulated white sugar
@@ -116,7 +125,8 @@ recipes:
     steps:
     - Add the almond milk and sugar to a large saucepan over medium-high heat. Stir until all the sugar has dissolved. Remove from the heat and let cool. When cool, add the cognac, almond extract, and orange blossom water, and stir until well incorporated. Pour into an appropriate-size bottle, cap, and refrigerate until needed.
   - name: Thyme-Picpoul Syrup
-    notes: Picpoul de Pinet is a crisp, citrusy, light-bodied white wine from the Languedoc region of France. Makes about ¾ liter.
+    notes: |+2
+      Picpoul de Pinet is a crisp, citrusy, light-bodied white wine from the Languedoc region of France. Makes about ¾ liter.
     ingredients: 
     - 1 bottle (750 ml) Picpoul de Pinet
     - 6 cups granulated white sugar
@@ -124,7 +134,8 @@ recipes:
     steps:
     - Add the Picpoul de Pinet and sugar to a large saucepan over medium heat. Stir until all the sugar has dissolved. Turn off the heat and add the thyme. Stir occasionally for approximately 20 minutes. Use a fine-mesh strainer to remove and discard the solids. Allow to cool, and then pour into an appropriate-size bottle, cap, and refrigerate until needed.
   - name: Tonka Bean Syrup
-    notes: Tonka beans are the black, wrinkled seeds of the large tropical tonka tree. They can be toxic in large quantities, so they weren't often used in the past. But nutmeg, if you ate a similar large amount, is no less toxic. So, these days, tonka is becoming a novel flavor in cooking and cocktails. It's a good idea to store tonka beans where little folks and pets can't get into them. Makes about 1½ liters.
+    notes: |+2
+      Tonka beans are the black, wrinkled seeds of the large tropical tonka tree. They can be toxic in large quantities, so they weren't often used in the past. But nutmeg, if you ate a similar large amount, is no less toxic. So, these days, tonka is becoming a novel flavor in cooking and cocktails. It's a good idea to store tonka beans where little folks and pets can't get into them. Makes about 1½ liters.
     ingredients: 
     - 1 ounce peeled tonka beans
     - 6 vanilla beans
@@ -137,7 +148,8 @@ recipes:
 
 #hand-crafted liqueurs
   - name: Falernum
-    notes: This is not difficult to make, but it is easier if you have some special equipment to help you. Immersion circulators are very inexpensive these days (as low as $100 online). If you don't use a circulator, there's a good chance you will end up cooking off the alcohol and ending up with syrup instead of a liqueur. Vacuum chambers are also inexpensive (around $100 online). I have one vacuum chamber and three immersion circulators in my home, and two vacuum chambers and seven immersion circulators at canon. As an alternative method, you can seal the liquid by pouring the mixture into a large ziplock bag(s) and slowly lowering into a water bath. This will push out most of the remaining air, allowing you to approximate a vacuum seal. Makes about 2 liters.
+    notes: |+2
+      This is not difficult to make, but it is easier if you have some special equipment to help you. Immersion circulators are very inexpensive these days (as low as $100 online). If you don't use a circulator, there's a good chance you will end up cooking off the alcohol and ending up with syrup instead of a liqueur. Vacuum chambers are also inexpensive (around $100 online). I have one vacuum chamber and three immersion circulators in my home, and two vacuum chambers and seven immersion circulators at canon. As an alternative method, you can seal the liquid by pouring the mixture into a large ziplock bag(s) and slowly lowering into a water bath. This will push out most of the remaining air, allowing you to approximate a vacuum seal. Makes about 2 liters.
     ingredients: 
     - 6 ounces fresh ginger, peeled and grated
     - Zest from 15 large limes
@@ -154,7 +166,8 @@ recipes:
     - In a plastic pouch, add the ginger, lime zest, cloves, peppercorns, allspice, and both bitters. Add the rum and seal the bag using a vacuum chamber. Cook in an immersion circulator at 160°F for 2 hours.
     - Separate the solids and reserve the rum mixture. Place the solids in a large saucepan over medium heat. Add the water and sugar and stir until the sugar has dissolved. Lower the heat to a simmer and let cook, stirring occasionally, for 1 hour. Remove from heat and allow to cool. Separate the solids and discard. Add the reserved rum mixture to the sugar mixture and stir. Add the orgeat syrup and stir. Pour into an appropriate-size bottle, cap, and refrigerate until needed.
   - name: Toucan Mix
-    notes: This mix is used in our Toucan Gin Fizz (see recipe). Makes about ½ liter.
+    notes: |+2
+      This mix is used in our Toucan Gin Fizz (see recipe). Makes about ½ liter.
     ingredients: 
     - 4 ounces simple syrup (see recipe)
     - 2⅓ ounces distilled water
@@ -171,7 +184,8 @@ recipes:
 
 #shrubs
   - name: Campfire Shrub
-    notes: Makes about 5 cups.
+    notes: |+2
+      Makes about 5 cups.
     ingredients: 
     - 5 pounds fresh peaches, pitted and coarsely chopped (if peaches are not in season, you can use frozen)
     - 8 cups granulated white sugar
@@ -181,7 +195,8 @@ recipes:
     steps:
     - Add the peaches, sugar, 4 cups of the vinegar, the peppers, and cinnamon sticks to a large saucepan over medium heat. Stir occasionally until all the sugar has dissolved. Lower the heat and let simmer for 1 hour. Remove from the heat and let cool. Use a fine-mesh strainer to remove and discard the solids. Add the remaining 1¼ cups of vinegar and stir. Pour into an appropriate-size bottle, cap, and store at room temperature until needed.
   - name: Plum-Marionberry Shrub Mix
-    notes: Unicum is a bitter, complex herbal made in Hungary. When Unicum is aged in oak over a bed of dried plums, you get Unicum Plum. We take that and infuse it with fresh marionberries and make it into a shrub. Makes about 5 liters.
+    notes: |+2
+      Unicum is a bitter, complex herbal made in Hungary. When Unicum is aged in oak over a bed of dried plums, you get Unicum Plum. We take that and infuse it with fresh marionberries and make it into a shrub. Makes about 5 liters.
     ingredients: 
     - 5 pounds fresh marionberries
     - 10½ cups granulated white sugar
@@ -190,7 +205,8 @@ recipes:
     steps:
     - Add the marionberries, sugar, and 4 cups of the vinegar to a large saucepan over medium heat and cook for approximately 20 minutes. Stir occasionally until all the sugar has dissolved. Remove from the heat and let cool for 20 minutes. Use a fine-mesh strainer to remove and discard the solids. Add the remaining 1½ cups of vinegar and the plum liqueur and stir. Pour into appropriate-size bottles, cap, and refrigerate until needed.
   - name: Rhubarb Shrub
-    notes: Makes about 2 liters.
+    notes: |+2
+      Makes about 2 liters.
     ingredients: 
     - 12 cups granulated white sugar
     - 4 cups apple cider vinegar
@@ -199,7 +215,8 @@ recipes:
     steps:
     - Add the sugar and vinegar to a large saucepan over medium heat and stir until all the sugar has dissolved. Remove from the heat and allow to cool. Add the rhubarb juice and stir. Add the Everclear for stability, if desired. Pour into an appropriate-size bottle, cap, and refrigerate until needed.
   - name: Watermelon Shrub
-    notes: Makes about 2 liters.
+    notes: |+2
+      Makes about 2 liters.
     ingredients: 
     - 12 cups granulated white sugar
     - 4 cups apple cider vinegar
@@ -211,7 +228,8 @@ recipes:
 #solutions, mixes & creams
 
   - name: Dragon's Blood Tea
-    notes: Dragon's blood essence is a hydroglycolic extract from the resin of the Croton lechleri tree. Vanilla essence is a highly concentrated form of vanilla extract. Both are available online from stores like Tenzing Momo. Makes about 2 ounces.
+    notes: |+2
+      Dragon's blood essence is a hydroglycolic extract from the resin of the Croton lechleri tree. Vanilla essence is a highly concentrated form of vanilla extract. Both are available online from stores like Tenzing Momo. Makes about 2 ounces.
     ingredients: 
     - 2 ounces strawberry cream white tea leaves
     - 6 drops vanilla essence
@@ -219,7 +237,8 @@ recipes:
     steps:
     - Using a spice grinder, grind the tea to a fine powder. Add the vanilla essence and dragon's blood essence and grind some more, until all of the tea has become saturated. Transfer to a container, seal, and store away from heat and sunlight.
   - name: Cinnamon French Oak
-    notes: Makes about 2 pounds.
+    notes: |+2
+      Makes about 2 pounds.
     ingredients: 
     - 2 pounds heavily toasted French oak chips (available online)
     - 8 cups granulated white sugar
@@ -235,21 +254,24 @@ recipes:
     - "If you do not have a dehydrator: Place the oak chips and cinnamon sticks in a convection oven on the lowest setting for several hours. Remove from the oven and allow to cool. If the chips and sticks are still sticky, put them back in the oven until completely dehydrated. Break up the dehydrated oak chips and cinnamon sticks using a mortar and pestle."
     - Store in a covered jar with a silica gel packet.
   - name: Yakima Salt Solution
-    notes: Makes about ¾ cup.
+    notes: |+2
+      Makes about ¾ cup.
     ingredients: 
     - 6 ounces hot distilled water
     - 1 tablespoon Yakima applewood smoked sea salt
     steps:
     - Add the hot water and salt to an appropriate-size bottle. Stir or shake until the salt has dissolved. Cap and store at room temperature until needed.
   - name: Ascorbic Acid Solution
-    notes: Ascorbic acid has a lemony, tart taste and aroma. It's often used in canning and baking and added to foods as an antioxidant, and is less acidic than citric acid. Makes about ¾ cup.
+    notes: |+2
+      Ascorbic acid has a lemony, tart taste and aroma. It's often used in canning and baking and added to foods as an antioxidant, and is less acidic than citric acid. Makes about ¾ cup.
     ingredients: 
     - 6 ounces hot distilled water
     - 2 tablespoons ascorbic acid powder
     steps:
     - Add the hot water and ascorbic acid powder to an appropriate-size bottle. Stir or shake until the ascorbic acid has dissolved. Cap and store at room temperature until needed.
   - name: Boysenberry Purée
-    notes: This recipe calls for a chinois sieve for separating a fruit purée from its skins and seeds. If you don't have one in your kitchen tools, it would be a handy addition, available online for $25 to $50. Makes about 1 cup.
+    notes: |+2
+      This recipe calls for a chinois sieve for separating a fruit purée from its skins and seeds. If you don't have one in your kitchen tools, it would be a handy addition, available online for $25 to $50. Makes about 1 cup.
     ingredients: 
     - 4 cups fresh boysenberries
     - 1 cup granulated white sugar
@@ -258,7 +280,8 @@ recipes:
     - Add the boysenberries and sugar to a large saucepan and cook over low heat, stirring, until the berries liquefy. Remove from the heat and allow to cool. Over a container, push the berries through a chinois sieve, collecting the boysenberry juice and discarding the solids. Add the lemon juice to the boysenberry juice, stir to combine, and transfer to a squeeze bottle. Refrigerate until needed.
     - "Note: Cook fresh fruit for a syrup or purée only for the absolute minimum time it takes to liquefy the berries and then remove from the heat immediately. If fruit syrup cooks too long, or reaches a boil, it destroys the fruit and causes loss of flavor."
   - name: Banksy Scotch Mix
-    notes: Usually, when infusing tea with alcohol, true teas, with considerable tannins, will make your mixture very dry if not constantly monitored by repeated tasting over a short infusion time of just a few minutes. But this lemon-ginger tea contains no actual tea leaves, so the infusion can sit longer and gather greater flavor. Makes about 1½ liters.
+    notes: |+2
+      Usually, when infusing tea with alcohol, true teas, with considerable tannins, will make your mixture very dry if not constantly monitored by repeated tasting over a short infusion time of just a few minutes. But this lemon-ginger tea contains no actual tea leaves, so the infusion can sit longer and gather greater flavor. Makes about 1½ liters.
     ingredients: 
     - 1 liter blended Scotch
     - ½ liter Becherovka
@@ -266,7 +289,8 @@ recipes:
     steps:
     - Add the Scotch, Becherovka, and tea to a container. Stir occasionally until the tea infuses the alcohol. Seal the container and store at room temperature until needed.
   - name: Watermelon Mix
-    notes: Makes about ¾ cup.
+    notes: |+2
+      Makes about ¾ cup.
     ingredients:
     - 4 ounces fresh watermelon juice
     - 1 ounce fresh lime juice
@@ -276,7 +300,8 @@ recipes:
     steps:
     - Add the watermelon juice, lime juice, grenadine, ascorbic acid powder, and salt to an appropriate-size bottle. Stir or shake until the ascorbic acid has dissolved. Cap and refrigerate until needed.
   - name: Clarified Citrus Juice
-    notes: "This recipe can be used for any citrus: Lemons, limes, oranges, and grapefruit will all work. Kieselsol Finings is a solution used to remove excess tannins. It's often used with Chitosan Finings to help clarify wine or beer. Both are available online, as well as Pectinex Ultra SP-L, a specialty enzyme that breaks down pectin, often used in juice manufacturing. Makes about 1 liter."
+    notes: |+2
+      "This recipe can be used for any citrus: Lemons, limes, oranges, and grapefruit will all work. Kieselsol Finings is a solution used to remove excess tannins. It's often used with Chitosan Finings to help clarify wine or beer. Both are available online, as well as Pectinex Ultra SP-L, a specialty enzyme that breaks down pectin, often used in juice manufacturing. Makes about 1 liter."
     ingredients: 
     - 4 cups fresh citrus juice
     - ¼ teaspoon kieselsol finings 30% (D1)
@@ -286,7 +311,8 @@ recipes:
     - Combine the citrus juice and the Kieselsol Finings in a large container and give the mixture a light stir. After approximately 20 minutes, add the Pectinex and Chitosan Finings, and give the mixture another light stir.
     - If you have a centrifuge, spin the mixture to your desired clarity. If you do not have a centrifuge, then simply set the juice aside in the refrigerator for 24 to 48 hours. Slowly pour off the liquid, leaving the solids. Discard the solids. Pour into an appropriate-size bottle, cap, and refrigerate until needed.
   - name: Breakfast Cream
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 14 ounces heavy cream
     - ¼ cup Tempus Fugit crème de cacao
@@ -294,7 +320,8 @@ recipes:
     steps:
     - Add the cream, crème de cacao, and vanilla extract to a squeeze bottle. Shake vigorously for at least 3 minutes. Alternatively, you can use an immersion blender, being careful not to whip too long. The mixture should be the consistency of heavy wet cream that can float on liquids (see Note). Do not let the cream stiffen too much.
   - name: Breakfast Milk
-    notes: Makes about ⅔ cup.
+    notes: |+2
+      Makes about ⅔ cup.
     ingredients: 
     - ⅓ cup milk, as needed
     - ⅓ cup heavy cream, as needed
@@ -302,7 +329,8 @@ recipes:
     steps:
     - Fill a container two-thirds full with half milk and half cream (use this ratio if you want to make more). Fill the remaining space with Froot Loops or other similar cereal. Secure with a lid, and shake for several seconds. Let sit for 15 minutes, then strain off the cereal (solids) and discard. Reseal and refrigerate until needed.
   - name: Fernet Cookies
-    notes: Fernet-Branca is a dark liqueur with a bitter, black licorice flavor. It was originally invented in Italy in the mid-1800s as a stomach medicine. Makes about 2 dozen cookies. 
+    notes: |+2
+      Fernet-Branca is a dark liqueur with a bitter, black licorice flavor. It was originally invented in Italy in the mid-1800s as a stomach medicine. Makes about 2 dozen cookies. 
     ingredients: 
     - "DOUGH:"
     - 1⅓ teaspoons Fernet-Branca
@@ -323,7 +351,8 @@ recipes:
     - Preheat the oven to 325°F. Bake until the cookies are set and slightly darker around the edges, about 20 minutes. Remove from the oven and allow the cookies to cool on the baking sheet.
     - "TO MAKE THE FILLING: In the bowl of a stand mixer, cream the butter and shortening until fluffy. Beat in the confectioners' sugar and the remaining tablespoon of Fernet-Branca. Transfer to a pastry bag. Finish by flipping half of the cookies upside down and piping the filling onto the surface. Top with the remaining cookies."
   - name: Clamato Mix
-    notes: Makes about 3 liters.
+    notes: |+2
+      Makes about 3 liters.
     ingredients: 
     - 3 cups distilled water
     - 4 ounces organic vegetable stock
@@ -341,7 +370,8 @@ recipes:
     - If you do not have a centrifuge, you can store the Clamato
     - Mix in the refrigerator, but it may take several days for the flavors to combine and the solids to settle, meaning it will not be as “fresh” tasting due to the length of time the mixture is sitting unused. You can buy a good used centrifuge online for around $250 (that's what I paid for one of mine), just ensure that it has been properly sterilized and is in good working order.
   - name: Popcorn Ice Cream
-    notes: Makes about 1 pint.
+    notes: |+2
+      Makes about 1 pint.
     ingredients: 
     - 2 cups popped popcorn
     - 1 tablespoon unsalted butter, melted
@@ -356,7 +386,8 @@ recipes:
     - In a medium saucepan, heat the cream and milk until warm, but not boiling, approximately 180°F. Pour the warm cream and milk mixture over the popcorn and let steep for 30 minutes. Strain out the popcorn and discard. Return the mixture to the pan and bring to a simmer. In a separate bowl, whisk the egg yolks and sugar until the mixture is light yellow and smooth with no graininess. Temper the egg yolks and sugar mixture by slowly adding a few tablespoons of the hot milk and cream into the egg yolks and whisking vigorously. Once tempered, slowly add the egg mixture back into the milk and cream mixture, whisking steadily until smooth. Stir constantly until you reach 170 to 175°F. Immediately pour the mixture through a strainer into a metal bowl placed on top of the ice bath and whisk quickly until cool.
     - Freeze and process in a Pacojet or in an ice cream maker of your choice, according to the manufacturer's instructions.
   - name: Chartreuse Ice Cream
-    notes: Xanthan gum is used in foods as a thickening agent. It's available online and in most large grocery stores. Makes about 2 pints.
+    notes: |+2
+      Xanthan gum is used in foods as a thickening agent. It's available online and in most large grocery stores. Makes about 2 pints.
     ingredients: 
     - 2 gelatin sheets
     - 3 cups whole milk

@@ -4,7 +4,8 @@ recipes:
 
 #Artist's Special
   - name: Redcurrant Syrup
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 1 cup stemmed redcurrants
     - ¼ cup raspberries
@@ -18,7 +19,8 @@ recipes:
     - Refrigerate for up to 1 month.
 #Daniel Webster's Punch
   - name: Ice Ring
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 5 strawberries, cut in half lengthwise
     - 5 slices of pineapple
@@ -29,7 +31,8 @@ recipes:
     - Freeze overnight.
 #Pale Rider
   - name: Jalapeño Tequila
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 2 fresh jalapeños
     - 1½ cups silver tequila
@@ -41,7 +44,8 @@ recipes:
     - Keep at room temperature for up to 1 month.
 #Coffey Park Swizzle
   - name: Ginger Syrup
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - ½ cup fresh-pressed ginger juice
     - ¾ cup sugar
@@ -52,7 +56,8 @@ recipes:
     - Transfer to a glass container and store covered in the refrigerator for up to 1 month.
 #Mariah Sherry
   - name: Grapefruit Shrub
-    notes: Keeps for up to 4 months.
+    notes: |+2
+      Keeps for up to 4 months.
     ingredients: 
     - 2 ruby red grapefruits
     - 1¾ cups cane sugar
@@ -69,7 +74,8 @@ recipes:
     - Stored covered in the refrigerator.
 #I Am... I Said
   - name: Menthol Tincture
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 1 ounce menthol crystals
     - 5 ounces vodka
@@ -80,7 +86,8 @@ recipes:
     - It keeps, according to Schick, “probably forever.”
 #Sherry Bloody Mary
   - name: Bloody Mary Mix
-    notes: You'll have enough mix for 4 drinks. Keeps for 3 days in the refrigerator.
+    notes: |+2
+      You'll have enough mix for 4 drinks. Keeps for 3 days in the refrigerator.
     ingredients: 
     - 2 cups tomato juice
     - 1 teaspoon hot paprika

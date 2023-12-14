@@ -4,7 +4,8 @@ recipes:
 #
   - name: Angostura Sour
     author: Charles H. Baker & Kirk Estopinal
-    notes: Two years later it still amazes us that the first recipe in rogue cocktails was a potable abstract of our entire philosophy. Thank you Charles H. Baker.
+    notes: |+2
+      Two years later it still amazes us that the first recipe in rogue cocktails was a potable abstract of our entire philosophy. Thank you Charles H. Baker.
     glassware: coupe
     ingredients:
     - 1 1/2 oz Angostura bitters
@@ -19,7 +20,8 @@ recipes:
     - citrus
   - name: Arbitrary Nature of Time
     author: Maks Pazuniak
-    notes: I mean, have you ever really thought about it?
+    notes: |+2
+      I mean, have you ever really thought about it?
     glassware: rocks
     ingredients:
     - 1 1/2 oz Wild Turkey 101
@@ -47,7 +49,8 @@ recipes:
     - stirred
   - name: Art of Choke
     author: Kyle Davidson
-    notes: When was the last time that you created a brand new drink template? It's hard to do, unless you're Kyle Davidson and you break breans like Daryl Dawkins breaks backboards.
+    notes: |+2
+      When was the last time that you created a brand new drink template? It's hard to do, unless you're Kyle Davidson and you break breans like Daryl Dawkins breaks backboards.
     glassware: rocks
     ingredients:
     - 1 oz white rum
@@ -82,7 +85,8 @@ recipes:
     - citrus
   - name: Black Cat
     author: Nicholas Jarrett
-    notes: You know what rules? Simple cocktails made ethereal via layered flavors and nuance.
+    notes: |+2
+      You know what rules? Simple cocktails made ethereal via layered flavors and nuance.
     glassware: coupe
     ingredients:
     - 1 oz Chihicapa mezcal
@@ -102,7 +106,8 @@ recipes:
     - stirred
   - name: Broken Shoe Shiner
     author: Stephen Cole
-    notes: Another original rogue cocktail, this one is still just as fucked sounding as it was the first time around. And still just as delicious.
+    notes: |+2
+      Another original rogue cocktail, this one is still just as fucked sounding as it was the first time around. And still just as delicious.
     glassware: coupe
     ingredients:
     - 1 oz Pernod
@@ -139,7 +144,8 @@ recipes:
     - stirred
   - name: Campari Martini
     author: Maks Pazuniak
-    notes: Salt!
+    notes: |+2
+      Salt!
     glassware: coupe
     ingredients:
     - 3 oz Campari
@@ -153,7 +159,8 @@ recipes:
     - martini
   - name: DLB
     author: Don Lee
-    notes: I had to ask Don Lee for this recipe so many times that by the time I got around to making it for the first time I was sick of it. But it's pretty brilliant. -Maks
+    notes: |+2
+      I had to ask Don Lee for this recipe so many times that by the time I got around to making it for the first time I was sick of it. But it's pretty brilliant. -Maks
     glassware: coupe
     ingredients:
     - 1 oz Rhum Barbancourt 8 Year
@@ -186,7 +193,8 @@ recipes:
     - citrus
   - name: Eeyor's Requiem
     author: Toby Maloney
-    notes: Bitter layered on bitter given a backbone of proof and a measure of levity from the vermouth. Advanced cocktail construction.
+    notes: |+2
+      Bitter layered on bitter given a backbone of proof and a measure of levity from the vermouth. Advanced cocktail construction.
     glassware: coupe
     ingredients:
     - 1 1/2 oz Campari
@@ -237,7 +245,8 @@ recipes:
     - daiquiri
   - name: The Fall of Man
     author: Maks Pazuniak
-    notes: Please note that Zwack does not work as a substitute for Unicum.
+    notes: |+2
+      Please note that Zwack does not work as a substitute for Unicum.
     glassware: rocks
     ingredients:
     - 1 oz bourbon
@@ -266,7 +275,8 @@ recipes:
     - shaken
   - name: Felonious Monk
     author: Tim Lacrey
-    notes: Do you remember when you were a kid and you would try to invent new flavor combinations at the Burger King soda fountain by mixing Coke and Dr. Pepper with a splash of Sprite? This cocktail is like that one time that you fucking nailed it.
+    notes: |+2
+      Do you remember when you were a kid and you would try to invent new flavor combinations at the Burger King soda fountain by mixing Coke and Dr. Pepper with a splash of Sprite? This cocktail is like that one time that you fucking nailed it.
     glassware: collins
     ingredients:
     - 1 1/2 oz Miller's Westbourne
@@ -289,7 +299,8 @@ recipes:
     - shaken
   - name: Fernet Sling
     author: Maks Pazuniak
-    notes: This cocktail tastes like what I imagine a weird soda from a weird country that I've never been to tastes like. I'm sure to the locals it's totally normal, but to you, you're all like "What is this, pine tree-grasshopper toothpaste soda?" - Maks
+    notes: |+2
+      This cocktail tastes like what I imagine a weird soda from a weird country that I've never been to tastes like. I'm sure to the locals it's totally normal, but to you, you're all like "What is this, pine tree-grasshopper toothpaste soda?" - Maks
     glassware: collins
     ingredients:
     - 2 oz Fernet Branca
@@ -320,7 +331,8 @@ recipes:
     - stirred
   - name: The End of the Road
     author: Chris McMillian
-    notes: There are no words to describe how awed and excited we are to include a cocktail from Mister Chris McMillian in this book.
+    notes: |+2
+      There are no words to describe how awed and excited we are to include a cocktail from Mister Chris McMillian in this book.
     glassware: coupe
     ingredients:
     - 1 oz Laphroaig 10-year
@@ -333,7 +345,8 @@ recipes:
     - peaty
   - name: Gunshop Fizz
     author: Kirk Estopinal & Maks Pazuniak
-    notes: This ended up being the signature cocktail of the original book and one that we're still proud of.
+    notes: |+2
+      This ended up being the signature cocktail of the original book and one that we're still proud of.
     glassware: collins
     ingredients:
     - 2 oz Peychaud's Bitters
@@ -407,7 +420,8 @@ recipes:
     - shaken
   - name: Hotel Room Temperature
     author: Kirk Estopinal
-    notes: The idea for this is conceptual, though the drinks themselves are quite pleasing. The title is an homage to two song titles about the regretful aspects of love. "All's Fair" is an 'island' Manhattan and is a nod to the beginnings of love in all its fancy glory and style. Think vacations and summer vibes. The "Flip Out" should be obvious. The "Hotel Room Temperature" is representative of dishonest behavior, and so is served at room temperature. As if our hero is mixing drinks at the end of the night without his tools or ice. It's an exercise in texture and the fact that assembly can, and does, adjust the entire profile of the same ingredients.
+    notes: |+2
+      The idea for this is conceptual, though the drinks themselves are quite pleasing. The title is an homage to two song titles about the regretful aspects of love. "All's Fair" is an 'island' Manhattan and is a nod to the beginnings of love in all its fancy glory and style. Think vacations and summer vibes. The "Flip Out" should be obvious. The "Hotel Room Temperature" is representative of dishonest behavior, and so is served at room temperature. As if our hero is mixing drinks at the end of the night without his tools or ice. It's an exercise in texture and the fact that assembly can, and does, adjust the entire profile of the same ingredients.
     glassware: rocks
     ingredients:
     - 1 1/2 oz Carpano antica formula vermouth
@@ -438,7 +452,8 @@ recipes:
     - shaken
   - name: Infernal Architect
     author: Colin Shearn
-    notes: One of our favorite recent trends is the room-temperature cocktail. And one of our favorite bartenders is Colin Shearn. That makes this cocktail like the little shaded part where the two circles overlap in a Venn diagram, except more badass.
+    notes: |+2
+      One of our favorite recent trends is the room-temperature cocktail. And one of our favorite bartenders is Colin Shearn. That makes this cocktail like the little shaded part where the two circles overlap in a Venn diagram, except more badass.
     glassware: coupe
     ingredients:
     - 1 1/4 oz Laird's Applejack
@@ -488,7 +503,8 @@ recipes:
     - sparkling
   - name: The Last Mechanical Art
     author: Maks Pazuniak
-    notes: I played with the proportions on this cocktail quite a bit, and kept coming back to the equal parts construction. I'm a sucker for eual parts. Is the cocktail perfectly balanced? Probably not, but perfection is overrated. -Maks
+    notes: |+2
+      I played with the proportions on this cocktail quite a bit, and kept coming back to the equal parts construction. I'm a sucker for eual parts. Is the cocktail perfectly balanced? Probably not, but perfection is overrated. -Maks
     glassware: coupe
     ingredients:
     - 3/4 oz Chichicapa mezcal
@@ -536,7 +552,8 @@ recipes:
     - stirred
   - name: Nana Ester
     author: Kirk Estopinal
-    notes: Wine cocktails are the new beer cocktails.
+    notes: |+2
+      Wine cocktails are the new beer cocktails.
     glassware: coupe
     ingredients:
     - 1 1/2 oz Shiraz or Zinfandel
@@ -603,7 +620,8 @@ recipes:
     - citrus
   - name: Riddles in the Dark
     author: Al Sotack
-    notes: We could wax poetic on the harmony and narrative of this cocktail, or we could point out that it tastes like an oatmeal raisin cookie.
+    notes: |+2
+      We could wax poetic on the harmony and narrative of this cocktail, or we could point out that it tastes like an oatmeal raisin cookie.
     glassware: coupe
     ingredients:
     - 1 1/2 oz rye whiskey
@@ -706,7 +724,8 @@ recipes:
     - citrus
   - name: Spice Trade
     author: Kirk Estopinal
-    notes: This drink is fucking metal! I wanted to make a Weeper's Joy, but I couldn't remember the recipe. Voila! The Spice Trade. Happy accident! It's like three ships from different parts of the world crashed and the resulting mixture of worlds was metallicaly delicious. -Kirk
+    notes: |+2
+      This drink is fucking metal! I wanted to make a Weeper's Joy, but I couldn't remember the recipe. Voila! The Spice Trade. Happy accident! It's like three ships from different parts of the world crashed and the resulting mixture of worlds was metallicaly delicious. -Kirk
     glassware: coupe
     ingredients:
     - 1 oz Gilka Kummel
@@ -765,7 +784,8 @@ recipes:
     - citrus
   - name: Thrilla in Manilla
     author: David Wondrich
-    notes: Lambanog is a type of clear Philippine coconut-palm brandy. Since this is difficult to impossible to find, any white spirit that's light, clean, and floral will do, although you may have to tinker with the name of the drink. Pisco is a good place to start. To make the Jaggery syrup, melt 2 pounds of jaggery in 16 oz. water over a low flame until all is dissolved. This is easier if you hack the loaves it comes in into small pieces first. Bottle and keep refrigerated; this stuff will ferment on you.
+    notes: |+2
+      Lambanog is a type of clear Philippine coconut-palm brandy. Since this is difficult to impossible to find, any white spirit that's light, clean, and floral will do, although you may have to tinker with the name of the drink. Pisco is a good place to start. To make the Jaggery syrup, melt 2 pounds of jaggery in 16 oz. water over a low flame until all is dissolved. This is easier if you hack the loaves it comes in into small pieces first. Bottle and keep refrigerated; this stuff will ferment on you.
     glassware: coupe
     ingredients:
     - 2 oz Queen-brand Lambanog
@@ -782,7 +802,8 @@ recipes:
     - citrus
   - name: Transatlantic Giant
     author: Colin Shearn
-    notes: Nailing the proportions could not have been easy on this one. A lot of strong flavors that want to pull the drink away from its natural center, but Colin got them all to fall in line.
+    notes: |+2
+      Nailing the proportions could not have been easy on this one. A lot of strong flavors that want to pull the drink away from its natural center, but Colin got them all to fall in line.
     glassware: coupe
     ingredients:
     - 1 1/2 oz Buffalo Trace
@@ -812,7 +833,8 @@ recipes:
     - stirred
   - name: Under the Volcano
     author: Kyle Davidson
-    notes: This is entirely tangential, but this drink makes me want to say, "I'm under a volcano? No, you're under a volcano!" -Maks
+    notes: |+2
+      This is entirely tangential, but this drink makes me want to say, "I'm under a volcano? No, you're under a volcano!" -Maks
     glassware: coupe
     ingredients:
     - 2 oz Tesoro Anejo

@@ -3,7 +3,8 @@ hidden: true
 recipes:
 
 - name: Aji Amarillo Chili-Infused Oro de Lidia Reposado Tequila
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Oro de Lidia reposado tequila
   - 4 dried aji amarillo chilis (chopped)
@@ -13,7 +14,8 @@ recipes:
   - Strain through a fine mesh strainer. 
   - Bottle, label and store at room temperature.
 - name: Ancho Chili-Infused Sweet Vermouth
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 4 dried ancho chilis (stemmed and seeded)
   - 1 liter Martini & Rossi Rosso Vermouth
@@ -23,7 +25,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Applewood Smoked Salt Solution
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 900 mL water
   - 100g applewood smoked salt
@@ -31,7 +34,8 @@ recipes:
   - Add the water and salt to a container and shake until the sale is completely dissolved.
   - Seal, label and store at room temperature.
 - name: Arbol Chili-Infused Old Forester
-  notes: Yeilds 1 liter.
+  notes: |+2
+      Yeilds 1 liter.
   ingredients: 
   - 3 dried Arbol chilis
   - 1 liter Old Forester 100 Proof Bourbon
@@ -42,7 +46,8 @@ recipes:
   - Strain through a fine mesh strainer.
   - Bottle, label and refrigerate.
 - name: Avocado Cane Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Cane Syrup
   - 170g avocado
@@ -52,7 +57,8 @@ recipes:
   - Strain through a Superbag. 
   - Bottle, label and refrigerate.
 - name: Avocado-Infused Caña Brava Rum
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Caña Brava Rum
   - 170g avocado
@@ -62,7 +68,8 @@ recipes:
   - Strain through a fine mesh strainer and then cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Banana Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Cane Syrup
   - 170g bananas, frozen
@@ -72,7 +79,8 @@ recipes:
   - Strain through a fine mesh strainer. 
   - Bottle, label and refrigerate.
 - name: Barley Orgeat
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 800 mL water
   - 85g barley
@@ -84,7 +92,8 @@ recipes:
   - Add the sugar and heat at 70°C, stirring frequently, until the sugar is completely dissolved. 
   - Bottle, label and refrigerate.
 - name: Bay Leaf Tincture
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500 mL Everclear (or other high-proof neutral spirit)
   - 10 bay leaves
@@ -94,7 +103,8 @@ recipes:
   - Strain through a Superbag and mix in water. 
   - Bottle, label and store at room temperature.
 - name: Beet Syrup
-  notes: Yields 1.25 liters.
+  notes: |+2
+      Yields 1.25 liters.
   ingredients: 
   - 500 mL fresh beet juice
   - 250 mL water
@@ -104,7 +114,8 @@ recipes:
   - Pour into a container and cool at room temperature for 10 minutes.
   - Bottle, label and refrigerate.
 - name: Blackberry Shrub
-  notes: Yields 750 mL.
+  notes: |+2
+      Yields 750 mL.
   ingredients: 
   - 200g blackberries
   - 500g sugar
@@ -118,7 +129,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Blackberry Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter semi-rich (800g sugar; 600 mL water) Simple Syrup
   - 200g blackberries
@@ -129,7 +141,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Black Cardamom Tincture
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500 mL Everclear (or other high-proof neutral spirit)
   - 1 oz black cardamom (crushed)
@@ -139,7 +152,8 @@ recipes:
   - Strain through a fine mesh strainer and mix in the water. 
   - Bottle, label and store at room temperature.
 - name: Blueberry Cane Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Cane Syrup
   - 170g blueberries
@@ -149,7 +163,8 @@ recipes:
   - Strain through a fine mesh strainer. 
   - Bottle, label and refrigerate.
 - name: Buckwheat Orgeat
-  notes: Yields 2 liters.
+  notes: |+2
+      Yields 2 liters.
   ingredients: 
   - 1.6 liters water
   - 170g Buckwheat
@@ -163,7 +178,8 @@ recipes:
   - Mix in the orange flower water. 
   - Bottle, label and refrigerate.
 - name: Butternut Squash Seed Oil-Washed Powers Signature
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Powers Signature Release Irish Whiskey
   - 2 oz butternut squash seed oil
@@ -174,7 +190,8 @@ recipes:
   - Once the oil has frozen, strain through a coffee filter. 
   - Bottle, label and store at room temperature.
 - name: Cane Syrup
-  notes: 
+  notes: |+2
+      
   ingredients: 
   - 2 parts organic evaporated cane juice
   - 1 part water
@@ -183,7 +200,8 @@ recipes:
   - Bring to a rolling boil and then take off heat. 
   - Cool and store in the refrigerator.
 - name: Caramel Cane Syrup
-  notes: Yields 1.5 liters.
+  notes: |+2
+      Yields 1.5 liters.
   ingredients: 
   - 500 mL caramel sauce (store-bought)
   - 1 liter Cane Syrup
@@ -192,7 +210,8 @@ recipes:
   - Blend with the cane syrup in a blender for 1 minute. 
   - Bottle, label and refrigerate.
 - name: Celery Seed Syrup
-  notes: Yields 1.25 liters.
+  notes: |+2
+      Yields 1.25 liters.
   ingredients: 
   - 750g water
   - 750 mL sugar
@@ -203,7 +222,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Chamomile Tincture
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 2 oz dried chamomile flowers
   - 500 mL Everclear (or other high-proof neutral spirit)
@@ -213,7 +233,8 @@ recipes:
   - Strain and mix in the water. 
   - Bottle, label and store at room temperature.
 - name: Chipotle Tincture
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 57g chipotle chilis
   - 500 mL Everclear (or other high-proof neutral spirit)
@@ -224,7 +245,8 @@ recipes:
   - Strain and mix in the water. 
   - Bottle, label and store at room temperature.
 - name: Cilantro Tincture
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 57g fresh cilantro
   - 500 mL Everclear (or other high-proof neutral spirit)
@@ -234,7 +256,8 @@ recipes:
   - Strain and mix in the water. 
   - Bottle, label and store at room temperature.
 - name: Cinnamon Bark Syrup
-  notes: Yields 750 mL.
+  notes: |+2
+      Yields 750 mL.
   ingredients: 
   - 20g cassia cinnamon bark
   - 500 mL water
@@ -247,7 +270,8 @@ recipes:
   - Strain. 
   - Bottle, label and refrigerate.
 - name: Coconut-Infused Pisco
-  notes: Yields 750 mL.
+  notes: |+2
+      Yields 750 mL.
   ingredients: 
   - 100g unsweetened dried coconut flakes (toasted)
   - 750 ml Pisco Portón
@@ -257,7 +281,8 @@ recipes:
   - Strain through a coffee filter. 
   - Bottle, label and refrigerate.
 - name: Coffee-Chicory Cane Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500 mL black coffee
   - 1 kg sugar
@@ -268,7 +293,8 @@ recipes:
   - Strain through a fine mesh strainer. 
   - Bottle, label and refrigerate.
 - name: Coffee-Pecan Syrup
-  notes: Yields 1 quart.
+  notes: |+2
+      Yields 1 quart.
   ingredients: 
   - 24 oz Coffee-Chicory Cane Syrup
   - 8 oz Pecan Orgeat
@@ -276,7 +302,8 @@ recipes:
   - Mix all ingredients together in an airtight container.
   - Seal, label and refrigerate.
 - name: Coriander-Infused Glenmorangie Original
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Glenmorangie Original Scotch Whisky
   - 2 tbsp coriander seed (crushed)
@@ -285,7 +312,8 @@ recipes:
   - Strain through a coffee filter or cheesecloth. 
   - Bottle, label and store at room temperature.
 - name: Dead Rabbit Jamaican Rum Blend
-  notes: Yields 6.75 liters.
+  notes: |+2
+      Yields 6.75 liters.
   ingredients: 
   - 3 (750ml) btls Smith and Cross Jamaican Rum 
   - 3 (750ml) btls Cruzan Black Strap Rum
@@ -294,7 +322,8 @@ recipes:
   - Combine all the rums together and mix well. 
   - Bottle, label and store at room temperature.
 - name: Demerara Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 kg demerara sugar (we use Billington's)
   - 500 mL water
@@ -305,7 +334,8 @@ recipes:
   - Cool. 
   - Bottle, label and refrigerate.
 - name: Dill Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 135g fresh dill
   - 1 liter cold Simple Syrup
@@ -317,7 +347,8 @@ recipes:
   - Strain through a tea towel and whisk in the acid. 
   - Bottle, label and refrigerate.
 - name: Dried Apricot Syrup
-  notes: Yields 1.5 liters.
+  notes: |+2
+      Yields 1.5 liters.
   ingredients: 
   - 1 liter water
   - 200g dried apricots
@@ -329,7 +360,8 @@ recipes:
   - Return the liquid to the pot, add the sugar and heat at 70°C, stirring frequently, until the sugar is completely dissolved. 
   - Bottle, label and store in the refrigerator.
 - name: Earl Grey Tea Cane Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500 mL Earl Grey tea (on the strong side)
   - 1 kg sugar
@@ -338,7 +370,8 @@ recipes:
   - "(Caution: Cooling too quickly or unevenly will result in recrystallization.) "
   - Bottle, label and refrigerate.
 - name: Eucalyptus Tincture
-  notes: Yields 500 mL.
+  notes: |+2
+      Yields 500 mL.
   ingredients: 
   - 250 mL Everclear (or other high-proof neutral spirit)
   - 2 tbsp dried eucalyptus
@@ -348,7 +381,8 @@ recipes:
   - Strain through cheesecloth and mix in water. 
   - Bottle, label and store at room temperature.
 - name: Extra-Virgin Olive Oil-Washed Del Maguey Vida Mezcal
-  notes: Yields 750 mL.
+  notes: |+2
+      Yields 750 mL.
   ingredients: 
   - 750 mL Del Maguey Mezcal Vida
   - 2 oz extra virgin olive oil
@@ -358,7 +392,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and store at room temperature.
 - name: Fennel Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 750g sugar
   - 750 mL water
@@ -370,7 +405,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Fig Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 170g dried Mission figs (stemmed and cut into quarters)
   - 750 mL water
@@ -382,7 +418,8 @@ recipes:
   - Heat at 60°C, stirring frequently, until the sugar is completely dissolved. 
   - Bottle, label and refrigerate.
 - name: Genmaicha Tea Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 750 mL water
   - 750g sugar
@@ -394,7 +431,8 @@ recipes:
   - Strain through a fine mesh strainer. 
   - Bottle, label and refrigerate.
 - name: Ginger Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 750 mL fresh ginger juice
   - 750g sugar
@@ -404,7 +442,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Granny Smith Apple Juice
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter fresh Granny Smith apple juice
   - 1 tsp ascorbic acid
@@ -413,7 +452,8 @@ recipes:
   - (It's important to add the acid ASAP to impede the oxidation of the juice.) 
   - Transfer to an airtight container, label and refrigerate.
 - name: Green Tea-Infused Tanqueray
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Tanqueray No. 10 Gin
   - 2g green tea (equivalent to 1 tea bag)
@@ -423,7 +463,8 @@ recipes:
   - Strain through a Superbag. 
   - Bottle, label and store at room temperature.
 - name: Green Tea-Infused Tapatio Blanco Tequila
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Tapatío Blanco Tequila
   - 2g green tea (equivalent to 1 tea bag)
@@ -433,7 +474,8 @@ recipes:
   - Strain through a Superbag.
   - Bottle, label and refrigerate.
 - name: Grilled Pineapple-Infused Bols Genever
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - ¼ whole pineapple (sliced and grilled)
   - 1 liter unaged Bols Genever
@@ -442,7 +484,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Guava Syrup
-  notes: Yields 2.5 liters.
+  notes: |+2
+      Yields 2.5 liters.
   ingredients: 
   - 1kg guava puree
   - 500 mL water
@@ -452,7 +495,8 @@ recipes:
   - Strain through cheesecloth.
   - Bottle, label and refrigerate.
 - name: Honey Syrup
-  notes: Yields 1.25 liters.
+  notes: |+2
+      Yields 1.25 liters.
   ingredients: 
   - 20 oz clover honey
   - 10 oz hot water
@@ -461,7 +505,8 @@ recipes:
   - Whisk the honey with the water. 
   - Bottle, label and refrigerate.
 - name: Honeydew and Cucumber-Infused Botanist Gin
-  notes: Yields 750 mL.
+  notes: |+2
+      Yields 750 mL.
   ingredients: 
   - 500g honeydew (thinly sliced)
   - 750 mL Botanist Gin
@@ -472,7 +517,8 @@ recipes:
   - Strain through a fine mesh strainer.
   - Bottle, label and refrigerate.
 - name: Horchata Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 750 mL rice milk
   - 1 cinnamon sticks
@@ -485,7 +531,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and store at room temperature.
 - name: House Cardamom Bitters
-  notes: 
+  notes: |+2
+      
   ingredients: 
   - 3 parts Regan's Orange Bitters No. 6
   - 1 part Scrappy's Cardamom Bitters
@@ -493,7 +540,8 @@ recipes:
   - Add both bitters to the container, seal the lid and give it a good shake. 
   - Transfer to a dasher bottle, label and store at room temperature.
 - name: House Orange Bitters
-  notes: 
+  notes: |+2
+      
   ingredients: 
   - 1 part Regans' Orange Bitters No. 6
   - 1 part Angostura Orange Bitters
@@ -501,7 +549,8 @@ recipes:
   - Add both bitters to the container, seal the lid and give it a good shake. 
   - Transfer to a dasher bottle, label and store at room temperature.
 - name: Kaffir Lime Leaf Tincture
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500 mL Everclear (or other high-proof neutral spirit)
   - 10 fresh kaffir lime leaves
@@ -511,7 +560,8 @@ recipes:
   - Strain and mix in the water. 
   - Bottle, label and store at room temperature.
 - name: Lemon Sherbet
-  notes: Yields 750mL.
+  notes: |+2
+      Yields 750mL.
   ingredients: 
   - 500g fine sugar
   - Zest of 4 lemons
@@ -523,7 +573,8 @@ recipes:
   - Strain through a fine mesh strainer.
   - Bottle, label and refrigerate.
 - name: Lemongrass Tincture
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500 mL Everclear (or other high-proof neutral spirit)
   - 4 tbsp dried lemongrass
@@ -533,7 +584,8 @@ recipes:
   - Strain through a Superbag and mix with the water. 
   - Bottle, label and store at room temperature.
 - name: Macadamia Orgeat (AKA Macdaddy)
-  notes: Purrchase from orgeatworks.com, or use this less clarified recipe. Yields 1 liter.
+  notes: |+2
+      Purrchase from orgeatworks.com, or use this less clarified recipe. Yields 1 liter.
   ingredients: 
   - 250g macadamia nuts
   - 600 mL hot water
@@ -551,7 +603,8 @@ recipes:
   - Cool at room temperature. 
   - Bottle, label and refrigerate.
 - name: Mace Tincture
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500 mL Everclear (or other high-proof neutral spirit)
   - 3 tbsp mace blades (crushed)
@@ -561,7 +614,8 @@ recipes:
   - Strain through cheesecloth or a coffee filter and mix with the water. 
   - Bottle, label and store at room temperature.
 - name: Mango-Infused Pisco
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 750mL Pisco Portón
   - 1  ripe mango (peeled and pitted)
@@ -571,7 +625,8 @@ recipes:
   - Strain through a Superbag.
   - Bottle, label and refrigerate.
 - name: Matcha Green Tea Coco López
-  notes: Yields 15 ounces.
+  notes: |+2
+      Yields 15 ounces.
   ingredients: 
   - 15 oz Coco López
   - 1 tsp matcha green tea
@@ -580,7 +635,8 @@ recipes:
   - Pour into an airtight container and refrigerate. 
   - In use, hold at room temperature.
 - name: Mint Syrup
-  notes: Yields roughly 30 ounces.
+  notes: |+2
+      Yields roughly 30 ounces.
   ingredients: 
   - 12 oz water
   - 14 fresh mint sprigs
@@ -596,7 +652,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Nutmeg Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 kg sugar
   - 20g ground nutmeg
@@ -607,7 +664,8 @@ recipes:
   - Strain through cheesecloth.
   - Bottle, label and refrigerate.
 - name: Orange Sherbet
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - Zest of 3 oranges
   - 750g fine sugar
@@ -620,7 +678,8 @@ recipes:
   - Strain through a fine mesh strainer.
   - Bottle, label and refrigerate.
 - name: Orgeat
-  notes: Purchase from orgeatworks.com, or use this less clarified recipe.
+  notes: |+2
+      Purchase from orgeatworks.com, or use this less clarified recipe.
   ingredients: 
   - 250g blanched almonds
   - 600 mL hot water
@@ -638,7 +697,8 @@ recipes:
   - Cool at room temperature. 
   - Bottle, label and refrigerate.
 - name: Paprika Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 750g sugar
   - 50g smoked ground paprika
@@ -649,7 +709,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Passion Berry Syrup
-  notes: Yields 750 mL.
+  notes: |+2
+      Yields 750 mL.
   ingredients: 
   - 500g sugar
   - 20 passion berries
@@ -660,7 +721,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Passion Fruit Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 kg sugar
   - 500 mL passion fruit juice (Ceres brand)
@@ -669,7 +731,8 @@ recipes:
   - Remove from heat and cool at room temperature in an airtight container for 1 hour. 
   - Bottle, label and refrigerate.
 - name: Pear Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 2 sweet green pears
   - 750g sugar
@@ -681,7 +744,8 @@ recipes:
   - Strain through cheesecloth.
   - Bottle, label and refrigerate.
 - name: Pecan Orgeat
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 250g pecans, crushed
   - 600 mL hot water
@@ -698,7 +762,8 @@ recipes:
   - Cool at room temperature. 
   - Bottle, label and refrigerate.
 - name: Pistachio Orgeat
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 250g pistachios
   - 600 mL hot water
@@ -716,7 +781,8 @@ recipes:
   - Cool at room temperature. 
   - Bottle, label and refrigerate.
 - name: Pomegranate Syrup
-  notes: Yields 1.5 liters.
+  notes: |+2
+      Yields 1.5 liters.
   ingredients: 
   - 1.2 liters pomegranate juice
   - 800g sugar
@@ -727,7 +793,8 @@ recipes:
   - Pour into an airtight container and cool at room temperature for 15 minutes. 
   - Bottle, label and refrigerate.
 - name: Poppy Seed Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 30g poppy seeds
   - 750 mL water
@@ -738,7 +805,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Pumpkin Seed-Washed Powers Gold Irish Whiskey
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Powers Gold Irish Whiskey
   - 2 oz pumpkin seed oil
@@ -749,7 +817,8 @@ recipes:
   - Once the oil has frozen, strain the whiskey through a Super-bag. 
   - Bottle, label and store at room temperature.
 - name: Pumpkin Tincture
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500 mL Everclear (or other high-proof neutral spirit)
   - ¼ cup toasted pumpkin seeds
@@ -765,7 +834,8 @@ recipes:
   - Strain through cheesecloth and mix in the water. 
   - Bottle, label and store at room temperature.
 - name: Raspberry-Infused Bruto Americano
-  notes: Yields 750 mL.
+  notes: |+2
+      Yields 750 mL.
   ingredients: 
   - 255g (1 standard-size container) raspberries
   - 750 mL Bruto Americano
@@ -777,7 +847,8 @@ recipes:
   - Bottle, label and refrigerate. 
   - Repeat with the remaining raspberries and Bruto Americano.
 - name: Raspberry Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter semi-rich Simple Syrup (4 parts sugar to 3 parts water)
   - 170g raspberries
@@ -789,7 +860,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Rhubarb Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Simple Syrup
   - 0.25 oz rhubarb extract (we buy ours at terraspice.com)
@@ -797,7 +869,8 @@ recipes:
   - Combine the syrup and extract and whisk or blend thoroughly until completely incorporated. 
   - Bottle, label and refrigerate.
 - name: Sage-Infused Dolin Blanc Vermouth
-  notes: Yields 750 mL.
+  notes: |+2
+      Yields 750 mL.
   ingredients: 
   - 750 mL Dolin Blanc Vermouth
   - 25g fresh sage leaves
@@ -806,7 +879,8 @@ recipes:
   - Strain through a fine mesh strainer. 
   - Bottle, label and refrigerate.
 - name: Saline Solution
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 100g kosher salt
   - 30 oz water
@@ -814,7 +888,8 @@ recipes:
   - Mix the salt and water together in an airtight container and shake until the salt is completely dissolved.
   - Store at room temperature.
 - name: Sesame-Infused Powers Gold Irish Whiskey
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 3 tsp white sesame seeds
   - 1 liter Powers Gold Irish Whiskey
@@ -825,7 +900,8 @@ recipes:
   - Strain through a fine mesh strainer. 
   - Bottle, label and store at room temperature.
 - name: Shiso Dry Vermouth
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Noilly Pratt Dry Vermouth
   - 20 shiso leaves
@@ -838,7 +914,8 @@ recipes:
   - Bottle, label and store at room temperature. 
   - Repeat with the remaining vermouth and shiso leaves.
 - name: Silver Needle Tincture
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500 mL Everclear(or other high-proof neutral spirit)
   - 2 tbsp Silver Needle Tea
@@ -848,7 +925,8 @@ recipes:
   - Strain through a Superbag and mix in the water. 
   - Bottle, label and store at room temperature.
 - name: Simple Syrup
-  notes: 
+  notes: |+2
+      
   ingredients: 
   - 1 part sugar
   - 1 part water
@@ -857,7 +935,8 @@ recipes:
   - Transfer to an airtight container and cool at room temperature. 
   - Bottle, label and refrigerate.
 - name: Smoked Black Pepper Tincture
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500 mL Everclear (or other high-proof neutral spirit)
   - 3 tbsp ground smoked black peppercorns
@@ -867,7 +946,8 @@ recipes:
   - Strain through cheesecloth or a coffee filter and mix with the water. 
   - Bottle, label and store at room temperature.
 - name: Spiced Pear Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Cane Syrup
   - 1 ripe Bartlett pear, cored and chopped
@@ -879,7 +959,8 @@ recipes:
   - Strain through cheesecloth.
   - Bottle, label and refrigerate.
 - name: Strawberry Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Cane Syrup
   - 170g frozen strawberries
@@ -889,7 +970,8 @@ recipes:
   - Strain through a fine mesh strainer. 
   - Bottle, label and refrigerate.
 - name: Strawberry Teuila Cabeza
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 liter Tequila Cabeza
   - 500g strawberries (stemmed and halved)
@@ -900,7 +982,8 @@ recipes:
   - Strain through a fine mesh strainer. 
   - Bottle, label and refrigerate.
 - name: Sugar Snap Pea-Infused El Tesoro Platinum Tequila
-  notes: Yields 750 mL.
+  notes: |+2
+      Yields 750 mL.
   ingredients: 
   - 250g sugar snap peas (chopped)
   - 750 mL El Tesoro Blanco Platinum Tequila
@@ -909,7 +992,8 @@ recipes:
   - Strain through a fine mesh strainer. 
   - Bottle, label and refrigerate.
 - name: Sumac Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500 mL water
   - 2 tbsp ground sumac
@@ -920,7 +1004,8 @@ recipes:
   - Strain through cheesecloth and cool at room temperature. 
   - Bottle, label and refrigerate.
 - name: Sunflower Orgeat
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 250g sunflower seeds
   - 600 mL hot water
@@ -937,7 +1022,8 @@ recipes:
   - Cool at room temperature. 
   - Bottle, label and refrigerate.
 - name: Tansy Tincture
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 28g tansy leaves
   - 500 mL Everclear (or other high-proof neutral spirit)
@@ -948,7 +1034,8 @@ recipes:
   - Mix in the water. 
   - Bottle, label and store at room temperature.
 - name: Tarragon Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 750 mL water
   - 2 tbsp dried tarragon
@@ -959,7 +1046,8 @@ recipes:
   - Strain through a fine mesh strainer. 
   - Bottle, label and refrigerate.
 - name: Tart Cherry Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 170g tart cherries, pitted and halved
   - 800g sugar
@@ -970,7 +1058,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Togarashi Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 750 mL water
   - 750g sugar
@@ -981,7 +1070,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Tomato Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500g cherry tomatoes
   - 250 mL water
@@ -993,7 +1083,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Tonka Bean Cane Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 1 whole tonka bean
   - 500 mL water
@@ -1005,7 +1096,8 @@ recipes:
   - Strain through cheesecloth and cool at room temperature in an airtight container. 
   - Bottle, label and refrigerate.
 - name: Turmeric Citrus
-  notes: Yields 500 mL.
+  notes: |+2
+      Yields 500 mL.
   ingredients: 
   - 500 mL water
   - 3 tbsp ground turmeric
@@ -1017,7 +1109,8 @@ recipes:
   - Strain through a coffee filter. 
   - Bottle, label and refrigerate.
 - name: Vanilla Syrup
-  notes: Yields 750 mL.
+  notes: |+2
+      Yields 750 mL.
   ingredients: 
   - 1 Tahitian vanilla bean
   - 500g sugar
@@ -1029,7 +1122,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: Viura Roija Pear Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 2 ripe Anjou pears
   - 750mL white wine (Viura Rioja)
@@ -1040,7 +1134,8 @@ recipes:
   - Strain through cheesecloth.
   - Bottle, label and refrigerate.
 - name: Walnut Orgeat
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 300g shelled walnuts
   - 750 mL waters
@@ -1054,7 +1149,8 @@ recipes:
   - Cool at room temperature and mix in the Everclear. 
   - Bottle, label and refrigerate.
 - name: Wasabi Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 750 mL water
   - 750g sugar
@@ -1065,7 +1161,8 @@ recipes:
   - Strain through cheesecloth. 
   - Bottle, label and refrigerate.
 - name: White Miso Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500 mL water
   - 2 tbsp white miso juice
@@ -1077,7 +1174,8 @@ recipes:
   - Remove from heat and cool at room temperature for 30 minutes. 
   - Bottle, label and refrigerate.
 - name: White Peony Tea Tincture
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500 mL Everclear (or other high-proof neutral spirit)
   - 2 tbsp white peony tea
@@ -1087,7 +1185,8 @@ recipes:
   - Strain through a coffee filter and mix in the water. 
   - Bottle, label and store at room temperature.
 - name: Yuzu Cane Syrup
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 750 mL yuzu juice
   - 1kg cane sugar
@@ -1098,7 +1197,8 @@ recipes:
   - Cool at room temperature in an airtight container. 
   - Bottle, label and refrigerate.
 - name: Za'atar Tincture
-  notes: Yields 1 liter.
+  notes: |+2
+      Yields 1 liter.
   ingredients: 
   - 500 mL Everclear (or other high-proof neutral spirit)
   - 4 tbsp za'atar

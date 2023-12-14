@@ -4,7 +4,8 @@ recipes:
 
 #
   - name: Demerara Syrup
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 2 parts demerara sugar
     - 1 part water
@@ -12,14 +13,16 @@ recipes:
     - Combine 2 parts demerara sugar and 1 part water in a sauce pan and cook over medium heat, stirring constantly, until the sugar has dissolved. 
     - Transfer to a storage container and refrigerate until ready to use, up to 2 months.
   - name: Salt Solution
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 10 parts water
     - 1 part kosher salt
     steps:
     - Combine water and salt in a bowl and whisk until the salt has dissolved. Transfer to a dropper or dasher bottle.
   - name: Fleur Noire Tea Syrup
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 200g water
     - 10g Fleur Noire
@@ -30,7 +33,8 @@ recipes:
     - Add the sugar and whisk until the sugar has dissolved. 
     - Transfer to a store container and refrigerate until ready to use, up to 4 weeks.
   - name: Fleur Noire Tea Cordial
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - Batch of Fleur Noire Tea Syrup
     - Citric acid
@@ -42,7 +46,8 @@ recipes:
     - Whisk until the acids have dissolved. 
     - Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
   - name: Fleur Noire Tea Infusion
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 750mL bottle of spirit
     - 30 grams Fleur Noire tea
@@ -53,7 +58,8 @@ recipes:
     - If any particles remain in the infusion, strain it again through a paper filter. 
     - Funnel back into the spirit bottle and refrigerate until ready to use, up to 3 months.
   - name: Peanut Butter-Infused Linie Aquavit
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 750mL Linie aquavit
     - 40 grams creamy peanut butter
@@ -64,7 +70,8 @@ recipes:
     - Carefully poke a hole in the solidified peanut butter and drain the liquid out. 
     - Strain the liquid through a paper coffee filter or fine-mesh sieve lined with several layers of cheesecloth, then funnel back into the aquavit bottle and refrigerate until ready to use, up to 1 month. 
   - name: Honey Syrup
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 2 parts wildflower honey
     - 1 part hot water

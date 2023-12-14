@@ -4,7 +4,8 @@ recipes:
 #
   - name: Gun Shy
     author: Alfredo
-    notes: 
+    notes: |+2
+      
     year: 2023
     glassware: coupe
     ingredients:
@@ -23,7 +24,8 @@ recipes:
     - citrus
   - name: Nazca Witch
     author: Alfredo
-    notes: 
+    notes: |+2
+      
     year: 2023
     glassware: rocks
     ingredients:
@@ -43,7 +45,8 @@ recipes:
   - name: Gravity Sour
     author: Christian
     year: 2022
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1 glass Underberg

@@ -4,7 +4,8 @@ recipes:
 #Summer
   #Farmer's Market
   - name: La Rosa
-    notes:  You'd never think that tequila and amaro, the classic Italian digestif, would make sense together in a cocktail. Enter the strawberry, which somehow brings these strong spirits into harmony.
+    notes: |+2
+       You'd never think that tequila and amaro, the classic Italian digestif, would make sense together in a cocktail. Enter the strawberry, which somehow brings these strong spirits into harmony.
     glassware: martini
     ingredients:
     - 1 strawberry, hulled
@@ -28,7 +29,8 @@ recipes:
     - sparkling
     - citrus
   - name: Maria sin Sangre
-    notes: Think of this drink as a Bloody Mary on the fly. Forget the canned tomato juice; here, the freshness of summer's favorite fruit is muddled directly into the drink. To make this drink in larger yields, pulse the tomatoes and basil in a food processor 5 or 6 times, then strain through a fine-mesh sieve or a piece of cheesecloth and discard the solids.
+    notes: |+2
+      Think of this drink as a Bloody Mary on the fly. Forget the canned tomato juice; here, the freshness of summer's favorite fruit is muddled directly into the drink. To make this drink in larger yields, pulse the tomatoes and basil in a food processor 5 or 6 times, then strain through a fine-mesh sieve or a piece of cheesecloth and discard the solids.
     glassware: coupe
     ingredients:
     - 6 cherry tomatoes
@@ -52,7 +54,8 @@ recipes:
     - shaken
     - citrus
   - name: Sloe & Low
-    notes:  Sloe gin, an invention of the British, is infused with sloe berries. To bring that flavor to the fore, this drink calls for both raspberries and blackberries and is capped off by cherry-flavored maraschino liqueur.
+    notes: |+2
+       Sloe gin, an invention of the British, is infused with sloe berries. To bring that flavor to the fore, this drink calls for both raspberries and blackberries and is capped off by cherry-flavored maraschino liqueur.
     glassware: rocks
     ingredients:
     - 1½ ounces Plymouth gin
@@ -74,7 +77,8 @@ recipes:
     - shaken
     - citrus
   - name: Santana's Sour
-    notes: Hot peppers, like jalapeños and serranos, express their flavors extremely well in the presence of booze. Often too well, for my taste—it can be really difficult to balance such a powerful heat factor in a cocktail. But I love a little spice, so I've worked hard to find the middle ground, and this cocktail is it. Rather than create a syrup, I muddle jalapeño slices to limit the amount of time that the pepper is in contact with the alcohol. By doing this, I can control the spice level and ramp it up for my friends who love an extra-spicy drink. At Clover Club, we often feature a jalapeño-infused tequila, another great way to incorporate peppers into your drinks. You can infuse your own by letting peppers sit in tequila for 8 to 15 minutes, tasting along the way so you can strain out the peppers when you have achieved the spice level you desire.
+    notes: |+2
+      Hot peppers, like jalapeños and serranos, express their flavors extremely well in the presence of booze. Often too well, for my taste—it can be really difficult to balance such a powerful heat factor in a cocktail. But I love a little spice, so I've worked hard to find the middle ground, and this cocktail is it. Rather than create a syrup, I muddle jalapeño slices to limit the amount of time that the pepper is in contact with the alcohol. By doing this, I can control the spice level and ramp it up for my friends who love an extra-spicy drink. At Clover Club, we often feature a jalapeño-infused tequila, another great way to incorporate peppers into your drinks. You can infuse your own by letting peppers sit in tequila for 8 to 15 minutes, tasting along the way so you can strain out the peppers when you have achieved the spice level you desire.
     glassware: double rocks
     ingredients:
     - 10 cilantro leaves
@@ -98,7 +102,8 @@ recipes:
     - citrus
     - margarita
   - name: Blush Baby
-    notes: As anyone who's ever been to a beach resort can tell you, rum and fruit are a natural pair. The caramel-like sugars in Flor de Caña and Appleton Estate rums offer amazing depth when combined with the berry fruit.
+    notes: |+2
+      As anyone who's ever been to a beach resort can tell you, rum and fruit are a natural pair. The caramel-like sugars in Flor de Caña and Appleton Estate rums offer amazing depth when combined with the berry fruit.
     glassware: wine glass
     ingredients:
     - 1 blackberry
@@ -126,7 +131,8 @@ recipes:
   #Fourth of July
   - name: Spread Eagle Punch
     author: David Wondrich
-    notes: This recipe comes directly from David Wondrich's Fourth of July bash. He wrote the book on punch—and I mean that literally; his book, <i>Punch</i>, gives an in-depth history of this style of drink—so there is always at least one bowl of the stuff on hand. Makes 18 servings.
+    notes: |+2
+      This recipe comes directly from David Wondrich's Fourth of July bash. He wrote the book on punch—and I mean that literally; his book, <i>Punch</i>, gives an in-depth history of this style of drink—so there is always at least one bowl of the stuff on hand. Makes 18 servings.
     glassware: punch bowl
     ingredients:
     - Peels of 12 lemons
@@ -152,7 +158,8 @@ recipes:
     - punch
     - citrus
   - name: Boathouse Punch
-    notes: At the bar, we have giant ice molds to make the ice cubes that keep this punch cold, but when I do it at home, a Tupperware container works just as well. Fill a 1-quart to 2-quart container with hot water (which freezes into clearer ice) and stick it in the freezer twenty-four hours before the party. Then add the giant cube to your punch bowl right before the guests arrive; it keeps everything cold and looks beautiful. Makes 20 servings.
+    notes: |+2
+      At the bar, we have giant ice molds to make the ice cubes that keep this punch cold, but when I do it at home, a Tupperware container works just as well. Fill a 1-quart to 2-quart container with hot water (which freezes into clearer ice) and stick it in the freezer twenty-four hours before the party. Then add the giant cube to your punch bowl right before the guests arrive; it keeps everything cold and looks beautiful. Makes 20 servings.
     glassware: punch bowl
     ingredients:
     - Peels of 4 lemons
@@ -182,7 +189,8 @@ recipes:
     - punch
     - sparkling
   - name: Jersey Julep
-    notes: Juleps, tiny mountains of crushed ice with flags of refreshing mint leaves, are made for the height of summer. And the ice might be the most important ingredient of all; without it, the drink won't have the right water content and will be unbalanced. Adding the ice in three parts ensures that the cocktail will be just diluted enough.
+    notes: |+2
+      Juleps, tiny mountains of crushed ice with flags of refreshing mint leaves, are made for the height of summer. And the ice might be the most important ingredient of all; without it, the drink won't have the right water content and will be unbalanced. Adding the ice in three parts ensures that the cocktail will be just diluted enough.
     glassware: julep tin
     ingredients:
     - 8 to 10 mint leaves
@@ -202,7 +210,8 @@ recipes:
     - julep
     - stirred
   - name: Southland Sipper
-    notes: This cocktail falls into a category I like to call porch drinks (or stoop drinks, for those of us who live in Brooklyn). On a humid summer day on the East Coast, I am looking for a long drink that is really going to quench my thirst. This one does the trick.
+    notes: |+2
+      This cocktail falls into a category I like to call porch drinks (or stoop drinks, for those of us who live in Brooklyn). On a humid summer day on the East Coast, I am looking for a long drink that is really going to quench my thirst. This one does the trick.
     glassware: collins
     ingredients:
     - 1 strawberry, hulled
@@ -226,7 +235,8 @@ recipes:
     - citrus
     - summer
   - name: Ginger-Mint Lemonade
-    notes: The ginger syrup in this drink is the real star. It's so good, in fact, that you could leave the booze out entirely for an undeniably delicious mocktail.
+    notes: |+2
+      The ginger syrup in this drink is the real star. It's so good, in fact, that you could leave the booze out entirely for an undeniably delicious mocktail.
     glassware: collins
     ingredients:
     - 8 mint leaves
@@ -247,7 +257,8 @@ recipes:
     - citrus
     - summer
   - name: Moscow Mule
-    notes: Though this drink is traditionally made with vodka, the beauty of the mule is that the formula works with any spirit. Substitute dark rum, tequila, or gin for the vodka for a delicious variation on the classic. Or try it with whiskey or Scotch, swapping out the lime juice for lemon juice.
+    notes: |+2
+      Though this drink is traditionally made with vodka, the beauty of the mule is that the formula works with any spirit. Substitute dark rum, tequila, or gin for the vodka for a delicious variation on the classic. Or try it with whiskey or Scotch, swapping out the lime juice for lemon juice.
     glassware: rocks
     ingredients:
     - 2 ounces Stoli vodka
@@ -269,7 +280,8 @@ recipes:
     - summer
   #Batching Drinks
   - name: Negroni
-    notes: Makes 10 drinks.
+    notes: |+2
+      Makes 10 drinks.
     glassware: martini
     ingredients:
     - 15 ounces Tanqueray gin
@@ -288,7 +300,8 @@ recipes:
     - stirred
     - negroni
   - name: Hemingway Daiquiri
-    notes: Makes 10 drinks.
+    notes: |+2
+      Makes 10 drinks.
     glassware: nick & nora
     ingredients:
     - 20 ounces Bacardi Heritage white rum Santa Teresa 1796
@@ -308,7 +321,8 @@ recipes:
     - shaken
     - citrus
   - name: Margarita
-    notes: Makes about 10 drinks.
+    notes: |+2
+      Makes about 10 drinks.
     glassware: rocks
     ingredients:
     - 20 ounces El Tesoro blanco tequila
@@ -328,7 +342,8 @@ recipes:
     - margarita
   #From Tiki to Modern Tropical
   - name: Summer Negroni
-    notes: The classic Negroni is one of my favorite cocktails, but it can be a bit heavy for a warm summer afternoon. This version is light and bright and well-suited to a picnic blanket.
+    notes: |+2
+      The classic Negroni is one of my favorite cocktails, but it can be a bit heavy for a warm summer afternoon. This version is light and bright and well-suited to a picnic blanket.
     glassware: rocks
     ingredients:
     - 1 ounce Bombay Dry gin
@@ -348,7 +363,8 @@ recipes:
     - stirred
     - summer
   - name: Blonde Redhead
-    notes: A couple years ago, I had made an Aperol infusion for a farmers' market charity event and had some left over. When I came back to the bar after working the event, exhausted and thirsty, one of my bartenders and I took the leftover infusion and started making a “kitchen sink” cocktail—adding whatever was handy. The result was shockingly delicious—so much so that we added it to the bar menu.
+    notes: |+2
+      A couple years ago, I had made an Aperol infusion for a farmers' market charity event and had some left over. When I came back to the bar after working the event, exhausted and thirsty, one of my bartenders and I took the leftover infusion and started making a “kitchen sink” cocktail—adding whatever was handy. The result was shockingly delicious—so much so that we added it to the bar menu.
     glassware: collins
     ingredients:
     - 3 ounces strawberry-infused Aperol
@@ -368,7 +384,8 @@ recipes:
     - citrus
     - summer
   - name: Hanalei Sun
-    notes: "This is one of the simplest recipes in the book and one of the first drinks people gravitate toward when I put it out at a party. Named for Hanalei (pronounced hawn-ah-lay) Bay on the north shore of Kauai, it's a great first-time infusion experiment. It does require a bit of lead time, however: The mixture must sit for at least one week for maximum flavor, so plan accordingly. Makes about 3 cups, enough for 7 drinks."
+    notes: |+2
+      "This is one of the simplest recipes in the book and one of the first drinks people gravitate toward when I put it out at a party. Named for Hanalei (pronounced hawn-ah-lay) Bay on the north shore of Kauai, it's a great first-time infusion experiment. It does require a bit of lead time, however: The mixture must sit for at least one week for maximum flavor, so plan accordingly. Makes about 3 cups, enough for 7 drinks."
     glassware: coupe
     ingredients:
     - 1 pineapple, peeled, cored, and cut into 1-inch pieces
@@ -390,7 +407,8 @@ recipes:
     - summer
     - punch
   - name: Summer Daze
-    notes: The next time you cut up a pineapple (whether for snacking or for juicing), hold on to the top. Those leaves make lovely garnishes.
+    notes: |+2
+      The next time you cut up a pineapple (whether for snacking or for juicing), hold on to the top. Those leaves make lovely garnishes.
     glassware: collins
     ingredients:
     - 1½ ounces passion fruit tea-infused rum
@@ -412,7 +430,8 @@ recipes:
     - citrus
     - summer
   - name: Pacific Swizzle
-    notes: The swizzle is a celebration of ice. This style of drink originated in the Caribbean, shortly after ice production had made its way to the islands. By blending crushed ice, alcohol, and sugar in a glass with a swizzle stick (traditionally a forked stick made from a root), you create a delightful, refreshing grown-up slushy.
+    notes: |+2
+      The swizzle is a celebration of ice. This style of drink originated in the Caribbean, shortly after ice production had made its way to the islands. By blending crushed ice, alcohol, and sugar in a glass with a swizzle stick (traditionally a forked stick made from a root), you create a delightful, refreshing grown-up slushy.
     glassware: collins
     ingredients:
     - 2 ounces passion fruit tea-infused rum
@@ -431,7 +450,8 @@ recipes:
     - citrus
     - summer
   - name: Hawaiian Iced Tea
-    notes: This cocktail is more complicated than most in this book, but I think it's worth the extra effort. And it makes a wonderful party pitcher drink. Once you prepare the infusion and the syrup, it comes together in a flash.
+    notes: |+2
+      This cocktail is more complicated than most in this book, but I think it's worth the extra effort. And it makes a wonderful party pitcher drink. Once you prepare the infusion and the syrup, it comes together in a flash.
     glassware: collins
     ingredients:
     - 2 ounces tea-infused orange vodka
@@ -451,7 +471,8 @@ recipes:
     - summer
   - name: Sugarhill Gang
     author: Brian Miller
-    notes: My favorite tiki pirate, Brian Miller, is behind this whimsical drink. Orgeat is an almond syrup that appears in many tiki recipes, most famously the Mai Tai. It's sort of a pain to make from scratch, so I recommend buying a high-quality prepared version, like the one from Orgeat Works, which is available at orgeatworks.com.
+    notes: |+2
+      My favorite tiki pirate, Brian Miller, is behind this whimsical drink. Orgeat is an almond syrup that appears in many tiki recipes, most famously the Mai Tai. It's sort of a pain to make from scratch, so I recommend buying a high-quality prepared version, like the one from Orgeat Works, which is available at orgeatworks.com.
     glassware: nick & nora
     ingredients:
     - 1½ ounces Appleton Estate Reserve aged rum
@@ -472,7 +493,8 @@ recipes:
     - citrus
     - summer
   - name: Mai Tai
-    notes: The Mai Tai is by far the most iconic drink to come out of the tiki craze. This 1944 version was created by Trader Vic at his flagship bar in Oakland, California. Recipes were kept under wraps at most tiki dens, causing bartenders elsewhere to make up their own versions upon the request of a patron. I have been served many a tropical drink under the moniker Mai Tai, and while they are usually delicious, they are usually not Mai Tais! Vic's recipe is boozy, citrusy, and strong… and not red or blue!
+    notes: |+2
+      The Mai Tai is by far the most iconic drink to come out of the tiki craze. This 1944 version was created by Trader Vic at his flagship bar in Oakland, California. Recipes were kept under wraps at most tiki dens, causing bartenders elsewhere to make up their own versions upon the request of a patron. I have been served many a tropical drink under the moniker Mai Tai, and while they are usually delicious, they are usually not Mai Tais! Vic's recipe is boozy, citrusy, and strong… and not red or blue!
     glassware: rocks
     ingredients:
     - 1 ounce Clément VSOP Martinique rum
@@ -496,7 +518,8 @@ recipes:
     - tiki
     - mai tai
   - name: Gold Coast
-    notes: Allspice is another flavor frequently encountered in the world of tropical drinks. Here, instead of going through the trouble of making an allspice syrup, I use Dale DeGroff's aromatic allspice bitters.
+    notes: |+2
+      Allspice is another flavor frequently encountered in the world of tropical drinks. Here, instead of going through the trouble of making an allspice syrup, I use Dale DeGroff's aromatic allspice bitters.
     glassware: wine glass
     ingredients:
     - 2 ounces Bacardi 8 aged rum
@@ -517,7 +540,8 @@ recipes:
     - citrus
     - summer
   - name: Blue Hawaii
-    notes: A tiki party wouldn't be complete without a blue drink, and the Blue Hawaii (also known as the Blue Hawaiian, depending on whom you ask) is one of my favorites. It was created in 1957 by Harry Yee, legendary head bartender at the Hilton Hawaiian Village in Waikiki, when a sales representative of Dutch distiller Bols asked him to design a drink that featured their blue curaçao liqueur. This is my version of his classic.
+    notes: |+2
+      A tiki party wouldn't be complete without a blue drink, and the Blue Hawaii (also known as the Blue Hawaiian, depending on whom you ask) is one of my favorites. It was created in 1957 by Harry Yee, legendary head bartender at the Hilton Hawaiian Village in Waikiki, when a sales representative of Dutch distiller Bols asked him to design a drink that featured their blue curaçao liqueur. This is my version of his classic.
     glassware: hurricane
     ingredients:
     - 1½ ounces El Dorado 3 Year white rum
@@ -541,7 +565,8 @@ recipes:
     - citrus
     - tiki
   - name: Thai Daiquiri
-    notes: There are few things as perfect as a Daiquiri. The three-ingredient cocktail is an exercise in simplicity. But when I have some lemongrass syrup on hand, I like to swap it in for regular simple syrup; the change is subtle but beguiling, and great for a summer evening. Take it a step farther by muddling three or four leaves of Thai basil in the shaker before adding the other ingredients.
+    notes: |+2
+      There are few things as perfect as a Daiquiri. The three-ingredient cocktail is an exercise in simplicity. But when I have some lemongrass syrup on hand, I like to swap it in for regular simple syrup; the change is subtle but beguiling, and great for a summer evening. Take it a step farther by muddling three or four leaves of Thai basil in the shaker before adding the other ingredients.
     glassware: martini
     ingredients:
     - 2 ounces Banks 5 Island white rum
@@ -561,7 +586,8 @@ recipes:
     - citrus
     - daiquiri
   - name: Leilani's Fizz
-    notes: Lychees don't have much of a following here in the States, but I grew up eating them like candy and absolutely love the way they taste in cocktails. If you can't find fresh lychee nuts, increase the amount of lychee juice to 1½ ounces.
+    notes: |+2
+      Lychees don't have much of a following here in the States, but I grew up eating them like candy and absolutely love the way they taste in cocktails. If you can't find fresh lychee nuts, increase the amount of lychee juice to 1½ ounces.
     glassware: collins
     ingredients:
     - 2 fresh or canned lychee nuts
@@ -583,7 +609,8 @@ recipes:
     - shaken
     - citrus
   - name: Pele's Wrath
-    notes: In Hawaii, Pele is the goddess of fire; she's the one who causes volcanoes to erupt. When I was creating a cocktail menu for the Andaz Wailea in Maui, I wanted to include this drink, but the cultural advisor, Kainoa, insisted that we change the name so as not to anger Pele.
+    notes: |+2
+      In Hawaii, Pele is the goddess of fire; she's the one who causes volcanoes to erupt. When I was creating a cocktail menu for the Andaz Wailea in Maui, I wanted to include this drink, but the cultural advisor, Kainoa, insisted that we change the name so as not to anger Pele.
     glassware: pilsner
     ingredients:
     - 2 ounces Don Julio blanco tequila
@@ -605,7 +632,8 @@ recipes:
     - shaken
     - citrus
   - name: Kamehameha Rum Punch
-    notes: This tiki classic was originally created in 1960 at the Hotel King Kamehameha (since closed) in Kona, Hawaii. I've placed this delicious swizzle on many cocktail menus over the years. It's always a crowd pleaser.
+    notes: |+2
+      This tiki classic was originally created in 1960 at the Hotel King Kamehameha (since closed) in Kona, Hawaii. I've placed this delicious swizzle on many cocktail menus over the years. It's always a crowd pleaser.
     year: 1960
     glassware: pilsner
     ingredients:
@@ -634,7 +662,8 @@ recipes:
   #Labor Day
   - name: Tropical White Sangria
     year: 2005
-    notes: This sangria recipe was created for the 2005 summer menu at Flatiron Lounge and tested out at my in-laws' house for one of our summer pool parties. Sangria is a fantastic drink for large parties because it tastes better when you make it the night before. The key to a great sangria is to give it time to sit, allowing the flavors to meld together. On a hot day, it is also nice to have a lower-alcohol option, and this sangria can easily be made lighter by diluting it with club soda. Makes 30 drinks.
+    notes: |+2
+      This sangria recipe was created for the 2005 summer menu at Flatiron Lounge and tested out at my in-laws' house for one of our summer pool parties. Sangria is a fantastic drink for large parties because it tastes better when you make it the night before. The key to a great sangria is to give it time to sit, allowing the flavors to meld together. On a hot day, it is also nice to have a lower-alcohol option, and this sangria can easily be made lighter by diluting it with club soda. Makes 30 drinks.
     glassware: wine glass
     ingredients:
     - 7 very ripe mangoes, peeled, pitted, and roughly diced into 1-inch cubes
@@ -660,7 +689,8 @@ recipes:
     - citrus
     - sparkling
   - name: Cuzco
-    notes: Pisco, a South American brandy claimed by both Peru and Chile, is an incredibly floral, fruity spirit—perfect for a hot summer day. To wit, it makes a great base for a poolside pitcher drink. Makes 12 to 15 drinks.
+    notes: |+2
+      Pisco, a South American brandy claimed by both Peru and Chile, is an incredibly floral, fruity spirit—perfect for a hot summer day. To wit, it makes a great base for a poolside pitcher drink. Makes 12 to 15 drinks.
     glassware: wine glass
     ingredients:
     - 20 ounces BarSol pisco
@@ -763,7 +793,8 @@ recipes:
 #Fall
   #The Classics
   - name: Old Fashioned
-    notes: "Whenever I'm at a new bar and want to get a better understanding of the bartender's style, I order this drink. The mandatory ingredients for an Old Fashioned are few—whiskey, bitters, sugar, water, and citrus—but within that formula there are so many choices to make. Does the bartender use the traditional Angostura bitters, or some other variety? Does she muddle a sugar cube into the glass, or use a simple syrup? What about the citrus: orange or lemon or both? Really, the options are endless, and any bartender worth her salt should use this drink as her calling card. My version hovers between the old school and the new: I use demerara syrup because I think it creates an ideal consistency while adding depth and flavor. For bitters, I use the classic Angostura, as well as orange. I love Bulleit rye in an Old Fashioned, and I round out the drink with both lemon and orange twists. Also, I'm a big believer that an Old Fashioned needs quite a bit of dilution, so I stir mine with ice for 25 seconds, or until the ice has fallen below the line of the liquid, then pour it over fresh ice cubes, or ideally one large cube, to serve. The size of the ice cubes really does matter for a drink like this. If the cubes are small, stir for less time. More surface area results in faster dilution."
+    notes: |+2
+      "Whenever I'm at a new bar and want to get a better understanding of the bartender's style, I order this drink. The mandatory ingredients for an Old Fashioned are few—whiskey, bitters, sugar, water, and citrus—but within that formula there are so many choices to make. Does the bartender use the traditional Angostura bitters, or some other variety? Does she muddle a sugar cube into the glass, or use a simple syrup? What about the citrus: orange or lemon or both? Really, the options are endless, and any bartender worth her salt should use this drink as her calling card. My version hovers between the old school and the new: I use demerara syrup because I think it creates an ideal consistency while adding depth and flavor. For bitters, I use the classic Angostura, as well as orange. I love Bulleit rye in an Old Fashioned, and I round out the drink with both lemon and orange twists. Also, I'm a big believer that an Old Fashioned needs quite a bit of dilution, so I stir mine with ice for 25 seconds, or until the ice has fallen below the line of the liquid, then pour it over fresh ice cubes, or ideally one large cube, to serve. The size of the ice cubes really does matter for a drink like this. If the cubes are small, stir for less time. More surface area results in faster dilution."
     glassware: rocks
     ingredients:
     - 2 ounces Bulleit rye whiskey
@@ -863,7 +894,8 @@ recipes:
     - stirred
     - old-fashioned
   - name: Manhattan
-    notes: "I first started drinking Manhattans while I was cocktail waitressing in San Francisco. Embarrassing confession: I used to add a splash of cherry juice to my glass to temper the strength of the drink—it was my gateway into the world of boozy cocktails. However, it wasn't long before I ditched the cherry juice and fell in love with the unadulterated Manhattan. Now it's probably my single favorite drink. If I could have invented any cocktail in the world, it would have been this one. My adoration for the Manhattan begins with my love for its base spirit, whiskey. This recipe is a great way to showcase different whiskeys and better understand their various profiles. Start with rye, then make one with bourbon—you'll find a remarkable difference. The finishing touch is a Luxardo cherry, which you can buy online and in specialty stores. These Italian cherries are the best I've ever had, and in my opinion, house-made versions just can't compete."
+    notes: |+2
+      "I first started drinking Manhattans while I was cocktail waitressing in San Francisco. Embarrassing confession: I used to add a splash of cherry juice to my glass to temper the strength of the drink—it was my gateway into the world of boozy cocktails. However, it wasn't long before I ditched the cherry juice and fell in love with the unadulterated Manhattan. Now it's probably my single favorite drink. If I could have invented any cocktail in the world, it would have been this one. My adoration for the Manhattan begins with my love for its base spirit, whiskey. This recipe is a great way to showcase different whiskeys and better understand their various profiles. Start with rye, then make one with bourbon—you'll find a remarkable difference. The finishing touch is a Luxardo cherry, which you can buy online and in specialty stores. These Italian cherries are the best I've ever had, and in my opinion, house-made versions just can't compete."
     glassware: nick & nora
     ingredients:
     - 2 ounces Bulleit rye or Wild Turkey Rare Breed bourbon
@@ -882,7 +914,8 @@ recipes:
     - stirred
     - manhattan
   - name: Sidecar
-    notes: This Cognac-based drink was on our first fall menu at Flatiron Lounge. I was astonished by how many people ordered it because someone they once knew (generally a grandparent) had always drunk Sidecars. Rest assured, this drink doesn't need nostalgia to hold it up. As one of the original sours (a family of cocktails that includes the Margarita and the Daiquiri), this cocktail is a crowd pleaser. I'll often make it for a holiday fete because it's one of the few dark-spirit cocktails that almost everyone can enjoy.
+    notes: |+2
+      This Cognac-based drink was on our first fall menu at Flatiron Lounge. I was astonished by how many people ordered it because someone they once knew (generally a grandparent) had always drunk Sidecars. Rest assured, this drink doesn't need nostalgia to hold it up. As one of the original sours (a family of cocktails that includes the Margarita and the Daiquiri), this cocktail is a crowd pleaser. I'll often make it for a holiday fete because it's one of the few dark-spirit cocktails that almost everyone can enjoy.
     glassware: nick & nora
     ingredients:
     - Superfine sugar and lemon wedge for rimming
@@ -901,7 +934,8 @@ recipes:
     - shaken
     - citrus
   - name: Champs-Élysées
-    notes: If you really love the Sidecar, you may want to try one of its most famous variations (also a classic), the Champs-Élysées. Green Chartreuse, an herbal liqueur from France, changes the formula remarkably.
+    notes: |+2
+      If you really love the Sidecar, you may want to try one of its most famous variations (also a classic), the Champs-Élysées. Green Chartreuse, an herbal liqueur from France, changes the formula remarkably.
     glassware: coupe
     ingredients:
     - 2 ounces Rémy Martin VSOP Cognac
@@ -922,7 +956,8 @@ recipes:
     - shaken
     - citrus
   - name: Martinez
-    notes: I was so excited when I first came upon this classic drink, which is thought to be the precursor to the Martini. It's sweeter, thanks to the use of Old Tom gin and maraschino liqueur, but also more complex. There are quite a few Old Tom gins on the market now, but the drink can be just as delicious when made with other styles of gin, such as London dry or genever. This is my favorite recipe for the Martinez, and one that really seems to sit well with the modern palate. You will find that many cocktail bars today serve a predominantly gin-based Martinez using a London dry gin as opposed to the classic equal-parts recipe seen in the past.
+    notes: |+2
+      I was so excited when I first came upon this classic drink, which is thought to be the precursor to the Martini. It's sweeter, thanks to the use of Old Tom gin and maraschino liqueur, but also more complex. There are quite a few Old Tom gins on the market now, but the drink can be just as delicious when made with other styles of gin, such as London dry or genever. This is my favorite recipe for the Martinez, and one that really seems to sit well with the modern palate. You will find that many cocktail bars today serve a predominantly gin-based Martinez using a London dry gin as opposed to the classic equal-parts recipe seen in the past.
     glassware: nick & nora
     ingredients:
     - 1½ ounces gin (Hayman's Old Tom, Tanqueray Old Tom, Bols Genever, or Tanqueray London Dry)
@@ -944,7 +979,8 @@ recipes:
   #New York
   - name: The Slope
     author: Julie Reiner
-    notes: "This drink is our house Manhattan at Clover Club, and it has been a constant on the menu since we opened. It's also my house Manhattan at home: When friends come over for dinner, this is the cocktail I'll often push into their hands upon arrival. Most of the recipes in this book work with various brands of spirits, but this recipe and Gin Blossom (here) were both calibrated very specifically with certain brands. I suggest you try making them as written first before swapping in other bottles."
+    notes: |+2
+      "This drink is our house Manhattan at Clover Club, and it has been a constant on the menu since we opened. It's also my house Manhattan at home: When friends come over for dinner, this is the cocktail I'll often push into their hands upon arrival. Most of the recipes in this book work with various brands of spirits, but this recipe and Gin Blossom (here) were both calibrated very specifically with certain brands. I suggest you try making them as written first before swapping in other bottles."
     glassware: nick & nora
     ingredients:
     - 2½ ounces rye (I recommend Bulleit or Wild Turkey)
@@ -965,7 +1001,8 @@ recipes:
     - stirred
     - manhattan
   - name: C3 Apple Martini
-    notes: The first version of this drink is very simple, but the flavor is akin to biting into an apple with a kick.
+    notes: |+2
+      The first version of this drink is very simple, but the flavor is akin to biting into an apple with a kick.
     glassware: nick & nora
     ingredients:
     - ¼ ounce Berentzen apple liqueur
@@ -984,7 +1021,8 @@ recipes:
     - sparkling
     - stirred
   - name: Metropolis
-    notes: With the opening of Flatiron Lounge, I made a few edits to my apple Martini invention to make it more… well… Martini-like. I traded the sparkling cider for Pommeau, a French spirit made by combining apple juice with Calvados (apple brandy), and Berentzen Apple Liqueur (a German apple schnapps). This is a fun drink to experiment with. If you can find Pommeau, give it a shot; the liqueur is available online or at specialty liquor stores.
+    notes: |+2
+      With the opening of Flatiron Lounge, I made a few edits to my apple Martini invention to make it more… well… Martini-like. I traded the sparkling cider for Pommeau, a French spirit made by combining apple juice with Calvados (apple brandy), and Berentzen Apple Liqueur (a German apple schnapps). This is a fun drink to experiment with. If you can find Pommeau, give it a shot; the liqueur is available online or at specialty liquor stores.
     glassware: martini
     ingredients:
     - 2 ounces apple-infused vodka
@@ -1002,7 +1040,8 @@ recipes:
     - autumn
     - stirred
   - name: Flatiron Martini
-    notes: This drink is a great reminder that cocktails should be about what you like to drink, not what someone else deems “correct.” I originally made it for a friend who loved vodka, and vodka only. More than ten years later, the recipe reads as a list of what not to do in a craft cocktail bar. Flavored vodka and an orange wedge instead of a twist? The horror! Somehow, those things didn't keep it from becoming one of our best-selling drinks at the bar back when I created it. And even though I make it with a twist now, I think it's still pretty damn tasty.
+    notes: |+2
+      This drink is a great reminder that cocktails should be about what you like to drink, not what someone else deems “correct.” I originally made it for a friend who loved vodka, and vodka only. More than ten years later, the recipe reads as a list of what not to do in a craft cocktail bar. Flavored vodka and an orange wedge instead of a twist? The horror! Somehow, those things didn't keep it from becoming one of our best-selling drinks at the bar back when I created it. And even though I make it with a twist now, I think it's still pretty damn tasty.
     glassware: martini
     ingredients:
     - ¼ ounce Cointreau
@@ -1023,7 +1062,8 @@ recipes:
     - freezer bar
   - name: Gin Blossom
     author: Julie Reiner
-    notes: I'm often asked where my inspiration for cocktails originates. A lot of the time, it comes from a certain ingredient or spice, but sometimes it comes from a new spirit. When the Blume Marillen apricot eau-de-vie arrived at my bar, I tried it and immediately knew that it'd make a fascinating addition to a Martini. I had already been using an apricot liqueur in our house Manhattan at Clover Club, so I created this sister drink to serve as our house Martini.
+    notes: |+2
+      I'm often asked where my inspiration for cocktails originates. A lot of the time, it comes from a certain ingredient or spice, but sometimes it comes from a new spirit. When the Blume Marillen apricot eau-de-vie arrived at my bar, I tried it and immediately knew that it'd make a fascinating addition to a Martini. I had already been using an apricot liqueur in our house Manhattan at Clover Club, so I created this sister drink to serve as our house Martini.
     glassware: nick & nora
     ingredients:
     - 1½ ounces Plymouth gin
@@ -1044,7 +1084,8 @@ recipes:
     - martini
     - freezer bar
   - name: Spiced Pear
-    notes: I can never make enough of this drink; anytime I bring it out at a party, it's gone in minutes. The same was true when we had it on the menu at Flatiron Lounge. The infusion took up too much refrigerator space to keep up with the demand!
+    notes: |+2
+      I can never make enough of this drink; anytime I bring it out at a party, it's gone in minutes. The same was true when we had it on the menu at Flatiron Lounge. The infusion took up too much refrigerator space to keep up with the demand!
     glassware: nick & nora
     ingredients:
     - 3 ounces spiced pear vodka
@@ -1062,7 +1103,8 @@ recipes:
     - shaken
   - name: Junipertivo
     author: Jerri Banks
-    notes: One thing I love about the bartending community is that it is incredibly generous. Bartenders take care of each other and are quick to support the efforts of their peers. In that vein, one of my favorite parts of our original Flatiron Lounge menus was the “guest” section, where we'd showcase drinks created by talented bartenders at other bars. Not only was it nice for them, but it also opened me and my team up to new techniques and ingredients. This drink, created by Jerri Banks, a talented bartender who was running the cocktail program at a nearby bar when we opened Flatiron Lounge, was my introduction to pomegranate molasses, which is a great cocktail ingredient. You can find it at Middle Eastern markets.
+    notes: |+2
+      One thing I love about the bartending community is that it is incredibly generous. Bartenders take care of each other and are quick to support the efforts of their peers. In that vein, one of my favorite parts of our original Flatiron Lounge menus was the “guest” section, where we'd showcase drinks created by talented bartenders at other bars. Not only was it nice for them, but it also opened me and my team up to new techniques and ingredients. This drink, created by Jerri Banks, a talented bartender who was running the cocktail program at a nearby bar when we opened Flatiron Lounge, was my introduction to pomegranate molasses, which is a great cocktail ingredient. You can find it at Middle Eastern markets.
     glassware: nick & nora
     ingredients:
     - 8 mint leaves
@@ -1087,7 +1129,8 @@ recipes:
   #Thanksgiving
   - name: Port of Call
     author: Tom Macy
-    notes: The Port of Call may be the best-selling holiday cocktail of all time at Clover Club. Created by head bartender Tom Macy, this drink not only tastes like fall, but also gives you something to do with all your leftover cranberry sauce from Thanksgiving.
+    notes: |+2
+      The Port of Call may be the best-selling holiday cocktail of all time at Clover Club. Created by head bartender Tom Macy, this drink not only tastes like fall, but also gives you something to do with all your leftover cranberry sauce from Thanksgiving.
     glassware: rocks
     ingredients:
     - 1 ounce Tanqueray gin
@@ -1108,7 +1151,8 @@ recipes:
     - shaken
     - citrus
   - name: New York Sour
-    notes: Thanksgiving is about the main meal, sure. But it's also about all the hours of work leading up to it. At my house, the first cocktail is mixed long before the turkey emerges from the oven. Around noon, I'll set out a cheese plate to hold everyone over until dinner; this cocktail with a slice of funky cheese is one of my favorite pairings of the holiday season.
+    notes: |+2
+      Thanksgiving is about the main meal, sure. But it's also about all the hours of work leading up to it. At my house, the first cocktail is mixed long before the turkey emerges from the oven. Around noon, I'll set out a cheese plate to hold everyone over until dinner; this cocktail with a slice of funky cheese is one of my favorite pairings of the holiday season.
     glassware: coupe
     ingredients:
     - 2 ounces Old Overholt rye whiskey
@@ -1130,7 +1174,8 @@ recipes:
     - shaken
     - citrus
   - name: Leftover Cosmopolitan
-    notes: For years, the leftover cranberry sauce in our refrigerator would long outlast the leftover mashed potatoes or turkey. Finally I realized that cranberry sauce makes a great cocktail ingredient; since then, it's disappeared quickly. One of my favorite ways to use it is in place of cranberry juice in a classic Cosmopolitan. The sweetness of the preserves can vary, so doctor your drink with a little simple syrup to taste.
+    notes: |+2
+      For years, the leftover cranberry sauce in our refrigerator would long outlast the leftover mashed potatoes or turkey. Finally I realized that cranberry sauce makes a great cocktail ingredient; since then, it's disappeared quickly. One of my favorite ways to use it is in place of cranberry juice in a classic Cosmopolitan. The sweetness of the preserves can vary, so doctor your drink with a little simple syrup to taste.
     glassware: martini
     ingredients:
     - 1½ ounces Absolut Citron citrus vodka
@@ -1150,7 +1195,8 @@ recipes:
     - shaken
     - citrus
   - name: Harvest Punch
-    notes: I never have any trouble falling asleep on the night of Thanksgiving. Between all the cooking, cleaning, and tryptophan, I hit the pillow with ease. But enjoying a mug of this warm rum-and-cider punch certainly doesn't hurt. Serve it after the big meal to help guests relax and digest.
+    notes: |+2
+      I never have any trouble falling asleep on the night of Thanksgiving. Between all the cooking, cleaning, and tryptophan, I hit the pillow with ease. But enjoying a mug of this warm rum-and-cider punch certainly doesn't hurt. Serve it after the big meal to help guests relax and digest.
     glassware: punch bowl
     ingredients:
     - Peel of 1 lemon
@@ -1177,7 +1223,8 @@ recipes:
     - heated
   #Fireside Drinks
   - name: Hot Toddy
-    notes: The hot toddy is really more of a rubric than a strict recipe. At its most basic, it's a mixture of liquor, hot water, and sugar. While whiskey is traditional, Cognac and rum make equally delicious cocktails; swap in hot tea for water and experiment with different sweeteners.
+    notes: |+2
+      The hot toddy is really more of a rubric than a strict recipe. At its most basic, it's a mixture of liquor, hot water, and sugar. While whiskey is traditional, Cognac and rum make equally delicious cocktails; swap in hot tea for water and experiment with different sweeteners.
     glassware: mug
     ingredients:
     - 2 ounces whiskey
@@ -1265,7 +1312,8 @@ recipes:
     - citrus
     - stirred
   - name: Brooklyn Buttered Rum
-    notes: "Buttered rum has a long history in this country (it's thought to date back to the colonial era) and is an institution of the holiday season. This version gets not one but two injections of spice: first through the infused rum, then again with the spiced butter. The resulting mixture is deliciously complex."
+    notes: |+2
+      "Buttered rum has a long history in this country (it's thought to date back to the colonial era) and is an institution of the holiday season. This version gets not one but two injections of spice: first through the infused rum, then again with the spiced butter. The resulting mixture is deliciously complex."
     glassware: mug
     ingredients:
     - 2 ounces chai-infused rum
@@ -1283,7 +1331,8 @@ recipes:
     - heated
     - citrus
   - name: Glögg
-    notes: This hot drink, which has Scandinavian roots, is a perfect party beverage. Just leave a pot of it on the lowest setting on your stovetop and set up a small garnish station next to the stove. Your guests can ladle their own mugs of Glögg when they arrive.
+    notes: |+2
+      This hot drink, which has Scandinavian roots, is a perfect party beverage. Just leave a pot of it on the lowest setting on your stovetop and set up a small garnish station next to the stove. Your guests can ladle their own mugs of Glögg when they arrive.
     glassware: mug
     ingredients:
     - 2 (750-ml) bottles medium-bodied red wine
@@ -1314,7 +1363,8 @@ recipes:
 #Winter
   #Repeal Day
   - name: Scofflaw
-    notes: “Scofflaw” was a name given to people who frequented speakeasies and disagreed with the National Prohibition Act. The cocktail followed shortly after the term was coined, in 1924. This drink is a regular on our Repeal Day menu for obvious reasons.
+    notes: |+2
+      “Scofflaw” was a name given to people who frequented speakeasies and disagreed with the National Prohibition Act. The cocktail followed shortly after the term was coined, in 1924. This drink is a regular on our Repeal Day menu for obvious reasons.
     glassware: coupe
     ingredients:
     - 1½ ounces Rittenhouse rye whiskey
@@ -1335,7 +1385,8 @@ recipes:
     - citrus
   - name: Hanky Panky
     author: Ada Coleman
-    notes: This Martini riff was created by Ada Coleman, the second head bartender at the American Bar at the Savoy in London. I include this classic on the Repeal Day party menu to celebrate women and their new freedom to belly up to the bar.
+    notes: |+2
+      This Martini riff was created by Ada Coleman, the second head bartender at the American Bar at the Savoy in London. I include this classic on the Repeal Day party menu to celebrate women and their new freedom to belly up to the bar.
     glassware: nick & nora
     ingredients:
     - 2 ounces Tanqueray No. Ten gin
@@ -1353,7 +1404,8 @@ recipes:
     - stirred
     - martini
   - name: Clover Club
-    notes: My second bar is named for both a cocktail and a place. The cocktail, listed here, is a gin drink for people who hate gin, at turns fruity and dry. In my version, dry vermouth adds a necessary layer of flavor that keeps the raspberry syrup in check. But before the drink, Clover Club was the name of a gentlemen's club based out of the Bellevue-Stratford Hotel in Philadelphia. Founded in 1882, it ran through the 1920s and its membership was made up of the intellectual elite of the time, including many respected journalists and writers. It was the tradition that invited guests—generally celebrities and politicians—would give an address to the club, and each was subjected to the sharp-witted comments of the audience when he finished. These roasts were well documented and word of them spread far and wide. I find it humorous that the original Clover Club was a real boys' club, and that my Clover Club is run by three women. I like to think we are snarky and bawdy enough to have held our own with those boys.
+    notes: |+2
+      My second bar is named for both a cocktail and a place. The cocktail, listed here, is a gin drink for people who hate gin, at turns fruity and dry. In my version, dry vermouth adds a necessary layer of flavor that keeps the raspberry syrup in check. But before the drink, Clover Club was the name of a gentlemen's club based out of the Bellevue-Stratford Hotel in Philadelphia. Founded in 1882, it ran through the 1920s and its membership was made up of the intellectual elite of the time, including many respected journalists and writers. It was the tradition that invited guests—generally celebrities and politicians—would give an address to the club, and each was subjected to the sharp-witted comments of the audience when he finished. These roasts were well documented and word of them spread far and wide. I find it humorous that the original Clover Club was a real boys' club, and that my Clover Club is run by three women. I like to think we are snarky and bawdy enough to have held our own with those boys.
     glassware: coupe
     ingredients:
     - 1½ ounces Plymouth gin
@@ -1374,7 +1426,8 @@ recipes:
     - shaken
     - citrus
   - name: Old World Punch
-    notes: Punch is the granddaddy of all mixed drinks, and this one hews closely to the original formula, combining elements of strong, weak, sweet, spiced, and sour. Since punch is where the cocktail all began, I always have one on the menu for a Repeal Day party. Additionally, it gives me an opportunity to break out my collection of vintage punch bowls.
+    notes: |+2
+      Punch is the granddaddy of all mixed drinks, and this one hews closely to the original formula, combining elements of strong, weak, sweet, spiced, and sour. Since punch is where the cocktail all began, I always have one on the menu for a Repeal Day party. Additionally, it gives me an opportunity to break out my collection of vintage punch bowls.
     glassware: punch bowl
     ingredients:
     - Peels of 3 lemons
@@ -1401,7 +1454,8 @@ recipes:
     - punch
   - name: Cherry Smash
     author: Julie Reiner
-    notes: Born out of my love for brandied cherries, this is a smoking-jacket kind of drink that gets its backbone from Cognac, a popular spirit of the pre-Prohibition era.
+    notes: |+2
+      Born out of my love for brandied cherries, this is a smoking-jacket kind of drink that gets its backbone from Cognac, a popular spirit of the pre-Prohibition era.
     glassware: coupe
     ingredients:
     - 2 Luxardo cherries
@@ -1423,7 +1477,8 @@ recipes:
   #Sherry Sherry Christmas
   - name: The Bamboo
     author: Louis Eppinger
-    notes: This delicious cocktail was originally created by Louis Eppinger at the Hotel New Grand in Yokohama, Japan. Low in alcohol, this becomes my go-to beverage in December; I am able to imbibe with friends without paying the price for overindulgence the next day.
+    notes: |+2
+      This delicious cocktail was originally created by Louis Eppinger at the Hotel New Grand in Yokohama, Japan. Low in alcohol, this becomes my go-to beverage in December; I am able to imbibe with friends without paying the price for overindulgence the next day.
     glassware: coupe
     ingredients:
     - 1½ ounces oloroso sherry or Lustau East India sherry
@@ -1444,7 +1499,8 @@ recipes:
     - low-abv
   - name: La Perla
     author: Jacques Bezuidenhout
-    notes: This cocktail, created by Jacques Bezuidenhout, was the winner of the very first sherry competition that we hosted at Flatiron Lounge. It was also the beginning of my love affair with the combination of sherry and tequila. Both intensely flavored, these stubborn spirits threaten to overpower each other, but don't. Instead they create lovely balance and depth in the glass.
+    notes: |+2
+      This cocktail, created by Jacques Bezuidenhout, was the winner of the very first sherry competition that we hosted at Flatiron Lounge. It was also the beginning of my love affair with the combination of sherry and tequila. Both intensely flavored, these stubborn spirits threaten to overpower each other, but don't. Instead they create lovely balance and depth in the glass.
     glassware: nick & nora
     ingredients:
     - 1½ ounces Partida reposado tequila
@@ -1464,7 +1520,8 @@ recipes:
     - low-abv
   - name: Palo Negro
     author: Ivy Mix
-    notes: Here's another example of how extraordinary sherry and tequila can be together. This drink, a second-place winner from 2012's competition, was created by Clover Club's own Ivy Mix.
+    notes: |+2
+      Here's another example of how extraordinary sherry and tequila can be together. This drink, a second-place winner from 2012's competition, was created by Clover Club's own Ivy Mix.
     glassware: nick & nora
     ingredients:
     - 2 ounces Partida reposado tequila
@@ -1485,7 +1542,8 @@ recipes:
     - low-abv
   - name: Julie's Sherry Flip
     author: Julie Reiner
-    notes: The winter of 2013 was an exceptionally cold one, so I created this flip, which has heavy cream and a whole egg, to fight the blustery temperature. It went over so well that I served it to my family on Christmas Day.
+    notes: |+2
+      The winter of 2013 was an exceptionally cold one, so I created this flip, which has heavy cream and a whole egg, to fight the blustery temperature. It went over so well that I served it to my family on Christmas Day.
     glassware: wine glass
     ingredients:
     - 3 (or 18) ounces Lustau East India Solera sherry
@@ -1505,7 +1563,8 @@ recipes:
     - shaken
   - name: Ruby Punch
     author: Julie Reiner
-    notes: I'm not sure how port became synonymous with the holidays, but without fail I receive a bottle of the stuff as a gift at some point during the month of December. Not that I'm complaining; there are some great ports out there. This is one of the ways I put these gifts to good use.
+    notes: |+2
+      I'm not sure how port became synonymous with the holidays, but without fail I receive a bottle of the stuff as a gift at some point during the month of December. Not that I'm complaining; there are some great ports out there. This is one of the ways I put these gifts to good use.
     glassware: punch bowl
     ingredients:
     - Peels of 2 lemons
@@ -1529,7 +1588,8 @@ recipes:
     - citrus
   - name: Port Wine Cobbler
     author: Julie Reiner
-    notes: The cobbler was born in the mid-1800s, with the advent of suddenly available ice. It was also among the first cocktails to be sipped through a straw. Loosely defined as a wine-based spirit, sugar, fruit, and crushed ice, the earliest cobblers were most frequently made with sherry. This version, made with ruby port, has appeared on the menus at both Flatiron Lounge and Clover Club. Like the mint julep, it is served on crushed ice, but it is much lower in alcohol, making it an easygoing afternoon cocktail.
+    notes: |+2
+      The cobbler was born in the mid-1800s, with the advent of suddenly available ice. It was also among the first cocktails to be sipped through a straw. Loosely defined as a wine-based spirit, sugar, fruit, and crushed ice, the earliest cobblers were most frequently made with sherry. This version, made with ruby port, has appeared on the menus at both Flatiron Lounge and Clover Club. Like the mint julep, it is served on crushed ice, but it is much lower in alcohol, making it an easygoing afternoon cocktail.
     glassware: collins
     ingredients:
     - 1 lemon wedge (⅛ of a lemon)
@@ -1554,7 +1614,8 @@ recipes:
   #New Year's Eve
   - name: French 75
     author: Harry MacElhone
-    notes: The French 75 was created in 1915 by Harry MacElhone at Harry's New York Bar in Paris and published in his book Harry's ABC of Mixing Cocktails. The original recipe listed Calvados rather than gin, which proves its versatility.
+    notes: |+2
+      The French 75 was created in 1915 by Harry MacElhone at Harry's New York Bar in Paris and published in his book Harry's ABC of Mixing Cocktails. The original recipe listed Calvados rather than gin, which proves its versatility.
     glassware: flute
     ingredients:
     - 1 ounce Gin
@@ -1648,7 +1709,8 @@ recipes:
     - citrus
     - sparkling
   - name: Pimm's Royale Punch
-    notes: Who says that Pimm's is a summer liqueur? Add Champagne, and it becomes a party drink for all seasons, as this punch proves. Pimm's was created in the 1840s by an English oyster bar owner, and it became one of the most popular beverages in England. The exact recipe is a secret, but we do know that it is a gin-based liqueur flavored with spices and fruit. It is generally consumed in the Pimm's Cup with ginger ale and a fancy fruit garnish. This festive punch takes it one step farther, letting it macerate with fruit and then adding Champagne rather than soda. Serves 10 to 15.
+    notes: |+2
+      Who says that Pimm's is a summer liqueur? Add Champagne, and it becomes a party drink for all seasons, as this punch proves. Pimm's was created in the 1840s by an English oyster bar owner, and it became one of the most popular beverages in England. The exact recipe is a secret, but we do know that it is a gin-based liqueur flavored with spices and fruit. It is generally consumed in the Pimm's Cup with ginger ale and a fancy fruit garnish. This festive punch takes it one step farther, letting it macerate with fruit and then adding Champagne rather than soda. Serves 10 to 15.
     glassware: punch bowl
     ingredients:
     - Peels of 2 lemons, plus 2 lemons sliced into wheels
@@ -1677,7 +1739,8 @@ recipes:
     - sparkling
   - name: The Old Cuban
     author: Audrey Saunders
-    notes: This is by far the most popular New Year's cocktail I have served in my bars. It was created by Audrey Saunders of Pegu Club back in 2000, and was conceived as a Champagne Mojito. The addition of aged rum and Angostura bitters gives it those holiday spice notes we expect from our winter cocktails, while the Champagne keeps it festive. The Old Cuban is elegant and sophisticated, perfect for any special occasion.
+    notes: |+2
+      This is by far the most popular New Year's cocktail I have served in my bars. It was created by Audrey Saunders of Pegu Club back in 2000, and was conceived as a Champagne Mojito. The addition of aged rum and Angostura bitters gives it those holiday spice notes we expect from our winter cocktails, while the Champagne keeps it festive. The Old Cuban is elegant and sophisticated, perfect for any special occasion.
     year: 2000
     glassware: coupe
     ingredients:
@@ -1704,7 +1767,8 @@ recipes:
     - mojito
   - name: Blood Orange Mimosa
     author: Julie Reiner
-    notes: Continuing the Champagne theme, this riff on the classic is dead simple but vibrant from the blood orange juice.
+    notes: |+2
+      Continuing the Champagne theme, this riff on the classic is dead simple but vibrant from the blood orange juice.
     glassware: flute
     ingredients:
     - 4 ounces Champagne
@@ -1723,7 +1787,8 @@ recipes:
     - citrus
   - name: Colletti Royale
     author: Julie Reiner
-    notes: My Italian mother-inn-law loves blood oranges, so I named this drink for her. The cocktail is refreshing and bright, and was hugely popular at our New Year's brunch at Clover Club.
+    notes: |+2
+      My Italian mother-inn-law loves blood oranges, so I named this drink for her. The cocktail is refreshing and bright, and was hugely popular at our New Year's brunch at Clover Club.
     glassware: wine glass
     ingredients:
     - 1 1/2 ounces Don Julio reposado tequila
@@ -1746,7 +1811,8 @@ recipes:
     - sparkling
   - name: Blood Orange Cosmo
     author: Julie Reiner
-    notes: This recipe comes from my earliest days in New York, and it still holds up wonderfully, even though Cosmos don't have the same popularity that they did when a certain HBO show was on the air. The Cosmopolitan gets a lot of grief from bartenders today, but it really was the cocktail that sparked the modern mixology movement, and this version was one of the first drinks for which I received attention from the press.
+    notes: |+2
+      This recipe comes from my earliest days in New York, and it still holds up wonderfully, even though Cosmos don't have the same popularity that they did when a certain HBO show was on the air. The Cosmopolitan gets a lot of grief from bartenders today, but it really was the cocktail that sparked the modern mixology movement, and this version was one of the first drinks for which I received attention from the press.
     glassware: nick & nora
     ingredients:
     - 1½ ounces orange vodka (I recommend Stoli Ohranj)
@@ -1766,7 +1832,8 @@ recipes:
     - citrus
   #Mardi Gras
   - name: Vieux Carré
-    notes: This 1930s New Orleans cocktail is named after the city's French quarter. The drink was created by Walter Bergeron at the Hotel Monteleone, which is still standing and now serves as the headquarters for Tales of the Cocktail, the largest bartending industry event in the country.
+    notes: |+2
+      This 1930s New Orleans cocktail is named after the city's French quarter. The drink was created by Walter Bergeron at the Hotel Monteleone, which is still standing and now serves as the headquarters for Tales of the Cocktail, the largest bartending industry event in the country.
     glassware: double rocks
     ingredients:
     - 1 ounce Cognac (I recommend Pierre Ferrand 1840)
@@ -1789,7 +1856,8 @@ recipes:
     - freezer bar
     - old-fashioned
   - name: Sazerac
-    notes: "The Sazerac has a hugely important place in the history of New Orleans and the history of American cocktails at large. It was allegedly the first cocktail to be created and recorded that varied from the original idea of a “cocktail”—what we now know as an Old Fashioned—with the addition of absinthe and Peychaud's bitters. Though the drink was originally made with Cognac, rye whiskey eventually became the standard spirit. Prepare yourself: This drink is serious!"
+    notes: |+2
+      "The Sazerac has a hugely important place in the history of New Orleans and the history of American cocktails at large. It was allegedly the first cocktail to be created and recorded that varied from the original idea of a “cocktail”—what we now know as an Old Fashioned—with the addition of absinthe and Peychaud's bitters. Though the drink was originally made with Cognac, rye whiskey eventually became the standard spirit. Prepare yourself: This drink is serious!"
     glassware: rocks
     ingredients:
     - ¼ ounce Herbsaint or absinthe
@@ -1815,7 +1883,8 @@ recipes:
     - old-fashioned
   - name: Brandy Crusta
     year: 1852
-    notes: The Brandy Crusta, which was created in 1852 in New Orleans, was meant to be an improvement on the Old Fashioned. The name refers to the sugar crusted around the rim of the glass. The drink is the precursor to the Sidecar, one of the most popular Cognac cocktails ever created.
+    notes: |+2
+      The Brandy Crusta, which was created in 1852 in New Orleans, was meant to be an improvement on the Old Fashioned. The name refers to the sugar crusted around the rim of the glass. The drink is the precursor to the Sidecar, one of the most popular Cognac cocktails ever created.
     glassware: coupe
     ingredients:
     - 1 lemon
@@ -1837,7 +1906,8 @@ recipes:
     - stirred
     - old-fashioned
   - name: Hurricane
-    notes: "The Hurricane has a long history in New Orleans, and most recipes for the drink are somewhat complicated, with ten or even more ingredients. Here's a simplified version that is equally strong and delicious as the original. If you are having a big party, you may want to make a large batch of these: The recipe converts well to a pitcher drink and will be drained before you know it."
+    notes: |+2
+      "The Hurricane has a long history in New Orleans, and most recipes for the drink are somewhat complicated, with ten or even more ingredients. Here's a simplified version that is equally strong and delicious as the original. If you are having a big party, you may want to make a large batch of these: The recipe converts well to a pitcher drink and will be drained before you know it."
     glassware: hurricane
     ingredients:
     - 3 ounces dark Jamaican rum (I recommend Coruba)
@@ -1856,7 +1926,8 @@ recipes:
     - citrus
   - name: Jamaican Milk Punch
     author: Julie Reiner
-    notes: I had my first brandy milk punch at the French 75 Bar in Arnaud's Restaurant in the French Quarter. The following winter, I made this version for a brunch at my sister-in-law's house. She didn't have brandy, so I changed the base spirit to rum and added cinnamon syrup. It is a delicious variation on the classic.
+    notes: |+2
+      I had my first brandy milk punch at the French 75 Bar in Arnaud's Restaurant in the French Quarter. The following winter, I made this version for a brunch at my sister-in-law's house. She didn't have brandy, so I changed the base spirit to rum and added cinnamon syrup. It is a delicious variation on the classic.
     glassware: double rocks
     ingredients:
     - 1½ ounces Jamaican rum (I recommend Appleton Estate Reserve)
@@ -1876,7 +1947,8 @@ recipes:
     - winter
     - shaken
   - name: Corpse Reviver No. 2
-    notes: "This cocktail was designed to do what its name implies: bring you back from the dead. The corpse reviver was more a class of drinks than one single recipe. They were the hair of the dog, or a little bit of what bit you last night. Corpse revivers came about at the turn of the twentieth century and can be found in many old cocktail books."
+    notes: |+2
+      "This cocktail was designed to do what its name implies: bring you back from the dead. The corpse reviver was more a class of drinks than one single recipe. They were the hair of the dog, or a little bit of what bit you last night. Corpse revivers came about at the turn of the twentieth century and can be found in many old cocktail books."
     glassware: nick & nora
     ingredients:
     - 1 ounce gin (I recommend Tanqueray or Fords)
@@ -1896,7 +1968,8 @@ recipes:
     - shaken
     - citrus
   - name: Brandy Milk Punch
-    notes: "The milk makes it go down easy, but beware: This is a strong drink. While the classic recipe calls for brandy, whiskey is often used in its place."
+    notes: |+2
+      "The milk makes it go down easy, but beware: This is a strong drink. While the classic recipe calls for brandy, whiskey is often used in its place."
     glassware: snifter
     ingredients:
     - 2 ounces brandy
@@ -1917,7 +1990,8 @@ recipes:
 #Spring
   #Brunch
   - name: Aperol Spritz
-    notes: Aperol, an Italian aperitif similar to Campari, is the ultimate brunch spirit. Bright in flavor and in color, it is the ideal balance of sweet and bitter. The classic way to enjoy this beguiling liquor is in a spritz, a cocktail you'll see on every cobblestoned street in Italy. The mixture of Aperol, prosecco, and club soda, garnished with an orange wedge, is dead simple and undeniably delicious.
+    notes: |+2
+      Aperol, an Italian aperitif similar to Campari, is the ultimate brunch spirit. Bright in flavor and in color, it is the ideal balance of sweet and bitter. The classic way to enjoy this beguiling liquor is in a spritz, a cocktail you'll see on every cobblestoned street in Italy. The mixture of Aperol, prosecco, and club soda, garnished with an orange wedge, is dead simple and undeniably delicious.
     glassware: wine glass
     ingredients:
     - 2 ounces Aperol
@@ -2000,7 +2074,8 @@ recipes:
     - sparkling
     - spritz
   - name: Classico Spritz
-    notes: If you're serving guests with a love for bitter drinks, consider swapping out their Aperol Spritz for one of these. Gran Classico is a bitter aperitif made in Switzerland based on a recipe from the 1860s. It's an infusion of aromatic plants, including bitter orange peel, wormwood, gentian, and rhubarb.
+    notes: |+2
+      If you're serving guests with a love for bitter drinks, consider swapping out their Aperol Spritz for one of these. Gran Classico is a bitter aperitif made in Switzerland based on a recipe from the 1860s. It's an infusion of aromatic plants, including bitter orange peel, wormwood, gentian, and rhubarb.
     glassware: rocks
     ingredients:
     - 2  orange slices
@@ -2023,7 +2098,8 @@ recipes:
     - spritz
     - citrus
   - name: Americano Highball
-    notes: This Italian highball is a classic that gets its edge from the bitterness of Campari. I love it as a brunch drink because it soothes a hangover whie cutting through the richness of my favorite brunch dishes, such as Clover Club's pork and grits.
+    notes: |+2
+      This Italian highball is a classic that gets its edge from the bitterness of Campari. I love it as a brunch drink because it soothes a hangover whie cutting through the richness of my favorite brunch dishes, such as Clover Club's pork and grits.
     glassware: highball
     ingredients:
     - 1½ ounces sweet vermouth (I recommend Carpano Antica Formula)
@@ -2041,7 +2117,8 @@ recipes:
     - spring
     - stirred
   - name: Strawberry French 75
-    notes: "Drinks have a tendency to look different in the sunshine, so if I know that I'm creating a cocktail for a brunch event, I take extra care to make sure it is beautiful. This is one such drink: It's a showstopper and will look gorgeous on your table. Serves 10."
+    notes: |+2
+      "Drinks have a tendency to look different in the sunshine, so if I know that I'm creating a cocktail for a brunch event, I take extra care to make sure it is beautiful. This is one such drink: It's a showstopper and will look gorgeous on your table. Serves 10."
     glassware: flute
     ingredients:
     - 10  strawberries, hulled
@@ -2064,7 +2141,8 @@ recipes:
     - citrus
     - sparkling
   - name: Champagne Cobbler
-    notes: There isn't much to this sparkling drink, but you'd be amazed at the difference between the Champagne Cobbler and a flute of unadulterated bubbly. The oils and simple syrup stretch out the wine's dry notes, while the crushed ice dilutes it into a daytime affair. It's also a visual stunner; if I make one, everyone will immediately request one of their own.
+    notes: |+2
+      There isn't much to this sparkling drink, but you'd be amazed at the difference between the Champagne Cobbler and a flute of unadulterated bubbly. The oils and simple syrup stretch out the wine's dry notes, while the crushed ice dilutes it into a daytime affair. It's also a visual stunner; if I make one, everyone will immediately request one of their own.
     glassware: collins
     ingredients:
     - Crushed ice
@@ -2109,7 +2187,8 @@ recipes:
     - citrus
   - name: Juniper Breeze
     author: Julie Reiner
-    notes: This cocktail has no simple syrup whatsoever. Instead, I rely on the natural sugars of the fruit juice and elderflower cordial to give it an inherent sweetness.
+    notes: |+2
+      This cocktail has no simple syrup whatsoever. Instead, I rely on the natural sugars of the fruit juice and elderflower cordial to give it an inherent sweetness.
     glassware: rocks
     ingredients:
     - 2 ounces gin or citrus vodka (I recommend Plymouth or Absolut Citron)
@@ -2130,7 +2209,8 @@ recipes:
     - citrus
   - name: Green Giant
     author: Tom Macy
-    notes: Judging cocktail competitions has become a part of my routine these days, so you can imagine how many cocktails I taste on a monthly basis. But when I first tried this savory gin drink, now featured on Clover Club's brunch menu, it was unlike any cocktail I had ever experienced. Its creator, Tom Macy, essentially put spring in a glass! The combination of gin, sugar snap peas, and tarragon is magical and impressively savory.
+    notes: |+2
+      Judging cocktail competitions has become a part of my routine these days, so you can imagine how many cocktails I taste on a monthly basis. But when I first tried this savory gin drink, now featured on Clover Club's brunch menu, it was unlike any cocktail I had ever experienced. Its creator, Tom Macy, essentially put spring in a glass! The combination of gin, sugar snap peas, and tarragon is magical and impressively savory.
     glassware: rocks
     ingredients:
     - 4 sugar snap peas, trimmed and snapped in half
@@ -2155,7 +2235,8 @@ recipes:
     - citrus
   #Mocktails
   - name: English Breeze
-    notes: "Before there were a million specialty liqueurs, I would do what I called “shopping the shelves” for inspiration: I'd go to a handful of gourmet stores to see what kinds of ingredients they had that I'd never tried, and then I'd buy some and experiment with them behind the bar. That's how I came across Belvoir elderflower cordial, essentially an alcohol-free St. Germain. The floral flavor echoes the botanicals frequently found in gins and vermouths. This recipe is the mocktail version of the Juniper Breeze."
+    notes: |+2
+      "Before there were a million specialty liqueurs, I would do what I called “shopping the shelves” for inspiration: I'd go to a handful of gourmet stores to see what kinds of ingredients they had that I'd never tried, and then I'd buy some and experiment with them behind the bar. That's how I came across Belvoir elderflower cordial, essentially an alcohol-free St. Germain. The floral flavor echoes the botanicals frequently found in gins and vermouths. This recipe is the mocktail version of the Juniper Breeze."
     glassware: rocks
     ingredients:
     - 2½ ounces grapefruit juice
@@ -2175,7 +2256,8 @@ recipes:
     - shaken
     - citrus
   - name: Five Spice
-    notes: This drink is the nonalcoholic cousin of a cocktail that appeared on the menu at Flatiron Lounge. Normally I keep my distance from dairy in cocktails, but this drink was too delicious to avoid on principle. It makes an incredibly indulgent morning beverage. If you are very strictly avoiding alcohol, make this drink without the bitters, which have an alcoholic base. If, on the other hand, you're looking to up the alcohol quotient, adding 1½ ounces of chai-infused rum will turn this beverage into an incredible cocktail.
+    notes: |+2
+      This drink is the nonalcoholic cousin of a cocktail that appeared on the menu at Flatiron Lounge. Normally I keep my distance from dairy in cocktails, but this drink was too delicious to avoid on principle. It makes an incredibly indulgent morning beverage. If you are very strictly avoiding alcohol, make this drink without the bitters, which have an alcoholic base. If, on the other hand, you're looking to up the alcohol quotient, adding 1½ ounces of chai-infused rum will turn this beverage into an incredible cocktail.
     glassware: coupe
     ingredients:
     - 2 ounces brewed chai tea, sweetened and chilled
@@ -2197,7 +2279,8 @@ recipes:
     - n/a
     - shaken
   - name: Faux 75
-    notes: So many first-time moms tell me that the thing they missed most about cocktails during pregnancy was the bitter flavors in various drinks. With this recipe, I've tried to trick the mind into thinking that it's the real thing by using a bitter lemon soda.
+    notes: |+2
+      So many first-time moms tell me that the thing they missed most about cocktails during pregnancy was the bitter flavors in various drinks. With this recipe, I've tried to trick the mind into thinking that it's the real thing by using a bitter lemon soda.
     glassware: flute
     ingredients:
     - 1 ounce lemon juice
@@ -2217,7 +2300,8 @@ recipes:
     - shaken
     - citrus
   - name: Lychee & Lemongrass Fizz
-    notes: This mocktail version of Leilani's Fizz conjures up an island escape. If you've already made the lemongrass syrup, it's a cinch to pull together.
+    notes: |+2
+      This mocktail version of Leilani's Fizz conjures up an island escape. If you've already made the lemongrass syrup, it's a cinch to pull together.
     glassware: highball
     ingredients:
     - 2 fresh or canned lychee nuts
@@ -2240,7 +2324,8 @@ recipes:
     - shaken
     - citrus
   - name: Juniper & Tonic
-    notes: The juniper syrup, made with juniper berries, is the main flavoring agent here, and it echoes the piney, herbal, and citrus notes of a classic G&T.
+    notes: |+2
+      The juniper syrup, made with juniper berries, is the main flavoring agent here, and it echoes the piney, herbal, and citrus notes of a classic G&T.
     glassware: double rocks
     ingredients:
     - 1 ounce juniper syrup
@@ -2261,7 +2346,8 @@ recipes:
     - shaken
     - citrus
   - name: Lilikoi
-    notes: My childhood home in Hawaii had a mango tree in the backyard, and we were always scrambling to come up with new ways to use the fruit. Inevitably it would end up in the blender, as Margaritas for my parents and smoothies for me. One of my chores was to rake up the leaves from under the tree, and on the day of my junior prom, some of the sap from the tree fell on my shoulder as I was raking. I must have had an allergic reaction, because in all the pictures of me in my prom dress, my shoulder is red and splotchy. But even that embarrassment couldn't quell my love of mangoes; this drink is an ode to the mango smoothies of my youth.
+    notes: |+2
+      My childhood home in Hawaii had a mango tree in the backyard, and we were always scrambling to come up with new ways to use the fruit. Inevitably it would end up in the blender, as Margaritas for my parents and smoothies for me. One of my chores was to rake up the leaves from under the tree, and on the day of my junior prom, some of the sap from the tree fell on my shoulder as I was raking. I must have had an allergic reaction, because in all the pictures of me in my prom dress, my shoulder is red and splotchy. But even that embarrassment couldn't quell my love of mangoes; this drink is an ode to the mango smoothies of my youth.
     glassware: hurricane
     ingredients:
     - 2 ounces mango and passion fruit puree
@@ -2282,7 +2368,8 @@ recipes:
     - shaken
     - citrus
   - name: Cucumber-Mint Cooler
-    notes: Cucumber is a great addition to a mocktail, because its clean vegetal flavor mimics some of the botanicals frequently found in gin. This drink is unbelievably refreshing, like the best spa water you've ever had.
+    notes: |+2
+      Cucumber is a great addition to a mocktail, because its clean vegetal flavor mimics some of the botanicals frequently found in gin. This drink is unbelievably refreshing, like the best spa water you've ever had.
     glassware: wine glass
     ingredients:
     - 2 wheels English cucumber
@@ -2305,7 +2392,8 @@ recipes:
     - shaken
     - citrus
   - name: Lucky Clover
-    notes: We wanted to create a nonalcoholic version of Clover Club's namesake cocktail, so we came up with this bright and tart offering. The orange-flower water, available online and in specialty stores, is an amazing mocktail ingredient, and adds a depth of flavor that always leaves drinkers guessing.
+    notes: |+2
+      We wanted to create a nonalcoholic version of Clover Club's namesake cocktail, so we came up with this bright and tart offering. The orange-flower water, available online and in specialty stores, is an amazing mocktail ingredient, and adds a depth of flavor that always leaves drinkers guessing.
     glassware: wine glass
     ingredients:
     - 2 ounces lemon juice
@@ -2328,7 +2416,8 @@ recipes:
     - citrus
   #Cinco de Mayo
   - name: Tommy's Margarita
-    notes: Julio Bermejo, the co-owner of Tommy's Mexican Restaurant in San Francisco, makes his famous Margarita with agave nectar in place of triple sec. Julio's recipe really showcases the delicious tequila and brings the calorie count down at the same time. Double win.
+    notes: |+2
+      Julio Bermejo, the co-owner of Tommy's Mexican Restaurant in San Francisco, makes his famous Margarita with agave nectar in place of triple sec. Julio's recipe really showcases the delicious tequila and brings the calorie count down at the same time. Double win.
     glassware: rocks
     ingredients:
     - 1 lime wedge
@@ -2352,7 +2441,8 @@ recipes:
     - margarita
   - name: Siesta
     author: Katie Stipe
-    notes: Former Flatiron Lounge and Clover Club bartender Katie Stipe created this cocktail, and it is pretty much universally loved by those who try it. I consider this a modern classic in its own right—this drink has appeared on bar menus across the country.
+    notes: |+2
+      Former Flatiron Lounge and Clover Club bartender Katie Stipe created this cocktail, and it is pretty much universally loved by those who try it. I consider this a modern classic in its own right—this drink has appeared on bar menus across the country.
     glassware: nick & nora
     ingredients:
     - 1½ ounces blanco tequila (Katie recommends Ocho)
@@ -2372,7 +2462,8 @@ recipes:
     - shaken
     - citrus
   - name: We Got the Beet
-    notes: "Be forewarned: This recipe is a little involved. That being said, I love making it for parties because the dramatic color and unique flavor always impress my guests. This cocktail came about as a collaboration with our chef at Clover Club; he made the shrub and I made the syrup. Both were so delicious and intriguing that the cocktail came together in a flash."
+    notes: |+2
+      "Be forewarned: This recipe is a little involved. That being said, I love making it for parties because the dramatic color and unique flavor always impress my guests. This cocktail came about as a collaboration with our chef at Clover Club; he made the shrub and I made the syrup. Both were so delicious and intriguing that the cocktail came together in a flash."
     glassware: rocks
     ingredients:
     - 1½ ounces blanco tequila (I recommend Pueblo Viejo or El Tesoro)
@@ -2394,7 +2485,8 @@ recipes:
     - citrus
   - name: Uncle Buck
     author: Brad Farran
-    notes: Brad Farran, one of our former head bartenders at Clover Club, came up with this buck (a family of refreshing ginger drinks), and it quickly became a favorite of mine. The interplay between the herbal nature of the Chartreuse and the bright zippy notes of tequila and pineapple is magical and unexpected.
+    notes: |+2
+      Brad Farran, one of our former head bartenders at Clover Club, came up with this buck (a family of refreshing ginger drinks), and it quickly became a favorite of mine. The interplay between the herbal nature of the Chartreuse and the bright zippy notes of tequila and pineapple is magical and unexpected.
     glassware: collins
     ingredients:
     - 2 ounces blanco tequila (Brad recommends Milagro Silver)
@@ -2416,7 +2508,8 @@ recipes:
     - shaken
     - citrus
   - name: Suey's Sangrita
-    notes: "Here's the thing about shots: They invite bad behavior and overconsumption (just take a peek at any college bar to see what I mean), but they are also kind of fun. In this cocktail, the tequila is served on the side as a shot, but the Sangrita keeps things in check. I cribbed the recipe from my wife, Sue, who loves all tomato-based drinks. Some people like to sip the tequila separately from the cocktail, but I like to pour my shot right into the glass and enjoy it like a Bloody Mary. I promise that your guests will flock to try out this interactive combo. Serves 5."
+    notes: |+2
+      "Here's the thing about shots: They invite bad behavior and overconsumption (just take a peek at any college bar to see what I mean), but they are also kind of fun. In this cocktail, the tequila is served on the side as a shot, but the Sangrita keeps things in check. I cribbed the recipe from my wife, Sue, who loves all tomato-based drinks. Some people like to sip the tequila separately from the cocktail, but I like to pour my shot right into the glass and enjoy it like a Bloody Mary. I promise that your guests will flock to try out this interactive combo. Serves 5."
     glassware: collins
     ingredients:
     - 1 jalapeño, sliced in half and seeded (leave the seeds in for a spicier Sangrita)
@@ -2443,7 +2536,8 @@ recipes:
     - punch
   - name: Rosarito Beach Collins
     author: Julie Reiner
-    notes: Any time I pair tequila with watermelon, the crowds come running. This cocktail would make an excellent large-format drink, too; if you go that route, consider serving the punch in a hollowed-out watermelon half.
+    notes: |+2
+      Any time I pair tequila with watermelon, the crowds come running. This cocktail would make an excellent large-format drink, too; if you go that route, consider serving the punch in a hollowed-out watermelon half.
     glassware: collins
     ingredients:
     - 4 cubes (1-inch) watermelon
@@ -2469,7 +2563,8 @@ recipes:
     - citrus
   #Derby Day
   - name: Classic Mint Julep
-    notes: This classic beverage is a mini-evolution in a glass. The drink is at its strongest in the beginning, before the ice has had a chance to melt. There is a sweet spot about ten minutes after the drink is made where the dilution is perfect. And by the time you reach the end, the bourbon has been watered down to a deliciously refreshing slushy. Aromatics are essential to the julep-drinking experience. I garnish each julep with a few huge mint sprigs placed right next to the straw so that my guests get a burst of that delicious smell with every sip.
+    notes: |+2
+      This classic beverage is a mini-evolution in a glass. The drink is at its strongest in the beginning, before the ice has had a chance to melt. There is a sweet spot about ten minutes after the drink is made where the dilution is perfect. And by the time you reach the end, the bourbon has been watered down to a deliciously refreshing slushy. Aromatics are essential to the julep-drinking experience. I garnish each julep with a few huge mint sprigs placed right next to the straw so that my guests get a burst of that delicious smell with every sip.
     glassware: julep tin
     ingredients:
     - 8 to 10 mint leaves
@@ -2490,7 +2585,8 @@ recipes:
     - julep
     - stirred
   - name: Bourbon Smash
-    notes: This cocktail, popularized by Dale DeGroff, is the godfather of muddled drinks and a natural forebear of creations like the Caipirinha and the Mojito. By muddling pieces of lemon, you get the flavor of both the juice and the essential oils in the peels, which add an impressive layer of complexity.
+    notes: |+2
+      This cocktail, popularized by Dale DeGroff, is the godfather of muddled drinks and a natural forebear of creations like the Caipirinha and the Mojito. By muddling pieces of lemon, you get the flavor of both the juice and the essential oils in the peels, which add an impressive layer of complexity.
     glassware: rocks
     ingredients:
     - 3 lemon wedges
@@ -2511,7 +2607,8 @@ recipes:
     - shaken
     - citrus
   - name: Sweet Tea Julep
-    notes: This version of the julep uses mint tea syrup instead of fresh mint. It's a great option if you're hosting a large crowd, since there's no muddling involved and you can make the syrup ahead of time.
+    notes: |+2
+      This version of the julep uses mint tea syrup instead of fresh mint. It's a great option if you're hosting a large crowd, since there's no muddling involved and you can make the syrup ahead of time.
     glassware: julep tin
     ingredients:
     - 2 ounces bourbon
@@ -2530,7 +2627,8 @@ recipes:
     - julep
     - stirred
   - name: Mason Jar
-    notes: I've learned to rely on jams and preserves when I don't have more fresh ingredients (such as stone fruit) on hand. And since the South is all about pickling and preserving, relying on these put-ups seems an appropriate homage to the home of the Derby. You can absolutely swap out the apricot jam for another type; orange marmalade, berry jam, or plum preserves would all make delicious variations.
+    notes: |+2
+      I've learned to rely on jams and preserves when I don't have more fresh ingredients (such as stone fruit) on hand. And since the South is all about pickling and preserving, relying on these put-ups seems an appropriate homage to the home of the Derby. You can absolutely swap out the apricot jam for another type; orange marmalade, berry jam, or plum preserves would all make delicious variations.
     glassware: mason jar
     ingredients:
     - 1½ ounces bourbon
@@ -2550,7 +2648,8 @@ recipes:
     - shaken
     - citrus
   - name: Mint Jules
-    notes: It's a general rule that you mix lemon juice with brown spirits and lime juice with clear spirits. But rules are meant to be broken, and I've done so here with delicious results.
+    notes: |+2
+      It's a general rule that you mix lemon juice with brown spirits and lime juice with clear spirits. But rules are meant to be broken, and I've done so here with delicious results.
     glassware: nick & nora
     ingredients:
     - 3 lime wedges
@@ -2574,7 +2673,8 @@ recipes:
     - citrus
     - julep
   - name: Southern Peach
-    notes: If you're in need of an alternative to mint, this drink is a great way to go. Peaches can be overwhelmingly sweet, so it takes a strong, boozy spirit like bourbon to keep them in check. The sparkling wine lightens it up enough to warrant afternoon drinking. If you choose to muddle fresh peach, you may need to increase the volume of simple syrup, since the sweetness of peaches varies.
+    notes: |+2
+      If you're in need of an alternative to mint, this drink is a great way to go. Peaches can be overwhelmingly sweet, so it takes a strong, boozy spirit like bourbon to keep them in check. The sparkling wine lightens it up enough to warrant afternoon drinking. If you choose to muddle fresh peach, you may need to increase the volume of simple syrup, since the sweetness of peaches varies.
     glassware: flute
     ingredients:
     - 1 ounce bourbon

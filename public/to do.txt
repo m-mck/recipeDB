@@ -1,27 +1,48 @@
 things to do!
 
-[ ] filtering per ingredient type / tag
-    [ ] bracket ingredients, so as to tell the code which parts are ingredients vs. measurements / et cetera
-        [ ] 
+organizing:
 
 [ ] sort tags
+[ ] add seasons?
+[ ] drink tree: family tree kind of thing
+[ ] preparations methods:
+    [ ] stirred
+    [ ] shaken
+    [ ] blended
+    [ ] flash blended
+    [ ] room temperature
+    [ ] ???
 
-[ ] finalize rum sorting (do you want "light rum" etc?)
+coding:
 
+[ ] a way to scale recipes up/down
+
+[ ] get search working(???)
+    [ ] filtering per ingredient type / tag
+        [ ] bracket ingredients, so as to tell the code which parts are ingredients vs. measurements / et cetera
+
+[ ] currently showing two copies of all recipes: how to make it only show one?
+
+[ ] hide "Ingredients.***" data
+    [ ] if recipe (from recipes.X) is open, show relevant ingredients under open card (from ingredients.X)
+        [ ] or on mouse-over?
+
+[ ] something to graphically show drink? glassware; fill cup by percentage (see milk & honey diagrams)
+
+[ ] in unexpanded recipe cards, show: predominant spirit; category; stir/shake
+
+[ ] index
+    [ ] ingredients
+    [ ] recipe names
+    [ ] bars
+        [ ] cities(?)
+    [ ] authors
+
+[in progress!] is there a way to put line breaks in the "notes" section?
+    [ ] if so: is there a way to say "find all "notes:" lines w/ more than <x> characters in it?
+        \w*notes:.{200,} -> dot+* in search bar
 [ ] create a UI for entering recipes
     [ ] smth om the website that makes txt file out of entered recipes
         [ ] developer.mozilla.org -> "the input (form inpuut) element
-        [ ] 
-        [ ] 
-        [ ] 
-        [ ] 
-        [ ] 
-        [ ] 
-        [ ] 
-        [ ] 
 
 svelte repl -> shows u what code will do
-
-add seasons?
-show one, not two, copies of the recipes
-get search working on new site

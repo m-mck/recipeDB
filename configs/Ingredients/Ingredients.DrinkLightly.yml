@@ -4,21 +4,24 @@ recipes:
 #Syrups
 
   - name: Simple Syrup
-    notes: Makes about 2 cups.
+    notes: |+2
+      Makes about 2 cups.
     ingredients: 
     - 200 grams white sugar
     - 200 grams filtered water
     steps:
     - Combine the sugar and water in a blender and blend until the sugar is completely dissolved, 2 to 3 minutes. Store in a sealed container in the fridge for up to 1 month.
   - name: Demerara Syrup
-    notes: Makes about 2 cups.
+    notes: |+2
+      Makes about 2 cups.
     ingredients: 
     - 300 grams (packed) demerara sugar
     - 150 grams filtered water
     steps:
     - Combine the demerara sugar and water in a blender and blend until the sugar has completely dissolved, 2 to 3 minutes. Store in a sealed container in the fridge for up to 1 month.
   - name: Salted Cane Syrup
-    notes: Makes about 2 cups.
+    notes: |+2
+      Makes about 2 cups.
     ingredients: 
     - 300 grams organic cane sugar
     - 150 grabs filtered water
@@ -26,7 +29,8 @@ recipes:
     steps:
     - Combine the cane sugar, water, and salt in a blender and blend until the sugar and salt are completely dissolved, 2 to 3 minutes. Store in a sealed container in the fridge for up to 1 month.
   - name: Pomegranate Grenadine
-    notes: Makes about 2 cups.
+    notes: |+2
+      Makes about 2 cups.
     ingredients: 
     - 400 grams 100 percent pomegranate juice, such as POM
     - 400 grams white sugar
@@ -35,7 +39,8 @@ recipes:
     steps:
     - Combine all the ingredients in a blender and blend until the sugar and citric acid have dissolved, 2 to 3 minutes. Store in a sealed container in the fridge for up to 2 weeks.
   - name: Honey Syrup
-    notes: Makes about 1½ cups.
+    notes: |+2
+      Makes about 1½ cups.
     ingredients: 
     - 1 cup honey
     - ½ cup filtered water
@@ -43,7 +48,8 @@ recipes:
     - In a medium bowl, combine the honey and water. Using a whisk, combine until the honey has dissolved in the water. Store in a sealed container in the fridge for up to 4 weeks.
     - "Note: Different honeys have different flavors. You'll notice that I didn't call for a specific honey type in this recipe. That's because I leave it to you to explore the wide world of honey! Personally, I love acacia honey in my cocktails, as it's delicate and gently floral with an almost butter-like softness to it. Linden honey has much more structure to it without overpowering the other ingredients. And have we talked about cherry blossom honey?! OH MY."
   - name: Salted Lemon-Lime Cordial
-    notes: Makes about 3 cups.
+    notes: |+2
+      Makes about 3 cups.
     ingredients: 
     - 300 grams lemon juice
     - 300 grams lime juice
@@ -55,42 +61,48 @@ recipes:
     - Combine the lemon juice, lime juice, sugar, and salt in a medium bowl and whisk until the sugar and salt are dissolved. Add the lemon and lime zests to an airtight container. Add the juice and sugar mixture to the zests. Cover and let sit in the fridge for 24 hours. Strain through a chinois. Store in a sealed container for up to 2 weeks.
     - "Note: The idea behind this cordial came out of a desire not to waste juices left over at the end of a shift at Nitecap, as we juiced fresh daily. I came up with this recipe to give that juice another life, and we always found a way to incorporate it into our menus."
   - name: Mango-Honey Syrup
-    notes: Makes about 1 cup.
+    notes: |+2
+      Makes about 1 cup.
     ingredients: 
     - ¾ cup mango puree
     - ¼ cup Honey Syrup
     steps:
     - Combine the puree and honey syrup in a small bowl and mix. Store in a sealed container in the fridge for up to 2 weeks.
   - name: Coconut Mix
-    notes: Makes about 1 cup.
+    notes: |+2
+      Makes about 1 cup.
     ingredients: 
     - ¾ cup cream of coconut, such as Coco Lopez
     - ¼ cup coconut milk
     steps:
     - In a medium bowl, combine the cream of coconut and coconut milk. Using a whisk or blender, mix until smooth. Store in a sealed container in the fridge for up to 4 weeks.
   - name: Ginger Syrup
-    notes: Makes about 2 cups.
+    notes: |+2
+      Makes about 2 cups.
     ingredients: 
     - 150 grams fresh ginger juice (from about ¾ pound fresh ginger)
     - 300 grams white sugar
     steps:
     - Combine the ginger juice and sugar in a blender and blend until the sugar has dissolved, 4 to 5 minutes. Store in a sealed container in the fridge for up to 2 weeks. The ginger syrup won't go bad in 2 weeks, but those incredible fresh, earthy, and spicy notes from the juiced ginger will start mellowing out, so I recommend using it up as fast as you can.
   - name: Fennel Syrup
-    notes: Makes about 2 cups.
+    notes: |+2
+      Makes about 2 cups.
     ingredients: 
     - 200 grams fresh fennel juice (from about 2 fennel bulbs)
     - 100 grams white sugar
     steps:
     - Combine the fennel juice and sugar in a blender and blend until the sugar has dissolved, 2 to 3 minutes. Store in a sealed container in the fridge for up to 3 days.
   - name: Green Bell Pepper Syrup
-    notes: Makes about 2 cups.
+    notes: |+2
+      Makes about 2 cups.
     ingredients: 
     - 200 grams fresh green bell pepper juice (from 2 to 3 whole bell peppers)
     - 200 grams white sugar
     steps:
     - Combine the pepper juice and sugar in a blender and blend until the sugar has dissolved, 2 to 3 minutes. Store in a sealed container in the fridge for up to 3 days.
   - name: Oat-Geat
-    notes: Makes about 2 cups.
+    notes: |+2
+      Makes about 2 cups.
     ingredients: 
     - 200 grams Oatly or other barista-quality oat milk
     - 200 grams white sugar
@@ -99,7 +111,8 @@ recipes:
     steps:
     - Combine the oat milk and sugar in a blender and blend until the sugar has dissolved, 2 to 3 minutes. Add the amaretto and Amaro Nonino and blend for an additional 30 seconds. Store in a sealed container in the fridge for up to 2 weeks.
   - name: Pistachio Syrup
-    notes: Makes about 4 cups.
+    notes: |+2
+      Makes about 4 cups.
     ingredients: 
     - 200 grams shelled pistachio nuts
     - 300 grams filtered water, plus additional for making the pistachio milk
@@ -109,7 +122,8 @@ recipes:
     steps:
     - First, make pistachio milk. In a sealed container, cover the pistachio nuts with filtered water, making sure they are fully submerged. Let soak for at least 8 hours and up to 24 hours. Strain the water and remove the skins of the pistachio nuts. In a blender, blitz the nuts until they form a paste. Add 300 grams filtered water and blend until combined. Strain the mixture through a nut bag. You should be able to extract 400 grams of pistachio milk from the mixture. In a blender, combine the nut milk and sugar and blend until the sugar is dissolved, 3 to 4 minutes. Add the vanilla liqueur and rose liqueur. Blend for an additional 30 seconds. Store in a sealed container for up to 2 weeks.
   - name: Vanilla Syrup
-    notes: Makes about 2 cups.
+    notes: |+2
+      Makes about 2 cups.
     ingredients: 
     - 500 grams Simple Syrup
     - 4 grams Tahitian vanilla extract
@@ -118,14 +132,16 @@ recipes:
     steps:
     - In a medium bowl, combine the syrup, vanilla extract, lactic acid, and salt. Using a whisk, combine until the lactic acid and salt are dissolved. Store in a sealed container in the fridge for up to 4 weeks.
   - name: Orange Cream Syrup
-    notes: Makes about 3 cups.
+    notes: |+2
+      Makes about 3 cups.
     ingredients: 
     - 200 grams Vanilla Syrup
     - 100 grams orange juice
     steps:
     - Combine the syrup and orange juice in a medium bowl and mix. Store in a sealed container in the fridge for up to 1 week. The syrup won't necessarily go “bad” after a week, but the orange flavor will certainly lose its luster.
   - name: Raspberry Syrup
-    notes: Makes about 2 cups.
+    notes: |+2
+      Makes about 2 cups.
     ingredients: 
     - 500 grams Simple Syrup
     - 150 grams raspberries
@@ -134,7 +150,8 @@ recipes:
     - Fill a basin with water and set an immersion circulator to 135°F. Meanwhile, combine the syrup, raspberries, and citric acid in a sealable, heatproof silicone bag, making sure to push out all the air. Once the circulator has reached the desired temperature, place the sealed bag in the water bath. Let cook for 2 hours. Once done, transfer the infusion to an ice bath until it reaches room temperature. Strain through a nut bag. Store in a sealed container in the fridge for up to 2 weeks.	
     - No sous vide? In a medium, heat-safe bowl, gently muddle the raspberries. Add the syrup and citric acid. Cover the top of the bowl tightly with plastic wrap. Place the covered bowl over a large pot filled with 3 to 5 inches of water, making sure the bowl doesn't touch the water (you are essentially creating a double boiler). Cook over medium heat for 1 hour. Remove from heat and let cool. Strain through a nut bag.
   - name: Cinnamon Syrup
-    notes: Makes about 2 cups.
+    notes: |+2
+      Makes about 2 cups.
     ingredients: 
     - 500 grams Simple Syrup
     - 10 grams Saigon cinnamon bark
@@ -142,7 +159,8 @@ recipes:
     - Fill a basin with water and set an immersion circulator to 135°F. Meanwhile, combine the syrup and cinnamon bark in a sealable, heatproof silicone bag, making sure to push out all the air. Once the circulator has reached the desired temperature, place the sealed bag in the water bath. Let cook for 2 hours. Once done, transfer the infusion to an ice bath until it reaches room temperature. Strain through a chinois. Store in a sealed container in the fridge for up to 2 weeks.
     - No sous vide? In a medium, heat-safe bowl, combine the syrup and cinnamon bark. Cover the top of the bowl tightly with plastic wrap. Place the covered bowl over a large pot filled with 3 to 5 inches of water, making sure the bowl doesn't touch the water (you are essentially creating a double boiler). Cook over medium heat for 1 hour. Remove from heat and let cool. Strain through a chinois.
   - name: Pinapple Gum Syrup
-    notes: Makes about 2 cups.
+    notes: |+2
+      Makes about 2 cups.
     ingredients: 
     - 250 grams white sugar
     - 15 grams gum arabic
@@ -152,7 +170,8 @@ recipes:
     - Fill a basin with water and set an immersion circulator to 140°F. In a blender, combine the sugar, gum arabic, and citric acid and mix on low until all the ingredients are incorporated. Begin to add the pineapple juice and blend until all the dry ingredients have dissolved. Add the mixture to a sealable, heatproof silicone bag, making sure to push out all the air. Once the circulator has reached the desired temperature, place the sealed bag in the water bath. Let cook for 2 hours. Once done, transfer the infusion to an ice bath until it reaches room temperature. Store in a sealed container in the fridge for up to 2 weeks.
     - No sous vide? In a medium, heat-safe bowl, add the blended pineapple mixture. Cover the top of the bowl tightly with plastic wrap. Place the covered bowl over a large pot filled with 3 to 5 inches of water, making sure the bowl doesn't touch the water (you are essentially creating a double boiler). Cook over medium heat for 2 hours. Remove from heat and let cool.
   - name: Mulled Wine Reduction
-    notes: Makes about 3 cups.
+    notes: |+2
+      Makes about 3 cups.
     ingredients: 
     - 1 (750 ml) bottle dry red wine
     - 2 cups (packed) demerara sugar
@@ -164,7 +183,8 @@ recipes:
     steps:
     - Combine the red wine and sugar in a large pot. Over medium heat, stir until the sugar has dissolved. Add the vanilla extract, cloves, star anise, cinnamon sticks, and bay leaves and simmer on low heat for 45 minutes to an hour. Remove from heat and let cool to room temperature. Strain through a chinois. Store in a sealed container in the fridge for up to 2 weeks.
   - name: Spiced Butter
-    notes: Makes about ½ cup
+    notes: |+2
+      Makes about ½ cup
     ingredients: 
     - 4 ounces (½ stick) unsalted butter, room temperature
     - 1 tablespoon powdered sugar
@@ -174,7 +194,8 @@ recipes:
     steps:
     - In a bowl, combine the butter, powdered sugar, cinnamon, nutmeg, and cloves and whisk together but don't overmix. The spices should create a swirl and be crudely incorporated for a marbled effect; if the butter turns a solid brown color you have overmixed. Place the butter mixture on a sheet of cellophane. Form into a log with the circumference of a quarter. Refrigerate until it hardens.
   - name: Celery Syrup
-    notes: Makes approximately 2 cups (from about 6 to 8 celery stalks).
+    notes: |+2
+      Makes approximately 2 cups (from about 6 to 8 celery stalks).
     ingredients: 
     - 200g celery juice
     - 200g white sugar
@@ -183,49 +204,56 @@ recipes:
 
 # Infusions
   - name: Caraway Cocchi Americano
-    notes: Makes 1 (750ml) bottle.
+    notes: |+2
+      Makes 1 (750ml) bottle.
     ingredients: 
     - 1 (750 ml) bottle Cocchi Americano Bianco
     - 10 grams whole caraway seeds
     steps:
     - In a medium pan over medium heat, toast the caraway seeds until fragrant. Combine the toasted seeds with the Cocchi Americano in a sealed container. Let sit for 1 hour. Strain through a chinois. Rebottle and store in the fridge for up to 2 weeks.
   - name: Jalapeño Blanco Tequila
-    notes: Makes 1 (750ml) bottle.
+    notes: |+2
+      Makes 1 (750ml) bottle.
     ingredients: 
     - 1 (750 ml) bottle blanco tequila
     - Seeds of 4 jalapeño peppers
     steps:
     - In a large container, combine the tequila and the jalapeño seeds and let sit for 10 to 15 minutes, tasting periodically, as peppers differ in spice levels. Strain through a chinois. Rebottle and store in fridge for up to 4 weeks.
   - name: Chamomile Blanc Vermouth
-    notes: Makes 1 (750ml) bottle.
+    notes: |+2
+      Makes 1 (750ml) bottle.
     ingredients: 
     - 1 (750 ml) bottle Dolin Blanc Vermouth
     - 5 grams dried chamomile flowers, or 3 chamomile tea bags
     steps:
     - In a large container, combine the vermouth and chamomile flowers and let sit for 30 minutes. Strain through a chinois, making sure to press the liquid out of the flowers. Rebottle and store in the fridge for up to 2 weeks.
   - name: Thai Basil Blanc Vermouth
-    notes: Makes 1 (750ml) bottle.
+    notes: |+2
+      Makes 1 (750ml) bottle.
     ingredients: 
     - 100 grams fresh Thai basil leaves, stems removed
     - 1 (750 ml) bottle Dolin Blanc Vermouth
     steps:
     - At the bottom of a large container, lightly muddle the basil leaves, making sure to bruise them only slightly to release their oils. Add the blanc vermouth. Let sit for 30 minutes. Strain through a chinois. Rebottle and store in fridge for up to 2 weeks.
   - name: Sage White Wine
-    notes: Makes 1 (750ml) bottle.
+    notes: |+2
+      Makes 1 (750ml) bottle.
     ingredients: 
     - 10 fresh sage leaves, stems removed
     - 1 (750 ml) bottle dry white wine
     steps:
     - At the bottom of a large container, lightly muddle the sage leaves, making sure to bruise them only slightly to release their oils. Add the wine. Let sit for 30 minutes. Strain through a chinois. Rebottle and store in the fridge for up to 5 days.
   - name: Cola Lustau Rosé Vermut
-    notes: Makes 1 (750ml) bottle.
+    notes: |+2
+      Makes 1 (750ml) bottle.
     ingredients: 
     - 3 grams cola extract
     - 1 (750 ml) bottle Lustau Rosé Vermut
     steps:
     - Add the cola extract to the vermouth bottle. Gently agitate the bottle to combine. Store in the fridge for up to 3 weeks.
   - name: Beet Aperol
-    notes: Makes 1 (750ml) bottle.
+    notes: |+2
+      Makes 1 (750ml) bottle.
     ingredients: 
     - 150 grams beets (about 1 large beet), peeled and diced
     - 1 (750 ml) bottle Aperol
@@ -233,7 +261,8 @@ recipes:
     - Fill a basin with water and set an immersion circulator to 135°F. Meanwhile, measure the beets by weight. Combine the beets and Aperol in a sealable, heatproof silicone bag, making sure to push out all the air. Once the circulator has reached the desired temperature, place the sealed bag in the water bath. Let cook for 2 hours. Once done, transfer the infusion to an ice bath until it reaches room temperature. Strain through a chinois. Store in a sealed container in the fridge for up to 2 weeks.
     - No sous vide? In a large sealable container, combine the beets and Aperol. Cover and let sit at room temperature for 24 hours. Strain through a chinois.
   - name: Toasted Coconut Madeira
-    notes: Makes 1 (750ml) bottle.
+    notes: |+2
+      Makes 1 (750ml) bottle.
     ingredients: 
     - 50 grams unsweetened coconut chips
     - 1 (750 ml) bottle H&H Rainwater Madeira
@@ -241,7 +270,8 @@ recipes:
     - Preheat the oven to 350°F. Meanwhile, fill a basin with water and set an immersion circulator to 130°F. Spread the coconut chips on a baking sheet. Toast until fragrant and golden brown, 4 to 5 minutes. Let cool. Combine with the madeira in a sealable, heatproof silicone bag, making sure to push out all the air. Once the circulator has reached the desired temperature, place the sealed bag in the water bath. Let cook for 2 hours. Once done, transfer the infusion to an ice bath until it reaches room temperature. Strain through a cheesecloth-lined chinois. Rebottle and store in the fridge for up to 2 weeks.
     - No sous vide? In a large sealable container, combine the toasted coconut chips with the madeira. Cover and let sit at room temperature for 24 hours. Strain through a cheesecloth-lined chinois. Rebottle and store in the fridge for up to 2 weeks.
   - name: Cacao Nib Campari
-    notes: Makes 1 (750ml) bottle.
+    notes: |+2
+      Makes 1 (750ml) bottle.
     ingredients: 
     - 25 grams cacao nibs
     - 1 (750 ml) bottle Campari
@@ -249,7 +279,8 @@ recipes:
     - Preheat the oven to 350°F. Meanwhile, fill a basin with water and set an immersion circulator to 130°F. Spread the cacao nibs in a single layer on a baking sheet. Toast until fragrant and dark brown, 3 to 4 minutes. Let cool. Combine with the Campari in a sealable, heatproof silicone bag, making sure to push out all the air. Once the circulator has reached the desired temperature, place the sealed bag in the water bath. Let cook for 2 hours. Once done, transfer the infusion to an ice bath until it reaches room temperature. Strain through a chinois. Rebottle and store in the fridge for up to 2 weeks.
     - No sous vide? In a large sealable container, combine the cooled toasted cacao nibs with the Campari. Cover and let sit for 24 hours. Strain through a chinois.
   - name: Pineapple Mezcal
-    notes: Makes 1 (750ml) bottle.
+    notes: |+2
+      Makes 1 (750ml) bottle.
     ingredients: 
     - 1 (750 ml) bottle Del Maguey Vida mezcal
     - 600 grams chopped fresh pineapple (about 1 medium pineapple)
@@ -259,7 +290,8 @@ recipes:
     - Eat the pineapple post-infusion. Throw it in a punch. Add to a glass of white wine!
     - Store this infusion in the freezer and sip on it out of a delicate mini glass from time to time to remind yourself that life is, indeed, good! And we say that since the mezcal has been cut with some pineapple juice, this is relatively low-ABV…ish.
   - name: Vermouth Limoncello
-    notes: Makes 1 (750ml) bottle.
+    notes: |+2
+      Makes 1 (750ml) bottle.
     ingredients: 
     - 375 ml Cinzano Dry Vermouth
     - 375 ml Cinzano Bianco Vermouth
@@ -269,7 +301,8 @@ recipes:
     - Fill a basin with water and set an immersion circulator to 130°F. Combine the dry vermouth, white vermouth, and lemon peels in a sealable, heatproof silicone bag, making sure to push out all the air. Once the circulator has reached the desired temperature, place the sealed bag in the water bath. Let cook for 2 hours. Once done, transfer the infusion to an ice bath until it reaches room temperature. Strain through a chinois and discard the peels. In a blender, combine the infused vermouths with the sugar and blend until the sugar has dissolved, 2 to 3 minutes. Store in a sealed container in the fridge for up to 2 weeks.
     - No sous vide? In a large sealable container, combine the dry vermouth, white vermouth, and lemon peels. Cover and let sit in the fridge for 72 hours. Strain through a chinois. Discard the peels. In a blender, combine the infused vermouths with the sugar and blend until the sugar is dissolved, 2 to 3 minutes.
   - name: Clove White Port
-    notes: Makes 1 (750ml) bottle.
+    notes: |+2
+      Makes 1 (750ml) bottle.
     ingredients: 
     - 1 (750 ml) bottle Quinta do Infantado white port
     - 8 grams whole cloves
@@ -279,14 +312,16 @@ recipes:
 
 # Other Stuff
   - name: Salt Solution
-    notes: Yields approximately ½ cup.
+    notes: |+2
+      Yields approximately ½ cup.
     ingredients: 
     - 100 grams filtered water
     - 30 grams kosher salt
     steps:
     - Combine the water and salt in a bowl and whisk until the salt has dissolved. Store in the fridge for up to 1 month. Transfer to a dropper bottle when ready to use.
   - name: Citric Acid Solution
-    notes: Yields approximately ½ cup.
+    notes: |+2
+      Yields approximately ½ cup.
     ingredients: 
     - 100 grams filtered water
     - 20 grams citric acid powder

@@ -63,7 +63,8 @@
           "Sherry: A Modern Guide to the Wine World's Best-Kept Secret",
           "Tuxedo No. 2",
           "Death & Co.",
-          "Miscellaneous"
+          "Miscellaneous",
+          "The Bar Book"
         ]
       },
       "recipes": {
@@ -186,7 +187,9 @@
                 "moustache cup",
                 "smash glass",
                 "beer mug",
-                "barrel"
+                "barrel",
+                "blue blazer mug",
+                "brûlot demitasse cups"
               ]
             },
             "tags": {
@@ -454,7 +457,14 @@
                   "cindy's",
                   "lion lion",
                   "law bird",
-                  "the patterson house"
+                  "the patterson house",
+                  "bar bayonne",
+                  "15 romolo",
+                  "mr. susan",
+                  "llama san",
+                  "nico osteria",
+                  "amor y amargo",
+                  "prime meats"
                 ]
               }
             }

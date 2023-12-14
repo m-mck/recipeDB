@@ -4,7 +4,8 @@ recipes:
 
 #
   - name: Bergamot-Pomelo Tincture
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 6 bergamots
     - 1 (750-ml) bottle high-proof spirit (preferably Everclear)
@@ -14,7 +15,8 @@ recipes:
     - Fill the jar with a high-proof spirit and leave to infuse for up to 1 week. 
     - Strain the liquid from the peels and keep covered, in the refrigerator, up to 3 months.
   - name: House-Brined Olives
-    notes: Makes 1 quart.
+    notes: |+2
+      Makes 1 quart.
     ingredients: 
     - 907 grams Cerignola olives
     - 16 ounces olive brine (reserved from the Cerignola olive jars)
@@ -30,7 +32,8 @@ recipes:
     - Combine the ingredients in a jar and seal with a lid. Let sit for at least 24 hours at room temperature before using. 
     - Once opened, store in the refrigerator for up to two weeks.
   - name: Charred Onion–Infused Dry Vermouth
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 2 onions, chopped
     - 1 (750-ml) bottle dry vermouth (preferably Noilly Prat)
@@ -38,7 +41,8 @@ recipes:
     - If you have an open-flame grill, grill the onions until translucent. Alternatively, preheat the oven to 350°F, spread out the onions on a baking sheet, and bake until translucent. Raise the heat to 500°F and cook until the edges of the onions begin to blacken (it is okay if some pieces char completely). Remove from the grill or oven and let cool completely. 
     - Put the onions into a 1-quart jar with a lid, and add the dry vermouth. Let the vermouth infuse for 24 hours. Strain through a chinois, transfer to a clean bottle, and refrigerate. The infused vermouth will keep, covered, for up to 2 weeks.
   - name: Toasted Fennel Tincture
-    notes: Makes 8 ounces.
+    notes: |+2
+      Makes 8 ounces.
     ingredients: 
     - ⅛ cup fennel seeds
     - 8 ounces high-proof vodka

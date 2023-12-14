@@ -3,7 +3,8 @@ recipes:
 
 - name: Foxhunt
   author: Kyle Davidson
-  notes: Kirk Estopinal and I took the Pimm's No. 1 cup down to its bones with just Pimm's No. 1, lemon, and sugar, and then juiced it back up with gin for some spine, plus Cynar for depth and finish. Peychaud's and Pimm's No. 1 proved to be so good together, it was like they were separated at birth. With a little bit of a deeper, bitter edge to it than the Violet Hour's house Pimm's No. 1 Cup, this was still a fairly delicate and mild drink that worked well in seasons other than just summer.
+  notes: |+2
+      Kirk Estopinal and I took the Pimm's No. 1 cup down to its bones with just Pimm's No. 1, lemon, and sugar, and then juiced it back up with gin for some spine, plus Cynar for depth and finish. Peychaud's and Pimm's No. 1 proved to be so good together, it was like they were separated at birth. With a little bit of a deeper, bitter edge to it than the Violet Hour's house Pimm's No. 1 Cup, this was still a fairly delicate and mild drink that worked well in seasons other than just summer.
   url: https://www.epicurious.com/recipes/food/views/foxhunt
   glassware: coupe
   ingredients:

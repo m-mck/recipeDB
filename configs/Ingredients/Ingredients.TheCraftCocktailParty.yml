@@ -4,7 +4,8 @@ recipes:
 
 #
   - name: Berry Syrup
-    notes: I love to use berries in cocktails, but they can be a real mess. By making a syrup ahead of time, I can make drinks that capitalize on the flavor without the clean-up. This recipe leaves some room for improvisation. I prefer a mixture of raspberries and blackberries for a rich, tart flavor, but you could also go the route of the purist, using just raspberries or just blackberries. Strawberries and blueberries also work well. Makes about 3 cups.
+    notes: |+2
+      I love to use berries in cocktails, but they can be a real mess. By making a syrup ahead of time, I can make drinks that capitalize on the flavor without the clean-up. This recipe leaves some room for improvisation. I prefer a mixture of raspberries and blackberries for a rich, tart flavor, but you could also go the route of the purist, using just raspberries or just blackberries. Strawberries and blueberries also work well. Makes about 3 cups.
     ingredients: 
     - 1 cup berries of your choosing (for the Sloe & Low here, I use ½ cup blackberries and ½ cup raspberries)
     - 2 cups superfine sugar
@@ -16,14 +17,16 @@ recipes:
     - Strain the liquid through a fine-mesh sieve and discard the solids. 
     - The syrup will last two weeks in the refrigerator.
   - name: Demerara Syrup
-    notes: Demerara sugar is a large-grained sugar with origins in Guyana. It's not as refined as granulated sugar and has a natural caramel-like flavor. I like to use demerara in cocktails with brown spirits. Note that this syrup has a ratio of 2:1 sugar to water and will be sweeter than a basic 1:1 simple syrup. Makes about 1 cup.
+    notes: |+2
+      Demerara sugar is a large-grained sugar with origins in Guyana. It's not as refined as granulated sugar and has a natural caramel-like flavor. I like to use demerara in cocktails with brown spirits. Note that this syrup has a ratio of 2:1 sugar to water and will be sweeter than a basic 1:1 simple syrup. Makes about 1 cup.
     ingredients: 
     - 1 cup demerara sugar
     - ½ cup water
     steps:
     - In a saucepan over medium heat, combine the sugar and water. Cook, stirring, until the sugar dissolves, taking care not to let the mixture boil. Remove from heat, let cool, and transfer the syrup to a container with a lid and refrigerate it. The syrup will last one month in the refrigerator.
   - name: Ginger Syrup
-    notes: "Ginger is a very versatile cocktail ingredient. It works with any spirit category and adds spice to your beverage without adding heat. It's essential to categories of drinks called “mules” and “bucks,” most frequently encountered in the form of the Moscow Mule. The best way to make it is with a juice extractor (used to juice vegetables and noncitrus fruits). If you don't have one, you can still make ginger juice with a bit of elbow grease: Just grate fresh peeled ginger root with a microplane zester and then squeeze it through a piece of cheesecloth. However, when you're entertaining or making lots of drinks, it's perfectly acceptable to buy a bottled ginger juice or syrup. There are quite a few good ones on the market today. I recommend ginger juice from the Ginger People and Hawaiian ginger syrup from Pacifikool, both of which can be found online. Makes 1 cup."
+    notes: |+2
+      "Ginger is a very versatile cocktail ingredient. It works with any spirit category and adds spice to your beverage without adding heat. It's essential to categories of drinks called “mules” and “bucks,” most frequently encountered in the form of the Moscow Mule. The best way to make it is with a juice extractor (used to juice vegetables and noncitrus fruits). If you don't have one, you can still make ginger juice with a bit of elbow grease: Just grate fresh peeled ginger root with a microplane zester and then squeeze it through a piece of cheesecloth. However, when you're entertaining or making lots of drinks, it's perfectly acceptable to buy a bottled ginger juice or syrup. There are quite a few good ones on the market today. I recommend ginger juice from the Ginger People and Hawaiian ginger syrup from Pacifikool, both of which can be found online. Makes 1 cup."
     ingredients: 
     - ½ cup ginger juice
     - 1 cup superfine sugar
@@ -31,7 +34,8 @@ recipes:
     - Heat the juice in a saucepan over low heat until warm but not boiling. 
     - Add the sugar and blend with an immersion blender or whisk. Let cool, then transfer to a nonreactive metal or glass container with a lid and store in the refrigerator for up to three weeks.
   - name: Strawberry-Infused Aperol
-    notes: Aperol, the low-alcohol cousin of Campari, is an Italian aperitif with a slightly bittersweet orange flavor. As soon as strawberries come into season, I make this infusion, which gives the Aperol a tart brightness. When I've gone to the trouble of making strawberry-infused Aperol, I end up using it in pretty much everything (it's that delicious). Two cocktails here, the Blonde Redhead (here) and the Summer Negroni (here), are my favorite ways to put it to use. And for a simple brunch drink, you can mix a few ounces with sparkling wine or soda water and serve over ice. Makes about 3 cups.
+    notes: |+2
+      Aperol, the low-alcohol cousin of Campari, is an Italian aperitif with a slightly bittersweet orange flavor. As soon as strawberries come into season, I make this infusion, which gives the Aperol a tart brightness. When I've gone to the trouble of making strawberry-infused Aperol, I end up using it in pretty much everything (it's that delicious). Two cocktails here, the Blonde Redhead (here) and the Summer Negroni (here), are my favorite ways to put it to use. And for a simple brunch drink, you can mix a few ounces with sparkling wine or soda water and serve over ice. Makes about 3 cups.
     ingredients: 
     - 1 pint strawberries, hulled and cut into quarters
     - 1 (750-ml) bottle Aperol
@@ -41,7 +45,8 @@ recipes:
     - Funnel the infusion back into the original bottle and label. 
     - The Aperol infusion will keep for two weeks in the refrigerator.
   - name: Passion Fruit Tea-Infused Rum
-    notes: The tropical notes in passion fruit tea marry beautifully with the buttery caramel notes of rum. This infusion is a great way to add bright, beachy flavors to a cocktail without loading it down with sugar. Makes about 4 cups; enough for about 16 drinks.    
+    notes: |+2
+      The tropical notes in passion fruit tea marry beautifully with the buttery caramel notes of rum. This infusion is a great way to add bright, beachy flavors to a cocktail without loading it down with sugar. Makes about 4 cups; enough for about 16 drinks.    
     ingredients: 
     - 1 (1-liter) bottle white rum (I recommend Bacardi Heritage)
     - 4 bags passion fruit tea (I like Tazo brand)
@@ -52,7 +57,8 @@ recipes:
     - Once you've made the passion fruit tea infusion, there are a number of ways to use it. 
     - It's brilliant when mixed with lemonade (like a boozy Arnold Palmer), or in a slightly more involved drink such as the Summer Daze or the Pacific Swizzle.
   - name: Tea-Infused Orange Vodka
-    notes: This recipe is based on the very first tea infusion I ever attempted. I had fallen in love with the Lili'uokalani tea and was experimenting with different ways to incorporate it into a cocktail. At first, I was brewing iced tea and adding it to the vodka separately, but the process didn't deliver the concentrated tea flavor I was after. By steeping the tea directly in the vodka, the bright floral notes of the tea really come through. Makes about 4 cups, enough for 16 drinks.
+    notes: |+2
+      This recipe is based on the very first tea infusion I ever attempted. I had fallen in love with the Lili'uokalani tea and was experimenting with different ways to incorporate it into a cocktail. At first, I was brewing iced tea and adding it to the vodka separately, but the process didn't deliver the concentrated tea flavor I was after. By steeping the tea directly in the vodka, the bright floral notes of the tea really come through. Makes about 4 cups, enough for 16 drinks.
     ingredients: 
     - 1 (1-liter) bottle orange vodka (I recommend Stoli Ohranj)
     - 5 tablespoons loose black tea (I recommend SerendipiTea's Lili'uokalani, a tropical black tea with mango and guava notes)
@@ -62,7 +68,8 @@ recipes:
     - Funnel the infusion back into the original bottle and label. 
     - The infusion will keep for three weeks in the refrigerator.
   - name: Mint Tea Simple Syrup
-    notes: Remember how I said that delicate herbs don't make for great syrups? Herbal teas provide a great workaround. I keep this syrup around as my standard sweetener for iced tea; it's also delicious in iced lemonade. Makes 2 1/4 cups.
+    notes: |+2
+      Remember how I said that delicate herbs don't make for great syrups? Herbal teas provide a great workaround. I keep this syrup around as my standard sweetener for iced tea; it's also delicious in iced lemonade. Makes 2 1/4 cups.
     ingredients: 
     - 1½ cups boiling water
     - 1½ tablespoons loose mint tea
@@ -70,7 +77,8 @@ recipes:
     steps:
     - In a nonreactive metal or glass container, pour the boiling water over the mint tea and let steep for 10 minutes. Strain the liquid through a fine-mesh sieve set over a bowl, then add the sugar to the liquid and stir until dissolved. Store in a nonreactive metal or glass container with a lid in the refrigerator for up to one week.
   - name: Cinnamon Syrup
-    notes: "Baking spices played a big role in early tiki drinks. Donn Beach of Don the Beachcomber used cinnamon, vanilla, and allspice in his secret spice blends, simply labeled Don's Spices #2 and #4 to protect the formulas. Many modern tropical libations take their inspiration from those early spiced syrups. If you want to geek out about syrups like I do, I recommend using cassia cinnamon bark (available at zamourispices.com) as it has a higher oil content than regular cinnamon, making for a more intense flavor. But regular cinnamon sticks will still make a delicious syrup. Makes about 1 1/2 cups."
+    notes: |+2
+      "Baking spices played a big role in early tiki drinks. Donn Beach of Don the Beachcomber used cinnamon, vanilla, and allspice in his secret spice blends, simply labeled Don's Spices #2 and #4 to protect the formulas. Many modern tropical libations take their inspiration from those early spiced syrups. If you want to geek out about syrups like I do, I recommend using cassia cinnamon bark (available at zamourispices.com) as it has a higher oil content than regular cinnamon, making for a more intense flavor. But regular cinnamon sticks will still make a delicious syrup. Makes about 1 1/2 cups."
     ingredients: 
     - ½ ounce cassia cinnamon bark or 5 cinnamon sticks
     - 1 cup superfine sugar
@@ -82,7 +90,8 @@ recipes:
     - Strain the syrup through a fine-mesh sieve into a nonreactive metal or glass container with a lid. 
     - The syrup will keep for about one month in the refrigerator.
   - name: Lemongrass Syrup
-    notes: Tropical, fragrant, and subtle, lemongrass is one of my favorite ingredients. This syrup is much more “modern tropical” than tiki, and it goes way beyond cocktails. Try drizzling it over fruit or letting it soak into coconut cake. Makes 1½ cups.
+    notes: |+2
+      Tropical, fragrant, and subtle, lemongrass is one of my favorite ingredients. This syrup is much more “modern tropical” than tiki, and it goes way beyond cocktails. Try drizzling it over fruit or letting it soak into coconut cake. Makes 1½ cups.
     ingredients: 
     - 10 stalks lemongrass, ends trimmed and brittle outer layers removed (available at Whole Foods or other specialty markets)
     - 2 cups water
@@ -91,7 +100,8 @@ recipes:
     - Puree the lemongrass in a food processor and transfer to a saucepan. Add the water and simmer over medium heat until the mixture is reduced by half. Remove from heat and let cool. Transfer to the refrigerator and let sit overnight.
     - Strain the lemongrass water through a fine-mesh sieve into a bowl, discarding the lemongrass pulp. Measure the infused water and place in a saucepan. Add an equal amount of granulated sugar (it should be about 1 cup) and cook over medium heat, stirring until the sugar dissolves. Let cool completely and transfer to a nonreactive metal or glass container with a lid. The syrup will keep for up to two weeks in the refrigerator.
   - name: Grenadine
-    notes: Most people think of grenadine as a neon-red syrup that tastes mostly of sugar. In its classic form, though, it's made with pomegranate juice, which gives complex, tannic notes that marry well with spirits. This recipe will redeem grenadine's reputation. Makes 3 1/4 cups.
+    notes: |+2
+      Most people think of grenadine as a neon-red syrup that tastes mostly of sugar. In its classic form, though, it's made with pomegranate juice, which gives complex, tannic notes that marry well with spirits. This recipe will redeem grenadine's reputation. Makes 3 1/4 cups.
     ingredients: 
     - 16 ounces pure pomegranate juice
     - 1½ cups turbinado or demerara sugar
@@ -100,7 +110,8 @@ recipes:
     steps:
     - In a saucepan over medium heat, combine the pomegranate juice and sugar and stir until the sugar dissolves—do not let the mixture boil. Remove from heat, let cool, and add pomegranate molasses. Twist the orange peels over the surface of the grenadine to express the oils, then discard the peels. Stir to combine and transfer to a nonreactive metal or glass container with a lid. The grenadine will keep in the refrigerator for about a month.
   - name: Apple-Infused Vodka
-    notes: While I was bartending at C3, a customer from Los Angeles told me that the big cocktail on the West Coast was the apple Martini. Intrigued, I tried to make my own version using a Granny Smith apple-infused vodka instead of Pucker. It was a hit and ended up being published in the New York Times. I use Granny Smiths because their tartness gives the infusion a nice bite.
+    notes: |+2
+      While I was bartending at C3, a customer from Los Angeles told me that the big cocktail on the West Coast was the apple Martini. Intrigued, I tried to make my own version using a Granny Smith apple-infused vodka instead of Pucker. It was a hit and ended up being published in the New York Times. I use Granny Smiths because their tartness gives the infusion a nice bite.
     ingredients: 
     - 8 Granny Smith apples, cut into 1-inch cubes (you can leave the skin on and seeds in)
     - 1 (1-liter) bottle vodka
@@ -111,7 +122,8 @@ recipes:
     - Discard the apples, funnel the vodka back into its original bottle, and label the bottle. 
     - The infusion will keep for three weeks in the refrigerator.
   - name: Spiced Pear Vodka
-    notes: Makes about 4 cups.
+    notes: |+2
+      Makes about 4 cups.
     ingredients: 
     - 10 ripe Bartlett pears, cut into 1-inch cubes (you can leave the skin on and seeds in)
     - 1 (1-liter) bottle vodka (I recommend Ketel One)
@@ -125,7 +137,8 @@ recipes:
     - "Taste the infusion: If it has enough clove spice for you, strain the mixture and discard the cloves; if not, let the mixture sit for 10 or even 20 minutes longer."
     - Once you've strained the vodka, funnel it back into its original bottle for easy storage (but don't forget to label it). The infusion will keep for about three weeks in the refrigerator.
   - name: Mulled Cider
-    notes: Many stores carry prepackaged mulled cider, which is fine in a pinch. But I like to make my own because the amazing scent permeates the whole house. This cider is great in the Harvest Punch (here) and the Brooklyn Buttered Rum (here), but you can simplify things by just spiking your mug of cider with an ounce or two of rum. Makes 1 gallon.
+    notes: |+2
+      Many stores carry prepackaged mulled cider, which is fine in a pinch. But I like to make my own because the amazing scent permeates the whole house. This cider is great in the Harvest Punch (here) and the Brooklyn Buttered Rum (here), but you can simplify things by just spiking your mug of cider with an ounce or two of rum. Makes 1 gallon.
     ingredients: 
     - 1 gallon apple cider
     - 20 cinnamon sticks
@@ -142,7 +155,8 @@ recipes:
     - Transfer to a nonreactive metal or glass container with a lid and chill in the refrigerator before using. 
     - The cider will keep in the refrigerator for two weeks.
   - name: Spiced Butter
-    notes: Makes about ⅔ cup.
+    notes: |+2
+      Makes about ⅔ cup.
     ingredients: 
     - 1 stick unsalted butter, softened
     - 2 tablespoons dark brown sugar
@@ -158,7 +172,8 @@ recipes:
     - Bring to room temperature before making the cocktail. 
     - The butter will last for 1 week in the refrigerator or up to 2 months in the freezer.
   - name: Chai-Infused Rum
-    notes: This infusion can be made two ways. The easy way is to buy a high-quality chai tea and infuse it into a bottle of aged rum for 30 minutes. The alternative, making your own chai mixture to infuse the rum, gives you more control over the final product. It's a key element in the Brooklyn Buttered Rum and a great base for a hot toddy. Makes about 4 cups.
+    notes: |+2
+      This infusion can be made two ways. The easy way is to buy a high-quality chai tea and infuse it into a bottle of aged rum for 30 minutes. The alternative, making your own chai mixture to infuse the rum, gives you more control over the final product. It's a key element in the Brooklyn Buttered Rum and a great base for a hot toddy. Makes about 4 cups.
     ingredients: 
     - 2 cinnamon sticks
     - 8 whole cloves
@@ -177,7 +192,8 @@ recipes:
     - Funnel the infused rum back into its original bottle and label. 
     - The infusion will keep for two weeks in the refrigerator.
   - name: Juniper Syrup
-    notes: This syrup isn't as versatile as some of the others in this book, but it keeps for quite a while in the refrigerator. Makes 13 ounces.
+    notes: |+2
+      This syrup isn't as versatile as some of the others in this book, but it keeps for quite a while in the refrigerator. Makes 13 ounces.
     ingredients: 
     - 3 tablespoons juniper berries (available from specialty spice markets and online)
     - Peel of 1 orange
@@ -192,7 +208,8 @@ recipes:
     - Strain it through a fine-mesh sieve into a nonreactive metal or glass container with a lid. 
     - The syrup can be stored in the refrigerator for up to one month.
   - name: Mango & Passion Fruit Puree
-    notes: Makes 11 ounces, enough for about 11 drinks
+    notes: |+2
+      Makes 11 ounces, enough for about 11 drinks
     ingredients: 
     - 1 ripe mango, peeled, pitted, and roughly diced into 1-inch pieces
     - 3 ounces passion fruit juice
@@ -201,7 +218,8 @@ recipes:
     - Transfer to a nonreactive metal or glass container with a lid and refrigerate until ready to use. 
     - It will keep for one week in the refrigerator.
   - name: Beet Shrub
-    notes: Makes 3¾ cups, enough for about 15 drinks. Shrub is an old form of drinking vinegar that has recently made something of a comeback. Vinegar is a wonderful agent of acidity and works just as well in drinks as it does in food. You can mix this shrub with club soda to make a natural, grown-up soda pop. Look for fresh beet juice in natural food stores or at juice bars.
+    notes: |+2
+      Makes 3¾ cups, enough for about 15 drinks. Shrub is an old form of drinking vinegar that has recently made something of a comeback. Vinegar is a wonderful agent of acidity and works just as well in drinks as it does in food. You can mix this shrub with club soda to make a natural, grown-up soda pop. Look for fresh beet juice in natural food stores or at juice bars.
     ingredients: 
     - 8 ounces fresh beet juice
     - 2 cups granulated sugar
@@ -214,7 +232,8 @@ recipes:
     - Transfer the shrub to a nonreactive metal or glass container with a lid and store in the refrigerator until ready to use. 
     - It will keep in the refrigerator for 1 week.
   - name: Beet Syrup
-    notes: Makes 1½ cups, enough for about 24 drinks. Beets are a unique source of sugar and this syrup has a deliciously earthy quality that I really love. Its striking color is lovely in the glass, but be sure to wear an apron while you prepare this—it stains like crazy!
+    notes: |+2
+      Makes 1½ cups, enough for about 24 drinks. Beets are a unique source of sugar and this syrup has a deliciously earthy quality that I really love. Its striking color is lovely in the glass, but be sure to wear an apron while you prepare this—it stains like crazy!
     ingredients: 
     - 15 mint leaves
     - 2 large beets, tops removed, peeled and cubed
@@ -228,7 +247,8 @@ recipes:
     - Strain the syrup through a fine-mesh sieve into a nonreactive metal or glass container with a lid and store in the refrigerator until ready to use. 
     - It will last in the refrigerator for up to one week.
   - name: 
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 
     - 

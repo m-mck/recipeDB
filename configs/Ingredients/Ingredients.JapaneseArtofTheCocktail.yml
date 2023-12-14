@@ -4,7 +4,8 @@ recipes:
 
 #Aki Paloma
   - name: Toasted Jasmine-Pomelo Syrup
-    notes: Makes 3¼ cups.
+    notes: |+2
+      Makes 3¼ cups.
     ingredients: 
     - Zest of ¼ pomelo, cut into strips with a peeler or paring knife
     - 2 cups sugar
@@ -13,7 +14,8 @@ recipes:
     steps:
     - In a small bowl, muddle the pomelo zest with the sugar to combine and let stand for 30 minutes. In a medium saucepan, gently toast the jasmine tea leaves over medium-low heat, moving the pan constantly, for about 4 minutes. Turn off the heat and let cool. In a small pot, combine the water, zest-sugar mixture, and toasted tea leaves. Bring the mixture to a simmer over medium heat and stir to dissolve the sugar. Remove from the heat and let cool, then strain through cheesecloth into an airtight glass container. Seal the container and store in the refrigerator for up to 1 month.
   - name: Smoked Pomelo Salt
-    notes: Makes 1 cup.
+    notes: |+2
+      Makes 1 cup.
     ingredients: 
     - 1 pomelo
     - ¼ cup smoked Maldon sea salt
@@ -23,7 +25,8 @@ recipes:
 
 #Bright 'n' Sunny
   - name: Ginger-Lemongrass Tepache
-    notes: Makes 5½ cups.
+    notes: |+2
+      Makes 5½ cups.
     ingredients: 
     - ¾ cup sugar
     - 4 cups water
@@ -34,7 +37,8 @@ recipes:
     steps:
     - In a large container, dissolve the sugar in the water. Add the pineapple skin, ginger, lemongrass, and yeast and cover the top of the container with cheesecloth so that the mixture can “breathe.” Set aside at room temperature (or at about 65°F) for 24 hours until the mixture has a funky yet tropical pineapple aroma. Transfer to a large stockpot. Bring the mixture to 185°F over medium heat and simmer for 5 minutes. Strain through cheesecloth into a 1-liter glass bottle and chill completely. Carbonate using an iSi Soda Syphon or other home carbonation system. Store in the bottle in the refrigerator for up to 1 week.
   - name: Butterfly Pea Flower Tea-Infused Banks 5-Island Rum
-    notes: Makes 750ml.
+    notes: |+2
+      Makes 750ml.
     ingredients: 
     - 1 (750ml) bottle Banks 5-Island Rum
     - 1½ teaspoons butterfly pea flower tea leaves
@@ -43,7 +47,8 @@ recipes:
 
 #Melon-Lime Soda
   - name: Matcha-Lime Cordial
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1¼ cups sugar
     - 1¼ cups hot water
@@ -54,14 +59,16 @@ recipes:
 
 #Ringo Collins
   - name: Earl Grey Tea-Infused Bertoux Brandy
-    notes: Makes 750ml
+    notes: |+2
+      Makes 750ml
     ingredients: 
     - 1 (750ml) bottle Bertoux Brandy
     - 1 tablespoon loose Earl Grey tea leaves
     steps:
     - Combine the brandy and tea leaves in an airtight 1-quart glass container. Steep for 4 hours at room temperature. Strain into the brandy original bottle. Store in the pantry for up to 1 year.
   - name: Fuji Apple-Maple Sherbet
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - Zests of 3 lemons, cut into strips with a peeler or paring knife
     - 1 cup granulated sugar
@@ -73,7 +80,8 @@ recipes:
     steps:
     - In a medium bowl, muddle the lemon zest with the granulated sugar and maple sugar. Add the apple juice, yuzu juice, lemon juice, and citric acid and stir to dissolve the sugars. Fine-strain into an airtight 1-pint glass container. Seal the container. Store in the refrigerator for up to 2 weeks.
   - name: Fruit Leather
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 10 cups diced peeled apples (½-inch dice), plus the leftover pulp from making sherbet, if desired
     - 8½ cups water
@@ -83,7 +91,8 @@ recipes:
 
 #Shiso Gin & Tonic
   - name: Shiso-Quinine Cordial
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - Zest of 3 limes, using a peeler
     - 1½ cups sugar
@@ -96,7 +105,8 @@ recipes:
 
 #Yuzu Spritz
   - name: Yuzu-Lemon Sherbet Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - Zest of 3 lemons, using a peeler
     - 1¼ cups sugar
@@ -105,7 +115,8 @@ recipes:
     steps:
     - In a medium bowl, muddle the lemon zests with the sugar. Add the lemon juice and yuzu juice and stir to dissolve the sugar. Strain through cheesecloth into an airtight 1-pint glass container. Seal the container and store in the refrigerator for up to 2 weeks.
   - name: Cucumber Asazuke
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 6 Persian cucumbers, cut into ¼-inch-thick slices
     - 1½ teaspoons salt
@@ -117,7 +128,8 @@ recipes:
 
 #Hinoki Martini
   - name: Hinoki Tincture
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - ½ cup hinoki wood chips
     - 2 cups Everclear or high-proof vodka
@@ -126,7 +138,8 @@ recipes:
 
 #Amaretto Sour
   - name: Salted Plum Shrub
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 5 pieces soft umeboshi (pickled Japanese plums)
     - 1¼ cups water
@@ -138,7 +151,8 @@ recipes:
 
 #Yuzu-Shiso Daiquiri
   - name: Shio Koji Pandan Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1¼ cups water
     - 1¼ cups sugar
@@ -149,7 +163,8 @@ recipes:
 
 #Panda Fizz
   - name: Pandan Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1¼ cups water
     - 1¼ cups sugar
@@ -159,7 +174,8 @@ recipes:
 
 #Cool Runnings
   - name: Puffed Rice-Coconut Orgeat
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1¼ cups sugar
     - 1¼ cups unsweetened coconut milk
@@ -170,7 +186,8 @@ recipes:
     steps:
     - In a medium saucepan, combine the sugar, coconut milk, and cocoa nibs and heat over medium heat, stirring to dissolve the sugar. Add the puffed genmai and simmer for about 5 minutes, then remove from the heat and let cool. Strain through cheesecloth into an airtight 1-pint container glass and stir in the orange flower water and almond extract. Seal the container and store in the refrigerator for up to 2 weeks.
   - name: Purple Yam Powder
-    notes: Makes 2 to 3 tablespoons.
+    notes: |+2
+      Makes 2 to 3 tablespoons.
     ingredients: 
     - 1 purple Okinawan yam (about 1 pound)
     steps:
@@ -178,7 +195,8 @@ recipes:
 
 #Rubyfruit
   - name: Tutti-Fruity Cordial
-    notes: Save bar fruit, vegetable, and herb odds and ends, such as the end cuts of citrus (including limes, lemons, and oranges), cucumber peels, trimmed herbs and vegetables, stone fruit pits, and bruised fruit that isn't appealing for garnishes, in a resealable plastic storage bag in the freezer to make this cordial. Makes 2 cups.
+    notes: |+2
+      Save bar fruit, vegetable, and herb odds and ends, such as the end cuts of citrus (including limes, lemons, and oranges), cucumber peels, trimmed herbs and vegetables, stone fruit pits, and bruised fruit that isn't appealing for garnishes, in a resealable plastic storage bag in the freezer to make this cordial. Makes 2 cups.
     ingredients: 
     - 1½ cups sugar
     - 1 cup leftover bar fruit
@@ -187,7 +205,8 @@ recipes:
     steps:
     - Combine the sugar and leftover bar fruit in an airtight 1-quart glass container and refrigerate for 24 hours. Add the water to the mix, stir to dissolve the sugar, and add the citric acid. Strain through cheesecloth into a clean 1-quart glass container. Seal the container and store in the refrigerator for up to 1 month.
   - name: Shichimi Salt
-    notes: Makes 1 cup.
+    notes: |+2
+      Makes 1 cup.
     ingredients: 
     - ½ cup shichimi togarashi
     - ½ cup Maldon salt
@@ -197,7 +216,8 @@ recipes:
 
 #Fance Ramune
   - name: Lemon-Daiginjo
-    notes: Makes 2½ cups
+    notes: |+2
+      Makes 2½ cups
     ingredients: 
     - 1 cup Dassai 50 junmai daiginjo sake
     - ¾ cup Housemade Lemon Sherbet
@@ -205,7 +225,8 @@ recipes:
     steps:
     - Combine the sake, sherbet, and lemon stock in an airtight 1-quart glass container. Seal the container and store in the refrigerator for up to 1 week.
   - name: Housemade Lemon Sherbet
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - Zest of 8 lemons, cut into strips with a peeler or paring knife
     - 1½ cups sugar
@@ -214,7 +235,8 @@ recipes:
     - Reserve the spent peels to make the Lemon Stock.
     - In a medium bowl, muddle the lemon zest with the sugar, cover, and let stand for 1 hour. Add the lemon juice and stir to dissolve the sugar. Strain through cheesecloth into an airtight 1-pint glass container. Seal the container and store in the refrigerator for up to 2 weeks.
   - name: Lemon Stock
-    notes: Recipe adapted from Trash Tiki's Iain Griffiths. Makes 2 cups.
+    notes: |+2
+      Recipe adapted from Trash Tiki's Iain Griffiths. Makes 2 cups.
     ingredients: 
     - 4 cups water
     - 3 cups lemon peels (reserved from making Lemon Sherbet)
@@ -225,7 +247,8 @@ recipes:
 
 #Hair of the Cat
   - name: Cat Bran
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1 cup Spice-Infused Brandy
     - 1 cup Fruit Tea mixture
@@ -233,7 +256,8 @@ recipes:
     steps:
     - Combine the brandy, tea mixture, and sugar in an airtight 1-pint glass container. Stir to dissolve the sugar. Seal the container and store in the refrigerator for up to 1 month.
   - name: Spice-Infused Brandy
-    notes: Makes 750ml.
+    notes: |+2
+      Makes 750ml.
     ingredients: 
     - 1 (750ml) bottle The Christian Bros. Sacred Bond brandy
     - 1½ teaspoons fresh juniper berries, cracked
@@ -242,7 +266,8 @@ recipes:
     steps:
     - Combine the brandy, juniper berries, cinnamon stick, and cardamom pod in an airtight 1-quart glass container and steep, covered, at room temperature for 48 hours. Strain into the brandy original bottle and store in the pantry for up to 1 year.
   - name: Fruit Tea Mixture
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1 tablespoon loose chamomile tea
     - 1 tablespoon loose strawberry tea
@@ -254,14 +279,16 @@ recipes:
 
 #Agua Verde
   - name: Matcha Salt
-    notes: Makes ½ cup
+    notes: |+2
+      Makes ½ cup
     ingredients: 
     - ½ cup Maldon salt
     - 1 teaspoon matcha green tea powder
     steps:
     - Combine the salt and matcha in an airtight glass 1-cup container. Seal the container and store in the pantry for up to 1 year.
   - name: Kabosu Lemonade
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - ¼ cup Lime Oleo-Saccharum
     - 1 ounce kabosu juice
@@ -270,7 +297,8 @@ recipes:
     steps:
     - Put the lime oleo-saccharum in an airtight 1-pint glass container, add the kabosu and lemon juices, and stir to dissolve. Add the water and stir well. This is best when made to order but can be made in advance and stored in the refrigerator for up to 1 day.
   - name: Lime Oleo-Saccharum
-    notes: Makes 1 cup.
+    notes: |+2
+      Makes 1 cup.
     ingredients: 
     - Zest of 5 limes, cut into strips with a peeler or paring knife
     - 1 cup sugar
@@ -279,21 +307,24 @@ recipes:
 
 #Aka Ranger
   - name: Rich Honey Syrup
-    notes: Makes 1 cup.
+    notes: |+2
+      Makes 1 cup.
     ingredients: 
     - ⅔ cup honey
     - ⅓ cup water
     steps:
     - In a small saucepan, combine the honey and water and heat over medium-low heat, stirring until the honey has fully dissolved. Let cool, then pour into an airtight 1-cup glass container. Seal the container and store in the refrigerator for up to 2 months.
   - name: Sangostura Bitters
-    notes: Makes 16 ounces.
+    notes: |+2
+      Makes 16 ounces.
     ingredients: 
     - 1 (16-ounce) bottle Angostura bitters
     - ¼ cup sansho peppercorns
     steps:
     - Combine the bitters and peppercorns in an airtight 1-pint glass container and steep, covered, for 48 hours. Strain into the original bitters bottle and store in the pantry for up to 6 months.
   - name: Hot Jasmine Mulled Wine
-    notes: Makes 1 quart.
+    notes: |+2
+      Makes 1 quart.
     ingredients: 
     - 1 (750ml) bottle semi-dry Riesling wine
     - 3 Bosc pears, sliced
@@ -307,7 +338,8 @@ recipes:
 
 #Anbai
   - name: Red Shiso Tea
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 2 cups water
     - 15 fresh red shiso leaves
@@ -318,7 +350,8 @@ recipes:
 
 #Azusa Express
   - name: Cranberry Sous-Vide Aquavit
-    notes: Makes 750ml.
+    notes: |+2
+      Makes 750ml.
     ingredients: 
     - 1 (750ml) bottle Svöl aquavit
     - 1½ cups fresh cranberries
@@ -329,7 +362,8 @@ recipes:
 
 #Dream-Catcher
   - name: Passion Fruit-Yuzu Sour Mix
-    notes: Makes 2½ cups
+    notes: |+2
+      Makes 2½ cups
     ingredients: 
     - 1 cup passion fruit puree
     - ½ cup yuzu juice
@@ -337,7 +371,8 @@ recipes:
     steps:
     - Combine the passion fruit puree, yuzu juice, and simple syrup in an airtight 1-quart glass container. Seal the container and store in the refrigerator for up to 1 month.
   - name: Coconut Salt
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 1 cup unsweetened shredded coconut
     - ½ cup Maldon salt
@@ -346,7 +381,8 @@ recipes:
 
 #Eight Peaks
   - name: Lapsang Souchong Tea-Infused Lillet Rouge
-    notes: Makes 750ml.
+    notes: |+2
+      Makes 750ml.
     ingredients: 
     - 1 (750ml) bottle Lillet Rouge
     - 3 tablespoons loose Lapsang Souchong tea leaves
@@ -355,7 +391,8 @@ recipes:
 
 #Friday in the Park
   - name: Homemade Vermouth
-    notes: Makes 750ml.
+    notes: |+2
+      Makes 750ml.
     ingredients: 
     - 1 (750ml) bottle dry Riesling wine
     - ¾ cup wormwood
@@ -379,21 +416,24 @@ recipes:
 
 #Goma Colada
   - name: Pineapple Puree
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1 cup pineapple juice
     - 1 cup fresh pineapple chunks
     steps:
     - Combine the ingredients in a heavy-duty blender and puree. Pour into an airtight container. Store in the refrigerator for up to 3 days.
   - name: Coco López and Amazake Mix
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1¼ cups Coco López cream of coconut
     - 5 ounces amazake (a kind of low-alcohol sake)
     steps:
     - Combine the ingredients in an airtight 1-pint glass container. Store in the refrigerator up to 1 week.
   - name: Black Sesame and Kokutou Puree
-    notes: Makes 1½ cups
+    notes: |+2
+      Makes 1½ cups
     ingredients: 
     - 1 cup kokutou (Japanese dark cane sugar)
     - ½ cup water
@@ -403,7 +443,8 @@ recipes:
 
 #Inago
   - name: Kinako Sugar
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1 cup kinako (toasted soybean flour)
     - 1 cup confectioners' sugar
@@ -412,7 +453,8 @@ recipes:
 
 #Kurumi
   - name: Kurumi Orgeat
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1 cup blanched walnuts
     - 1½ cups water
@@ -425,7 +467,8 @@ recipes:
 
 #Malt Fuji
   - name: Buckwheat Honey Syrup
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 1 cup buckwheat honey
     - ½ cup water
@@ -434,14 +477,16 @@ recipes:
 
 #Miso Buttered Corn
   - name: Salted Butter-Washed Whiskey
-    notes: Makes 750ml.
+    notes: |+2
+      Makes 750ml.
     ingredients: 
     - 1½ ounces clarified salted butter
     - 1 (750ml) bottle Mellow Corn whiskey, at room temperature
     steps:
     - In a saucepan, heat the clarified butter over low heat to melt it completely. Pour the whiskey into an airtight 1-quart glass container and pour the clarified butter over the whiskey. Cover and let stand at room temperature for 1 hour, occasionally shaking the container. Store the mixture in the freezer overnight. The next day, strain the whiskey through cheesecloth to remove the butter solids. Pour the whiskey into its original bottle and store in the refrigerator for up to 2 months.
   - name: Corn Silk Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1 cup dried corn silks
     - 1 cup hot water
@@ -449,14 +494,16 @@ recipes:
     steps:
     - Steep the corn silks in the hot water for 5 minutes. Strain the water into an airtight 1-pint glass container to remove the cork silks, then add the sugar and stir well to dissolve. Seal the container and store in the refrigerator for up to 1 month.
   - name: White Miso-Crème FraÎche
-    notes: Makes 1 cup.
+    notes: |+2
+      Makes 1 cup.
     ingredients: 
     - 1 cup crème fraîche
     - 1 tablespoon white miso paste
     steps:
     - In a bowl, whisk together crème fraîche and miso. Transfer to an airtight glass 1-pint container. Seal the container and store in the refrigerator for up to 1 week.
   - name: Corn Puree
-    notes: Makes 1½ cups
+    notes: |+2
+      Makes 1½ cups
     ingredients: 
     - 2 cups freeze-dried corn kernels
     - 1 cup water
@@ -465,7 +512,8 @@ recipes:
 
 #No Name Whey
   - name: Milk-Washed Tequila
-    notes: Makes about 1¼ quarts. Recipe adapted from Don Lee of Existing Conditions.
+    notes: |+2
+      Makes about 1¼ quarts. Recipe adapted from Don Lee of Existing Conditions.
     ingredients: 
     - 1 (1L) bottle tequila
     - 1 cup whole milk
@@ -473,14 +521,16 @@ recipes:
     steps:
     - Combine the tequila and milk in a 2-quart glass container and stir well. Add the citric acid solution. Strain the mixture through cheesecloth and then through a coffee filter into an airtight 1½-quart glass container. Seal the container and store in the refrigerator for up to 2 weeks.
   - name: Lime Salt
-    notes: Makes ½ cup
+    notes: |+2
+      Makes ½ cup
     ingredients: 
     - ½ cup Maldon salt
     - Zest of 5 limes, grated on a Microplane
     steps:
     - Combine the salt and lime zest in a mortar and grind together using a pestle. Transfer to an airtight 1-cup glass container. Seal the container and store in the pantry for up to 1 week to maintain the best color of the zest.
   - name: Zunda Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1½ cups water
     - 1¼ cups wasanbon (premium fine-grained Japanese cane sugar)
@@ -491,7 +541,8 @@ recipes:
 
 #Pineapple Sensei
   - name: Salted Sakura Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1 tablespoon salted preserved sakura flower
     - 1¼ cups water
@@ -502,7 +553,8 @@ recipes:
 
 #Sakura Julep
   - name: Sakura Leaf Oleo-Saccharum
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1¾ cups sugar
     - Zest of 1 lemon, cut into strips with a peeler or paring knife
@@ -511,7 +563,8 @@ recipes:
     steps:
     - Combine the sugar, lemon zest, and sakura leaves in an airtight 1-pint glass container, cover and let stand at room temperature for 1 week. Add the water and stir to dissolve the sugar. Strain through cheesecloth into a clean 1-pint glass container. Seal the container and store in the refrigerator for up to 2 months.
   - name: Rich Ginger Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - ¾ cup cold-pressed fresh ginger juice
     - 2¼ cups sugar
@@ -520,14 +573,16 @@ recipes:
 
 #Truffle Old-Fashioned
   - name: Truffle Butter-Washed Whisky
-    notes: Makes 750ml.
+    notes: |+2
+      Makes 750ml.
     ingredients: 
     - 2 tablespoons clarified white truffle butter
     - 1 (750ml) bottle Hibiki Japanese Harmony whisky
     steps:
     - Combine the butter and whisky in an ROP bag and vacuum seal to remove all the air. Cook in a water bath using an immersion circulator at 135°F for 1 hour. Remove and let cool, then store in the freezer overnight. The next day, strain through cheesecloth into the original whisky bottle and store in the refrigerator for up to 1 month.
   - name: Matsutake-Porcini Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1¼ cups water
     - ½ cup dried matsutake mushrooms
@@ -538,7 +593,8 @@ recipes:
 
 #Umeshu Soda
   - name: Homemade Umeshu
-    notes: Makes 1 liter.
+    notes: |+2
+      Makes 1 liter.
     ingredients: 
     - 2¼ cups fresh young green plums
     - 1¾ cups rock sugar
@@ -548,7 +604,8 @@ recipes:
 
 #Valley Stream
   - name: Honeydew-Daiginjo Sherbet
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - Zest of 3 limes, cut into strips with a peeler or paring knife
     - Peel of 1 cucumber
@@ -562,7 +619,8 @@ recipes:
 
 #Haikara Mugicha
   - name: Charcoal-Roasted Barley and Lapsang Souchong Tea
-    notes: Makes 1 quart.
+    notes: |+2
+      Makes 1 quart.
     ingredients: 
     - 4 cups water
     - ¼ cup charcoal-roasted mugicha (barley tea)
@@ -570,7 +628,8 @@ recipes:
     steps:
     - Fill a 1-quart container with the water, add the teas, and let steep at room temperature for 30 minutes. Strain through a coffee filter into an airtight 1-quart glass container. Seal the container and store in the refrigerator for up to 3 days.
   - name: Vanilla Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1¼ cups water
     - 1¼ cups sanonto (Japanese light brown sugar), or light brown sugar
@@ -580,7 +639,8 @@ recipes:
 
 #Far East Gimlet
   - name: Salted Lime Syrup
-    notes: Makes 1 cup.
+    notes: |+2
+      Makes 1 cup.
     ingredients: 
     - 1 cup water
     - 1 cup sugar
@@ -591,14 +651,16 @@ recipes:
 
 #Bancha Negroni
   - name: Iri Bancha–Infused Japanese Whisky
-    notes: Makes 750ml.
+    notes: |+2
+      Makes 750ml.
     ingredients: 
     - 1 (750ml) bottle Mars Whisky EXTRA Japanese whisky (or substitute Mars Iwai Tradition Japanese whisky)
     - 3½ tablespoons loose iri bancha tea leaves
     steps:
     - Combine the whisky and tea leaves in a 1-quart ROP bag and vacuum seal to remove all the air. Cook in a water bath using an immersion circulator at 122°F for 1 hour. Strain into the original whisky bottle and store in the pantry for up to 3 months.
   - name: Hojicha-Infused Campari
-    notes: Makes 750ml.
+    notes: |+2
+      Makes 750ml.
     ingredients: 
     - 1 (750ml) bottle Campari
     - 5 tablespoons loose hojicha tea leaves
@@ -607,7 +669,8 @@ recipes:
 
 #Bento on the Rock
   - name: Saline Solution
-    notes: Makes ½ cup
+    notes: |+2
+      Makes ½ cup
     ingredients: 
     - ½ cup water
     - 1 tablespoon salt, any kind
@@ -616,7 +679,8 @@ recipes:
 
 #Cat's Paw
   - name: Sesame Oil-Washed Japanese Whisky
-    notes: Makes 1 liter.
+    notes: |+2
+      Makes 1 liter.
     ingredients: 
     - 1 (1L) bottle Suntory Toki whisky
     - ½ cup high-quality sesame oil
@@ -625,21 +689,24 @@ recipes:
 
 #Dashi Papi
   - name: Togarashi Salt
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 1 cup sea salt
     - ½ cup togarashi
     steps:
     - Combine the salt and togarashi in an airtight 1-pint glass container. Seal the container and store in the pantry for up to 1 year.
   - name: Kombu-Infused Tequila
-    notes: Makes 750ml.
+    notes: |+2
+      Makes 750ml.
     ingredients: 
     - 1 (750ml) bottle silver tequila (preferably from the Highlands)
     - 1 sheet kombu, rinsed in water
     steps:
     - Warm the tequila by heating it in the microwave for 30 seconds or gently warming it in a saucepan on the stovetop over medium-low heat for 3 minutes. Remove from the heat, combine with kombu in an airtight 1-quart glass container, cover and let stand for 3 hours. Strain into the original tequila bottle and store in the refrigerator for up to 6 months.
   - name: Rice Syrup
-    notes: Makes 1 cup.
+    notes: |+2
+      Makes 1 cup.
     ingredients: 
     - 1 cup uncooked white rice
     - 1 cup water
@@ -649,7 +716,8 @@ recipes:
 
 #Godzilla
   - name: Matcha Anko Rice Milk Syrup
-    notes: Makes 1¼ quarts.
+    notes: |+2
+      Makes 1¼ quarts.
     ingredients: 
     - 4 cups water
     - ¾ cup rice
@@ -662,7 +730,8 @@ recipes:
 
 #Hattori Hanzo
   - name: Goma Pickle Slices
-    notes: Makes 1 cup.
+    notes: |+2
+      Makes 1 cup.
     ingredients: 
     - 1½ cups Japanese rice vinegar
     - ½ cup sugar
@@ -675,7 +744,8 @@ recipes:
 
 #Highland Picnic
   - name: Shiso Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1¼ cups sugar
     - 1¼ cups water
@@ -685,7 +755,8 @@ recipes:
 
 #Jazz Lingo
   - name: Pistachio Orgeat
-    notes: Makes 3 cups.
+    notes: |+2
+      Makes 3 cups.
     ingredients: 
     - ¾ cup shelled pistachios
     - 2½ cups hot water (not boiling)
@@ -696,7 +767,8 @@ recipes:
 
 #Leilani's Fizz
   - name: Lemongrass Syrup
-    notes: Makes 1 cup.
+    notes: |+2
+      Makes 1 cup.
     ingredients: 
     - 10 lemongrass stalks, ends trimmed and brittle outer layers removed
     - 2 cups water
@@ -706,7 +778,8 @@ recipes:
 
 #A Letter From the Shogun
   - name: Strawberry and Pomegranate-Infused Japanese Whisky
-    notes: Makes 750ml.
+    notes: |+2
+      Makes 750ml.
     ingredients: 
     - 1 (750ml) bottle Yamazaki Japanese whisky (or substitute Yamazaki 12-year-old Japanese whisky)
     - 6 strawberries
@@ -716,7 +789,8 @@ recipes:
 
 #Local Whisky Old-Fashioned
   - name: Local Whisky Blend
-    notes: Makes 3 cups.
+    notes: |+2
+      Makes 3 cups.
     ingredients: 
     - 1 cup Nikka Taketsuru Pure Malt whisky
     - 1 cup Nikka Black Deep Blend whisky
@@ -726,7 +800,8 @@ recipes:
 
 #Paper Crane
   - name: Asian Citrus Blend
-    notes: Makes 1 cup.
+    notes: |+2
+      Makes 1 cup.
     ingredients: 
     - 4 ounces fresh lemon juice
     - 3 ounces fresh Mandarin orange juice
@@ -734,7 +809,8 @@ recipes:
     steps:
     - Combine the juices in an airtight 1-cup glass container. Seal the container and store in the refrigerator for up to 3 days.
   - name: Burdock Root Tincture
-    notes: Makes 1 cup
+    notes: |+2
+      Makes 1 cup
     ingredients: 
     - 1 (4-inch) piece burdock root, peeled and chopped
     - 1 cup Everclear or high-proof vodka
@@ -743,7 +819,8 @@ recipes:
 
 #Sage the World
   - name: Sage and Green Tea Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1¼ cups water
     - 1¼ cups sugar
@@ -754,7 +831,8 @@ recipes:
 
 #Shunga
   - name: Cucumber and Basil Shrub 
-    notes: Makes 3½ cups.
+    notes: |+2
+      Makes 3½ cups.
     ingredients: 
     - 4 Japanese cucumbers, cut into small cubes
     - 2 cups fresh basil leaves
@@ -765,7 +843,8 @@ recipes:
 
 #Spumoni
   - name: Pink Peppercorn Syrup
-    notes: Makes 2 cups
+    notes: |+2
+      Makes 2 cups
     ingredients: 
     - 1¼ cups water
     - 1¼ cups sugar
@@ -777,7 +856,8 @@ recipes:
 
 #Timeless
   - name: Housemade Apple Jam
-    notes: Makes 1½ cups
+    notes: |+2
+      Makes 1½ cups
     ingredients: 
     - 1 cup grated peeled Fuji apple
     - 1 cup sugar
@@ -786,14 +866,16 @@ recipes:
 
 #Tumugist
   - name: Green Tea-Infused Tumugi
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 1 (750ml) bottle Tumugi
     - 1 cup loose green tea leaves (Ureshino-cha from Saga is recommended)
     steps:
     - Combine the Tumugi and green tea in an airtight 1-quart glass container. Cover and let stand at room temperature for 24 hours. Strain into the original Tumugi bottle and store in the pantry for up to 1 month.
   - name: Tumugi Syrup
-    notes: Makes 1¾ cups
+    notes: |+2
+      Makes 1¾ cups
     ingredients: 
     - 12 ounces Tumugi
     - 1 cup sugar
@@ -803,20 +885,23 @@ recipes:
 
 #Wakaba
   - name: Wasabi Salt
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1 cup ground dehydrated fresh wasabi (Spread fresh wasabi out in a thin layer in a dehydrator and dehydrate completely. Using a heavy-duty blender, blend the dried wasabi into a powder.)
     - 1 cup Maldon salt
     steps:
     - Combine the salt and wasabi in a heavy-duty blender or spice grinder and grind. Transfer to an airtight 1-pint glass container. Seal the container and store in the pantry for up to 2 months.
   - name: Tomatillo Water
-    notes: Makes about 2 cups.
+    notes: |+2
+      Makes about 2 cups.
     ingredients: 
     - 2 pounds fresh tomatillos
     steps:
     - Remove the husks from the tomatillos and rinse well. Juice the tomatillos using a vegetable juicer and refrigerate to allow to settle, skimming any foam off the top. Strain through a Superbag or a coffee filter into an airtight 1-pint glass container. Use a home carbonation system to carbonate the tomatillo water, and store in the refrigerator for up to 2 days.
   - name: Basil Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1¼ cups water
     - 1¼ cups sugar
@@ -827,7 +912,8 @@ recipes:
 
 #Yoshimi Wins
   - name: Shiso Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1¼ cups sugar
     - 1¼ cups water

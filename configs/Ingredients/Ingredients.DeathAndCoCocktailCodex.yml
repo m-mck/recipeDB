@@ -479,7 +479,8 @@ recipes:
     - Put the salt and sugar in a storage container, seal, and shake to combine. Store in a dry place until ready to use. It will keep indefinitely.
 #Solutions, Tinctures, and Concentrates
   - name: Après-Ski Tincture
-    notes: "It should be noted that this tincture is all about a woodsy aroma on top of the drink, and therefore is not to be consumed in quantity on its own. We recommend finding an incense that lists cedar wood as its only ingredient (with no other added chemicals!), then scrape the cedar from the incense stick for use in the tincture."
+    notes: |+2
+      "It should be noted that this tincture is all about a woodsy aroma on top of the drink, and therefore is not to be consumed in quantity on its own. We recommend finding an incense that lists cedar wood as its only ingredient (with no other added chemicals!), then scrape the cedar from the incense stick for use in the tincture."
     ingredients: 
     - 250 grams vodka
     - 20 grams 100 percent cedar incense scrapings

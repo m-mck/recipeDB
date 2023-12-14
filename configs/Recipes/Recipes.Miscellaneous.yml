@@ -5,7 +5,8 @@ recipes:
 - name: Chas
   author: Murray Stenson
   url: https://cocktailpartyapp.com/drinks/chas/
-  notes: "One of the regulars at the Zig Zag Cafe loved his bourbon cocktails, to the point of never having anything else. There are, of course, only so many bourbon cocktail recipes out there, so one time he asked Murray to come up with something different, and this was the result. The customers name was Charles, or 'Chaz' to his friends."
+  notes: |+2
+      "One of the regulars at the Zig Zag Cafe loved his bourbon cocktails, to the point of never having anything else. There are, of course, only so many bourbon cocktail recipes out there, so one time he asked Murray to come up with something different, and this was the result. The customers name was Charles, or 'Chaz' to his friends."
   glassware: coupe
   ingredients:
   - 2½ ounces Bourbon
@@ -23,7 +24,8 @@ recipes:
 - name: The Weeper's Joy
   author: 
   url: https://cocktailvirgin.blogspot.com/2019/02/the-weepers-joy.html
-  notes: 
+  notes: |+2
+      
   glassware: nick & nora
   ingredients:
   - 1/4 ounce simple syrup

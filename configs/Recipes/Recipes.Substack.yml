@@ -58,3 +58,37 @@ recipes:
     - peaty
     - shaken
     - citrus
+  - name: The Riddler #1
+    year: 2023
+    author: Phil Ward
+    glassware: nick & nora
+    ingredients:
+    - 2 ounces Hayman’s London Dry Gin
+    - 2 ounces Cocchi Americano
+    - 5 dashes of Peychaud's Bitters
+    - "Garnish: grapefruit twist"
+    steps:
+    - Combine ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Express a grapefruit twist over the surface of the drink and discard.
+    tags:
+    - martini
+    - stirred
+    - freezer bar
+  - name: The Riddler #2
+    year: 2023
+    author: Phil Ward
+    glassware: nick & nora
+    ingredients:
+    - 2 ounces Hayman’s London Dry Gin
+    - 2 ounces Cocchi Americano
+    - 5 dashes of Angostura Bitters
+    - "Garnish: grapefruit twist"
+    steps:
+    - Combine ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Express a grapefruit twist over the surface of the drink and discard.
+    tags:
+    - martini
+    - stirred
+    - freezer bar

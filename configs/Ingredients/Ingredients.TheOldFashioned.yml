@@ -4,7 +4,8 @@ recipes:
 
 #Benton's Old-Fashioned
   - name: Benton's Bacon Fat-Infused Bourbon
-    notes: Makes 750 mL.
+    notes: |+2
+      Makes 750 mL.
     ingredients: 
     - 1½ ounces bacon fat
     - 1 (750 ml) bottle Four Roses bourbon
@@ -13,7 +14,8 @@ recipes:
 
 #Prime Meats Old-Fashioned
   - name: Bartlett Pear Bitters
-    notes: Makes about 20 ounces.
+    notes: |+2
+      Makes about 20 ounces.
     ingredients: 
     - 3 Bartlett pears, cored and coarsely chopped
     - Zest of 1 lemon, cut into strips with a paring knife
@@ -33,14 +35,16 @@ recipes:
 
 #Honey-Nut Old-Fashioned
   - name: Peanut-Infused Bourbon
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 1 cup unsalted dry-roasted peanuts
     - 1½ cups Elijah Craig 12-year bourbon
     steps:
     - Combine the peanuts and bourbon in a nonreactive container, cover, and leave at room temperature for 24 hours. Strain through a double layer of cheesecloth into a clean freezer-safe container and place in the freezer for 24 hours. Scrape away the solid fat from the surface of the liquid and discard. Let the mixture warm to room temperature, then strain through a double layer of cheesecloth into a clean bottle. The bourbon will keep for a week.
   - name: Honey Syrup
-    notes: Makes 1 cup.
+    notes: |+2
+      Makes 1 cup.
     ingredients: 
     - 1 cup clover honey
     - ⅓ cup hot water
@@ -49,7 +53,8 @@ recipes:
 
 #The Smoking Gun
   - name: Smoked Demerara Syrup
-    notes: Makes about 1½ cups.
+    notes: |+2
+      Makes about 1½ cups.
     ingredients: 
     - 1 tablespoon loose Lapsang souchong tea leaves
     - 1 cup boiling water
@@ -59,7 +64,8 @@ recipes:
 
 #Cliff Old-Fashioned
   - name: Coriander Syrup
-    notes: Makes about ½ cup.
+    notes: |+2
+      Makes about ½ cup.
     ingredients: 
     - Scant ½ cup water
     - Scant ½ cup sugar
@@ -70,7 +76,8 @@ recipes:
 
 #The Haunted House
   - name: Ginger Syrup
-    notes: Makes 1 cup.
+    notes: |+2
+      Makes 1 cup.
     ingredients: 
     - 1 cup sugar
     - 1 (2-inch) knob fresh ginger, sliced into coins
@@ -80,7 +87,8 @@ recipes:
 
 #Ode to Atkins
   - name: Buckwheat Honey Syrup
-    notes: Makes ½ cup.
+    notes: |+2
+      Makes ½ cup.
     ingredients: 
     - ½ cup buckwheat honey
     - ½ cup water
@@ -89,7 +97,8 @@ recipes:
 
 #Sorghum Old-Fashioned
   - name: Sorghum Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 1 cup sugar
     - 1 cup sorghum syrup

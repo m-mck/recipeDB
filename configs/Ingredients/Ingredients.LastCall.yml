@@ -3,7 +3,8 @@ hidden: true
 recipes:
 
   - name: Rooibos Tea Syrup
-    notes: Makes 2 cups.
+    notes: |+2
+      Makes 2 cups.
     ingredients: 
     - 6 rooibos tea syrup
     - 1½ cups boiling water
@@ -11,7 +12,8 @@ recipes:
     steps:
     - Steep 6 rooibos tea bags in 1½ cups boiling water for 8 to 10 minutes. Discard the tea bags, add 1½ cups sugar, and stir until the sugar dissolves. Let cool completely and store in a tightly capped glass jar. The syrup will keep in the refrigerator for up to 1 month.
   - name: Mulled Wine Shrub
-    notes: Makes about 3 cups.
+    notes: |+2
+      Makes about 3 cups.
     ingredients: 
     - 1 cup granulated sugar
     - 1 cup Demerara sugar
@@ -26,14 +28,16 @@ recipes:
     steps:
     - Combine both sugars, the cinnamon, nutmeg, cloves, allspice, juniper, star anise, and orange peel in a bowl and muddle lightly. Cover and let sit at room temperature overnight. The oils from the orange peel will be absorbed into the sugar. The next day, transfer the mixture to a saucepan, add the vinegar, and bring to a boil over high heat. Lower the heat to a simmer and simmer briefly, just until cinnamon and allspice aromas are prominent. Monitor the pan closely to make sure the clove doesn't overpower the blend. Remove from the heat and strain through a fine-mesh strainer into a heatproof jar. Let cool, cap tightly, and refrigerate. It will keep for up to 1 month.
   - name: Habañero Tincture
-    notes: Makes about 1½ cups.
+    notes: |+2
+      Makes about 1½ cups.
     ingredients: 
     - 8 habañero chiles, thinly sliced, with seeds and stems
     - ½ (375-milliliter) bottle 80-proof vodka
     steps:
     - Combine the chiles and vodka in a glass jar, cap tightly, and let steep at room temperature for 24 hours. Scoop out and discard the solids, then strain through a Chemex or paper coffee filter into a clean jar. Cap and store at room temperature. It will last indefinitely.
   - name: Cinnamon Syrup
-    notes: Makes about 2 cups.
+    notes: |+2
+      Makes about 2 cups.
     ingredients: 
     - 1 cup water
     - 2 (6-inch) cinnamon sticks, halved
@@ -41,21 +45,24 @@ recipes:
     steps:
     - Combine the water and cinnamon sticks in a saucepan over medium heat. At the first crack of a boil, add the sugar and rapidly stir with a whisk to dissolve (about 1 minute). Remove from the heat and let cool completely. Strain through a fine-mesh strainer into a jar and cap tightly. It will keep in the refrigerator for up to 1 month.
   - name: Grilled Apricot-Infused Irish Whiskey
-    notes: Makes about 3 cups.
+    notes: |+2
+      Makes about 3 cups.
     ingredients: 
     - 4 to 6 Grilled Apricot Halves (this page)
     - 1 (750-milliliter) bottle Irish whiskey (preferably Teeling small batch)
     steps:
     - Put the apricots into a container with a sealable lid. Pour in the whiskey and cap tightly. Allow to infuse at room temperature for 72 hours. Strain through a fine-mesh strainer into the empty whiskey bottle and cap tightly. It will keep in the refrigerator for up to 3 months.
   - name: Cold-Steeped Black Tea
-    notes: Makes 4 cups.
+    notes: |+2
+      Makes 4 cups.
     ingredients: 
     - 3 tablespoons second flush Darjeeling loose leaf black tea
     - 4 cups water
     steps:
     - Put the tea and water in a glass container and let steep for 24 hours. Strain through a fine-mesh strainer into a clean container with a sealable lid. It will keep in the refrigerator for up to 1 week. You can use the spent tea leaves again to make hot tea.
   - name: Grilled Apricot Syrup
-    notes: Makes 4 cups.
+    notes: |+2
+      Makes 4 cups.
     ingredients: 
     - 4 to 6 Grilled Apricot Halves
     - 4 cups sugar
@@ -63,13 +70,15 @@ recipes:
     steps:
     - Put the apricots into a container with a sealable lid. Cover the apricots with the sugar and cap tightly. Allow to infuse at room temperature for 24 hours. Add the water and stir until the sugar dissolves. Strain the syrup though a fine-mesh strainer into a clean container with a sealable lid. It will keep in the refrigerator for up to 1 month.
   - name: Dehydrated Lemon Slices
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 5 to 6 lemons, thinly sliced
     steps:
     - Arrange the lemons in a single layer on a dehydrator tray. Dehydrate on medium-low for 36 to 48 hours, until the sugars have caramelized and the flesh has darkened but the skin remains yellow. Store in an airtight container at room temperature for up to 1 month.
   - name: Grilled Apricot Halves
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 8 to 12 apricots, unpeeled, halved and pitted
     steps:

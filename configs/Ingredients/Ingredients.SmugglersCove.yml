@@ -4,7 +4,8 @@ recipes:
 
 #
   - name: SC House Spiced Rum
-    notes: Makes two 750 mL bottles.
+    notes: |+2
+      Makes two 750 mL bottles.
     ingredients: 
     - 2 (750 ml) bottles blended aged rum
     - 1 (8-inch) vanilla bean (split lengthwise)
@@ -25,14 +26,16 @@ recipes:
     - Transfer to bottles and seal well. 
     - The spiced rum will keep for several months at room temperature.
   - name: Sweet Cream
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 1 cup SC demerara syrup
     - 6 ounces heavy whipping cream
     steps:
     - In a drink mixer, blend 6 ounces of heavy whipping cream with 1 ounce of SC Demerara syrup until slightly thickened but still pourable (a few seconds).
   - name: SC Hot Buttered Rum Batter
-    notes: Makes about 4 cups (48 servings) batter. When possible, it is always best to use fresh spices, but if you don't have a small pepper mill to grind the anise seeds, allspice, and black pepper, I would suggest buying ground versions.
+    notes: |+2
+      Makes about 4 cups (48 servings) batter. When possible, it is always best to use fresh spices, but if you don't have a small pepper mill to grind the anise seeds, allspice, and black pepper, I would suggest buying ground versions.
     ingredients: 
     - 1 teaspoon freshly ground cinnamon
     - 1 teaspoon freshly ground nutmeg
@@ -58,7 +61,8 @@ recipes:
     - While still warm and malleable, pour the batter into a storage container. 
     - Let cool completely, then seal airtight, and store in the refrigerator where it will keep until the expiration date of the butter used to make it; note that date before you start the
   - name: 2:1 Simple Syrup
-    notes: "Makes 4 cups (32 ounces). This recipe easily scales up to make more. One helpful tip: when you're making a 2:1 simple syrup, the liquid yield is equivalent to the amount of sugar. So, to create 40 ounces of simple syrup you would use 40 ounces (5 cups) of sugar to 20 ounces of water."
+    notes: |+2
+      "Makes 4 cups (32 ounces). This recipe easily scales up to make more. One helpful tip: when you're making a 2:1 simple syrup, the liquid yield is equivalent to the amount of sugar. So, to create 40 ounces of simple syrup you would use 40 ounces (5 cups) of sugar to 20 ounces of water."
     ingredients: 
     - 2 cups water
     - 4 cups granulated sugar
@@ -69,7 +73,8 @@ recipes:
     - Store in a lidded bottle or other sealed container in the refrigerator. 
     - The syrup will keep, if refrigerated, for several weeks.
   - name: SC Demerara Syrup
-    notes: "Makes 4 cups (32 ounces). The recipe easily scales up to make more. One helpful tip: when you're making this syrup, the liquid yield is equivalent to the amount of total sugar used. So, to create 8 cups (64 ounces) of syrup you would use 8 cups (64 ounces) of sugar (6 cups white sugar, 2 cups demerara) to 4 cups (32 ounces) of water."
+    notes: |+2
+      "Makes 4 cups (32 ounces). The recipe easily scales up to make more. One helpful tip: when you're making this syrup, the liquid yield is equivalent to the amount of total sugar used. So, to create 8 cups (64 ounces) of syrup you would use 8 cups (64 ounces) of sugar (6 cups white sugar, 2 cups demerara) to 4 cups (32 ounces) of water."
     ingredients: 
     - 2 cups water
     - 1 cup demerara sugar
@@ -82,28 +87,32 @@ recipes:
     - Store in a lidded bottle or other sealed container in the refrigerator. 
     - The syrup will keep, refrigerated, for several weeks.
   - name: SC Honey Syrup
-    notes: "Makes 3 cups (24 ounces). This is an equal parts honey-to-water recipe. One handy tip: After you pour the honey from its container into the saucepan and start to heat it, add water to the empty honey container until one-quarter full. Seal the container and shake vigorously to remove all of the honey clinging to the sides of the container. Then fill the rest of the container with water, and add the liquid to the saucepan when the honey is ready. For a richer honey flavor in your cocktails, you may wish to try 2 parts honey to 1 part water (3 cups of honey to 1½ cups of water) and experiment with different varieties of honey to find your favorite."
+    notes: |+2
+      "Makes 3 cups (24 ounces). This is an equal parts honey-to-water recipe. One handy tip: After you pour the honey from its container into the saucepan and start to heat it, add water to the empty honey container until one-quarter full. Seal the container and shake vigorously to remove all of the honey clinging to the sides of the container. Then fill the rest of the container with water, and add the liquid to the saucepan when the honey is ready. For a richer honey flavor in your cocktails, you may wish to try 2 parts honey to 1 part water (3 cups of honey to 1½ cups of water) and experiment with different varieties of honey to find your favorite."
     ingredients: 
     - 1½ cups honey
     - 1½ cups water
     steps:
     - Heat the honey in a saucepan over medium heat until runny and not viscous—nearly to a boil but not quite. Add the water to the hot honey and whisk together. Immediately remove from the heat. Let cool. Store in a lidded bottle or other sealable container in the refrigerator. The syrup will keep, refrigerated, for several weeks.
   - name: SC Passion Fruit Syrup
-    notes: Makes 3 cups (24 ounces). Increase the amount of puree for a tarter syrup.
+    notes: |+2
+      Makes 3 cups (24 ounces). Increase the amount of puree for a tarter syrup.
     ingredients: 
     - 1½ cups Funkin passion fruit puree
     - 1½ cups 2:1 Simple Syrup, cooled
     steps:
     - In a bowl, whisk together the fruit puree and the syrup. Pour into a lidded bottle or other sealable container and store in the refrigerator. The syrup will keep, refrigerated, for up to 10 days.
   - name: SC Passion Fruit Honey
-    notes: Makes 3 cups (24 ounces).
+    notes: |+2
+      Makes 3 cups (24 ounces).
     ingredients: 
     - 1½ cups honey
     - 1½ cups Funkin passion fruit puree
     steps:
     - Heat the honey in a saucepan over medium heat until runny and not viscous—nearly to a boil but not quite. Remove from the heat and whisk in the passion fruit puree. Let cool. Pour into a lidded bottle or other sealable container and store in the refrigerator. The syrup will keep, refrigerated, for up to 10 days.
   - name: SC Mai Tai Rich Simple Syrup
-    notes: Makes 4 cups (32 ounces).
+    notes: |+2
+      Makes 4 cups (32 ounces).
     ingredients: 
     - 2 cups water
     - 4 cups demerara sugar
@@ -117,7 +126,8 @@ recipes:
     - Pour into a lidded bottle or other sealable container and store in the refrigerator. 
     - The syrup will keep, refrigerated, for several weeks.
   - name: SC Vanilla Syrup
-    notes: Makes 4 cups (32 ounces).
+    notes: |+2
+      Makes 4 cups (32 ounces).
     ingredients: 
     - 2 cups water
     - 4 cups granulated sugar
@@ -133,7 +143,8 @@ recipes:
     - Strain through cheesecloth into a bowl and then pour through a funnel into a lidded bottle or other sealable container. 
     - The syrup will keep, refrigerated, for several weeks.
   - name: SC Cinnamon Syrup
-    notes: Makes 4 cups (32 ounces). We use cassia in our cinnamon syrup, but you can try the milder, sweeter ceylon cinnamon to add a different note.
+    notes: |+2
+      Makes 4 cups (32 ounces). We use cassia in our cinnamon syrup, but you can try the milder, sweeter ceylon cinnamon to add a different note.
     ingredients: 
     - 2 cups water
     - 3 (6-inch) cinnamon sticks, halved
@@ -147,7 +158,8 @@ recipes:
     - Strain through cheesecloth into a bowl and then use a funnel to pour into a lidded bottle or other sealable container. 
     - The syrup will keep, refrigerated, for several weeks.
   - name: SC Molasses Syrup
-    notes: Makes 4½ cups (36 ounces). For a richer molasses flavor, increase the molasses-to-sugar ratio.
+    notes: |+2
+      Makes 4½ cups (36 ounces). For a richer molasses flavor, increase the molasses-to-sugar ratio.
     ingredients: 
     - 2 cups water
     - 4 cups granulated sugar
@@ -160,7 +172,8 @@ recipes:
     - Pour into a lidded bottle or other sealable container and store in the refrigerator. 
     - The syrup will keep, refrigerated, for several weeks.
   - name: SC Grenadine
-    notes: Makes 3 cups (24 ounces).
+    notes: |+2
+      Makes 3 cups (24 ounces).
     ingredients: 
     - 2 cups POM Wonderful 100 Percent Pomegranate juice
     - 2 cups granulated sugar
@@ -172,7 +185,8 @@ recipes:
     - Pour into a lidded bottle or other sealable container and store in the refrigerator. 
     - The syrup will keep, refrigerated, for several weeks.
   - name: SC Coconut Cream
-    notes: Makes about 3½ cups (27 ounces)
+    notes: |+2
+      Makes about 3½ cups (27 ounces)
     ingredients: 
     - 1 (13½-ounce) can Thai Kitchen or other unsweetened coconut milk
     - ¼ teapoon salt
@@ -187,7 +201,8 @@ recipes:
     - Pour into a lidded bottle or other sealable container and store in the refrigerator. 
     - The coconut cream will keep, refrigerated, for 2 weeks.
   - name: SC Jerk Syrup
-    notes: Makes 2 cups (16 ounces).
+    notes: |+2
+      Makes 2 cups (16 ounces).
     ingredients: 
     - 1 cup water
     - 2 cups granulated sugar
@@ -200,7 +215,8 @@ recipes:
     - Use a funnel to pour into a lidded bottle or other sealable container and store in the refrigerator. 
     - The syrup will keep, refrigerated, for several weeks.
   - name: SC Jerk Seasoning
-    notes: Makes about 2 tablespoons.
+    notes: |+2
+      Makes about 2 tablespoons.
     ingredients: 
     - 1¾ teaspoon ground dried thyme
     - 1 teaspoon freshly ground allspice berries
@@ -213,7 +229,8 @@ recipes:
     - Add all the ingredients to a bowl, and mix together until well combined. 
     - Store any extra in a ziplock bag or other sealable container for future use.
   - name: SC Orgeat
-    notes: Makes 5 to 6 cups (40 to 48 ounces).
+    notes: |+2
+      Makes 5 to 6 cups (40 to 48 ounces).
     ingredients: 
     - 1 pound blanched almonds (3½ to 4 cups)
     - 4 cups water
@@ -247,7 +264,8 @@ recipes:
     - Once completely cool, stir vigorously and then strain through a metal-screened or cheesecloth-lined funnel (to remove any residual undissolved matter) into a sealable storage container. 
     - The orgeat will keep, refrigerated, for several weeks.
   - name: SC Hibiscus Liqueur
-    notes: Makes 4 cups (32 ounces).
+    notes: |+2
+      Makes 4 cups (32 ounces).
     ingredients: 
     - ½ cup honey
     - 2½ cups SC Spiced Hibiscus Infusion
@@ -258,7 +276,8 @@ recipes:
     - Transfer to bottles and seal well. 
     - The liqueur will keep refrigerated for several weeks.
   - name: SC Spiced Hibiscus Infusion
-    notes: Makes about 4 cups (32 ounces).
+    notes: |+2
+      Makes about 4 cups (32 ounces).
     ingredients: 
     - 3 quarter-size discs of unpeeled fresh ginger
     - 10 whole cloves
@@ -273,7 +292,8 @@ recipes:
     - Transfer the infused rum to glass bottles and seal well. 
     - The infusion will keep at room temperature on your shelf for at least 6 months.
   - name: SC Hellfire Tincture
-    notes: Makes about 2 cups (16 ounces). WARNING! When you are making this, you are essentially creating pepper spray in the air. Wear a dust mask and open the windows to your kitchen.
+    notes: |+2
+      Makes about 2 cups (16 ounces). WARNING! When you are making this, you are essentially creating pepper spray in the air. Wear a dust mask and open the windows to your kitchen.
     ingredients: 
     - 4 cups mixed fresh hot chiles (such as habanero, Fresno, red jalapeño, and so on), coarsely chopped, stems and seeds included
     - 1 cup dry white wine
@@ -286,7 +306,8 @@ recipes:
     - Strain through cheesecloth into a large container, then transfer to sealable bottles. 
     - The tincture will keep at room temperature for at least a year.
   - name: Li Hing Mui Syrup
-    notes: Makes about 2 cups (16 ounces).
+    notes: |+2
+      Makes about 2 cups (16 ounces).
     ingredients: 
     - 2 teaspoons li hing mui powder
     - 2 cups granulated sugar
@@ -298,7 +319,8 @@ recipes:
     - Remove from the heat and let cool. 
     - Store in a lidded bottle or sealable container in the refrigerator for several weeks.
   - name: Croutons for Flaming Bowls
-    notes: Makes about 150 (3/4 inch-square) croutons.
+    notes: |+2
+      Makes about 150 (3/4 inch-square) croutons.
     ingredients: 
     - 1 loaf thin-crusted white bread, crusts trimmed and bread cut into ¾-inch cubes
     steps:

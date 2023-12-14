@@ -4,7 +4,8 @@ recipes:
 
 #Benton's Old-Fashioned
   - name: Benton's Bacon Fat-Washed Four Roses Bourbon
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 1½ ounces (by volume) bacon fat rendered from Benton's Country Bacon
     - 750 ml bottle Four Roses bourbon
@@ -13,7 +14,8 @@ recipes:
 
 #Earl Grey Marteani
   - name: Earl Grey Tea-Infused Tanqueray London Dry gin
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 1 cup Tanqueray London Dry gin
     - 1 tablespoon loose Earl Grey tea leaves
@@ -22,7 +24,8 @@ recipes:
 
 #Gin-Gin Mule 
   - name: Homemade Ginger Beer
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 1 quart filtered water
     - 4 ounces finely chopped fresh ginger
@@ -33,7 +36,8 @@ recipes:
 
 #Mezcal Mule
   - name: Ginger Wort
-    notes: Makes 25 ounces.
+    notes: |+2
+      Makes 25 ounces.
     ingredients: 
     - 3 cups (24 ounces) water
     - 1 cup (8 ounces) minced fresh ginger
@@ -45,7 +49,8 @@ recipes:
 #Mr. Brown
 #Porn Star Martini
   - name: Vanilla Syrup
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 8 ounces sugar
     - 8 ounces water
@@ -55,7 +60,8 @@ recipes:
 
 #Penicillin
   - name: Ginger Honey Syrup
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 1 cup honey
     - 6-inch knob of fresh ginger, peeled and sliced

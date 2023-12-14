@@ -4,7 +4,8 @@ recipes:
 
 #Alpine Slide
   - name: Champagne acid
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 3 grams lactic acid
     - 3 grams tartaric acid
@@ -14,7 +15,8 @@ recipes:
 
 #Amaro Amanté
   - name: Evaporated Cane Sugar Syrup
-    notes: Makes 1½ cups.
+    notes: |+2
+      Makes 1½ cups.
     ingredients: 
     - 1 cup water
     - 1 cup raw cane sugar
@@ -23,7 +25,8 @@ recipes:
 
 #The Chipileños
   - name: Pickled Kumquat Syrup
-    notes: Makes approximately 2½ cups.
+    notes: |+2
+      Makes approximately 2½ cups.
     ingredients: 
     - 8 ounces kumquats
     - 2 cups white vinegar
@@ -33,7 +36,8 @@ recipes:
     
 #Choke and Smoke
   - name: Brown Sugar Cordial
-    notes: Makes 2½ cups.
+    notes: |+2
+      Makes 2½ cups.
     ingredients: 
     - 2 cups Demerara sugar
     - 1 cup water
@@ -43,7 +47,8 @@ recipes:
 
 #Here Today, Saigon Amaro
   - name: Saigon Cinnamon Syrup
-    notes: Makes approximately 1½ cups.
+    notes: |+2
+      Makes approximately 1½ cups.
     ingredients: 
     - ½ tablespoon ground Saigon cinnamon powder
     - 1 cup water
@@ -53,7 +58,8 @@ recipes:
 
 #Hunting Vest
   - name: Cedar-Infused Campari
-    notes: Makes 3 to 4 cups.
+    notes: |+2
+      Makes 3 to 4 cups.
     ingredients: 
     - 1 to 3 untreated food-safe cedar planks, broken into small pieces
     - 3 to 4 cups Campari
@@ -65,7 +71,8 @@ recipes:
 
 #Mustache Ride
   - name: Joey Sunshine's Maple Simple Syrup
-    notes: Makes approximately 2½ cups.
+    notes: |+2
+      Makes approximately 2½ cups.
     ingredients: 
     - 2 cups Grade B maple syrup		
     - 1 cup filtered water		
@@ -81,7 +88,8 @@ recipes:
 
 #Seventh Heaven
   - name: Pistachio Orgeat
-    notes: Makes 2½ cups.
+    notes: |+2
+      Makes 2½ cups.
     ingredients: 
     - 1 (11-ounce) can Love'n Bake pistachio nut paste
     - 11 ounces simple syrup
@@ -90,7 +98,8 @@ recipes:
 
 #The Victorian
   - name: Sirop de Capillaire
-    notes: Makes approximately 2½ cups.
+    notes: |+2
+      Makes approximately 2½ cups.
     ingredients: 
     - 1 cup water		
     - 2 cups granulated sugar		
@@ -104,7 +113,8 @@ recipes:
 
 #Zucca for Love
   - name: Vanilla Syrup
-    notes: Makes approximately 1½ cups.
+    notes: |+2
+      Makes approximately 1½ cups.
     ingredients: 
     - 1 cup water
     - 1 cup sugar

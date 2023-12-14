@@ -4,7 +4,8 @@ recipes:
 
 #Tropical Itch
   - name: Mango Puree, 25 Brix
-    notes: Commercial fruit purees work in this drink recipe (for mango, we prefer the Perfect Purée brand, though Boiron is a brand that works well for other fruits). If these brands aren't available, look for a product with minimal water content and not much added sugar or ingredients other than the fruit itself. However, for those willing to go that last mile, here's a homemade puree that can't be beat, and is less expensive (but that's because you're doing the work). It comes in at a sweetness of 25 degrees Brix. Mango puree can also bring tropical delight to a Bellini.
+    notes: |+2
+      Commercial fruit purees work in this drink recipe (for mango, we prefer the Perfect Purée brand, though Boiron is a brand that works well for other fruits). If these brands aren't available, look for a product with minimal water content and not much added sugar or ingredients other than the fruit itself. However, for those willing to go that last mile, here's a homemade puree that can't be beat, and is less expensive (but that's because you're doing the work). It comes in at a sweetness of 25 degrees Brix. Mango puree can also bring tropical delight to a Bellini.
     ingredients: 
     - 300 grams Ataúlfo or Champagne mango, peeled, seeded, and cut into 2-inch chunks
     - 150 grams water
@@ -15,7 +16,8 @@ recipes:
     - If not to be used immediately, seal and refrigerate for use within 1 week, or freeze for later use. Makes 1 pint.
 #Special Daiquiri No. 1
   - name: Honey Syrup, 66 Brix
-    notes: Makes around 12 ounces.
+    notes: |+2
+      Makes around 12 ounces.
     ingredients: 
     - 69 grams water
     - 300 grams orange blossom honey
@@ -24,7 +26,8 @@ recipes:
     - Add the honey to a separate container, then pour the boiling water into the honey. Stir until uniform. Bottle and refrigerate. It will keep for 4 weeks in the refrigerator. Makes around 12 ounces.
 #Banshee
   - name: Dave Arnold's Chocolate Bitters
-    notes: Makes 10 ounces. Dave Arnold pioneered a clever method of rapidly infusing flavor into spirits using a whipped cream dispenser (sometimes called a cream whipper). This device uses nitrogen gas in small chargers to raise the pressure of cream, instantly turning it into whipped cream, like a reusable version of the Reddi-wip can. But Dave realized that you could use the pressure of the whipper to infuse any flavor into alcohol. He called this nitrous infusion or rapid infusion. Dave used rapid infusion in his recipe for chocolate bitters, which was deployed at Existing Conditions. There are some excellent chocolate bitters on the market, but give this recipe a try—it's on another level. Traditionally, cacao nibs take a long time to infuse, and along the way the more unpleasant bitter notes begin to dominate over the chocolate flavors. The rapid infusion focuses on the top notes of the nibs, capturing only a beautiful chocolate aroma—so starting with a highly aromatic ingredient is crucial. Many cacao nibs we tested exhibited a flavor flatline, with only the barest rumor of an aroma. Valrhona grue de cacao, also known as cacao or cocoa nibs, have a consistently strong chocolate nose, making them ideal candidates for infusion. Mace is added here for its spicy affinity with chocolate. Gentian and quassia are commonly used as bittering agents. After booze and flavorings are added to the cream whipper, the mix is pressurized by nitrous oxide (N2O) chargers. Under pressure, the vodka and nitrous oxide are forced into a solution with the cacao nibs and other ingredients. Then, when the canister is vented, the return to atmospheric pressure boils and expands the nitrous in the solution, extracting more flavor into the mix. There are also applications where a traditional infusion would be preferred over the rapid technique.
+    notes: |+2
+      Makes 10 ounces. Dave Arnold pioneered a clever method of rapidly infusing flavor into spirits using a whipped cream dispenser (sometimes called a cream whipper). This device uses nitrogen gas in small chargers to raise the pressure of cream, instantly turning it into whipped cream, like a reusable version of the Reddi-wip can. But Dave realized that you could use the pressure of the whipper to infuse any flavor into alcohol. He called this nitrous infusion or rapid infusion. Dave used rapid infusion in his recipe for chocolate bitters, which was deployed at Existing Conditions. There are some excellent chocolate bitters on the market, but give this recipe a try—it's on another level. Traditionally, cacao nibs take a long time to infuse, and along the way the more unpleasant bitter notes begin to dominate over the chocolate flavors. The rapid infusion focuses on the top notes of the nibs, capturing only a beautiful chocolate aroma—so starting with a highly aromatic ingredient is crucial. Many cacao nibs we tested exhibited a flavor flatline, with only the barest rumor of an aroma. Valrhona grue de cacao, also known as cacao or cocoa nibs, have a consistently strong chocolate nose, making them ideal candidates for infusion. Mace is added here for its spicy affinity with chocolate. Gentian and quassia are commonly used as bittering agents. After booze and flavorings are added to the cream whipper, the mix is pressurized by nitrous oxide (N2O) chargers. Under pressure, the vodka and nitrous oxide are forced into a solution with the cacao nibs and other ingredients. Then, when the canister is vented, the return to atmospheric pressure boils and expands the nitrous in the solution, extracting more flavor into the mix. There are also applications where a traditional infusion would be preferred over the rapid technique.
     ingredients: 
     - 3 grams mace
     - 1.5 grams dried gentian
@@ -37,7 +40,8 @@ recipes:
     - Strain out the liquid, pressing the solids to extract the most liquid. Fine strain and bottle. Will keep indefinitely; does not need to be refrigerated. Makes 10 ounces.
 #???
   - name: Cane Syrup, 66 Brix
-    notes: Cane syrup can refer to two distinctly different ingredients that largely operate in a similar way when balancing sweet and sour. Sirop de canne from Martinique is derived from boiled sugarcane juice that has been reduced to a rich syrup, usually 60 Brix. Rhum agricole producers often make the syrup with extra sugarcane juice pressed for fermentation. This process adds a subtle, grassy quality to the sweetness. Some cocktail bars make their own cane syrup, which is simply a rich syrup (66 Brix) made with sugar derived from evaporated cane juice (often labeled in grocery stores as organic cane sugar). This method will bring texture and a slightly caramelized flavor but will lack the vegetal notes of the Martinique version. As the two styles feature a similar level of sweetness, they can be used interchangeably, depending on what works best for you. Recommended brands of Martinique sirop are Petit and Rhum J.M—or make your own cane syrup with the following recipe.
+    notes: |+2
+      Cane syrup can refer to two distinctly different ingredients that largely operate in a similar way when balancing sweet and sour. Sirop de canne from Martinique is derived from boiled sugarcane juice that has been reduced to a rich syrup, usually 60 Brix. Rhum agricole producers often make the syrup with extra sugarcane juice pressed for fermentation. This process adds a subtle, grassy quality to the sweetness. Some cocktail bars make their own cane syrup, which is simply a rich syrup (66 Brix) made with sugar derived from evaporated cane juice (often labeled in grocery stores as organic cane sugar). This method will bring texture and a slightly caramelized flavor but will lack the vegetal notes of the Martinique version. As the two styles feature a similar level of sweetness, they can be used interchangeably, depending on what works best for you. Recommended brands of Martinique sirop are Petit and Rhum J.M—or make your own cane syrup with the following recipe.
     ingredients: 
     - 200 grams organic cane sugar
     - 100 grams water
@@ -49,7 +53,8 @@ recipes:
     - Makes about 10 ounces.
 #Sunset Suite
   - name: Cassia Cinnamon Bark Syrup, 66 Brix
-    notes: Don the Beachcomber's opening menu in 1934 featured drinks with an extensive array of syrups, but cinnamon syrup may be the most revelatory. Cinnamon adds not just spice to a cocktail, but also layers of umami and fruit. But for it to work correctly in complex tropical drinks, the right cinnamon must be used. Common supermarket cinnamon sticks are usually Sri Lankan or Ceylon cinnamon. Unfortunately, this variety is too subtle when boiled in a syrup. Instead, try cassia, a type of cinnamon much more common in mainland Asia, where it is used in everything from chai to pickling liquid to five-spice powder. Toasting the bark coaxes out more flavor, opening the aroma and releasing oils within the bark. This recipe results in a flavored simple syrup at 50 degrees Brix. To apply the same template to other spices, be sure to weigh the ingredients. The spice component is 6 percent of the weight of the water. (See the section on sugar adjusting, starting here, for more on degrees Brix and proper measuring for sweetness.)
+    notes: |+2
+      Don the Beachcomber's opening menu in 1934 featured drinks with an extensive array of syrups, but cinnamon syrup may be the most revelatory. Cinnamon adds not just spice to a cocktail, but also layers of umami and fruit. But for it to work correctly in complex tropical drinks, the right cinnamon must be used. Common supermarket cinnamon sticks are usually Sri Lankan or Ceylon cinnamon. Unfortunately, this variety is too subtle when boiled in a syrup. Instead, try cassia, a type of cinnamon much more common in mainland Asia, where it is used in everything from chai to pickling liquid to five-spice powder. Toasting the bark coaxes out more flavor, opening the aroma and releasing oils within the bark. This recipe results in a flavored simple syrup at 50 degrees Brix. To apply the same template to other spices, be sure to weigh the ingredients. The spice component is 6 percent of the weight of the water. (See the section on sugar adjusting, starting here, for more on degrees Brix and proper measuring for sweetness.)
     ingredients: 
     - 15 grams cassia cinnamon bark, broken into ½-inch pieces
     - 250 grams water
@@ -64,7 +69,8 @@ recipes:
     - Makes 16 ounces.
 #Heroes and Villains
   - name: Grenadine, 50 Brix
-    notes: "As syrups go, this one is surprisingly controversial. Originally a pomegranate syrup from France, it has spent more of its life as a red-dyed sugar syrup of no particular flavor. Many learned scholars debate how this affects classic cocktails that call for the ingredient. However, we can sidestep those concerns. The recipes in this book that include grenadine are all expected to be based on freshly juiced pomegranates, and the drinks made with it take full advantage of that flavor. Bottled pomegranate juice is wildly inconsistent from brand to brand. Popular labels taste one-dimensional, while obscure imports are closer to marinades than juices. The color of bottled juice is off, leaving many classic red cocktails a burnt sienna at best. For a produce-driven drink, you want the real thing. But it seems like every bar mentor proclaims how difficult it is to extract fresh pomegranate juice. Is there a secret to doing it anyway? Of course! Pomegranates are not unlike citrus fruits and can be juiced with a simple citrus hand press. The seeds stay in the shell and are pressed like the vesicles of a grapefruit. The same method is used in the Republic of Georgia, where roadside pomegranate stands dot the countryside. With just a knife and a citrus press, fresh pomegranate juice can be yours. Slice off the top and bottom, and then cut the fruit in half along its equator. This will leave you with two halves that can each fit into the press. Place the pomegranate seed-side down into the press. If using a handheld press, use the larger version for oranges. Pomegranate season in the United States generally lasts from October through January, with the majority of the produce coming from California. Pomegranates have a long shelf life and can be found up to a month past their season. If you want to squirrel away juice for the summer months, simply freeze the freshly extracted juice in a sealable container. NOTE: The recipe's sugar content (50 Brix) is an estimate based on the average degrees Brix of pomegranate fruit (18 Brix). For instructions on determining a more precise level of sweetness based on the actual fruit you have, please refer to the sugar adjusting formula found elsewhere in this book."
+    notes: |+2
+      "As syrups go, this one is surprisingly controversial. Originally a pomegranate syrup from France, it has spent more of its life as a red-dyed sugar syrup of no particular flavor. Many learned scholars debate how this affects classic cocktails that call for the ingredient. However, we can sidestep those concerns. The recipes in this book that include grenadine are all expected to be based on freshly juiced pomegranates, and the drinks made with it take full advantage of that flavor. Bottled pomegranate juice is wildly inconsistent from brand to brand. Popular labels taste one-dimensional, while obscure imports are closer to marinades than juices. The color of bottled juice is off, leaving many classic red cocktails a burnt sienna at best. For a produce-driven drink, you want the real thing. But it seems like every bar mentor proclaims how difficult it is to extract fresh pomegranate juice. Is there a secret to doing it anyway? Of course! Pomegranates are not unlike citrus fruits and can be juiced with a simple citrus hand press. The seeds stay in the shell and are pressed like the vesicles of a grapefruit. The same method is used in the Republic of Georgia, where roadside pomegranate stands dot the countryside. With just a knife and a citrus press, fresh pomegranate juice can be yours. Slice off the top and bottom, and then cut the fruit in half along its equator. This will leave you with two halves that can each fit into the press. Place the pomegranate seed-side down into the press. If using a handheld press, use the larger version for oranges. Pomegranate season in the United States generally lasts from October through January, with the majority of the produce coming from California. Pomegranates have a long shelf life and can be found up to a month past their season. If you want to squirrel away juice for the summer months, simply freeze the freshly extracted juice in a sealable container. NOTE: The recipe's sugar content (50 Brix) is an estimate based on the average degrees Brix of pomegranate fruit (18 Brix). For instructions on determining a more precise level of sweetness based on the actual fruit you have, please refer to the sugar adjusting formula found elsewhere in this book."
     ingredients: 
     - 250 grams freshly pressed pomegranate juice
     - 162 grams white sugar (estimated)
@@ -80,7 +86,8 @@ recipes:
     - Makes around 10 ounces.
 #El Diablo
   - name: Ginger Syrup, 50 Brix
-    notes: Barman Toby Maloney created this syrup for Milk & Honey as a replacement for ginger ale and ginger beer in classic cocktails. It later found fame as a vital ingredient to the modern classic devised at that bar, the Penicillin. Its flavor is bolder and spicier than the ginger syrups that would have been known during the midcentury tropical drink boom. Ginger is tough stuff, so an electric juicer is required for this recipe. The recipe also requires brief freezing, as this helps to separate the juice from the thick ginger paste. The syrup comes in at our usual 50 Brix for greatest flexibility. (See the section on sugar adjusting, starting here, for more on degrees Brix and proper measuring for sweetness.) The sugar amount is based on an average degrees Brix of ginger juice (4.5 Brix). For best results, adjust the strained ginger juice using the sugar adjusting formula elsewhere in this book. Makes 8 ounces.
+    notes: |+2
+      Barman Toby Maloney created this syrup for Milk & Honey as a replacement for ginger ale and ginger beer in classic cocktails. It later found fame as a vital ingredient to the modern classic devised at that bar, the Penicillin. Its flavor is bolder and spicier than the ginger syrups that would have been known during the midcentury tropical drink boom. Ginger is tough stuff, so an electric juicer is required for this recipe. The recipe also requires brief freezing, as this helps to separate the juice from the thick ginger paste. The syrup comes in at our usual 50 Brix for greatest flexibility. (See the section on sugar adjusting, starting here, for more on degrees Brix and proper measuring for sweetness.) The sugar amount is based on an average degrees Brix of ginger juice (4.5 Brix). For best results, adjust the strained ginger juice using the sugar adjusting formula elsewhere in this book. Makes 8 ounces.
     ingredients:
     - 125 grams ginger juice
     - 114 grams white sugar (estimated)
@@ -94,14 +101,16 @@ recipes:
     - Makes 8 ounces.
 #Frozen Daiquiri
   - name: Sugar Mix
-    notes: While for many rum, lime, and sugar combinations we prefer the clean sweetness of white sugar, in certain applications a sugar mix with more molasses character can make a delicious difference. The team at Lost Lake often used this combination.
+    notes: |+2
+      While for many rum, lime, and sugar combinations we prefer the clean sweetness of white sugar, in certain applications a sugar mix with more molasses character can make a delicious difference. The team at Lost Lake often used this combination.
     ingredients: 
     - Equal parts by weight of organic cane sugar and turbinado sugar
     steps:
     - Stir to mix.
 #Dark Star
   - name: Cacao Nib-Infused Rum
-    notes: This infusion is made with the same nitrous technique as Dave Arnold's Chocolate Bitters (see here). The infusion gains a strong aroma of the cacao, injecting masses of chocolate flavor into the spirit without any accompanying sugar. Try this infused rum in an Old Fashioned or slip it into an Espresso Martini. Of course, it's a great sipper on its own.
+    notes: |+2
+      This infusion is made with the same nitrous technique as Dave Arnold's Chocolate Bitters (see here). The infusion gains a strong aroma of the cacao, injecting masses of chocolate flavor into the spirit without any accompanying sugar. Try this infused rum in an Old Fashioned or slip it into an Espresso Martini. Of course, it's a great sipper on its own.
     ingredients: 
     - 75 grams Valrhona cacao nibs
     - 500 milliliters Mount Gay Black Barrel Rum
@@ -116,7 +125,8 @@ recipes:
     - Makes 16 ounces.
 #Hibiscus Pacific
   - name: Hibiscus-Infused Tequila
-    notes: This infusion has the benefit of a quick turnaround, with the full-strength spirit essentially “boiling” out the flavor of the dried flowers at room temperature. This recipe was modified from one used at PDT.
+    notes: |+2
+      This infusion has the benefit of a quick turnaround, with the full-strength spirit essentially “boiling” out the flavor of the dried flowers at room temperature. This recipe was modified from one used at PDT.
     ingredients: 
     - 15 grams dried hibiscus flowers
     - 375 milliliters Pueblo Viejo Reposado Tequila
@@ -124,7 +134,8 @@ recipes:
     - Steep the hibiscus in the Tequila for 90 minutes. Fine strain and bottle.
 #Slushy Dog
   - name: Grapefruit Juice, Acid Adjusted to Lime
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - Grapefruit juice
     - Citric acid
@@ -134,7 +145,8 @@ recipes:
     - "To adjust grapefruit juice to the acidity of lime, to each 100 milliliters of juice add 2.0 grams of citric acid and 2.0 grams of malic acid."
 #Piña Colada
   - name: Coconut Mix, 50 Brix
-    notes: The suggested combination is a 3:1 ratio of López to milk, which should end up around 50 Brix depending on the brand of coconut milk used. Weighing will ensure an even more accurate measurement of sweetness. (See the section on sugar adjusting, starting here, for more on degrees Brix and proper measuring for sweetness.)
+    notes: |+2
+      The suggested combination is a 3:1 ratio of López to milk, which should end up around 50 Brix depending on the brand of coconut milk used. Weighing will ensure an even more accurate measurement of sweetness. (See the section on sugar adjusting, starting here, for more on degrees Brix and proper measuring for sweetness.)
     ingredients: 
     - 142 grams coconut mix
     - 425 grams Coco López
@@ -146,7 +158,8 @@ recipes:
     - Makes 20 ounces.
 #Field of Mars
   - name: Herb Tincture
-    notes: For this drink, we'll be making a makrut lime leaf tincture, but the same template applies to any herb you want to transform.
+    notes: |+2
+      For this drink, we'll be making a makrut lime leaf tincture, but the same template applies to any herb you want to transform.
     ingredients: 
     - 500 milliliters 192 proof neutral spirit (such as Lvov Spirytus or 190 proof Everclear)
     - 75 grams herb leaves (for example, makrut lime leaves, cilantro leaves, or others)
@@ -157,7 +170,8 @@ recipes:
     - Vent rapidly, then let the mixture settle in the whipper until bubbling stops (about 10 minutes). 
     - Fine strain and bottle. It will keep indefinitely, and does not need to be refrigerated. Makes 16 ounces.
   - name: Makrut Lime Leaf Tincture
-    notes: For this drink, we'll be making a makrut lime leaf tincture, but the same template applies to any herb you want to transform.
+    notes: |+2
+      For this drink, we'll be making a makrut lime leaf tincture, but the same template applies to any herb you want to transform.
     ingredients: 
     - 500 milliliters 192 proof neutral spirit (such as Lvov Spirytus or 190 proof Everclear)
     - 75 grams makrut lime leaves
@@ -169,7 +183,8 @@ recipes:
     - Fine strain and bottle. It will keep indefinitely, and does not need to be refrigerated. Makes 16 ounces.
 #Mr. Hoy's Manhattan
   - name: Pineapple-Infused Rittenhouse Rye
-    notes: Long infusions with fresh produce tend to result in jammy and oxidized flavors. Employing a vacuum sealer speeds up the process, keeping the fruit flavor clean and present—palpably juicy but still suitable for stirred drinks. This is a template for infusing whole fruit in spirits; try swapping in other fruits and spirit bases with the same proportions.
+    notes: |+2
+      Long infusions with fresh produce tend to result in jammy and oxidized flavors. Employing a vacuum sealer speeds up the process, keeping the fruit flavor clean and present—palpably juicy but still suitable for stirred drinks. This is a template for infusing whole fruit in spirits; try swapping in other fruits and spirit bases with the same proportions.
     ingredients: 
     - 600 grams chopped pineapple
     - 500 milliliters Rittenhouse Rye
@@ -181,7 +196,8 @@ recipes:
     - Please note that vacuum sealers are generally designed to work with solids, so sealing a bag of liquid comes with some challenges. The vacuum can pull out liquid as well as air. Hold the bag's opening high enough so the contents won't spill. Go slow if you can; it's preferable to use a chamber vacuum sealer or vacuum sealer with a pulse option, where smaller amounts of air can be pushed out without a full cycle. There are also machines that seal without vacuuming, an approach that also works for our purposes. It's not necessary to remove all the air to make this infusion.
 #Tijuana Taxi
   - name: Banana Bunch Liqueur
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 75 grams freeze-dried bananas, such as Trader Joe's brand
     - 500 milliliters 99 Bananas liqueur
@@ -191,7 +207,8 @@ recipes:
     - It will keep for 6 months in the refrigerator. Makes about 14 ounces.
 #Beachcomber Negroni
   - name: Clarified Lime Juice
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 1 liter fresh lime juice, room temperature
     - 4 milliliters Pectinex Ultra SP-L
@@ -202,7 +219,8 @@ recipes:
     - Spin in a centrifuge for 5 minutes or let the juice sit for at least 1 hour. Gently pour the clear juice into a separate container, being careful not to disturb the sediment (some juice will be lost in order to avoid the inclusion of sediment).
     - Use within 12 hours in a cocktail or up to 1 week in a cordial. Makes 1 liter.
   - name: Don's Remix
-    notes: Our re-imagining of the famed Don's Mix—cinnamon syrup and grapefruit juice—that animates the original Zombie but is too dilute to be truly versatile. Extracting spice from the cinnamon bark requires serious boiling, but the heat will make pectins in the juice bitter. The remedy is to first rid the juice of those pesky pectins through clarification, and then amp up the acid to better resemble the tarter grapefruits of Donn's era.
+    notes: |+2
+      Our re-imagining of the famed Don's Mix—cinnamon syrup and grapefruit juice—that animates the original Zombie but is too dilute to be truly versatile. Extracting spice from the cinnamon bark requires serious boiling, but the heat will make pectins in the juice bitter. The remedy is to first rid the juice of those pesky pectins through clarification, and then amp up the acid to better resemble the tarter grapefruits of Donn's era.
     ingredients: 
     - 15 grams cassia cinnamon bark, broken into ½-inch pieces
     - 30 grams grapefruit peel
@@ -214,7 +232,8 @@ recipes:
     - Strain the syrup into a blender, add the citric acid, and blend until the acid is fully dissolved (about 5 to 10 seconds).
     - Bottle and refrigerate. It will keep for 4 weeks in the refrigerator. Makes 16 ounces.
   - name: Clarified Grapefruit Juice
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 1 liter fresh grapefruit juice, room temperature
     - 4 milliliters Pectinex Ultra SP-L
@@ -226,7 +245,8 @@ recipes:
     - Use within 12 hours in a cocktail or up to 1 week in a cordial. Makes 1 liter.
 #Swamp Fire
   - name: Cilantro Tincture
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 500 milliliters 192 proof neutral spirit (such as Lvov Spirytus or 190 proof Everclear)
     - 75 grams cilantro
@@ -237,7 +257,8 @@ recipes:
     - Vent rapidly, then let the mixture settle in the whipper until bubbling stops (about 10 minutes). 
     - Fine strain and bottle. It will keep indefinitely, and does not need to be refrigerated. Makes 16 ounces.
   - name: Jalapeño-Infused Tequila
-    notes: This infusion is quick and easy, but capsaicin varies from pepper to pepper, so monitoring this infusion by the minute is necessary. The peppers in this infusion are mostly seeds and membranes, as that is where most of the spice is. The final infusion should have a bite to it, but the level is up to you. Our recipe draws inspiration from Phil Ward's influential pepper and agave combinations.
+    notes: |+2
+      This infusion is quick and easy, but capsaicin varies from pepper to pepper, so monitoring this infusion by the minute is necessary. The peppers in this infusion are mostly seeds and membranes, as that is where most of the spice is. The final infusion should have a bite to it, but the level is up to you. Our recipe draws inspiration from Phil Ward's influential pepper and agave combinations.
     ingredients: 
     - 3 jalapeño peppers, seeds and membranes only
     - 1 deseeded jalapeño pepper, just the shell
@@ -248,7 +269,8 @@ recipes:
     - You may try the infused Tequila as a variation to other drinks, such as the Toro, Toro, Óle!.
 #Lost Navigator
   - name: Cardamom Tincture
-    notes: At Pegu Club, Audrey Saunders developed a range of single-flavor tinctures—a liquid spice rack—so her bar team could incorporate them in precisely tuned cocktails. “I didn't want to have just one or two notes,” she told us. “I wanted an organ.” Access to a dozen or so spice tinctures allowed bartenders to play the specific notes they needed in each drink, at a time when only a few bitters were commercially available, namely Angostura, Peychaud's, Fee Brothers Orange, and Regan's Orange. In contrast to the rapid nitrous infusion method (for details, see the Banshee), which focuses on capturing the top note, this traditional type of infusion is for ingredients with deep dimensions to be displayed. “It's like cooking something low and slow versus a pressure cooker,” Audrey observed.
+    notes: |+2
+      At Pegu Club, Audrey Saunders developed a range of single-flavor tinctures—a liquid spice rack—so her bar team could incorporate them in precisely tuned cocktails. “I didn't want to have just one or two notes,” she told us. “I wanted an organ.” Access to a dozen or so spice tinctures allowed bartenders to play the specific notes they needed in each drink, at a time when only a few bitters were commercially available, namely Angostura, Peychaud's, Fee Brothers Orange, and Regan's Orange. In contrast to the rapid nitrous infusion method (for details, see the Banshee), which focuses on capturing the top note, this traditional type of infusion is for ingredients with deep dimensions to be displayed. “It's like cooking something low and slow versus a pressure cooker,” Audrey observed.
     ingredients: 
     - 8 grams whole green cardamom pods
     - 250 milliliters 151 proof neutral spirit (such as Devil Spring Vodka or Diamond 151 Rum)
@@ -259,7 +281,8 @@ recipes:
     - Fine strain and bottle. 
     - Makes 250 milliliters.
   - name: Vanilla-Sandalwood Syrup
-    notes: The addition of sandalwood gives this syrup a brilliant red color and an earthy edge, bringing out the best qualities of the vanilla bean.
+    notes: |+2
+      The addition of sandalwood gives this syrup a brilliant red color and an earthy edge, bringing out the best qualities of the vanilla bean.
     ingredients: 
     - 1 vanilla pod
     - 1.25 grams food-grade red sandalwood powder
@@ -278,7 +301,8 @@ recipes:
     - Makes 16 ounces.
 #Jump Up, Jamaica
   - name: Sorrel-Infused Rum
-    notes: Makes 32 ounces.
+    notes: |+2
+      Makes 32 ounces.
     ingredients: 
     - 4 grams cloves
     - 7 grams cassia cinnamon bark, broken into ½-inch pieces
@@ -291,7 +315,8 @@ recipes:
     - Add the gum syrup. 
     - It does not need to be refrigerated.
   - name: Serrano-Infused Wray & Nephew Overproof Rum
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 3 serrano chiles, seeds and membranes only
     - 1 deseeded serrano chile, just the shell
@@ -301,7 +326,8 @@ recipes:
     - Steep for 10 minutes. Taste to determine level of spice. If the mixture needs more spice, let it sit for an additional 5 minutes and taste again. It shouldn't need more than 15 minutes. Once the spiciness is perfect, fine strain and bottle. Makes 32 ounces.
 #PKNY
   - name: Orange Juice, Acid Adjusted to Lime
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - Orange juice
     - Citric acid
@@ -311,7 +337,8 @@ recipes:
     - To adjust orange juice to the acidity of lime, to each 100 milliliters of juice add 3.2 grams of citric acid and 2.0 grams of malic acid.
 #Western Sour
   - name: Grapefruit Juice, Acid Adjusted to Lemon
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - Grapefruit juice
     - Citric acid
@@ -320,7 +347,8 @@ recipes:
     - To adjust grapefruit juice to the acidity of lemon, to each 100 milliliters of juice add 4.0 grams citric acid.
 #Royal Hawaiian Mai Tai
   - name: Pineapple Juice, Acid Adjusted to Lime
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - Pineapple juice
     - Citric acid
@@ -330,7 +358,8 @@ recipes:
     - To adjust pineapple juice to the acidity of lime, to each 100 milliliters of juice add 3.2 grams citric acid and 2.0 grams malic acid.
 #Full Fathom Five
   - name: Gardenia Mix
-    notes: "In the catalog of Donn Beach's complicated creations, the gardenia mix stands out as particularly involved. He devised this syrup for his Pearl Diver, which he called a “Cold Buttered Rum.” The syrup represents a bit of molecular mixology before its time, as it injects melted butter into an icy variation on Planter's Punch—a revelatory feat. But the magic starts to fade when you recognize that butter and honey do not mix naturally. The gardenia mix, like the rest of the universe, is headed for collapse. After pouring a drink involving gardenia mix, your entire toolset will be slicked with fat, and the drink will soon begin to separate, leaving a less-than-appetizing layer of milk curd floating on the surface. Dave Arnold to the rescue. In Liquid Intelligence, he tackles the Cold Buttered Rum conundrum, suggesting the use of a particular compound emulsifier, common in commercial salad dressings, called Ticaloid 210 S. This proprietary mixture of acacia and xanthan gums is made by the TIC Gums company, but a do-it-yourself powder could be made with a ratio of 9 parts acacia gum to 1 part xanthan gum by weight. These emulsifiers keep the honey and butter in a uniform solution, banishing the floating curd and slippery shakers. (While we're on the subject, see the Minoan here for two ingredients, olive oil and egg white, which create a natural emulsion.) With the fat problem burned away, we're now free to realize that it takes a lot of gardenia mix indeed to sweeten a cocktail properly. That's the second challenge: the syrup is not at standard sweetness for cocktail syrups (see the next section, on sugar adjusting, for the full story). In order to get enough honey for appropriate sweetening, a ton of butter also has to be ingested. Normally, cocktails are not croissants and a little butter goes a long way. Consider the Hot Buttered Rum and its single pat of butter. By contrast, the traditional gardenia mix recipe calls for an equal amount of honey and butter. For our purposes, it's both too fatty and not sweet enough. Instead, let's make a traditional honey syrup but with melted butter replacing the water. Small measures of cinnamon and vanilla syrups, along with allspice dram, add spice to the honey, and the extra liquid they provide hydrates the powdered compound emulsifier. This new ratio of ingredients builds a gardenia mix with less tongue-coating fat. It pours like a 2:1 cane syrup. The syrup will solidify in the refrigerator but can be returned to service with gentle heating. If you're using it periodically behind the bar, it can be left in a hot water bath. For more sporadic home use, just reheat briefly in the microwave."
+    notes: |+2
+      "In the catalog of Donn Beach's complicated creations, the gardenia mix stands out as particularly involved. He devised this syrup for his Pearl Diver, which he called a “Cold Buttered Rum.” The syrup represents a bit of molecular mixology before its time, as it injects melted butter into an icy variation on Planter's Punch—a revelatory feat. But the magic starts to fade when you recognize that butter and honey do not mix naturally. The gardenia mix, like the rest of the universe, is headed for collapse. After pouring a drink involving gardenia mix, your entire toolset will be slicked with fat, and the drink will soon begin to separate, leaving a less-than-appetizing layer of milk curd floating on the surface. Dave Arnold to the rescue. In Liquid Intelligence, he tackles the Cold Buttered Rum conundrum, suggesting the use of a particular compound emulsifier, common in commercial salad dressings, called Ticaloid 210 S. This proprietary mixture of acacia and xanthan gums is made by the TIC Gums company, but a do-it-yourself powder could be made with a ratio of 9 parts acacia gum to 1 part xanthan gum by weight. These emulsifiers keep the honey and butter in a uniform solution, banishing the floating curd and slippery shakers. (While we're on the subject, see the Minoan here for two ingredients, olive oil and egg white, which create a natural emulsion.) With the fat problem burned away, we're now free to realize that it takes a lot of gardenia mix indeed to sweeten a cocktail properly. That's the second challenge: the syrup is not at standard sweetness for cocktail syrups (see the next section, on sugar adjusting, for the full story). In order to get enough honey for appropriate sweetening, a ton of butter also has to be ingested. Normally, cocktails are not croissants and a little butter goes a long way. Consider the Hot Buttered Rum and its single pat of butter. By contrast, the traditional gardenia mix recipe calls for an equal amount of honey and butter. For our purposes, it's both too fatty and not sweet enough. Instead, let's make a traditional honey syrup but with melted butter replacing the water. Small measures of cinnamon and vanilla syrups, along with allspice dram, add spice to the honey, and the extra liquid they provide hydrates the powdered compound emulsifier. This new ratio of ingredients builds a gardenia mix with less tongue-coating fat. It pours like a 2:1 cane syrup. The syrup will solidify in the refrigerator but can be returned to service with gentle heating. If you're using it periodically behind the bar, it can be left in a hot water bath. For more sporadic home use, just reheat briefly in the microwave."
     ingredients: 
     - 57.5 grams butter
     - 250 grams honey
@@ -348,7 +377,8 @@ recipes:
     - Makes 12 ounces.
 #Derby Daiquiri
   - name: Orange Syrup, 50 Brix
-    notes: This gorgeous syrup can be used in many cocktail applications. Try it in a Whiskey Collins.
+    notes: |+2
+      This gorgeous syrup can be used in many cocktail applications. Try it in a Whiskey Collins.
     ingredients: 
     - 250 grams strained orange juice
     - 190 grams white sugar (estimated)
@@ -362,7 +392,8 @@ recipes:
     - Makes 12 ounces.
 #From Dusk till Dawn
   - name: Blood Orange Syrup, 50 Brix
-    notes: You might also try this syrup in other Tequila concoctions or a Gin Sour.
+    notes: |+2
+      You might also try this syrup in other Tequila concoctions or a Gin Sour.
     ingredients: 
     - 250 grams strained blood orange juice
     - 193 grams white sugar (estimated)
@@ -376,7 +407,8 @@ recipes:
     - Makes 12 ounces.
 #Pineapple Princess
   - name: Milk-Washed Oolong Barbancourt 5 Star Rhum
-    notes: This technique uses citric acid solution to break the solids in the spirit and milk mixture. It strips some tannins from whichever spirit it encounters. Dave Arnold uses this technique to remove the bitter elements from strong tea infusions. The idea is to overinfuse the tea, achieving a strong flavor suited for cocktails, and then use milk washing to reduce the harshness of tannins, while also providing texture. In this example, milk washing softens the edges of the intense oolong infusion, leaving a clean balance of tea and rum.
+    notes: |+2
+      This technique uses citric acid solution to break the solids in the spirit and milk mixture. It strips some tannins from whichever spirit it encounters. Dave Arnold uses this technique to remove the bitter elements from strong tea infusions. The idea is to overinfuse the tea, achieving a strong flavor suited for cocktails, and then use milk washing to reduce the harshness of tannins, while also providing texture. In this example, milk washing softens the edges of the intense oolong infusion, leaving a clean balance of tea and rum.
     ingredients: 
     - 8 grams Rishi Ruby Oolong tea
     - 250 milliliters Barbancourt 5 Star Rhum
@@ -389,14 +421,16 @@ recipes:
     - If a centrifuge is available, spin the mixture in the centrifuge for 5 minutes. Alternatively, pour the mixture through a basket coffee filter. The yield will be less with the latter method. Makes about 8 ounces.
 #???
   - name: 15% Citric Acid Solution
-    notes: Makes about 2 ounces.
+    notes: |+2
+      Makes about 2 ounces.
     ingredients: 
     - 15 grams citric acid
     - 85 grams water
     steps:
     - Mix the ingredients together and bottle.
   - name: Gum Syrup, 50 brix
-    notes: Water-based gum syrup needs more acacia gum than juice-based gum syrup, since the solids in citrus or pineapple juice also add texture. Makes 14 ounces.
+    notes: |+2
+      Water-based gum syrup needs more acacia gum than juice-based gum syrup, since the solids in citrus or pineapple juice also add texture. Makes 14 ounces.
     ingredients: 
     - 250 grams water
     - 40 grams acacia gum
@@ -409,7 +443,8 @@ recipes:
     - Continue to blend until the sugar is fully dissolved.
     - Bottle and refrigerate. It will keep for 2 weeks in the refrigerator.
   - name: Pineapple Gum Syrup, 50 brix
-    notes: By estimating the degrees Brix of your juice, we can provide a recipe to follow like any other. Makes 12 ounces.
+    notes: |+2
+      By estimating the degrees Brix of your juice, we can provide a recipe to follow like any other. Makes 12 ounces.
     ingredients: 
     - 250 grams strained pineapple juice
     - 25 grams acacia gum
@@ -425,7 +460,8 @@ recipes:
     - It will keep for 2 weeks in the refrigerator.
 #Bird of Paradise
   - name: Raspberry Syrup, 50 brix
-    notes: This method can be adapted to other fruits such as blackberries or blueberries. The force of the vacuum sealer will cold process the fruit and sugar into a syrup. The technique produces a clean fruit flavor. It's possible for the vacuum sealer process to result in a syrup higher than the 50 Brix the drink requires. In that case, water instead of sugar is added to reduce sweetness. (See the section on sugar adjusting, starting here, for more on degrees Brix and proper measuring for sweetness.)
+    notes: |+2
+      This method can be adapted to other fruits such as blackberries or blueberries. The force of the vacuum sealer will cold process the fruit and sugar into a syrup. The technique produces a clean fruit flavor. It's possible for the vacuum sealer process to result in a syrup higher than the 50 Brix the drink requires. In that case, water instead of sugar is added to reduce sweetness. (See the section on sugar adjusting, starting here, for more on degrees Brix and proper measuring for sweetness.)
     ingredients: 
     - 250 grams whole raspberries
     - 250 grams white sugar
@@ -441,7 +477,8 @@ recipes:
     - It will keep for 2 weeks in the refrigerator. 
     - Makes around 10 ounces.
   - name: Cream Syrup, 50 brix
-    notes: This was a staple of Existing Conditions, where it formed the basis of the bar's unique Grasshopper, Eggnog, White Russian, and all things creamy. With its slight citric tang, it resembles sour cream frosting. This is a thick mixture. At the bar, it was dispensed from syrup pumps. If you're planning many Birds of Paradise, consider combining the raspberry and cream syrups into one bottle for easier pouring. Makes 1 pint.
+    notes: |+2
+      This was a staple of Existing Conditions, where it formed the basis of the bar's unique Grasshopper, Eggnog, White Russian, and all things creamy. With its slight citric tang, it resembles sour cream frosting. This is a thick mixture. At the bar, it was dispensed from syrup pumps. If you're planning many Birds of Paradise, consider combining the raspberry and cream syrups into one bottle for easier pouring. Makes 1 pint.
     ingredients:
     - 250 grams heavy cream
     - 250 grams white sugar
@@ -455,7 +492,8 @@ recipes:
     - If it separates over time, it can be stirred together again.
 #Languid Belle
   - name: Sarsaparilla Syrup, 25 Brix
-    notes: After reading Fix the Pumps, Darcy O'Neil's 2009 examination of soda-fountain techniques, bartender Jim Kearns found himself inspired to introduce a sarsaparilla highball (made with rye whiskey) to the menu of his bar, The Happiest Hour, in Manhattan. Most of today's root beers are overwhelmed by vanilla and missing natural plant flavors, but his syrup recipe, from which this recipe is adapted, went back to basics with sarsaparilla bark, wintergreen oil, and a bit of vanilla. “It was the best of both worlds,” Jim said. “The contemporary root beer syrup combined with the old-school sarsaparilla syrup.” Once you've experienced the Languid Belle, follow Jim's lead and try this syrup in a rye highball.
+    notes: |+2
+      After reading Fix the Pumps, Darcy O'Neil's 2009 examination of soda-fountain techniques, bartender Jim Kearns found himself inspired to introduce a sarsaparilla highball (made with rye whiskey) to the menu of his bar, The Happiest Hour, in Manhattan. Most of today's root beers are overwhelmed by vanilla and missing natural plant flavors, but his syrup recipe, from which this recipe is adapted, went back to basics with sarsaparilla bark, wintergreen oil, and a bit of vanilla. “It was the best of both worlds,” Jim said. “The contemporary root beer syrup combined with the old-school sarsaparilla syrup.” Once you've experienced the Languid Belle, follow Jim's lead and try this syrup in a rye highball.
     ingredients: 
     - 3 vanilla beans
     - 1 milliliter food-grade wintergreen oil (for example, LorAnn)
@@ -473,7 +511,8 @@ recipes:
     - It will keep for 2 weeks in the refrigerator. Makes 18 ounces.
 #Navy Grog
   - name: Grog Concentrate Syrup, 66 Brix
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 355 grams Mexican Coca-Cola
     - 21 grams allspice
@@ -490,7 +529,8 @@ recipes:
     - It will keep for 4 weeks in the refrigerator. Makes 24 ounces.
 #???
   - name: Oleosaccharum Tempate, 50 Brix
-    notes: In 2013, Jim Kearns developed the bar program for Play, a restaurant and bar in the basement of New York's Museum of Sex. “It was a fantastic example of the right bar in the wrong place. It just failed spectacularly—because we didn't have Malibu and pineapple,” he told us. “There was a lot of free time since we weren't busy, ever. So I started playing around with syrups and production.” Encouraged by Chef Ben Roche, he began to experiment with the kitchen's vacuum sealer. “It was an expedited means of producing very complex prep, and I began making oleos in that manner.” Around the same time and across the continent, Jeffrey Morgenthaler was pioneering a vacuum oleo process at Portland bar Clyde Common, which you can read about in his Bar Book. Later, Jim founded his bar The Happiest Hour on the idea of complex syrups prepared in advance, freeing bartenders to produce cocktails at a higher volume while still delivering high-quality, layered flavors. This template is based on the cold-processed vacuum syrup technique Jim developed.
+    notes: |+2
+      In 2013, Jim Kearns developed the bar program for Play, a restaurant and bar in the basement of New York's Museum of Sex. “It was a fantastic example of the right bar in the wrong place. It just failed spectacularly—because we didn't have Malibu and pineapple,” he told us. “There was a lot of free time since we weren't busy, ever. So I started playing around with syrups and production.” Encouraged by Chef Ben Roche, he began to experiment with the kitchen's vacuum sealer. “It was an expedited means of producing very complex prep, and I began making oleos in that manner.” Around the same time and across the continent, Jeffrey Morgenthaler was pioneering a vacuum oleo process at Portland bar Clyde Common, which you can read about in his Bar Book. Later, Jim founded his bar The Happiest Hour on the idea of complex syrups prepared in advance, freeing bartenders to produce cocktails at a higher volume while still delivering high-quality, layered flavors. This template is based on the cold-processed vacuum syrup technique Jim developed.
     ingredients: 
     - 250 grams citrus peel
     - 250 grams white sugar
@@ -500,7 +540,8 @@ recipes:
     - Let the bag sit in the refrigerator for 48 hours. Alternatively, to expedite the process of breaking down the sugar, you can put the bag in a hot water bath at 125°F for 12 hours, then refrigerate for another 12 hours.
     - Once the sugar has dissolved completely, remove and discard the peels. Store in a sealable container and refrigerate. It will keep for 1 week in the refrigerator. Makes around 8 ounces.
   - name: Lemon Oleosaccharum, 50 Brix
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 250 grams lemon peel
     - 250 grams white sugar
@@ -510,7 +551,8 @@ recipes:
     - Let the bag sit in the refrigerator for 48 hours. Alternatively, to expedite the process of breaking down the sugar, you can put the bag in a hot water bath at 125°F for 12 hours, then refrigerate for another 12 hours.
     - Once the sugar has dissolved completely, remove and discard the peels. Store in a sealable container and refrigerate. It will keep for 1 week in the refrigerator. Makes around 8 ounces.
   - name: Lime Oleosaccharum, 50 Brix
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 250 grams lime peel
     - 250 grams white sugar
@@ -520,7 +562,8 @@ recipes:
     - Let the bag sit in the refrigerator for 48 hours. Alternatively, to expedite the process of breaking down the sugar, you can put the bag in a hot water bath at 125°F for 12 hours, then refrigerate for another 12 hours.
     - Once the sugar has dissolved completely, remove and discard the peels. Store in a sealable container and refrigerate. It will keep for 1 week in the refrigerator. Makes around 8 ounces.
   - name: Grapefruit Oleosaccharum, 50 Brix
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 250 grams grapefruit peel
     - 250 grams white sugar
@@ -530,7 +573,8 @@ recipes:
     - Let the bag sit in the refrigerator for 48 hours. Alternatively, to expedite the process of breaking down the sugar, you can put the bag in a hot water bath at 125°F for 12 hours, then refrigerate for another 12 hours.
     - Once the sugar has dissolved completely, remove and discard the peels. Store in a sealable container and refrigerate. It will keep for 1 week in the refrigerator. Makes around 8 ounces.
   - name: Ginger Oleosaccharum, 50 Brix
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 250 grams ginger, thinly sliced
     - 250 grams white sugar
@@ -540,7 +584,8 @@ recipes:
     - Remove and discard the ginger slices. Store in a sealable container and refrigerate. It will keep for 1 week in the refrigerator. Makes 8 ounces.
 #Hearthside Punch
   - name: Lemon Punch Syrup, 55 Brix
-    notes: This punch syrup combines lemon oleo with lemon juice and a bit more sugar to balance the acidity of the juice. This acidity fades with time, which is why citric acid is added to stabilize the tartness. To balance the acid, lemon and lime punch syrups are slightly higher in sugar content than the standard 50 Brix.
+    notes: |+2
+      This punch syrup combines lemon oleo with lemon juice and a bit more sugar to balance the acidity of the juice. This acidity fades with time, which is why citric acid is added to stabilize the tartness. To balance the acid, lemon and lime punch syrups are slightly higher in sugar content than the standard 50 Brix.
     ingredients: 
     - 250 grams strained lemon juice
     - 125 grams lemon oleosaccharum
@@ -552,7 +597,8 @@ recipes:
     - Blend until the sugar is fully dissolved.
     - Bottle and refrigerate for at least 24 hours and up to 2 weeks. Makes 16 ounces.
   - name: Black Tea Syrup, 50 Brix
-    notes: In a punch, tea adds an extra layer of flavor not unlike bitters in an individual cocktail. Here the tea is made into a syrup to provide bold tannins in an easily incorporated ingredient.
+    notes: |+2
+      In a punch, tea adds an extra layer of flavor not unlike bitters in an individual cocktail. Here the tea is made into a syrup to provide bold tannins in an easily incorporated ingredient.
     ingredients: 
     - 250 grams water
     - 3 grams Assam breakfast tea (for example, Ghograjan Tea Estate)
@@ -567,7 +613,8 @@ recipes:
     - Makes 16 ounces.
 #Pimm's Tropicale
   - name: Lime Punch Syrup, 55 brix
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 250 grams strained lime juice
     - 125 grams lime oleosaccharum (see template here)
@@ -582,7 +629,8 @@ recipes:
     - Makes 16 ounces.
 #Puesta del Sol
   - name: Grapefruit Punch Syrup, 50 Brix
-    notes: The variety of grapefruit chosen will impact the flavor. The drier white grapefruit is always preferred, but pink will work, too. Try to avoid sweeter varieties, which tend to be redder, as they lose their grapefruit flavor in the deluge of sucrose. Unlike lemon and lime punch syrups, the grapefruit is a standard 50 Brix, as the underlying fruit doesn't have as much acid. Try this versatile ingredient in a Daiquiri, swizzle, or highball.
+    notes: |+2
+      The variety of grapefruit chosen will impact the flavor. The drier white grapefruit is always preferred, but pink will work, too. Try to avoid sweeter varieties, which tend to be redder, as they lose their grapefruit flavor in the deluge of sucrose. Unlike lemon and lime punch syrups, the grapefruit is a standard 50 Brix, as the underlying fruit doesn't have as much acid. Try this versatile ingredient in a Daiquiri, swizzle, or highball.
     ingredients: 
     - 250 grams strained grapefruit juice
     - 63 grams grapefruit oleosaccharum
@@ -595,7 +643,8 @@ recipes:
     - Bottle and refrigerate for at least 24 hours and up to 2 weeks. 
     - Makes 12 ounces.
   - name: Clarified Juice Template
-    notes: This is the method that was used at Existing Conditions. The juice must be at room temperature for the wine fining agents and enzyme to work properly. Measure the small amounts of ingredients with your micropipette to be sure of exacting precision. This template works with all citrus. Note that not all wine fining agents are suitable for vegans, so check the labels. These products are available from Modernist Pantry, including vegan versions.
+    notes: |+2
+      This is the method that was used at Existing Conditions. The juice must be at room temperature for the wine fining agents and enzyme to work properly. Measure the small amounts of ingredients with your micropipette to be sure of exacting precision. This template works with all citrus. Note that not all wine fining agents are suitable for vegans, so check the labels. These products are available from Modernist Pantry, including vegan versions.
     ingredients: 
     - 1 liter fresh citrus juice, room temperature
     - 4 milliliters Pectinex Ultra SP-L
@@ -607,7 +656,8 @@ recipes:
     - Use within 12 hours in a cocktail or up to 1 week in a cordial. Makes 1 liter.
 #Rangoon Gimlet
   - name: Lime Cordial, 55 Brix
-    notes: This syrup is a great way to recycle older lime juice. If you squeezed a bunch of lime juice for bar service or a cocktail party, this cordial can turn those leftovers into something exceptionally delicious. The addition of citric and malic acid will restore the older lime juice back to its full tartness. Like lime punch syrup, this cordial is slightly higher in Brix as a balance to the higher acid.
+    notes: |+2
+      This syrup is a great way to recycle older lime juice. If you squeezed a bunch of lime juice for bar service or a cocktail party, this cordial can turn those leftovers into something exceptionally delicious. The addition of citric and malic acid will restore the older lime juice back to its full tartness. Like lime punch syrup, this cordial is slightly higher in Brix as a balance to the higher acid.
     ingredients: 
     - 250 grams clarified lime juice
     - 250 grams white sugar
@@ -624,7 +674,8 @@ recipes:
     - Makes 16 ounces.
 #Improved Rum Cocktail
   - name: Passionfruit Cordial, 50 Brix
-    notes: Unlike our other cordials, this recipe requires clarifying a puree instead of juice. We recommend Boiron passionfruit puree as the starting point. The puree must be fully thawed, at room temperature, when applying the wine fining agents and enzyme.
+    notes: |+2
+      Unlike our other cordials, this recipe requires clarifying a puree instead of juice. We recommend Boiron passionfruit puree as the starting point. The puree must be fully thawed, at room temperature, when applying the wine fining agents and enzyme.
     ingredients: 
     - 250 grams clarified passionfruit puree
     - 25 grams acacia gum
@@ -640,7 +691,8 @@ recipes:
     - It will keep for 2 weeks in the refrigerator. 
     - Makes 10 ounces.
   - name: Clarified Passionfruit Puree
-    notes: 
+    notes: |+2
+      
     ingredients: 
     - 1 liter fresh passionfruit puree, room temperature
     - 4 milliliters Pectinex Ultra SP-L
@@ -652,7 +704,8 @@ recipes:
     - Use within 12 hours in a cocktail or up to 1 week in a cordial. Makes 1 liter.
 #Bronze Swizzle
   - name: Falernum
-    notes: This ingredient has several steps and many ingredients. Stick with it and you'll be among the top falernum producers on your block (excepting neighbors of R. L. Seale & Co. Ltd. of Saint Philip, Barbados).
+    notes: |+2
+      This ingredient has several steps and many ingredients. Stick with it and you'll be among the top falernum producers on your block (excepting neighbors of R. L. Seale & Co. Ltd. of Saint Philip, Barbados).
     ingredients: 
     - 0.75 gram star anise
     - 0.75 gram mace
@@ -675,7 +728,8 @@ recipes:
     - Bottle and refrigerate. It will keep for 6 months in the refrigerator. Makes 55 ounces.
 #Fog Cutter
   - name: Limoncello
-    notes: This liqueur utilizes a very high-proof spirit (95 to 96 percent ABV) in order to minimize the infusion time and capture as many essential oils as possible before the more bitter, pithy flavors are extracted. This recipe makes for an intense limoncello with very clean flavors.
+    notes: |+2
+      This liqueur utilizes a very high-proof spirit (95 to 96 percent ABV) in order to minimize the infusion time and capture as many essential oils as possible before the more bitter, pithy flavors are extracted. This recipe makes for an intense limoncello with very clean flavors.
     ingredients: 
     - 16 grams lemon zest
     - 250 milliliters 192 proof neutral spirit (such as Lvov Spirytus or 190 proof Everclear)
@@ -695,7 +749,8 @@ recipes:
     - Makes about 12 ounces.
 #Toro, Toro, Ole!
   - name: Red Fassionola, 66 Brix
-    notes: This interpretation goes full force on the cherry flavor, utilizing the flavorful syrup found in the jars of Luxardo cherries. The often-discarded syrup has a gorgeous character, dark and intense. Combine it with the brightness of grenadine, and you've made a red fassionola that lives up to the legend. (For the drinks in this book, the best way to make fresh grenadine is with actual pomegranates.) Commingling the two also strikes a desirable sugar content. Equal parts of the viscous 70 (or higher) degrees Brix cherry syrup and the standardized 50 degrees Brix grenadine results in a solution in the 60–66 Brix range, similar to a rich Demerara syrup and perfect for tropical cocktails.
+    notes: |+2
+      This interpretation goes full force on the cherry flavor, utilizing the flavorful syrup found in the jars of Luxardo cherries. The often-discarded syrup has a gorgeous character, dark and intense. Combine it with the brightness of grenadine, and you've made a red fassionola that lives up to the legend. (For the drinks in this book, the best way to make fresh grenadine is with actual pomegranates.) Commingling the two also strikes a desirable sugar content. Equal parts of the viscous 70 (or higher) degrees Brix cherry syrup and the standardized 50 degrees Brix grenadine results in a solution in the 60–66 Brix range, similar to a rich Demerara syrup and perfect for tropical cocktails.
     ingredients: 
     - 250 milliliters grenadine
     - 250 milliliters Luxardo cherry syrup (from the jar)
@@ -706,7 +761,8 @@ recipes:
     - Bottle and refrigerate. 
     - It will keep for 2 weeks in the refrigerator. Makes 500 milliliters.
   - name: Pasilla Chile Tincture
-    notes: Pasilla chiles have both smoke and capsaicin in their profile.
+    notes: |+2
+      Pasilla chiles have both smoke and capsaicin in their profile.
     ingredients: 
     - 8 grams dried pasilla chiles
     - 250 milliliters 151 proof neutral spirit (such as Devil Spring Vodka or Diamond 151 Rum)
@@ -718,7 +774,8 @@ recipes:
     - Makes 8 ounces.
 #Incantation
   - name: Cold-Brewed Coffee Concentrate
-    notes: There are many great bottled concentrates on the market, but this recipe will also do the trick. The subtleties of a single-origin coffee will be lost to the extraction of the cold brew method, so choose a workaday coffee instead. This recipe was adapted from one Jeffrey Morgenthaler developed for Stumptown Coffee.
+    notes: |+2
+      There are many great bottled concentrates on the market, but this recipe will also do the trick. The subtleties of a single-origin coffee will be lost to the extraction of the cold brew method, so choose a workaday coffee instead. This recipe was adapted from one Jeffrey Morgenthaler developed for Stumptown Coffee.
     ingredients: 
     - 113 grams ground coffee
     - 500 grams water
@@ -727,7 +784,8 @@ recipes:
     - Strain through a fine mesh strainer, then again through a basket coffee filter, to remove the oils. Bottle and refrigerate. Will keep for 1 week in the refrigerator. Makes 8 ounces.
 #Blue Leilani
   - name: Coconut Oil-Washed Plymouth Gin
-    notes: Don't rush your concoction into the freezer. Don Lee has emphasized that room-temperature resting is a crucial step in wresting the most flavor from this combination. Also, be sure to use unrefined virgin coconut oil; it must taste like coconut. There are some coconut oil products that have their flavor refined out. This method is a great alternative to artificially flavored coconut liqueurs, and can be adapted to a number of spirits. Try it with a favorite lightly aged rum or blended Scotch.
+    notes: |+2
+      Don't rush your concoction into the freezer. Don Lee has emphasized that room-temperature resting is a crucial step in wresting the most flavor from this combination. Also, be sure to use unrefined virgin coconut oil; it must taste like coconut. There are some coconut oil products that have their flavor refined out. This method is a great alternative to artificially flavored coconut liqueurs, and can be adapted to a number of spirits. Try it with a favorite lightly aged rum or blended Scotch.
     ingredients: 
     - 250 milliliters unrefined virgin coconut oil
     - 1 liter Plymouth Gin

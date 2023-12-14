@@ -2,7 +2,8 @@ source: "The Dead Rabbit"
 recipes:
 
   - name: Split Second
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients: 
     - 1 oz Plantation Pineapple Stiggins Fancy Rum

@@ -4,7 +4,8 @@ recipes:
   - name: 21st Century
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Beefeater London Dry gin
@@ -22,7 +23,8 @@ recipes:
   - name: Airmail
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1 ounce Ron del Barrilito 3-Star rum
@@ -41,7 +43,8 @@ recipes:
   - name: Aviation
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Plymouth gin
@@ -61,7 +64,8 @@ recipes:
   - name: Bamboo
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: rocks
     ingredients:
     - 1½ ounces Dolin Blanc vermouth
@@ -81,7 +85,8 @@ recipes:
   - name: Bee's Knees
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Tanqueray London Dry gin
@@ -100,7 +105,8 @@ recipes:
   - name: Blood and Sand
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 ounce Springbank 10-Year Scotch
@@ -120,7 +126,8 @@ recipes:
   - name: Bobby Burns
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: martini
     ingredients:      
     - 1½ ounces Springbank 10-Year Scotch
@@ -137,7 +144,8 @@ recipes:
   - name: Boulevardier
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Elijah Craig 12-Year Bourbon
@@ -154,7 +162,8 @@ recipes:
   - name: Brooklyn
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Rittenhouse 100 Rye
@@ -171,7 +180,8 @@ recipes:
   - name: Brown Derby
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Elijah Craig 12-Year Bourbon
@@ -190,7 +200,8 @@ recipes:
   - name: Caipirinha
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 6 lime wedges
@@ -209,7 +220,8 @@ recipes:
   - name: Champs-Élysées
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Pierre Ferrand Ambre Cognac
@@ -229,7 +241,8 @@ recipes:
   - name: Charleston Cocktail
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - ½ ounce Anchor Junipero gin
@@ -248,7 +261,8 @@ recipes:
   - name: Cobra's Fang
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: tiki mug
     ingredients:
     - 1½ ounces Appleton Estate Reserve rum
@@ -273,7 +287,8 @@ recipes:
   - name: Corpse Reviver #2
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - ¾ ounce Beefeater London Dry gin
@@ -292,7 +307,8 @@ recipes:
   - name: Daiquiri
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Flor de Caña Extra-Dry White rum
@@ -311,7 +327,8 @@ recipes:
   - name: Dark and Stormy
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 2 ounces Goslings Black Seal rum
@@ -332,7 +349,8 @@ recipes:
   - name: Diamondback
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: nick & nora
     ingredients:
     - 2 ounces Rittenhouse 100 Rye
@@ -347,7 +365,8 @@ recipes:
   - name: Fancy-Free
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 ounces Rittenhouse 100 Rye
@@ -365,7 +384,8 @@ recipes:
   - name: Fitzgerald
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 ounces Beefeater London Dry gin
@@ -384,7 +404,8 @@ recipes:
   - name: Flamenco
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Lustau Amontillado sherry
@@ -404,7 +425,8 @@ recipes:
   - name: French 75
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1½ ounces Plymouth gin
@@ -424,7 +446,8 @@ recipes:
   - name: French 95
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: fizz
     ingredients:
     - 2 ounces Buffalo Trace Bourbon
@@ -444,7 +467,8 @@ recipes:
   - name: Gimlet
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 ounces Perry's Tot Navy Strength gin
@@ -462,7 +486,8 @@ recipes:
   - name: Gin Fizz
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: fizz
     ingredients:
     - 2 ounces Beefeater London Dry gin
@@ -482,7 +507,8 @@ recipes:
   - name: Gin Rickey
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 2 ounces Beefeater London Dry gin
@@ -502,7 +528,8 @@ recipes:
   - name: Grasshopper
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 8 mint leaves
@@ -521,7 +548,8 @@ recipes:
   - name: Hanky-Panky
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: nick & nora
     ingredients:
     - 2 ounces Fords gin
@@ -539,7 +567,8 @@ recipes:
   - name: Honeysuckle
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Flor de Caña Extra-Dry White rum
@@ -557,7 +586,8 @@ recipes:
   - name: Jack Rose
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 ounce Laird's Bonded Apple Brandy
@@ -577,7 +607,8 @@ recipes:
   - name: La Rosita
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: nick & nora
     ingredients:
     - 2 ounces El Tesoro Reposado Tequila
@@ -596,7 +627,8 @@ recipes:
   - name: Last Word
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - ¾ ounce Beefeater London Dry gin
@@ -614,7 +646,8 @@ recipes:
   - name: Lucien Gaudin
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: nick & nora
     ingredients:
     - 1½ ounces Tanqueray London Dry gin
@@ -632,7 +665,8 @@ recipes:
   - name: Mai Tai
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: snifter
     ingredients:
     - 1 lime wedge
@@ -658,7 +692,8 @@ recipes:
   - name: Manhattan
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2½ ounces Rittenhouse 100 Rye
@@ -676,7 +711,8 @@ recipes:
   - name: Margarita
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - Kosher salt
@@ -698,7 +734,8 @@ recipes:
   - name: Martinez
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: nick & nora
     ingredients:
     - 1½ ounces Hayman's Old Tom gin
@@ -718,7 +755,8 @@ recipes:
   - name: Martini
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: martini
     ingredients:
     - 2½ ounces Plymouth, Beefeater London Dry, or Tanqueray London Dry gin
@@ -737,7 +775,8 @@ recipes:
   - name: Mexican Firing Squad
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 1½ ounces Tapatio 110 Blanco Tequila
@@ -758,7 +797,8 @@ recipes:
   - name: Mint Julep
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: julep tin
     ingredients:
     - 2 ounces Baker's Bourbon
@@ -779,7 +819,8 @@ recipes:
   - name: Mojito
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 6 mint leaves
@@ -802,7 +843,8 @@ recipes:
   - name: Moscow Mule
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 2 ounces Charbay Vodka
@@ -822,7 +864,8 @@ recipes:
   - name: Mudslide Flip
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 1½ ounces Redbreast 12-Year Irish Whiskey
@@ -842,7 +885,8 @@ recipes:
   - name: Negroni
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1½ ounces Tanqueray London Dry gin
@@ -860,7 +904,8 @@ recipes:
   - name: Old-Fashioned
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 ounces Eagle Rare 10-Year Bourbon
@@ -879,7 +924,8 @@ recipes:
   - name: Old Pal
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: nick & nora
     ingredients:
     - 1½ ounces Rittenhouse 100 Rye
@@ -896,7 +942,8 @@ recipes:
   - name: Paloma
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - Kosher salt
@@ -920,7 +967,8 @@ recipes:
   - name: Pendennis Club Cocktail
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Plymouth gin
@@ -939,7 +987,8 @@ recipes:
   - name: Piña Colada
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: tiki mug
     ingredients:
     - 1 ounce Smith & Cross Jamaican rum
@@ -963,7 +1012,8 @@ recipes:
   - name: Ping-Pong Cocktail
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Plymouth Sloe gin
@@ -981,7 +1031,8 @@ recipes:
   - name: Pink Lady
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: rocks
     ingredients:
     - 1½ ounces Plymouth gin
@@ -1003,7 +1054,8 @@ recipes:
   - name: Pisco Sour
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Campo de Encanto Acholado Pisco
@@ -1024,7 +1076,8 @@ recipes:
   - name: Port au Prince
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 1 ounce Barbancourt 3-Star rum
@@ -1049,7 +1102,8 @@ recipes:
   - name: Preakness
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Old Grand-Dad 114 Bourbon
@@ -1067,7 +1121,8 @@ recipes:
   - name: Queen's Park Swizzle
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 10 mint leaves
@@ -1093,7 +1148,8 @@ recipes:
   - name: Ramos Gin Fizz
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 2 ounces Plymouth gin
@@ -1117,7 +1173,8 @@ recipes:
   - name: Remember the Maine
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: nick & nora
     ingredients:
     - Vieux Pontarlier Absinthe
@@ -1139,7 +1196,8 @@ recipes:
   - name: Rob Roy
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Compass Box Asyla Scotch
@@ -1157,7 +1215,8 @@ recipes:
   - name: Rum Julep
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: julep tin
     ingredients:
     - ¾ ounce Lemon Hart 151 rum
@@ -1181,7 +1240,8 @@ recipes:
   - name: Rusty Nail
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 ounces Springbank 10-Year Scotch
@@ -1199,7 +1259,8 @@ recipes:
   - name: Sazerac
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: rocks
     ingredients:
     - Vieux Pontarlier Absinthe
@@ -1222,7 +1283,8 @@ recipes:
   - name: Scofflaw
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Templeton Rye
@@ -1241,7 +1303,8 @@ recipes:
   - name: Sidecar
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Pierre Ferrand 1840 Cognac
@@ -1260,7 +1323,8 @@ recipes:
   - name: Singapore Sling
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 1½ ounces Beefeater London Dry gin
@@ -1283,7 +1347,8 @@ recipes:
   - name: South Side
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 5 mint leaves
@@ -1304,7 +1369,8 @@ recipes:
   - name: Stinger
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 ounces Pierre Ferrand 1840 Cognac
@@ -1321,7 +1387,8 @@ recipes:
   - name: Tailspin
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - Campari
@@ -1341,7 +1408,8 @@ recipes:
   - name: Ti' Punch
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: rocks
     ingredients:
     - ½ ounce lime juice
@@ -1360,7 +1428,8 @@ recipes:
   - name: Tom Collins
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 2 ounces Beefeater London Dry gin
@@ -1380,7 +1449,8 @@ recipes:
   - name: Toronto
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: nick & nora
     ingredients:
     - 2 ounces Rittenhouse 100 Rye
@@ -1397,7 +1467,8 @@ recipes:
   - name: Vesper
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: nick & nora
     ingredients:
     - 1½ ounces Plymouth gin
@@ -1414,7 +1485,8 @@ recipes:
   - name: Vieux Carré
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1 ounce Rittenhouse 100 Rye
@@ -1434,7 +1506,8 @@ recipes:
   - name: Ward 8
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Old Overholt Rye Whiskey
@@ -1453,7 +1526,8 @@ recipes:
   - name: Whiskey Sour
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 ounces Buffalo Trace Bourbon
@@ -1473,7 +1547,8 @@ recipes:
   - name: Zombie Punch
     author:
     year:
-    notes: 
+    notes: |+2
+      
     glassware: tiki mug
     ingredients:
     - 1½ ounces Appleton Estate V/X rum
@@ -1497,7 +1572,8 @@ recipes:
   - name: Anjou Mama
     author: Jillian Vose
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: nick & nora
     ingredients:
     - 3 small ripe anjou pear slices
@@ -1519,7 +1595,8 @@ recipes:
   - name: Bella Luna
     author: Brian Miller
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: port glass
     ingredients:
     - 2 ounces Plymouth gin
@@ -1537,7 +1614,8 @@ recipes:
   - name: Cádiz Collins
     author: Alex Day
     year: 2008
-    notes: This is my way to get more people to drink sherry in cocktails. The bitters and orange bring out the sherry's spice flavors.—AD
+    notes: |+2
+      This is my way to get more people to drink sherry in cocktails. The bitters and orange bring out the sherry's spice flavors.—AD
     glassware: highball
     ingredients:
     - 1 orange wheel
@@ -1560,7 +1638,8 @@ recipes:
   - name: City of Gold Sling
     author: Joaquín Simó
     year: 2009
-    notes: A handful of tiki-style drinks are gin based, most famously the Singapore Sling. This is a variation on that classic.—JS
+    notes: |+2
+      A handful of tiki-style drinks are gin based, most famously the Singapore Sling. This is a variation on that classic.—JS
     glassware: highball
     ingredients:
     - 1½ ounces Hayman's Old Tom gin
@@ -1582,7 +1661,8 @@ recipes:
   - name: The Commandant
     author: Tyson Buhler
     year: 2013
-    notes: Kaffir lime is a great way to add brightness to summer cocktails. The gin in this drink was named after Matthew Perry—not the actor, but the original commandant of the Brooklyn navy yard from 1841 to 1843.—TB
+    notes: |+2
+      Kaffir lime is a great way to add brightness to summer cocktails. The gin in this drink was named after Matthew Perry—not the actor, but the original commandant of the Brooklyn navy yard from 1841 to 1843.—TB
     glassware: tiki mug
     ingredients:
     - 1½ ounces Perry's Tot Navy Strength gin
@@ -1602,7 +1682,8 @@ recipes:
   - name: Frisco Club
     author: Thomas Waugh
     year: 2008
-    notes: This is a riff on the classic Pegu Club cocktail, with Fernet-Branca and grapefruit juice in place of the usual bitters and orange curaçao.—TW
+    notes: |+2
+      This is a riff on the classic Pegu Club cocktail, with Fernet-Branca and grapefruit juice in place of the usual bitters and orange curaçao.—TW
     glassware: coupe
     ingredients:
     - 2 ounces Plymouth gin
@@ -1623,7 +1704,8 @@ recipes:
   - name: Gin Hound
     author: Joaquín Simó
     year: 2009
-    notes: Celery is a misunderstood ingredient. People think of it as bland and characterless, but it's actually quite intense. This gimlet-style drink is meant to showcase its big flavor.—JS
+    notes: |+2
+      Celery is a misunderstood ingredient. People think of it as bland and characterless, but it's actually quite intense. This gimlet-style drink is meant to showcase its big flavor.—JS
     glassware: coupe
     ingredients:
     - 2 ounces Tanqueray London Dry gin
@@ -1640,7 +1722,8 @@ recipes:
   - name: Good Humor
     author: Brad Farran
     year: 2013
-    notes: I wanted to mimic the flavors of a strawberry shortcake ice cream bar. The maltiness of the genever mimics the flavor of the cake, and the intensely flavored strawberry liqueur provides the fruit.—BF
+    notes: |+2
+      I wanted to mimic the flavors of a strawberry shortcake ice cream bar. The maltiness of the genever mimics the flavor of the cake, and the intensely flavored strawberry liqueur provides the fruit.—BF
     glassware: double rocks
     ingredients:
     - 1 strawberry
@@ -1664,7 +1747,8 @@ recipes:
   - name: Gypsy Eyes
     author: Jessica Gonzalez
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - Green Chartreuse
@@ -1684,7 +1768,8 @@ recipes:
   - name: Gypsy Wedding
     author: Jillian Vose
     year: 2012
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - Toasted fennel salt rim 
@@ -1707,7 +1792,8 @@ recipes:
   - name: Kew Gardens Cooler
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 2 thin cucumber wheels
@@ -1727,7 +1813,8 @@ recipes:
   - name: Mortal Enemy
     author: Jillian Vose
     year: 2013
-    notes: The American Fruits distillery in upstate New York makes a great line of cordials from peak-of-season fruit. It also happens to be located near the distillery where Allen Katz developed his Dorothy Parker gin, so I combined the two in this Last Word variation.—JV 
+    notes: |+2
+      The American Fruits distillery in upstate New York makes a great line of cordials from peak-of-season fruit. It also happens to be located near the distillery where Allen Katz developed his Dorothy Parker gin, so I combined the two in this Last Word variation.—JV 
     glassware: nick & nora
     ingredients:
     - ¾ ounce Dorothy Parker gin
@@ -1746,7 +1833,8 @@ recipes:
   - name: Muddled Mission
     author: Joaquín Simó
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 strawberry
@@ -1768,7 +1856,8 @@ recipes:
   - name: Overhead Smash
     author: Joaquín Simó
     year: 2011
-    notes: This is a reverse-engineered Pimm's No. 1 Cup. The combination of bonal (an amaro-like french aperitif), Carpano Antica, and gin creates a quaff similar to Pimm's No. 1, but with a more complex flavor profile.—JS
+    notes: |+2
+      This is a reverse-engineered Pimm's No. 1 Cup. The combination of bonal (an amaro-like french aperitif), Carpano Antica, and gin creates a quaff similar to Pimm's No. 1, but with a more complex flavor profile.—JS
     glassware: highball
     ingredients:
     - ½ strawberry
@@ -1796,7 +1885,8 @@ recipes:
   - name: Petticoat
     author: Jessica Gonzalez
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Szechuan Peppercorn-Infused Plymouth gin
@@ -1814,7 +1904,8 @@ recipes:
   - name: Pink Elephant
     author: Brian Miller
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Tanqueray London Dry gin
@@ -1833,7 +1924,8 @@ recipes:
   - name: Pink Flag
     author: Eryn Reece
     year: 2012
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 sage leaves
@@ -1853,7 +1945,8 @@ recipes:
   - name: Pretty Bird
     author: Thomas Waugh
     year: 2011
-    notes: Some drinks are so popular that we can't stand them after a while. One of these drinks is Joaquín's Little Birdy, which became a running joke that spawned other ornithologically named drinks.—TW
+    notes: |+2
+      Some drinks are so popular that we can't stand them after a while. One of these drinks is Joaquín's Little Birdy, which became a running joke that spawned other ornithologically named drinks.—TW
     glassware: double rocks
     ingredients:
     - 1½ ounces Bombay London Dry gin
@@ -1873,7 +1966,8 @@ recipes:
   - name: Queen Palm
     author: Thomas Waugh
     year: 2009
-    notes: I don't remember creating this drink. It was the Fourth of July and we had our slowest night ever, so Brian and I closed early, drank a few Zombie Punches, and went back to his apartment, where we kept making drinks. I woke up the next morning with this recipe scribbled on a piece of paper in my pocket.—TW
+    notes: |+2
+      I don't remember creating this drink. It was the Fourth of July and we had our slowest night ever, so Brian and I closed early, drank a few Zombie Punches, and went back to his apartment, where we kept making drinks. I woke up the next morning with this recipe scribbled on a piece of paper in my pocket.—TW
     glassware: coupe
     ingredients:
     - 1½ ounces Plymouth gin
@@ -1894,7 +1988,8 @@ recipes:
   - name: Ramble
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 2 ounces Plymouth gin
@@ -1913,7 +2008,8 @@ recipes:
   - name: Rigadoon
     author: Phil Ward
     year: 2008
-    notes: Kalamansi fruits look like tangerines but have a sour, acidic taste similar to that of limes. Though they're hard to come by, you can purchase frozen kalamansi puree from several online purveyors, including marquefoods.com.—PW
+    notes: |+2
+      Kalamansi fruits look like tangerines but have a sour, acidic taste similar to that of limes. Though they're hard to come by, you can purchase frozen kalamansi puree from several online purveyors, including marquefoods.com.—PW
     glassware: coupe
     ingredients:
     - 2 ounces Tanqueray London Dry gin
@@ -1932,7 +2028,8 @@ recipes:
   - name: The Risk Pool
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Hayman's Old Tom gin
@@ -1950,7 +2047,8 @@ recipes:
   - name: Shanty Town
     author: Thomas Waugh
     year: 2012
-    notes: This isn't technically a shaken cocktail—if anything it's a boilermaker—but it's a refreshing gin drink nonetheless.—TW
+    notes: |+2
+      This isn't technically a shaken cocktail—if anything it's a boilermaker—but it's a refreshing gin drink nonetheless.—TW
     glassware: pilsner
     ingredients:
     - 1 ounce Perry's Tot Navy Strength gin 
@@ -1965,7 +2063,8 @@ recipes:
   - name: Strange Brew
     author: Thomas Waugh
     year: 2008
-    notes: My friends and I used to go to dolores park in san francisco and drink beer mixed with fresh fruit from the farmers' market, like the Germans do. My favorite combination was pineapple with IPA, which inspired this drink, named after the B-side to EMF's hit song “Unbelievable.”—TW
+    notes: |+2
+      My friends and I used to go to dolores park in san francisco and drink beer mixed with fresh fruit from the farmers' market, like the Germans do. My favorite combination was pineapple with IPA, which inspired this drink, named after the B-side to EMF's hit song “Unbelievable.”—TW
     glassware: pilsner
     ingredients:
     - 2 ounces Tanqueray No. Ten gin
@@ -1986,7 +2085,8 @@ recipes:
   - name: Sunset Gun
     author: Joaquín Simó
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 fresh kaffir lime leaves
@@ -2006,7 +2106,8 @@ recipes:
   - name: Tenement Yard
     author: Jillian Vose
     year: 2013
-    notes: Génépy des Alpes is an herbal liqueur flavored with wormwood that tastes like a cross between Chartreuse and absinthe. I usually hate vegetables in cocktails, but peas have a fresh aroma and sweet flavor that plays well with the gin and génépy.—JV
+    notes: |+2
+      Génépy des Alpes is an herbal liqueur flavored with wormwood that tastes like a cross between Chartreuse and absinthe. I usually hate vegetables in cocktails, but peas have a fresh aroma and sweet flavor that plays well with the gin and génépy.—JV
     glassware: coupe
     ingredients:
     - 2 ounces Sugar Snap Pea-Infused Plymouth gin
@@ -2023,7 +2124,8 @@ recipes:
   - name: Tom Bomb
     author: Jillian Vose
     year: 2011
-    notes: This was my first Death & Co. drink. It uses the popular tiki flavor combination of pineapple, lemon, and spice, the latter in Donn's Spices No. 2.—JV
+    notes: |+2
+      This was my first Death & Co. drink. It uses the popular tiki flavor combination of pineapple, lemon, and spice, the latter in Donn's Spices No. 2.—JV
     glassware: coupe
     ingredients:
     - 1½ ounces Ransom Old Tom gin
@@ -2042,7 +2144,8 @@ recipes:
   - name: Waterloo Sunset
     author: Joaquín Simó
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 7 mint leaves
@@ -2065,7 +2168,8 @@ recipes:
   - name: Botany of Desire
     author: Brad Farran
     year: 2013
-    notes: This drink was inspired by Botanist gin from Scotland, which is nuanced and difficult to mix with, so I paired it with other lighter flavors, including a verjus from Napa Valley, that wouldn't eclipse the gin.—BF
+    notes: |+2
+      This drink was inspired by Botanist gin from Scotland, which is nuanced and difficult to mix with, so I paired it with other lighter flavors, including a verjus from Napa Valley, that wouldn't eclipse the gin.—BF
     glassware: nick & nora
     ingredients:
     - 1½ ounces Bruichladdich 'The Botanist' Gin Islay
@@ -2084,7 +2188,8 @@ recipes:
   - name: Cynartown
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Beefeater London Dry gin
@@ -2100,7 +2205,8 @@ recipes:
   - name: Dick Brautigan
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Beefeater London Dry gin
@@ -2116,7 +2222,8 @@ recipes:
   - name: European Union
     author: Alex Day
     year: 2008
-    notes: The sweetness of the Old Tom gin is softened by calvados in this Martinez variation.—AD
+    notes: |+2
+      The sweetness of the Old Tom gin is softened by calvados in this Martinez variation.—AD
     glassware: coupe
     ingredients:
     - 1½ ounces Hayman's Old Tom gin
@@ -2133,7 +2240,8 @@ recipes:
   - name: Gonzalez
     author: Phil Ward
     year: 2008
-    notes: I named this after Jessica Gonzalez, who started at D&C as a cocktail waitress and became our first female bartender.—PW
+    notes: |+2
+      I named this after Jessica Gonzalez, who started at D&C as a cocktail waitress and became our first female bartender.—PW
     glassware: coupe
     ingredients:
     - 2 ounces Beefeater London Dry gin
@@ -2149,7 +2257,8 @@ recipes:
   - name: Grand Street
     author: Alex Day
     year: 2009
-    notes: Stirring citrus zest into a cocktail is one of our favorite tricks. It's like a quick infusion that adds a subtle depth of flavor.—AD
+    notes: |+2
+      Stirring citrus zest into a cocktail is one of our favorite tricks. It's like a quick infusion that adds a subtle depth of flavor.—AD
     glassware: coupe
     ingredients:
     - 1 grapefruit twist
@@ -2167,7 +2276,8 @@ recipes:
   - name: Hostage Situation
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 ounces Ransom Old Tom gin
@@ -2186,7 +2296,8 @@ recipes:
   - name: Howlin' at the Moon
     author: Brad Farran
     year: 2012
-    notes: I wanted to create a genever-based Old-Fashioned and found that barrel-aged genever and chocolate played well together.—BF
+    notes: |+2
+      I wanted to create a genever-based Old-Fashioned and found that barrel-aged genever and chocolate played well together.—BF
     glassware: double rocks
     ingredients:
     - 1 lemon twist
@@ -2206,7 +2317,8 @@ recipes:
   - name: Imperial March
     author: Jessica Gonzalez
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: fizz
     ingredients:
     - 1½ ounces Martin Miller's Westbourne Strength gin
@@ -2224,7 +2336,8 @@ recipes:
   - name: Jesper Lind
     author: Brian Miller
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Beefeater London Dry gin
@@ -2241,7 +2354,8 @@ recipes:
   - name: The Joy Division
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Beefeater London Dry gin
@@ -2258,7 +2372,8 @@ recipes:
   - name: Key Party
     author: Joaquín Simó
     year: 2009
-    notes: If you count all of the botanicals used to flavor the various spirits in this drink, you end up with more than two hundred ingredients in this cocktail. Not bad for something that only takes a minute to make.—JS
+    notes: |+2
+      If you count all of the botanicals used to flavor the various spirits in this drink, you end up with more than two hundred ingredients in this cocktail. Not bad for something that only takes a minute to make.—JS
     glassware: coupe
     ingredients:
     - 2 ounces Plymouth gin
@@ -2274,7 +2389,8 @@ recipes:
   - name: Le Bateleur
     author: Alex Day
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Beefeater London Dry gin
@@ -2292,7 +2408,8 @@ recipes:
   - name: Le Subtil
     author: Toby Cecchini
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Bols Genever
@@ -2309,7 +2426,8 @@ recipes:
   - name: Light and Day
     author: Alex Day
     year: 2008
-    notes: The first drink I created for Death & Co breaks a few rules (e.g., using fresh orange juice in a stirred cocktail), but it turned out delicious enough to not get me fired.—AD
+    notes: |+2
+      The first drink I created for Death & Co breaks a few rules (e.g., using fresh orange juice in a stirred cocktail), but it turned out delicious enough to not get me fired.—AD
     glassware: coupe
     ingredients:
     - 2 ounces Plymouth gin
@@ -2326,7 +2444,8 @@ recipes:
   - name: Lucino's Delight
     author: Phil Ward
     year: 2007
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Beefeater London Dry gin
@@ -2342,7 +2461,8 @@ recipes:
   - name: Mainland
     author: Thomas Waugh
     year: 2009
-    notes: This is a riff on the Alaska cocktail, which first appeared in The Savoy Cocktail Book. The Alaska is a martini made with Yellow Chartreuse; I subbed in Galliano, which is similar but with more pronounced vanilla and anise flavors.—TW
+    notes: |+2
+      This is a riff on the Alaska cocktail, which first appeared in The Savoy Cocktail Book. The Alaska is a martini made with Yellow Chartreuse; I subbed in Galliano, which is similar but with more pronounced vanilla and anise flavors.—TW
     glassware: coupe
     ingredients:
     - 2 grapefruit twists
@@ -2362,7 +2482,8 @@ recipes:
   - name: May Fair
     author: Eryn Reece
     year: 2013
-    notes: I combined traditional and modern styles of aquavit in this Vieux Carré variation. Krogstad is an unaged, American-made aquavit that's more anise-forward, while Linie is a classic Scandinavian aquavit with big caraway flavors.—ER
+    notes: |+2
+      I combined traditional and modern styles of aquavit in this Vieux Carré variation. Krogstad is an unaged, American-made aquavit that's more anise-forward, while Linie is a classic Scandinavian aquavit with big caraway flavors.—ER
     glassware: double rocks
     ingredients:
     - 1 ounce Tanqueray London Dry gin
@@ -2382,7 +2503,8 @@ recipes:
   - name: Mexi-Gin Martini
     author: Phil Ward
     year: 2012
-    notes: This drink started with the name. I wanted to create a martini with both tequila and mezcal, so I paired them with a softer gin and added Chartreuse and celery bitters to provide even more complexity.—PW
+    notes: |+2
+      This drink started with the name. I wanted to create a martini with both tequila and mezcal, so I paired them with a softer gin and added Chartreuse and celery bitters to provide even more complexity.—PW
     glassware: coupe
     ingredients:
     - 2 ounces Plymouth gin
@@ -2401,7 +2523,8 @@ recipes:
   - name: The Monroe
     author: Scott Teague
     year: 2013
-    notes: A friend pointed out that there aren't any Old-Fashioned-style drinks made with orgeat. So I thought up this cocktail, which is very pretty but a little bit crazy, just like Marilyn.—ST
+    notes: |+2
+      A friend pointed out that there aren't any Old-Fashioned-style drinks made with orgeat. So I thought up this cocktail, which is very pretty but a little bit crazy, just like Marilyn.—ST
     glassware: double rocks
     ingredients:
     - 1½ ounces Anchor Junipero gin
@@ -2421,7 +2544,8 @@ recipes:
   - name: Moon Cocktail
     author: Thomas Waugh
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Plymouth gin
@@ -2439,7 +2563,8 @@ recipes:
   - name: Night Watch
     author: Jessica Gonzalez
     year: 2011
-    notes: A lot of the guys like to name drinks after songs or movies. I prefer works of art, like this Rembrandt painting.—JG
+    notes: |+2
+      A lot of the guys like to name drinks after songs or movies. I prefer works of art, like this Rembrandt painting.—JG
     glassware: coupe
     ingredients:
     - 1½ ounces Ransom Old Tom gin
@@ -2456,7 +2581,8 @@ recipes:
   - name: Pressure Drop
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Ransom Old Tom gin
@@ -2473,7 +2599,8 @@ recipes:
   - name: Sentimental Journey
     author: Brian Miller
     year: 2008
-    notes: This cocktail was inspired by what many consider the original martini recipe, which consisted of gin, Sauvignon Blanc, and grated cinnamon.—BM 
+    notes: |+2
+      This cocktail was inspired by what many consider the original martini recipe, which consisted of gin, Sauvignon Blanc, and grated cinnamon.—BM 
     glassware: coupe
     ingredients:
     - 1½ ounces Tanqueray No. Ten Gin
@@ -2490,7 +2617,8 @@ recipes:
   - name: Summer Shack
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Martin Miller's Westbourne Strength gin
@@ -2509,7 +2637,8 @@ recipes:
   - name: Sure Shot
     author: Jillian Vose
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Hayman's Old Tom gin
@@ -2527,7 +2656,8 @@ recipes:
   - name: Wooden Ship
     author: Thomas Waugh
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: rocks
     ingredients:
     - 1 ounce Tanqueray No. Ten gin
@@ -2545,7 +2675,8 @@ recipes:
   - name: Yeomen Warder
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Beefeater London Dry gin
@@ -2562,7 +2693,8 @@ recipes:
   - name: 18th Century
     author: Phil Ward
     year: 2008
-    notes: This variation on the classic 20th Century cocktail is my love letter to Batavia-Arrack Van Oosten.—PW
+    notes: |+2
+      This variation on the classic 20th Century cocktail is my love letter to Batavia-Arrack Van Oosten.—PW
     glassware: coupe
     ingredients:
     - 1½ ounces Van Oosten Batavia-Arrack Van Oosten
@@ -2578,7 +2710,8 @@ recipes:
   - name: Boo-Ya Cachaça
     author: Scott Teague
     year: 2013
-    notes: This is my “fuck you” to cachaça, because I really don't like the stuff—it's basically an inferior version of rhum agricole.—ST
+    notes: |+2
+      This is my “fuck you” to cachaça, because I really don't like the stuff—it's basically an inferior version of rhum agricole.—ST
     glassware: highball
     ingredients:
     - 1½ ounces La Favorite Rhum Agricole Blanc
@@ -2598,7 +2731,8 @@ recipes:
   - name: Caribbean Shrub
     author: Joaquín Simó
     year: 2008
-    notes: This cocktail was inspired by the colonial-era family of drinks known as shrubs, in which a vinegar syrup is mixed with spirits.—JS
+    notes: |+2
+      This cocktail was inspired by the colonial-era family of drinks known as shrubs, in which a vinegar syrup is mixed with spirits.—JS
     glassware: highball
     ingredients:
     - 1 ounce Appleton Estate V/X rum
@@ -2615,7 +2749,8 @@ recipes:
   - name: Company Buck
     author: Phil Ward
     year: 2007
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 2 ounces Gosling's Black Seal rum
@@ -2636,7 +2771,8 @@ recipes:
   - name: Flor de Jerez
     author: Joaquín Simó
     year: 2009
-    notes: Apricots are such a frustrating fresh fruit to work with because they're so inconsistent. You can buy a dozen of them and have two that are perfect beyond belief, three that are almost delicious, and seven others that are a mealy bunch of nothing. That's why I use a good apricot liqueur in this drink instead of fresh fruit. I was after a light-bodied cocktail that shone forth with fruit and nuts yet remained dry and refreshing.—JS
+    notes: |+2
+      Apricots are such a frustrating fresh fruit to work with because they're so inconsistent. You can buy a dozen of them and have two that are perfect beyond belief, three that are almost delicious, and seven others that are a mealy bunch of nothing. That's why I use a good apricot liqueur in this drink instead of fresh fruit. I was after a light-bodied cocktail that shone forth with fruit and nuts yet remained dry and refreshing.—JS
     glassware: coupe
     ingredients:
     - ½ ounce Appleton Estate Reserve rum 
@@ -2655,7 +2791,8 @@ recipes:
   - name: Get Lucky
     author: Scott Teague
     year: 2013
-    notes: This drink comes from me not taking myself too seriously. I wanted to make something that looks like it could come from TGI Friday's but tastes like a Death & Co drink.—ST
+    notes: |+2
+      This drink comes from me not taking myself too seriously. I wanted to make something that looks like it could come from TGI Friday's but tastes like a Death & Co drink.—ST
     glassware: pilsner
     ingredients:
     - 3 blackberries
@@ -2678,7 +2815,8 @@ recipes:
   - name: The Gift Shop
     author: Thomas Waugh
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 cucumber wheels
@@ -2700,7 +2838,8 @@ recipes:
   - name: The Great Pretender
     author: Thomas Waugh
     year: 2011
-    notes: This is basically a rum version of Brian's Gilda cocktail, hence the name. It's also the only drink I've made that uses a full two ounces of overproof rum.—TW
+    notes: |+2
+      This is basically a rum version of Brian's Gilda cocktail, hence the name. It's also the only drink I've made that uses a full two ounces of overproof rum.—TW
     glassware: coupe
     ingredients:
     - Cinnamon sugar rim
@@ -2720,7 +2859,8 @@ recipes:
   - name: The Green Mile
     author: Phil Ward
     year: 2008
-    notes: I borrowed the template for this drink—liquor, Chartreuse, citrus juice, and simple syrup—from the Daisy de Santiago cocktail in Charles H. Baker's The Gentleman's Companion. It's a very versatile ratio that I've used for a bunch of drinks.—PW
+    notes: |+2
+      I borrowed the template for this drink—liquor, Chartreuse, citrus juice, and simple syrup—from the Daisy de Santiago cocktail in Charles H. Baker's The Gentleman's Companion. It's a very versatile ratio that I've used for a bunch of drinks.—PW
     glassware: coupe
     ingredients:
     - 2 ounces Barbancourt White rum
@@ -2740,7 +2880,8 @@ recipes:
   - name: Julius Orange
     author: Brad Farran
     year: 2012
-    notes: This concept drink was inspired by, you guessed it, the Orange Julius. The curaçao really makes for a dry drink, which allowed me to add other sweet flavors without making it cloying.—BF
+    notes: |+2
+      This concept drink was inspired by, you guessed it, the Orange Julius. The curaçao really makes for a dry drink, which allowed me to add other sweet flavors without making it cloying.—BF
     glassware: double rocks
     ingredients:
     - 2 ounces Pierre Ferrand Dry Curaçao
@@ -2761,7 +2902,8 @@ recipes:
   - name: Kerala
     author: Joaquín Simó
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 5 cardamom pods
@@ -2784,7 +2926,8 @@ recipes:
   - name: Koko B Ware
     author: Thomas Waugh
     year: 2009
-    notes: I wanted to craft a drink that tastes like coconut without any in it, and the combination of rhum agricole, orgeat, and cream does just that. Then I named it, fittingly, after one of my favorite WWF wrestlers.—TW
+    notes: |+2
+      I wanted to craft a drink that tastes like coconut without any in it, and the combination of rhum agricole, orgeat, and cream does just that. Then I named it, fittingly, after one of my favorite WWF wrestlers.—TW
     glassware: tiki mug
     ingredients:
     - 1½ ounces Appleton Estate V/X rum
@@ -2807,7 +2950,8 @@ recipes:
   - name: Patois Punch
     author: Joaquín Simó
     year: 2009
-    notes: This is fall in a glass, or a potable pumpkin pie.—JS
+    notes: |+2
+      This is fall in a glass, or a potable pumpkin pie.—JS
     glassware: coupe
     ingredients:
     - 1 ounce Ron del Barrilito 3-Star rum
@@ -2827,7 +2971,8 @@ recipes:
   - name: Pelée's Blood
     author: Thomas Waugh
     year: 2010
-    notes: Mount Pelée is a volcano that erupted on Martinique in 1902, resulting in the worst volcanic disaster of the twentieth century.—TW
+    notes: |+2
+      Mount Pelée is a volcano that erupted on Martinique in 1902, resulting in the worst volcanic disaster of the twentieth century.—TW
     glassware: double rocks
     ingredients:
     - 1½ ounces Rhum JM 100-Proof Agricole Blanc
@@ -2847,7 +2992,8 @@ recipes:
   - name: Sea B3
     author: Phil Ward
     year: 2008
-    notes: This is one of several cocktails inspired by the worst days of our battles with our community board, aka CB3.—PW
+    notes: |+2
+      This is one of several cocktails inspired by the worst days of our battles with our community board, aka CB3.—PW
     glassware: coupe
     ingredients:
     - 2 ounces Gosling's Black Seal rum
@@ -2864,7 +3010,8 @@ recipes:
   - name: Seersucker
     author: Brian Miller
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 1 strawberry
@@ -2884,7 +3031,8 @@ recipes:
   - name: Sling of Aphrodite
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 2 ounces La Favorite Rhum Agricole Ambre
@@ -2904,7 +3052,8 @@ recipes:
   - name: Amityville
     author: Jillian Vose
     year: 2013
-    notes: The rum used here was released to celebrate the 150th anniversary of Bacardi and made according to the distillery's original recipe. The drink takes on a cloudy, off-green color, which I thought was kind of ghostly.—JV
+    notes: |+2
+      The rum used here was released to celebrate the 150th anniversary of Bacardi and made according to the distillery's original recipe. The drink takes on a cloudy, off-green color, which I thought was kind of ghostly.—JV
     glassware: nick & nora
     ingredients:
     - 1½ ounces Bacardi Ron Superior Limited Edition
@@ -2925,7 +3074,8 @@ recipes:
   - name: Angie's Secret
     author: Jillian Vose
     year: 2011
-    notes: Every D&C bartender hates certain drinks others make. Joaquín hates this one, but I love it because it tastes like Christmas—more specifically, a plate of Christmas cookies in a glass.—JV
+    notes: |+2
+      Every D&C bartender hates certain drinks others make. Joaquín hates this one, but I love it because it tastes like Christmas—more specifically, a plate of Christmas cookies in a glass.—JV
     glassware: coupe
     ingredients:
     - 1 ounce Barbancourt White rum
@@ -2942,7 +3092,8 @@ recipes:
   - name: Arrack Strap
     author: Brad Farran
     year: 2012 
-    notes: At some point, every Death & Co bartender takes on the challenge of Batavia-Arrack Van Oosten. One of the best ways to combat Arrack is by balancing it with another strong flavor, in this case black strap rum.—BF
+    notes: |+2
+      At some point, every Death & Co bartender takes on the challenge of Batavia-Arrack Van Oosten. One of the best ways to combat Arrack is by balancing it with another strong flavor, in this case black strap rum.—BF
     glassware: rocks
     ingredients:
     - 1 ounce Cruzan Black Strap rum
@@ -2962,7 +3113,8 @@ recipes:
   - name: Bumboo
     author: Brian Miller
     year: 2009
-    notes: Pirates used to drink a concoction made with rum, water, sugar, and spices—usually nutmeg, sometimes cinnamon—called bumboo (or bumbo). This is my take.—BM
+    notes: |+2
+      Pirates used to drink a concoction made with rum, water, sugar, and spices—usually nutmeg, sometimes cinnamon—called bumboo (or bumbo). This is my take.—BM
     glassware: fizz
     ingredients:
     - 2 ounces Santa Teresa 1796 rum
@@ -2981,7 +3133,8 @@ recipes:
   - name: Cobra Verde
     author: Thomas Waugh
     year: 2009
-    notes: This is an adaptation of the classic Diamondback cocktail. The combination of so many intense ingredients gives it, well, extra bite.—TW
+    notes: |+2
+      This is an adaptation of the classic Diamondback cocktail. The combination of so many intense ingredients gives it, well, extra bite.—TW
     glassware: coupe
     ingredients:
     - 1½ ounces Neisson Rhum Agricole Blanc
@@ -2997,7 +3150,8 @@ recipes:
   - name: Cortado
     author: Thomas Waugh
     year: 2009
-    notes: This drink doesn't taste anything like a cortado—it's more like a mocha, but cortado sounds better.—TW
+    notes: |+2
+      This drink doesn't taste anything like a cortado—it's more like a mocha, but cortado sounds better.—TW
     glassware: coupe
     ingredients:
     - 2 ounces Pampero Aniversario rum
@@ -3017,7 +3171,8 @@ recipes:
   - name: Eagle-Eye Cherry
     author: Brad Farran
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: port glass
     ingredients:
     - 2 ounces Flor de Caña 7-Year rum
@@ -3040,7 +3195,8 @@ recipes:
   - name: East India Trading Co
     author: Brian Miller
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Appleton Estate Reserve rum
@@ -3056,7 +3212,8 @@ recipes:
   - name: Hadley's Tears
     author: Jillian Vose
     year: 2013
-    notes: One of my favorite after-dinner drinks, this was named after Ernest Hemingway's first wife, Elizabeth Hadley Richardson.—JV
+    notes: |+2
+      One of my favorite after-dinner drinks, this was named after Ernest Hemingway's first wife, Elizabeth Hadley Richardson.—JV
     glassware: double rocks
     ingredients:
     - 1 ounce Appleton Estate V/X rum
@@ -3076,7 +3233,8 @@ recipes:
   - name: Hispaniola
     author: Brian Miller
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 ounces Summer Royale Tea-Infused Flor de Caña White rum
@@ -3094,7 +3252,8 @@ recipes:
   - name: Howl on the Hill
     author: Jessica Gonzalez
     year: 2009
-    notes: It's an unwritten rule that the name of any drink we create containing Fernet-Branca needs to reference San Francisco. Fernet and rum usually go great together, especially rum from Venezuela, where it's common to mix it with amaro.—JG
+    notes: |+2
+      It's an unwritten rule that the name of any drink we create containing Fernet-Branca needs to reference San Francisco. Fernet and rum usually go great together, especially rum from Venezuela, where it's common to mix it with amaro.—JG
     glassware: coupe
     ingredients:
     - 1½ ounces El Dorado 15-Year rum
@@ -3112,7 +3271,8 @@ recipes:
   - name: Midnight Mass
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Scarlet Ibis rum
@@ -3129,7 +3289,8 @@ recipes:
   - name: Old Ironsides
     author: Brian Miller
     year: 2009
-    notes: Black strap rum is tricky. You can't use a lot or it will take over the drink. I almost always use it as a modifier.—BM
+    notes: |+2
+      Black strap rum is tricky. You can't use a lot or it will take over the drink. I almost always use it as a modifier.—BM
     glassware: coupe
     ingredients:
     - 1½ ounces Scarlet Ibis rum
@@ -3146,7 +3307,8 @@ recipes:
   - name: Passing Aden
     author: Alex Day
     year: 2008
-    notes: Batavia-Arrack Van Oosten, with its intense, funky hogo flavor, can be a challenge to work with. Here I use it in a classic punch formula with Demerara syrup. Including a cinnamon stick when stirring the drink subtly heightens the cinnamon notes in the infused vermouth.—AD
+    notes: |+2
+      Batavia-Arrack Van Oosten, with its intense, funky hogo flavor, can be a challenge to work with. Here I use it in a classic punch formula with Demerara syrup. Including a cinnamon stick when stirring the drink subtly heightens the cinnamon notes in the infused vermouth.—AD
     glassware: coupe
     ingredients:
     - 2 ounces Van Oosten Batavia-Arrack Van Oosten
@@ -3164,7 +3326,8 @@ recipes:
   - name: Piña Colada Deconstruction
     author: Joaquín Simó
     year: 2008
-    notes: This is a Piña Colada on a diet, the kind of cocktail I'd want poolside on a summer night while wearing a white linen suit, rather than a drink I'd have on the beach in a tank top and swim trunks.—JS
+    notes: |+2
+      This is a Piña Colada on a diet, the kind of cocktail I'd want poolside on a summer night while wearing a white linen suit, rather than a drink I'd have on the beach in a tank top and swim trunks.—JS
     glassware: coupe
     ingredients:
     - 2 ounces Pineapple-Infused Flor de Caña Extra-Dry White rum
@@ -3182,7 +3345,8 @@ recipes:
   - name: Puerto Rican Racer
     author: Thomas Waugh
     year: 2009
-    notes: This is one of several Death & Co variations on the Diamondback (a classic made with rye, apple brandy, and Chartreuse), each named after a different snake.—TW
+    notes: |+2
+      This is one of several Death & Co variations on the Diamondback (a classic made with rye, apple brandy, and Chartreuse), each named after a different snake.—TW
     glassware: double rocks
     ingredients:
     - 2 ounces Ron del Barrilito 3-Star rum
@@ -3199,7 +3363,8 @@ recipes:
   - name: Rock, Paper, Scissors
     author: Thomas Waugh
     year: 2011
-    notes: A lot of my drinks are inspired by dessert. Sometimes an idea comes from a new flavor pairing I discover at the hands of a great pastry chef; other times it comes from a childhood favorite. This drink is loosely based on the flavors of rocky road ice cream, minus the overwhelming sweetness.—TW
+    notes: |+2
+      A lot of my drinks are inspired by dessert. Sometimes an idea comes from a new flavor pairing I discover at the hands of a great pastry chef; other times it comes from a childhood favorite. This drink is loosely based on the flavors of rocky road ice cream, minus the overwhelming sweetness.—TW
     glassware: martini
     ingredients:
     - 1½ ounces Zacapa 23-Year rum
@@ -3218,7 +3383,8 @@ recipes:
   - name: Velvet Warhol
     author: Thomas Waugh
     year: 2008
-    notes: I like to take the dominant flavor of a spirit and amplify it by infusing the booze with the same ingredient. In this case, I boosted the Gosling's banana notes by adding dried banana chips.—TW
+    notes: |+2
+      I like to take the dominant flavor of a spirit and amplify it by infusing the booze with the same ingredient. In this case, I boosted the Gosling's banana notes by adding dried banana chips.—TW
     glassware: coupe
     ingredients:
     - 2 ounces Banana Chip-Infused Gosling's Black Seal rum
@@ -3236,7 +3402,8 @@ recipes:
   - name: AKA Cobbler
     author: Alex Day
     year: 2008
-    notes: Like sangria, cobblers were traditionally a means for making cheap wine better by fortifying it with a spirit and adding muddled fruit. I took the classic cobbler formula and removed most of the wine, using just a bit of sherry as a nod to the original recipe.—AD
+    notes: |+2
+      Like sangria, cobblers were traditionally a means for making cheap wine better by fortifying it with a spirit and adding muddled fruit. I took the classic cobbler formula and removed most of the wine, using just a bit of sherry as a nod to the original recipe.—AD
     glassware: double rocks
     ingredients:
     - 1 teaspoon simple syrup
@@ -3260,7 +3427,8 @@ recipes:
   - name: Almond Brother
     author: Jason Littrell
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Siete Leguas Reposado Tequila
@@ -3279,7 +3447,8 @@ recipes:
   - name: Camp Council
     author: Jason Littrell
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 1½ ounces Siete Leguas Reposado Tequila
@@ -3298,7 +3467,8 @@ recipes:
   - name: Chingon
     author: Brian Miller
     year: 2009
-    notes: I created this drink as my dedication to all of our hardworking barbacks, naming it after the mexican slang for “bad ass.”—BM
+    notes: |+2
+      I created this drink as my dedication to all of our hardworking barbacks, naming it after the mexican slang for “bad ass.”—BM
     glassware: coupe
     ingredients:
     - 2 ounces Siete Leguas Reposado Tequila
@@ -3317,7 +3487,8 @@ recipes:
   - name: Cinder
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - Smoked salt
@@ -3338,7 +3509,8 @@ recipes:
   - name: Cinnamon Girl
     author: Brad Farran
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 orange wedges
@@ -3361,7 +3533,8 @@ recipes:
   - name: Dhalgren
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 2 ounces Siembra Azul Blanco Tequila
@@ -3380,7 +3553,8 @@ recipes:
   - name: Dos Besitos
     author: Scott Teague
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 ounce El Tesoro Reposado Tequila
@@ -3399,7 +3573,8 @@ recipes:
   - name: El Compañero
     author: Jason Littrell
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - ¾ ounce El Tesoro Reposado Tequila
@@ -3423,7 +3598,8 @@ recipes:
   - name: Espadin Queen
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - Vieux Pontarlier Absinthe
@@ -3444,7 +3620,8 @@ recipes:
   - name: Flor de Jalisco
     author: Joaquín Simó
     year: 2009
-    notes: In the 1980s, Julio Bermejo, an owner of Tommy's Mexican Restaurant in San Francisco, popularized a margarita sweetened with agave syrup. We've used his spec for some fun spin-offs, including this version made with lemon juice and orange marmalade.—JS
+    notes: |+2
+      In the 1980s, Julio Bermejo, an owner of Tommy's Mexican Restaurant in San Francisco, popularized a margarita sweetened with agave syrup. We've used his spec for some fun spin-offs, including this version made with lemon juice and orange marmalade.—JS
     glassware: coupe
     ingredients:
     - 2 ounces Siembra Azul Blanco Tequila
@@ -3461,7 +3638,8 @@ recipes:
   - name: Fresa Brava
     author: Phil Ward
     year: 2009 
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 strawberry
@@ -3480,7 +3658,8 @@ recipes:
   - name: Gilda Cocktail
     author: Brian Miller
     year: 2009
-    notes: The combination of pineapple, lime, and cinnamon in this cocktail became a popular trio of flavors at D&C, spawning other drinks like the Tom Bomb and Blown Rose.—BM
+    notes: |+2
+      The combination of pineapple, lime, and cinnamon in this cocktail became a popular trio of flavors at D&C, spawning other drinks like the Tom Bomb and Blown Rose.—BM
     glassware: coupe
     ingredients:
     - 2 ounces Siembra Azul Blanco Tequila
@@ -3498,7 +3677,8 @@ recipes:
   - name: Glandula del Mono
     author: Phil Ward
     year: 2008
-    notes: I guess it's pretty obvious that this is a tequila-based variation of the Monkey Gland (a gin-based cocktail). It also happens to be Brian Miller's favorite cocktail name.—PW
+    notes: |+2
+      I guess it's pretty obvious that this is a tequila-based variation of the Monkey Gland (a gin-based cocktail). It also happens to be Brian Miller's favorite cocktail name.—PW
     glassware: coupe
     ingredients:
     - 2 ounces Siembra Azul Blanco Tequila
@@ -3516,7 +3696,8 @@ recipes:
   - name: Golden Beautiful
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: snifter
     ingredients:
     - 2 ounces Siete Leguas Reposado Tequila
@@ -3537,7 +3718,8 @@ recipes:
   - name: Head Spin
     author: Jillian Vose
     year: 2013
-    notes: When I started working at the bar, one of my favorite drinks was Joaquín's Maggie Smith, which is a Daiquiri variation made with Santa Teresa Orange liqueur. I turned it into a Margarita.—JV
+    notes: |+2
+      When I started working at the bar, one of my favorite drinks was Joaquín's Maggie Smith, which is a Daiquiri variation made with Santa Teresa Orange liqueur. I turned it into a Margarita.—JV
     glassware: coupe
     ingredients:
     - 1½ ounces Cabeza Blanco Tequila
@@ -3559,7 +3741,8 @@ recipes:
   - name: In-Sandiary
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - Spicy sugar and salt rim
@@ -3580,7 +3763,8 @@ recipes:
   - name: La Valentina
     author: Thomas Waugh
     year: 2009
-    notes: The 1930s-era Blinker cocktail turned me on to the combination of rye, grapefruit, and raspberries. I substituted tequila for the rye and lightened it up with wheat beer.—TW
+    notes: |+2
+      The 1930s-era Blinker cocktail turned me on to the combination of rye, grapefruit, and raspberries. I substituted tequila for the rye and lightened it up with wheat beer.—TW
     glassware: pilsner
     ingredients:
     - 3 raspberries
@@ -3604,7 +3788,8 @@ recipes:
   - name: Los Amargos
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Centinela Reposado Tequila
@@ -3622,7 +3807,8 @@ recipes:
   - name: Naked and Famous
     author: Joaquín Simó
     year: 2011
-    notes: This cocktail is the bastard child born out of an illicit Oaxacan love affair between the classic Last Word and the Paper Plane, a drink Sam Ross created at the West Village bar Little Branch. Choosing an aggressively smoky, funky mezcal was key here, as there is relatively little of it in the drink and it needs to stand up against two liqueurs, neither of which lacks complexity.—JS
+    notes: |+2
+      This cocktail is the bastard child born out of an illicit Oaxacan love affair between the classic Last Word and the Paper Plane, a drink Sam Ross created at the West Village bar Little Branch. Choosing an aggressively smoky, funky mezcal was key here, as there is relatively little of it in the drink and it needs to stand up against two liqueurs, neither of which lacks complexity.—JS
     glassware: coupe
     ingredients:
     - ¾ ounce Del Maguey Chichicapa Mezcal
@@ -3639,7 +3825,8 @@ recipes:
   - name: Pinche Chivo
     author: Joaquín Simó
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 3 cucumber wheels
@@ -3659,7 +3846,8 @@ recipes:
   - name: Short Rib
     author: Phil Ward
     year: 2008
-    notes: When Death & Co opened, our kitchen served a dish of braised short ribs topped with jalapeño peppers and pomegranate molasses. I liked this combination, so I made it into a drink.—PW
+    notes: |+2
+      When Death & Co opened, our kitchen served a dish of braised short ribs topped with jalapeño peppers and pomegranate molasses. I liked this combination, so I made it into a drink.—PW
     glassware: coupe
     ingredients:
     - 2 ounces Jalapeño-Infused Siembra Azul Blanco Tequila
@@ -3676,7 +3864,8 @@ recipes:
   - name: Silver Monk
     author: Phil Ward
     year: 2007
-    notes: At Death & Co, we also make a spicy version of this drink using jalapeño-infused tequila.—PW 
+    notes: |+2
+      At Death & Co, we also make a spicy version of this drink using jalapeño-infused tequila.—PW 
     glassware: coupe
     ingredients:
     - 2 cucumber wheels
@@ -3698,7 +3887,8 @@ recipes:
   - name: Single Origin
     author: Tyson Buhler
     year: 2013
-    notes: Chocolate, pineapple, coffee, and, of course, tequila are all famous Mexican ingredients, so it shouldn't be a surprise that they work well together in a cocktail.—TB
+    notes: |+2
+      Chocolate, pineapple, coffee, and, of course, tequila are all famous Mexican ingredients, so it shouldn't be a surprise that they work well together in a cocktail.—TB
     glassware: coupe
     ingredients:
     - 2 ounces Cacao Nib-Infused Cabeza Blanco Tequila
@@ -3716,7 +3906,8 @@ recipes:
   - name: Smoked Horchata
     author: Joaquín Simó
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1 ounce Fortaleza Reposado Tequila
@@ -3734,7 +3925,8 @@ recipes:
   - name: Southern Exposure
     author: Joaquín Simó
     year: 2009
-    notes: This popular drink is my homage to the flavors of Mexico, made extra savory with red bell pepper and a pinch of salt, the latter an ingredient that doesn't see enough use in cocktails.—JS
+    notes: |+2
+      This popular drink is my homage to the flavors of Mexico, made extra savory with red bell pepper and a pinch of salt, the latter an ingredient that doesn't see enough use in cocktails.—JS
     glassware: coupe
     ingredients:
     - 1½ ounces Jalapeño-Infused Siembra Azul Blanco Tequila
@@ -3753,7 +3945,8 @@ recipes:
   - name: Spicy Paloma
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - Kosher salt
@@ -3775,7 +3968,8 @@ recipes:
   - name: St Matilda
     author: Phil Ward
     year: 2007
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - ½ bartlett pear, cubed
@@ -3796,7 +3990,8 @@ recipes:
   - name: Tommy and the Ron-Dels
     author: Brad Farran
     year: 2012
-    notes: I got really excited about the flavor profile of Ron del Barrilito rum, so I worked it into a Tommy's Margarita spec by including it in a split base with tequila and mezcal.—BF
+    notes: |+2
+      I got really excited about the flavor profile of Ron del Barrilito rum, so I worked it into a Tommy's Margarita spec by including it in a split base with tequila and mezcal.—BF
     glassware: rocks
     ingredients:
     - ¾ ounce El Tesoro Reposado Tequila
@@ -3818,7 +4013,8 @@ recipes:
   - name: Ty Cobbler
     author: Phil Ward
     year: 2008
-    notes: The combination of cherries and Cynar was an exciting revelation for me. I love the way the muddled cherries look scattered on top of the crushed ice; I refer to this as “serving it messy.”—PW
+    notes: |+2
+      The combination of cherries and Cynar was an exciting revelation for me. I love the way the muddled cherries look scattered on top of the crushed ice; I refer to this as “serving it messy.”—PW
     glassware: double rocks
     ingredients:
     - 3 brandied cherries
@@ -3838,7 +4034,8 @@ recipes:
   - name: Village to Village
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 1½ ounces Chinaco Verde Blanco Tequila
@@ -3859,7 +4056,8 @@ recipes:
   - name: Alta California
     author: Alex Day
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Siembra Azul Blanco Tequila
@@ -3875,7 +4073,8 @@ recipes:
   - name: Augie March
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces El Tesoro Reposado Tequila
@@ -3891,7 +4090,8 @@ recipes:
   - name: Broken Oath
     author: Eryn Reece
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: nick & nora
     ingredients:
     - 1½ ounces Sombra Mezcal
@@ -3908,7 +4108,8 @@ recipes:
   - name: Coralillo
     author: Thomas Waugh
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces El Tesoro Añejo Tequila
@@ -3925,7 +4126,8 @@ recipes:
   - name: Dale Cooper
     author: Jessica Gonzalez
     year: 2011
-    notes: We had a coffee pod machine at the bar that made really crappy coffee, so I would add a splash of Green Chartreuse and cinnamon syrup to make it drinkable.—JG
+    notes: |+2
+      We had a coffee pod machine at the bar that made really crappy coffee, so I would add a splash of Green Chartreuse and cinnamon syrup to make it drinkable.—JG
     glassware: martini
     ingredients:
     - 2 ounces Siete Leguas Reposado Tequila
@@ -3942,7 +4144,8 @@ recipes:
   - name: Green and Red
     author: Thomas Waugh
     year: 2012
-    notes: Stirred cucumber drinks are rare; it's a lot harder to get the flavor incorporated into the drink. I got the idea for this cocktail from the Chin Up, another refreshing stirred cucumber drink, and named it after a great tequila bar in London.—TW
+    notes: |+2
+      Stirred cucumber drinks are rare; it's a lot harder to get the flavor incorporated into the drink. I got the idea for this cocktail from the Chin Up, another refreshing stirred cucumber drink, and named it after a great tequila bar in London.—TW
     glassware: coupe
     ingredients:
     - 3 cucumber wheels
@@ -3962,7 +4165,8 @@ recipes:
   - name: Hot Lips
     author: Jessica Gonzalez
     year: 2009
-    notes: Joaquín's Faithful Scotsman cocktail showed me that you can make a stirred drink with citrus juice—if you add enough fat to get the texture right.—JG
+    notes: |+2
+      Joaquín's Faithful Scotsman cocktail showed me that you can make a stirred drink with citrus juice—if you add enough fat to get the texture right.—JG
     glassware: fizz
     ingredients:
     - Kosher salt
@@ -3983,7 +4187,8 @@ recipes:
   - name: Imaginary Grace
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Siete Leguas Reposado Tequila
@@ -4002,7 +4207,8 @@ recipes:
   - name: Last Train to Oaxaca
     author: Brian Miller
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Pueblo Viejo Añejo Tequila
@@ -4019,7 +4225,8 @@ recipes:
   - name: Nitty-Gritty
     author: Joaquín Simó
     year: 2011
-    notes: In this riff on the Fitty-Fitty Martini, the combination of mezcal and sherry was so drying that the cocktail needed some texture and sweetness. The smallest amount of pear liqueur and agave nectar made a huge difference.—JS
+    notes: |+2
+      In this riff on the Fitty-Fitty Martini, the combination of mezcal and sherry was so drying that the cocktail needed some texture and sweetness. The smallest amount of pear liqueur and agave nectar made a huge difference.—JS
     glassware: coupe
     ingredients:
     - 1½ ounces Del Maguey Espadin Especial Mezcal
@@ -4039,7 +4246,8 @@ recipes:
   - name: Perfect Crime
     author: Jillian Vose
     year: 2013
-    notes: Pasquet Marie-Framboise is a lovely aperitif made by soaking raspberries in cognac and freshly harvested grape juice. It lightens up this drink and bridges the smoke bomb mezcal and bitter amaro.—JV
+    notes: |+2
+      Pasquet Marie-Framboise is a lovely aperitif made by soaking raspberries in cognac and freshly harvested grape juice. It lightens up this drink and bridges the smoke bomb mezcal and bitter amaro.—JV
     glassware: double rocks
     ingredients:
     - 1¾ ounces Sombra Mezcal
@@ -4057,7 +4265,8 @@ recipes:
   - name: Prima China
     author: Joaquín Simó
     year: 2009
-    notes: My wife's mother is Chinese, and one of my wife's cousins married a Mexican. So I married both cultures in this cocktail—China by way of the tea and Mexico with the tequila and bitters—and named it after my wife's chinese cousin (prima being spanish for “cousin”).—JS
+    notes: |+2
+      My wife's mother is Chinese, and one of my wife's cousins married a Mexican. So I married both cultures in this cocktail—China by way of the tea and Mexico with the tequila and bitters—and named it after my wife's chinese cousin (prima being spanish for “cousin”).—JS
     glassware: coupe
     ingredients:
     - 2 ounces Siembra Azul Añejo Tequila
@@ -4075,7 +4284,8 @@ recipes:
   - name: Rebel Rebel
     author: Jillian Vose
     year: 2013
-    notes: This is an example of a drink that can easily go off the rails if you use too much of one ingredient. It breaks a bunch of rules, the first being that it seems like it should be a shaken drink.—JV
+    notes: |+2
+      This is an example of a drink that can easily go off the rails if you use too much of one ingredient. It breaks a bunch of rules, the first being that it seems like it should be a shaken drink.—JV
     glassware: nick & nora
     ingredients:
     - ½ cherry tomato
@@ -4096,7 +4306,8 @@ recipes:
   - name: Saramago
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - Del Maguey Vida Mezcal
@@ -4116,7 +4327,8 @@ recipes:
   - name: Sergio Leone
     author: Brian Miller
     year: 2009
-    notes: This is one of the few tequila-based cocktails I've created for D&C. It's based on the spec for a Red Hook.—BM
+    notes: |+2
+      This is one of the few tequila-based cocktails I've created for D&C. It's based on the spec for a Red Hook.—BM
     glassware: coupe
     ingredients:
     - 2 ounces El Tesoro Reposado Tequila
@@ -4132,7 +4344,8 @@ recipes:
   - name: Shattered Glasser
     author: Phil Ward
     year: 2008
-    notes: I love it when one of our regulars asks us to create a cocktail on the spot based on crazy criteria—and it's even better when we can pull off a decent drink on the first try. One night Avery Glasser, the man behind Bittermens bitters and one of the bar's original regulars, asked me to make him a drink that contained all of his favorite ingredients. The problem was that he likes a lot of weird shit. But I gave it a shot, splitting both the base spirit and its modifiers, and it resulted in a surprisingly balanced drink.—PW
+    notes: |+2
+      I love it when one of our regulars asks us to create a cocktail on the spot based on crazy criteria—and it's even better when we can pull off a decent drink on the first try. One night Avery Glasser, the man behind Bittermens bitters and one of the bar's original regulars, asked me to make him a drink that contained all of his favorite ingredients. The problem was that he likes a lot of weird shit. But I gave it a shot, splitting both the base spirit and its modifiers, and it resulted in a surprisingly balanced drink.—PW
     glassware: coupe
     ingredients:
     - 1 ounce El Tesoro Reposado Tequila
@@ -4151,7 +4364,8 @@ recipes:
   - name: Spaghetti Western
     author: Jessica Gonzalez
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1 ounce Siete Leguas Reposado Tequila
@@ -4168,7 +4382,8 @@ recipes:
   - name: Spanish Caravan
     author: Brian Miller
     year: 2008
-    notes: This is a variation on the Chas, a bourbon-based drink created by Murray Stenson at Seattle's Zig Zag Café.—BM
+    notes: |+2
+      This is a variation on the Chas, a bourbon-based drink created by Murray Stenson at Seattle's Zig Zag Café.—BM
     glassware: coupe
     ingredients:
     - 2 ounces Lapsang Souchong-Infused Siembra Azul Blanco Tequila
@@ -4187,7 +4402,8 @@ recipes:
   - name: Te Amo
     author: Brad Farran
     year: 2012 
-    notes: Some of our cocktails use several ingredients in such tiny amounts that we premix them in a cheater bottle to speed up service. Tickle Juice—a two-to-one blend of white crème de cacao and Cynar—originated with this drink.—BF
+    notes: |+2
+      Some of our cocktails use several ingredients in such tiny amounts that we premix them in a cheater bottle to speed up service. Tickle Juice—a two-to-one blend of white crème de cacao and Cynar—originated with this drink.—BF
     glassware: martini
     ingredients:
     - 2 ounces El Tesoro Añejo Tequila
@@ -4207,7 +4423,8 @@ recipes:
   - name: Terrible Love
     author: Phil Ward
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: rocks
     ingredients:
     - 1½ ounces Del Maguey Chichicapa Mezcal
@@ -4224,7 +4441,8 @@ recipes:
   - name: Vipera
     author: Brian Miller
     year: 2008
-    notes: I based my spiced pear-infused tequila on the pear-, apple-, and spice-infused vodka from a Dale Degroff recipe for an apple martini.—BM
+    notes: |+2
+      I based my spiced pear-infused tequila on the pear-, apple-, and spice-infused vodka from a Dale Degroff recipe for an apple martini.—BM
     glassware: coupe
     ingredients:
     - 2 ounces Spiced Pear-Infused Siembra Azul Blanco Tequila
@@ -4240,7 +4458,8 @@ recipes:
   - name: Yama Blanca
     author: Jessica Gonzalez
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Centinela Reposado Tequila
@@ -4257,7 +4476,8 @@ recipes:
   - name: 19th Century
     author: Brian Miller
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Woodford Reserve Bourbon
@@ -4274,7 +4494,8 @@ recipes:
   - name: 202 Steps
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - ¼ tangerine, peeled
@@ -4292,7 +4513,8 @@ recipes:
   - name: Banks of Islay
     author: Thomas Waugh
     year: 2012
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 6 fresh curry leaves
@@ -4313,7 +4535,8 @@ recipes:
   - name: Blazing Saddles
     author: Brad Farran
     year: 2013
-    notes: High West's oat whiskey is one of the few unaged whiskeys that I really like; it has enough of its own flavor profile to stand out in a drink, like this grapefruit- and cinnamon-flavored sour.—BF
+    notes: |+2
+      High West's oat whiskey is one of the few unaged whiskeys that I really like; it has enough of its own flavor profile to stand out in a drink, like this grapefruit- and cinnamon-flavored sour.—BF
     glassware: coupe
     ingredients:
     - 2 ounces High West Silver Oat Whiskey
@@ -4332,7 +4555,8 @@ recipes:
   - name: Blown Rose
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 3 fuji apple slices
@@ -4352,7 +4576,8 @@ recipes:
   - name: Blue Run Sling
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 2 ounces Elijah Craig 12-Year Bourbon
@@ -4372,7 +4597,8 @@ recipes:
   - name: Castle to Castle
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 1½ ounces Knappogue Castle 12-Year Irish Whiskey
@@ -4390,7 +4616,8 @@ recipes:
   - name: Crane Kick
     author: Brad Farran
     year: 2012
-    notes: I wanted to devise a tiki cocktail based on Japanese whiskey. But just a little bit of Kalani completely dominated the drink, so I added a teaspoon of peaty Scotch to balance it and create extra layers of depth.—BF
+    notes: |+2
+      I wanted to devise a tiki cocktail based on Japanese whiskey. But just a little bit of Kalani completely dominated the drink, so I added a teaspoon of peaty Scotch to balance it and create extra layers of depth.—BF
     glassware: pilsner
     ingredients:
     - 2 ounces Yamazaki 12-Year Whiskey
@@ -4412,7 +4639,8 @@ recipes:
   - name: Dangerous Liaisons
     author: Joaquín Simó
     year: 2012
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 1½ ounces Lavender-Infused Bernheim Original Wheat Whiskey
@@ -4431,7 +4659,8 @@ recipes:
   - name: Deadpan Fix
     author: Jessica Gonzalez
     year: 2011
-    notes: Rye is harder to use in shaken drinks than bourbon; it can be a bully. But it works when combined with more aggressive flavors, like the Campari, ginger, and grapefruit here.—JG
+    notes: |+2
+      Rye is harder to use in shaken drinks than bourbon; it can be a bully. But it works when combined with more aggressive flavors, like the Campari, ginger, and grapefruit here.—JG
     glassware: coupe
     ingredients:
     - 1½ ounces Rittenhouse 100 Rye
@@ -4451,7 +4680,8 @@ recipes:
   - name: Doc's Dram
     author: Joaquín Simó
     year: 2011
-    notes: You don't usually see rye and gin together in a split base, but the old tom is malty enough and the Overholt so soft that they work fantastically together in this fall-spiced sour.—JS
+    notes: |+2
+      You don't usually see rye and gin together in a split base, but the old tom is malty enough and the Overholt so soft that they work fantastically together in this fall-spiced sour.—JS
     glassware: double rocks
     ingredients:
     - ½ ounces Old Overholt Rye Whiskey
@@ -4472,7 +4702,8 @@ recipes:
   - name: Double Fill-Up
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Rittenhouse 100 Rye
@@ -4491,7 +4722,8 @@ recipes:
   - name: Dr. Feelgood
     author: Jillian Vose
     year: 2013
-    notes: This is a good example of a drink that looks sweet on paper but actually isn't, thanks to the bone-dry apple eau-de-vie and fig-infused bourbon.—JV
+    notes: |+2
+      This is a good example of a drink that looks sweet on paper but actually isn't, thanks to the bone-dry apple eau-de-vie and fig-infused bourbon.—JV
     glassware: coupe
     ingredients:
     - 2 ounces Fig-Infused Elijah Craig Bourbon
@@ -4512,7 +4744,8 @@ recipes:
   - name: Eye of the Torino
     author: Jillian Vose
     year: 2013
-    notes: You probably wouldn't think of using peaty Scotch in a creamy tiki drink, but its smoky flavor really stands out over all the richness.—JV
+    notes: |+2
+      You probably wouldn't think of using peaty Scotch in a creamy tiki drink, but its smoky flavor really stands out over all the richness.—JV
     glassware: tiki mug
     ingredients:
     - 2 ounces Bowmore 12-Year Scotch
@@ -4536,7 +4769,8 @@ recipes:
   - name: Fix Me Up
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: snifter
     ingredients:
     - 1 ounce Sazerac 6-Year Rye
@@ -4557,7 +4791,8 @@ recipes:
   - name: Grouse Rampant
     author: Alex Day
     year: 2008
-    notes: This whiskey sour variation is full of fall flavors. I make an "x" with the bitters on top to evoke the Scottish flag.—AD
+    notes: |+2
+      This whiskey sour variation is full of fall flavors. I make an "x" with the bitters on top to evoke the Scottish flag.—AD
     glassware: coupe
     ingredients:
     - 2 ounces Fuji Apple-Infused Famous Grouse Scotch
@@ -4576,7 +4811,8 @@ recipes:
   - name: Honshu Punch
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: snifter
     ingredients:
     - 2 ounces Yamazaki 12-Year Whiskey
@@ -4597,7 +4833,8 @@ recipes:
   - name: Little Engine
     author: Alex Day
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 ounces Famous Grouse Scotch
@@ -4616,7 +4853,8 @@ recipes:
   - name: Monongahela Mule
     author: Phil Ward
     year: 2007
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 4 raspberries
@@ -4638,7 +4876,8 @@ recipes:
   - name: Mrs Doyle
     author: Eryn Reece
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Redbreast 12-Year Irish Whiskey
@@ -4655,7 +4894,8 @@ recipes:
   - name: Paddy Melt
     author: Joaquín Simó
     year: 2011
-    notes: Guests who swear up and down that they hate whiskey will gulp down four of these in an evening.—JS
+    notes: |+2
+      Guests who swear up and down that they hate whiskey will gulp down four of these in an evening.—JS
     glassware: fizz
     ingredients:
     - 1½ ounces Knappogue Castle 12-Year Irish Whiskey
@@ -4673,7 +4913,8 @@ recipes:
   - name: Pete's Word
     author: Phil Ward
     year: 2008
-    notes: It doesn't make sense, but peaty Scotch and lime juice are amazing together, so I used this surprising combo in a variation on the Last Word.—PW
+    notes: |+2
+      It doesn't make sense, but peaty Scotch and lime juice are amazing together, so I used this surprising combo in a variation on the Last Word.—PW
     glassware: coupe
     ingredients:
     - ¾ ounce Laphroaig 10-Year Scotch
@@ -4690,7 +4931,8 @@ recipes:
   - name: Scotch Lady
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Famous Grouse Scotch
@@ -4710,7 +4952,8 @@ recipes:
   - name: Straw Dog
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 strawberry
@@ -4731,7 +4974,8 @@ recipes:
   - name: Swearengen Sling
     author: Brian Miller
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 2 brandied cherries
@@ -4753,7 +4997,8 @@ recipes:
   - name: Sweep the Leg
     author: Brad Farran
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 2 ounces Suntory Hakashu 12-Year Whisky
@@ -4776,7 +5021,8 @@ recipes:
   - name: Vampire Blues
     author: Jessica Gonzalez
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1½ ounces Old Weller Antique 107 Bourbon
@@ -4796,7 +5042,8 @@ recipes:
   - name: Vejk Sling
     author: Phil Ward
     year: 2008
-    notes: The sling is one of the oldest cocktail templates, combining some kind of booze with lemon, sugar, and water, which could be drunk hot or cold. I named this loose interpretation after the Czech inspiration for the novel Catch-22.—PW
+    notes: |+2
+      The sling is one of the oldest cocktail templates, combining some kind of booze with lemon, sugar, and water, which could be drunk hot or cold. I named this loose interpretation after the Czech inspiration for the novel Catch-22.—PW
     glassware: highball
     ingredients:
     - 2 ounces Compass Box Asyla Scotch
@@ -4816,7 +5063,8 @@ recipes:
   - name: Warehouse C
     author: Jillian Vose
     year: 2013
-    notes: The combination of orgeat, cinnamon bark syrup, and ginger syrup is a popular trifecta of sweeteners at the bar. Why use one when you can use three?—JV
+    notes: |+2
+      The combination of orgeat, cinnamon bark syrup, and ginger syrup is a popular trifecta of sweeteners at the bar. Why use one when you can use three?—JV
     glassware: coupe
     ingredients:
     - 1 strawberry
@@ -4838,7 +5086,8 @@ recipes:
   - name: Whirling Tiger
     author: Brian Miller
     year: 2008
-    notes: This bourbon-based cocktail is inspired by the Dark and Stormy and named after a storm chaser group based out of Kentucky.—BM
+    notes: |+2
+      This bourbon-based cocktail is inspired by the Dark and Stormy and named after a storm chaser group based out of Kentucky.—BM
     glassware: highball
     ingredients:
     - 2 ounces Buffalo Trace Bourbon
@@ -4857,7 +5106,8 @@ recipes:
   - name: B.A.F
     author: Eryn Reece
     year: 2012
-    notes: When we were developing this drink at a menu tasting, someone took a sip and said, “This is bitter as fuck… but I love it.” The name stuck.—ER
+    notes: |+2
+      When we were developing this drink at a menu tasting, someone took a sip and said, “This is bitter as fuck… but I love it.” The name stuck.—ER
     glassware: double rocks
     ingredients:
     - 1 ounce Macallan Fine Oak 10-Year Scotch
@@ -4875,7 +5125,8 @@ recipes:
   - name: Bella Cohen
     author: Jessica Gonzalez
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Knappogue Castle 12-Year Irish Whiskey
@@ -4893,7 +5144,8 @@ recipes:
   - name: Black Market Manhattan
     author: Brian Miller
     year: 2008
-    notes: I found an incredible cinnamon-orange black tea in Seattle's Pike Place Market, then brought it to the bar and started playing around with infusions. Our tea-infused sweet vermouth has proven to be a key ingredient in various stirred drinks and punches.—BM
+    notes: |+2
+      I found an incredible cinnamon-orange black tea in Seattle's Pike Place Market, then brought it to the bar and started playing around with infusions. Our tea-infused sweet vermouth has proven to be a key ingredient in various stirred drinks and punches.—BM
     glassware: coupe
     ingredients:
     - 2 ounces Bernheim Wheat Whiskey
@@ -4910,7 +5162,8 @@ recipes:
   - name: Buffalo Soldier
     author: Brian Miller
     year: 2008
-    notes: The Pecan-Infused bourbon tasted great on its own, but it needed some fat. I tried pretty much every sweetener at the bar and finally settled on Demerara syrup.—BM
+    notes: |+2
+      The Pecan-Infused bourbon tasted great on its own, but it needed some fat. I tried pretty much every sweetener at the bar and finally settled on Demerara syrup.—BM
     glassware: double rocks
     ingredients:
     - 2 ounces Pecan-Infused Buffalo Trace Bourbon
@@ -4925,7 +5178,8 @@ recipes:
   - name: Carroll Gardens
     author: Joaquín Simó
     year: 2008
-    notes: This is one of several D&C spin-offs on the Brooklyn cocktail, in this case named after the borough's Italian-american neighborhood.—JS
+    notes: |+2
+      This is one of several D&C spin-offs on the Brooklyn cocktail, in this case named after the borough's Italian-american neighborhood.—JS
     glassware: coupe
     ingredients:
     - 2 ounces Rittenhouse 100 Rye
@@ -4944,7 +5198,8 @@ recipes:
   - name: Coffee and Cigarettes
     author: Thomas Waugh
     year: 2011
-    notes: I'd never seen a variation on the classic Rob Roy made with coffee liqueur. It's such a simple idea, but it completely changes the drink.—TW
+    notes: |+2
+      I'd never seen a variation on the classic Rob Roy made with coffee liqueur. It's such a simple idea, but it completely changes the drink.—TW
     glassware: martini
     ingredients:
     - 2 ounces Caol Ila 12-Year Scotch
@@ -4961,7 +5216,8 @@ recipes:
   - name: Cure for Pain
     author: Brian Miller
     year: 2009
-    notes: I created this twist on the Boulevardier in honor of one of our longtime regulars, Anthony Sarnicola.—BM
+    notes: |+2
+      I created this twist on the Boulevardier in honor of one of our longtime regulars, Anthony Sarnicola.—BM
     glassware: coupe
     ingredients:
     - 1½ ounces Rittenhouse 100 Rye
@@ -4980,7 +5236,8 @@ recipes:
   - name: The Dangerous Summer
     author: Joaquín Simó
     year: 2009
-    notes: This stirred variation of the classic Blood and Sand is named after a Hemingway book about bullfighters. I replaced the rich Cherry Heering with dry cherry brandy and the orange juice with blood orange liqueur.—JS
+    notes: |+2
+      This stirred variation of the classic Blood and Sand is named after a Hemingway book about bullfighters. I replaced the rich Cherry Heering with dry cherry brandy and the orange juice with blood orange liqueur.—JS
     glassware: martini
     ingredients:
     - 1½ ounces Yamazaki 12-Year Whiskey
@@ -4998,7 +5255,8 @@ recipes:
   - name: Faithful Scotsman
     author: Joaquín Simó
     year: 2008
-    notes: The name of this single-serving, Scotch-based punch is derived from the medieval notion that cumin keeps chickens—and husbands—from straying from the coop.—JS
+    notes: |+2
+      The name of this single-serving, Scotch-based punch is derived from the medieval notion that cumin keeps chickens—and husbands—from straying from the coop.—JS
     glassware: double rocks
     ingredients:
     - 1½ ounces Compass Box Asyla Scotch
@@ -5016,7 +5274,8 @@ recipes:
   - name: Four in Hand
     author: Scott Teague
     year: 2013
-    notes: This is a no-apologies, complicated, high-proof drink—the kind Death & Co is famous for making.—ST
+    notes: |+2
+      This is a no-apologies, complicated, high-proof drink—the kind Death & Co is famous for making.—ST
     glassware: rocks
     ingredients:
     - ¾ ounce Old Grand-Dad 114 Bourbon
@@ -5036,7 +5295,8 @@ recipes:
   - name: La Dolce Vita
     author: Thomas Waugh
     year: 2008
-    notes: This is a variation on the Old Pal, with St-Germain in place of vermouth. It's a great example of the kind of simple drink we come up with using the stuff we find in our home bars.—TW
+    notes: |+2
+      This is a variation on the Old Pal, with St-Germain in place of vermouth. It's a great example of the kind of simple drink we come up with using the stuff we find in our home bars.—TW
     glassware: double rocks
     ingredients:
     - 2 ounces Chamomile-Infused Old Overholt Rye Whiskey
@@ -5051,7 +5311,8 @@ recipes:
   - name: La Viña
     author: Alex Day
     year: 2009
-    notes: For this, my first foray into lower-alcohol cocktails, I used two of my pet ingredients - sherry and Amaro Nonino. It tastes similar to a Manhattan but much lighter—AD
+    notes: |+2
+      For this, my first foray into lower-alcohol cocktails, I used two of my pet ingredients - sherry and Amaro Nonino. It tastes similar to a Manhattan but much lighter—AD
     glassware: coupe
     ingredients:
     - 1 ounce Russell's Reserve Rye
@@ -5067,7 +5328,8 @@ recipes:
   - name: Manhattan Transfer
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Rittenhouse 100 Rye
@@ -5083,7 +5345,8 @@ recipes:
   - name: Scotch Dram
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Compass Box Asyla Scotch
@@ -5099,7 +5362,8 @@ recipes:
   - name: Shruff's End
     author: Phil Ward
     year: 2008
-    notes: Bénédictine can make almost any two ingredients love each other. Here it's the perfect bridge between peaty Scotch and apply brandy. The result tastes like a smoked apple.—PW
+    notes: |+2
+      Bénédictine can make almost any two ingredients love each other. Here it's the perfect bridge between peaty Scotch and apply brandy. The result tastes like a smoked apple.—PW
     glassware: coupe
     ingredients:
     - 1 ounce Laphroaig 10-Year Scotch
@@ -5116,7 +5380,8 @@ recipes:
   - name: St Columb's Rill
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Bushmills Irish Whiskey
@@ -5132,7 +5397,8 @@ recipes:
   - name: Sweet and Vicious
     author: Alex Day
     year: 2008
-    notes: Using muddled apples quickly infuses this variation on the Manhattan with their bright, yeasty flavor, giving it a light quality.—AD
+    notes: |+2
+      Using muddled apples quickly infuses this variation on the Manhattan with their bright, yeasty flavor, giving it a light quality.—AD
     glassware: coupe
     ingredients:
     - 2 fuji apple slices
@@ -5151,7 +5417,8 @@ recipes:
   - name: Tea in the Sahara
     author: Brian Miller
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1 lemon coin with a bit of pith
@@ -5169,7 +5436,8 @@ recipes:
   - name: Trembling Bell
     author: Thomas Waugh
     year: 2012
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Chamomile-Infused Old Overholt Rye Whiskey
@@ -5188,7 +5456,8 @@ recipes:
   - name: Wicked Kiss
     author: Phil Ward
     year: 2007
-    notes: This variation on the classic Widow's Kiss was one of the first drinks I developed for the original Death & Co menu.—PW
+    notes: |+2
+      This variation on the classic Widow's Kiss was one of the first drinks I developed for the original Death & Co menu.—PW
     glassware: coupe
     ingredients:
     - 1 ounce Rittenhouse 100 Rye
@@ -5206,7 +5475,8 @@ recipes:
   - name: Banana Cognac
     author: Tyson Buhler
     year: 2013
-    notes: Inspired by a Dave Chappelle sketch, this concept drink uses Avuá Amburana, which has awesome fruit and chocolate notes that you don't find in other cachaças.—TB
+    notes: |+2
+      Inspired by a Dave Chappelle sketch, this concept drink uses Avuá Amburana, which has awesome fruit and chocolate notes that you don't find in other cachaças.—TB
     glassware: pilsner
     ingredients:
     - 1 ounce Pierre Ferrand 1840 Cognac
@@ -5228,7 +5498,8 @@ recipes:
   - name: Don't Sit Under the Apple Tree
     author: Brian Miller
     year: 2008
-    notes: I use only the flavorful cores and peels of apples to make the braeburn syrup in this cocktail.—BM
+    notes: |+2
+      I use only the flavorful cores and peels of apples to make the braeburn syrup in this cocktail.—BM
     glassware: coupe
     ingredients:
     - 2 ounces Laird's Bonded Apple Brandy
@@ -5248,7 +5519,8 @@ recipes:
   - name: Enchanted Orchard
     author: Joaquín Simó
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1½ ounces Campo de Encanto Acholado Pisco
@@ -5269,7 +5541,8 @@ recipes:
   - name: Ginger Snap
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Pierre Ferrand Ambre Cognac
@@ -5288,7 +5561,8 @@ recipes:
   - name: Golden Gate
     author: Thomas Waugh
     year: 2009
-    notes: It may seem odd to use Grand Marnier as a base spirit, but it's a blend of cognac and triple sec, and it can work if you balance its richness with something bitter, like Campari, and lots of citrus juice.—TW
+    notes: |+2
+      It may seem odd to use Grand Marnier as a base spirit, but it's a blend of cognac and triple sec, and it can work if you balance its richness with something bitter, like Campari, and lots of citrus juice.—TW
     glassware: highball
     ingredients:
     - ¾ ounce Grand Marnier
@@ -5307,7 +5581,8 @@ recipes:
   - name: Heart-Shaped Box
     author: Brad Farran
     year: 2013 
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1 strawberry
@@ -5330,7 +5605,8 @@ recipes:
   - name: Hoi Polloi
     author: Jessica Gonzalez
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 1 ounce Hine H Cognac
@@ -5351,7 +5627,8 @@ recipes:
   - name: Joker's Wild
     author: Thomas Waugh
     year: 2011
-    notes: Pacharán is a basque liqueur flavored with sloe berries, coffee beans, and anise.—TW
+    notes: |+2
+      Pacharán is a basque liqueur flavored with sloe berries, coffee beans, and anise.—TW
     glassware: highball
     ingredients:
     - ½ ounce La Diablada Pisco
@@ -5372,7 +5649,8 @@ recipes:
   - name: Little Birdy
     author: Joaquín Simó
     year: 2009
-    notes: This is one that I call a “roast chicken” drink, meaning everyone likes it. I didn't name it after chicken, though, but for pisco, the Quechuan word for “bird.”—JS
+    notes: |+2
+      This is one that I call a “roast chicken” drink, meaning everyone likes it. I didn't name it after chicken, though, but for pisco, the Quechuan word for “bird.”—JS
     glassware: coupe
     ingredients:
     - 2 ounces Strawberry- and Pineapple-Infused Macchu Pisco
@@ -5390,7 +5668,8 @@ recipes:
   - name: Little Miss Annabelle
     author: Joaquín Simó
     year: 2009
-    notes: I named this variation on the Sidecar after the daughter of Alexandre Gabriel, who owns Pierre Ferrand. It has a rich mouthfeel for using such a small amount of sweetener.—JS
+    notes: |+2
+      I named this variation on the Sidecar after the daughter of Alexandre Gabriel, who owns Pierre Ferrand. It has a rich mouthfeel for using such a small amount of sweetener.—JS
     glassware: coupe
     ingredients:
     - 1 ounces Pierre Ferrand Ambre Cognac
@@ -5409,7 +5688,8 @@ recipes:
   - name: Maggie Smith
     author: Joaquín Simó
     year: 2009
-    notes: This is a variation on Between the Sheets, a classic cocktail that's a rarity in having a split base. Here, I've replaced the cognac with pisco.—JS
+    notes: |+2
+      This is a variation on Between the Sheets, a classic cocktail that's a rarity in having a split base. Here, I've replaced the cognac with pisco.—JS
     glassware: coupe
     ingredients:
     - 1 ounce Campo de Encanto Acholado Pisco
@@ -5429,7 +5709,8 @@ recipes:
   - name: Morning Buzz
     author: Jillian Vose
     year: 2012
-    notes: 
+    notes: |+2
+      
     glassware: fizz
     ingredients:
     - 1 ounce Hine H Cognac
@@ -5449,7 +5730,8 @@ recipes:
   - name: Mucho Picchu
     author: Joaquín Simó
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1½ ounces Macchu Pisco
@@ -5469,7 +5751,8 @@ recipes:
   - name: Peachy Pachacuti
     author: Thomas Waugh
     year: 2011
-    notes: I created the drink for a pisco cocktail competition in Peru, using greek yogurt instead of egg whites. I named it after an Inca emperor, figuring that would increase my chances of winning. Unfortunately, I forgot to add the yogurt when I made the drink for the judges, and they hated it.—TW
+    notes: |+2
+      I created the drink for a pisco cocktail competition in Peru, using greek yogurt instead of egg whites. I named it after an Inca emperor, figuring that would increase my chances of winning. Unfortunately, I forgot to add the yogurt when I made the drink for the judges, and they hated it.—TW
     glassware: snifter
     ingredients:
     - 3 ripe peach slices
@@ -5490,7 +5773,8 @@ recipes:
   - name: Poire Man's Cobbler
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - ¼ ripe bartlett pear, cubed
@@ -5509,7 +5793,8 @@ recipes:
   - name: Port Authority
     author: Thomas Waugh
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 4 blackberries
@@ -5530,7 +5815,8 @@ recipes:
   - name: Sloe Scobeyville Sling
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 2 ounces Laird's Bonded Apple Brandy
@@ -5551,7 +5837,8 @@ recipes:
   - name: Solera Sidecar
     author: Joaquín Simó
     year: 2009
-    notes: This play on the Sidecar tastes like a dessert pastry. The sherry lends a nutty flavor, the amaro provides a biscotti note, and the cognac is fruity and floral.—JS
+    notes: |+2
+      This play on the Sidecar tastes like a dessert pastry. The sherry lends a nutty flavor, the amaro provides a biscotti note, and the cognac is fruity and floral.—JS
     glassware: coupe
     ingredients:
     - 1½ ounces Hine H Cognac
@@ -5570,7 +5857,8 @@ recipes:
   - name: Stick the Landing
     author: Brad Farran
     year: 2012 
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 ounce Louis Royer Force 53 Cognac
@@ -5590,7 +5878,8 @@ recipes:
   - name: Black Magic
     author: Thomas Waugh
     year: 2009
-    notes: This drink isn't as harsh as the recipe makes it look. The minute amounts of absinthe and fernet add a light herbaceous note to the duo of brandy and crème de menthe in the classic Stinger cocktail.—TW
+    notes: |+2
+      This drink isn't as harsh as the recipe makes it look. The minute amounts of absinthe and fernet add a light herbaceous note to the duo of brandy and crème de menthe in the classic Stinger cocktail.—TW
     glassware: coupe
     ingredients:
     - Vieux Pontarlier Absinthe 
@@ -5610,7 +5899,8 @@ recipes:
   - name: Black Market Brandy
     author: Joaquín Simó
     year: 2008
-    notes: Vermouth infused with Market Spice cinnamon-orange tea has become one of D&C's signature ingredients—everyone loves playing with it. This is my brandy version of Brian's Black Market Manhattan.—JS
+    notes: |+2
+      Vermouth infused with Market Spice cinnamon-orange tea has become one of D&C's signature ingredients—everyone loves playing with it. This is my brandy version of Brian's Black Market Manhattan.—JS
     glassware: coupe
     ingredients:
     - 1 ounce Laird's Bonded Apple Brandy
@@ -5628,7 +5918,8 @@ recipes:
   - name: Castle of Córdoba
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - ¾ ounce Busnel VSOP Calvados
@@ -5645,7 +5936,8 @@ recipes:
   - name: Jarnac Shrub
     author: Toby Cecchini
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Hine H Cognac
@@ -5662,7 +5954,8 @@ recipes:
   - name: Legend
     author: Jillian Vose
     year: 2012
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 ounce Pierre Ferrand 1840 Cognac
@@ -5681,7 +5974,8 @@ recipes:
   - name: Les Verts Monts
     author: Jillian Vose
     year: 2013
-    notes: This drink showcases the many ways we use grape-based ingredients behind the bar, combining the best products from france and spain.—JV
+    notes: |+2
+      This drink showcases the many ways we use grape-based ingredients behind the bar, combining the best products from france and spain.—JV
     glassware: nick & nora
     ingredients:
     - 1 ounce Tariquet VS Classique Bas-Armagnac
@@ -5703,7 +5997,8 @@ recipes:
   - name: Lilywhacker
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Laird's Bonded Apple Brandy
@@ -5719,7 +6014,8 @@ recipes:
   - name: Little Sparrow
     author: Brian Miller
     year: 2008
-    notes: I didn't think this drink would be as popular as it is, but when St-Germain is involved, you never know. I cut the calvados with a bit of Laird's because otherwise it would taste too sweet; Laird's is good for drying drinks out.—BM
+    notes: |+2
+      I didn't think this drink would be as popular as it is, but when St-Germain is involved, you never know. I cut the calvados with a bit of Laird's because otherwise it would taste too sweet; Laird's is good for drying drinks out.—BM
     glassware: coupe
     ingredients:
     - 2 ounces Busnel VSOP Calvados
@@ -5737,7 +6033,8 @@ recipes:
   - name: Martica
     author: Phil Ward
     year: 2007
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 ounce Hine H Cognac
@@ -5754,7 +6051,8 @@ recipes:
   - name: Night Owl
     author: Alex Day
     year: 2009
-    notes: This Manhattan variation uses Batavia-Arrack Van Oosten as a modifier, which adds a bit of complexity without making the drink too funky.—AD
+    notes: |+2
+      This Manhattan variation uses Batavia-Arrack Van Oosten as a modifier, which adds a bit of complexity without making the drink too funky.—AD
     glassware: coupe
     ingredients:
     - 2 ounces Pierre Ferrand Ambre Cognac
@@ -5771,7 +6069,8 @@ recipes:
   - name: Sade's Taboo
     author: Jessica Gonzalez
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Hine H Cognac
@@ -5787,7 +6086,8 @@ recipes:
   - name: Sidewinder
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Hine H Cognac
@@ -5805,7 +6105,8 @@ recipes:
   - name: Soul Clench
     author: Jillian Vose
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 ounces Waqar Pisco
@@ -5823,7 +6124,8 @@ recipes:
   - name: Sweet Hereafter
     author: Joaquín Simó
     year: 2009
-    notes: This is the opposite of a pisco sour. Instead of shaking the drink with citrus and egg whites, which can blanket the flavors of pisco, I showcased its fruit and floral notes by stirring it with vermouth and Cocchi Americano, an aperitif flavored with cinchona bark and orange.—JS
+    notes: |+2
+      This is the opposite of a pisco sour. Instead of shaking the drink with citrus and egg whites, which can blanket the flavors of pisco, I showcased its fruit and floral notes by stirring it with vermouth and Cocchi Americano, an aperitif flavored with cinchona bark and orange.—JS
     glassware: coupe
     ingredients:
     - 1 grapefruit twist
@@ -5842,7 +6144,8 @@ recipes:
   - name: Widow's Laurel
     author: Joaquín Simó
     year: 2009
-    notes: A riff on the Widow's Kiss cocktail, which dates back to 1895, this version is spicier and less boozy.—JS
+    notes: |+2
+      A riff on the Widow's Kiss cocktail, which dates back to 1895, this version is spicier and less boozy.—JS
     glassware: coupe
     ingredients:
     - 2 ounces Busnel VSOP Calvados
@@ -5861,7 +6164,8 @@ recipes:
   - name: The Bittenbender
     author: Jillian Vose
     year: 2013
-    notes: This started as a punch that was quite rich. I think it works even better as a cocktail.—JV
+    notes: |+2
+      This started as a punch that was quite rich. I think it works even better as a cocktail.—JV
     glassware: snifter
     ingredients:
     - 4 raspberries
@@ -5886,7 +6190,8 @@ recipes:
   - name: Bitter French
     author: Phil Ward
     year: 2008
-    notes: In my opinion, this French 75 variation is the best beginner Campari drink in history.—PW
+    notes: |+2
+      In my opinion, this French 75 variation is the best beginner Campari drink in history.—PW
     glassware: flute
     ingredients:
     - 1 ounce Plymouth gin
@@ -5908,7 +6213,8 @@ recipes:
   - name: Boomin' Granny
     author: Jillian Vose
     year: 2012
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1½ ounces Hine H Cognac
@@ -5928,7 +6234,8 @@ recipes:
   - name: Calva Dorsa Royale
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Busnel VSOP Calvados
@@ -5946,7 +6253,8 @@ recipes:
   - name: Cider House Rules
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - ¾ ounce Flor de Caña Extra-Dry White rum
@@ -5969,7 +6277,8 @@ recipes:
   - name: Dark 'n' Bubbly
     author: Joaquín Simó
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1½ ounces Gosling's Black Seal rum
@@ -5988,7 +6297,8 @@ recipes:
   - name: Dick and Jane
     author: Toby Cecchini
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1½ ounces Tanqueray No. Ten gin
@@ -6010,7 +6320,8 @@ recipes:
   - name: Dirty Mary, Crazy Larry
     author: Thomas Waugh
     year: 2012
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 2 ounces Laird's Bonded Apple Brandy 
@@ -6026,7 +6337,8 @@ recipes:
   - name: Doc Daneeka Royale
     author: Alex Day
     year: 2008
-    notes: In my play on the French 75, I make it more about the gin and less about citrus. Grapefruit and maple syrup work so well together.—AD
+    notes: |+2
+      In my play on the French 75, I make it more about the gin and less about citrus. Grapefruit and maple syrup work so well together.—AD
     glassware: coupe
     ingredients:
     - 2 ounces Plymouth gin
@@ -6048,7 +6360,8 @@ recipes:
   - name: Dragon Lily
     author: Joaquín Simó
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1½ ounces Siembra Azul Blanco Tequila
@@ -6066,7 +6379,8 @@ recipes:
   - name: Drunken Skull
     author: Brian Miller
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - ¾ ounce El Dorado 12-Year rum
@@ -6087,7 +6401,8 @@ recipes:
   - name: Elder Fashion Royale
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1½ ounces Plymouth gin
@@ -6106,7 +6421,8 @@ recipes:
   - name: Fair Lady
     author: Jillian Vose
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1 ounce Sage-Infused Dolin Blanc vermouth
@@ -6126,7 +6442,8 @@ recipes:
   - name: Fancy Holland Royale
     author: Thomas Waugh
     year: 2008
-    notes: This started as a genever-based martini, then Phil topped it with champagne.—TW
+    notes: |+2
+      This started as a genever-based martini, then Phil topped it with champagne.—TW
     glassware: flute
     ingredients:
     - 1½ ounces Bols Genever
@@ -6145,7 +6462,8 @@ recipes:
   - name: Flaquita
     author: Jessica Gonzalez
     year: 2011
-    notes: Flaquita was my nickname back when I worked in restaurant kitchens in Florida. I was determined to make tequila and champagne like each other, and the combination of chocolate liqueur and Campari did the trick.—JG
+    notes: |+2
+      Flaquita was my nickname back when I worked in restaurant kitchens in Florida. I was determined to make tequila and champagne like each other, and the combination of chocolate liqueur and Campari did the trick.—JG
     glassware: flute
     ingredients:
     - 1 ounce El Tesoro Platinum Tequila
@@ -6167,7 +6485,8 @@ recipes:
   - name: Green Flash
     author: Brian Miller
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1½ ounces Rhum JM 100-Proof Agricole Blanc
@@ -6188,7 +6507,8 @@ recipes:
   - name: Irish Seelbach
     author: Alex Day
     year: 2009
-    notes: A variation on the seelbach, a classic champagne drink from the Seelbach hotel in Louisville, Kentucky.—AD
+    notes: |+2
+      A variation on the seelbach, a classic champagne drink from the Seelbach hotel in Louisville, Kentucky.—AD
     glassware: flute
     ingredients:
     - 1 ounce Clontarf 1014 Irish Whiskey
@@ -6208,7 +6528,8 @@ recipes:
   - name: Iron Chancellor
     author: Joaquín Simó
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 2 ounces Mackeson Stout
@@ -6225,7 +6546,8 @@ recipes:
   - name: Jane Rose
     author: Joaquín Simó
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 ounce Laird's Bonded Apple Brandy
@@ -6245,7 +6567,8 @@ recipes:
   - name: Julien Sorel
     author: Phil Ward
     year: 2008
-    notes: A variation on the Last Word, with champagne (and simply the worst drink name ever).—PW
+    notes: |+2
+      A variation on the Last Word, with champagne (and simply the worst drink name ever).—PW
     glassware: flute
     ingredients:
     - ½ ounce Courvoisier Cognac
@@ -6266,7 +6589,8 @@ recipes:
   - name: Lily's Cartel
     author: Eryn Reece
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1 ounce Macchu Pisco
@@ -6287,7 +6611,8 @@ recipes:
   - name: Live Free or Die
     author: Joaquín Simó
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1½ ounces Eagle Rare 10-Year Bourbon
@@ -6307,7 +6632,8 @@ recipes:
   - name: Mig Royale
     author: Phil Ward
     year: 2007
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 ounce Plymouth gin
@@ -6327,7 +6653,8 @@ recipes:
   - name: Miss Behavin'
     author: Brian Miller
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - ¾ ounce Clear Creek Pear Brandy
@@ -6348,7 +6675,8 @@ recipes:
   - name: Morfeo
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1½ ounces Chamomile-Infused Old Overholt Rye Whiskey
@@ -6368,7 +6696,8 @@ recipes:
   - name: North by Northwest
     author: Brian Miller
     year: 2008
-    notes: When developing this cocktail, I tried to imagine something Cary Grant would drink at The Plaza Hotel. The name comes from the title of the movie in which he fittingly says, “I've got a job, a secretary, a mother, two ex-wives, and several bartenders that depend on me…”—BM
+    notes: |+2
+      When developing this cocktail, I tried to imagine something Cary Grant would drink at The Plaza Hotel. The name comes from the title of the movie in which he fittingly says, “I've got a job, a secretary, a mother, two ex-wives, and several bartenders that depend on me…”—BM
     glassware: flute
     ingredients:
     - 1½ ounces Aviation gin
@@ -6388,7 +6717,8 @@ recipes:
   - name: Pillow Talk
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1½ ounces Beefeater 24 London Dry gin
@@ -6409,7 +6739,8 @@ recipes:
   - name: Radio Days
     author: Alex Day
     year: 2013
-    notes: I like splitting an aperitif wine with gin to make the base for champagne drinks.—AD
+    notes: |+2
+      I like splitting an aperitif wine with gin to make the base for champagne drinks.—AD
     glassware: coupe
     ingredients:
     - 1 orange crescent
@@ -6433,7 +6764,8 @@ recipes:
   - name: Run for the Roses
     author: Joaquín Simó
     year: 2012
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - ½ ounce Knappogue Castle 12-Year Irish Whiskey 
@@ -6452,7 +6784,8 @@ recipes:
   - name: Seda de Naranja
     author: Phil Ward
     year: 2007
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - ¾ ounce El Tesoro Reposado Tequila
@@ -6470,7 +6803,8 @@ recipes:
   - name: South Sider
     author: Alex Day
     year: 2009
-    notes: This drink is inspired by the Chicago Cocktail from the iconic New York speakeasy Milk & Honey, which is essentially a rum Manhattan. The splash of champagne acts more like a garnish, lightening up the drink a bit.—AD
+    notes: |+2
+      This drink is inspired by the Chicago Cocktail from the iconic New York speakeasy Milk & Honey, which is essentially a rum Manhattan. The splash of champagne acts more like a garnish, lightening up the drink a bit.—AD
     glassware: coupe
     ingredients:
     - 2 ounces El Dorado 12-Year rum
@@ -6490,7 +6824,8 @@ recipes:
   - name: Susie Q
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - 1½ ounces Busnel VSOP Calvados
@@ -6512,7 +6847,8 @@ recipes:
   - name: Trapeze
     author: Thomas Waugh
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: flute
     ingredients:
     - ½ ounce Royal Combier
@@ -6533,7 +6869,8 @@ recipes:
   - name: Café Sandinista
     author: Joaquín Simó
     year: 2012
-    notes: This is an example of how to get a lot of flavor and texture into a drink without a ton of booze.—JS
+    notes: |+2
+      This is an example of how to get a lot of flavor and texture into a drink without a ton of booze.—JS
     glassware: double rocks
     ingredients:
     - 1 ounce Lustau East India Solera sherry
@@ -6554,7 +6891,8 @@ recipes:
   - name: Cynaro de Bergerac
     author: Brad Farran
     year: 2013
-    notes: This is a concept drink that started with the name and the combination of Cynar and red wine from France's Bergerac region. I bridged the two unlikely partners with black strap rum and Demerara syrup to create our Bergerac Mix, which has since been used in other drinks.—BF
+    notes: |+2
+      This is a concept drink that started with the name and the combination of Cynar and red wine from France's Bergerac region. I bridged the two unlikely partners with black strap rum and Demerara syrup to create our Bergerac Mix, which has since been used in other drinks.—BF
     glassware: nick & nora
     ingredients:
     - 1½ ounces bergerac mix
@@ -6574,7 +6912,8 @@ recipes:
   - name: Derby Girl
     author: Jillian Vose
     year: 2013
-    notes: Juleps are typically such boozy, one-and-done affairs. I created this to be a lower-octane, aperitif-style julep.—JV
+    notes: |+2
+      Juleps are typically such boozy, one-and-done affairs. I created this to be a lower-octane, aperitif-style julep.—JV
     glassware: julep tin
     ingredients:
     - 3 small nectarine slices
@@ -6596,7 +6935,8 @@ recipes:
   - name: Fair Fault
     author: Tyson Buhler
     year: 2013
-    notes: This cocktail is inspired by a vintage british drink called the treacle, which is a rum Old-Fashioned topped with a layer of apple juice. The black strap rum float in my version is almost like topping the drink with pancake syrup. First you smell the rum's massive molasses aromas, then the acidic Pineau des Charentes, an aperitif made with grape must and cognac, cuts right through it.—TB
+    notes: |+2
+      This cocktail is inspired by a vintage british drink called the treacle, which is a rum Old-Fashioned topped with a layer of apple juice. The black strap rum float in my version is almost like topping the drink with pancake syrup. First you smell the rum's massive molasses aromas, then the acidic Pineau des Charentes, an aperitif made with grape must and cognac, cuts right through it.—TB
     glassware: port glass
     ingredients:
     - 2 ounces Pasquet Pineau des Charentes
@@ -6617,7 +6957,8 @@ recipes:
   - name: Have At It
     author: Alex Day
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 1½ ounces Williams & Humbert Dry Sack Medium sherry
@@ -6640,7 +6981,8 @@ recipes:
   - name: Melancholy Summer
     author: Eryn Reece
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: nick & nora
     ingredients:
     - 2 cucumber wheels
@@ -6664,7 +7006,8 @@ recipes:
   - name: Midnight Mountain
     author: Brad Farran
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1½ ounces Amaro Nardini
@@ -6682,7 +7025,8 @@ recipes:
   - name: Schuman's Alley
     author: Jillian Vose
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: nick & nora
     ingredients:
     - ¾ ounce Contratta Vermouth Bianco
@@ -6702,7 +7046,8 @@ recipes:
   - name: Shoots and Ladders
     author: Eryn Reece
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: rocks
     ingredients:
     - 1½ ounces Basil-Infused Dolin Blanc vermouth
@@ -6719,7 +7064,8 @@ recipes:
   - name: Stringer Bell
     author: Tyson Buhler
     year: 2013
-    notes: This was going to be a light, aperitif-style drink built around sherry and celery, but I made it spicy and vegetal with chile-infused tequila and Cynar.—TB
+    notes: |+2
+      This was going to be a light, aperitif-style drink built around sherry and celery, but I made it spicy and vegetal with chile-infused tequila and Cynar.—TB
     glassware: double rocks
     ingredients:
     - 1½ ounces Lustau Amontillado sherry
@@ -6742,7 +7088,8 @@ recipes:
   - name: Arrack Punch
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: punch bowl
     ingredients:
     - 16 demerara sugar cubes
@@ -6766,7 +7113,8 @@ recipes:
   - name: Billingsley Punch
     author: Alex Day
     year: 2009
-    notes: I wanted to build a punch around Aperol, so I paired it with a bunch of refreshing flavors, which always works with this aperitif. The combination of gin, Aperol, and grapefruit is something we use a lot. It turned out to be quite a festive punch, so I named it after sherman billingsley, an ex-bootlegger who owned New York's famously festive stork club.—AD
+    notes: |+2
+      I wanted to build a punch around Aperol, so I paired it with a bunch of refreshing flavors, which always works with this aperitif. The combination of gin, Aperol, and grapefruit is something we use a lot. It turned out to be quite a festive punch, so I named it after sherman billingsley, an ex-bootlegger who owned New York's famously festive stork club.—AD
     glassware: punch bowl
     ingredients:
     - 12 White sugar cubes
@@ -6790,7 +7138,8 @@ recipes:
   - name: Bloodhound Punch
     author: Jason Littrell
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: punch bowl
     ingredients:
     - 8 ounces Elijah Craig 12-Year Bourbon
@@ -6812,7 +7161,8 @@ recipes:
   - name: Bookhouse Boys Punch
     author: Jessica Gonzalez
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: punch bowl
     ingredients:
     - 3 ounces Chamomile-Infused Old Overholt Rye Whiskey
@@ -6837,7 +7187,8 @@ recipes:
   - name: Drunken Punch
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: punch bowl
     ingredients:
     - 12 demerara sugar cubes
@@ -6861,7 +7212,8 @@ recipes:
   - name: East River Underground
     author: Phil Ward
     year: 2012
-    notes: I love how La Favorite plays with Jalapeño-Infused tequila, so I made up this punch on my subway ride to one of our tastings.—PW
+    notes: |+2
+      I love how La Favorite plays with Jalapeño-Infused tequila, so I made up this punch on my subway ride to one of our tastings.—PW
     glassware: punch bowl
     ingredients:
     - 18 White sugar cubes
@@ -6886,7 +7238,8 @@ recipes:
   - name: Evil Dead Punch
     author: Brad Farran
     year: 2012
-    notes: One Halloween night I was kind of drunk and challenged myself to use 3 ounces of St-Germain in a drink. The result was a somewhat voluminous punch.—BF
+    notes: |+2
+      One Halloween night I was kind of drunk and challenged myself to use 3 ounces of St-Germain in a drink. The result was a somewhat voluminous punch.—BF
     glassware: punch bowl
     ingredients:
     - 6 ounces Santa Teresa 1796 rum
@@ -6914,7 +7267,8 @@ recipes:
   - name: Hoist the Colours Punch
     author: Brian Miller
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: punch bowl
     ingredients:
     - 9 White sugar cubes
@@ -6940,7 +7294,8 @@ recipes:
   - name: Jersey Lightning
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: punch bowl
     ingredients:
     - 12 White sugar cubes
@@ -6962,7 +7317,8 @@ recipes:
   - name: Kill-Devil Punch
     author: Phil Ward
     year: 2008
-    notes: We originally made this punch extra festive by freezing raspberries in large cubes of ice. But then nobody wanted to deal with making the raspberry ice cubes, so we killed the idea.—PW
+    notes: |+2
+      We originally made this punch extra festive by freezing raspberries in large cubes of ice. But then nobody wanted to deal with making the raspberry ice cubes, so we killed the idea.—PW
     glassware: punch bowl
     ingredients:
     - 12 White sugar cubes
@@ -6987,7 +7343,8 @@ recipes:
   - name: La Fée Noir Punch
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: punch bowl
     ingredients:
     - 9 White sugar cubes
@@ -7012,7 +7369,8 @@ recipes:
   - name: Lights Out Punch
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: punch bowl
     ingredients:
     - 6 ounces Centinela Reposado Tequila
@@ -7037,7 +7395,8 @@ recipes:
   - name: Lust For Life Punch
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: punch bowl
     ingredients:
     - 9 demerara sugar cubes
@@ -7063,7 +7422,8 @@ recipes:
   - name: Mother's Ruin Punch
     author: Phil Ward
     year: 2008
-    notes: This was one of our very first punches. Traditionally punch is made with some kind of spice element, satisfied here with a tea infusion, which was a real game changer for us.—PW
+    notes: |+2
+      This was one of our very first punches. Traditionally punch is made with some kind of spice element, satisfied here with a tea infusion, which was a real game changer for us.—PW
     glassware: punch bowl
     ingredients:
     - 8 White sugar cubes
@@ -7088,7 +7448,8 @@ recipes:
   - name: Nuts and Sherry Punch
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: punch bowl
     ingredients:
     - 8 White sugar cubes
@@ -7113,7 +7474,8 @@ recipes:
   - name: P-Five Punch
     author: Tyson Buhler
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: punch bowl
     ingredients:
     - 12 White sugar cubes
@@ -7138,7 +7500,8 @@ recipes:
   - name: Pic-a-de-Crop Punch
     author: Jessica Gonzalez
     year: 2011
-    notes: The night before our menu tastings, we're often scrambling to come up with new drinks. On a whim, I thought apricot and Batavia-Arrack Van Oosten would pair well with the banana notes in the Plantation rum, and it worked out. This is intended to be a two-person punch, but you can easily double or triple it. Serves 2.—JG
+    notes: |+2
+      The night before our menu tastings, we're often scrambling to come up with new drinks. On a whim, I thought apricot and Batavia-Arrack Van Oosten would pair well with the banana notes in the Plantation rum, and it worked out. This is intended to be a two-person punch, but you can easily double or triple it. Serves 2.—JG
     glassware: punch bowl
     ingredients:
     - 2 ounces Plantation Barbados 5-year rum
@@ -7164,7 +7527,8 @@ recipes:
   - name: Pisco Punch
     author: Phil Ward
     year: 2008
-    notes: A lot of our punches are complex and boozy, but we also try to include an easy-drinking punch on every menu.—PW
+    notes: |+2
+      A lot of our punches are complex and boozy, but we also try to include an easy-drinking punch on every menu.—PW
     glassware: punch bowl
     ingredients:
     - 12 White sugar cubes
@@ -7186,7 +7550,8 @@ recipes:
   - name: Porfirian Punch
     author: Alex Day
     year: 2009
-    notes: Among sherry's many friends behind the bar is tequila. Doubling up on infusions gives this punch extra layers of complexity.—AD
+    notes: |+2
+      Among sherry's many friends behind the bar is tequila. Doubling up on infusions gives this punch extra layers of complexity.—AD
     glassware: punch bowl
     ingredients:
     - 9 White sugar cubes
@@ -7209,7 +7574,8 @@ recipes:
   - name: Razzle-Dazzle Punch
     author: Brad Farran
     year: 2013
-    notes: This punch combines two caraway-forward spirits - Old Overholt and Kümmel—BF
+    notes: |+2
+      This punch combines two caraway-forward spirits - Old Overholt and Kümmel—BF
     glassware: punch bowl
     ingredients:
     - 18 raspberries
@@ -7237,7 +7603,8 @@ recipes:
   - name: Rugby Punch
     author: Jessica Gonzalez
     year: 2009
-    notes: I so loved our green tea-infused Scotch that I created this punch to keep it around a bit longer.—JG
+    notes: |+2
+      I so loved our green tea-infused Scotch that I created this punch to keep it around a bit longer.—JG
     glassware: punch bowl
     ingredients:
     - 9 White sugar cubes
@@ -7263,7 +7630,8 @@ recipes:
   - name: Valley of Kings Punch
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: punch bowl
     ingredients:
     - 6 White sugar cubes
@@ -7288,7 +7656,8 @@ recipes:
   - name: Aperitivo julep
     author: Alex Day
     year: 2009
-    notes: This is basically a big glass of vermouth, but the amaro makes it seem more complex than it is. Peach and amaro get along famously.—AD
+    notes: |+2
+      This is basically a big glass of vermouth, but the amaro makes it seem more complex than it is. Peach and amaro get along famously.—AD
     glassware: julep tin
     ingredients:
     - 2 ounces Dolin Dry Vermouth
@@ -7309,7 +7678,8 @@ recipes:
   - name: Chamomile julep
     author: Phil Ward
     year: 2008
-    notes: I'd tasted a Chamomile-Infused grappa that I loved and decided to try the same thing with Old Overholt Rye Whiskey. The results blew my mind. I decided to show it off in its most naked form - a julep. It has since become one of our most-used infusions—PW
+    notes: |+2
+      I'd tasted a Chamomile-Infused grappa that I loved and decided to try the same thing with Old Overholt Rye Whiskey. The results blew my mind. I decided to show it off in its most naked form - a julep. It has since become one of our most-used infusions—PW
     glassware: julep tin
     ingredients:
     - 2 ounces Chamomile-Infused Old Overholt Rye Whiskey
@@ -7329,7 +7699,8 @@ recipes:
   - name: Double-Barrel Julep
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: julep tin
     ingredients:
     - 1½ ounces Old Grand-Dad 114 Bourbon
@@ -7353,7 +7724,8 @@ recipes:
   - name: Just Another Julep
     author: Brian Miller
     year: 2008
-    notes: The Kentucky-born humorist Irvin S. Cobb once said, “Any guy who'd put rye in a Mint Julep and crush the leaves would put scorpions in a baby's bed.” Taking this to heart, I rub the inside of the julep tin with mint leaves, then discard them before building the drink.—BM
+    notes: |+2
+      The Kentucky-born humorist Irvin S. Cobb once said, “Any guy who'd put rye in a Mint Julep and crush the leaves would put scorpions in a baby's bed.” Taking this to heart, I rub the inside of the julep tin with mint leaves, then discard them before building the drink.—BM
     glassware: julep tin
     ingredients:
     - 2 mint sprigs
@@ -7374,7 +7746,8 @@ recipes:
   - name: Maple Julep
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: julep tin
     ingredients:
     - 2 ounces Old Overholt Rye Whiskey
@@ -7394,7 +7767,8 @@ recipes:
   - name: Not-Quite-Georgia Julep
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: julep tin
     ingredients:
     - 1 ounce cognac
@@ -7416,7 +7790,8 @@ recipes:
   - name: Racketeer Julep
     author: Jessica Gonzalez
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: julep tin
     ingredients:
     - 1 mint sprig
@@ -7442,7 +7817,8 @@ recipes:
   - name: Smoked Julep
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: julep tin
     ingredients:
     - 1 ounce laphroaig 12-year Scotch
@@ -7464,7 +7840,8 @@ recipes:
   - name: Zihuatanejo Julep
     author: Brian Miller
     year: 2009
-    notes: Although no cinnamon is grated directly into the drink, grating the cinnamon stick before you use it to garnish the drink releases its aromas and makes it more fragrant when you stick it into the ice.—BM
+    notes: |+2
+      Although no cinnamon is grated directly into the drink, grating the cinnamon stick before you use it to garnish the drink releases its aromas and makes it more fragrant when you stick it into the ice.—BM
     glassware: julep tin
     ingredients:
     - 1 mint sprig
@@ -7484,7 +7861,8 @@ recipes:
   - name: Celine Fizz
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: fizz
     ingredients:
     - 2 ounces Plymouth gin
@@ -7504,7 +7882,8 @@ recipes:
   - name: Chinese Fizz
     author: Phil Ward
     year: 2008
-    notes: A fizz variation on The Chinese Cocktail from The Savoy Cocktail Book, by Harry Craddock.—PW
+    notes: |+2
+      A fizz variation on The Chinese Cocktail from The Savoy Cocktail Book, by Harry Craddock.—PW
     glassware: fizz
     ingredients:
     - 2 ounces Appleton Estate V/X rum
@@ -7527,7 +7906,8 @@ recipes:
   - name: Jack Sparrow Flip
     author: Brian Miller
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: fizz
     ingredients:
     - 2 ounces Flor de Caña 7-Year rum
@@ -7546,7 +7926,8 @@ recipes:
   - name: Jelly Roll Morton
     author: Thomas Waugh
     year: 2009
-    notes: We don't make a lot of flips at Death & Co (not everyone loves eggy cocktails, and they can make an awful mess behind the bar), but this jammy flip, named for the jazz musician, is a crowd-pleaser.—TW
+    notes: |+2
+      We don't make a lot of flips at Death & Co (not everyone loves eggy cocktails, and they can make an awful mess behind the bar), but this jammy flip, named for the jazz musician, is a crowd-pleaser.—TW
     glassware: coupe
     ingredients:
     - 1½ ounces Hine H Cognac
@@ -7566,7 +7947,8 @@ recipes:
   - name: Le Gigot Flip
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Santa Teresa 1796 rum
@@ -7586,7 +7968,8 @@ recipes:
   - name: Pearls Before Swine
     author: Joaquín Simó
     year: 2009
-    notes: I wanted to come up with a Ramos gin Fizz that was less of a pain in the ass to make (you have to shake them forever). Replacing the egg with yogurt and lemon curd did the trick.—JS
+    notes: |+2
+      I wanted to come up with a Ramos gin Fizz that was less of a pain in the ass to make (you have to shake them forever). Replacing the egg with yogurt and lemon curd did the trick.—JS
     glassware: coupe
     ingredients:
     - 2 ounces Martin Miller's Westbourne Strength gin
@@ -7606,7 +7989,8 @@ recipes:
   - name: Pit Stop Flip
     author: Alex Day
     year: 2008
-    notes: By nature, flips are rich and decadent. This drink is as well, but the madeira is light and stretches out the flavors to create a more delicate flip.—AD
+    notes: |+2
+      By nature, flips are rich and decadent. This drink is as well, but the madeira is light and stretches out the flavors to create a more delicate flip.—AD
     glassware: coupe
     ingredients:
     - 1½ ounces Laird's Bonded Apple Brandy
@@ -7625,7 +8009,8 @@ recipes:
   - name: Raisin Burn
     author: Thomas Waugh
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Dried Currant-Infused Wild Turkey Rye
@@ -7644,7 +8029,8 @@ recipes:
   - name: Saturday Morning Flip
     author: Joaquín Simó
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 ounce Appleton Estate V/X rum
@@ -7663,7 +8049,8 @@ recipes:
   - name: Sleepy Hollow Flip
     author: Brian Miller
     year: 2008
-    notes: This Halloween-inspired drink was the first of many D&C drinks named after Johnny Depp movies. Technically a “golden fizz,” this rich drink is stylistically more like a flip.—BM
+    notes: |+2
+      This Halloween-inspired drink was the first of many D&C drinks named after Johnny Depp movies. Technically a “golden fizz,” this rich drink is stylistically more like a flip.—BM
     glassware: fizz
     ingredients:
     - 1½ ounces Flor de Caña 7-Year rum
@@ -7685,7 +8072,8 @@ recipes:
   - name: 6th Street Swizzle
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 1½ ounces La Favorite Rhum Agricole Blanc
@@ -7705,7 +8093,8 @@ recipes:
   - name: Bourbonnais Swizzle
     author: Brian Miller
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 2 ounces Pecan-Infused Buffalo Trace Bourbon
@@ -7725,7 +8114,8 @@ recipes:
   - name: Cirque Swizzle
     author: Jessica Gonzalez
     year: 2011
-    notes: This drink's pretty pink color gives it a cotton candy-like appearance.—JG
+    notes: |+2
+      This drink's pretty pink color gives it a cotton candy-like appearance.—JG
     glassware: pilsner
     ingredients:
     - 1½ ounces Anchor Junipero gin
@@ -7747,7 +8137,8 @@ recipes:
   - name: Coffey Park Swizzle
     author: Alex Day
     year: 2008
-    notes: This was the first of many sherry cocktails I've created. It's my tribute to the Queen's Park Swizzle, the most classic drink in the category.—AD
+    notes: |+2
+      This was the first of many sherry cocktails I've created. It's my tribute to the Queen's Park Swizzle, the most classic drink in the category.—AD
     glassware: pilsner
     ingredients:
     - 1 ounce Barbancourt 3-Star rum
@@ -7772,7 +8163,8 @@ recipes:
   - name: DJ Flamethrower
     author: Joaquín Simó
     year: 2012
-    notes: Some of our favorite ingredient pairings are represented in this drink - grapefruit and cinnamon, tequila and chiles, and tequila and mezcal—JS
+    notes: |+2
+      Some of our favorite ingredient pairings are represented in this drink - grapefruit and cinnamon, tequila and chiles, and tequila and mezcal—JS
     glassware: pilsner
     ingredients:
     - 1 ounce Siete Leguas Reposado Tequila
@@ -7794,7 +8186,8 @@ recipes:
   - name: Dolly Dagger
     author: Alex Day
     year: 2009
-    notes: When used judiciously, vanilla syrup can add a lot of elegance to a drink. Here it softens a big, funky rum, making it play nice with the sherry.—AD
+    notes: |+2
+      When used judiciously, vanilla syrup can add a lot of elegance to a drink. Here it softens a big, funky rum, making it play nice with the sherry.—AD
     glassware: pilsner
     ingredients:
     - 1 ounce Smith & Cross Jamaican rum
@@ -7816,7 +8209,8 @@ recipes:
   - name: Dolores Park Swizzle
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 1 ounce El Tesoro Añejo Tequila
@@ -7838,7 +8232,8 @@ recipes:
   - name: Hyde Park Swizzle
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 3 or 4 mint sprigs
@@ -7862,7 +8257,8 @@ recipes:
   - name: Jalisco Swizzle
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 1½ ounces Siembra Azul Blanco Tequila
@@ -7883,7 +8279,8 @@ recipes:
   - name: Myra Beckinridge
     author: Phil Ward
     year: 2008
-    notes: Anthony Sarnicola, a regular at the bar, named this drink and described it as “a sex change for Laphroaig.”—PW
+    notes: |+2
+      Anthony Sarnicola, a regular at the bar, named this drink and described it as “a sex change for Laphroaig.”—PW
     glassware: pilsner
     ingredients:
     - 2 ounces laphroaig 10-year Scotch
@@ -7902,7 +8299,8 @@ recipes:
   - name: Park Life Swizzle
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 1 ounce Ransom Old Tom gin
@@ -7923,7 +8321,8 @@ recipes:
   - name: Robert Johnson Swizzle
     author: Brian Miller
     year: 2009
-    notes: Swizzling the bitters on top of the swizzle, instead of with the other ingredients, gives you a blast of aromatics as you sip the drink.—BM
+    notes: |+2
+      Swizzling the bitters on top of the swizzle, instead of with the other ingredients, gives you a blast of aromatics as you sip the drink.—BM
     glassware: pilsner
     ingredients:
     - 2 ounces Evan Williams Single-Barrel Bourbon
@@ -7946,7 +8345,8 @@ recipes:
   - name: Sangria Swizzle
     author: Thomas Waugh
     year: 2009
-    notes: Build this swizzle slowly; the wine needs time to marry with the currant-infused rye.—TW
+    notes: |+2
+      Build this swizzle slowly; the wine needs time to marry with the currant-infused rye.—TW
     glassware: pilsner
     ingredients:
     - 1½ ounces Dried Currant-Infused Wild Turkey Rye
@@ -7967,7 +8367,8 @@ recipes:
   - name: Snake Hips Swizzle
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: pilsner
     ingredients:
     - 1½ ounces Hine H Cognac
@@ -7992,7 +8393,8 @@ recipes:
   - name: Black Market Sling
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: highball
     ingredients:
     - 2 ounces Plymouth gin, Scarlet Ibis rum, Bernheim Wheat Whiskey, Rittenhouse 100 Rye, Laird's Bonded Apple Brandy, or Hine H Cognac
@@ -8014,7 +8416,8 @@ recipes:
   - name: Coin Toss
     author: Phil Ward
     year: 2008
-    notes: This was our original multiple-choice cocktail. It employs a template I've used to create a bunch of drinks - 2 ounces of booze, ¾ ounce of vermouth, and ½ ounce of something interesting—here split between Chartreuse and Bénédictine—PW
+    notes: |+2
+      This was our original multiple-choice cocktail. It employs a template I've used to create a bunch of drinks - 2 ounces of booze, ¾ ounce of vermouth, and ½ ounce of something interesting—here split between Chartreuse and Bénédictine—PW
     glassware: coupe
     ingredients:
     - 2 ounces Rittenhouse 100 Rye, Laird's Bonded Apple Brandy, Santa Teresa 1796 rum, Hine H Cognac, or Famous Grouse Scotch
@@ -8032,7 +8435,8 @@ recipes:
   - name: Electric Kool-Aid Test
     author: Phil Ward
     year: 2008
-    notes: This is a classic Mr. Potato Head spec. With gin it becomes a Ramble; with rum it's a Seersucker; and with apple brandy it's a Sloe Scobeyville Sling.—PW
+    notes: |+2
+      This is a classic Mr. Potato Head spec. With gin it becomes a Ramble; with rum it's a Seersucker; and with apple brandy it's a Sloe Scobeyville Sling.—PW
     glassware: pilsner
     ingredients:
     - 1 ounce Plymouth gin, Scarlet Ibis rum, Laird's Bonded Apple Brandy, or Siembra Azul Blanco Tequila
@@ -8052,7 +8456,8 @@ recipes:
   - name: Little Kingdom
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces El Tesoro Reposado Tequila, Beefeater London Dry gin, Compass Box Asyla Scotch, Rittenhouse 100 Rye, or Hine H Cognac
@@ -8069,7 +8474,8 @@ recipes:
   - name: St-Germain Redux
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: wine glass
     ingredients:
     - 1 ounce Beefeater London Dry gin, Appleton Estate V/X rum, Siembra Azul Blanco Tequila, Compass Box Asyla Scotch, calvados, or Hine H Cognac
@@ -8088,7 +8494,8 @@ recipes:
   - name: Great Northern
     author: Jessica Gonzalez
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 ounces Linie Aquavit
@@ -8107,7 +8514,8 @@ recipes:
   - name: One, One, One
     author: Thomas Waugh
     year: 2009
-    notes: This is a play on the Fitty-Fitty, an equal-parts martini popularized by Audrey Saunders at The Pegu Club, with the addition of aquavit.—TW
+    notes: |+2
+      This is a play on the Fitty-Fitty, an equal-parts martini popularized by Audrey Saunders at The Pegu Club, with the addition of aquavit.—TW
     glassware: coupe
     ingredients:
     - 1 ounce Krogstad Aquavit
@@ -8123,7 +8531,8 @@ recipes:
   - name: Over and Out
     author: Eryn Reece
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 ounce Krogstad Aquavit
@@ -8143,7 +8552,8 @@ recipes:
   - name: Slap 'n' Pickle
     author: Brian Miller
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 3 cucumber wheels
@@ -8165,7 +8575,8 @@ recipes:
   - name: Alembic
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: rocks
     ingredients:
     - Vieux Pontarlier Absinthe
@@ -8184,7 +8595,8 @@ recipes:
   - name: Bay City Roller
     author: Brian Miller
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 ounces Compass Box Asyla Scotch
@@ -8201,7 +8613,8 @@ recipes:
   - name: Cooper Union
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - Laphroaig 10-Year Scotch
@@ -8222,7 +8635,8 @@ recipes:
   - name: Creole Saz
     author: Joaquín Simó
     year: 2011
-    notes: This drink contains all things French - French absinthe, French cognac, French-colony rum, and bitters that originated in Haiti, a former French colony—JS
+    notes: |+2
+      This drink contains all things French - French absinthe, French cognac, French-colony rum, and bitters that originated in Haiti, a former French colony—JS
     glassware: rocks
     ingredients:
     - Vieux Pontarlier Absinthe
@@ -8243,7 +8657,8 @@ recipes:
   - name: Devil Inside
     author: Thomas Waugh
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: rocks
     ingredients:
     - Laphroaig 10-Year Scotch
@@ -8266,7 +8681,8 @@ recipes:
   - name: Enemy Lines
     author: Jillian Vose
     year: 2011
-    notes: Splitting aquavit and tequila is weird, but it works. You end up with a rich drink without using a lot of sugar.—JV
+    notes: |+2
+      Splitting aquavit and tequila is weird, but it works. You end up with a rich drink without using a lot of sugar.—JV
     glassware: rocks
     ingredients:
     - 1½ ounces Linie Aquavit
@@ -8286,7 +8702,8 @@ recipes:
   - name: Guns and Rosé
     author: Scott Teague
     year: 2013
-    notes: I like combining a high-proof spirit with something soft and delicate. Here it's a fiery overproof whiskey and an aperitif made with rosé.—ST
+    notes: |+2
+      I like combining a high-proof spirit with something soft and delicate. Here it's a fiery overproof whiskey and an aperitif made with rosé.—ST
     glassware: rocks
     ingredients:
     - 1½ ounces Old Grand-Dad 114 Bourbon
@@ -8305,7 +8722,8 @@ recipes:
   - name: Hallyday
     author: Thomas Waugh
     year: 2011
-    notes: Named after Johnny Hallyday, the French pop singer, this sazerac variation uses a quartet of French ingredients.—TW
+    notes: |+2
+      Named after Johnny Hallyday, the French pop singer, this sazerac variation uses a quartet of French ingredients.—TW
     glassware: rocks
     ingredients:
     - Vieux Pontarlier Absinthe 
@@ -8326,7 +8744,8 @@ recipes:
   - name: Latin Quarter
     author: Joaquín Simó
     year: 2008
-    notes: It's hard to predict which D&C drinks will be replicated elsewhere. This sazerac variation has ended up on the menus of cocktail bars all over world.—JS
+    notes: |+2
+      It's hard to predict which D&C drinks will be replicated elsewhere. This sazerac variation has ended up on the menus of cocktail bars all over world.—JS
     glassware: double rocks
     ingredients:
     - Vieux Pontarlier Absinthe
@@ -8348,7 +8767,8 @@ recipes:
   - name: Saz Who?
     author: Brian Miller
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1½ ounces Cruzan Single-Barrel rum
@@ -8370,7 +8790,8 @@ recipes:
   - name: Baltasar and Blimunda
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Beefeater London Dry gin
@@ -8388,7 +8809,8 @@ recipes:
   - name: Fail-Safe
     author: Scott Teague
     year: 2013
-    notes: Some drinks are just happy accidents. One night I saw several bottles sitting next to each other behind the bar, and I thought, why not? I started playing around with them in Negroni proportions, and it worked.—ST
+    notes: |+2
+      Some drinks are just happy accidents. One night I saw several bottles sitting next to each other behind the bar, and I thought, why not? I started playing around with them in Negroni proportions, and it worked.—ST
     glassware: double rocks
     ingredients:
     - ¾ ounce Perry's Tot Navy Strength gin
@@ -8406,7 +8828,8 @@ recipes:
   - name: House of Payne
     author: Phil Ward
     year: 2012
-    notes: Raspberries and Campari have a great affinity for each other, so I combined them, along with sloe gin, in this Negroni variation.—PW
+    notes: |+2
+      Raspberries and Campari have a great affinity for each other, so I combined them, along with sloe gin, in this Negroni variation.—PW
     glassware: double rocks
     ingredients:
     - 3 raspberries
@@ -8426,7 +8849,8 @@ recipes:
   - name: Kingston Negroni
     author: Joaquín Simó
     year: 2009
-    notes: I created this Negroni variation immediately after I first tasted Smith & Cross Jamaican rum. Only Carpano Antica has the balls to stand up to its intensity.—JS
+    notes: |+2
+      I created this Negroni variation immediately after I first tasted Smith & Cross Jamaican rum. Only Carpano Antica has the balls to stand up to its intensity.—JS
     glassware: double rocks
     ingredients:
     - 1 ounce Smith & Cross Jamaican rum
@@ -8443,7 +8867,8 @@ recipes:
   - name: Mañanita
     author: Joaquín Simó
     year: 2011
-    notes: In Oaxaca, it's customary to drink a small copita of mezcal, called a mañanita, before your morning coffee. This is probably the spiciest drink we've ever served.—JS
+    notes: |+2
+      In Oaxaca, it's customary to drink a small copita of mezcal, called a mañanita, before your morning coffee. This is probably the spiciest drink we've ever served.—JS
     glassware: double rocks
     ingredients:
     - 1 ounce Sombra Mezcal
@@ -8460,7 +8885,8 @@ recipes:
   - name: Range life
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces El Tesoro Reposado Tequila
@@ -8477,7 +8903,8 @@ recipes:
   - name: Uno, Dos, Tres
     author: Joaquín Simó
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Siembra Azul Reposado Tequila
@@ -8496,7 +8923,8 @@ recipes:
   - name: The Vanderbilt
     author: Scott Teague
     year: 2013
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1½ ounces Laird's Bonded Apple Brandy
@@ -8512,7 +8940,8 @@ recipes:
   - name: White Negroni
     author: Alex Day
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1½ ounces Fords gin
@@ -8530,7 +8959,8 @@ recipes:
   - name: Angus Story Daiquiri
     author: Phil Ward
     year: 2012
-    notes: The venerable British bartender Angus Winchester came in one night and asked me to make him a three-rum daiquiri. This is the result.—PW
+    notes: |+2
+      The venerable British bartender Angus Winchester came in one night and asked me to make him a three-rum daiquiri. This is the result.—PW
     glassware: coupe
     ingredients:
     - ¾ ounce Appleton Estate V/X rum
@@ -8550,7 +8980,8 @@ recipes:
   - name: Arrackuiri
     author: Phil Ward
     year: 2008
-    notes: When we first got Batavia-Arrack Van Oosten, nobody wanted to mess with it. I was determined to use it as a base spirit, though, so I mixed it with a spoonful of pomegranate molasses, which works micacles.—PW
+    notes: |+2
+      When we first got Batavia-Arrack Van Oosten, nobody wanted to mess with it. I was determined to use it as a base spirit, though, so I mixed it with a spoonful of pomegranate molasses, which works micacles.—PW
     glassware: coupe
     ingredients:
     - 2 ounces Van Oosten Batavia-Arrack Van Oosten
@@ -8570,7 +9001,8 @@ recipes:
   - name: Autumn Daiquiri
     author: Joaquín Simó
     year: 2008
-    notes: I wanted to make a daiquiri with fall flavors and tried rum after rum until I landed on Mount Gay, which adds a crazy apple flavor to the drink.—JS
+    notes: |+2
+      I wanted to make a daiquiri with fall flavors and tried rum after rum until I landed on Mount Gay, which adds a crazy apple flavor to the drink.—JS
     glassware: coupe
     ingredients:
     - 2 ounces Mount Gay Eclipse rum
@@ -8590,7 +9022,8 @@ recipes:
   - name: Benjamin Barker Daiquiri
     author: Brian Miller
     year: 2008
-    notes: The addition of Campari and absinthe makes this a real bartender's daiquiri. The drink takes on a reddish hue, which inspired me to name it after one of Sweeney Todd's aliases.—BM
+    notes: |+2
+      The addition of Campari and absinthe makes this a real bartender's daiquiri. The drink takes on a reddish hue, which inspired me to name it after one of Sweeney Todd's aliases.—BM
     glassware: coupe
     ingredients:
     - 2 ounces Gosling's Black Seal rum
@@ -8610,7 +9043,8 @@ recipes:
   - name: Boukman Daiquiri
     author: Alex Day
     year: 2008
-    notes: Boukman Dutty was a slave who helped launch the Haitian Revolution. Using rum over cognac is my nod to the French getting out of the colony.—AD
+    notes: |+2
+      Boukman Dutty was a slave who helped launch the Haitian Revolution. Using rum over cognac is my nod to the French getting out of the colony.—AD
     glassware: coupe
     ingredients:
     - 1½ ounces Barbancourt White rum
@@ -8628,7 +9062,8 @@ recipes:
   - name: Dai, Dai My Darling
     author: Jillian Vose
     year: 2012
-    notes: I challenged myself to make a stirred Hemingway daiquiri. Acid phosphate, which gives acidity without adding any citrus flavor, did the trick. Instead, the citrus flavors come from the grapefruit-flavored liqueur.—JV
+    notes: |+2
+      I challenged myself to make a stirred Hemingway daiquiri. Acid phosphate, which gives acidity without adding any citrus flavor, did the trick. Instead, the citrus flavors come from the grapefruit-flavored liqueur.—JV
     glassware: coupe
     ingredients:
     - ¾ ounce Flor de Caña Extra-Dry White rum
@@ -8650,7 +9085,8 @@ recipes:
   - name: D.W.B
     author: Phil Ward
     year: 2008
-    notes: This cocktail's name is short for “daiquiri with benefits.” La Favorite makes one hell of a daiquiri, and it gets even better with the funk of Batavia-Arrack Van Oosten.—PW
+    notes: |+2
+      This cocktail's name is short for “daiquiri with benefits.” La Favorite makes one hell of a daiquiri, and it gets even better with the funk of Batavia-Arrack Van Oosten.—PW
     glassware: coupe
     ingredients:
     - 2 ounces La Favorite Rhum Agricole Blanc
@@ -8669,7 +9105,8 @@ recipes:
   - name: Granny's Daiquiri
     author: Phil Ward
     year: 2008
-    notes: coupe
+    notes: |+2
+      coupe
     glassware: coupe
     ingredients:
     - 2 ounces Granny Smith Apple-Infused Rhum Barbancourt
@@ -8687,7 +9124,8 @@ recipes:
   - name: Javanese Daiquiri
     author: Tyson Buhler
     year: 2013
-    notes: This started as a spin on our house gimlet, but then it took a sharp left turn. It's a confusing drink. Arrack is a funky, weird ingredient that a lot of people don't like. And when you see “curry” listed in the ingredients, you think it's going to taste like indian food. Despite having so many weird ingredients, this ended up being a surprisingly approachable cocktail.—TB
+    notes: |+2
+      This started as a spin on our house gimlet, but then it took a sharp left turn. It's a confusing drink. Arrack is a funky, weird ingredient that a lot of people don't like. And when you see “curry” listed in the ingredients, you think it's going to taste like indian food. Despite having so many weird ingredients, this ended up being a surprisingly approachable cocktail.—TB
     glassware: double rocks
     ingredients:
     - 1 ounce Van Oosten Batavia-Arrack Van Oosten
@@ -8706,7 +9144,8 @@ recipes:
   - name: Jovencourt Daiquiri
     author: Phil Ward
     year: 2007
-    notes: This cocktail was my first epiphany about using mezcal in a mixed drink. Doing so is common now, but nobody was mixing with it back then.—PW
+    notes: |+2
+      This cocktail was my first epiphany about using mezcal in a mixed drink. Doing so is common now, but nobody was mixing with it back then.—PW
     glassware: coupe
     ingredients:
     - 2 ounces Barbancourt White rum
@@ -8724,7 +9163,8 @@ recipes:
   - name: La Bomba Daiquiri
     author: Joaquín Simó
     year: 2008
-    notes: Here's a great example of a fruity drink that's not at all sweet. Its name is a play on the French word for pomegranate - grenade.—JS
+    notes: |+2
+      Here's a great example of a fruity drink that's not at all sweet. Its name is a play on the French word for pomegranate - grenade.—JS
     glassware: coupe
     ingredients:
     - 5 raspberries
@@ -8746,7 +9186,8 @@ recipes:
   - name: Linbaba Daiquiri
     author: Joaquín Simó
     year: 2011
-    notes: The Indian subcontinent has inspired many of my drinks, including this Indian-spiced daiquiri variation named after the lead character in one of my favorite books.—JS
+    notes: |+2
+      The Indian subcontinent has inspired many of my drinks, including this Indian-spiced daiquiri variation named after the lead character in one of my favorite books.—JS
     glassware: coupe
     ingredients:
     - 1½ ounces Scarlet Ibis rum
@@ -8768,7 +9209,8 @@ recipes:
   - name: Meridian Daiquiri
     author: Joaquín Simó
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 5 cardamom pods
@@ -8791,7 +9233,8 @@ recipes:
   - name: Mosquito Coast
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Scarlet Ibis rum
@@ -8810,7 +9253,8 @@ recipes:
   - name: Sunset at Gowanus
     author: Alex Day
     year: 2008
-    notes: In this decadent daiquiri variation, the bright fruity character of Santa Teresa rum becomes even more pronounced thanks to the apple brandy and maple syrup.—AD
+    notes: |+2
+      In this decadent daiquiri variation, the bright fruity character of Santa Teresa rum becomes even more pronounced thanks to the apple brandy and maple syrup.—AD
     glassware: coupe
     ingredients:
     - 2 ounces Santa Teresa 1796 rum
@@ -8829,7 +9273,8 @@ recipes:
   - name: Take Two
     author: Tyson Buhler
     year: 2013
-    notes: Dark, full-bodied wine is the base of our Bergerac Mix, which Brad created for his Cynaro de bergerac cocktail—and which I wanted to use again in a daiquiri-style drink (hence the name). Red wine is so complex to begin with that it's fun to use in cocktails; the trick is to complement its flavor profile with other ingredients.—TB
+    notes: |+2
+      Dark, full-bodied wine is the base of our Bergerac Mix, which Brad created for his Cynaro de bergerac cocktail—and which I wanted to use again in a daiquiri-style drink (hence the name). Red wine is so complex to begin with that it's fun to use in cocktails; the trick is to complement its flavor profile with other ingredients.—TB
     glassware: coupe
     ingredients:
     - 1 ounce Ron del Barrilito 3-Star rum
@@ -8849,7 +9294,8 @@ recipes:
   - name: Jillian's Daiquiri
     author: Jillian Vose
     year: 
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - ¾ ounce Flor de Caña Extra-Dry White rum
@@ -8869,7 +9315,8 @@ recipes:
   - name: Eryn's Daiquiri
     author: Eryn Reece
     year: 
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Flor de Caña Extra-Dry White rum
@@ -8888,7 +9335,8 @@ recipes:
   - name: Ravi's Daiquiri
     author: Ravi Derossi
     year: 
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Flor de Caña Extra-Dry White rum
@@ -8906,7 +9354,8 @@ recipes:
   - name: Dave's Daiquiri
     author: Dave Kaplan
     year: 
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Matusalem Gran Reserva 15-Year rum
@@ -8924,7 +9373,8 @@ recipes:
   - name: Alex's Daiquiri
     author: Alex Day
     year: 
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Flor de Caña Extra-Dry White rum
@@ -8941,7 +9391,8 @@ recipes:
       - citrus
   - name: Thomas's Daiquiri
     author: Thomas Waugh
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Caña Brava rum
@@ -8959,7 +9410,8 @@ recipes:
   - name: Brian's Daiquiri
     author: Brian Miller
     year: 
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Flor de Caña Extra-Dry White rum
@@ -8977,7 +9429,8 @@ recipes:
   - name: Phil's Daiquiri
     author: Phil Ward
     year: 
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Barbancourt White rum
@@ -8995,7 +9448,8 @@ recipes:
   - name: Joaquín's Daiquiri
     author: Joaquín Simó
     year: 
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 ounce Appleton Estate V/X rum
@@ -9014,7 +9468,8 @@ recipes:
   - name: The Black Prince
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Zacapa 23-Year rum
@@ -9031,7 +9486,8 @@ recipes:
   - name: Daisy Buchanan
     author: Joaquín Simó
     year: 2009
-    notes: This is my summertime Manhattan, a floral, herbaceous drink that's complex but not overbearing.—JS
+    notes: |+2
+      This is my summertime Manhattan, a floral, herbaceous drink that's complex but not overbearing.—JS
     glassware: coupe
     ingredients:
     - 2 ounces Chamomile-Infused Old Overholt Rye Whiskey
@@ -9049,7 +9505,8 @@ recipes:
   - name: Drunken Dodo
     author: Brian Miller
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 2 ounces Scarlet Ibis rum
@@ -9067,7 +9524,8 @@ recipes:
   - name: Ingénue
     author: Brian Miller
     year: 2009
-    notes: The name came to me first, then the drink followed - a cognac-based Manhattan variation with a nod to tiki—BM
+    notes: |+2
+      The name came to me first, then the drink followed - a cognac-based Manhattan variation with a nod to tiki—BM
     glassware: coupe
     ingredients:
     - 2 ounces Pierre Ferrand Ambre Cognac
@@ -9083,7 +9541,8 @@ recipes:
   - name: Jive Turkey
     author: Jessica Gonzalez
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - ¾ ounce Buffalo Trace Bourbon
@@ -9103,7 +9562,8 @@ recipes:
   - name: Mi Amaro
     author: Joaquín Simó
     year: 2009
-    notes: This is probably the best stirred tequila drink I've come up with, and it's quite simple - just a Manhattan variation made with some incredible ingredients—JS
+    notes: |+2
+      This is probably the best stirred tequila drink I've come up with, and it's quite simple - just a Manhattan variation made with some incredible ingredients—JS
     glassware: coupe
     ingredients:
     - 2 ounces El Tesoro Reposado Tequila
@@ -9121,7 +9581,8 @@ recipes:
   - name: Navigator
     author: Tyson Buhler
     year: 2013
-    notes: Once I figured out that dried apricots, rather than fresh, made the best infusion, I built the drink around that, using madeira for most of the richness and sweetness, augmented by a bit of syrup.—TB
+    notes: |+2
+      Once I figured out that dried apricots, rather than fresh, made the best infusion, I built the drink around that, using madeira for most of the richness and sweetness, augmented by a bit of syrup.—TB
     glassware: coupe
     ingredients:
     - 1½ ounces apricot-infused Famous Grouse Scotch
@@ -9139,7 +9600,8 @@ recipes:
   - name: Orkney Chapel
     author: Jason Littrell
     year: 2009
-    notes: Just a little bit of sherry can completely transform a drink. Here it hides in the background but makes all the difference.—jl
+    notes: |+2
+      Just a little bit of sherry can completely transform a drink. Here it hides in the background but makes all the difference.—jl
     glassware: martini
     ingredients:
     - 2 ounces Highland Park 12-Year Scotch
@@ -9158,7 +9620,8 @@ recipes:
   - name: Pisco Inferno
     author: Brad Farran
     year: 2012
-    notes: 
+    notes: |+2
+      
     glassware: martini
     ingredients:
     - 2 ounces Campo de Encanto Acholado Pisco
@@ -9178,7 +9641,8 @@ recipes:
   - name: Red Ant
     author: Thomas Waugh
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: martini
     ingredients:
     - 1½ ounces Rittenhouse 100 Rye
@@ -9198,7 +9662,8 @@ recipes:
   - name: Sforzando
     author: Eryn Reece
     year: 2012
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1 ounce Rittenhouse 100 Rye
@@ -9217,7 +9682,8 @@ recipes:
   - name: St. James Infirmary
     author: Joaquín Simó
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces Plantation Barbados 5-year rum
@@ -9238,7 +9704,8 @@ recipes:
   - name: Stolen Huffy
     author: Jillian Vose
     year: 2013
-    notes: About a quarter of our guests ask us to make them something spicy. Our first reaction is always to reach for a bottle of jalapeño-infused tequila, but I wanted to try something else to expand our spicy offerings. As it turns out, red thai chiles work quite nicely with a boldly flavored rye.—JV
+    notes: |+2
+      About a quarter of our guests ask us to make them something spicy. Our first reaction is always to reach for a bottle of jalapeño-infused tequila, but I wanted to try something else to expand our spicy offerings. As it turns out, red thai chiles work quite nicely with a boldly flavored rye.—JV
     glassware: nick & nora
     ingredients:
     - 1½ ounces Red Thai Chile-Infused Rittenhouse Rye
@@ -9258,7 +9725,8 @@ recipes:
   - name: Conference
     author: Brian Miller
     year: 2008
-    notes: One of our servers asked me to make her something stirred and boozy. So I threw four of my favorite spirits into an Old-Fashioned template, splitting the base four ways. All these brown spirits needed something to tie them together. Avery glasser (of the bitters company bittermens) happened to be sitting at the bar, and he suggested trying his mole bitters. It was like lacing up a shoe.—BM
+    notes: |+2
+      One of our servers asked me to make her something stirred and boozy. So I threw four of my favorite spirits into an Old-Fashioned template, splitting the base four ways. All these brown spirits needed something to tie them together. Avery glasser (of the bitters company bittermens) happened to be sitting at the bar, and he suggested trying his mole bitters. It was like lacing up a shoe.—BM
     glassware: double rocks
     ingredients:
     - ½ ounce Rittenhouse 100 Rye
@@ -9279,7 +9747,8 @@ recipes:
   - name: Death From Above
     author: Thomas Waugh
     year: 2011
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1 ounce Lemon Hart 151 rum
@@ -9300,7 +9769,8 @@ recipes:
   - name: Elder Fashion
     author: Phil Ward
     year: 2007
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 2 ounces Plymouth gin
@@ -9317,7 +9787,8 @@ recipes:
   - name: Headstone
     author: Jillian Vose
     year: 2013
-    notes: I wanted to make the most expensive Old-Fashioned variation possible, so I started with an elegant and floral Japanese whiskey and added two orange liqueurs.—JV
+    notes: |+2
+      I wanted to make the most expensive Old-Fashioned variation possible, so I started with an elegant and floral Japanese whiskey and added two orange liqueurs.—JV
     glassware: double rocks
     ingredients:
     - 2 ounces Suntory Hakushu 12-Year Whiskey
@@ -9336,7 +9807,8 @@ recipes:
   - name: Jekyll and Hyde
     author: Thomas Waugh
     year: 2009
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1½ ounces Eagle Rare 10-Year Bourbon
@@ -9356,7 +9828,8 @@ recipes:
   - name: La Conferencia
     author: Phil Ward
     year: 2008
-    notes: I was so impressed (and jealous) when Brian created his Conference cocktail that I had to rip it off. My version replaces the whiskey with tequila, naturally.—PW
+    notes: |+2
+      I was so impressed (and jealous) when Brian created his Conference cocktail that I had to rip it off. My version replaces the whiskey with tequila, naturally.—PW
     glassware: double rocks
     ingredients:
     - ½ ounce El Tesoro Reposado Tequila
@@ -9377,7 +9850,8 @@ recipes:
   - name: North Garden
     author: Jason Littrell
     year: 2009
-    notes: A guest once asked me to make a cocktail that tasted like “the great American novel.” so I combined apple brandy from our country's oldest distillery with a classic bourbon.—jl
+    notes: |+2
+      A guest once asked me to make a cocktail that tasted like “the great American novel.” so I combined apple brandy from our country's oldest distillery with a classic bourbon.—jl
     glassware: coupe
     ingredients:
     - 1½ ounces Laird's Bonded Apple Brandy
@@ -9395,7 +9869,8 @@ recipes:
   - name: Oaxaca Old-Fashioned
     author: Phil Ward
     year: 2008
-    notes: 
+    notes: |+2
+      
     glassware: coupe
     ingredients:
     - 1½ ounces El Tesoro Reposado Tequila
@@ -9413,7 +9888,8 @@ recipes:
   - name: Tea Time at Guillermo's
     author: Jillian Vose
     year: 2013
-    notes: My friend Guillermo Sauza makes fortaleza tequila in an old distillery left over from his family's sale of their famous brand. I created this rich, decadent drink in his honor, complementing his tequila with Siembra Azul Reposado infused with caramel- and bergamot-flavored Queen of Earl tea.—JV
+    notes: |+2
+      My friend Guillermo Sauza makes fortaleza tequila in an old distillery left over from his family's sale of their famous brand. I created this rich, decadent drink in his honor, complementing his tequila with Siembra Azul Reposado infused with caramel- and bergamot-flavored Queen of Earl tea.—JV
     glassware: rocks
     ingredients:
     - 1 ounce Fortaleza Reposado Tequila
@@ -9433,7 +9909,8 @@ recipes:
   - name: Tiki-Tiki Tom-Tom
     author: Thomas Waugh
     year: 2012
-    notes: 
+    notes: |+2
+      
     glassware: double rocks
     ingredients:
     - 1½ ounces El Dorado 15-Year rum

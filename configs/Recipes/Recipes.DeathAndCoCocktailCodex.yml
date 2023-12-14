@@ -36,7 +36,8 @@ recipes:
   - name: Golden Boy
     author: Alex Day & Devon Tarby
     year: 2013
-    notes: Alex has long been captivated by the combination of scotch and raisins, an obsession born from late-night snacks accompanied by big glasses of whiskey. Indeed, the concentrated fruitiness of raisins pairs perfectly with the lusciousness of a blended scotch like Famous Grouse. In addition to flavor, the madeira and Bénédictine bring a balanced amount of sweetness to the cocktail, making any extra sweetener unnecessary.
+    notes: |+2
+      Alex has long been captivated by the combination of scotch and raisins, an obsession born from late-night snacks accompanied by big glasses of whiskey. Indeed, the concentrated fruitiness of raisins pairs perfectly with the lusciousness of a blended scotch like Famous Grouse. In addition to flavor, the madeira and Bénédictine bring a balanced amount of sweetness to the cocktail, making any extra sweetener unnecessary.
     glassware: rocks
     ingredients:
     - 1½ ounces Raisin-Infused Scotch (page 292)
@@ -53,7 +54,8 @@ recipes:
       - stirred
       - old-fashioned
   - name: Vermouth Cocktail
-    notes: In the early days of cocktails, vermouth was becoming popular in America and found its way into the Old-Fashioned template, resulting in this nuanced, low-ABV sipper. This classic recipe also demonstrates that not all Old-Fashioned-style drinks are served over ice in rocks glasses.
+    notes: |+2
+      In the early days of cocktails, vermouth was becoming popular in America and found its way into the Old-Fashioned template, resulting in this nuanced, low-ABV sipper. This classic recipe also demonstrates that not all Old-Fashioned-style drinks are served over ice in rocks glasses.
     glassware: coupe
     ingredients:
     - 2 ounces Carpano Antica Formula sweet vermouth
@@ -72,7 +74,8 @@ recipes:
   - name: Exit Strategy
     author: Natasha David
     year: 2014
-    notes: Amaro shows off its versatility when used as the core of an Old-Fashioned; it also provides seasoning and sweetness, so neither bitters nor sugar syrup is needed. In this recipe, the brandy primarily provides a focused boozy flavor and dries the drink out, and a generous amount of salt solution rounds off the bitter edges.
+    notes: |+2
+      Amaro shows off its versatility when used as the core of an Old-Fashioned; it also provides seasoning and sweetness, so neither bitters nor sugar syrup is needed. In this recipe, the brandy primarily provides a focused boozy flavor and dries the drink out, and a generous amount of salt solution rounds off the bitter edges.
     glassware: rocks
     ingredients:
     - 1½ ounces Amaro Nonino
@@ -88,7 +91,8 @@ recipes:
       - stirred
       - old-fashioned
   - name: Ti' Punch
-    notes: It's said that in Martinique, where the drink originated, Ti' Punches are served up and consumed in one gulp. Our version is served over ice and meant to be sipped. If you were to change the proportions of the ingredients and shake the drink, you'd have yourself a Daiquiri, but the Ti' Punch is an Old Fashioned, through and through, with the lime peel standing in for the bitters to season the drink. Make sure you include a bit of the lime flesh, as it will brighten the drink nicely.
+    notes: |+2
+      It's said that in Martinique, where the drink originated, Ti' Punches are served up and consumed in one gulp. Our version is served over ice and meant to be sipped. If you were to change the proportions of the ingredients and shake the drink, you'd have yourself a Daiquiri, but the Ti' Punch is an Old Fashioned, through and through, with the lime peel standing in for the bitters to season the drink. Make sure you include a bit of the lime flesh, as it will brighten the drink nicely.
     glassware: rocks
     ingredients:
     - 1½-inch-thick disk of lime peel with some flesh attached
@@ -104,7 +108,8 @@ recipes:
       - classic
       - old-fashioned
   - name: Fancy-Free
-    notes: This vintage cocktail is an early example of bartenders swapping out sugar for a sweet, flavorful liqueur. Maraschino liqueur isn't as sweet as simple syrup (not to mention that it also has proof), so we up the quantity to ½ ounce.
+    notes: |+2
+      This vintage cocktail is an early example of bartenders swapping out sugar for a sweet, flavorful liqueur. Maraschino liqueur isn't as sweet as simple syrup (not to mention that it also has proof), so we up the quantity to ½ ounce.
     glassware: rocks
     ingredients:
     - 2 ounces Rittenhouse rye 
@@ -121,7 +126,8 @@ recipes:
       - classic
       - old-fashioned
   - name: Monte Carlo
-    notes: In the classic Monte Carlo, Bénédictine, a sweet liqueur with herbal and honey flavors, stands in for the sugar.
+    notes: |+2
+      In the classic Monte Carlo, Bénédictine, a sweet liqueur with herbal and honey flavors, stands in for the sugar.
     glassware: rocks
     ingredients:
     - 2 ounces Rittenhouse rye 
@@ -137,7 +143,8 @@ recipes:
       - classic
       - old-fashioned
   - name: Chrysanthemum
-    notes: A low-proof Old-Fashioned that doesn't contain a base spirit, sugar based sweetener, or traditional bitters-and that gets served up in a coupe? Say it ain't so. Though the Chrysanthemum looks like it hails from the Manhattan or Martini family, the proportion of ingredients give away its lineage, with small amounts of Bénédictine and absinthe dutifully sweetening and seasoning the herbaceous vermouth core.
+    notes: |+2
+      A low-proof Old-Fashioned that doesn't contain a base spirit, sugar based sweetener, or traditional bitters-and that gets served up in a coupe? Say it ain't so. Though the Chrysanthemum looks like it hails from the Manhattan or Martini family, the proportion of ingredients give away its lineage, with small amounts of Bénédictine and absinthe dutifully sweetening and seasoning the herbaceous vermouth core.
     glassware: coupe
     ingredients:
     - 2½ ounces Dolin dry vermouth 
@@ -154,7 +161,8 @@ recipes:
       - low-abv
       - old-fashioned
   - name: Stinger
-    notes: Reimagining the core and balance of the Old-Fashioned can yield some interesting effects. The Stinger, a pre Prohibition drink of untraceable origin, classically consisted of just brandy and crème de menthe, the latter providing both seasoning and sweetening. For our version of this classic, we include a bit of simple syrup to boost the flavor of the crème de menthe and curtail the brandy's strength. Though it's traditionally served up, we like to dress up our Stinger like a Julep and serve it with two straws for two-person consumption, à la Lady and the Tramp.
+    notes: |+2
+      Reimagining the core and balance of the Old-Fashioned can yield some interesting effects. The Stinger, a pre Prohibition drink of untraceable origin, classically consisted of just brandy and crème de menthe, the latter providing both seasoning and sweetening. For our version of this classic, we include a bit of simple syrup to boost the flavor of the crème de menthe and curtail the brandy's strength. Though it's traditionally served up, we like to dress up our Stinger like a Julep and serve it with two straws for two-person consumption, à la Lady and the Tramp.
     glassware: rocks
     ingredients:
     - 2 ounces Pierre Ferrand Ambre Cognac 
@@ -172,7 +180,8 @@ recipes:
   - name: Normandie Club Old-Fashioned
     author: Alex Day & Devon Tarby
     year: 2015
-    notes: In this Old-Fashioned, one of our most popular cocktails at the Normandie Club, we've manipulated both the core and the balance, using an infused bourbon and a spiced syrup. This cocktail showed us that coconut can shine in spirituous concoctions beyond the usual tiki drinks if it's incorporated into an infusion; just as with nuts, it adds rich body and toasty flavors.
+    notes: |+2
+      In this Old-Fashioned, one of our most popular cocktails at the Normandie Club, we've manipulated both the core and the balance, using an infused bourbon and a spiced syrup. This cocktail showed us that coconut can shine in spirituous concoctions beyond the usual tiki drinks if it's incorporated into an infusion; just as with nuts, it adds rich body and toasty flavors.
     glassware: rocks
     ingredients:
     - 2 ounces Coconut-Infused bourbon"
@@ -188,7 +197,8 @@ recipes:
       - stirred
       - old-fashioned
   - name: Improved Whiskey Cocktail
-    notes: In the Fancy-Free, the addition of just one dash of orange bitters draws out flavors in the spirits, but the Angostura bitters still serve as the main seasoning agent. By contrast, the Improved Whiskey Cocktail, which was probably one. of the first popular Old-Fashioned variations, turns to absinthe for seasoning, which adds a deep complexity to the cocktail. The sweet red licorice and anise flavors from the Peychaud's bitters dial up the seasoning even more, while also increasing the impression of sweetness.
+    notes: |+2
+      In the Fancy-Free, the addition of just one dash of orange bitters draws out flavors in the spirits, but the Angostura bitters still serve as the main seasoning agent. By contrast, the Improved Whiskey Cocktail, which was probably one. of the first popular Old-Fashioned variations, turns to absinthe for seasoning, which adds a deep complexity to the cocktail. The sweet red licorice and anise flavors from the Peychaud's bitters dial up the seasoning even more, while also increasing the impression of sweetness.
     glassware: rocks
     ingredients:
     - 2 ounces Elijah Craig Small Batch bourbon
@@ -208,7 +218,8 @@ recipes:
   - name: Pop Quiz
     author: Devon Tarby
     year: 2010
-    notes: Substituting a sweet liqueur or amaro for the sugar in an Old-Fashioned style cocktail is an amazing way to balance a drink while incorporating a unique seasoning. This approach led to the iconic Elder Fashion in our first book and has been a source of inspiration ever since. In the Pop Quiz, Devon includes an orange-flavored amaro, Ramazzotti, and swaps in spicy, chocolatey bitters.
+    notes: |+2
+      Substituting a sweet liqueur or amaro for the sugar in an Old-Fashioned style cocktail is an amazing way to balance a drink while incorporating a unique seasoning. This approach led to the iconic Elder Fashion in our first book and has been a source of inspiration ever since. In the Pop Quiz, Devon includes an orange-flavored amaro, Ramazzotti, and swaps in spicy, chocolatey bitters.
     glassware: rocks
     ingredients:
     - 2 ounces Elijah Craig Small Batch bourbon
@@ -226,7 +237,8 @@ recipes:
   - name: Night Owl
     author: Alex Day
     year: 2013
-    notes: This riff on the Pop Quiz =is an example of a Mr. Potato Head variation-making a new drink by swapping out one or more elements. Here, Alex wanted to make a drink that tasted like boozy chocolate without coming across as dessert in a glass. The seasoning comes from not only the bitters but also the amaro.
+    notes: |+2
+      This riff on the Pop Quiz =is an example of a Mr. Potato Head variation-making a new drink by swapping out one or more elements. Here, Alex wanted to make a drink that tasted like boozy chocolate without coming across as dessert in a glass. The seasoning comes from not only the bitters but also the amaro.
     glassware: rocks
     ingredients:
     - 2 ounces Elijah Craig Small Batch bourbon
@@ -245,7 +257,8 @@ recipes:
   - name: Snowbird
     author: Devon Tarby
     year: 2014
-    notes: The split-base strategy that makes the Ned Ryerson successful can be used to generate a wide variety of drinks. We particularly love pulling back on the base and adding another spirit, like apple brandy, to accent the primary spirit. Together, rye and apple brandy are a magical, crowd-pleasing combination, and St-Germain makes everything it touches taste better. A dash of celery bitters adds just enough savoriness to pull the drink back from excessive sweetness.
+    notes: |+2
+      The split-base strategy that makes the Ned Ryerson successful can be used to generate a wide variety of drinks. We particularly love pulling back on the base and adding another spirit, like apple brandy, to accent the primary spirit. Together, rye and apple brandy are a magical, crowd-pleasing combination, and St-Germain makes everything it touches taste better. A dash of celery bitters adds just enough savoriness to pull the drink back from excessive sweetness.
     glassware: rocks
     ingredients:
     - 1½ ounces Rittenhouse rye 
@@ -264,7 +277,8 @@ recipes:
   - name: Cold Girl Fever
     author: Devon Tarby
     year: 2016
-    notes: "When coming up with new cocktail recipes, we often riff on an existing variation from our repertoire. This drink is based on the Golden Boy (page 10), and while it doesn't share any ingredients with that cocktail, it does take inspiration from its flavors: From the same starting point of raisins and whiskey, Devon took this cocktail to a smokier place by adding a touch of peaty Islay scotch to the core and balancing it out with raisin-infused honey syrup."
+    notes: |+2
+      "When coming up with new cocktail recipes, we often riff on an existing variation from our repertoire. This drink is based on the Golden Boy (page 10), and while it doesn't share any ingredients with that cocktail, it does take inspiration from its flavors: From the same starting point of raisins and whiskey, Devon took this cocktail to a smokier place by adding a touch of peaty Islay scotch to the core and balancing it out with raisin-infused honey syrup."
     glassware: rocks
     ingredients:
     - 1¾ ounces Famous Grouse scotch 
@@ -283,7 +297,8 @@ recipes:
   - name: Ned Ryerson
     author: Devon Tarby
     year: 2012
-    notes: In the Ned Ryerson, the core includes a small portion of young apple brandy, which adds a juicy flavor to the cocktail, and the Miracle Mile Castilian bitters in the seasoning are full of orange, licorice, and sarsaparilla notes. The result is an Old-Fashioned that's been reimagined with just modest changes.
+    notes: |+2
+      In the Ned Ryerson, the core includes a small portion of young apple brandy, which adds a juicy flavor to the cocktail, and the Miracle Mile Castilian bitters in the seasoning are full of orange, licorice, and sarsaparilla notes. The result is an Old-Fashioned that's been reimagined with just modest changes.
     glassware: rocks
     ingredients:
     - 1½ ounces Bulleit Rye Whiskey
@@ -302,7 +317,8 @@ recipes:
   - name: Deadpan
     author: Alex Day & Devon Tarby
     year: 2014
-    notes: This is as rich and decadent as an Old-Fashioned gets, but there's not a drop of sugar syrup in it. Instead, the drink derives its sweetness from both a raisiny sherry and a vanilla liqueur, which provide a counterpunch to the nutty split base of Cognac and rum infused with sesame seeds. A dash of bitters is all that's required to zip these big flavors together.
+    notes: |+2
+      This is as rich and decadent as an Old-Fashioned gets, but there's not a drop of sugar syrup in it. Instead, the drink derives its sweetness from both a raisiny sherry and a vanilla liqueur, which provide a counterpunch to the nutty split base of Cognac and rum infused with sesame seeds. A dash of bitters is all that's required to zip these big flavors together.
     glassware: rocks
     ingredients:
     - 1 ounce Pierre Ferrand 1840 Cognac
@@ -321,7 +337,8 @@ recipes:
   - name: Autumn Old-Fashioned
     author: Devon Tarby
     year: 2013
-    notes: The Conference, a groundbreaking Old-Fashioned variation developed by former Death & Co head bartender Brian Miller, has a core that's divided between four different brown spirits. The Autumn Old-Fashioned is a richer, deeper expression of that drink. We usually like to use maple syrup as a sweetener when we combine this many big flavors; it has a brightness that keeps the spirits from becoming too heavy.
+    notes: |+2
+      The Conference, a groundbreaking Old-Fashioned variation developed by former Death & Co head bartender Brian Miller, has a core that's divided between four different brown spirits. The Autumn Old-Fashioned is a richer, deeper expression of that drink. We usually like to use maple syrup as a sweetener when we combine this many big flavors; it has a brightness that keeps the spirits from becoming too heavy.
     glassware: rocks
     ingredients:
     - ½ ounce George Dickel rye
@@ -343,7 +360,8 @@ recipes:
   - name: Bad Santa
     author: Devon Tarby
     year: 2015
-    notes: This crystal clear drink tastes like minty dark chocolate, earning its place among what we like to call "mindfuck drinks." Vodka is a nontraditional base spirit for an Old-Fashioned-style drink for sure, but infusing it with cocoa butter and adding a splash of chocolate liqueur gives it the richness and complexity of an aged spirit. With a drink this rich and sweet, a bit of savory seasoning, in this case Salt Solution, is needed to brighten the flavors.
+    notes: |+2
+      This crystal clear drink tastes like minty dark chocolate, earning its place among what we like to call "mindfuck drinks." Vodka is a nontraditional base spirit for an Old-Fashioned-style drink for sure, but infusing it with cocoa butter and adding a splash of chocolate liqueur gives it the richness and complexity of an aged spirit. With a drink this rich and sweet, a bit of savory seasoning, in this case Salt Solution, is needed to brighten the flavors.
     glassware: rocks
     ingredients:
     - 2 ounces Cocoa Butter-Infused Absolut Elyx Vodka 
@@ -363,7 +381,8 @@ recipes:
   - name: Beach Bonfire
     author: Alex Day
     year: 2015
-    notes: Developed for the inaugural Pacific Coast Highway-themed menu at the Walker Inn, the Beach Bonfire is designed to evoke the experience of sitting around a fire and taking alternating sips from a flask of whiskey and a cold beer. We start with our benchmark bourbon and add some cachaça for its chocolate and cinnamon notes, then sweeten the drink with pineapple syrup, which adds a nod to summer without making the drink taste tropical. At the bar, we'd hit the finished drink with a blast of hickory smoke before serving it next to a small glass of pilsner; at home you can skip the smoke and the beer if you like.
+    notes: |+2
+      Developed for the inaugural Pacific Coast Highway-themed menu at the Walker Inn, the Beach Bonfire is designed to evoke the experience of sitting around a fire and taking alternating sips from a flask of whiskey and a cold beer. We start with our benchmark bourbon and add some cachaça for its chocolate and cinnamon notes, then sweeten the drink with pineapple syrup, which adds a nod to summer without making the drink taste tropical. At the bar, we'd hit the finished drink with a blast of hickory smoke before serving it next to a small glass of pilsner; at home you can skip the smoke and the beer if you like.
     glassware: rocks
     ingredients:
     - 1½ ounces Elijah Craig Small Batch bourbon 
@@ -383,7 +402,8 @@ recipes:
       - beer
       - old-fashioned
   - name: Champagne Cocktail
-    notes: A Champagne Cocktail is essentially an Old-Fashioned in which Champagne stands in for the whiskey. Because of the lower alcohol content of the Champagne, partially diluting the drink as you would an Old-Fashioned doesn't make sense, and, of course, the bubbles in the Champagne wouldn't be well served by stirring. Therefore, this drink is built in a flute. Given that it isn't stirred over ice, like an Old-Fashioned, be sure to start with cold Champagne.
+    notes: |+2
+      A Champagne Cocktail is essentially an Old-Fashioned in which Champagne stands in for the whiskey. Because of the lower alcohol content of the Champagne, partially diluting the drink as you would an Old-Fashioned doesn't make sense, and, of course, the bubbles in the Champagne wouldn't be well served by stirring. Therefore, this drink is built in a flute. Given that it isn't stirred over ice, like an Old-Fashioned, be sure to start with cold Champagne.
     glassware: flute
     ingredients:
     - 1 sugar cube
@@ -404,7 +424,8 @@ recipes:
   - name: The Field Marshall
     author: Alex Day
     year: 2013
-    notes: Riffing on a Champagne Cocktail can be as easy as riffing on any other Old-Fashioned variation. In this case, the sugar is swapped out for a sweet liqueur. Combier is an orange curaçao, and the "royal" bottling has a base of Cognac, which provides a rich backbone. In a way, this variation lies somewhere between a classic Champagne Cocktail and an Old-Fashioned, being made with Armagnac and Champagne instead of whiskey.
+    notes: |+2
+      Riffing on a Champagne Cocktail can be as easy as riffing on any other Old-Fashioned variation. In this case, the sugar is swapped out for a sweet liqueur. Combier is an orange curaçao, and the "royal" bottling has a base of Cognac, which provides a rich backbone. In a way, this variation lies somewhere between a classic Champagne Cocktail and an Old-Fashioned, being made with Armagnac and Champagne instead of whiskey.
     glassware: flute
     ingredients:
     - 1 ounce Tariquet Classique VS Bas-Armagnac
@@ -425,7 +446,8 @@ recipes:
   - name: Pretty Wings
     author: Devon Tarby
     year: 2016
-    notes: Inspired by famed bartender Dave Kupchinsky's Lemonade cocktail at the Everleigh in West Hollywood, this drink also looks to the Champagne Cocktail for its simplicity and incorporates flavorful chamomile in an infusion of softly herbaceous and slightly bitter Cocchi Americano. It's exceedingly refreshing on a hot day.
+    notes: |+2
+      Inspired by famed bartender Dave Kupchinsky's Lemonade cocktail at the Everleigh in West Hollywood, this drink also looks to the Champagne Cocktail for its simplicity and incorporates flavorful chamomile in an infusion of softly herbaceous and slightly bitter Cocchi Americano. It's exceedingly refreshing on a hot day.
     glassware: flute
     ingredients:
     - ½ ounce Chamomile-Infused Cocchi Americano
@@ -445,7 +467,8 @@ recipes:
   - name: Celebrate
     author: Devon Tarby
     year: 2016
-    notes: "While the components of this cocktail other than the Champagne take up more volume than a sugar cube doused in bitters, they function in a similar way, enhancing the main spirit by amplifying flavors it already possesses: stone fruit, breadiness, nuttiness, and spice. Here we've added a new ingredient, Champagne acid, a combination of tartaric and lactic acid that enhances the tang of a dry Champagne."
+    notes: |+2
+      "While the components of this cocktail other than the Champagne take up more volume than a sugar cube doused in bitters, they function in a similar way, enhancing the main spirit by amplifying flavors it already possesses: stone fruit, breadiness, nuttiness, and spice. Here we've added a new ingredient, Champagne acid, a combination of tartaric and lactic acid that enhances the tang of a dry Champagne."
     glassware: flute
     ingredients: 
     - ½ ounce Clear Creek pear brandy 
@@ -485,7 +508,8 @@ recipes:
   - name: Last One Standing
     author: Natasha David
     year: 2014
-    notes: The combination of Cognac and Jamaican rum appears frequently in older cocktail recipes. Here, the duo creates a big, funky core flavor that plays off the bright fruit of the peach liqueur. The amaro acts as a bridge between these two opposing camps, working in much the same way bitters do, balancing other disparate flavors.
+    notes: |+2
+      The combination of Cognac and Jamaican rum appears frequently in older cocktail recipes. Here, the duo creates a big, funky core flavor that plays off the bright fruit of the peach liqueur. The amaro acts as a bridge between these two opposing camps, working in much the same way bitters do, balancing other disparate flavors.
     glassware: julep tin
     ingredients: 
     - 1 mint bouquet
@@ -509,7 +533,8 @@ recipes:
   - name: Heritage Julep
     author: Alex Day & Devon Tarby
     year: 2015
-    notes: The baked stone fruit and warm autumn flavors of this cocktail make it a great option for an Old-Fashioned lover who's looking for something on the more refreshing side. We double down on pear, bringing the spirituous heat and pear-like gritty texture thanks to pear brandy and the supple fruitiness of the pear liqueur. The addition of Amaro Montenegro brings this drink into the aperitif category.
+    notes: |+2
+      The baked stone fruit and warm autumn flavors of this cocktail make it a great option for an Old-Fashioned lover who's looking for something on the more refreshing side. We double down on pear, bringing the spirituous heat and pear-like gritty texture thanks to pear brandy and the supple fruitiness of the pear liqueur. The addition of Amaro Montenegro brings this drink into the aperitif category.
     glassware: julep tin
     ingredients: 
     - 1 mint bouquet
@@ -535,7 +560,8 @@ recipes:
   - name: Camellia Julep
     author: Devon Tarby
     year: 2013
-    notes: When we use an unaged spirit as the core of a cocktail, we often add other ingredients to mimic the flavors typically contributed by oak and time. Here, we use a clean, straightforward pear distillate that's been infused with bitter cacao nibs, enhanced with the nut and spice flavors from the amontillado sherry. 
+    notes: |+2
+      When we use an unaged spirit as the core of a cocktail, we often add other ingredients to mimic the flavors typically contributed by oak and time. Here, we use a clean, straightforward pear distillate that's been infused with bitter cacao nibs, enhanced with the nut and spice flavors from the amontillado sherry. 
     glassware: julep tin
     ingredients: 
     - 1 mint bouquet
@@ -554,7 +580,8 @@ recipes:
       - stirred
       - julep
   - name: Sazerac
-    notes: "Truly great cocktails become iconic. A Sazerac is such a drink. When you look at the Sazerac's composition spirit, sugar, bitters, citrus-it's so obviously linked to the Old-Fashioned, yet there are differences: While both are served in an Old-Fashioned glass, the Old Fashioned is served on ice, whereas the Sazerac is served neat. The Old-Fashioned is garnished with twists of citrus in the glass, whereas the Sazerac has a lemon twist expressed over the glass, but thetwist is then discarded. Most dramatically, the Sazerac plays a trick on the drinker's senses: Before the cocktail is poured, the glass is rinsed with absinthe, creating a pungent anise and citrus aroma that persists until the glass is empty-an aroma that contrasts with the cool, boozy liquid below. It's this technique-rinsing the glass with a highly aromatic spirit-that sets a Sazerac apart and defines it and the variations on it that follow. The Sazerac also provides a good example of how classic cocktails evolved based on regionally available ingredients. In the mid-1800s, the spirit of choice in Francophilic New Orleans-the Sazerac's birthplace was Cognac, but by the end of the century a shortage of French brandy due to a phylloxera outbreak that plagued France's vineyards shifted the Big Easy's focus to rye. New Orleans-made Peychaud's bitters, with its distinctive anise flavor, has remained a constant, but we've found that French absinthe and Angostura bitters are welcome additions to the benchmark recipe."
+    notes: |+2
+      "Truly great cocktails become iconic. A Sazerac is such a drink. When you look at the Sazerac's composition spirit, sugar, bitters, citrus-it's so obviously linked to the Old-Fashioned, yet there are differences: While both are served in an Old-Fashioned glass, the Old Fashioned is served on ice, whereas the Sazerac is served neat. The Old-Fashioned is garnished with twists of citrus in the glass, whereas the Sazerac has a lemon twist expressed over the glass, but thetwist is then discarded. Most dramatically, the Sazerac plays a trick on the drinker's senses: Before the cocktail is poured, the glass is rinsed with absinthe, creating a pungent anise and citrus aroma that persists until the glass is empty-an aroma that contrasts with the cool, boozy liquid below. It's this technique-rinsing the glass with a highly aromatic spirit-that sets a Sazerac apart and defines it and the variations on it that follow. The Sazerac also provides a good example of how classic cocktails evolved based on regionally available ingredients. In the mid-1800s, the spirit of choice in Francophilic New Orleans-the Sazerac's birthplace was Cognac, but by the end of the century a shortage of French brandy due to a phylloxera outbreak that plagued France's vineyards shifted the Big Easy's focus to rye. New Orleans-made Peychaud's bitters, with its distinctive anise flavor, has remained a constant, but we've found that French absinthe and Angostura bitters are welcome additions to the benchmark recipe."
     glassware: rocks
     ingredients: 
     - Vieux Pontarlier absinthe
@@ -576,7 +603,8 @@ recipes:
   - name: Cut and Paste
     author: Alex Day
     year: 2012
-    notes: Although it's aged for eight years, the apple brandy in this drink doesn't taste much like an aged spirit, so we also include pot-distilled Irish whiskey, with its vanilla and spice flavors, in the core. And because Irish whiskey has a nice affinity for honey, we use a honey syrup for the sweetener, which keeps the drink light and crisp, whereas Demerara Gum Syrup would probably be too cloying.
+    notes: |+2
+      Although it's aged for eight years, the apple brandy in this drink doesn't taste much like an aged spirit, so we also include pot-distilled Irish whiskey, with its vanilla and spice flavors, in the core. And because Irish whiskey has a nice affinity for honey, we use a honey syrup for the sweetener, which keeps the drink light and crisp, whereas Demerara Gum Syrup would probably be too cloying.
     glassware: rocks
     ingredients: 
     - Vieux Pontarlier absinthe
@@ -596,7 +624,8 @@ recipes:
   - name: Save Tonight
     author: Devon Tarby
     year: 2017
-    notes: In this cocktail, the tart bite of the cherry-infused rye whiskey is complemented by juiciness from the apple brandy, but alone those ingredients would come across as sweet and bland. However, just a couple of dashes of absinthe add an anise pop and complexity to the drink, accenting the tart and juicy flavors in an unexpected way-a great demonstration of the power of the seasoning.
+    notes: |+2
+      In this cocktail, the tart bite of the cherry-infused rye whiskey is complemented by juiciness from the apple brandy, but alone those ingredients would come across as sweet and bland. However, just a couple of dashes of absinthe add an anise pop and complexity to the drink, accenting the tart and juicy flavors in an unexpected way-a great demonstration of the power of the seasoning.
     glassware: rocks
     ingredients: 
     - Pernod absinthe
@@ -617,7 +646,8 @@ recipes:
   - name: Bananarac
     author: Natasha David
     year: 2014
-    notes: The idea of putting bananas in a boozy cocktail once seemed questionable at best. Then the liqueur company Giffard introduced Banane du Brésil to the US market, a banana liqueur that far exceeded our expectations. When our team first tasted it, we were excited to find it balanced and characterized by a true banana flavor-a rarity in liqueurs. It's also very versatile. Here, it plays a supporting role, seasoning a boozy drink.
+    notes: |+2
+      The idea of putting bananas in a boozy cocktail once seemed questionable at best. Then the liqueur company Giffard introduced Banane du Brésil to the US market, a banana liqueur that far exceeded our expectations. When our team first tasted it, we were excited to find it balanced and characterized by a true banana flavor-a rarity in liqueurs. It's also very versatile. Here, it plays a supporting role, seasoning a boozy drink.
     glassware: rocks
     ingredients: 
     - Pernod absinthe
@@ -636,7 +666,8 @@ recipes:
       - stirred
       - sazerac
   - name: Sherry Cobbler
-    notes: Replace the high-proof whiskey in an Old-Fashioned with a larger quantity of low-proof amontillado sherry, and swap muddled orange slices for the bitters, and you have a Cobbler. Amontillado sherry is a fortified wine that gives the cocktail both body and acidity, making it a strong backbone for the drink. When muddled, the orange wheels add not only a touch of sweetness from the flesh but also some seasoning from the bitter pith and the vibrant oils in the skin. This complexity is nicely counterbalanced by the levity and bright aroma of the fresh mint garnish. When it comes to the garnish, don't limit yourself to the orange wedge and mint called for here; an array of seasonal fruits is traditional, so play around with whatever fruits or herbs you have on hand. It's become an inside joke among our bartender friends to make the most ludicrous, overgarnished cobbler any time one of us requests one.
+    notes: |+2
+      Replace the high-proof whiskey in an Old-Fashioned with a larger quantity of low-proof amontillado sherry, and swap muddled orange slices for the bitters, and you have a Cobbler. Amontillado sherry is a fortified wine that gives the cocktail both body and acidity, making it a strong backbone for the drink. When muddled, the orange wheels add not only a touch of sweetness from the flesh but also some seasoning from the bitter pith and the vibrant oils in the skin. This complexity is nicely counterbalanced by the levity and bright aroma of the fresh mint garnish. When it comes to the garnish, don't limit yourself to the orange wedge and mint called for here; an array of seasonal fruits is traditional, so play around with whatever fruits or herbs you have on hand. It's become an inside joke among our bartender friends to make the most ludicrous, overgarnished cobbler any time one of us requests one.
     glassware: collins
     ingredients: 
     - 3 orange slices 
@@ -656,7 +687,8 @@ recipes:
   - name: Traction
     author: Devon Tarby
     year: 2014
-    notes: Sherry cobblers were all the rage in nineteenth-century America and we, being obnoxious flag-waving fans of sherry and sherry-based drinks, are happy to keep them in modern rotation. Here, rum shines a light on the dried fruit flavors that are often somewhat hidden in amontillado sherry.
+    notes: |+2
+      Sherry cobblers were all the rage in nineteenth-century America and we, being obnoxious flag-waving fans of sherry and sherry-based drinks, are happy to keep them in modern rotation. Here, rum shines a light on the dried fruit flavors that are often somewhat hidden in amontillado sherry.
     glassware: rocks
     ingredients: 
     - 2 lemon wedges
@@ -677,7 +709,8 @@ recipes:
   - name: Peeping Tomboy
     author: Devon Tarby
     year: 2017
-    notes: Almonds and stone fruits, such as apricots, peaches, and plums, are botanically related, and they tend to taste great together in cocktails. Amontillado sherry continues the nutty theme, while Cognac adds a bit of richness and proof. While fresh stone fruit can be a bit inconsistent in terms of sugar and acid, this template is nicely balanced to accommodate fruits of various ripeness.
+    notes: |+2
+      Almonds and stone fruits, such as apricots, peaches, and plums, are botanically related, and they tend to taste great together in cocktails. Amontillado sherry continues the nutty theme, while Cognac adds a bit of richness and proof. While fresh stone fruit can be a bit inconsistent in terms of sugar and acid, this template is nicely balanced to accommodate fruits of various ripeness.
     glassware: double rocks
     ingredients: 
     - 1 lemon wedge
@@ -697,7 +730,8 @@ recipes:
       - death & co
       - shaken
   - name: Hot Toddy
-    notes: Water is an often overlooked element of cocktails. In our Old-Fashioned, the water comes from a bit of dilution, both while stirring the ingredients over ice and as the chunk of ice in the cocktail melts a bit. A toddy, then, is really just an Old-Fashioned that swaps in hot water for cold. This takes the cocktail in a different direction for two key reasons. First, heat increases the perception of alcohol. If you were to take the same amount of water present in a properly diluted Old-Fashioned about 1 ounce-and warm it along with the spirit, sweetener, and bitters, you'd have a cocktail with an intensely alcoholic and unpleasant flavor. So for toddies the drink is lengthened. We've found that 4 ounces of water to 2 ounces of spirit is a good baseline. Second, alcohol evaporates when heated, so when you drink a hot toddy, the volatile aromas will rise to your nose before you take your first sip. This can be off-putting if the drink is too high in proof, but it also allows the drink maker to play with aromas, whether infused into a spirit or inherent in it. Calvados, for example, is ethereal when heated, with a warming perfume that's almost reminiscent of putting on a thick sweater. Because toddies are both heated and more diluted than other cocktails, they require a bit more sweetener and seasoning than Old-Fashioneds; otherwise, they feel thin. The small amount of lemon juice in the drink doesn't make it acidic; rather, it helps season the cocktail and bring the other components into harmony.
+    notes: |+2
+      Water is an often overlooked element of cocktails. In our Old-Fashioned, the water comes from a bit of dilution, both while stirring the ingredients over ice and as the chunk of ice in the cocktail melts a bit. A toddy, then, is really just an Old-Fashioned that swaps in hot water for cold. This takes the cocktail in a different direction for two key reasons. First, heat increases the perception of alcohol. If you were to take the same amount of water present in a properly diluted Old-Fashioned about 1 ounce-and warm it along with the spirit, sweetener, and bitters, you'd have a cocktail with an intensely alcoholic and unpleasant flavor. So for toddies the drink is lengthened. We've found that 4 ounces of water to 2 ounces of spirit is a good baseline. Second, alcohol evaporates when heated, so when you drink a hot toddy, the volatile aromas will rise to your nose before you take your first sip. This can be off-putting if the drink is too high in proof, but it also allows the drink maker to play with aromas, whether infused into a spirit or inherent in it. Calvados, for example, is ethereal when heated, with a warming perfume that's almost reminiscent of putting on a thick sweater. Because toddies are both heated and more diluted than other cocktails, they require a bit more sweetener and seasoning than Old-Fashioneds; otherwise, they feel thin. The small amount of lemon juice in the drink doesn't make it acidic; rather, it helps season the cocktail and bring the other components into harmony.
     glassware: toddy mug
     ingredients: 
     - 2 lemon wedges
@@ -718,7 +752,8 @@ recipes:
   - name: In Hot Water
     author: Brittany Fells
     year: 2014
-    notes: If a traditional Hot Toddy isn't wintry enough for you, try this version, which was developed for the Rose, in chilly Jackson Hole, Wyoming. It evokes a boozy cup of coffee, with the Ristretto bringing dense espresso flavors to the mix, and cardamom-laced bitters offering savory flavors reminiscent of chicory.
+    notes: |+2
+      If a traditional Hot Toddy isn't wintry enough for you, try this version, which was developed for the Rose, in chilly Jackson Hole, Wyoming. It evokes a boozy cup of coffee, with the Ristretto bringing dense espresso flavors to the mix, and cardamom-laced bitters offering savory flavors reminiscent of chicory.
     glassware: toddy mug
     ingredients: 
     - 1½ ounces Pierre Ferrand 1840 Cognac
@@ -738,7 +773,8 @@ recipes:
   - name: Gun Club Toddy
     author: Alex Day
     year: 2012
-    notes: A toddy is supposed to be soothing, and in this variation we've tried to add as many comforting elements as possible. Built on a backbone of Calvados and Pineau des Charentes (an aperitif made from unfermented grape juice and young Cognac), and enhanced with a restorative combination of chamomile, lemon, and honey, this toddy is rich and nurturing.
+    notes: |+2
+      A toddy is supposed to be soothing, and in this variation we've tried to add as many comforting elements as possible. Built on a backbone of Calvados and Pineau des Charentes (an aperitif made from unfermented grape juice and young Cognac), and enhanced with a restorative combination of chamomile, lemon, and honey, this toddy is rich and nurturing.
     glassware: toddy mug
     ingredients: 
     - 1½ ounces Chamomile-Infused Calvados
@@ -759,7 +795,8 @@ recipes:
   - name: Heat Miser
     author: Devon Tarby, Katie Emmerson & Alex Day
     year: 2015
-    notes: There's a lot more at play here than in a traditional toddy. The chile-infused bourbon adds gentle heat without making the drink overtly spicy, and bright apple juice stands in for water, adding an extra layer of complexity.
+    notes: |+2
+      There's a lot more at play here than in a traditional toddy. The chile-infused bourbon adds gentle heat without making the drink overtly spicy, and bright apple juice stands in for water, adding an extra layer of complexity.
     glassware: toddy mug
     ingredients: 
     - 1 ounce Thai Chile-Infused Bourbon
@@ -837,7 +874,8 @@ recipes:
       - freezer bar
       - martini
   - name: Vesper
-    notes: Though we called out gin and vodka as the core of Martinis in the preceding section, we've also emphasized that the true core of these cocktails is a combination of spirit and aromatized wine. In the Vesper, the two core spirits are combined-something that works in this classic cocktail because of a corresponding shift in the balance, wherein the vermouth has been replaced with Lillet blanc. The Lillet has a similar alcohol content, but it adds a fruitier quality, as opposed to vermouth's savoriness, and its flavors are delicate enough that using just gin as the base-even a softer gin, like Plymouth-would overpower the drink. Replacing some of the gin with vodka helps to stretch out the gin's botanicals and allows the Lillet to shine.
+    notes: |+2
+      Though we called out gin and vodka as the core of Martinis in the preceding section, we've also emphasized that the true core of these cocktails is a combination of spirit and aromatized wine. In the Vesper, the two core spirits are combined-something that works in this classic cocktail because of a corresponding shift in the balance, wherein the vermouth has been replaced with Lillet blanc. The Lillet has a similar alcohol content, but it adds a fruitier quality, as opposed to vermouth's savoriness, and its flavors are delicate enough that using just gin as the base-even a softer gin, like Plymouth-would overpower the drink. Replacing some of the gin with vodka helps to stretch out the gin's botanicals and allows the Lillet to shine.
     glassware: nick & nora
     ingredients: 
     - 1½ ounces Plymouth gin 
@@ -856,7 +894,8 @@ recipes:
   - name: Dean Martin
     author: Devon Tarby & Alex Day
     year: 2015
-    notes: "Splitting the base with other spirits can be an easy way to keep the form of the Martini 
+    notes: |+2
+      "Splitting the base with other spirits can be an easy way to keep the form of the Martini 
       largely intact while creating an entirely new cocktail. The Dean Martin is a great example 
       of this strategy, replacing some of the gin with a highly flavorful Douglas fir brandy. 
       Because that changes the balance too, we added woodsy La Quintinye blanc vermouth to accent 
@@ -920,7 +959,8 @@ recipes:
   - name: Normandie Club Martini #1
     author: Devon Tarby & Alex Day
     year: 2015
-    notes: This cocktail, in which fino sherry replaces the vermouth, offers a great example of how a fairly simple change to the balance calls for further adjustments. Because fino sherry is so dry, we've used more than the amount of vermouth called for in our root Vodka Martini recipe (page 62) and have also added a bit of honey syrup to give the cocktail greater body. Then, because sherry is a more delicate modifier than vermouth, in this cocktail we showcase the subtle texture of a wheat-based vodka—a quality that vermouth would overshadow. The final touch is a spritz of a mineral-rich sea salt solution, which gives the drink an added layer of briny aroma.
+    notes: |+2
+      This cocktail, in which fino sherry replaces the vermouth, offers a great example of how a fairly simple change to the balance calls for further adjustments. Because fino sherry is so dry, we've used more than the amount of vermouth called for in our root Vodka Martini recipe (page 62) and have also added a bit of honey syrup to give the cocktail greater body. Then, because sherry is a more delicate modifier than vermouth, in this cocktail we showcase the subtle texture of a wheat-based vodka—a quality that vermouth would overshadow. The final touch is a spritz of a mineral-rich sea salt solution, which gives the drink an added layer of briny aroma.
     glassware: nick & nora
     ingredients: 
     - 2 ounces Aylesbury Duck vodka 
@@ -938,7 +978,8 @@ recipes:
   - name: Little Victory
     author: Alex Day
     year: 2013
-    notes: A more sensational way to change the balance is to infuse the aromatized wine with flavorings. This drink is a riff on the Vesper (page 71), in which an aromatized wine (Cocchi Americano bianco) is flavored with a few drops of root beer extract. On its own, the infused Cocchi is tasty, but when mixed into the cocktail it gets a little lost, so we add a bit of orange marmalade, which introduces a touch of sweetness and a pleasant bitterness that bridges the flavors and helps highlight the infused Cocchi.
+    notes: |+2
+      A more sensational way to change the balance is to infuse the aromatized wine with flavorings. This drink is a riff on the Vesper (page 71), in which an aromatized wine (Cocchi Americano bianco) is flavored with a few drops of root beer extract. On its own, the infused Cocchi is tasty, but when mixed into the cocktail it gets a little lost, so we add a bit of orange marmalade, which introduces a touch of sweetness and a pleasant bitterness that bridges the flavors and helps highlight the infused Cocchi.
     glassware: double rocks
     ingredients: 
     - 1½ ounces Beefeater London Dry gin
@@ -955,7 +996,8 @@ recipes:
       - martini
       - freezer bar
   - name: Manhattan
-    notes: A Manhattan is basically a Martini that uses rye whiskey rather than gin, and sweet vermouth rather than dry. The yang to the Martini's yin, it nicely demonstrates how altering one element of a cocktail generally calls for other adjustments. Aged spirits, especially higher-proof ones, need to be paired with modifiers that can support their intensity without being smothered. If we were to simply substitute rye whiskey for gin in a Martini, the rye would overshadow the vermouth. Classic Angostura bitters connect the peppery rye and sweet vermouth, and offer yet another avenue for exploration, as you'll see in some of the variations that follow.
+    notes: |+2
+      A Manhattan is basically a Martini that uses rye whiskey rather than gin, and sweet vermouth rather than dry. The yang to the Martini's yin, it nicely demonstrates how altering one element of a cocktail generally calls for other adjustments. Aged spirits, especially higher-proof ones, need to be paired with modifiers that can support their intensity without being smothered. If we were to simply substitute rye whiskey for gin in a Martini, the rye would overshadow the vermouth. Classic Angostura bitters connect the peppery rye and sweet vermouth, and offer yet another avenue for exploration, as you'll see in some of the variations that follow.
     glassware: nick & nora
     ingredients: 
     - 2 ounces Rittenhouse rye 
@@ -971,7 +1013,8 @@ recipes:
       - classic
       - manhattan
   - name: Perfect Manhattan
-    notes: In cocktail parlance, the term "perfect" refers to a drink that contains equal parts sweet and dry vermouth. Sounds easy enough, but splitting modifiers is tricky, especially in a Manhattan. If you use the wrong combination of vermouths, one (or both) will fight with the whiskey for attention. But in this recipe, the crispness of the dry vermouth, reinforced by the lemon twist garnish, results in a lighter, brighter Manhattan.
+    notes: |+2
+      In cocktail parlance, the term "perfect" refers to a drink that contains equal parts sweet and dry vermouth. Sounds easy enough, but splitting modifiers is tricky, especially in a Manhattan. If you use the wrong combination of vermouths, one (or both) will fight with the whiskey for attention. But in this recipe, the crispness of the dry vermouth, reinforced by the lemon twist garnish, results in a lighter, brighter Manhattan.
     glassware: nick & nora
     ingredients: 
     - 2 ounces Rittenhouse rye
@@ -990,7 +1033,8 @@ recipes:
   - name: Blood Orange
     author: Dylan Bruce
     year: 2016
-    notes: While gorgeous blood oranges are tempting to use in cocktails, the flavor of their juice is flabby and leaves something to be desired. However, blood orange zest is fragrant, with a bright, almost savory orange flavor; here it makes an appearance in an infused vermouth. The Cognac acts as a bridge in this Manhattan variation, linking the spiciness of the rye with the vermouth's bitter notes.
+    notes: |+2
+      While gorgeous blood oranges are tempting to use in cocktails, the flavor of their juice is flabby and leaves something to be desired. However, blood orange zest is fragrant, with a bright, almost savory orange flavor; here it makes an appearance in an infused vermouth. The Cognac acts as a bridge in this Manhattan variation, linking the spiciness of the rye with the vermouth's bitter notes.
     glassware: coupe
     ingredients: 
     - 1 ounce Rittenhouse rye
@@ -1005,7 +1049,8 @@ recipes:
       - stirred
       - manhattan
   - name: Martinez
-    notes: True, the Martini and its variations typically involve a simple harmony of spirit and vermouth, but as just mentioned, a host of cocktails in its extended family also include a small amount of liqueur. In the Martinez, just 1 teaspoon of maraschino liqueur brings both fruitiness and astringency, qualities that pair beautifully with the vanilla flavors in aged spirits and sweet vermouth. When coming up with Martinez variations, the liqueur is a great place to start, given that there are so many interesting choices to explore, from Bénédictine, which introduces a honeyed sweetness and herbal undertones, to fruit liqueurs, such as peach, apricot, or raspberry.
+    notes: |+2
+      True, the Martini and its variations typically involve a simple harmony of spirit and vermouth, but as just mentioned, a host of cocktails in its extended family also include a small amount of liqueur. In the Martinez, just 1 teaspoon of maraschino liqueur brings both fruitiness and astringency, qualities that pair beautifully with the vanilla flavors in aged spirits and sweet vermouth. When coming up with Martinez variations, the liqueur is a great place to start, given that there are so many interesting choices to explore, from Bénédictine, which introduces a honeyed sweetness and herbal undertones, to fruit liqueurs, such as peach, apricot, or raspberry.
     glassware: nick & nora
     ingredients: 
     - 1½ ounces Hayman's Old Tom gin
@@ -1024,7 +1069,8 @@ recipes:
   - name: Mea Culpa
     author: Devon Tarby
     year: 2015
-    notes: We often say that bitter and sweet ingredients can act as a glue, binding disparate components of a drink together, and this cocktail provides a great example. Small amount of two liqueurs—bittersweet China-China Amer and rich apricot liqueur—marry the vodka with not one but two sherries, giving this drinks quiet backbone of dried fruit and nuts with a pleasant lingering bitterness.
+    notes: |+2
+      We often say that bitter and sweet ingredients can act as a glue, binding disparate components of a drink together, and this cocktail provides a great example. Small amount of two liqueurs—bittersweet China-China Amer and rich apricot liqueur—marry the vodka with not one but two sherries, giving this drinks quiet backbone of dried fruit and nuts with a pleasant lingering bitterness.
     glassware: nick & nora
     ingredients: 
     - 2 ounces Grey Goose vodka
@@ -1043,7 +1089,8 @@ recipes:
   - name: Beth's Going to Town
     author: Daniel Zacharczuk
     year: 2015
-    notes: "Here's a complex, Martinez-style drink that uses a soft scotch and a rich, spicy contemporary 
+    notes: |+2
+      "Here's a complex, Martinez-style drink that uses a soft scotch and a rich, spicy contemporary 
       gin in place of the traditional Old Tom gin. This is a great example of the value of knowing 
       your ingredients: The unique sarsaparilla flavors of the Aviation gin marry well with the 
       cola notes found in both the sweet Spanish vermouth and the Ramazzotti amaro; substituting 
@@ -1064,7 +1111,8 @@ recipes:
       - stirred
       - old-fashioned
   - name: Brooklyn
-    notes: Another strategy for experimenting with the balance is to substitute small amounts of amari or liqueurs for a portion of the vermouth or aromatized wine. The most classic example of this is the Brooklyn, a riff on the Manhattan that uses a bit of amaro and just a teaspoon of maraschino liqueur. Despite its Manhattan-adjacent name, you can quickly recognize this drink as a rye-based variation on the Martinez (page 86) because of the liqueur. Though the Brooklyn was historically made with Amer Picon, an orange flavored French liqueur, modern bottlings of Amer Picon-if you can even find them-are less bitter and flavorful than older versions, so in its place we use China-China Amer, a bittersweet aperitif crafted with the classic Amer Picon recipe in mind.
+    notes: |+2
+      Another strategy for experimenting with the balance is to substitute small amounts of amari or liqueurs for a portion of the vermouth or aromatized wine. The most classic example of this is the Brooklyn, a riff on the Manhattan that uses a bit of amaro and just a teaspoon of maraschino liqueur. Despite its Manhattan-adjacent name, you can quickly recognize this drink as a rye-based variation on the Martinez (page 86) because of the liqueur. Though the Brooklyn was historically made with Amer Picon, an orange flavored French liqueur, modern bottlings of Amer Picon-if you can even find them-are less bitter and flavorful than older versions, so in its place we use China-China Amer, a bittersweet aperitif crafted with the classic Amer Picon recipe in mind.
     glassware: nick & nora
     ingredients: 
     - 2 ounces Rittenhouse rye
@@ -1080,7 +1128,8 @@ recipes:
       - stirred
       - classic
   - name: Poet's Dream
-    notes: As you may recall from the Improved Whiskey Cocktail, the term improved refers to adding a bit of highly flavorful liqueur to a basic cocktail. This is a valuable way of thinking about how seemingly minor adjustments can create distinctive new variations. In the Poet's Dream, a basic Martini is "improved" by backing off on the vermouth a bit and including a bit of herbaceous Bénédictine.
+    notes: |+2
+      As you may recall from the Improved Whiskey Cocktail, the term improved refers to adding a bit of highly flavorful liqueur to a basic cocktail. This is a valuable way of thinking about how seemingly minor adjustments can create distinctive new variations. In the Poet's Dream, a basic Martini is "improved" by backing off on the vermouth a bit and including a bit of herbaceous Bénédictine.
     glassware: nick & nora
     ingredients: 
     - 2 ounces Beefeater London Dry gin
@@ -1099,7 +1148,8 @@ recipes:
   - name: European Union
     author: Alex Day
     year: 2009
-    notes: Before creating this drink, we'd only encountered Calvados in drinks as a base spirit. In this Martinez variation, a small amount of Calvados softens the Old Tom gin and adds a fruity depth to the drink, while a touch of Strega adds complexity, acting much like bitters. All the (pre-Brexit) European friends in one glass.
+    notes: |+2
+      Before creating this drink, we'd only encountered Calvados in drinks as a base spirit. In this Martinez variation, a small amount of Calvados softens the Old Tom gin and adds a fruity depth to the drink, while a touch of Strega adds complexity, acting much like bitters. All the (pre-Brexit) European friends in one glass.
     glassware: coupe
     ingredients: 
     - 1½ ounces Hayman's Old Tom gin 
@@ -1117,7 +1167,8 @@ recipes:
   - name: Watercress
     author: Devon Tarby
     year: 2016
-    notes: "When you glance at this drink's ingredients, you might expect a savory cocktail to emerge, 
+    notes: |+2
+      "When you glance at this drink's ingredients, you might expect a savory cocktail to emerge, 
       but using a centrifuge to make the Watercress Infused Gin releases all of the plant's peppery 
       flavors without making the gin taste like a liquid salad. Don't have a centrifuge? No sweat: 
       just lightly muddle a few watercress leaves with the vermouths and peach liqueur, then remove 
@@ -1139,7 +1190,8 @@ recipes:
       - death & co
       - stirred
   - name: Negroni
-    notes: "By and large, the cocktails in this chapter are characterized by a core flavor of spirit and 
+    notes: |+2
+      "By and large, the cocktails in this chapter are characterized by a core flavor of spirit and 
       vermouth or another aromatized wine, and generally speaking, they fail when those components 
       aren't in balance. However, there is an exception to this rule (as there always is): the 
       Negroni, a deeply bitter cocktail made with a full ounce of Campari. Because Campari brings a 
@@ -1167,7 +1219,8 @@ recipes:
   - name: Strawberry Negroni
     author: Trevor Easter & Devon Tarby
     year: 2017
-    notes: This Negroni riff doesn't veer too far from the original cocktail, but does so in ways that are profoundly delicious. A touch of Clarified Strawberry Syrup rounds off the bitter edges of the Campari, while drops of chocolatey (but dry) Cacao Nib Tincture deepens the bittersweet connection between Campari and sweet vermouth.
+    notes: |+2
+      This Negroni riff doesn't veer too far from the original cocktail, but does so in ways that are profoundly delicious. A touch of Clarified Strawberry Syrup rounds off the bitter edges of the Campari, while drops of chocolatey (but dry) Cacao Nib Tincture deepens the bittersweet connection between Campari and sweet vermouth.
     glassware: rocks
     ingredients: 
     - 1 ounce Beefeater London Dry gin
@@ -1187,7 +1240,8 @@ recipes:
   - name: White Negroni
     author: Wayne Collins
     year: 2000
-    notes: Replacing the Negroni's rich, red cloak of sweet vermouth and Campari with light, citrusy Suze (a French aperitif) and floral Dolin blanc, yields the White Negroni. We think of it as a seasonal wardrobe swap, and though we do drink classic Negronis year-round, in summer we like to go with the white.
+    notes: |+2
+      Replacing the Negroni's rich, red cloak of sweet vermouth and Campari with light, citrusy Suze (a French aperitif) and floral Dolin blanc, yields the White Negroni. We think of it as a seasonal wardrobe swap, and though we do drink classic Negronis year-round, in summer we like to go with the white.
     glassware: rocks
     ingredients: 
     - 1½ ounces Beefeater London Dry gin
@@ -1203,7 +1257,8 @@ recipes:
       - negroni
       - freezer bar
   - name: La Rosita
-    notes: "Is this a tequila-laced Perfect Manhattan with the addition of Campari, or a 
+    notes: |+2
+      "Is this a tequila-laced Perfect Manhattan with the addition of Campari, or a 
       tequila Negroni that splits the vermouths? Either way, the addition of dry vermouth is 
       key in our version of Gary Regan's adaptation of a recipe found in an old copy of Mr. Boston: 
       Official Bartender's Guide, as the savory flavors of the Dolin blanc amplify the vegetal 
@@ -1226,7 +1281,8 @@ recipes:
       - negroni
       - manhattan
   - name: Boulevardier
-    notes: "The Boulevardier dates back to the 1920s, when it made an appearance in Barflies and 
+    notes: |+2
+      "The Boulevardier dates back to the 1920s, when it made an appearance in Barflies and 
       Cocktails, a seminal cocktail book written by Harry MacElhone, the owner of Harry's New York 
       Bar in Paris. The original recipe called for equal portions of each ingredient, a ratio that 
       has shifted, over the years, in favor of whiskey. Now that you understand the basic orthodoxy 
@@ -1248,7 +1304,8 @@ recipes:
       - classic
       - negroni
   - name: Old Pal
-    notes: The Old Pal is almost identical to the Boulevardier, with dry vermouth being substituted for the sweet, and rye whiskey instead of bourbon. Though this Old Pal teeters toward sweet, it's also spicy thanks to the rye, with a bright backbone from the French vermouth, and a bitter finish via Campari.
+    notes: |+2
+      The Old Pal is almost identical to the Boulevardier, with dry vermouth being substituted for the sweet, and rye whiskey instead of bourbon. Though this Old Pal teeters toward sweet, it's also spicy thanks to the rye, with a bright backbone from the French vermouth, and a bitter finish via Campari.
     glassware: nick & nora
     ingredients: 
     - 1½ ounces Rittenhouse rye
@@ -1266,7 +1323,8 @@ recipes:
   - name: Abbot Kinney
     author: Devon Tarby
     year: 2015
-    notes: Although this cocktail is still, it works like a spritz, having a low ABV and enough acidity to be a refreshing palate cleanser when consumed with a meal.
+    notes: |+2
+      Although this cocktail is still, it works like a spritz, having a low ABV and enough acidity to be a refreshing palate cleanser when consumed with a meal.
     glassware: nick & nora
     ingredients: 
     - ¾ ounce Fords gin
@@ -1283,7 +1341,8 @@ recipes:
       - death & co
       - stirred
   - name: Bamboo
-    notes: "If there's one unifying theme among all the Martini variations in this chapter thus far, it's 
+    notes: |+2
+      "If there's one unifying theme among all the Martini variations in this chapter thus far, it's 
       that they're very boozy. But here's an iteration that's lower in ABV while still reflecting 
       the spirit of the Martini: the classic Bamboo, which swaps out gin for amontillado sherry. 
       Because the sherry is lower in alcohol and not as pungently flavored as gin, the proportion 
@@ -1309,7 +1368,8 @@ recipes:
   - name: Sonoma
     author: Devon Tarby
     year: 2015
-    notes: What would it taste like to drink wine while standing in a Sonoma farm? To answer the question that inspired this riff on the Bamboo, we start with a fruity Chardonnay and add a touch of sweet honey; the bright grapey acidity of verjus; and Calvados, an apple brandy native to Normandy, France, another bucolic agricultural region. Topping it off is a spray of a white pepper aroma, which has the distinct smell of a barn.
+    notes: |+2
+      What would it taste like to drink wine while standing in a Sonoma farm? To answer the question that inspired this riff on the Bamboo, we start with a fruity Chardonnay and add a touch of sweet honey; the bright grapey acidity of verjus; and Calvados, an apple brandy native to Normandy, France, another bucolic agricultural region. Topping it off is a spray of a white pepper aroma, which has the distinct smell of a barn.
     glassware: nick & nora
     ingredients: 
     - 2½ ounces dry, unoaked Chardonnay
@@ -1327,7 +1387,8 @@ recipes:
   - name: Meyer Lemon Apertif
     author: Alex Day
     year: 2016
-    notes: A lighter, brighter riff on the Bamboo, this is our take on a root-to-stem cocktail that uses the entire Meyer lemon. We combine the ingredients and infuse the cocktail with the fruit's fragrant zest, then we use the leftover juice to make a Meyer lemon cordial that can be made into a carbonated soda and served alongside this cocktail. The recipe below makes about 1 liter—the perfect sophisticated and refreshing aperitif for a party. Serves 10.
+    notes: |+2
+      A lighter, brighter riff on the Bamboo, this is our take on a root-to-stem cocktail that uses the entire Meyer lemon. We combine the ingredients and infuse the cocktail with the fruit's fragrant zest, then we use the leftover juice to make a Meyer lemon cordial that can be made into a carbonated soda and served alongside this cocktail. The recipe below makes about 1 liter—the perfect sophisticated and refreshing aperitif for a party. Serves 10.
     glassware: coupe
     ingredients: 
     - 12 ounces Lustau Puerto fino sherry
@@ -1367,7 +1428,8 @@ recipes:
       - shaken
       - daiquiri
   - name: Our Ideal Daiquiri
-    notes: One thing we love about the Daiquiri is that it's a phenomenal way to explore the diverse world of rum. For our root recipe, we veer slightly from the classic by using a split base of light Spanish-style rum accented with a tiny amount of flavorful rhum agricole. We also bump up the lime juice a touch for a brighter hit of citrus. This recipe yields a drink that's simultaneously deeply refreshing and pleasantly complex.
+    notes: |+2
+      One thing we love about the Daiquiri is that it's a phenomenal way to explore the diverse world of rum. For our root recipe, we veer slightly from the classic by using a split base of light Spanish-style rum accented with a tiny amount of flavorful rhum agricole. We also bump up the lime juice a touch for a brighter hit of citrus. This recipe yields a drink that's simultaneously deeply refreshing and pleasantly complex.
     glassware: coupe
     ingredients: 
     - 1¾ ounces Caña Brava white rum 
@@ -1423,7 +1485,8 @@ recipes:
       - citrus
       - daiquiri
   - name: Amaretto Sour
-    notes: To extend the experiment even further, you can use a liqueur or even a fortified wine as the core. And indeed, some classic sours are made in just this way. The Amaretto Sour is a great example. Because it calls for a full 2 ounces of nutty, sweet amaretto, some adjustments to the other ingredients are needed; to keep the cocktail from being way too sweet, we decrease the amount of simple syrup.
+    notes: |+2
+      To extend the experiment even further, you can use a liqueur or even a fortified wine as the core. And indeed, some classic sours are made in just this way. The Amaretto Sour is a great example. Because it calls for a full 2 ounces of nutty, sweet amaretto, some adjustments to the other ingredients are needed; to keep the cocktail from being way too sweet, we decrease the amount of simple syrup.
     glassware: double rocks
     ingredients: 
     - 2 ounces Lazzaroni amaretto 
@@ -1440,7 +1503,8 @@ recipes:
       - citrus
       - classic
   - name: Fresh Gimlet
-    notes: A more dramatic way to experiment with the core is to use a completely different spirit. A classic gimlet is made with lime cordial, a syrup originally devised to preserve lime juice for long sea voyages. Here, we make a version with fresh lime juice—essentially a Daiquiri made with gin. In keeping with our root Daiquiri recipe, we've included a full ounce of lime juice for a bright pop of citrus.
+    notes: |+2
+      A more dramatic way to experiment with the core is to use a completely different spirit. A classic gimlet is made with lime cordial, a syrup originally devised to preserve lime juice for long sea voyages. Here, we make a version with fresh lime juice—essentially a Daiquiri made with gin. In keeping with our root Daiquiri recipe, we've included a full ounce of lime juice for a bright pop of citrus.
     glassware: coupe
     ingredients: 
     - 2 ounces Plymouth gin 
@@ -1497,7 +1561,8 @@ recipes:
       - citrus
       - daiquiri
   - name: Pisco Sour
-    notes: "Some drinks benefit from using a combination of lemon and lime juices: lemon for its mild 
+    notes: |+2
+      "Some drinks benefit from using a combination of lemon and lime juices: lemon for its mild 
       flavor and lime for its brightness. For our take on the classic Pisco Sour, this is exactly 
       what we do, as we've found that this cocktail isn't nearly as delicious when we use just one 
       or the other. The pungency of the lime juice plays well with the gritty texture of the pisco, 
@@ -1520,7 +1585,8 @@ recipes:
       - citrus
       - classic
   - name: Hemingway Daiquiri
-    notes: Grapefruit juice has a delicious bitter-tart flavor that makes it one of our favorite alternatives to lemon and lime juice in cocktails. To get an idea of how grapefruit juice affects the balance of a drink, we'll break down the classic Hemingway Daiquiri. Because grapefruit juice isn't as acidic as lime juice, simply substituting 1 ounce of it for the lime juice in our root Daiquiri recipe would yield a thin cocktail. And as you can see, the recipe for this classic variation also contains a somewhat generous amount of lime juice. Then, because both the grapefruit juice and the maraschino liqueur add sweetness, the amount of simple syrup is dialed way back. This drink is very much about the relationship between rum, grapefruit juice, and maraschino liqueur, but it gets its amazing vibrancy from the lime juice and simple syrup.
+    notes: |+2
+      Grapefruit juice has a delicious bitter-tart flavor that makes it one of our favorite alternatives to lemon and lime juice in cocktails. To get an idea of how grapefruit juice affects the balance of a drink, we'll break down the classic Hemingway Daiquiri. Because grapefruit juice isn't as acidic as lime juice, simply substituting 1 ounce of it for the lime juice in our root Daiquiri recipe would yield a thin cocktail. And as you can see, the recipe for this classic variation also contains a somewhat generous amount of lime juice. Then, because both the grapefruit juice and the maraschino liqueur add sweetness, the amount of simple syrup is dialed way back. This drink is very much about the relationship between rum, grapefruit juice, and maraschino liqueur, but it gets its amazing vibrancy from the lime juice and simple syrup.
     glassware: coupe
     ingredients: 
     - 1½ ounces Flor de Caña 4-year white rum
@@ -1541,7 +1607,8 @@ recipes:
   - name: Zombie Punch
     author: Don the Beachcomber
     year: 1934
-    notes: "Former Death & Co head bartender Brian Miller's reworked recipe set the stage for this version of our own. A tiki-head of unquenchable enthusiasm, Brian meticulously studied the Zombie form and built a delicious (and highly potent) cocktail. Our homage backs off slightly on the booze (only a little!) and tweaks the rum mix a bit. Depending on the availability of rum in your area, the key is to ensure the mix of a Jamaican rum, an aged Spanish style rum, and aged 151 rum (also known as firewater). Drink with caution."
+    notes: |+2
+      "Former Death & Co head bartender Brian Miller's reworked recipe set the stage for this version of our own. A tiki-head of unquenchable enthusiasm, Brian meticulously studied the Zombie form and built a delicious (and highly potent) cocktail. Our homage backs off slightly on the booze (only a little!) and tweaks the rum mix a bit. Depending on the availability of rum in your area, the key is to ensure the mix of a Jamaican rum, an aged Spanish style rum, and aged 151 rum (also known as firewater). Drink with caution."
     glassware: zombie
     ingredients: 
     - 1¼ ounces Appleton Estate Signature Blend rum
@@ -1562,7 +1629,8 @@ recipes:
       - citrus
       - tiki
   - name: Southside
-    notes: In bartending circles, there's an ongoing debate about whether this classic Daiquiri variation should be made with lemon juice or lime juice. Frankly, it's delicious either way, but we lean toward lime for its brightness when combined with mint. The Southside is similar to our Fresh Gimlet but even more refreshing thanks to the muddled mint. It's also slightly more complex because it includes a dash of bitters.
+    notes: |+2
+      In bartending circles, there's an ongoing debate about whether this classic Daiquiri variation should be made with lemon juice or lime juice. Frankly, it's delicious either way, but we lean toward lime for its brightness when combined with mint. The Southside is similar to our Fresh Gimlet but even more refreshing thanks to the muddled mint. It's also slightly more complex because it includes a dash of bitters.
     glassware: coupe
     ingredients: 
     - 5 mint leaves
@@ -1584,7 +1652,8 @@ recipes:
   - name: Boukman Daiquiri
     author: Alex Day
     year: 2008
-    notes: The Daiquiri template is so simple that riffing on it is easy. One of our favorite starting points is to introduce another rum or spirit as part of the core. Here, we replace a bit of the rum with rich, smooth Cognac, then bolster the aged character of the Cognac with a spiced syrup. When choosing the citrus for this drink, it could be tempting to use lemon juice because it would complement the Cognac and cinnamon so well. The result would be a decent drink, but lime juice cuts through the cinnamon and Cognac and imparts an unexpected astringency, keeping the drink bright and refreshing.
+    notes: |+2
+      The Daiquiri template is so simple that riffing on it is easy. One of our favorite starting points is to introduce another rum or spirit as part of the core. Here, we replace a bit of the rum with rich, smooth Cognac, then bolster the aged character of the Cognac with a spiced syrup. When choosing the citrus for this drink, it could be tempting to use lemon juice because it would complement the Cognac and cinnamon so well. The result would be a decent drink, but lime juice cuts through the cinnamon and Cognac and imparts an unexpected astringency, keeping the drink bright and refreshing.
     glassware: coupe
     ingredients: 
     - 1½ ounces Flor de Cana 4-year white rum
@@ -1600,7 +1669,8 @@ recipes:
       - citrus
       - daiquiri
   - name: Jack Rose
-    notes: Grenadine, made from pomegranate juice and spiked with orange oil, has a flavor that's both juicy and tangy, a character that highlights the apple brandy in this classic cocktail. Lime juice provides a counterpoint to the grenadine's richness, cutting through the deep sweetness of the syrup.
+    notes: |+2
+      Grenadine, made from pomegranate juice and spiked with orange oil, has a flavor that's both juicy and tangy, a character that highlights the apple brandy in this classic cocktail. Lime juice provides a counterpoint to the grenadine's richness, cutting through the deep sweetness of the syrup.
     glassware: coupe
     ingredients: 
     - 1½ ounces Laird's 100-proof straight apple brandy
@@ -1617,7 +1687,8 @@ recipes:
       - citrus
       - classic
   - name: Bee's Knees
-    notes: The Boukman Daiquiri highlights an interesting way to play with the sour template - by substituting a flavorful syrup for the simple syrup. A good rule of thumb for matching flavorful syrups with citrus is that lemon juice has a soft acidity that doesn't distract from honey, whereas lime juice brings an astringency that can cut through a dense syrup or heighten the flavors in a syrup. If honey were paired with lime juice in this classic cocktail, its flavor would disappear into the background.
+    notes: |+2
+      The Boukman Daiquiri highlights an interesting way to play with the sour template - by substituting a flavorful syrup for the simple syrup. A good rule of thumb for matching flavorful syrups with citrus is that lemon juice has a soft acidity that doesn't distract from honey, whereas lime juice brings an astringency that can cut through a dense syrup or heighten the flavors in a syrup. If honey were paired with lime juice in this classic cocktail, its flavor would disappear into the background.
     glassware: coupe
     ingredients: 
     - 2 ounces London Dry gin
@@ -1632,7 +1703,8 @@ recipes:
       - citrus
       - classic
   - name: Pink Lady
-    notes: You can think of this classic cocktail as a mash-up between the Bee's Knees and the Jack Rose. Gin and a bit of apple brandy make up the core and are enhanced by juicy-tart grenadine. Lime juice would overpower the gin, whereas lemon acts as a soft bridge between the gin, brandy, and grenadine. The Pink Lady is also a good lesson in restraint; if it simply used a full ¾ ounce of grenadine in place of the simple syrup in the basic sour template, the cocktail would be all about the grenadine; instead, it calls for just ½ ounce of grenadine and supplements it with simple syrup. Why only ½ ounce of lemon juice? Grenadine also has some acidity, and combined with the drying effect of egg white, a full ¾ ounce of lemon juice would create a tongue-strippingly dry cocktail.
+    notes: |+2
+      You can think of this classic cocktail as a mash-up between the Bee's Knees and the Jack Rose. Gin and a bit of apple brandy make up the core and are enhanced by juicy-tart grenadine. Lime juice would overpower the gin, whereas lemon acts as a soft bridge between the gin, brandy, and grenadine. The Pink Lady is also a good lesson in restraint; if it simply used a full ¾ ounce of grenadine in place of the simple syrup in the basic sour template, the cocktail would be all about the grenadine; instead, it calls for just ½ ounce of grenadine and supplements it with simple syrup. Why only ½ ounce of lemon juice? Grenadine also has some acidity, and combined with the drying effect of egg white, a full ¾ ounce of lemon juice would create a tongue-strippingly dry cocktail.
     glassware: coupe
     ingredients: 
     - 1½ ounces Plymouth gin 
@@ -1651,7 +1723,8 @@ recipes:
       - citrus
       - classic
   - name: Whiskey Sour
-    notes: In many cases, pairing an aged spirit like bourbon with lime juice yields results that are less than pleasant. Try making a Basic Sour with whiskey and lime juice, and you'll see what we mean; the same properties that make bourbon so tasty—vanilla, spice, tannins—don't play well with the high acidity, astringency, and flavor of lime juice. That's why recipes for cocktails like the classic Whiskey Sour generally call for lemon juice rather than lime.
+    notes: |+2
+      In many cases, pairing an aged spirit like bourbon with lime juice yields results that are less than pleasant. Try making a Basic Sour with whiskey and lime juice, and you'll see what we mean; the same properties that make bourbon so tasty—vanilla, spice, tannins—don't play well with the high acidity, astringency, and flavor of lime juice. That's why recipes for cocktails like the classic Whiskey Sour generally call for lemon juice rather than lime.
     glassware: double rocks
     ingredients: 
     - 2 ounces Elijah Craig Small Batch bourbon
@@ -1669,7 +1742,8 @@ recipes:
   - name: Cat Video
     author: Natasha David
     year: 2015
-    notes: In this riff on the Pisco Sour, singani and Crème Yvette sit on opposite ends of pisco's aromatic flavor profile, a dynamic tension that elevates the grape-based pisco. Singani, another grape-based spirit, pulls out pisco's deep earthy notes, while Crème Yvette plays off the floral qualities of Kappa pisco.
+    notes: |+2
+      In this riff on the Pisco Sour, singani and Crème Yvette sit on opposite ends of pisco's aromatic flavor profile, a dynamic tension that elevates the grape-based pisco. Singani, another grape-based spirit, pulls out pisco's deep earthy notes, while Crème Yvette plays off the floral qualities of Kappa pisco.
     glassware: coupe
     ingredients: 
     - 1½ ounces Kappa pisco
@@ -1691,7 +1765,8 @@ recipes:
   - name: Smoke and Mirrors
     author: Alex Day
     year: 2010
-    notes: In this cocktail, as in the Kentucky Maid, a bit of highly herbaceous mint helps bridge the gap between seemingly mismatched aged spirits and lime juice-a function also served by the absinthe in this recipe. Note that this cocktail and the Smokescreen (page 132) have exactly the same ingredients with the exception of the accent-absinthe in this case and Chartreuse in the Smokescreen. Even though only small amounts of these two accents are used, the end result is two very different flavor profiles, showing how something simple and seemingly minor can make a world of difference in a cocktail's flavor.
+    notes: |+2
+      In this cocktail, as in the Kentucky Maid, a bit of highly herbaceous mint helps bridge the gap between seemingly mismatched aged spirits and lime juice-a function also served by the absinthe in this recipe. Note that this cocktail and the Smokescreen (page 132) have exactly the same ingredients with the exception of the accent-absinthe in this case and Chartreuse in the Smokescreen. Even though only small amounts of these two accents are used, the end result is two very different flavor profiles, showing how something simple and seemingly minor can make a world of difference in a cocktail's flavor.
     glassware: double rocks
     ingredients: 
     - 4 mint leaves
@@ -1714,7 +1789,8 @@ recipes:
   - name: Pompadour
     year: 2015
     author: Tyson Buhler
-    notes: "The Pompadour explores another way to riff on a Basic Sour: by incorporating a low-ABV ingredient as part of a split base, in this case, the French aperitif Pineau des Charentes. As you can see, the volume of the Pineau des Charentes is higher than if a boozy spirit were swapped into the split base. The Pompadour strikes a great balance between the power of rhum agricole, the juiciness of the Pineau des Charentes, and the sweet roundness of vanilla."
+    notes: |+2
+      "The Pompadour explores another way to riff on a Basic Sour: by incorporating a low-ABV ingredient as part of a split base, in this case, the French aperitif Pineau des Charentes. As you can see, the volume of the Pineau des Charentes is higher than if a boozy spirit were swapped into the split base. The Pompadour strikes a great balance between the power of rhum agricole, the juiciness of the Pineau des Charentes, and the sweet roundness of vanilla."
     glassware: coupe
     ingredients: 
     - 1½ ounces Rhum JM VSOP
@@ -1731,7 +1807,8 @@ recipes:
   - name: Smokescreen
     author: Alex Day
     year: 2010
-    notes: The Smokescreen follows the same model as the Smoke and Mirrors, but gets its herbaceousness from green Chartreuse instead of absinthe. Whereas the absinthe gives the Smoke and Mirrors an anise undertone that contrasts with the smoky scotch, the Chartreuse gives the Smokescreen a savory quality thanks to its grassy, tarragon-like flavor, which draws out the Laphroaig scotch's vegetal side.
+    notes: |+2
+      The Smokescreen follows the same model as the Smoke and Mirrors, but gets its herbaceousness from green Chartreuse instead of absinthe. Whereas the absinthe gives the Smoke and Mirrors an anise undertone that contrasts with the smoky scotch, the Chartreuse gives the Smokescreen a savory quality thanks to its grassy, tarragon-like flavor, which draws out the Laphroaig scotch's vegetal side.
     glassware: double rocks
     ingredients: 
     - 4 mint leaves
@@ -1754,7 +1831,8 @@ recipes:
   - name: Kentucky Maid
     author: Sam Ross
     year: 2005
-    notes: Despite the conventional wisdom that lemon juice is a better partner for aged spirits than lime juice, well-chosen ingredients can be used to bridge these kinds of conflicting elements, leading to delicious and surprising combinations. One of our favorite examples of this is the Kentucky Maid, concocted by the legendary barman Sam Ross. Here, bourbon and lime are bridged by muddled cucumber and mint, resulting in an unexpectedly refreshing cocktail. The cucumber adds juiciness similar to how lemon would, and the mint provides herbaceous seasoning. Without question, the Kentucky Maid is our go-to "welcome to bourbon" cocktail—we haven't met anyone who doesn't like it.
+    notes: |+2
+      Despite the conventional wisdom that lemon juice is a better partner for aged spirits than lime juice, well-chosen ingredients can be used to bridge these kinds of conflicting elements, leading to delicious and surprising combinations. One of our favorite examples of this is the Kentucky Maid, concocted by the legendary barman Sam Ross. Here, bourbon and lime are bridged by muddled cucumber and mint, resulting in an unexpectedly refreshing cocktail. The cucumber adds juiciness similar to how lemon would, and the mint provides herbaceous seasoning. Without question, the Kentucky Maid is our go-to "welcome to bourbon" cocktail—we haven't met anyone who doesn't like it.
     glassware: double rocks
     ingredients: 
     - 5 mint leaves
@@ -1776,7 +1854,8 @@ recipes:
   - name: High Five
     author: Alex Day
     year: 2010
-    notes: Riffing on the Hemingway Daiquiri is a great way to create new cocktails that are both exciting and refreshing. In the High Five, we use a very similar formula but substitute gin as the core. We also use Aperol to amplify the bitterness of the grapefruit, and because Aperol isn't as sweet as the maraschino liqueur in the Hemingway Daiquiri, we add in a bit more simple syrup.
+    notes: |+2
+      Riffing on the Hemingway Daiquiri is a great way to create new cocktails that are both exciting and refreshing. In the High Five, we use a very similar formula but substitute gin as the core. We also use Aperol to amplify the bitterness of the grapefruit, and because Aperol isn't as sweet as the maraschino liqueur in the Hemingway Daiquiri, we add in a bit more simple syrup.
     glassware: coupe
     ingredients: 
     - 1½ ounces Beefeater London Dry gin
@@ -1792,7 +1871,8 @@ recipes:
       - shaken
       - citrus
   - name: Brown Derby
-    notes: When paired with robust aged spirits, grapefruit juice acts differently than it does when combined with lighter liquors. Whereas spirits like rum and gin enhance the refreshing flavor of grapefruit, aged spirits tend to draw out some of the denser flavors and sweetness in the juice. Though the classic recipe for a Brown Derby doesn't call for any citrus beyond the grapefruit juice, we like to add just a bit of lemon juice to cut through some of the richness of the syrup, which might otherwise overshadow the brightness of the grapefruit juice.
+    notes: |+2
+      When paired with robust aged spirits, grapefruit juice acts differently than it does when combined with lighter liquors. Whereas spirits like rum and gin enhance the refreshing flavor of grapefruit, aged spirits tend to draw out some of the denser flavors and sweetness in the juice. Though the classic recipe for a Brown Derby doesn't call for any citrus beyond the grapefruit juice, we like to add just a bit of lemon juice to cut through some of the richness of the syrup, which might otherwise overshadow the brightness of the grapefruit juice.
     glassware: coupe
     ingredients: 
     - 2 ounces Elijah Craig Small Batch bourbon
@@ -1808,7 +1888,8 @@ recipes:
       - citrus
       - classic
   - name: Mojito
-    notes: "While the Mojito is certainly a member of the Daiquiri extended family, using similar proportions of the same ingredients-rum, lime juice, and sweetener-the fact that it's served over crushed ice makes it a distant cousin, at least in our eyes. Introducing crushed ice into the equation means it's necessary to think about how the cocktail will evolve after it's served. The key is to pack the ice into the glass, using a greater volume of ice than the volume of the cocktail. This will keep the cocktail cold and also keep the ice from moving around. Why should it matter if the ice moves around? If it does, dilution will occur more rapidly and the cocktail will quickly become a watery mess. To avoid this, we take a few precautions when building Mojitos and their variations. First, we use a glass that can hold both a full cocktail and an appropriate amount of ice. Either a Collins glass or a double Old-Fashioned glass that can hold at least 16 ounces will fit the bill. Second, we freeze the glass so it's extremely cold when the cocktail is poured in. Third, instead of shaking the drink, we use a technique called whipping: shaking the drink with a few pieces of crushed ice—just enough to mix the ingredients without diluting them too much. After all, there's no need to chill the cocktail as much as one served neat, since it's served over so much crushed ice, which will also serve the function of diluting the drink. Fourth and finally, after we pour the drink into the glass, we add crushed ice to fill the glass about four-fifths full, then stir or swizzle for a few seconds, and then pack the glass with ice, mounding the ice on top, like a snow cone. The end result should be a glass full of crushed ice, all the way to the bottom, with an even distribution of liquid, and a cone of crushed ice above the wash line."
+    notes: |+2
+      "While the Mojito is certainly a member of the Daiquiri extended family, using similar proportions of the same ingredients-rum, lime juice, and sweetener-the fact that it's served over crushed ice makes it a distant cousin, at least in our eyes. Introducing crushed ice into the equation means it's necessary to think about how the cocktail will evolve after it's served. The key is to pack the ice into the glass, using a greater volume of ice than the volume of the cocktail. This will keep the cocktail cold and also keep the ice from moving around. Why should it matter if the ice moves around? If it does, dilution will occur more rapidly and the cocktail will quickly become a watery mess. To avoid this, we take a few precautions when building Mojitos and their variations. First, we use a glass that can hold both a full cocktail and an appropriate amount of ice. Either a Collins glass or a double Old-Fashioned glass that can hold at least 16 ounces will fit the bill. Second, we freeze the glass so it's extremely cold when the cocktail is poured in. Third, instead of shaking the drink, we use a technique called whipping: shaking the drink with a few pieces of crushed ice—just enough to mix the ingredients without diluting them too much. After all, there's no need to chill the cocktail as much as one served neat, since it's served over so much crushed ice, which will also serve the function of diluting the drink. Fourth and finally, after we pour the drink into the glass, we add crushed ice to fill the glass about four-fifths full, then stir or swizzle for a few seconds, and then pack the glass with ice, mounding the ice on top, like a snow cone. The end result should be a glass full of crushed ice, all the way to the bottom, with an even distribution of liquid, and a cone of crushed ice above the wash line."
     glassware: collins
     ingredients: 
     - 10 mint leaves
@@ -1832,7 +1913,8 @@ recipes:
   - name: Jack Frost
     author: Devon Tarby
     year: 2015
-    notes: The Jack Frost is a Mojito variation with a split base of tequila, pear brandy, and dry vermouth, accented with a bit of crème de menthe. Although the finished cocktail isn't overly minty, there is a cooling quality to the liqueur, like inhaling cold air on a snowy winter night—an effect that's enhanced by the crushed ice.
+    notes: |+2
+      The Jack Frost is a Mojito variation with a split base of tequila, pear brandy, and dry vermouth, accented with a bit of crème de menthe. Although the finished cocktail isn't overly minty, there is a cooling quality to the liqueur, like inhaling cold air on a snowy winter night—an effect that's enhanced by the crushed ice.
     glassware: collins
     ingredients: 
     - ¾ ounce Cabeza blanco tequila
@@ -1854,7 +1936,8 @@ recipes:
       - citrus
       - mojito
   - name: Mai Tai
-    notes: Crushed ice can help temper the sweetness of rich ingredients. A classic Mai Tai is a complex combination of funky rums, almond-laced orgeat, orange liqueur, and lime juice. The result is a complex cocktail that can easily teeter toward being too sweet. Serving it in a glass packed with crushed ice lightens the flavors just the right amount while still allowing their complexity to come through.
+    notes: |+2
+      Crushed ice can help temper the sweetness of rich ingredients. A classic Mai Tai is a complex combination of funky rums, almond-laced orgeat, orange liqueur, and lime juice. The result is a complex cocktail that can easily teeter toward being too sweet. Serving it in a glass packed with crushed ice lightens the flavors just the right amount while still allowing their complexity to come through.
     glassware: double rocks
     ingredients: 
     - 1 ounce Appleton Estate Reserve Blend rum
@@ -1878,7 +1961,8 @@ recipes:
   - name: Touch and Go
     author: Alex Day
     year: 2015
-    notes: Muddling is a great technique for drawing out the flavors from less acidic citrus fruits, such as mandarin oranges, which have intensely aromatic peels and sweet juice. In the Touch and Go, a cross between a tequila-based sour and a Caipirinha that's balanced even without muddled citrus, we include the mandarin orange to add a layer of vibrant flavor.
+    notes: |+2
+      Muddling is a great technique for drawing out the flavors from less acidic citrus fruits, such as mandarin oranges, which have intensely aromatic peels and sweet juice. In the Touch and Go, a cross between a tequila-based sour and a Caipirinha that's balanced even without muddled citrus, we include the mandarin orange to add a layer of vibrant flavor.
     glassware: double rocks
     ingredients: 
     - ½ mandarin orange, cut into 4 pieces
@@ -1896,7 +1980,8 @@ recipes:
       - shaken
       - citrus
   - name: Caipirinha
-    notes: As discussed earlier in this chapter, citrus skins are loaded with flavorful oils. These can be expressed from twists, but they can also be incorporated via muddling. The Brazilian Caipirinha, which includes almost an entire lime, provides a great opportunity to consider the finer details of muddling citrus. When we cut lime wedges to garnish a drink, we do so in such a way that they're easy to squeeze into a cocktail, cutting them into wedges from the top to the bottom of the lime. But for muddling, we prefer to cut them into pieces of a size and shape that make it easy to extract both the juice and the oils in the skin with one even pressing. So first we cut the lime in half across the middle, then we place the halves on a cutting board cut side down and slice them into quarters. The lime is then muddled with sugar, which helps extract flavor from the lime skin. We prefer to use a sugar cube because it cuts into the lime skin to bring out more of its oils. We recommend putting the sugar cube in a small shaker tin, then adding the lime and simple syrup. Muddle each piece of lime by pressing down and twisting slightly to flatten the lime and break down the sugar. Stop muddling as soon as all of the pieces have been crushed. Although we're typically militant about never pouring the ice we shake a cocktail with into the serving glass, we make an exception for the Caipirinha, which is traditionally served with not just the ice, but also the muddled lime. This allows the lime to continue to flavor the cocktail—though they can get bitter, we find that it's a pleasant limey flavor that builds toward the end of the cocktail. The brightly colored citrus also looks beautiful in a glass.
+    notes: |+2
+      As discussed earlier in this chapter, citrus skins are loaded with flavorful oils. These can be expressed from twists, but they can also be incorporated via muddling. The Brazilian Caipirinha, which includes almost an entire lime, provides a great opportunity to consider the finer details of muddling citrus. When we cut lime wedges to garnish a drink, we do so in such a way that they're easy to squeeze into a cocktail, cutting them into wedges from the top to the bottom of the lime. But for muddling, we prefer to cut them into pieces of a size and shape that make it easy to extract both the juice and the oils in the skin with one even pressing. So first we cut the lime in half across the middle, then we place the halves on a cutting board cut side down and slice them into quarters. The lime is then muddled with sugar, which helps extract flavor from the lime skin. We prefer to use a sugar cube because it cuts into the lime skin to bring out more of its oils. We recommend putting the sugar cube in a small shaker tin, then adding the lime and simple syrup. Muddle each piece of lime by pressing down and twisting slightly to flatten the lime and break down the sugar. Stop muddling as soon as all of the pieces have been crushed. Although we're typically militant about never pouring the ice we shake a cocktail with into the serving glass, we make an exception for the Caipirinha, which is traditionally served with not just the ice, but also the muddled lime. This allows the lime to continue to flavor the cocktail—though they can get bitter, we find that it's a pleasant limey flavor that builds toward the end of the cocktail. The brightly colored citrus also looks beautiful in a glass.
     glassware: double rocks
     ingredients: 
     - 1 lime
@@ -1915,7 +2000,8 @@ recipes:
       - citrus
       - classic
   - name: Tom Collins
-    notes: "Another type of drink in the Daiquiri's extended family is sours that have bubbly ingredients  added. This is such a broad category that it has several subfamilies: Collins-style drinks, fizzes, and numerous cocktails that include sparkling wine. We'll start with the Collins, which is basically a sour served in a tall glass with ice and seltzer. The biggest challenge in preparing a Collins is avoiding over-dilution. We like our Collinses as fizzy as possible, so rather than shaking them to full dilution, as for sours, we short shake them-just long enough to chill the ingredients without adding too much dilution, about five seconds. This leaves more room for the seltzer. Traditionally, Collins-style drinks are topped with seltzer that isn't stirred into the drink. We view this as less than ideal. When the drink is sipped through a straw, the experience is often like drinking a sour that gradually dilutes and may not be bubbly at all. Our preferred method is to add a measured portion of seltzer to the empty serving glass, then pour in the contents of the shaker, an action that effectively mixes the cocktail, and then add ice at the very end-no stirring required. To make the best Collins, use seltzer that's as cold as possible: keep it refrigerated and sealed before use or, better yet, build a carbonating rig and make your own very cold and highly sparkling seltzer. Room temperature seltzer is a waste of time; the bubbles will escape quickly and the seltzer will become flat. Add this to a drink and you're really just diluting it."
+    notes: |+2
+      "Another type of drink in the Daiquiri's extended family is sours that have bubbly ingredients  added. This is such a broad category that it has several subfamilies: Collins-style drinks, fizzes, and numerous cocktails that include sparkling wine. We'll start with the Collins, which is basically a sour served in a tall glass with ice and seltzer. The biggest challenge in preparing a Collins is avoiding over-dilution. We like our Collinses as fizzy as possible, so rather than shaking them to full dilution, as for sours, we short shake them-just long enough to chill the ingredients without adding too much dilution, about five seconds. This leaves more room for the seltzer. Traditionally, Collins-style drinks are topped with seltzer that isn't stirred into the drink. We view this as less than ideal. When the drink is sipped through a straw, the experience is often like drinking a sour that gradually dilutes and may not be bubbly at all. Our preferred method is to add a measured portion of seltzer to the empty serving glass, then pour in the contents of the shaker, an action that effectively mixes the cocktail, and then add ice at the very end-no stirring required. To make the best Collins, use seltzer that's as cold as possible: keep it refrigerated and sealed before use or, better yet, build a carbonating rig and make your own very cold and highly sparkling seltzer. Room temperature seltzer is a waste of time; the bubbles will escape quickly and the seltzer will become flat. Add this to a drink and you're really just diluting it."
     glassware: collins
     ingredients: 
     - 2 ounces cold seltzer
@@ -1935,7 +2021,8 @@ recipes:
   - name: Grapefruit Collins
     author: Sam Ross
     year: 2005
-    notes: When experimenting with the Collins template, keep in mind that seltzer contains a bit of carbonic acid, which increases the perception of acidity. For this reason, we often use a 1-to-1 ratio of citrus juice to sweetener in Collins-style cocktails unless we want an extra-tart drink (which we do for the basic Collins, but when adding other flavors we tend to back off on the acid). In the Grapefruit Collins, the grapefruit juice has a balanced sweet tart flavor, so we remove it from the equation and then use equal amounts of lemon juice and simple syrup.
+    notes: |+2
+      When experimenting with the Collins template, keep in mind that seltzer contains a bit of carbonic acid, which increases the perception of acidity. For this reason, we often use a 1-to-1 ratio of citrus juice to sweetener in Collins-style cocktails unless we want an extra-tart drink (which we do for the basic Collins, but when adding other flavors we tend to back off on the acid). In the Grapefruit Collins, the grapefruit juice has a balanced sweet tart flavor, so we remove it from the equation and then use equal amounts of lemon juice and simple syrup.
     glassware: collins
     ingredients: 
     - 2 ounces cold seltzer 
@@ -1956,7 +2043,8 @@ recipes:
   - name: Parachute
     author: Tyson Buhler
     year: 2017
-    notes: The Parachute is a great example of building a Collins-style cocktail on a low-proof base, here split between a juicy white port and the slightly bitter Salers aperitif. Because each of these ingredients has a powerful flavor, this cocktail drinks much like a full-proof sour but doesn't carry such a strong alcohol punch.
+    notes: |+2
+      The Parachute is a great example of building a Collins-style cocktail on a low-proof base, here split between a juicy white port and the slightly bitter Salers aperitif. Because each of these ingredients has a powerful flavor, this cocktail drinks much like a full-proof sour but doesn't carry such a strong alcohol punch.
     glassware: collins
     ingredients: 
     - 2 ounces cold tonic water 
@@ -1975,7 +2063,8 @@ recipes:
       - shaken
       - citrus
   - name: Moscow Mule
-    notes: "The Moscow Mule is famous for good reason: it has a strong ginger bite and is unquestionably refreshing. You may notice that this recipe uses slightly less lime juice than a typical sour-style cocktail. We do this to honor the original recipe, which was just a simple mixture of vodka and ginger beer topped with a squeeze of lime—more a Highball than a sour. In addition, ginger's powerful flavor has a zip somewhat like citrus, so when we use it, we often back down on any lemon or lime juice in the cocktail to let it shine."
+    notes: |+2
+      "The Moscow Mule is famous for good reason: it has a strong ginger bite and is unquestionably refreshing. You may notice that this recipe uses slightly less lime juice than a typical sour-style cocktail. We do this to honor the original recipe, which was just a simple mixture of vodka and ginger beer topped with a squeeze of lime—more a Highball than a sour. In addition, ginger's powerful flavor has a zip somewhat like citrus, so when we use it, we often back down on any lemon or lime juice in the cocktail to let it shine."
     glassware: collins
     ingredients: 
     - 2 ounces cold seltzer
@@ -1994,7 +2083,8 @@ recipes:
       - classic
       - mule
   - name: Dark and Stormy
-    notes: In the Moscow Mule, the vodka core keeps the cocktail clearly focused on the interplay between ginger, lime juice, and the fizziness of seltzer. If a more flavorful spirit is used, the proportion of ingredients may need to be adjusted-a principle that's clearly illustrated in our version of the Dark and Stormy (which, like the Moscow Mule, was traditionally made with ginger beer). To balance the rich molasses flavor of Gosling's Black Seal rum, we up the amounts of both the ginger syrup and the lime juice.
+    notes: |+2
+      In the Moscow Mule, the vodka core keeps the cocktail clearly focused on the interplay between ginger, lime juice, and the fizziness of seltzer. If a more flavorful spirit is used, the proportion of ingredients may need to be adjusted-a principle that's clearly illustrated in our version of the Dark and Stormy (which, like the Moscow Mule, was traditionally made with ginger beer). To balance the rich molasses flavor of Gosling's Black Seal rum, we up the amounts of both the ginger syrup and the lime juice.
     glassware: collins
     ingredients: 
     - 2 ounces cold seltzer
@@ -2012,7 +2102,8 @@ recipes:
       - citrus
       - classic
   - name: Silver Fizz
-    notes: At their simplest, fizzes are basically Collins-style drinks served without ice. Although fizzes are most commonly associated with gin, they can be made with any spirit. This classic cocktail, the Silver Fizz, is a simple fizz to which an egg white has been added. When the cocktail is shaken, the egg white's tightly packed proteins unfold and trap air, forming bubbles. When the drink is then topped with seltzer even more frothiness ensues, as those proteins wrap around the carbon dioxide bubbles to create a light and fluffy foam.
+    notes: |+2
+      At their simplest, fizzes are basically Collins-style drinks served without ice. Although fizzes are most commonly associated with gin, they can be made with any spirit. This classic cocktail, the Silver Fizz, is a simple fizz to which an egg white has been added. When the cocktail is shaken, the egg white's tightly packed proteins unfold and trap air, forming bubbles. When the drink is then topped with seltzer even more frothiness ensues, as those proteins wrap around the carbon dioxide bubbles to create a light and fluffy foam.
     glassware: fizz
     ingredients: 
     - 2 ounces Beefeater London Dry gin
@@ -2032,7 +2123,8 @@ recipes:
       - citrus
       - classic
   - name: Ramos Gin Fizz
-    notes: Perhaps the most famous of the fizzes is the Ramos Gin Fizz, a New Orleans cocktail wherein the clean simplicity of a Silver Fizz is enriched with heavy cream. Traditionally, it's shaken for a full ten minutes to create a light, ethereal texture that's like a boozy liquid cloud. We've never found a full ten-minute shake to be necessary (it's more theater than necessary); five minutes is more than enough to create the airy lightness needed for the Ramos.
+    notes: |+2
+      Perhaps the most famous of the fizzes is the Ramos Gin Fizz, a New Orleans cocktail wherein the clean simplicity of a Silver Fizz is enriched with heavy cream. Traditionally, it's shaken for a full ten minutes to create a light, ethereal texture that's like a boozy liquid cloud. We've never found a full ten-minute shake to be necessary (it's more theater than necessary); five minutes is more than enough to create the airy lightness needed for the Ramos.
     glassware: collins
     ingredients: 
     - 2 ounces Fords gin
@@ -2055,7 +2147,8 @@ recipes:
       - citrus
       - classic
   - name: Presbyterian
-    notes: As mentioned a few times earlier in this chapter, changing the core spirit in a cocktail may call for adjusting the type and amount of citrus in the cocktail. The classic Presbyterian is similar to the Moscow Mule and the Dark and Stormy, being simply spirit combined with ginger ale. But in this case, the core spirit is rye whiskey, seasoned with lemon juice. For our version, we include both lemon juice, for its sweet and refreshing flavor, and lime juice, for its pleasant astringency.
+    notes: |+2
+      As mentioned a few times earlier in this chapter, changing the core spirit in a cocktail may call for adjusting the type and amount of citrus in the cocktail. The classic Presbyterian is similar to the Moscow Mule and the Dark and Stormy, being simply spirit combined with ginger ale. But in this case, the core spirit is rye whiskey, seasoned with lemon juice. For our version, we include both lemon juice, for its sweet and refreshing flavor, and lime juice, for its pleasant astringency.
     glassware: collins
     ingredients: 
     - 2 ounces cold seltzer
@@ -2076,7 +2169,8 @@ recipes:
   - name: Old Cuban
     author: Audrey Saunders
     year: 2001
-    notes: "The legendary bartender Audrey Saunders created this deeply complex cocktail that livens up a Mojito with bubbles. To add greater complexity, Audrey relies on a lightly aged rum and seasons with Angostura bitters and mint, creating a drink that is both refreshing and sophisticated. We love the Old Cuban because it evolves as you drink it: with the first sips, you're met with tongue-tingling effervescence and fresh mint flavors. As the cocktail warms and the bubbles lose a bit of their intensity, the rum's richness comes to the front in a soothing way."
+    notes: |+2
+      "The legendary bartender Audrey Saunders created this deeply complex cocktail that livens up a Mojito with bubbles. To add greater complexity, Audrey relies on a lightly aged rum and seasons with Angostura bitters and mint, creating a drink that is both refreshing and sophisticated. We love the Old Cuban because it evolves as you drink it: with the first sips, you're met with tongue-tingling effervescence and fresh mint flavors. As the cocktail warms and the bubbles lose a bit of their intensity, the rum's richness comes to the front in a soothing way."
     glassware: coupe
     ingredients: 
     - 1½ ounces Bacardi 8-year aged rum
@@ -2096,7 +2190,8 @@ recipes:
       - shaken
       - sparkling
   - name: French 75
-    notes: Yes, Champagne does make everything better, including a Collins! Some bartenders prepare a French 75 in a tall glass with ice like a Collins, but we opt for the swankier version in a flute. Either way, introducing Champagne (or a similar style of sparkling wine) changes the cocktail's balance, adding both proof and flavor. Therefore, the formula for this classic cocktail calls for decreased amounts of all three elements of the sour base—in our version, half the gin, and two-thirds of the lemon juice and simple syrup.
+    notes: |+2
+      Yes, Champagne does make everything better, including a Collins! Some bartenders prepare a French 75 in a tall glass with ice like a Collins, but we opt for the swankier version in a flute. Either way, introducing Champagne (or a similar style of sparkling wine) changes the cocktail's balance, adding both proof and flavor. Therefore, the formula for this classic cocktail calls for decreased amounts of all three elements of the sour base—in our version, half the gin, and two-thirds of the lemon juice and simple syrup.
     glassware: flute
     ingredients: 
     - 1 ounce Plymouth gin
@@ -2117,7 +2212,8 @@ recipes:
   - name: The Eliza
     author: Devon Tarby
     year: 2016
-    notes: With careful adjustments, the subtle complexity of the French 75 can be modified to create exceptional variations. In this cocktail, we've replaced the citrusy Plymouth gin with sarsaparilla-forward Aviation gin in combination with Clear Creek pear brandy and savory French cassis, spiked with lavender bitters to provide a seductive floral hint.
+    notes: |+2
+      With careful adjustments, the subtle complexity of the French 75 can be modified to create exceptional variations. In this cocktail, we've replaced the citrusy Plymouth gin with sarsaparilla-forward Aviation gin in combination with Clear Creek pear brandy and savory French cassis, spiked with lavender bitters to provide a seductive floral hint.
     glassware: flute
     ingredients: 
     - ½ ounce Aviation gin
@@ -2138,7 +2234,8 @@ recipes:
   - name: Ice Queen
     author: Natasha David
     year: 2015
-    notes: The Ice Queen expands on the French 75's flexibility by bringing in some elements from the Old Cuban—rum, mint, and lime juice and adding cucumber for a savory element.
+    notes: |+2
+      The Ice Queen expands on the French 75's flexibility by bringing in some elements from the Old Cuban—rum, mint, and lime juice and adding cucumber for a savory element.
     glassware: coupe
     ingredients: 
     - 1 cucumber slice
@@ -2162,7 +2259,8 @@ recipes:
   - name: Accidental Guru
     author: Natasha David
     year: 2014
-    notes: Beer and cider can also be used to add effervescence to Collins-style drinks. Because these ingredients can vary widely in alcohol content, flavor, sweetness, and acidity, using them requires careful attention to adjusting the amounts of the base spirit, citrus juice, and sweetener. In the Accidental Guru, just 1 ounce of strong spirit (whiskey) is used and the citrus juice is dialed back a bit. Less sweetener is also used, in this case because the drink is enhanced with peach liqueur.
+    notes: |+2
+      Beer and cider can also be used to add effervescence to Collins-style drinks. Because these ingredients can vary widely in alcohol content, flavor, sweetness, and acidity, using them requires careful attention to adjusting the amounts of the base spirit, citrus juice, and sweetener. In the Accidental Guru, just 1 ounce of strong spirit (whiskey) is used and the citrus juice is dialed back a bit. Less sweetener is also used, in this case because the drink is enhanced with peach liqueur.
     glassware: fizz
     ingredients: 
     - 1 ounce Bushmills Original Irish whiskey
@@ -2209,7 +2307,8 @@ recipes:
       - shaken
       - citrus
   - name: Cognac Sour
-    notes: What do you think? Sure, it may be tasty, but to us, it doesn't seem to be anything special. The Cognac is clearly the star of the show, but its woodsier notes are muted by the refreshing combination of lemon and sugar. Set that glass aside to reference in a few minutes and rinse your shaking tin. Then put together the following variation, which substitutes Cointreau for the simple syrup, yielding a basic Sidecar.
+    notes: |+2
+      What do you think? Sure, it may be tasty, but to us, it doesn't seem to be anything special. The Cognac is clearly the star of the show, but its woodsier notes are muted by the refreshing combination of lemon and sugar. Set that glass aside to reference in a few minutes and rinse your shaking tin. Then put together the following variation, which substitutes Cointreau for the simple syrup, yielding a basic Sidecar.
     glassware: coupe
     ingredients: 
     - 2 ounces Cognac (preferably VSOP)
@@ -2224,7 +2323,8 @@ recipes:
       - citrus
       - classic
   - name: Sidecar (Boozy)
-    notes: "What's the first thing you taste? We're guessing it's booze. This spec packs a hell of a punch, and though that's not necessarily a bad thing, alcohol dominates the flavor profile, creating a harsh, bitter drink. This is a widespread problem in cocktail making: ignoring the proof of higher ABV modifying ingredients, like Cointreau, and simply substituting them for a sweetener without adjusting the ratios. At 80 proof, Cointreau is just as boozy as most base spirits, and while its sweetness will curb some of the effects of the lemon juice, the resulting cocktail is far too dry. That's why the classic Sidecar recipe calls for less Cognac, along with slightly more Cointreau, to provide a bit more sweetness. So, even if you've already made the classic recipe at the beginning of the chapter, make it again so you can do a side-by-side comparison."
+    notes: |+2
+      "What's the first thing you taste? We're guessing it's booze. This spec packs a hell of a punch, and though that's not necessarily a bad thing, alcohol dominates the flavor profile, creating a harsh, bitter drink. This is a widespread problem in cocktail making: ignoring the proof of higher ABV modifying ingredients, like Cointreau, and simply substituting them for a sweetener without adjusting the ratios. At 80 proof, Cointreau is just as boozy as most base spirits, and while its sweetness will curb some of the effects of the lemon juice, the resulting cocktail is far too dry. That's why the classic Sidecar recipe calls for less Cognac, along with slightly more Cointreau, to provide a bit more sweetness. So, even if you've already made the classic recipe at the beginning of the chapter, make it again so you can do a side-by-side comparison."
     glassware: coupe
     ingredients: 
     - 2 ounces Cognac (preferably VSOP) 
@@ -2238,7 +2338,8 @@ recipes:
       - citrus
       - shaken
   - name: Sidecar (Balanced)
-    notes: We find that this classic recipe achieves an almost perfect balance, with the full-bodied character of the Cognac being complemented by the bright sweetness of Cointreau and the refreshing quality of lemon juice. However, because this spec tends to be a bit dry for most people, our root recipe also includes a tiny amount of simple syrup to achieve an ideal balance and boost the flavors of the cocktail.
+    notes: |+2
+      We find that this classic recipe achieves an almost perfect balance, with the full-bodied character of the Cognac being complemented by the bright sweetness of Cointreau and the refreshing quality of lemon juice. However, because this spec tends to be a bit dry for most people, our root recipe also includes a tiny amount of simple syrup to achieve an ideal balance and boost the flavors of the cocktail.
     glassware: coupe
     ingredients: 
     - ½ ounces Cognac (preferably VSOP)
@@ -2252,7 +2353,8 @@ recipes:
       - shaken
       - citrus
   - name: A Ridiculously Good and Unnecessary Sidecar
-    notes: In the interest of experiencing the finer things in life at least once, we recommend buying an expensive but perfect bottle of Cognac, Paul Beau Hors d'age, and making yourself a Sidecar using the following recipe. The difference between this recipe and our root recipe reflects the qualities that this much older and denser Cognac brings to the cocktail.
+    notes: |+2
+      In the interest of experiencing the finer things in life at least once, we recommend buying an expensive but perfect bottle of Cognac, Paul Beau Hors d'age, and making yourself a Sidecar using the following recipe. The difference between this recipe and our root recipe reflects the qualities that this much older and denser Cognac brings to the cocktail.
     glassware: coupe
     ingredients: 
     - 1½ ounces Paul Beau Hors d'age Cognac 
@@ -2322,7 +2424,8 @@ recipes:
       - citrus
       - margarita
   - name: Between the Sheets
-    notes: The spec for the classic Between the Sheets cocktail has a split base of Cognac and rum.
+    notes: |+2
+      The spec for the classic Between the Sheets cocktail has a split base of Cognac and rum.
     glassware: coupe
     ingredients: 
     - ¾ ounce Cognac
@@ -2337,7 +2440,8 @@ recipes:
       - shaken
       - classic
   - name: Between the Sheets
-    notes: Between the Sheets is a good cocktail for exploring what specific bottles bring to a cocktail. Our house spec for this classic has a split base of youthful VS Cognac paired with the large personality of Jamaican rum, balanced by Pierre Ferrand's dry curaçao. If we had stuck with Cointreau, as in the classic Sidecar, we might not need any additional sweetener, but because the Pierre Ferrand is so dry, we include a bit of Demerara Gum Syrup to give the cocktail more body.
+    notes: |+2
+      Between the Sheets is a good cocktail for exploring what specific bottles bring to a cocktail. Our house spec for this classic has a split base of youthful VS Cognac paired with the large personality of Jamaican rum, balanced by Pierre Ferrand's dry curaçao. If we had stuck with Cointreau, as in the classic Sidecar, we might not need any additional sweetener, but because the Pierre Ferrand is so dry, we include a bit of Demerara Gum Syrup to give the cocktail more body.
     glassware: coupe
     ingredients: 
     - 1 ounce Paul Beau VS Cognac
@@ -2354,7 +2458,8 @@ recipes:
       - citrus
       - classic
   - name: White Lady
-    notes: Another instructive example of simple core substitution is the White Lady, an established riff on the Sidecar that plugs in gin for the Cognac. As with the Margarita, if the amounts of ingredients remain true to the Sidecar template, the gin would be overshadowed by the orange liqueur and have a punishing astringency. So to rebalance this classic cocktail, we increase the amount of gin to boost its personality, back off on the Cointreau, and add a bit of simple syrup. The White Lady also illustrates how egg white affects a cocktail and impacts the drinker's perception of balance. Though we cover the use of egg whites elsewhere (see pages 253 and 264), within the Sidecar family they can take on another dimension. Because the egg white's frothiness expands the drink's overall volume, it spreads the cocktail's flavor throughout that volume.
+    notes: |+2
+      Another instructive example of simple core substitution is the White Lady, an established riff on the Sidecar that plugs in gin for the Cognac. As with the Margarita, if the amounts of ingredients remain true to the Sidecar template, the gin would be overshadowed by the orange liqueur and have a punishing astringency. So to rebalance this classic cocktail, we increase the amount of gin to boost its personality, back off on the Cointreau, and add a bit of simple syrup. The White Lady also illustrates how egg white affects a cocktail and impacts the drinker's perception of balance. Though we cover the use of egg whites elsewhere (see pages 253 and 264), within the Sidecar family they can take on another dimension. Because the egg white's frothiness expands the drink's overall volume, it spreads the cocktail's flavor throughout that volume.
     glassware: coupe
     ingredients: 
     - 2 ounces Plymouth gin
@@ -2375,7 +2480,8 @@ recipes:
   - name: Rational Thought
     author: Devon Tarby
     year: 2017
-    notes: One of our favorite ways to show novice bartenders how to use pear brandy in a cocktail is by using it in a split base in a classic Sidecar. In this cocktail, it's paired with Paul Beau Cognac, chosen specifically for its textural earthiness, reminiscent of pear skin. A hint of cinnamon spice in the form of a syrup brings warmth that rounds off the sharp boozy edges.
+    notes: |+2
+      One of our favorite ways to show novice bartenders how to use pear brandy in a cocktail is by using it in a split base in a classic Sidecar. In this cocktail, it's paired with Paul Beau Cognac, chosen specifically for its textural earthiness, reminiscent of pear skin. A hint of cinnamon spice in the form of a syrup brings warmth that rounds off the sharp boozy edges.
     glassware: coupe
     ingredients: 
     - 1 ounce Paul Beau VSOP Cognac
@@ -2393,7 +2499,8 @@ recipes:
   - name: Peaches and Smoke
     author: Alex Day
     year: 2014
-    notes: Low-ABV cocktails are becoming more popular, for a variety of good reasons. For our part, we admit that we love being able to enjoy multiple drinks in a session without getting too tipsy, and the same is true for many of our guests. One approach to creating them is to split the core between a larger portion of fortified wine and a small measure of strong spirits. In a Sidecar, the strong spirit can then work with a flavorful liqueur to balance and season the drink. Note that because fortified wine often has some sweetness, it may be necessary to use a bit less liqueur.
+    notes: |+2
+      Low-ABV cocktails are becoming more popular, for a variety of good reasons. For our part, we admit that we love being able to enjoy multiple drinks in a session without getting too tipsy, and the same is true for many of our guests. One approach to creating them is to split the core between a larger portion of fortified wine and a small measure of strong spirits. In a Sidecar, the strong spirit can then work with a flavorful liqueur to balance and season the drink. Note that because fortified wine often has some sweetness, it may be necessary to use a bit less liqueur.
     glassware: coupe
     ingredients: 
     - 1 peach wedge
@@ -2417,7 +2524,8 @@ recipes:
   - name: Beausoleil
     author: Devon Tarby
     year: 2016
-    notes: The Beausoleil's main flavor components (dry vermouth, limoncello, and lemon juice) closely mirror those in a classic Sidecar. But because the vermouth is fairly low in proof, we bolster it with a bit of grappa and also increase the amount of simple syrup—two adjustments that prevent the cocktail from tasting watery.
+    notes: |+2
+      The Beausoleil's main flavor components (dry vermouth, limoncello, and lemon juice) closely mirror those in a classic Sidecar. But because the vermouth is fairly low in proof, we bolster it with a bit of grappa and also increase the amount of simple syrup—two adjustments that prevent the cocktail from tasting watery.
     glassware: collins
     ingredients: 
     - 1½ ounces Dolin dry vermouth 
@@ -2434,7 +2542,8 @@ recipes:
       - shaken
       - citrus
   - name: 20th Century
-    notes: Swap rich crème de cacao for the Cointreau—and a little Lillet blanc to stretch out the sweetness of the cacao—and you've got yourself the 20th Century, a chocolaty cocktail that doesn't taste like liquid dessert. (You'll notice that this cocktail calls for a full ½ ounces of gin-an adjustment that's necessary because crème de cacao is sweeter and lower in proof than Cointreau.) Thanks to the bright botanicals from the gin and the acidity from both the lemon juice and the Lillet blanc, the drink gives the impression of fruity cacao nibs, rather than a decadent chocolate bar.
+    notes: |+2
+      Swap rich crème de cacao for the Cointreau—and a little Lillet blanc to stretch out the sweetness of the cacao—and you've got yourself the 20th Century, a chocolaty cocktail that doesn't taste like liquid dessert. (You'll notice that this cocktail calls for a full ½ ounces of gin-an adjustment that's necessary because crème de cacao is sweeter and lower in proof than Cointreau.) Thanks to the bright botanicals from the gin and the acidity from both the lemon juice and the Lillet blanc, the drink gives the impression of fruity cacao nibs, rather than a decadent chocolate bar.
     glassware: coupe
     ingredients: 
     - 1½ ounces London Dry gin
@@ -2450,7 +2559,8 @@ recipes:
       - citrus
       - classic
   - name: Last Word
-    notes: The classic Last Word uses intensely herbaceous green Chartreuse and funky maraschino liqueur in place of the Cointreau. The two liqueurs are front and center and bring a lot of proof to the cocktail, thereby requiring the gin be reduced in proportion. In this case, the green Chartreuse and maraschino are both the dominant flavor, bringing sweetness to the cocktail and balancing the acidity of the lime juice, while the gin helps dry the cocktail out.
+    notes: |+2
+      The classic Last Word uses intensely herbaceous green Chartreuse and funky maraschino liqueur in place of the Cointreau. The two liqueurs are front and center and bring a lot of proof to the cocktail, thereby requiring the gin be reduced in proportion. In this case, the green Chartreuse and maraschino are both the dominant flavor, bringing sweetness to the cocktail and balancing the acidity of the lime juice, while the gin helps dry the cocktail out.
     glassware: coupe
     ingredients: 
     - ¾ ounce London Dry gin
@@ -2468,7 +2578,8 @@ recipes:
   - name: Crop Top
     author: Devon Tarby
     year: 2013
-    notes: In this cocktail, we've modified the Last Word, which packs a serious punch, to create a subtler, lighter cocktail. We use an amaro as part of the base, resulting in a drink that's significantly more refreshing than the dense Last Word. Its flavor combination, grapefruit-laden pamplemousse combined with the cinnamon spice notes of Amaro Montenegro, was directly inspired by Donn's Mix No. 1, a classic tiki syrup made with grapefruit juice and cinnamon syrup.
+    notes: |+2
+      In this cocktail, we've modified the Last Word, which packs a serious punch, to create a subtler, lighter cocktail. We use an amaro as part of the base, resulting in a drink that's significantly more refreshing than the dense Last Word. Its flavor combination, grapefruit-laden pamplemousse combined with the cinnamon spice notes of Amaro Montenegro, was directly inspired by Donn's Mix No. 1, a classic tiki syrup made with grapefruit juice and cinnamon syrup.
     glassware: nick & nora
     ingredients: 
     - ¾ ounce Beefeater 24 London Dry gin
@@ -2485,7 +2596,8 @@ recipes:
   - name: Why Not
     author: Devon Tarby
     year: 2017
-    notes: A Whiskey Sour meets a Sidecar in the Why Not. Though a simple Sidecar made with whiskey would be a balanced and tasty drink, we substitute maple syrup for half of the Cointreau to add not only sweetness but also rich flavor, and opt for the herbal aroma of a sage leaf garnish. The result is a refreshing cocktail that's perfect for fall and winter.
+    notes: |+2
+      A Whiskey Sour meets a Sidecar in the Why Not. Though a simple Sidecar made with whiskey would be a balanced and tasty drink, we substitute maple syrup for half of the Cointreau to add not only sweetness but also rich flavor, and opt for the herbal aroma of a sage leaf garnish. The result is a refreshing cocktail that's perfect for fall and winter.
     glassware: double rocks
     ingredients: 
     - 1¾ ounces Evan Williams "Black Label" bourbon
@@ -2501,7 +2613,8 @@ recipes:
       - shaken
       - citrus
   - name: Cosmopolitan
-    notes: All Carrie Bradshaw jokes aside, it's hard to hate the Cosmopolitan. A Cosmo is beautifully refreshing, and if ever there was a gateway drink that led people to explore other cocktails, this would be the one. It also provides a great demonstration of how an established template can quickly be transformed into an entirely new cocktail. The Cosmo is a Sidecar that swaps citrus vodka for the Cognac and lime juice for the lemon, with a small amount of cranberry juice added. Where this drink can and often does go wrong is in using cranberry cocktail and adding too much of it. This makes the whole thing a sweet mess, which may be tasty for people unaccustomed to strong spirits, but it robs the cocktail of complexity, sophistication, and balance. Though cranberry cocktail is the ingredient originally called for in Cosmopolitans, we encourage you to try a version made with pure, unsweetened cranberry juice. Admittedly, it is very tannic and behaves quite differently in cocktails, so for our version, we balance the cranberry juice with an equal amount of simple syrup, and then increase the amount of vodka slightly to help it punch through the tart sweetness.
+    notes: |+2
+      All Carrie Bradshaw jokes aside, it's hard to hate the Cosmopolitan. A Cosmo is beautifully refreshing, and if ever there was a gateway drink that led people to explore other cocktails, this would be the one. It also provides a great demonstration of how an established template can quickly be transformed into an entirely new cocktail. The Cosmo is a Sidecar that swaps citrus vodka for the Cognac and lime juice for the lemon, with a small amount of cranberry juice added. Where this drink can and often does go wrong is in using cranberry cocktail and adding too much of it. This makes the whole thing a sweet mess, which may be tasty for people unaccustomed to strong spirits, but it robs the cocktail of complexity, sophistication, and balance. Though cranberry cocktail is the ingredient originally called for in Cosmopolitans, we encourage you to try a version made with pure, unsweetened cranberry juice. Admittedly, it is very tannic and behaves quite differently in cocktails, so for our version, we balance the cranberry juice with an equal amount of simple syrup, and then increase the amount of vodka slightly to help it punch through the tart sweetness.
     glassware: coupe
     ingredients: 
     - 2 ounces citrus vodka 
@@ -2520,7 +2633,8 @@ recipes:
   - name: Clarified Cosmopolitan
     author: Devon Tarby & Alex Day
     year: 2015
-    notes: To make our ideal Cosmopolitan, we stick with high-quality ingredients and use clarified lime juice to mimic the clarity of what most folks know as a "Cosmo," minus the Rose's Lime Juice and crappy cranberry cocktail. In addition to using pure cranberry juice, we forgo flavored vodka and impart citrus flavor by shaking the drink with lemon and lime twists. This is a more flexible approach that allows us to accommodate guests who request a preferred brand of vodka.
+    notes: |+2
+      To make our ideal Cosmopolitan, we stick with high-quality ingredients and use clarified lime juice to mimic the clarity of what most folks know as a "Cosmo," minus the Rose's Lime Juice and crappy cranberry cocktail. In addition to using pure cranberry juice, we forgo flavored vodka and impart citrus flavor by shaking the drink with lemon and lime twists. This is a more flexible approach that allows us to accommodate guests who request a preferred brand of vodka.
     glassware: coupe
     ingredients: 
     - 1¼ ounces vodka 
@@ -2541,7 +2655,8 @@ recipes:
   - name: Lily Pad
     author: Devon Tarby
     year: 2015
-    notes: Blanc vermouth can act like a liqueur in shaken cocktails due to its sugar content. Here, it partners with Chareau-an aloe-based liqueur to serve as the liqueur element in this Sidecar variation. Because Chareau is so dry, we increase the amount of sweetener to add body to the cocktail.
+    notes: |+2
+      Blanc vermouth can act like a liqueur in shaken cocktails due to its sugar content. Here, it partners with Chareau-an aloe-based liqueur to serve as the liqueur element in this Sidecar variation. Because Chareau is so dry, we increase the amount of sweetener to add body to the cocktail.
     glassware: coupe
     ingredients: 
     - 5 basil leaves, preferably Thai basil 
@@ -2562,7 +2677,8 @@ recipes:
       - shaken
       - citrus
   - name: Pegu Club Cocktail
-    notes: Highly potent bitters can also be added to a cocktail to help adjust the balance. As you can see, this recipe follows the same basic template as our version of Between the Sheets. Gin acts in a supporting role to Cointreau's juicy flavor and sweetness, and so by adding a dash each of both Angostura and House Orange bitters, we are able to introduce seasoning that dries out the cocktail a bit while curbing the sharpness of the lime.
+    notes: |+2
+      Highly potent bitters can also be added to a cocktail to help adjust the balance. As you can see, this recipe follows the same basic template as our version of Between the Sheets. Gin acts in a supporting role to Cointreau's juicy flavor and sweetness, and so by adding a dash each of both Angostura and House Orange bitters, we are able to introduce seasoning that dries out the cocktail a bit while curbing the sharpness of the lime.
     glassware: coupe
     ingredients: 
     - 2 ounces London Dry gin
@@ -2580,7 +2696,8 @@ recipes:
       - citrus
       - classic 
   - name: Champs-Élysées
-    notes: In the classic Champs-Élysées, green Chartreuse replaces the Cointreau in a Sidecar. Because Chartreuse is high proof (110% ABV) and intensely herbaceous, the formula must be adjusted accordingly. As you can see, the amount of liqueur is dialed back. In addition, the amount of Cognac is increased slightly, and simple syrup is added to help push the cocktail back into balance.
+    notes: |+2
+      In the classic Champs-Élysées, green Chartreuse replaces the Cointreau in a Sidecar. Because Chartreuse is high proof (110% ABV) and intensely herbaceous, the formula must be adjusted accordingly. As you can see, the amount of liqueur is dialed back. In addition, the amount of Cognac is increased slightly, and simple syrup is added to help push the cocktail back into balance.
     glassware: coupe
     ingredients: 
     - 2 ounces Cognac
@@ -2600,7 +2717,8 @@ recipes:
   - name: Four to the Floor
     author: Devon Tarby
     year: 2014
-    notes: "When a liqueur drives the flavor of the cocktail, this usually requires some changes to the citrus. In the Four to the Floor, a variation on the Corpse Reviver #2, the base is a beautiful marriage of pisco and grapefruit liqueur, so we opt to replace the more acidic citrus juice, which would overshadow those flavors, with verjus. Technique comes into play here, with the finished cocktail having a smooth, silky texture because it's stirred, whereas shaking would introduce air bubbles."
+    notes: |+2
+      "When a liqueur drives the flavor of the cocktail, this usually requires some changes to the citrus. In the Four to the Floor, a variation on the Corpse Reviver #2, the base is a beautiful marriage of pisco and grapefruit liqueur, so we opt to replace the more acidic citrus juice, which would overshadow those flavors, with verjus. Technique comes into play here, with the finished cocktail having a smooth, silky texture because it's stirred, whereas shaking would introduce air bubbles."
     glassware: coupe
     ingredients: 
     - 1½ ounces Campo de Encanto Grand and Noble pisco
@@ -2617,7 +2735,8 @@ recipes:
   - name: La Valencia
     author: Alex Day
     year: 2008
-    notes: This riff on the Champs-Élysées has a split base of dry and salty manzanilla sherry and a chamomile infused rye. The honeyed and herbal flavor of Yellow Chartreuse is perfect for drawing out the chamomile in the infused rye.
+    notes: |+2
+      This riff on the Champs-Élysées has a split base of dry and salty manzanilla sherry and a chamomile infused rye. The honeyed and herbal flavor of Yellow Chartreuse is perfect for drawing out the chamomile in the infused rye.
     glassware: coupe
     ingredients: 
     - 1 ounce Chamomile-Infused Rye Whiskey
@@ -2650,7 +2769,8 @@ recipes:
       - citrus
       - classic
   - name: Fish House Punch
-    notes: The classic Fish House Punch is clearly related to the Sidecar, containing Cognac, liqueur, and lemon juice in proportions quite similar to those in the Sidecar. The key difference is that it also includes seltzer, which increases the perception of acidity—much like our discussion of the Collins in the Daiquiri chapter. In this case, the classic recipe already includes ample richness in the core spirits and sweet peach liqueur, and the syrup bolsters those ingredients to increase the drink's body.
+    notes: |+2
+      The classic Fish House Punch is clearly related to the Sidecar, containing Cognac, liqueur, and lemon juice in proportions quite similar to those in the Sidecar. The key difference is that it also includes seltzer, which increases the perception of acidity—much like our discussion of the Collins in the Daiquiri chapter. In this case, the classic recipe already includes ample richness in the core spirits and sweet peach liqueur, and the syrup bolsters those ingredients to increase the drink's body.
     glassware: collins
     ingredients: 
     - 2 ounces cold seltzer
@@ -2673,7 +2793,8 @@ recipes:
   - name: Chatham Cocktail
     author: Devon Tarby
     year: 2015
-    notes: In the Chatham Cocktail, the core is a blend of fortified wines, which bring more sugar and acidity to the drink, and the drink is topped with Champagne, which brings even more acidity. Therefore, we use a smaller amount of both Grand Marnier and lemon juice and boost the amount of simple syrup.
+    notes: |+2
+      In the Chatham Cocktail, the core is a blend of fortified wines, which bring more sugar and acidity to the drink, and the drink is topped with Champagne, which brings even more acidity. Therefore, we use a smaller amount of both Grand Marnier and lemon juice and boost the amount of simple syrup.
     glassware: flute
     ingredients: 
     - ¾ ounce Cocchi Americano bianco 
@@ -2696,7 +2817,8 @@ recipes:
   - name: Twist of Menton
     author: Devon Tarby
     year: 2015
-    notes: In another riff on the Last Word, this recipe uses two types of bitter liqueur in place of the Chartreuse and maraschino liqueur. To add a necessary sweet counterpoint and boost the body of this cocktail, we add a luscious strawberry syrup.
+    notes: |+2
+      In another riff on the Last Word, this recipe uses two types of bitter liqueur in place of the Chartreuse and maraschino liqueur. To add a necessary sweet counterpoint and boost the body of this cocktail, we add a luscious strawberry syrup.
     glassware: coupe
     ingredients: 
     - ¾ ounce Grey Goose vodka
@@ -2713,7 +2835,8 @@ recipes:
       - shaken
       - citrus
   - name: Long Island Iced Tea
-    notes: No exploration of the Sidecar's extended family would be complete without the infamous Long Island Iced Tea. Of course, a key way in which this cocktail diverges from the standard Sidecar recipe is in the amount of spirits, with the core containing a whopping 3 ounces of strong spirits, split between vodka, gin, tequila, and rum. The amounts of Cointreau and lemon juice, however, aren't increased, so the added cola contributes a burst of sugar and acidity to bring the whole thing into balance.
+    notes: |+2
+      No exploration of the Sidecar's extended family would be complete without the infamous Long Island Iced Tea. Of course, a key way in which this cocktail diverges from the standard Sidecar recipe is in the amount of spirits, with the core containing a whopping 3 ounces of strong spirits, split between vodka, gin, tequila, and rum. The amounts of Cointreau and lemon juice, however, aren't increased, so the added cola contributes a burst of sugar and acidity to bring the whole thing into balance.
     glassware: pint glass
     ingredients: 
     - 2 ounces cold Coca-Cola
@@ -2762,7 +2885,8 @@ recipes:
       - stirred
       - classic
   - name: Americano
-    notes: "A staple aperitif cocktail, the Americano is like a Negroni (a member of the Martini family, page 89) in which the gin has been replaced with seltzer, transforming it into a Highball with a split base of Campari and sweet vermouth. Both ingredients are rich and bitter, even though they're lower in alcohol, which allows this basic Highball format to work without any modifications. That said, the orange garnish is important for this cocktail: it perfumes the nose, and its flavors slowly seep into the drink as it's consumed. We highly recommend having extra cold seltzer on hand to frequently top off an Americano, ideally in the late afternoon with a good book."
+    notes: |+2
+      "A staple aperitif cocktail, the Americano is like a Negroni (a member of the Martini family, page 89) in which the gin has been replaced with seltzer, transforming it into a Highball with a split base of Campari and sweet vermouth. Both ingredients are rich and bitter, even though they're lower in alcohol, which allows this basic Highball format to work without any modifications. That said, the orange garnish is important for this cocktail: it perfumes the nose, and its flavors slowly seep into the drink as it's consumed. We highly recommend having extra cold seltzer on hand to frequently top off an Americano, ideally in the late afternoon with a good book."
     glassware: highball
     ingredients: 
     - 1 ounce Campari
@@ -2779,7 +2903,8 @@ recipes:
       - stirred
       - classic
   - name: Paloma
-    notes: Though the Margarita may get the world's attention, Mexicans are far more likely to mix up a Paloma, which is simply grapefruit soda and tequila with a squeeze of lime. This cocktail can also be made with mezcal, and we highly recommend trying that variation. Our Paloma takes the traditional version and amplifies its flavors, first by making our own grapefruit soda from fresh grapefruit, and then adding a touch of grapefruit liqueur for even greater complexity.
+    notes: |+2
+      Though the Margarita may get the world's attention, Mexicans are far more likely to mix up a Paloma, which is simply grapefruit soda and tequila with a squeeze of lime. This cocktail can also be made with mezcal, and we highly recommend trying that variation. Our Paloma takes the traditional version and amplifies its flavors, first by making our own grapefruit soda from fresh grapefruit, and then adding a touch of grapefruit liqueur for even greater complexity.
     glassware: highball
     ingredients: 
     - Lime wedge
@@ -2800,7 +2925,8 @@ recipes:
       - stirred
       - classic
   - name: Cuba Libre
-    notes: "In the classic Cuba Libre, a humble Highball-rum and Coke-is elevated by adding a touch of lime juice. It's an inspired choice, because lime peel is a key ingredient in most colas, so the juice draws that flavor out of the cola while also cutting through its sweetness. The core spirit is also crucial to making this cocktail work: rum's sugarcane backbone complements the cola's round spice flavors, and whisky's spice can work wonderfully with cola's bitter and citrus flavors, but the subtlety of vodka would fall flat, and gin's botanicals would clash with the mixer."
+    notes: |+2
+      "In the classic Cuba Libre, a humble Highball-rum and Coke-is elevated by adding a touch of lime juice. It's an inspired choice, because lime peel is a key ingredient in most colas, so the juice draws that flavor out of the cola while also cutting through its sweetness. The core spirit is also crucial to making this cocktail work: rum's sugarcane backbone complements the cola's round spice flavors, and whisky's spice can work wonderfully with cola's bitter and citrus flavors, but the subtlety of vodka would fall flat, and gin's botanicals would clash with the mixer."
     glassware: highball
     ingredients: 
     - 2 ounces white rum
@@ -2818,7 +2944,8 @@ recipes:
       - citrus
       - stirred 
   - name: Negroni Sbagliato
-    notes: Remember the Americano from the section "Experimenting with the Core and Seasoning"? What if we were to replace the seltzer with sparkling wine? The delicious result is a classic Negroni Sbagliato. Because the sparkling wine has more flavor than seltzer, less is used, resulting in a cocktail that dances between bitter, sweet, and refreshing.
+    notes: |+2
+      Remember the Americano from the section "Experimenting with the Core and Seasoning"? What if we were to replace the seltzer with sparkling wine? The delicious result is a classic Negroni Sbagliato. Because the sparkling wine has more flavor than seltzer, less is used, resulting in a cocktail that dances between bitter, sweet, and refreshing.
     glassware: highball
     ingredients: 
     - 1 ounce Carpano Antica Formula sweet vermouth
@@ -2836,7 +2963,8 @@ recipes:
       - negroni
       - sparkling
   - name: Screwdriver
-    notes: As mentioned earlier, Screwdrivers (and similar Highballs that use citrus juice as the mixer) can be quite disappointing when made with processed commercial juices. However, these simple drinks can be redeemed by using freshly pressed juice from oranges that are in season. The juice itself is balanced, thanks to its bright acidity and sweetness, which makes for a refreshing cocktail. Even so, sometimes even fresh juice can fall a little flat. No problem! Just add a bit of Citric Acid Solution.
+    notes: |+2
+      As mentioned earlier, Screwdrivers (and similar Highballs that use citrus juice as the mixer) can be quite disappointing when made with processed commercial juices. However, these simple drinks can be redeemed by using freshly pressed juice from oranges that are in season. The juice itself is balanced, thanks to its bright acidity and sweetness, which makes for a refreshing cocktail. Even so, sometimes even fresh juice can fall a little flat. No problem! Just add a bit of Citric Acid Solution.
     glassware: highball
     ingredients: 
     - 4 ounces fresh orange juice 
@@ -2853,7 +2981,8 @@ recipes:
       - classic
       - stirred
   - name: Tequila Sunrise
-    notes: Like the Screwdriver, the Tequila Sunrise is an oft-maligned classic cocktail that's greatly improved by using fresh, rather than commercial, juice. We also find the classic version a bit cloying because of the sweetness of the grenadine, so we compensate by adding just a bit of lime juice, which pairs well with the tequila. The result is a refreshing, juicy cocktail, perfect for daytime drinking.
+    notes: |+2
+      Like the Screwdriver, the Tequila Sunrise is an oft-maligned classic cocktail that's greatly improved by using fresh, rather than commercial, juice. We also find the classic version a bit cloying because of the sweetness of the grenadine, so we compensate by adding just a bit of lime juice, which pairs well with the tequila. The result is a refreshing, juicy cocktail, perfect for daytime drinking.
     glassware: highball
     ingredients: 
     - 2 ounces blanco tequila
@@ -2871,7 +3000,8 @@ recipes:
       - classic
       - stirred
   - name: Gin and Tonic
-    notes: The gin and tonic is perhaps even more popular than the Whisky Highball, perhaps because of how its two simple ingredients interact with each other. Tonic water isn't just a bitter seltzer; it also has a fair amount of sugar, giving it a sweetness that helps highlight the botanical flavors of high-proof English gin while curbing its alcohol heat.
+    notes: |+2
+      The gin and tonic is perhaps even more popular than the Whisky Highball, perhaps because of how its two simple ingredients interact with each other. Tonic water isn't just a bitter seltzer; it also has a fair amount of sugar, giving it a sweetness that helps highlight the botanical flavors of high-proof English gin while curbing its alcohol heat.
     glassware: highball
     ingredients: 
     - 2 ounces London Dry gin 
@@ -2887,7 +3017,8 @@ recipes:
       - classic
       - stirred
   - name: Harvey Wallbanger
-    notes: Continuing our exploration of Highballs that have a bad reputation, consider the Harvey Wallbanger, basically a Screwdriver (page 213) with a float of Galliano on top—where just a small amount of liqueur adds flavor and complexity to a simple Highball. For our version of this classic, we pull back on the vodka a bit to compensate for the alcohol in the Galliano and, as with our take on the Tequila Sunrise (see left), we add a bit of citrus juice (in this case lemon) to compensate for the added sweetness. We also forgo floating the Galliano on top because we find that this creates an unbalanced cocktail, and the liqueur drops to the bottom anyhow.
+    notes: |+2
+      Continuing our exploration of Highballs that have a bad reputation, consider the Harvey Wallbanger, basically a Screwdriver (page 213) with a float of Galliano on top—where just a small amount of liqueur adds flavor and complexity to a simple Highball. For our version of this classic, we pull back on the vodka a bit to compensate for the alcohol in the Galliano and, as with our take on the Tequila Sunrise (see left), we add a bit of citrus juice (in this case lemon) to compensate for the added sweetness. We also forgo floating the Galliano on top because we find that this creates an unbalanced cocktail, and the liqueur drops to the bottom anyhow.
     glassware: highball
     ingredients: 
     - 1½ ounces Aylesbury Duck vodka
@@ -2905,7 +3036,8 @@ recipes:
   - name: Normandie Club Bloody Mary
     author: Devon Tarby
     year: 2015
-    notes: "By now you know that we're big proponents of using fresh juices. But for years, we were confounded by tomato juice, since fresh versions have a thin flavor and tend to separate when mixed with booze. The answer, as it turns out, is to mix fresh tomato juice with a bit of bottled juice to stabilize the texture while still delivering fresh tomato flavor, so that's the approach we take in the Bloody Mary mix for this cocktail. Another pet peeve of ours is Bloody Marys with a grainy texture or particulates, such as spices or horseradish. So for this Bloody Mary mix, we forgo spices or horseradish and instead use a bit of fresh celery juice and bell pepper juice. With so much work dedicated to perfecting the mix, we chose savory aquavit to deepen the flavor even more. This mix is versatile, though: swap in vodka, gin, or even amontillado sherry."
+    notes: |+2
+      "By now you know that we're big proponents of using fresh juices. But for years, we were confounded by tomato juice, since fresh versions have a thin flavor and tend to separate when mixed with booze. The answer, as it turns out, is to mix fresh tomato juice with a bit of bottled juice to stabilize the texture while still delivering fresh tomato flavor, so that's the approach we take in the Bloody Mary mix for this cocktail. Another pet peeve of ours is Bloody Marys with a grainy texture or particulates, such as spices or horseradish. So for this Bloody Mary mix, we forgo spices or horseradish and instead use a bit of fresh celery juice and bell pepper juice. With so much work dedicated to perfecting the mix, we chose savory aquavit to deepen the flavor even more. This mix is versatile, though: swap in vodka, gin, or even amontillado sherry."
     glassware: collins
     ingredients: 
     - Lemon wedge 
@@ -2925,7 +3057,8 @@ recipes:
       - citrus
       - stirred
   - name: Bloody Mary
-    notes: As mentioned earlier, a Highball can also be savory-and the Bloody Mary is the queen of all savory cocktails. Our baseline Bloody Mary is simple and requires minimal prep. Use this recipe as a template and adjust the drink to suit your preferences. It's also a great canvas for experimentation. You could add a splash of mezcal for smoke, or substitute manzanilla sherry for the vodka to up the savory ante and bring the ABV down (you don't have to get drunk at brunch). Or consider making it with our Roasted Garlic- and Pepper-Infused Vodka (page 292).
+    notes: |+2
+      As mentioned earlier, a Highball can also be savory-and the Bloody Mary is the queen of all savory cocktails. Our baseline Bloody Mary is simple and requires minimal prep. Use this recipe as a template and adjust the drink to suit your preferences. It's also a great canvas for experimentation. You could add a splash of mezcal for smoke, or substitute manzanilla sherry for the vodka to up the savory ante and bring the ABV down (you don't have to get drunk at brunch). Or consider making it with our Roasted Garlic- and Pepper-Infused Vodka (page 292).
     glassware: pint glass
     ingredients: 
     - Kosher salt and pepper, for rimming
@@ -2947,7 +3080,8 @@ recipes:
   - name: Bloody Mary Verde
     author: Devon Tarby
     year: 2013
-    notes: Call us classicists, but we don't often veer away from the tomato-based Bloody Mary mixes used in the previous cocktails. One exception is our tomatillo-based Verde Mix, which is the perfect match for a spicy infused tequila. This drink needs more sugar than you'd think, as cucumber and tomatillo are naturally less sweet than tomatoes, so we add honey to the mix, which also adds a slight earthiness that helps unify the rest of the ingredients.
+    notes: |+2
+      Call us classicists, but we don't often veer away from the tomato-based Bloody Mary mixes used in the previous cocktails. One exception is our tomatillo-based Verde Mix, which is the perfect match for a spicy infused tequila. This drink needs more sugar than you'd think, as cucumber and tomatillo are naturally less sweet than tomatoes, so we add honey to the mix, which also adds a slight earthiness that helps unify the rest of the ingredients.
     glassware: collins
     ingredients: 
     - Kosher salt and chile powder, for rimming
@@ -2968,7 +3102,8 @@ recipes:
   - name: Nobody's Robots
     author: Alex Day
     year: 2013
-    notes: Nobody's Robots is a nerdy evolution of the Screwdriver made especially delicious by carbonating the entire cocktail. If you're equipped with a keg cocktail system (most people are, right?), this drink is a fantastic way to trick folks into drinking lots and lots of sherry. Overall, the flavors in this drink are more concentrated than those in a more typical Highball—a simple slug of booze topped with a mixer—which makes it feel more like a sophisticated cocktail.
+    notes: |+2
+      Nobody's Robots is a nerdy evolution of the Screwdriver made especially delicious by carbonating the entire cocktail. If you're equipped with a keg cocktail system (most people are, right?), this drink is a fantastic way to trick folks into drinking lots and lots of sherry. Overall, the flavors in this drink are more concentrated than those in a more typical Highball—a simple slug of booze topped with a mixer—which makes it feel more like a sophisticated cocktail.
     glassware: highball
     ingredients: 
     - 1 ounces Absolut vodka
@@ -2989,7 +3124,8 @@ recipes:
       - carbonated
       - stirred
   - name: Mimosa
-    notes: In chapter 1, we delved (all too briefly) into the world of sparkling wines (see page 28). Because they can vary so widely in levels of acidity and sugar and display flavors that range from sharp to rich and yeasty notes, they often aren't interchangeable in cocktails. As with the Screwdriver (page 213), there's no comparing a Mimosa made with freshly pressed, in-season orange juice to one made with pasteurized juice. The former is bright and refreshing, while the latter often tastes flat. That said, oranges do vary in sweetness and acidity, so we include a bit of Citric Acid Solution to ensure that the drink has a bright, zippy flavor.
+    notes: |+2
+      In chapter 1, we delved (all too briefly) into the world of sparkling wines (see page 28). Because they can vary so widely in levels of acidity and sugar and display flavors that range from sharp to rich and yeasty notes, they often aren't interchangeable in cocktails. As with the Screwdriver (page 213), there's no comparing a Mimosa made with freshly pressed, in-season orange juice to one made with pasteurized juice. The former is bright and refreshing, while the latter often tastes flat. That said, oranges do vary in sweetness and acidity, so we include a bit of Citric Acid Solution to ensure that the drink has a bright, zippy flavor.
     glassware: flute
     ingredients: 
     - 1 ounce fresh orange juice 
@@ -3007,7 +3143,8 @@ recipes:
   - name: Apple Pop
     author: Devon Tarby
     year: 2015
-    notes: The Apple Pop is our take on creating a highbrow version of a straightforward Highball, inspired by the simplicity of a gin and tonic. We match an unaged French apple brandy with a touch of pear brandy and the herbal sweetness of blanc vermouth; a juicy homemade Apple Celery Soda stretches out these flavors for a refreshing Highball riff.
+    notes: |+2
+      The Apple Pop is our take on creating a highbrow version of a straightforward Highball, inspired by the simplicity of a gin and tonic. We match an unaged French apple brandy with a touch of pear brandy and the herbal sweetness of blanc vermouth; a juicy homemade Apple Celery Soda stretches out these flavors for a refreshing Highball riff.
     glassware: highball
     ingredients: 
     - 1 ounce Drouin Blanche de Normandie apple brandy
@@ -3024,7 +3161,8 @@ recipes:
       - death & co
       - stirred
   - name: Bellini
-    notes: Although Bellinis are served year round in bars around the world, they're at their best when made with peaches at the peak of their ripeness-a privilege that few get to experience. Even the highest-quality commercial peach puree will taste dull in comparison to one made with peaches in their prime. Take note of when peaches are available at your local farmers' market, then seize the opportunity to make this classic cocktail. That said, the beauty of the Bellini is that it can be made with almost any fresh, ripe fruit, opening the door to numerous new creations.
+    notes: |+2
+      Although Bellinis are served year round in bars around the world, they're at their best when made with peaches at the peak of their ripeness-a privilege that few get to experience. Even the highest-quality commercial peach puree will taste dull in comparison to one made with peaches in their prime. Take note of when peaches are available at your local farmers' market, then seize the opportunity to make this classic cocktail. That said, the beauty of the Bellini is that it can be made with almost any fresh, ripe fruit, opening the door to numerous new creations.
     glassware: flute
     ingredients: 
     - 1 ounce fresh peach puree
@@ -3039,7 +3177,8 @@ recipes:
       - classic
       - sparkling
   - name: Kir Royale
-    notes: Another avenue for exploring Highball variations based on sparkling wines is to use fruit liqueur as a flavoring; just be careful not to add too much and oversweeten the drink. The classic Kir Royale strikes the right balance by using a restrained amount of crème de cassis, a black currant liqueur that retains the bright acidity of the fruit. That acidity makes it versatile for mixing, since it contributes both sweetness and sourness alongside its juicy fruit flavor. Although Champagne is traditional in this drink, Crémant de Bourgogne would also work well, and don't hesitate to venture farther afield, exploring the countless possibilities for pairing liqueurs with sparkling wines.
+    notes: |+2
+      Another avenue for exploring Highball variations based on sparkling wines is to use fruit liqueur as a flavoring; just be careful not to add too much and oversweeten the drink. The classic Kir Royale strikes the right balance by using a restrained amount of crème de cassis, a black currant liqueur that retains the bright acidity of the fruit. That acidity makes it versatile for mixing, since it contributes both sweetness and sourness alongside its juicy fruit flavor. Although Champagne is traditional in this drink, Crémant de Bourgogne would also work well, and don't hesitate to venture farther afield, exploring the countless possibilities for pairing liqueurs with sparkling wines.
     glassware: flute
     ingredients: 
     - ½ ounce Gabriel Boudier Crème de Cassis de Dijon 
@@ -3053,7 +3192,8 @@ recipes:
       - classic
       - sparkling
   - name: St-Germain Cocktail
-    notes: The underlying principle in the St-Germain Cocktail is the same as that in the Aperol Spritz (see right). To ensure that the sparkling wine doesn't overpower the delicacy of the St-Germain, a fairly modest amount of sparkling wine is supplemented with seltzer, allowing for maximum effervescence and a balanced flavor profile that allows the St-Germain to shine through.
+    notes: |+2
+      The underlying principle in the St-Germain Cocktail is the same as that in the Aperol Spritz (see right). To ensure that the sparkling wine doesn't overpower the delicacy of the St-Germain, a fairly modest amount of sparkling wine is supplemented with seltzer, allowing for maximum effervescence and a balanced flavor profile that allows the St-Germain to shine through.
     glassware: highball
     ingredients: 
     - 1½ ounces St-Germain
@@ -3069,7 +3209,8 @@ recipes:
       - stirred
       - classic
   - name: Aperol Spritz
-    notes: The classic Aperol Spritz sits alongside the Americano as an indispensable aperitif cocktail-a drink consumed before a meal to stimulate the app etite. While we stand by our belief that sparkling wine makes everything better, too much can overpower delicate flavors. This drink, made with Aperol, the lightest of aperitifs, is a case in point. If it were to call for more sparkling wine, that would push it into boozy territory, so it also includes seltzer to ensure that it's refreshing and fizzy enough, without overly interfering with the flavor profile.
+    notes: |+2
+      The classic Aperol Spritz sits alongside the Americano as an indispensable aperitif cocktail-a drink consumed before a meal to stimulate the app etite. While we stand by our belief that sparkling wine makes everything better, too much can overpower delicate flavors. This drink, made with Aperol, the lightest of aperitifs, is a case in point. If it were to call for more sparkling wine, that would push it into boozy territory, so it also includes seltzer to ensure that it's refreshing and fizzy enough, without overly interfering with the flavor profile.
     glassware: wine glass
     ingredients: 
     - 2 ounces Aperol
@@ -3089,7 +3230,8 @@ recipes:
   - name: Normandie Club Spritz #1
     author: Devon Tarby & Alex Day
     year: 2015
-    notes: With fully clarified juices, it's easy to think this cocktail is just a simple spritz, but it's packed with bright, tart flavorz and fantastically complex piney notes, thanks to the Clear Creek Douglas Fir eau de vie.
+    notes: |+2
+      With fully clarified juices, it's easy to think this cocktail is just a simple spritz, but it's packed with bright, tart flavorz and fantastically complex piney notes, thanks to the Clear Creek Douglas Fir eau de vie.
     glassware: white wine glass
     ingredients: 
     - 1½ ounces Dolin Blanc Vermouth
@@ -3114,7 +3256,8 @@ recipes:
   - name: Daisy Chain
     author: Devon Tarby
     year: 2015
-    notes: "The Daisy Chain takes an approach similar to the Normandie Club Spritz #3 to produce a cocktail that mimics the flavors of a glass of sparkling wine. The combination of bone-dry, salty manzanilla sherry, sweet and floral St-Germain, and juicy verjus could almost trick you into thinking you're drinking a dry Muscat. Bitter Suze is added to curb the candy notes and the St-Germain and add an aperitif quality, while the sparkling cider brings body and funk—qualities not found in seltzer or sparkling wine."
+    notes: |+2
+      "The Daisy Chain takes an approach similar to the Normandie Club Spritz #3 to produce a cocktail that mimics the flavors of a glass of sparkling wine. The combination of bone-dry, salty manzanilla sherry, sweet and floral St-Germain, and juicy verjus could almost trick you into thinking you're drinking a dry Muscat. Bitter Suze is added to curb the candy notes and the St-Germain and add an aperitif quality, while the sparkling cider brings body and funk—qualities not found in seltzer or sparkling wine."
     glassware: wine glass
     ingredients: 
     - 1½ ounces manzanilla sherry
@@ -3138,7 +3281,8 @@ recipes:
   - name: Normandie Club Spritz #3
     author: Devon Tarby
     year: 2015
-    notes: "We took our Improved Wine Spritz and expanded on the idea to come up with the Normandie Club Spritz #3, which has a split base of dry vermouth and St-Germain, accompanied by clarified juices to provide balance without altering the Champagne-like texture of the cocktail. We also chose to fully carbonate the cocktail, rather than simply pouring in seltzer. This infuses the drink with a uniform effervescence that makes it incredibly quaffable."
+    notes: |+2
+      "We took our Improved Wine Spritz and expanded on the idea to come up with the Normandie Club Spritz #3, which has a split base of dry vermouth and St-Germain, accompanied by clarified juices to provide balance without altering the Champagne-like texture of the cocktail. We also chose to fully carbonate the cocktail, rather than simply pouring in seltzer. This infuses the drink with a uniform effervescence that makes it incredibly quaffable."
     glassware: highball
     ingredients: 
     - 1 ounce Boissiere dry vermouth
@@ -3162,7 +3306,8 @@ recipes:
   - name: Improved Wine Spritz
     author: Devon Tarby
     year: 2016
-    notes: Our Improved Wine Spritz demonstrates how we can integrate some of the principles from chapter 3, on Daiquiris and sours, to yield a superior Wine Spritz (see right) without veering too far from a Highball template. All we've done is add small amounts of lemon juice and simple syrup, but this brings an appealing sweet-sour balance to the drink, lifts the flavors of the wine, and gives the cocktail more body.
+    notes: |+2
+      Our Improved Wine Spritz demonstrates how we can integrate some of the principles from chapter 3, on Daiquiris and sours, to yield a superior Wine Spritz (see right) without veering too far from a Highball template. All we've done is add small amounts of lemon juice and simple syrup, but this brings an appealing sweet-sour balance to the drink, lifts the flavors of the wine, and gives the cocktail more body.
     glassware: wine glass
     ingredients: 
     - 4 ounces cold, crisp white or rosé wine
@@ -3181,7 +3326,8 @@ recipes:
       - sparkling
       - spritz
   - name: Wine Spritz
-    notes: You can also use still wine as the core of a drink. Because its proof is so much lower and the flavor more mild than a spirit, the amount of wine should be increased, with the amount of seltzer being decreased accordingly. Voilà! The classic Wine Spritz, which is indeed a type of Highball. Though wines vary widely in their sweetness and acidity, sticking with a small measure of seltzer as the mixer generally works well, as it will stretch and carry the distinctive flavors of the wine. We love a Wine Spritz with no trace of shame. What's not to like about a glass of chilled wine topped with seltzer? It's a drink fit for moms and cocktail nerds alike.
+    notes: |+2
+      You can also use still wine as the core of a drink. Because its proof is so much lower and the flavor more mild than a spirit, the amount of wine should be increased, with the amount of seltzer being decreased accordingly. Voilà! The classic Wine Spritz, which is indeed a type of Highball. Though wines vary widely in their sweetness and acidity, sticking with a small measure of seltzer as the mixer generally works well, as it will stretch and carry the distinctive flavors of the wine. We love a Wine Spritz with no trace of shame. What's not to like about a glass of chilled wine topped with seltzer? It's a drink fit for moms and cocktail nerds alike.
     glassware: wine glass
     ingredients: 
     - 4 ounces cold, crisp white or rosé wine
@@ -3200,7 +3346,8 @@ recipes:
   - name: King's Landing
     author: Alex Day
     year: 2013
-    notes: In terms of its ingredients, the King's Landing may seem like a fairly typical sour-style cocktail, if a little lean in the sour department. But if you take a close look at the amounts called for, you'll see that cava and our birch infused vermouth make up most of the volume of the cocktail, with relatively small amounts of lemon juice and pear liqueur being added for balance, keeping this cocktail firmly in Highball territory.
+    notes: |+2
+      In terms of its ingredients, the King's Landing may seem like a fairly typical sour-style cocktail, if a little lean in the sour department. But if you take a close look at the amounts called for, you'll see that cava and our birch infused vermouth make up most of the volume of the cocktail, with relatively small amounts of lemon juice and pear liqueur being added for balance, keeping this cocktail firmly in Highball territory.
     glassware: wine glass
     ingredients: 
     - 1½ ounces Birch-Infused Cocchi Vermouth di Torino (page 287)
@@ -3247,7 +3394,8 @@ recipes:
       - death & co
       - shaken
   - name: Brandy Flip
-    notes: "Our favorite version of the Flip is one made with sherry because of the wine's nutty aroma and raisiny finish. Another popular variation is the classic Brandy Flip. For our ideal version of this drink, we first fine-tune the core, choosing the woodsy juiciness of Cognac, which works well with the fattiness of the egg. Then, although some recipes for this drink do call for a full 2 ounces of brandy, we think the brandy's higher proof calls for dialing back on the spirits a bit: too much alcohol in a Flip and it just tastes like creamy hooch. Finally, we increase the amount of sweetener slightly to compensate for the oloroso sherry's missing sweetness."
+    notes: |+2
+      "Our favorite version of the Flip is one made with sherry because of the wine's nutty aroma and raisiny finish. Another popular variation is the classic Brandy Flip. For our ideal version of this drink, we first fine-tune the core, choosing the woodsy juiciness of Cognac, which works well with the fattiness of the egg. Then, although some recipes for this drink do call for a full 2 ounces of brandy, we think the brandy's higher proof calls for dialing back on the spirits a bit: too much alcohol in a Flip and it just tastes like creamy hooch. Finally, we increase the amount of sweetener slightly to compensate for the oloroso sherry's missing sweetness."
     glassware: coupe
     ingredients: 
     - 1½ ounces Cognac
@@ -3263,7 +3411,8 @@ recipes:
       - shaken
       - classic
   - name: Coffee Cocktail
-    notes: "According to Jerry Thomas's 1887 Bar-Tender's Guide, this cocktail's name has nothing to do with its flavor (where's the coffee, after all?), but rather its appearance: it looks like a cup of coffee. Lucky for us, cocktail naming has come a long way in the past 150 years. Regardless, the drink is a great example of how the Flip's core can be split between a fortified wine and a spirit, marrying both the root, sherry-based Flip and the Brandy Flip above. Here, tawny port brings both a great deal of flavor and sweetness requiring less syrup to balance-while the Cognac supports it with woodsy complexity."
+    notes: |+2
+      "According to Jerry Thomas's 1887 Bar-Tender's Guide, this cocktail's name has nothing to do with its flavor (where's the coffee, after all?), but rather its appearance: it looks like a cup of coffee. Lucky for us, cocktail naming has come a long way in the past 150 years. Regardless, the drink is a great example of how the Flip's core can be split between a fortified wine and a spirit, marrying both the root, sherry-based Flip and the Brandy Flip above. Here, tawny port brings both a great deal of flavor and sweetness requiring less syrup to balance-while the Cognac supports it with woodsy complexity."
     glassware: coupe
     ingredients: 
     - 1½ ounces tawny port
@@ -3280,7 +3429,8 @@ recipes:
       - shaken
       - classic
   - name: Eggnog
-    notes: Dairy is a natural companion to the richness of an egg. Either can contribute to the texture of a cocktail in a dramatic way, and when they're combined the effect is amplified. Of course, Eggnog is the classic example. Though it's typically made in large batches that involve a lot of work-preparing a custard base and then spiking it (as in the Tom and Jerry, on page 268)—that isn't always convenient, so we've come up with this single-serving version of Eggnog that can be made quickly and without much prep.
+    notes: |+2
+      Dairy is a natural companion to the richness of an egg. Either can contribute to the texture of a cocktail in a dramatic way, and when they're combined the effect is amplified. Of course, Eggnog is the classic example. Though it's typically made in large batches that involve a lot of work-preparing a custard base and then spiking it (as in the Tom and Jerry, on page 268)—that isn't always convenient, so we've come up with this single-serving version of Eggnog that can be made quickly and without much prep.
     glassware: rocks
     ingredients: 
     - ¾ ounce Plantation Barbados 5-year rum
@@ -3298,7 +3448,8 @@ recipes:
       - shaken
       - classic
   - name: Brandy Alexander
-    notes: One way to experiment with the balance in Flip-style drinks is to omit the egg and rely solely on the richness of cream. In fact, this style of cocktail is even more common and varied than egg-based drinks. Perhaps the most famous of these is the Alexander, which itself has many variations based on different core spirits. Our favorite is the classic Brandy Alexander, a mixture of brandy, crème de cacao, and heavy cream, where a rich liqueur serves as the sweetener. As in our take on the Brandy Flip (page 252), we favor a rich Cognac in this drink. Note that because the cocktail has a slightly higher alcohol content, it must be shaken a bit longer so it will be diluted enough to fill a standard coupe.
+    notes: |+2
+      One way to experiment with the balance in Flip-style drinks is to omit the egg and rely solely on the richness of cream. In fact, this style of cocktail is even more common and varied than egg-based drinks. Perhaps the most famous of these is the Alexander, which itself has many variations based on different core spirits. Our favorite is the classic Brandy Alexander, a mixture of brandy, crème de cacao, and heavy cream, where a rich liqueur serves as the sweetener. As in our take on the Brandy Flip (page 252), we favor a rich Cognac in this drink. Note that because the cocktail has a slightly higher alcohol content, it must be shaken a bit longer so it will be diluted enough to fill a standard coupe.
     glassware: coupe
     ingredients: 
     - 1½ ounces Pierre Ferrand Ambre Cognac
@@ -3314,7 +3465,8 @@ recipes:
       - shaken
       - classic
   - name: New York Flip
-    notes: "Eggnog and other nogs have inspired a whole host of cocktails that incorporate both egg and cream. Some of these variations are called Flips, including the classic New York Flip, which takes inspiration from another classic: the New York Sour, a sour-style cocktail made with bourbon, lemon juice, and simple syrup, shaken and served in a coupe with a float of juicy red wine. The New York Flip is a more decadent articulation that replaces the lemon juice with heavy cream and an egg yolk: the same idea of a New York Sour expressed as a Flip with the bourbon and port as the connecting ingredients."
+    notes: |+2
+      "Eggnog and other nogs have inspired a whole host of cocktails that incorporate both egg and cream. Some of these variations are called Flips, including the classic New York Flip, which takes inspiration from another classic: the New York Sour, a sour-style cocktail made with bourbon, lemon juice, and simple syrup, shaken and served in a coupe with a float of juicy red wine. The New York Flip is a more decadent articulation that replaces the lemon juice with heavy cream and an egg yolk: the same idea of a New York Sour expressed as a Flip with the bourbon and port as the connecting ingredients."
     glassware: coupe
     ingredients: 
     - 1 ounce Elijah Craig Small Batch bourbon 
@@ -3334,7 +3486,8 @@ recipes:
   - name: Almond Orchard
     author: Devon Tarby
     year: 2015
-    notes: For those who don't consume dairy or eggs, nut milks offer a similar creamy texture, along with unique flavor. The Almond Orchard is a soothing mix of a tea-infused young apple brandy and almond milk, spiked with a bit of lactic acid to ramp up the creaminess.
+    notes: |+2
+      For those who don't consume dairy or eggs, nut milks offer a similar creamy texture, along with unique flavor. The Almond Orchard is a soothing mix of a tea-infused young apple brandy and almond milk, spiked with a bit of lactic acid to ramp up the creaminess.
     glassware: mug
     ingredients: 
     - 4¼ ounces Almond Milk
@@ -3355,7 +3508,8 @@ recipes:
   - name: Barnaby Jones
     author: Maura McGuigan
     year: 2013
-    notes: The Barnaby Jones is a nog variation that introduces Cynar into the core for complexity. Shaking whole coffee beans with the cocktail adds a subtle coffee flavor while also helping to whip the cream, creating a smooth texture.
+    notes: |+2
+      The Barnaby Jones is a nog variation that introduces Cynar into the core for complexity. Shaking whole coffee beans with the cocktail adds a subtle coffee flavor while also helping to whip the cream, creating a smooth texture.
     glassware: coupe
     ingredients: 
     - 1½ ounces Famous Grouse scotch
@@ -3375,7 +3529,8 @@ recipes:
   - name: Jump in the Line
     author: Lauren Corriveau
     year: 2015
-    notes: Here's a sophisticated nondairy riff on the tropical Piña Colada, with Amaro di Angostura being used to season a core of amontillado sherry. The result is a deeply complex poolside cocktail.
+    notes: |+2
+      Here's a sophisticated nondairy riff on the tropical Piña Colada, with Amaro di Angostura being used to season a core of amontillado sherry. The result is a deeply complex poolside cocktail.
     glassware: collins
     ingredients: 
     - 1 orange half wheel
@@ -3396,7 +3551,8 @@ recipes:
       - death & co
       - shaken
   - name: White Russian
-    notes: Some variations on the Flip template are simple concoctions that omit the egg, contain just a few ingredients, and are simply built in the serving glass. The classic White Russian is just such a drink. Because there's nothing complicated about these drinks, the quality of their ingredients is paramount. Like many other classic drinks in this chapter, the White Russian is often derided, but it's actually more carefully balanced than its reputation suggests. The fact that it calls for half-and-half, rather than cream, makes it light enough for everyday drinking; plus, if it called for heavy cream, the coffee flavor of the liqueur could be overwhelmed.
+    notes: |+2
+      Some variations on the Flip template are simple concoctions that omit the egg, contain just a few ingredients, and are simply built in the serving glass. The classic White Russian is just such a drink. Because there's nothing complicated about these drinks, the quality of their ingredients is paramount. Like many other classic drinks in this chapter, the White Russian is often derided, but it's actually more carefully balanced than its reputation suggests. The fact that it calls for half-and-half, rather than cream, makes it light enough for everyday drinking; plus, if it called for heavy cream, the coffee flavor of the liqueur could be overwhelmed.
     glassware: double rocks
     ingredients: 
     - 1½ ounces Absolut Elyx vodka 
@@ -3412,7 +3568,8 @@ recipes:
       - death & co
       - stirred
   - name: Irish Coffee
-    notes: In this Flip variation, the cream isn't mixed into the cocktail; instead, it's whipped and floated on top. Because the heat of the underlying ingredients unravels the structure of the whipped cream, causing it to seep into the liquid in a less-than-appealing way, we recommend whipping the cream until it develops soft peaks so it will hold up longer.
+    notes: |+2
+      In this Flip variation, the cream isn't mixed into the cocktail; instead, it's whipped and floated on top. Because the heat of the underlying ingredients unravels the structure of the whipped cream, causing it to seep into the liquid in a less-than-appealing way, we recommend whipping the cream until it develops soft peaks so it will hold up longer.
     glassware: irish coffee mug
     ingredients: 
     - 2 ounces heavy cream
@@ -3430,7 +3587,8 @@ recipes:
       - stirred
       - caffeinated
   - name: Grasshopper
-    notes: The Grasshopper is a rich but oddly refreshing liqueur-based cocktail. This cocktail and many others of its ilk have been relegated to dive bars for decades, but as high-quality liqueurs have come to the market made with actual mint and cacao rather than artificial flavorings, we've revisited these classics and added some of them to our repertoire. In this cocktail, the fresh mint garnish provides both aromatic and visual reinforcement of the minty character of the cocktail.
+    notes: |+2
+      The Grasshopper is a rich but oddly refreshing liqueur-based cocktail. This cocktail and many others of its ilk have been relegated to dive bars for decades, but as high-quality liqueurs have come to the market made with actual mint and cacao rather than artificial flavorings, we've revisited these classics and added some of them to our repertoire. In this cocktail, the fresh mint garnish provides both aromatic and visual reinforcement of the minty character of the cocktail.
     glassware: coupe
     ingredients: 
     - 1 ounce Tempus Fugit white crème de menthe
@@ -3447,7 +3605,8 @@ recipes:
       - shaken
       - classic
   - name: Tom and Jerry
-    notes: Long before central heat could protect us against the elements, humans had the bright idea to mix dairy with some booze to ward off the cold and rain. In fact, that may be how the Flip originated, as a heated mixture of egg, ale, and sugar. Although modern-day Flips are almost always served cold, the idea of a warm drink on a cold day remains appealing, and one of the most comforting warm drinks out there is the Tom and Jerry, a wintertime favorite packed with rum, Cognac, dairy, and eggs (which are a component of the Tom and Jerry Batter).
+    notes: |+2
+      Long before central heat could protect us against the elements, humans had the bright idea to mix dairy with some booze to ward off the cold and rain. In fact, that may be how the Flip originated, as a heated mixture of egg, ale, and sugar. Although modern-day Flips are almost always served cold, the idea of a warm drink on a cold day remains appealing, and one of the most comforting warm drinks out there is the Tom and Jerry, a wintertime favorite packed with rum, Cognac, dairy, and eggs (which are a component of the Tom and Jerry Batter).
     glassware: mug
     ingredients: 
     - 1 ounce El Dorado 12-year rum
@@ -3466,7 +3625,8 @@ recipes:
       - classic
       - stirred
   - name: Golden Cadillac
-    notes: The classic Golden Cadillac is another chip off the Grasshopper block, with the vanilla and licorice flavors of the Galliano taking the cocktail in a different direction. A shaving of dark chocolate atop the drink accents the liqueur, drawing out some of its pleasantly bitter qualities.
+    notes: |+2
+      The classic Golden Cadillac is another chip off the Grasshopper block, with the vanilla and licorice flavors of the Galliano taking the cocktail in a different direction. A shaving of dark chocolate atop the drink accents the liqueur, drawing out some of its pleasantly bitter qualities.
     glassware: coupe
     ingredients: 
     - 1 ounce Galliano l'Autentico 
@@ -3482,7 +3642,8 @@ recipes:
       - shaken
       - classic
   - name: Piña Colada 
-    notes: Though the Piña Colada is a famous cocktail associated with sandy beaches and thatched bars, analyzing the recipe reveals that it's basically another type of Flip. It was a shock to us to think of the Piña Colada as something other than a sour-style drink, but there you have it. The rum brings proof, coconut cream adds fat and sweetness, and the pineapple juice provides sweetness and acidity.
+    notes: |+2
+      Though the Piña Colada is a famous cocktail associated with sandy beaches and thatched bars, analyzing the recipe reveals that it's basically another type of Flip. It was a shock to us to think of the Piña Colada as something other than a sour-style drink, but there you have it. The rum brings proof, coconut cream adds fat and sweetness, and the pineapple juice provides sweetness and acidity.
     glassware: double rocks
     ingredients: 
     - 2 ounces Caña Brava white rum 
@@ -3501,7 +3662,8 @@ recipes:
   - name: Frozen Mudslide
     author: Devon Tarby
     year: 2016
-    notes: "We know what you're thinking: A Mudslide? What is this, 1985? Sure, it's easy to make fun of this drink, as it's essentially a boozy milkshake. But then again, what's wrong with that? The Mudslide probably got its poor reputation because of how it's usually made: a near-equal mix of coffee liqueur, vodka, and Bailey's Irish cream. While that's okay, we prefer this version made with ice cream, a rich and flavorful addition that precludes the need to shake with ice, which can quickly water down the drink."
+    notes: |+2
+      "We know what you're thinking: A Mudslide? What is this, 1985? Sure, it's easy to make fun of this drink, as it's essentially a boozy milkshake. But then again, what's wrong with that? The Mudslide probably got its poor reputation because of how it's usually made: a near-equal mix of coffee liqueur, vodka, and Bailey's Irish cream. While that's okay, we prefer this version made with ice cream, a rich and flavorful addition that precludes the need to shake with ice, which can quickly water down the drink."
     glassware: collins
     ingredients: 
     - 1 ounce Aylesbury Duck vodka 
@@ -3520,7 +3682,8 @@ recipes:
   - name: Hans Gruber
     author: Devon Tarby
     year: 2015
-    notes: One of our favorite layered White Russian variations is the Hans Gruber, a cocktail that we created for a holiday-themed menu at the Walker Inn in 2015. In it, we've manipulated every component of the classic White Russian to create a sophisticated cocktail with the flavorful profile of pecan pie with ice cream. Though decadent, the toasted nuttiness of the pecan-infused rum and the implicit richness of the brown butter-infused brandy are balanced by the fig bomb of the Pedro Ximénez sherry. The maple-flavored whipped cream is one of our favorite revelations, with just a small amount of maple syrup flavoring the cream in a delicious way. We've also played with flavoring whipped cream with other ingredients, including orange curaçao and dry sherry. If you do the same, just be mindful of how much alcohol you add to the cream; anything more than around 2 ounce of alcohol per cup of cream will make the cream harder to whip.
+    notes: |+2
+      One of our favorite layered White Russian variations is the Hans Gruber, a cocktail that we created for a holiday-themed menu at the Walker Inn in 2015. In it, we've manipulated every component of the classic White Russian to create a sophisticated cocktail with the flavorful profile of pecan pie with ice cream. Though decadent, the toasted nuttiness of the pecan-infused rum and the implicit richness of the brown butter-infused brandy are balanced by the fig bomb of the Pedro Ximénez sherry. The maple-flavored whipped cream is one of our favorite revelations, with just a small amount of maple syrup flavoring the cream in a delicious way. We've also played with flavoring whipped cream with other ingredients, including orange curaçao and dry sherry. If you do the same, just be mindful of how much alcohol you add to the cream; anything more than around 2 ounce of alcohol per cup of cream will make the cream harder to whip.
     glassware: coupe
     ingredients: 
     - 2 ounces heavy cream
@@ -3543,7 +3706,8 @@ recipes:
   - name: Indulge
     author: Devon Tarby
     year: 2016
-    notes: This Tom and Jerry-inspired cocktail demonstrates how the tang and creaminess of a few drops of Lactic Acid Solution can make a dramatic difference in a cocktail. The drink derives additional richness through two key ingredients—apple brandy infused with brown butter and creamy almond milk—with the amaretto providing some nuttiness. The result is an exceedingly smooth and rich drink.
+    notes: |+2
+      This Tom and Jerry-inspired cocktail demonstrates how the tang and creaminess of a few drops of Lactic Acid Solution can make a dramatic difference in a cocktail. The drink derives additional richness through two key ingredients—apple brandy infused with brown butter and creamy almond milk—with the amaretto providing some nuttiness. The result is an exceedingly smooth and rich drink.
     glassware: irish coffee mug
     ingredients: 
     - 4¼ ounces Almond Milk
@@ -3564,7 +3728,8 @@ recipes:
   - name: Saturday Morning Cartoons
     author: Devon Tarby
     year: 2015
-    notes: "This cocktail, our tongue-in-cheek play on cereal milk, provides a great demonstration of how infusions and liqueurs can help bring the richness and sweetness of a classic Flip to a dairy-free concoction. Here, the cinnamon spice of Avuá Amburana cachaça is deepened by mixing it with a cacao nib tincture and a complex vanilla liqueur, all built on the backbone of homemade almond milk. In a twist, this cocktail isn't meant to be sipped (though you're more than welcome to): instead, pour it over cereal for a buzzy breakfast."
+    notes: |+2
+      "This cocktail, our tongue-in-cheek play on cereal milk, provides a great demonstration of how infusions and liqueurs can help bring the richness and sweetness of a classic Flip to a dairy-free concoction. Here, the cinnamon spice of Avuá Amburana cachaça is deepened by mixing it with a cacao nib tincture and a complex vanilla liqueur, all built on the backbone of homemade almond milk. In a twist, this cocktail isn't meant to be sipped (though you're more than welcome to): instead, pour it over cereal for a buzzy breakfast."
     glassware: novel
     ingredients: 
     - 1 ounce Avuá Amburana cachaça 
@@ -3583,7 +3748,8 @@ recipes:
   - name: Campfire Flip
     author: Alex Day
     year: 2017
-    notes: The Campfire Flip is a smoky riff on a classic Flip. We start with a smoked ingredient, Hickory-Smoked Cognac, which we pair with sherry and a bit of vanilla liqueur. The result is a rich drink with a smoked-woody complexity that plays off the barrel-aged flavors already present in both the Cognac and the sherry.
+    notes: |+2
+      The Campfire Flip is a smoky riff on a classic Flip. We start with a smoked ingredient, Hickory-Smoked Cognac, which we pair with sherry and a bit of vanilla liqueur. The result is a rich drink with a smoked-woody complexity that plays off the barrel-aged flavors already present in both the Cognac and the sherry.
     glassware: coupe
     ingredients: 
     - 1 ounce Hickory Smoke-Infused Cognac
@@ -3603,7 +3769,8 @@ recipes:
   - name: Smoky Colada
     author: Alex Day
     year: 2017
-    notes: Smoky flavors need not be introduced via smoke itself; they can also be added by including ingredients that have smoky flavors conferred by cooking, such as grilling. One of our favorite ways of working with this in cocktails is to use a syrup made with grilled pineapple, as in this smoky variation on the Piña Colada. Substituting our Grilled Pineapple Syrup for some of the fresh pineapple juice takes this rich tropical drink in a slightly savory direction.
+    notes: |+2
+      Smoky flavors need not be introduced via smoke itself; they can also be added by including ingredients that have smoky flavors conferred by cooking, such as grilling. One of our favorite ways of working with this in cocktails is to use a syrup made with grilled pineapple, as in this smoky variation on the Piña Colada. Substituting our Grilled Pineapple Syrup for some of the fresh pineapple juice takes this rich tropical drink in a slightly savory direction.
     glassware: double rocks
     ingredients: 
     - 2 ounces Caña Brava white rum

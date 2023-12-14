@@ -6,7 +6,8 @@ recipes:
 #White Negroni With Campari Caviar
   - name: Campari Caviar
     author: 
-    notes: 
+    notes: |+2
+      
     ingredients:
     - 18 ounces water
     - 2 ounces Campari
@@ -20,7 +21,8 @@ recipes:
 #Minimo di Negroni
   - name: Plymouth Gin Infused With Saffron
     author: 
-    notes: 
+    notes: |+2
+      
     ingredients:
     - 1 (750 ml) bottle Plymouth gin
     - 2 grams (about 4 teaspoons) whole saffron threads
@@ -30,7 +32,8 @@ recipes:
 #Lemon Balm Negroni
   - name: Tanqueray London Dry gin Infused With Lemon Balm
     author: 
-    notes: 
+    notes: |+2
+      
     ingredients:
     - 1 (750 ml) bottle Tanqueray London Dry gin
     - 1 cup fresh lemon balm
@@ -41,7 +44,8 @@ recipes:
 #Negroni Fizz
   - name: Rosemary Simple Syrup
     author: 
-    notes: 
+    notes: |+2
+      
     ingredients:
     - ½ cup water
     - ½ cup sugar
@@ -53,7 +57,8 @@ recipes:
 #Dog and Pony
   - name: Chocolate Porter Reduction
     author: 
-    notes: 
+    notes: |+2
+      
     ingredients:
     - 5 tablespoons superfine sugar
     - 12 ounces chocolate porter
@@ -64,7 +69,8 @@ recipes:
 #Street & Smith
   - name: Campari Infused With Grapefruit Peel
     author: 
-    notes: 
+    notes: |+2
+      
     ingredients:
     - 1 large grapefruit
     - 1 (750 mL) bottle Campari
@@ -75,7 +81,8 @@ recipes:
 #My Fave!
   - name: Bulleit Bourbon Infused With Skillet-Roasted Figs and Pears
     author: 
-    notes: 
+    notes: |+2
+      
     ingredients:
     - 2 anjou pears, quartered
     - 8 figs, halved
@@ -89,7 +96,8 @@ recipes:
 #Pepper Negroni
   - name: Yellow Chartreuse Infused With Serranos
     author: 
-    notes: 
+    notes: |+2
+      
     ingredients:
     - 3 serrano chiles, split lengthwise
     - 1 (750mL) bottle Yellow Chartreuse
@@ -100,7 +108,8 @@ recipes:
 #Pizza Negroni
   - name: Aviation Gin Infused With Mozzarella and Parmesan
     author: 
-    notes: 
+    notes: |+2
+      
     ingredients:
     - 4 ounces mozzarella cheese, roughly chopped
     - 2 ounces rind from Parmesan cheese, roughly chopped
@@ -110,7 +119,8 @@ recipes:
     tags:
   - name: Tomato Water
     author: 
-    notes: Makes a little less than 2 cups.
+    notes: |+2
+      Makes a little less than 2 cups.
     ingredients:
     - 1½ pounds ripe tomatoes
     - Large pinch of salt
@@ -121,7 +131,8 @@ recipes:
 #Negroni de Provence
   - name: Citadelle Gin Infused With Lavender
     author: 
-    notes: 
+    notes: |+2
+      
     ingredients:
     - 3 ounces Lavender
     - 1 (750 mL) bottle Citadelle gin
@@ -130,7 +141,8 @@ recipes:
     tags:
   - name: Lillet Blanc Infused With Herbes de Provence
     author: 
-    notes: 
+    notes: |+2
+      
     ingredients:
     - ½ cup herbes de provence
     - 1 (750 mL) bottle Lillet Blanc
@@ -141,7 +153,8 @@ recipes:
 #Stiletta
   - name: Campari Infused With Star Anise
     author: 
-    notes: 
+    notes: |+2
+      
     ingredients:
     - 20 star anise pods
     - 1 (750 mL) bottle Campari
@@ -152,7 +165,8 @@ recipes:
 #Negronio Cheesecake
   - name: Vermouth Reduction
     author: 
-    notes: 
+    notes: |+2
+      
     ingredients:
     - 1 scant cup demerara sugar
     - 1 (750 mL) bottle sweet vermouth
@@ -163,7 +177,8 @@ recipes:
 #Negroni Caramel Popcorn
   - name: Gin Salt
     author: 
-    notes: 
+    notes: |+2
+      
     ingredients:
     - 1 teaspoon juniper berries
     - ¾ teaspoon coriander seeds
