@@ -146,9 +146,9 @@ recipes:
 #Piña Colada
   - name: Coconut Mix, 50 Brix
     notes: |+2
-      The suggested combination is a 3:1 ratio of López to milk, which should end up around 50 Brix depending on the brand of coconut milk used. Weighing will ensure an even more accurate measurement of sweetness. (See the section on sugar adjusting, starting here, for more on degrees Brix and proper measuring for sweetness.)
+      The suggested combination is a 3:1 ratio of López to milk, which should end up around 50 Brix depending on the brand of coconut milk used. Weighing will ensure an even more accurate measurement of sweetness.
     ingredients: 
-    - 142 grams coconut mix
+    - 142 grams coconut milk
     - 425 grams Coco López
     steps:
     - Mix the ingredients together until uniform. 

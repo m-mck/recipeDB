@@ -1,0 +1,500 @@
+source: "Drinking Like Ladies"
+hidden: true
+recipes:
+
+#
+  - name: Pink Peppercorn Syrup
+    notes: |+2
+      Yields about 4 cups. For the Warne-ing Shot.
+    ingredients: 
+    - 3 ounces (84 g) pink peppercorns
+    - 34 ounces (1 L) water
+    - 4 cups (800 g) sugar
+    - 2 tablespoons Peychaud’s bitters, plus more for coloring, if desired
+    steps:
+    - Preheat oven to 350°F (175°C, gas mark 4). 
+    - Spread pink peppercorns on a cookie sheet and bake for 5 minutes. 
+    - In the meantime, bring water to a boil. 
+    - Once boiling, add peppercorns directly from oven to water. 
+    - Return water to a boil, then add sugar and bitters. 
+    - Strain off peppercorns while still hot. 
+    - Add more bitters if more of a pink color is desired.
+  - name: Pink Peppercorn and Black Tea Simple Syrup
+    notes: |+2
+      Yields approximately 300 mL. For the Line of Flight.
+    ingredients: 
+    - 1 tablespoon (7 g) ground pink peppercorns
+    - 2 black tea bags
+    - 1 cup (240 ml) hot (almost boiling) water
+    - 1 cup (200 g) granulated sugar
+    steps:
+    - Steep ground peppercorns and tea bags in water for 4 minutes. 
+    - Press tea bags. 
+    - Fine strain into a new vessel and stir in sugar until incorporated. 
+    - If sugar doesn’t easily dissolve, place on a burner over low heat until sugar is melted. 
+    - Let cool.
+  - name: English Breakfast Tea-Infused Bombay Sapphire Gin
+    notes: |+2
+      Yields 3 cups. For the Park House.
+    ingredients: 
+    - 4 English breakfast tea teabags
+    - 3 cups (750 ml) Bombay Sapphire Gin
+    steps:
+    - Soak teabags in gin, tasting every 5 minutes until desired balance is achieved—no more than 15 minutes. 
+    - Watch for astringency. 
+    - The final result will have the color of a freshly brewed, properly steeped cup of tea.
+  - name: Gardenia Flower Simply Syrup
+    notes: |+2
+      Yields 2 cups. For the Park House.
+    ingredients: 
+    - 2 cups (475 ml) water
+    - 2 cups (400 g) sugar
+    - 1 ounce (28 g) organic dried gardenia flowers
+    steps:
+    - In a medium saucepan, bring water to a boil, then add sugar and stir until dissolved. 
+    - Remove from heat and stir in dried gardenia flowers. 
+    - Let sit for two hours or until desired taste is achieved. 
+    - Strain flowers and store in glass bottle in fridge.
+  - name: Strawberry/Shiso Shrub
+    notes: |+2
+      Yields 2 cups. For The Kitashima.
+    ingredients: 
+    - 2 cups (400 g) granulated sugar
+    - 2 cups (475 ml) water
+    - 2 cups (340 g) sliced strawberries
+    - 10 shiso leaves
+    - 1 1/2 to 2 cups (355 to 475 ml) apple cider vinegar
+    steps:
+    - Place the sugar and water in a saucepan. Heat, stirring, until sugar dissolves. 
+    - Add strawberries and simmer until fruit blends well into the syrup. 
+    - Add shiso.
+    - Let mixture cool. 
+    - Strain, add vinegar to the syrup, bottle it all up, and store in the fridge.
+  - name: Red Bell Pepper, Chili, Strawberry, and Ginger Syrup
+    notes: |+2
+      For the Catch Me If You Can.
+    ingredients: 
+    - 1 large red bell pepper, chopped
+    - 2/3 cup (100 g) chopped strawberries
+    - 1 1/2 tablespoons (7 g) fresh red chili pepper
+    - 1 1/5 cups (280 ml) water
+    - 1 1/2 cups (300 g) superfine sugar
+    steps:
+    - Combine all ingredients in a saucepan and heat, stirring, until sugar dissolves. 
+    - Simmer until thick. 
+    - Allow to cool completely. 
+    - Transfer to an airtight container and store in refrigerator.
+  - name: Passion Berry Syrup
+    notes: |+2
+      Yields about 3 cups. For the Hunter Chain.
+    ingredients: 
+    - 20 passion berries
+    - 2 cups (450 g) granulated sugar
+    - 2 cups water
+    steps:
+    - Place passion berries, sugar, and 2 cups (475 ml) water in a pot. 
+    - Heat over low heat for 1 hour. 
+    - Remove from heat and cool to room temperature. 
+    - Strain through cheesecloth and refrigerate.
+  - name: Apricot-Infused Beefeater
+    notes: |+2
+      Yields about 1 2/3 cups. For the Ladyland Fizz.
+    ingredients: 
+    - 1 2/3 cups (400 ml) Beefeater Gin
+    - 2/3 cup (125 g) chopped dried apricots
+    steps:
+    - Combine gin and apricot. 
+    - Let sit 15 minutes. 
+    - Strain.
+  - name: Cardamom Syrup
+    notes: |+2
+      Yields about 1 cup. For the Ladyland Fizz.
+    ingredients: 
+    - 1 cup water
+    - 45 green cardamom pods, crushed
+    - 1 cup (200 g) granulated sugar
+    steps:
+    - Bring water to a boil in a saucepan. 
+    - Stir in cardamom pods and sugar until sugar dissolves. 
+    - Remove from heat and let sit for 15 minutes. 
+    - Strain.
+  - name: Seared Pineapple Syrup
+    notes: |+2
+      For the Seared in Memory. Yields about 3 cups.
+    ingredients: 
+    - 1 ripe pineapple
+    steps:
+    - Preheat oven to 350°F (175°C, gas mark 4). 
+    - Skin and slice pineapple. 
+    - Spread slices on a baking sheet. 
+    - Roast, flipping once if necessary, for 30 to 60 minutes, until caramelized. 
+    - Cool completely and juice.
+  - name: Spice-Infused PAMA
+    notes: |+2
+      Yields 3 cups. For La Danseuse.
+    ingredients: 
+    - 1 orange
+    - 2 tablespoons (11 g) whole cloves
+    - 2 tablespoons (12 g) whole allspice
+    - 3 cinnamon sticks
+    - 1 teaspoon (3 g) whole pink peppercorns
+    - 3 cups (720 ml) PAMA
+    steps:
+    - Cut orange into thin slices. 
+    - Place orange slices and dry ingredients in a nonreactive or glass container, cover with PAMA, and allow to macerate for 24 hours. 
+    - Pour infusion through a fine strainer to remove any solids. 
+    - Bottle and keep refrigerated up to 3 months.
+  - name: Chicory and Cardamom-Infused Maple Syrup
+    notes: |+2
+      For the Don Mega. Yields about 9 ounces.
+    ingredients: 
+    - 3 or 4 green cardamom pods
+    - 6 ounces (175 ml) maple syrup
+    - 3 ounces (90 ml) chicory
+    - zest of 1 orange
+    - zest of 1 lime
+    steps:
+    - Toast cardamom pods. 
+    - Combine all ingredients in a pan and bring to a soft simmer. 
+    - Let cool and strain.
+  - name: Pineapple Tepache
+    notes: |+2
+      For the Pineapple Yaas Queen. Yields 5 cups.
+    ingredients: 
+    - 1 cup (180 g) brown sugar
+    - 11/2 cups (350 ml) water
+    - 1 pineapple cut into chunks, skin on
+    - 1 cinnamon stick
+    - 5 cardamom pods
+    - 5 cloves
+    - 1 thumb of Ginger, crushed with a knife
+    steps:
+    - Combine sugar and water in a 64-once (1.9 L) fermentation jar. 
+    - Shake until dissolved. 
+    - Add remaining ingredients and muddle. 
+    - Top with water, if needed, to three fingers from the top of the jar. 
+    - Leave at room temperature for 2 to 3 days, tasting every day until the liquid turns cloudy or the taste is to your liking.
+    - Strain, keeping the contents of the jar.
+    - Repeat the fermentation process by adding 1/2 cup to 1 cup (90 to 180 g) more brown sugar and fill with water again. 
+    - Follow the steps above.
+  - name: Coconut Whipped Cream
+    notes: |+2
+      For the Brains, Beauty & Breeches.
+    ingredients: 
+    - 3 ounces (90 ml) cold unsweetened coconut milk
+    - 1/2 ounce (15 ml) simple syrup
+    - 1/2 ounce (15 ml) whipping cream
+    - scant barspoon vanilla extract
+    - sugar to taste (optional)
+    steps:
+    - Place all ingredients in a mixing bowl and whip. Keep cold until ready to use.
+  - name: Venus Diver Mix
+    notes: |+2
+      For the Venus Diver. Yields about 2 ounces.
+    ingredients: 
+    - 1 ounce (30 ml) coconut oil (or sweet butter)
+    - 1 ounce (30 ml) honey
+    - 1 teaspoon (5 ml) cinnamon-infused sugar syrup
+    - 1/2 teaspoon vanilla syrup
+    - 1/2 teaspoon pimento liqueur, such as St. Elizabeth’s allspice dram
+    steps:
+    - Cream all ingredients together just before using. 
+    - Warm slightly if necessary to incorporate coconut oil. 
+    - Store at room temperature.
+  - name: Pink Lava
+    notes: |+2
+      Yields 1 3/4 cups. For the Pink Lava.
+    ingredients: 
+    - 1 cup (235 ml) guava puree
+    - 1 cup (200 g) sugar
+    steps:
+    - Combine ingredients in a saucepan and heat until the sugar melts. 
+    - Bottle and store in the refrigerator for up to 1 month.
+  - name: Tulsi Honey
+    notes: |+2
+      Yields about 2 cups. For The Chrysalis.
+    ingredients: 
+    - 1/2 ounce (16 g) Tulsi Holy Basil Tea
+    - 1 cup (235 ml) good local honey
+    steps:
+    - Bring 1 cup (235 ml) water to a boil and pour over tea. 
+    - Allow to steep for 10 minutes. 
+    - Strain solids, add honey, and stir.
+  - name: Baked Potato Peel Syrup
+    notes: |+2
+      For the Cuthbert Cocktail.
+    ingredients: 
+    - peels of 2 pounds (1 kg) potatoes, salted and baked until crispy
+    - granulated sugar
+    steps:
+    - Place peels in a saucepan, cover with water, and bring to a boil. 
+    - Let cool, strain, and combine liquid with sugar, 2 parts liquid to 1 part sugar.
+  - name: Cinnamon Syrup
+    notes: |+2
+      For the Elements of the Stars.
+    ingredients: 
+    - 3 1/2 ounces (100 g) of 3-inch (7.5 cm) cinnamon sticks
+    - granulated sugar
+    steps:
+    - Place cinnamon sticks in 1 quart (1 L) filtered water and bring to a boil. 
+    - Remove from heat and cover until cool. 
+    - Strain the liquid. 
+    - Add an equal amount by volume of sugar. 
+    - Stir to dissolve the sugar. 
+    - Strain.
+  - name: Sichuan Pepper, Eucalyptus, and Basil Syrup
+    notes: |+2
+      For the Lakota's Score.
+    ingredients: 
+    - 7 ounces (200 g) Sichuan peppercorns, lightly toasted
+    - 2/3 cup (150 ml) fresh eucalyptus leaves
+    - 1/2 cup (20 g) fresh basil leaves
+    - 6 1/3 cups (1.3 kg) superfine sugar
+    steps:
+    - Combine all ingredients with 1 quart (1 L) water in a pot over medium heat. 
+    - Cook about 20 minutes, until strong flavor infuses and sugar has dissolved. 
+    - Let cool.
+  - name: Ginger Syrup
+    notes: |+2
+      Yields about 1 cup. For the Rum Punch.
+    ingredients: 
+    - 2 cups (400 g) sugar
+    - 1 cup (235 ml) water
+    - 1 cup (100 g) peeled, sliced ginger
+    steps:
+    - Bring sugar, water, and ginger to a simmer, stirring until sugar is dissolved. 
+    - Simmer for 30 minutes, let cool, and strain.
+  - name: Tropical Mix
+    notes: |+2
+      Yields about 1 quart. For the Rum Punch.
+    ingredients: 
+    - 5 ounces (150 g) fresh apple
+    - 12 ounces (350 g) fresh pineapple
+    - 5 ounces (150 g) fresh mango
+    - 3 ounces (90 g) passion fruit
+    steps:
+    - Combine all ingredients and juice.
+  - name: Plum, Pear, and Thyme Shrub
+    notes: |+2
+      For Wai Wai's Wings. Yields about 3 cups.
+    ingredients: 
+    - 2 cups (475 ml) apple cider vinegar
+    - 2 cups (400 g) turbinado sugar
+    - 3 plums, chopped and de-pitted
+    - 2 pears, chopped and de-seeded
+    - 8 sprigs of thyme
+    steps:
+    - Bring apple cider vinegar to a boil in a pot over high heat. 
+    - Reduce heat to simmer. 
+    - Add sugar and stir until dissolved. 
+    - Add plums and pears and bring mixture to a low boil, stirring to avoid burning, for 15 minutes. 
+    - Remove from heat and add thyme. 
+    - Cool and strain through cheesecloth. 
+    - Store refrigerated for up to 5 months.
+  - name: Lemon Ginger Syrup
+    notes: |+2
+      For the Breaker of Chains. Yields about 1 1/2 cups.
+    ingredients: 
+    - 10 ginger lemon tea bags
+    - 1 cup (235 ml) hot water
+    - 1 cup (200 g) sugar
+    steps:
+    - Mix ingredients, stir to make a simple syrup, and steep tea bags for 1 hour.
+  - name: Nimbu Pani Soda
+    notes: |+2
+      For the Your Own Way. Yields about 45 ounces.
+    ingredients: 
+    - 5 ounces (150 ml) fresh lemon juice
+    - 40 ounces (1.2 L) water
+    - 10 spoonfuls granulated sugar
+    - 1 ounce (30 ml) rosewater
+    - 1 spoonful salt
+    steps:
+    - Combine all ingredients.
+  - name: Thyme-Infused Vodka
+    notes: |+2
+      For the Thyme Bomb.
+    ingredients: 
+    - 1 bunch fresh thyme
+    - 1 bottle vodka
+    steps:
+    - Place thyme in vodka and infuse overnight. 
+    - Strain into clean bottle.
+  - name: Chamomile Simple Syrup
+    notes: |+2
+      For the Thyme Bomb.
+    ingredients: 
+    - 1 part chamomile
+    - 1 part hot water
+    - 1 part granulated sugar
+    steps:
+    - Combine chamomile and hot water. 
+    - Steep 5 to 10 minutes. 
+    - Strain, add sugar, and stir until dissolved.
+  - name: Chili-Infused Vodka
+    notes: |+2
+      Yields 1 quart. For the Dzhuyffragette.
+    ingredients: 
+    - 1 quart (1 L) vodka
+    - 1 large or 5 small chili peppers, chopped
+    steps:
+    - Combine vodka and chilis in a non-reactive container. 
+    - Strain after 1 day.
+  - name: Honey Syrup
+    notes: |+2
+      Yields 15 ounces. For the Dzhuyffragette.
+    ingredients: 
+    - 8 1/2 ounces (250 ml) honey
+    - 6 1/2 ounces (190 ml) hot water
+    steps:
+    - Stir honey and water together until incorporated.
+  - name: Carrot and Orange Skin Soda
+    notes: |+2
+      For the Waterfall. Yields 15 ounces.
+    ingredients: 
+    - 6 carrots
+    - 5 oranges
+    - 1 cup (200 g) sugar
+    - 1/3 cup (80 ml) soda water
+    steps:
+    - Peel oranges and carrots and then cut carrots into thin strips. 
+    - Put carrots and oranges in a jar and cover with sugar. 
+    - Allow to sit for 2 days, until the oils of the oranges and carrots dissolve the sugar, then strain the “syrup.” 
+    - To every 1¼ tablespoon (20 ml) of the syrup, add 1/3 cup (80 ml) soda water. 
+    - If the soda is light in flavor, add a mixture of 2 parts carrot and 1 part orange juice until you are pleased with the flavor.
+  - name: Lavender-Infused Vodka
+    notes: |+2
+      For the Waterfall. Yields 1 bottle.
+    ingredients: 
+    - 1 bunch fresh lavender
+    - 1 bottle vodka
+    steps:
+    - Place the lavender into the vodka bottle and allow to infuse overnight. 
+    - Strain and transfer to a clean bottle.
+  - name: Lingonberry-Infused Campari
+    notes: |+2
+      Yields 750 mL. For the When There Are 9.
+    ingredients: 
+    - 7 ounces (200 g) fresh or frozen lingonberries
+    - 1 bottle Campari
+    steps:
+    - In a nonreactive container, combine ingredients and leave to infuse for 48 hours at room temperature. 
+    - If you want a more delicate and fruity drink, try to let the berries infuse gently without breaking the skin too much. 
+    - If you want a juicier and richer drink, make sure to press the berries a little so the skins break.
+    - Strain through a superbag or cheesecloth. 
+    - Rebottle the infused Campari and store at a cool temperature when not in use.
+    - If you have time, transfer the leftover lingonberries to a pan, add 1/4 cup (50 g) superfine sugar, and bring to a boil. 
+    - Let simmer for 5 minutes, let cool, and transfer to a pasteurized glass container. Hello Campari and Lingonberry Jam!
+  - name: Apple Simple Syrup
+    notes: |+2
+      For the Hayden 020.
+    ingredients: 
+    - 1 cup (235 ml) 100% apple juice
+    - 1 cup (200 g) sugar
+    steps:
+    - Combine apple juice and sugar over low heat until sugar has dissolved. 
+    - Allow to cool. 
+    - Keeps up to 7 days in refrigerator.
+  - name: Cranberry Shrub
+    notes: |+2
+      Yields about 2 cups. For the Turn This Mess Around.
+    ingredients: 
+    - 12 ounces (340 g) fresh cranberries
+    - 12 ounces (340 g) granulated sugar
+    - 5 allspice berries
+    - 5 juniper berries
+    - 2 black peppercorns
+    - 12 ounces (250 ml) Catskill Provisions unfiltered Apple Cider Vinegar
+    steps:
+    - Place cranberries, sugar, allspice, juniper, and peppercorns in a nonreactive bowl or container, hand-crushing the allspice, juniper, and peppercorns to break their skins. 
+    - Toss to coat all the cranberries and spices as evenly as possible with the sugar. 
+    - Cover and refrigerate overnight, or at least 8 to 10 hours.
+    - Gently press cranberries to remove remaining juices and strain into a clean glass jar with a tight lid. 
+    - Take care to scrape any remaining sugar and strain into the liquid. 
+    - Add cider vinegar and stir to thoroughly combine.
+    - The shrub is now ready for use and must be refrigerated, but the flavors will change and gather more depth after a week or two of sitting. 
+    - It has a very long shelf life if kept properly refrigerated.
+    - You may find that periodic shaking of the refrigerated shrub will result in a more balanced flavor, as some settling may occur.
+  - name: Saline Solution
+    notes: |+2
+      Yields 3 1/3 ounces. For the Turn This Mess Around.
+    ingredients: 
+    - 1 tablespoon (20 g) kosher salt
+    - 3 1/3 ounces (100 ml) hot water
+    steps:
+    - Combine salt with water and stir until dissolved. 
+    - Use an eyedropper to add droplets.
+  - name: Black Tea and Cardamom Syrup
+    notes: |+2
+      For the Good Governance.
+    ingredients: 
+    - black tea
+    - 8 ounces (240 ml) boiling water
+    - 2 green cardamom pods
+    - granulated sugar
+    steps:
+    - Combine 1 bag black tea with 8 ounces (240 ml) piping hot water and 2 cardamom pods. 
+    - Take the tea out after 5 minutes but let the cardamom pods remain. 
+    - Allow mixture to cool to room temperature and strain.
+    - Measure black tea/cardamom mixture, transfer to a saucepan, add equal amount of sugar, and bring to a simmer over medium heat until sugar is completely dissolved. 
+    - Allow to cool, bottle, and store in the refrigerator.
+  - name: Rose Syrup
+    notes: |+2
+      Yields abouot 1 1/2 cups. For the Silent Red.
+    ingredients: 
+    - 4/5 cup (200 ml) water
+    - 1/5 ounce (5 g) rose tea
+    - 1 cup (200 g) granulated sugar
+    steps:
+    - Bring ingredients to a boil in a saucepan, cool, filter, and bottle. 
+    - Syrup will keep 1 to 2 weeks refrigerated.
+  - name: Macerated Pisco With Earl Grey Tea
+    notes: |+2
+      Yields about 8 ounces. For the Silent Red.
+    ingredients: 
+    - 5 ounces (150 ml) aged pisco
+    - 3 1/2 ounces (100 g) Earl Grey tea
+    steps:
+    - Combine pisco and tea and macerate for 2 weeks in a dark, dry place. 
+    - Filter and enjoy.
+  - name: Los Reunidos
+    notes: |+2
+      Yields 1 1/2 cups. For the Los Reunidos.
+    ingredients: 
+    - 1 bunch rosemary
+    - 1 1/2 cups (300 g) granulated sugar
+    - 1 cup (235 ml) water
+    steps:
+    - Boil water and blanch rosemary by dipping it in boiling water for 45 seconds.
+    - Use tongs to cold-plunge rosemary in a bowl of ice water for 1 minute. 
+    - Reserve water.
+    - Strip leaves off the stem and place in blender.
+    - Make simple syrup using 1.5 parts sugar to 1 part water (using same water from stove), stir, and add to blender. 
+    - Blend for 45 seconds to 1 minute. 
+    - Strain out leaves using a chinois or cheesecloth.
+  - name: Honey Syrup
+    notes: |+2
+      For the Bliss Maker.
+    ingredients: 
+    - 1 part local honey
+    - 1 part boiling water
+    steps:
+    - Stir ingredients together until honey is dissolved.
+  - name: 
+    notes: |+2
+      
+    ingredients: 
+    - 
+    - 
+    - 
+    steps:
+    - 
+  - name: 
+    notes: |+2
+      
+    ingredients: 
+    - 
+    - 
+    - 
+    steps:
+    - 

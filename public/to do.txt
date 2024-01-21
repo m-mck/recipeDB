@@ -25,7 +25,6 @@ coding:
 
 [ ] hide "Ingredients.***" data
     [ ] if recipe (from recipes.X) is open, show relevant ingredients under open card (from ingredients.X)
-        [ ] or on mouse-over?
 
 [ ] something to graphically show drink? glassware; fill cup by percentage (see milk & honey diagrams)
 
@@ -38,11 +37,27 @@ coding:
         [ ] cities(?)
     [ ] authors
 
-[in progress!] is there a way to put line breaks in the "notes" section?
+[x] is there a way to put line breaks in the "notes" section?
     [ ] if so: is there a way to say "find all "notes:" lines w/ more than <x> characters in it?
         \w*notes:.{200,} -> dot+* in search bar
 [ ] create a UI for entering recipes
-    [ ] smth om the website that makes txt file out of entered recipes
-        [ ] developer.mozilla.org -> "the input (form inpuut) element
+    [ ] smth on the website that makes txt file out of entered recipes
+        [ ] developer.mozilla.org -> "the input (form input) element
 
 svelte repl -> shows u what code will do
+
+things from amanda:
+
+    CSS terms / ideas:
+    
+    "flexbox" -> filling out leftover space
+    "grid" -> supports grids
+    
+    yes+no ->
+    	radio buttons(?)
+    	javascript logic
+    
+    webpage template -> depends on framework
+    	"component"
+    
+    backend to keep track of what's been favorited

@@ -6,9 +6,11 @@ import { writable, derived } from 'svelte/store';
 export const searchTerm = writable('');
 export const recipes = writable([]);
 export const tags = writable([]);
-export const filteredRecipes = derived([recipes, searchTerm], ([$recipes, $searchTerm], set) => {
-    set($recipes.filter((recipe) => {
-        let lowercaseSearchTerm = $searchTerm.toLocaleLowerCase('en-US');
+export const featuredRecipe = writable(undefined);
+
+export const filteredRecipes = derived([recipes, searchTerm], ([recipesVal, searchTermVal], set) => {
+    set(recipesVal.filter((recipe) => {
+        let lowercaseSearchTerm = searchTermVal.toLocaleLowerCase('en-US');
         if (recipe.hidden) {
             return false;
         }
@@ -30,7 +32,13 @@ export const filteredRecipes = derived([recipes, searchTerm], ([$recipes, $searc
         }
         if (recipe.tags) {
             for (let item of recipe.tags) {
-                if (item != null && item.toLocaleLowerCase('en-US').includes(lowercaseSearchTerm)) {
+                if (item == null) { continue; }
+                if (typeof(item) != "string") {
+                    console.error("Expected 'tags' item to be a string, instead it was: ", typeof(item), " value: ", item);
+                    console.error("Recipe name: " + recipe.name);
+                    continue;
+                }
+                if (item.toLocaleLowerCase('en-US').includes(lowercaseSearchTerm)) {
                     return true;
                 }
             }

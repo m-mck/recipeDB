@@ -92,3 +92,26 @@ recipes:
     - martini
     - stirred
     - freezer bar
+  - name: Sparkling
+    year: 2023
+    author: Alex Kveton
+    glassware: coupe
+    ingredients:
+    - 1 1/2 ounces Wild Turkey 1010 Bourbon
+    - 1/2 ounce Barrell Dovetail Bourbon
+    - 3/4 ounce Cocchi di Torino
+    - 1/4 ounce Cappeletti
+    - 2 dashes Angostura bitters
+    - 2 dashes mole bitters
+    - 2 ounces Lambrusco
+    - "Garnish: cherry"
+    steps:
+    - Combine all ingredients, except the Lambrusco, in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Top with the Lambrusco. 
+    - Garnish with a cherry.
+    tags:
+    - stirred
+    - sparkling
+    - rockwell place

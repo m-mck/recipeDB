@@ -11,11 +11,11 @@
     import Sidebar from './components/Sidebar.svelte';
 	import {
 		fetchRecipes,
-		filteredRecipes
+		filteredRecipes,
+		featuredRecipe,
 	} from './funcs.js';
 
 	let pinnedRecipes = new Set();
-	let featuredRecipe = writable(undefined);
 	let currentListView = writable('list');
 	let contentWidth;
 	let isSidebarTabbed = false;

@@ -1,0 +1,1505 @@
+source: "Drinking Like Ladies"
+recipes:
+
+#Gin
+  - name: Warne-ing Shot
+    author: Kalliopi C. Nikou
+    notes: |+2
+      Kalliopi selected pink peppercorns when creating this cocktail as a nod to Kate's tenure at the Pinkerton Agency: “Pink with a punch was the goal, as a reminder that drinking like a lady does not restrict us to pink and fruity.”
+    glassware: rocks
+    ingredients:
+    - » 2 ounces gin
+    - 1/4 ounce Pink Peppercorn Syrup
+    - 2 dashes Bitter Truth celery bitters
+    - 1 dash grapefruit bitters
+    steps:
+    - Pour all ingredients into a rocks glass, add the biggest piece of ice you can find, and give it a stir (your finger will do) to dilute.
+    tags:
+    - stirred
+    - old-fashioned
+    - mercy lounge
+  - name: Line of Flight
+    author: Sylvi Roy
+    notes: |+2
+      Creator Sylvi Roy was terrified of heights, so she took up skydiving. Line of Flight is a skydiving term denoting the theoretical line that a skydiver is dropped into over the ground where they will be landing, a line that is never definite or set—a nod to Sabiha's, and Sylvi's own, adventurous spirit.
+    glassware: coupe
+    ingredients:
+    - 1 1/2 ounces (45 ml) gin, preferably London dry
+    - 1 ounce (30 ml) Lustau Los Arcos Amontillado sherry
+    - 3/4 ounce (22 ml) Pink Peppercorn and Black Tea Simple Syrup
+    - 1/2 ounce (15 ml) fresh lime juice
+    - 1/2 ounce (15 ml) egg whites
+    - 1 teaspoon (5 ml) rich simple syrup
+    - "Garnish: ground or crushed pink peppercorn"
+    steps:
+    - Place all ingredients in a shaker. Add plenty of ice. 
+    - Shake well. 
+    - Double strain back into shaker and dry shake for 30 seconds, or until any small ice chips have been incorporated. 
+    - Pour into a coupe glass and sprinkle with or grate pink peppercorn.
+    tags:
+    - shaken
+    - citrus
+  - name: Mischievous Lady
+    author: Jemima McDonald
+    notes: |+2
+      Jemima McDonald selected Mischievous Lady as a tribute to Melba Liston herself: “The drink is sweet, tart, and herbal, but most importantly, boozy. A stiff, complex drink for a strong, multi-talented woman.”
+    glassware: nick & nora
+    ingredients:
+    - 1 1/2 ounces (45 ml) gin
+    - 1/2 (15 ml) ounce sloe gin
+    - 1/5 ounce (6 ml) maraschino liqueur
+    - barspoonful Punt e Mes
+    - dash lemon bitters
+    - "Garnish: lemon peel"
+    steps:
+    - Pour all ingredients into a mixing glass. 
+    - Fill with ice and stir. 
+    - Strain into a chilled Nick & Nora glass. 
+    - Express the lemon zest over the top of the drink, and rest the garnish on the side of the glass.
+    tags:
+    - earl's juke joint
+    - stirred
+  - name: Park House
+    author: Stefanie Carr
+    notes: |+2
+      Creator Stefanie Carr selected Bombay Sapphire Gin infused with English breakfast tea for this drink, inspired by its iconic blue bottle, and because “it's strong like Diana: she wore a stunning blue sapphire ring and had beautiful blue eyes. Blue is her color. And who could forget her blue eyeliner!” Gardenia flower syrup is a nod to the Lady Diana White Garden at Kensington Palace, a memorial garden in her honor that is a stunning display of gardenias and other white flowers.
+    glassware: coupe
+    ingredients:
+    - 2 ounces (60 ml) English Breakfast Tea-Infused Bombay Sapphire Gin
+    - 1 ounce (30 ml) Gardenia Flower Simple Syrup
+    - 3/4 ounce (22 ml) lemon juice
+    - 3/4 ounce (22 ml) egg whites
+    - "Garnish: fresh gardenia"
+    steps:
+    - Dry shake all ingredients in a cocktail shaker for 20 seconds. 
+    - Add ice, shake vigorously, and strain into a glass. 
+    - Garnish with gardenia.
+    tags:
+    - durk's bar-b-q
+    - shaken
+    - citrus
+  - name: The Kitashima
+    author: Kate Durgin
+    notes: |+2
+      This tart, juicy cocktail is a delicious combination of a classic pre-Prohibition shrub and the mint-like shiso leaf often found in Japanese cuisine. Creator Kate Durgin worked with strawberries as a nod to Sox's family farm, calling this the Kitashima to honor Sox and her family, who deserve an iconic drink.
+    glassware: collins
+    ingredients:
+    - 1 1/2 ounces (45 ml) Plymouth Gin
+    - 1/2 ounce (15 ml) umeshu
+    - 1 1/2 ounces (45 ml) Strawberry/Shiso Shrub
+    - 1/2 ounce (15 ml) lemon juice
+    - soda water
+    - "Garnish: lemon wheel and shiso leaf"
+    steps:
+    - Place gin, umeshu, shrub, and lemon juice in a shaker with ice. 
+    - Shake. 
+    - Strain into a glass. 
+    - Top with soda water and stir gently. 
+    - Garnish with lemon wheel and shiso leaf and serve.
+    tags:
+    - b&g oysters
+    - shaken
+    - citrus
+  - name: Catch Me If You Can
+    author: Rebecca Sturt
+    notes: |+2
+      Creator Rebecca Sturt was inspired by Wilma winning three gold medals in Rome and her love of the three-ingredient Italian classic cocktail, the Negroni. She added fresh, healthy ingredients for athlete Wilma.
+    glassware: double rocks
+    ingredients:
+    - 1 ounce (30 ml) No.3 Gin
+    - 1/4 ounce (8 ml) Martini Rosso vermouth
+    - 1/4 ounce (8 ml) Campari
+    - 1 ounce (30 ml) Bell Pepper, Strawberry, Ginger, and Chili Syrup
+    - 2 ounces (60 ml) fresh pomegranate juice
+    - 1/4 ounce (8 ml) fresh lime juice
+    - 2 pinches ground black pepper
+    - 1/4 ounce (8 ml) egg whites
+    steps:
+    - Place all ingredients in a shaker. Hard shake with large cubes of ice. 
+    - Strain and shake again without ice for foam and texture. 
+    - Strain into a glass over a large piece of ice. 
+    - Garnish with Tajín seasoning and lime wheel and serve.
+    tags:
+    - negroni
+    - shaken
+    - citrus
+  - name: La Pola
+    author: Diana Morell
+    notes: |+2
+      Creator Diana Morell is from Colombia. A seamstress, she attended a school named for Salavarrieta. “The scent of elderflower combined with the aromatic Angostura bitters provides layers of flavor, creating a complex, strong, ladylike drink that still retains its individual flavors through the finish, like Policarpa Salavarrieta, who retained her values and commitment to her cause without compromise!”
+    glassware: coupe
+    ingredients:
+    - 2 ounces (60 ml) gin
+    - 1 ounce (30 ml) elderflower liqueur
+    - 1 ounce (30 ml) Sauvignon blanc
+    - 1/2 ounce (15 ml) simple syrup
+    - 1/2 ounce (15 ml) lemon juice
+    - 2 dashes Angostura bitters
+    - "Garnish: lemon twist"
+    steps:
+    - Fill shaker with ice. 
+    - Add all ingredients. 
+    - Shake vigorously. 
+    - Strain into a coupe glass. 
+    - Garnish with a lemon twist and serve.
+    tags:
+    - shaken
+    - citrus
+  - name: Hunter Chain
+    author: Madeleine Rapp
+    notes: |+2
+      “Would I be as brave as her in that situation?” mused drink creator Madeleine Rapp while developing this cocktail. “I would like to think so! I wanted to make a powerful yet bright and floral drink, something served up that Irena could enjoy and that would make her feel fabulous.”
+    glassware: coupe
+    ingredients:
+    - 1 1/2 ounces (45 ml) Tanqueray No. Ten
+    - 1/2 ounce (15 ml) fino sherry
+    - 1/4 ounce (8 ml) verjus
+    - 1/4 ounce (8 ml) Italicus
+    - 1 teaspoon (5 ml) Passion Berry syrup
+    - "Garnish: lemon peel"
+    steps:
+    - Pour all the ingredients into a mixing glass with ice and stir until cold. 
+    - Pour into a coupe glass. 
+    - Garnish with lemon oils and serve.
+    tags:
+    - the dead rabbit
+    - stirred
+  - name: Ladyland Fizz
+    author: Ranjini Bose
+    notes: |+2
+      Drink creator Ranjini Bose shares a Bengali heritage with her inspirational lady. Featuring the flavors from the Bengali dessert rossogolla, Ladyland Fizz refers to the feminist utopia imagined in Hossain's Sultana's Dream, where women are in charge, war and crime have been eliminated, and great technological strides have been made: this is Ladyland.
+    glassware: collins
+    ingredients:
+    - 2 ounces (60 ml) Apricot-infused Beefeater
+    - 3/4 ounce (20 ml) lemon juice
+    - 3/4 ounce (20 ml) Cardamom Syrup
+    - 3/4 ounce (20 ml) heavy cream
+    - 2 dashes rosewater
+    - 1 egg white
+    - club soda
+    - "Garnish: 2 cardamom pods"
+    steps:
+    - Combine gin, lemon juice, cardamom syrup, heavy cream, rosewater, and egg white in a shaker. 
+    - Shake ingredients together, first without ice. 
+    - Add ice and shake vigorously. 
+    - Strain into a collins glass without ice. 
+    - Slowly top with soda, until a stiff peak forms. 
+    - Garnish with a straw and cardamom pods and serve.
+    tags:
+    - dear irving
+    - shaken
+    - citrus
+  - name: Brains & Beauty
+    author: Charlotte Voisey
+    notes: |+2
+      “Hedy Lemarr was known as the most beautiful woman in films in her heyday,” says creator Charlotte Voisey, “but what few realize is that alongside that beauty was the brains that helped create a wartime coding system that still forms the backbone of encrypted communication today. I wanted this cocktail ‘toast' to be loaded with flavor, well balanced, timeless, as well as pretty to look at.”
+    glassware: coupe
+    ingredients:
+    - 1 ounce (30 ml) Hendrick's Gin
+    - 1/2 ounce (15 ml) apricot liqueur
+    - 1/2 ounce (15 ml) fresh lime juice
+    - 1/2 ounce (15 ml) simple syrup
+    - 3 dashes apple bitters
+    - 1 ounce (30 ml) champagne
+    - "Garnish: small edible flower"
+    steps:
+    - Combine all ingredients except champagne in a shaker and shake well. 
+    - Double strain into a chilled coupe glass, top with champagne, garnish with edible flower, and serve.
+    tags:
+    - shaken
+    - citrus
+    - sparkling
+  - name: Ironic
+    author: Chandra Lam Lucariello
+    notes: |+2
+      Creator Chandra Lam made this cocktail “slightly bitter with a hint of salt to emulate how Rosalind must have felt, never receiving the recognition she deserved for her work.” It's a riff on the Americano, with a summer-y element to it to make the drink a little lighter, because “by god, the girl deserved a break.”
+    glassware: highball
+    ingredients:
+    - 1 ounce (30 ml) Hayman's Old Tom Gin
+    - 1 ounce (30 ml) Alessio Vermouth Bianco
+    - 1/2 ounce (15 ml) Salers gentiane liqueur
+    - 1 ounce (30 ml) grapefruit juice
+    - club soda
+    - "Garnish: himalayan pink sea salt and wide grapefruit peel"
+    steps:
+    - Pour liquors and juice into a highball glass. 
+    - Fill with ice and top with club soda. 
+    - Stir to combine. 
+    - Garnish with Himalayan pink sea salt and a wide grapefruit peel, and serve.
+    tags:
+    - stirred
+  - name: The Danish Girl
+    author: Kate Gerwin
+    notes: |+2
+      Imagining a night in the life of Lili Elbe, creator Kate Gerwin envisioned her “stretched out on her late nineteenth-century chaise, sipping slowly on this cocktail filled with worldly ingredients she had collected during some of her travels.”
+    glassware: coupe
+    ingredients:
+    - 2 ounces (60 ml) Bols Barrel Aged Genever
+    - 1/2 ounce (15 ml) Maurin Quina
+    - 1/2 ounce (15 ml) Malmsey Madeira
+    - 2 dashes chocolate bitters
+    - "Garnish: Amarena cherry"
+    steps:
+    - Stir all ingredients with ice. 
+    - Strain into a coupe glass. 
+    - Garnish with an Amarena cherry and serve.
+    tags:
+    - stirred
+    - front & cooper
+  - name: Golden Sprout
+    author: Sumire Miyanohara
+    notes: |+2
+      Sumire Miyanohara sees Beate Sirota Gordon as an iconic and influential woman, describing her as a golden sprout that “continues to offer the fruits and flowers of freedom and choice to the women of Japan.”
+    glassware: rocks
+    ingredients:
+    - 1 ounce (30 ml) Nikka Coffey Gin
+    - 1 ounce (30 ml) Bols green tea liquor
+    - 1 ounce (30 ml) matcha green tea
+    - "Garnish: edible gold dust powder, edible flowers, and green tea leaves"
+    steps:
+    - In a shaker, whisk gin and green tea liquor into green tea. 
+    - Shake all ingredients and strain into a glass. 
+    - Sprinkle gold dust over the foam. 
+    - Arrange the glass on a plate with edible flowers and green tea leaves and serve.
+    tags:
+    - bar orchard
+    - shaken
+  - name: Change-Driver
+    author: Andrea Tateosian
+    notes: |+2
+      Andrea's Change-Driver is a nod to Ransome-Kuti's role as a driver of social and political change in Nigeria, as well as an acknowledgement that she was the first female to drive a car in Nigeria.
+    glassware: rocks
+    ingredients:
+    - 1 1/2 ounces (45 ml) Fords Gin
+    - 1/2 ounce (15 ml) Pierre Ferrand Dry Curaçao
+    - 3/4 ounce (22 ml) Amaro Nonino
+    - 3/4 ounce (22 ml) lemon juice
+    - 1 dash Bar Keep Lavender Bitters
+    - "Garnish: lavender sprig"
+    steps:
+    - Combine all in a shaker. 
+    - Shake vigorously for about 15 seconds and strain into a rocks glass over fresh ice. 
+    - Give a lavender sprig a hearty smack and place it in the glass. 
+    - Serve.
+    tags:
+    - shaken
+    - citrus
+
+#Whisky/Whiskey
+  - name: Betty Finch
+    author: Megan Deschaine
+    notes: |+2
+      Megan Deschaine incorporated flavors of sweet (tamis), sour (asim), and salty (alat), traditional elements of Filipino cuisine, in her toast to Betty Finch. Although many would have been tempted to develop a tiki cocktail, Megan was compelled by Betty's humility “to try to create a cocktail with an understated subtlety and sophistication.”
+    glassware: coupe
+    ingredients:
+    - 1 1/2 ounces (45 ml) Belle Meade Bourbon
+    - 1 ounce (30 ml) Nigori sake
+    - 3/4 (22 ml) ounce fresh pineapple juice
+    - 1/2 ounce (15 ml) coconut milk
+    - 1/2 ounce (15 ml) lemon juice
+    - 1/4 ounce (8 ml) wildflower honey
+    - "Garnish: orchid flower and smmoked sea salt"
+    steps:
+    - Shake all ingredients and double strain into a chilled coupe glass.
+    - Garnish with an orchid and a sprinkle of smoked sea salt. 
+    - Serve.
+    tags:
+    - the macintosh
+    - shaken
+    - citrus
+  - name: Rankin Birgade
+    author: Meagan Schmoll
+    notes: |+2
+      “Even when discouraged by pretty much everyone, she stuck by her convictions,” says creator Meagan Schmoll, who was inspired by the perseverance of this Montana forebroad. “The Rankin Brigade echoes Jeanette's independent, unconventional approach to life as a woman: strong, feminine, with a rich round edge.”
+    glassware: julep tin
+    ingredients:
+    - 1/4 ounce (8 ml) Drambuie
+    - 1 heavy barspoon unsulphured blackstrap molasses
+    - 10 mint leaves
+    - 1 1/2 ounces (45 ml) Wyoming Whiskey Small Batch Bourbon
+    - 1 ounce (30 ml) Spotted Bear Gin
+    - "Garnish: mint bouquet"
+    steps:
+    - Place Drambuie, molasses, and mint in a julep cup. 
+    - Lightly muddle the mint. 
+    - With a spoon, coat the insides of the julep cup with muddled ingredients. 
+    - Add remaining ingredients and fill halfway with crushed ice. 
+    - Swizzle with spoon or swizzle stick, until outside of the cup is frosty. 
+    - Add more crushed ice and repeat. 
+    - Top with crushed ice. 
+    - Garnish with mint and serve.
+    tags:
+    - tupelo grille
+    - stirred
+    - julep
+  - name: Agent 355
+    author: Kimberly Patton-Bragg
+    notes: |+2
+      Kimberly used some of America's oldest spirits, Laird's apple brandy and rye whiskey, to toast revolutionary Agent 355. Big, bold, and boozy, this is the cocktail that will help an undercover broad “glean information from her foes.”
+    glassware: rocks
+    ingredients:
+    - 1 1/2 ounces (45 ml) Sazerac Rye whiskey
+    - 1 ounce (30 ml) Laird's Bonded Applejack brandy
+    - 1 barspoon Steen's cane syrup
+    - 4 dashes Bitter Truth aromatic bitters
+    - Velvet Falernum rinse
+    - "Garnish: orange twist speared with a clove"
+    steps:
+    - Combine rye, brandy, cane syrup, and bitters with ice in a mixing glass and stir. 
+    - Rinse a chilled rocks glass with Velvet Falernum and discard. 
+    - Strain into prepared glass and garnish with orange twist speared with clove. 
+    - Serve.
+    tags:
+    - latitude 29
+    - stirred
+    - sazerac
+  - name: Extraordinary Possibilities
+    author: Robin Nance
+    notes: |+2
+      Modern-day Scotch maven Robin Nance was inspired by Tharp's groundbreaking work “at a time when women weren't supposed to be working, much less changing the world.” Her “riff on the quintessential ‘manly drink,' the Old Fashioned,” uses “the peat and salinity in Bowmore 12 to represent Tharp's geology work as well as her groundbreaking oceanic sonar.”
+    glassware: double rocks
+    ingredients:
+    - 21/2 ounces (75 ml) Bowmore 12 Year Old Scotch whisky
+    - 1/2 ounce (15 ml) Briottet Creme de Noisette Hazelnut Liqueur
+    - 1/2 ounce (15 ml) honey syrup
+    - 8 dashes Hella Citrus Bitters
+    - "Garnish: lemon twist"
+    steps:
+    - Place all ingredients in a mixing glass with ice and stir. 
+    - Strain into rocks glass over a large cube or sphere of ice. 
+    - Garnish with lemon oil.
+    tags:
+    - stirred
+    - old-fashioned
+    - freezer bar
+  - name: Seared in Memory
+    author: Brittany Fells
+    notes: |+2
+      Brittany Fells bucks convention with this toast to Hillis: a cocktail using pineapple juice that is stirred rather than shaken. “Although Hillis's cocktail advice was not to deviate from the norm, she rarely followed her own advice. This drink is rich and complex, much like I imagined her to be.”
+    glassware: double rocks
+    ingredients:
+    - 11/2 ounces (45 ml) Famous Grouse blended Scotch whisky
+    - 1/4 ounce (8 ml) Cruzan Black Strap Rum
+    - 3/4 ounce (22 ml) Seared Pineapple Syrup
+    - 1/4 ounce (8 ml) fresh squeezed lemon juice
+    - 2 dashes Pernod
+    steps:
+    - Combine ingredients with ice in a mixing glass and stir. (That's right, stir.) 
+    - Strain into a double Old Fashioned glass over a large ice cube. 
+    - Serve.
+    tags:
+    - the rose
+    - stirred
+    - old-fashioned
+  - name: Step By Step
+    author: Abigail Gullo
+    notes: |+2
+      Abigail Gullo's Step by Step is named for “The Ruby Bridges Suite,” a spoken word, musical, and choir piece inspired by Ruby and her courageous steps. Gullo uses ingredients representing the many cultures that meet to create the beauty of New Orleans, with a garnish of fresh thyme, which since ancient Greece has symbolized courage, bravery, and strength.
+    glassware: coupe
+    ingredients:
+    - 1 1/2 ounces (45 ml) Egan's Vintage Grain Irish Whiskey
+    - 1 ounce (30 ml) Spanish dry vermouth
+    - 3/4 ounce (22 ml) ginger liqueur
+    - 3/4 ounce (22 ml) lemon juice
+    - 1/2 ounce (15 ml) cane syrup
+    - absinthe rinse
+    - "Garnish: sprig of fresh thyme"
+    steps:
+    - Shake whiskey, vermouth, ginger liqueur, lemon juice, cane syrup, and ice in a shaker. 
+    - Rinse coupe with absinthe. 
+    - Strain cocktail into coupe glass, garnish with thyme, and serve.
+    tags:
+    - compere lapin
+    - shaken
+    - citrus
+  - name: La Danseuse
+    author: Lyon House
+    notes: |+2
+      Lynn House created her ode to Dunham on a “strong brown base in honor of a strong brown woman.” This beautiful three-ingredient cocktail “is elegant and the garnish, while intricate, is also simple, just as a pas de deux should be.”
+    glassware: coupe
+    ingredients:
+    - 2 ounces (60 ml) Elijah Craig Small Batch bourbon
+    - 1 ounce (30 ml) Spice-Infused PAMA
+    - 3 dashes Regan's Orange Bitters
+    - "Garnish: skewered Luxardo cherries with long orange zest ribbons wrapped around them"
+    steps:
+    - Combine ingredients in a mixing glass with ice and stir. 
+    - Strain cocktail into a coupe glass and garnish with the “dancing” orange twist and Luxardo cherries. 
+    - Serve.
+    tags:
+    - stirred
+    - old-fashioned
+  - name: Don Mega
+    author: Elizabeth Powell
+    notes: |+2
+      Don Mega takes its name from a hip-hop phrase for something that's the best. “There is still some sort of idea that fruity, pink, and sweet drinks are ‘girly' and that women don't do whiskey,” says creator Elizabeth Powell. “I think that if Clelia were alive today, she'd be kicking back with a dark spirit, probably neat, after a long day dispelling myths about our gender.”
+    glassware: double rocks
+    ingredients:
+    - 11/2 ounces (45 ml) Jim Beam Rye
+    - 1/2 ounce (15 ml) Clear Creek Apple Brandy
+    - 1/2 ounce (15 ml) Chicory and Cardamom-Infused Maple Syrup
+    - 2 to 3 dashes of Bittermens Buckstrap bitters
+    - "Garnish: orange zest and lemon zest"
+    steps:
+    - Stir all ingredients over ice. 
+    - Strain into an Old Fashioned glass. 
+    - Garnish with orange and lemon zests and serve.
+    tags:
+    - t.c. o'leary's
+    - stirred
+    - autumn
+    - old-fashioned
+    - freezer bar
+  - name: Wichita Lineman
+    author: Josey Packard
+    notes: |+2
+      Josey Packard studied music as an undergrad, so she feels “a special respect for Ms. Kaye and her success in making music both her vocation and her avocation.” This cocktail is an ode to one of the most successful tracks Kaye played on. In Josey's words, “What's more rock and roll than a bourbon-based highball?”
+    glassware: collins
+    ingredients:
+    - 1 ounce (30 ml) bourbon
+    - 1 ounce (30 ml) pineapple juice
+    - 1 ounce (30 ml) Aperol
+    - 1/2 ounce (15 ml) lemon juice
+    - 1 ounce (30 ml) soda water
+    - Cava (sparkling white wine), cold
+    - "Garnish: pineapple fronds"
+    steps:
+    - Assemble all non-carbonated ingredients in a shaker with ice and briefly agitate to mix flavors. 
+    - Strain into an iced collins glass. 
+    - Add soda water and fill remaining space with Cava. 
+    - Arrange pineapple fronds along one side of the glass, add a straw, and enjoy.
+    tags:
+    - bar mezzana
+    - shaken
+    - citrus
+    - tiki
+    - sparkling
+  - name: Dirty Diamond
+    author: LeNell Camacho Santa Ana
+    notes: |+2
+      Helen labored for years under the burden of a broken heart after her first husband broke it foolin' around. She was introduced to Sazeracs the night she stepped out on the town in a red dress and the very diamond ring her husband gifted to the other woman: “discovered in New Orleans and made New York style—to make you forget your troubles.” LeNell Camacho Santa Ana created this toast, “a New York–style Sazerac with both brandy and whiskey mixed in a diamond fizz style with champagne” to celebrate Helen and the night she woke up to liberate her broken heart.
+    glassware: flute
+    ingredients:
+    - sugar cube
+    - Peychaud's bitters
+    - Angostura bitters
+    - 1 ounce (30 ml) rye whiskey
+    - 1 ounce (30 ml) Cognac
+    - 1 to 2 barspoons absinthe, to taste, plus more to rinse glass
+    - "Garnish: lemon twist"
+    - champagne
+    steps:
+    - Saturate sugar cube with bitters and muddle to dissolve. 
+    - Add whiskey, Cognac, and absinthe. 
+    - Rinse flute or coupe glass with absinthe. 
+    - Stir contents of mixing glass with ice and strain into prepared glass. 
+    - Top with champagne. 
+    - Garnish with lemon twist and serve.
+    tags:
+    - stirred
+    - sparkling
+  - name: Right Hand
+    author: Nicole Lebedevitch
+    notes: |+2
+      To honor the “Swiss Army Knife of the White House,” Nicole Lebedevitch was inspired to combine some spirits—bourbon and apple brandy—to create a strong backbone for a drink with a soft and almost warming flavor. “Missy was strong, comforting, but meant business and got it done,” says Nicole.
+    glassware: nick & nora
+    ingredients:
+    - 1 1/2 ounces (45 ml) Eagle Rare bourbon
+    - 1/2 ounce (15 ml) Arkansas Black brandy
+    - 1/2 ounce (15 ml) Suze liqueur
+    - 1/2 ounce (15 ml) cinnamon demerara syrup
+    - 2 dashes Fee Brothers Walnut Bitters
+    - "Garnish: orange twist"
+    steps:
+    - Combine all ingredients in a mixing glass with ice and stir. 
+    - Strain into a chilled Nick & Nora glass and garnish with orange oil. 
+    - Serve.
+    tags:
+    - stirred
+  - name: Uisuki Cocktail
+    author: Julia Momose
+    notes: |+2
+      While their first batch of whisky was resting in barrels, the Taketsurus produced “apple wine” and apple brandy to support the business. Julie Momose crafted this cocktail to bring together whisky and wine: “I would like to raise a glass to her quiet strength, humility, and cleverness.”
+    glassware: double rocks
+    ingredients:
+    - 1 ounce (30 ml) Nikka Taketsuru Pure Malt Japanese whisky
+    - 1 ounce (30 ml) Rhine Hall La Normande Pommeau
+    - 1 ounce (30 ml) Cocchi Vermouth di Torino
+    steps:
+    - Place a large piece of crystal clear ice in the base of your glass. 
+    - Measure ingredients over the ice and give a gentle stir to incorporate.
+    - Take a sip before much dilution occurs, gradually tasting the way the ingredients weave in and out as they sit and swirl over the ice.
+    tags:
+    - stirred
+  - name: Pineapple Yaas Queen
+    author: Cherish Wilkie
+    notes: |+2
+      Cherish Wilkie met inspirational lady Paige Aubort at Lobo Plantation, which is known for pineapples, the universal symbol for hospitality. Cherish chose pineapple tepache because “it's a bit fun, a bit sweet but spicy like Paige.”
+    glassware: wine glass
+    ingredients:
+    - 1 1/2 ounces (45 ml) Tullamore Dew Irish whiskey
+    - 2 1/2 ounces (75 ml) Pineapple Tepache
+    - "Garnish: edible flower"
+    steps:
+    - Pour whiskey then pineapple tepache into wine glass. 
+    - Top with ice and place an edible flower in the glass. 
+    - Serve.
+    tags:
+    - ramblin' rascal tavern
+    - citrus
+
+#Rum
+  - name: Brains, Beauty and Breeches
+    author: Micaela Piccolo
+    notes: |+2
+      Creator Micaela Piccolo conceived of this drink “to keep some pep in your step along with some unusual flavor pairings.” Rum and coconut whipped cream bring to life the exotic flavors of the lands Wanderwell visited: “If I had a long day of filming and had to keep going like Aloha, I would order this drink in a heartbeat.”
+    glassware: double rocks
+    ingredients:
+    - 11/2 ounces (45 ml) Plantation Original Dark rum
+    - 1/2 ounce (15 ml) Amaro CioCiaro
+    - 3 ounces (90 ml) cold-brewed coffee
+    - Coconut Whipped Cream
+    - "Garnish: freshly grated nutmeg"
+    steps:
+    - Fill a double Old Fashioned glass with ice. 
+    - Add rum, Amaro, and coffee, leaving about 1 inch (2.5 cm) at the top of the glass. 
+    - Top with whipped cream. 
+    - Garnish with nutmeg and serve.
+    tags:
+    - maison ferrand
+    - caffeinated
+    - tiki
+  - name: Polar Plunge
+    author: Lynnette Marrero
+    notes: |+2
+      Jerri Nielsen was “resourceful and strong, someone who was clearly tested like a teabag in hot water,” says drink creator Lynnette Marrero. Ginger and turmeric are natural homeopathic spices that are used for a variety of medicinal purposes, a flavorful nod to her amazing ability to care for her own health in the most challenging conditions.
+    glassware: mug
+    ingredients:
+    - 11/2 ounces (45 ml) aged rum
+    - 1/2 ounce (15 ml) Yellow Chartreuse
+    - 1/4 lemon or 2 wedges studded with cloves
+    - 5 ounces (150 ml) turmeric ginger tea, hot
+    - "Garnish: star anise"
+    steps:
+    - Pour rum and Chartreuse into a mug. 
+    - Gently express lemon into mug. 
+    - Add hot tea. Stir and garnish with star anise. 
+    - Serve.
+    tags:
+    - stirred
+    - heated
+  - name: Venus Diver
+    author: Erin Mosley
+    notes: |+2
+      “When it came to drinking, Annette was ironically dry,” says creator Erin Mosley. “The Venus Diver honors her rich and multifaceted life with a mix of ingredients inspired by her travels.”
+    glassware: tiki mug
+    ingredients:
+    - 11/2 ounces (45 ml) gold     -  Islands rum
+    - 3/4 ounce (22 ml) Demerara rum
+    - 1/2 ounce (15 ml) gold Jamaican rum
+    - 1 ounce (30 ml) fresh grapefruit juice
+    - 3/4 ounce (22 ml) fresh lime juice
+    - 1/2 ounce (15 ml) fresh pineapple juice
+    - 1 teaspoon (5 ml) falernum
+    - dash Angostura bitters
+    - 3/4 ounce (22 ml) Venus Diver Mix
+    - 6 ounces (3/4 cup, 170 g) crushed ice
+    - "Garnish: pineapple leaves and grapefruit twist"
+    steps:
+    - Mix liquid ingredients with an immersion blender. 
+    - Strain over a fine mesh sieve or cheesecloth over ice.
+    - For the garnish, use a cocktail spear to create something inspired by a mermaid tail out of the pineapple leaves and grapefruit twist. 
+    - Add a sprinkle of fresh grated cinnamon and allspice on top of drink.
+    tags:
+    - tiki
+    - citrus
+    - flash blended
+  - name: Pink Lava
+    author: Julie Reiner
+    notes: |+2
+      Created by Hawaii native and cocktail maven Julie Reiner, this drink makes Hawaiian flavors of lilikoi and guava shine alongside Hawaiian rum, to honor the local people and the land. “Mary fought for the preservation of Hawaiian culture, and dedicated her life to making sure that Hawaiian history wasn't lost.” A true hero!
+    glassware: hurricane
+    ingredients:
+    - 1 ounce (30 ml) Kō Hana Kea Hawaiian Agricole Rum
+    - 1 ounce (30 ml) Plantation 3 Year rum
+    - 1 1/2 ounces (45 ml) Guava Syrup
+    - 1/2 ounce (15 ml) passion fruit puree
+    - 1/2 ounce (15 ml) lime juice
+    - 1/4 ounce (8 ml) Campari
+    - 1 1/2 cups (8 ounces) ice
+    steps:
+    - Blend all ingredients except Campari thoroughly with a blender. 
+    - Pour into a glass and top with Campari. 
+    - Garnish with a pineapple leaf and orchid. 
+    - Serve with a straw.
+    tags:
+    - clover club
+    - blended
+    - tiki
+  - name: It's Mai Tai'm
+    author: Cecily Kllanxhja
+    notes: |+2
+      Conceived by Cecily Kllanxhja, It's Mai Tai'm is bitter and salty to recognize the impropriety of Keane's work being stolen, while also “bright and tropical, showing the hope and strength that she had as she continued her art and reclaimed her name.”
+    glassware: double rocks
+    ingredients:
+    - 1 1/2 ounces (45 ml) Smith & Cross Jamaican Rum
+    - 3/4 ounce (22 ml) fresh lime juice
+    - 1/2 ounce (15 ml) Small Hand Foods Orgeat
+    - 1/2 ounce (15 ml) Leopold Bros Aperitivo
+    - 1/2 ounce (15 ml) Gifford Banane du Brésil
+    - pinch salt
+    - 2 dashes Angostura bitters
+    - "Garnish: mint sprig"
+    steps:
+    - Pour rum, lime juice, orgeat, aperitivo, Banane du Brésil, and salt into a shaker. 
+    - Cover with crushed ice, shake 3 or 4 times, and pour into glass. 
+    - Top with crushed ice to fill, add bitters, and garnish with sprig of mint and a straw cut to about 2 inches (5 cm) above the glass.
+    tags:
+    - tiki
+    - shaken
+    - citrus
+  - name: The Chrysalis
+    author: Kellie Thorn
+    notes: |+2
+      The chrysalis stage of a butterfly's life requires a safe place to rest and grow, and that's how creator Kellie Thorn imagined the Butterfly Home to be for the many children served by Basnet. This refreshing concoction also calls upon healing ingredients such as cooling cardamom and cucumber and Tulsi (also called Holy Basil), revered for its medicinal properties and calming effects.
+    glassware: coupe
+    ingredients:
+    - 2 ounces (60 ml) Cana Brava rum
+    - 3/4 ounce (22 ml) Tulsi Honey
+    - 3/4 ounce (22 ml) lime juice
+    - 5 ounces (150 ml) Tempus Fugit Kina L'Avion D'or
+    - 2 drops Bitter Truth Cardamom Bitters
+    - 2 cucumber rounds
+    - "Garnish: cucumber round"
+    steps:
+    - Muddle cucumbers in a mixing vessel. 
+    - Add all other ingredients and ice to the vessel and shake. 
+    - Fine strain into a coupe glass. 
+    - Garnish with a cucumber round and serve.
+    tags:
+    - shaken
+    - citrus
+    - tiki
+  - name: Cuthbert Cocktail
+    author: Anita Oltuszyk
+    notes: |+2
+      Cuthbert was     - ia's name for her wooden leg, and the flavors behind this drink hold a sense of place to Warsaw during World War II. Creator Anita Oltuszyk imagined baked potato peel syrup as the cheapest and most flavorful option for a World War II era cocktail.
+    glassware: coupe
+    ingredients:
+    - 1 1/3 ounces (40 ml) aged rum
+    - 2/3 ounce (20 ml) sweet cream
+    - 4/5 ounce (25 ml) Baked Potato Peel Syrup
+    - 2 dashes Angostura bitters
+    steps:
+    - Combine all ingredients with ice in a shaker. 
+    - Shake vigorously. 
+    - Strain.
+    tags:
+    - shaken
+  - name: Elements of the Stars
+    author: Ezra Star
+    notes: |+2
+      Inspired by old world trade, this drink, created by Ezra Star, uses rum as the base, cinnamon and Amaro Montenegro, reminiscent of the spice routes, and bright lemon juice, an allusion to sun and stars. Like Cecilia's theories, the structure is simple but complex in its intent.
+    glassware: coupe
+    ingredients:
+    - 1 1/2 ounces (45 ml) Plantation 3 Star rum
+    - 1/2 ounce (15 ml) Cinnamon Syrup
+    - 1/2 ounce (15 ml) lemon juice
+    - 1/2 ounce (15 ml) Amaro Montenegro
+    steps:
+    - Shake with ice and strain into a chilled coupe glass.
+    - Garnish with starlight.
+    tags:
+    - shaken
+    - citrus
+    - tiki
+  - name: Lakota's Score
+    author: Mary White
+    notes: |+2
+      In a nod to Maria Apgar's pioneering use of anesthesia, creator Mary White used natural anesthetics to build this drink. Sichuan pepper (known for its numbing properties) and eucalyptus (known for its healing properties) are its main flavors. The name is a nod to Hanwi, a divine feminine figure in Lakota mythology, the goddess of the moon, motherhood, family, and femininity.
+    glassware: fizz
+    ingredients:
+    - 2 ounces (60 ml) white rum
+    - 1 ounce (30 ml) mandarin orange juice
+    - 3/4 ounce (22 ml) Sichuan Pepper, Eucalyptus, and Basil Syrup
+    - 2/3 ounce (20 ml) lemon juice
+    - dash egg white (approx. 1/2 egg white)
+    - "Garnish: eucalyptus leaf"
+    steps:
+    - Shake ingredients without ice. 
+    - Add ice and shake. 
+    - Strain into a fizz glass. 
+    - Garnish with eucalyptus leaf and serve.
+    tags:
+    - shaken
+    - citrus
+  - name: Sex Side
+    author: Andrea Pentabona
+    notes: |+2
+      Creator Andrea Pentabona used the Southside cocktail as her inspiration for the Sex Side, dressing up the classic with sake and Thai basil for a tart, sweet, more aromatic expression of the drink.
+    glassware: coupe
+    ingredients:
+    - 3 cucumber slices
+    - 5 to 7 Thai basil leaves
+    - 1 ounce (30 ml) Privateer Silver rum
+    - 1 ounce (30 ml) Bushido sake
+    - 3/4 ounce (22 ml) lemon juice
+    - 3/4 ounce (22 ml) simple syrup
+    - pinch salt
+    - "Garnish: cucumber ribbon"
+    steps:
+    - Lightly muddle cucumber and Thai basil in a shaker until cucumbers are slightly broken and basil is bruised but not torn. 
+    - Add all other ingredients to shaker and shake with ice. 
+    - Strain into a coupe glass. 
+    - Garnish with cucumber ribbon and serve.
+    tags:
+    - the independent
+    - shaken
+    - citrus
+  - name: Rum Punch
+    author: Patience Laryea
+    notes: |+2
+      Creator Patience Laryea developed a cocktail that could be a study in tiki, quite fitting for a bartender who also dreams of opening a school to help train female bartenders. This complex mix of juices, syrups, and spirits makes for a juicy, exotic drink.
+    glassware: tiki mug
+    ingredients:
+    - 2 ounces (60 ml) Havana Club 3 Year Old Rum
+    - 1 ounce (30 ml) Captain Morgan Spiced Rum
+    - 2 ounces (60 ml) Tropical Mix
+    - 2 ounces (60 ml) pineapple juice
+    - 1 ounce (30 ml) ginger syrup
+    - "Garnish: apple and pineapple on a skewer dipped in cinnamon and sugar"
+    steps:
+    - Mix all ingredients in a shaker, add ice, and shake vigorously for 30 seconds. 
+    - Strain into a tiki glass filled halfway with ice. 
+    - Garnish with fresh apple and pineapple dipped in cinnamon and sugar and serve.
+    tags:
+    - burger and relish
+    - shaken
+    - citrus
+    - tiki
+  - name: Baduizm
+    author: Emma Hollander
+    notes: |+2
+      Creator Emma Hollander took inspiration from India, Old Monk's land of origin, and Thailand, including ingredients in a traditional Thai Iced Tea. This bold, spicy, sweet cocktail seems a fitting tribute to Erykah Badu, “one of the most fierce and influential women in the hip hop/soul industry.”
+    glassware: highball
+    ingredients:
+    - 1 1/2 ounces (45 ml) Old Monk rum
+    - 1/2 ounce (15 ml) allspice dram
+    - 1 ounce (30 ml) condensed milk
+    - 1 1/2 ounces (45 ml) Thai tea
+    steps:
+    - Shake all ingredients with ice. 
+    - Strain over fresh ice into highball glass and serve.
+    tags:
+    - trina's starlight lounge
+    - shaken
+
+#Agave
+  - name: ¡Sí le puede!
+    author: Victoria Elizabeth Wiley
+    notes: |+2
+      “Keep it as clean and pure as possible in elegance and strength of Spirit,” says drink creator Victoria Elizabeth Wiley. This is a light, floral, spirit-forward cocktail that would delight as an aperitif.
+    glassware: coupe
+    ingredients:
+    - 2 ounces (60 ml) mezcal espadin
+    - 1/2 ounce (15 ml) extra dry vermouth
+    - 1/4 ounce (8 ml) orange blossom water
+    - 1/4 ounce (8 ml) Kina L'Aero d'Or
+    - "Garnish: edible white flower"
+    steps:
+    - Stir ingredients with ice in a mixing glass. 
+    - Strain into a chilled coupe glass. 
+    - Garnish with a white flower and serve.
+    tags:
+    - agavero
+    - stirred
+  - name: Riot Girl
+    author: Sabrina Kershaw
+    notes: |+2
+      This spirit-forward cocktail created by Sabrina Kershaw is both floral and powerful, with a bold and beautiful color, much like its powerhouse inspiration.
+    glassware: coupe
+    ingredients:
+    - 2 ounces (60 ml) blanco tequila
+    - 3/4 ounce (22 ml) fino sherry
+    - 1/2 ounce (15 ml) prickly pear liqueur
+    - 2 dashes orange blossom water
+    - 3 dashes Peychaud's bitters
+    - "Garnish: orange twist"
+    steps:
+    - Stir all ingredients together and strain into a coupe glass. 
+    - Expel orange zest over the drink and lay over the glass to garnish. 
+    - Serve.
+    tags:
+    - deep ellum
+    - lone star taco bar
+    - stirred
+  - name: Wai Wai's Wings
+    author: Jess Knight
+    notes: |+2
+      Creator Jess Knight's cocktail honors Wai Wai from spirit base to glass: Jess chose the heartiest agave, espadin, mariposa (Spanish for “butterfly”) liqueur, a nod to the “tiny prison” in which caterpillars sprout their glorious wings, plums to honor Wai Wai's strength and perseverance, pears to toast her grit and in homage to “the sacred goddess Isis, protector of the dead, ‘magical healer,' and mother,” and thyme to invoke her courage. The curved glass is like a hand holding the cocktail, “supporting the drink with strength and beauty.”
+    glassware: coupe
+    ingredients:
+    - 2 ounces (60 ml) mezcal
+    - 1 ounce (30 ml) Mariposa liqueur
+    - 1 ounce (30 ml) Plum, Pear, and Thyme Shrub
+    - 1/2 ounce (15 ml) lemon juice
+    - "Garnish: orange swath"
+    steps:
+    - Shake ingredients with ice and strain. 
+    - Garnish with orange swath and serve.
+    tags:
+    - shaken
+    - citrus
+  - name: Nińa Brava
+    author: Melissa "Mellie" Wiersma
+    notes: |+2
+      Mellie Wiersma created a drink that balances smoky mezcal and bitter Cynar with St-Germain and a light, elegant vermouth.
+    glassware: nick & nora
+    ingredients:
+    - 11/4 ounces (38 ml) Del Maguey Vida mezcal
+    - 3/4 ounce (22 ml) Cynar
+    - 3/4 ounce (22 ml) Dolin dry vermouth
+    - 1/4 ounce (8 ml) St-Germain
+    - "Garnish: grapefruit twist"
+    steps:
+    - Stir all ingredients. 
+    - Twist grapefruit zest over drink and discard. 
+    - Serve.
+    tags:
+    - stirred
+    - freezer bar
+    - covina
+    - roof at park south
+    - jupiter disco
+  - name: La loi Veil
+    author: Caitlin Sullivan
+    notes: |+2
+      Caitlin Sullivan's toast combines classically delicious tequila and grapefruit with herbaceous fennel and cardamom bitters for a drink that is tart and slightly savory, assertive like its namesake.
+    glassware: coupe
+    ingredients:
+    - 1 ounce (30 ml) blanco tequila
+    - 1 ounce (30 ml) Don Ciccio & Figli fennel liqueur
+    - 1 ounce (30 ml) fresh grapefruit juice
+    - 1/4 ounce (8 ml) fresh lime juice
+    - 1/4 ounce (8 ml) simple syrup
+    - spritz cardamom bitters
+    steps:
+    - Shake ingredients except bitters with ice in a mixing glass. 
+    - Spritz a coupe glass with bitters and strain cocktail into glass. 
+    - Serve.
+    tags:
+    - lone star taco bar
+    - shaken
+    - citrus
+  - name: La Doña
+    author: 
+    notes: |+2
+      Alex Ross named her strong, stirred, spirit-forward drink La Doña, which is feminine for “the boss” in Spanish: “I think that kind of speaks for itself. Boss women are inspirational.”
+    glassware: nick & nora
+    ingredients:
+    - 11/2 ounces (45 ml) Tequila Tromba Reposado
+    - 1/2 ounce (15 ml) Cherry Heering Liqueur
+    - 3/4 ounce (22 ml) Aperol
+    - 2 dashes Angostura bitters
+    - "Garnish: orange twist"
+    steps:
+    - Stir all ingredients with ice and strain. 
+    - Garnish with an orange twist and serve.
+    tags:
+    - stirred
+  - name: The Mankiller
+    author: Annemarie Sagoi
+    notes: |+2
+      This spirit-forward cocktail created by Annemarie Sagoi balances three types of bitters with smoky mezcal and the salinity of Manzanilla sherry. This drink is powerful and assertive with a bright floral nose.
+    glassware: coupe
+    ingredients:
+    - 1 ounce (30 ml) Del Maguey Vida mezcal
+    - 1 ounce (30 ml) Lustau Manzanilla sherry
+    - 1/2 ounce (15 ml) Bigallet China-China
+    - 1/4 ounce (8 ml) Averna
+    - 1/4 ounce (8 ml) Luxardo Aperitivo
+    - 2 dashes Angostura bitter
+    - "Garnish: orange twist and chamomile"
+    steps:
+    - Stir ingredients with ice in a mixing glass and strain. 
+    - Garnish with orange peel and chamomile and serve.
+    tags:
+    - stirred
+    - occidental
+    - williams & graham
+  - name: Modern Love
+    author: Jane Fishel
+    notes: |+2
+      Campari and Pamplemousse Rose give this strong stirred cocktail a gorgeous bright red hue, luminescent like Coston's famous flares.
+    glassware: double rocks
+    ingredients:
+    - 2 ounces (60 ml) reposado tequila
+    - 3/4 ounce (22 ml) Campari
+    - 3/4 ounce (22 ml) Giffard Pamplemousse Rose
+    - 1 pinch Himalayan sea salt
+    - "Garnish: salt and grapefruit peel"
+    steps:
+    - Stir ingredients with ice in a mixing glass and strain. 
+    - Flame the grapefruit peel into the drink, rub the peel on the side of the glass, and discard. 
+    - Add one large ice cube and a pinch of salt on top of the cube. 
+    - Serve.
+    tags:
+    - stirred
+    - andaz hotel
+  - name: Wildberry Glory
+    author: Karen Fu
+    notes: |+2
+      Creator Karen Fu's cocktail combines wild strawberry liqueur, aperitif wines, and a double base of gin and mezcal for a drink that is a strong and spirit-forward nod to its inspirational broad.
+    glassware: nick & nora
+    ingredients:
+    - 1 ounce (30 ml) Del Maguey Crema de Mezcal
+    - 1/2 ounce (15 ml) Monkey 47 Gin
+    - 1/4 ounce (8 ml) Giffard Fraise de Bois
+    - 3/4 ounce (22 ml) Lustau Vermut
+    - 1/2 ounce (15 ml) Kina L'Avion d'Or
+    - "Garnish: half strawberry"
+    steps:
+    - Stir ingredients with ice in a shaker and strain. 
+    - Garnish with half a strawberry and serve.
+    tags:
+    - stirred
+    - studio restaurant & bar
+    - freehand hotel
+  - name: Breaker of Chains
+    author: Rosa Ortiz
+    notes: |+2
+      Created by Rosa Ortiz, this cocktail is elegant in both flavor and style, with calming notes from homemade ginger lemon tea syrup. “The cocktail is inspired by Ms. Ribeiro's eloquence and calming nature.”
+    glassware: flute
+    ingredients:
+    - 1 1/2 ounces (45 ml) blanco tequila
+    - 1/2 ounce (15 ml) lemon juice
+    - 1 ounce (30 ml) Ginger Lemon Tea Syrup
+    - 1/2 ounce (15 ml) Suze
+    - splash sparkling white wine
+    - "Garnish: jasmine flower"
+    steps:
+    - Combine tequila, lemon juice, syrup, and Suze in shaker. 
+    - Shake and pour into stemless flute; top with sparkling wine. 
+    - Garnish with jasmine flower.
+    tags:
+    - trina's starlight lounge
+    - shaken
+    - citrus
+    - sparkling
+
+#Vodka
+  - name: Your Own Way
+    author: Zhenya Zarukina
+    notes: |+2
+      Created by Zhenya Zarukina, this cocktail is a nod to Devi's lineage in two ways: Black Currant Riga Balsam hails from her homeland, and Nimbu Pani soda is a refreshing traditional Indian drink.
+    glassware: collins
+    ingredients:
+    - 2 ounces (60 ml) Riga Black Balsam Currant
+    - Nimbu Pani Soda
+    - "Sprig of black currant"
+    steps:
+    - Pour Riga Black Balsam Currant and ice into a collins glass. 
+    - Fill with Nimbu Pani soda, garnish with black currant, and serve.
+    tags:
+    - el copitas bar
+    - stirred
+  - name: Rose Nylund's Vertubenflügen
+    author: Bonnie Nag
+    notes: |+2
+      “Betty White loves vodka and lemon,” says drink creator Bonnie Nag, who incorporates both with rosé and rosemary as a nod to White's most famous character Rose Nylund, “who is sweet, a little naïve, and full of hilarious St. Olaf stories and colloquialisms like ‘I'm not one to blow my own vertubenflügen…'”
+    glassware: coupe
+    ingredients:
+    - 1 1/2 ounces (45 ml) Cucumber-Infused Vodka
+    - 1/2 ounce (15 ml) Aperol
+    - 1 ounce (30 ml) Rosemary Syrup
+    - 1 ounce (30 ml) lemon juice
+    - 1/2 ounce (15 ml) sparkling rosé
+    - "Garnish: lemon twist and rosemary sprig"
+    steps:
+    - Combine Cucumber-Infused Vodka, Aperol, rosemary syrup, and lemon juice in a shaker; add ice and shake until cold. 
+    - Strain into a coupe glass and top with sparkling rosé. 
+    - Garnish with a lemon twist and rosemary sprig.
+    tags:
+    - shaken
+    - citrus
+    - sparkling
+  - name: Thyme Bomb
+    author: Alyssa Shepherd
+    notes: |+2
+      “I played with the herbal (masculine?) and floral (feminine?) qualities in these ingredients,” says creator Alyssa Shepherd, a nod to Cathay pretending to be a man to enlist in the army. The combination makes for an herbaceous, sweet, sour, and refreshing drink.
+    glassware: highball
+    ingredients:
+    - 2 ounces (60 ml) Thyme-Infused Vodka
+    - 1 ounce (30 ml) Chamomile Simple Syrup
+    - 3/4 ounce (22 ml) lemon juice
+    - splash grapefruit juice
+    - 3 or 4 dashes Angostura bitters
+    - sparkling wine such as Cava
+    - "Garnish: sprig of thyme"
+    steps:
+    - Shake vodka, simple syrup, and juices. 
+    - Pour into a highball glass over ice. 
+    - Add bitters and top with sparkling wine. 
+    - Garnish with thyme and serve.
+    tags:
+    - shaken
+    - citrus
+    - sparkling
+  - name: Burlap and Satin
+    author: Rhachel Shaw
+    notes: |+2
+      “I secretly think she's a Viking,” says creator Rhachel Shaw of her inspirational lady, “so I used Aquavit for this one.” Pineapple juice and Aperol make for a drink that is sweet, sour, balanced with a touch of bitterness, and brightly hued.
+    glassware: double rocks
+    ingredients:
+    - 1 1/2 ounces (45 ml) Krogstad Aquavit
+    - 1 ounce (30 ml) pineapple juice
+    - 3/4 ounce (22 ml) lemon juice
+    - 1/2 ounce (15 ml) Aperol
+    - 1/2 ounce (15 ml) simple syrup
+    - "Garnish: pineapple quarter, skin on, and cucumber noodles"
+    steps:
+    - Combine ingredients in a shaker and shake. 
+    - Strain over fresh ice. 
+    - Garnish with pineapple quarter and cucumber noodles and serve.
+    tags:
+    - harvard & stone
+    - shaken
+    - citrus
+  - name: Dzhuyffragette
+    author: Katerina Babich
+    notes: |+2
+      Creator Katerina Babich created this riff on a classic White Lady cocktail: “Sharp and strong like Lady Edith Margaret Garrud, it will cheer up the body and spirit, like her martial arts.”
+    glassware: coupe
+    ingredients:
+    - 2 ounces (60 ml) Chili-Infused Vodka
+    - 3/4 ounce (22 ml) Green Chartreuse
+    - 1 ounce (30 ml) lime juice
+    - 1/4 ounce (8 ml) Honey Syrup
+    steps:
+    - Combine all ingredients, shake, and strain into a cocktail glass. 
+    - Garnish with lime zest and serve.
+    tags:
+    - shaken
+    - citrus
+  - name: Waterfall
+    author: Grazia Difranco
+    notes: |+2
+      Drink creator Grazia Difranco was inspired by the mechanisms of Frances Gabe's self-cleaning house: “small waterfalls” in the house and her clothes cabinet, which “in my mind, smells like fresh and gentle lavender.” Carrot and orange are a nod to Gabe's health and longevity; she lived to be 101.
+    glassware: highball
+    ingredients:
+    - 1 1/4 ounces (37 ml) Lavender-Infused Vodka
+    - 1/2 ounce (15 ml) Lillet Blanc
+    - 1/2 ounce (15 ml) verjus
+    - Carrot and Orange Skin Soda
+    - "Garnish: lavender sprig"
+    steps:
+    - Combine vodka, Lillet Blanc, and verjus in a strainer with ice and shake. 
+    - Strain over ice. 
+    - Top with soda. 
+    - Garnish with lavender sprig and serve.
+    tags:
+    - shaken
+  - name: Note G
+    author: Cari Hah
+    notes: |+2
+      Creator Cari Hah got real math-y in this homage: “I personally love a 50/50 cocktail because within the realm of the 50/50, I can split up that fraction with whatever kind of ingredients I want! This cocktail is a mathematical cocktail and a damn tasty rendition!”
+    glassware: coupe
+    ingredients:
+    - 3/4 ounce (22 ml) Belvedere Intense vodka
+    - 3/4 ounce (22 ml) Grey Goose vodka
+    - 1/2 ounce (15 ml) Gancia dry vermouth
+    - 1/2 ounce (15 ml) Lustau Palo Cortado sherry
+    - 1/4 ounce (8 ml) Cocchi Americano
+    - 1/4 ounce (8 ml) Lustau fino sherry
+    - "Garnish: lemon peel"
+    steps:
+    - Combine all ingredients in a mixing glass and stir. 
+    - Strain into a chilled coupe glass. 
+    - Express lemon peel over top. 
+    - Serve.
+    tags:
+    - stirred
+  - name: When There Are 9
+    author: Monica Berg
+    notes: |+2
+      In a nod to RGB's continuing fight for equality, Monica Berg created a three-ingredient equal-part cocktail, saying “as with life, this drink only works if the ingredients are equal!”
+    glassware: rocks
+    ingredients:
+    - 1 ounce (30 ml) Lysholm Linie Aquavit
+    - 1 ounce (30 ml) Lingonberry-Infused Campari
+    - 1 ounce (30 ml) sweet vermouth
+    - "Garnish: orange twist"
+    steps:
+    - Stir on ice and strain into a rocks glass with one large ice chunk or ice cubes. 
+    - Orange oil garnish.
+    tags:
+    - taxonomy ltd
+    - stirred
+    - negroni
+
+#Cognac, Brandy, and Pisco
+  - name: Miriam's Cup
+    author: Phoebe Esmon
+    notes: |+2
+      Those who were led to safety by Gruber called her “Mother Ruth,” which inspired Phoebe to create this cocktail based on the flavors of the comfort food rugelach. “The name Miriam's Cup was taken from a feminist focused addition to the traditional Seder.”
+    glassware: double rocks
+    ingredients:
+    - 1 ounce (30 ml) Pierre Ferrand Ambre Cognac
+    - 1 ounce (30 ml) Roger Groult 6 Year Old Calvados
+    - 1/2 ounce (15 ml) Hidalgo Pedro Ximenez sherry
+    - 3 dashes Angostura bitters
+    - "Garnish: orange twist"
+    steps:
+    - Combine ingredients in a mixing glass, add ice, stir, and pour into a double Old Fashioned glass. 
+    - Add 1 large piece of ice, garnish with orange peel, and serve.
+    tags:
+    - nightbell & curate
+    - stirred
+    - old-fashioned
+  - name: Hayden 020
+    author: Jill Cockson
+    notes: |+2
+      Hayden 020 is a thoughtful toast, from its name, a nod to the Dewey Decimal section dedicated to library science, to its aroma. “The scent of dry sherry is, to me, reminiscent of wet, old paper with just a hint of must,” reminding creator Jill Cockson of a used bookstore or library.
+    glassware: coupe
+    ingredients:
+    - 2 ounces (60 ml) Laird's Straight Apple Brandy
+    - 3/4 ounce (22 ml) amontillado sherry
+    - 3/4 ounce (22 ml) Apple Simple Syrup
+    - 3/4 ounce (22 ml) fresh lemon juice
+    - "Garnish: lemon twist"
+    steps:
+    - Shake ingredients with ice, strain, and garnish with a lemon twist. 
+    - Serve.
+    tags:
+    - swordfish tom's
+    - shaken
+    - citrus
+  - name: Sappers
+    author: Sheena Jacques-Galan
+    notes: |+2
+      Although built on the base of a Peruvian pisco, the modifiers of Sheena's Sappers include some of our favorite French aperitifs, making this the perfect toast to a woman whose subterfuge started tableside at a Parisian café.
+    glassware: coupe
+    ingredients:
+    - 1 2/3 (50 ml) pisco, preferably Peruvian
+    - 2/3 ounce (20 ml) St-Germain
+    - 1/3 ounce (10 ml) Suze
+    - 1 ounce (30 ml) fresh grapefruit juice
+    - 2/3 ounce (20 ml) fresh lime juice
+    - 1/3 ounce (10 ml) white sugar
+    - "Garnish: lime twist"
+    steps:
+    - Shake ingredients with ice and strain. 
+    - Serve.
+    tags:
+    - carry nation
+    - shaken
+    - citrus
+    - daiquiri
+  - name: Blossom & Six
+    author: Meaghan Dorman
+    notes: |+2
+      To toast the Lady of Cao, Meaghan Dorman combined flavors that reminded her of the lush rainforests of Peru, including hibiscus and peach. The resulting cocktail is a beautiful color invoking “a tapestry or cloth such as a high-ranking lady might own.”
+    glassware: wine glass
+    ingredients:
+    - 1 1/2 ounces (45 ml) pisco
+    - 3/4 ounce (22 ml) grapefruit juice
+    - 3/4 ounce (22 ml) peach liqueur
+    - 2 ounces (60 ml) chilled hibiscus tea
+    - 1 ounce (30 ml) club soda
+    - "Garnish: lemon twist"
+    steps:
+    - Combine all ingredients except club soda in a shaker. 
+    - Roll ingredients with ice and dump into wineglass. 
+    - Top with club soda and garnish with lemon twist. 
+    - Express oil, twist up pretty, and serve!
+    tags:
+    - raines law room
+    - the bennett
+    - dear irving
+    - rolled
+    - shaken
+    - citrus
+  - name: Turn This Mess Around
+    author: Mimi Burnham
+    notes: |+2
+      Mimi's toast to Rachel Carson includes flavors that hark back to events in Rachel Carson's life, from the saline solution, which reminds us of her work to save the oceans, to the sharp note of cider vinegar in the shrub, symbolizing her fights against the chemical companies, to the dash of mezcal “to bring a smoky back note, as a tribute to a beach campfire, which I imagined Rachel may have enjoyed.”
+    glassware: rocks
+    ingredients:
+    - 11/2 ounces (45 ml) Laird's Apple Brandy
+    - 1/4 ounce (8 ml) Del Maguey Vida Mezcal
+    - 1/2 ounce (15 ml) Dolin blanc vermouth
+    - 1/2 ounce (15 ml) Cranberry Shrub
+    - 2 drops Saline Solution
+    - 1 large orange twist
+    - "Garnish: orange twist"
+    steps:
+    - Stir ingredients with ice in a mixing glass and strain into a rocks glass. 
+    - Garnish with orange oil and serve.
+    tags:
+    - stirred
+  - name: La Patria
+    author: Ivy Mix
+    notes: |+2
+      Ivy Mix worked with Bolivian spirit and Batavia Arrak, a nod to Adams's travels in exotic locales in South America and across Europe, sweetened with strawberry and balanced with verjus for a sweet, sour cocktail.
+    glassware: nick & nora
+    ingredients:
+    - 1 1/2 ounces (45 ml) Singani 63
+    - 3/4 ounce (22 ml) verjus
+    - 1/4 ounce (8 ml) strawberry liqueur
+    - 1/4 ounce (8 ml) Batavia Arrack
+    - dash absinthe
+    steps:
+    - Stir all ingredients in a mixing glass and strain into a glass.
+    - "Store any leftover cocktail in a 'dividend,' or a small vessel alongside, ideally chilled in a bed of crushed ice."
+    - Garnish with a pansy and serve.
+    tags:
+    - stirred
+    - leyenda
+  - name: Good Governance
+    author: Katie Rose
+    notes: |+2
+      Katie's toast to Tawakkol Abdel-Salam Karman incorporates flavors of Yemen, including tea, cardamom, and mint, as well as the fig and fenugreek notes of her chosen brandy. “In an attempt at making a drink that was formidable in its nature, but spoke wisely and eloquently with its voice, I hope I was able to represent her passion and prowess.”
+    glassware: nick & nora
+    ingredients:
+    - 1 ounce (30 ml) El Maestro Sierra Brandy Solera Reserva
+    - 1 ounce (30 ml) Cardamaro
+    - 1/2 ounce (15 ml) Black Tea and Cardamom Syrup
+    - 1/2 ounce (15 ml) fresh lemon juice
+    steps:
+    - Combine ingredients in a shaker with ice, shake, and strain into a Nick & Nora glass. 
+    - Garnish with a mint leaf and serve.
+    tags:
+    - goodkind
+    - shaken
+    - citrus
+  - name: Silent Red
+    author: Chabi Cadiz
+    notes: |+2
+      Chabi Cadiz is inspired by simple things that can have great effects. For her Silent Red, she was inspired by the styles of 1920s makeup, especially bright red lipstick that would allow for dramatic effect even in a black and white film.
+    glassware: martini
+    ingredients:
+    - 2 ounces (60 ml) aged Chilean pisco
+    - 1 ounce (30 ml) filtered beetroot juice
+    - 1 ounce (30 ml) rose syrup such as Giffard or Monin
+    - 1/2 ounce (15 ml) Macerated Pisco with Earl Grey Tea
+    - orange peel
+    - "Garnish: orange"
+    steps:
+    - Combine ingredients in a mixing glass with ice, shake, and strain into a martini glass. 
+    - Garnish with orange and serve.
+    tags:
+    - shaken
+    - prima bar
+
+#Punch and Low-Alcohol Tipples
+  - name: Pear-Shaped Punch
+    author: Misty Kalkofen
+    notes: |+2
+      The Pear-Shaped Punch provides an accessible entry into the intriguing and complex category of mezcal. The notes of pear, bright lime, and grapefruit with a touch of bitter orange peel sing with the roasted agave flavors. This recipe makes a healthy portion, so send out the invites!
+
+      Yields 25 servings.
+    glassware: punch bowl
+    ingredients:
+    - 1 bottle Del Maguey Vida Mezcal
+    - 4 1/4 ounces (130 ml) Aperol
+    - 2 1/4 ounces (66 ml) Luxardo Maraschino
+    - 17 ounces (500 ml) Perfect Puree Pear
+    - 8 1/2 ounces (250 ml) lime juice
+    - 8 1/2 ounces (250 ml) grapefruit juice
+    - 4 1/4 ounces (125 ml) 1:1 simple syrup
+    - "Garnish: edible flowers"
+    steps:
+    - Mix all ingredients in punch bowl with ice. 
+    - Garnish the bowl with edible flowers and serve.
+    tags:
+    - stirred
+    - citrus
+    - punch
+  - name: Jedburgh Welcome Punch
+    author: Mary Stout
+    notes: |+2
+      Mary channels some of France's most iconic flavors to create a punch appropriate to welcome Jedburgh Team Frederick on their arrival: exemplary apples from Normandy, the herbaceous Chartreuse of the Carthusian monks of Grenoble, and the ever-prolific wine!
+
+      Yields 25 servings.
+    glassware: punch bowl
+    ingredients:
+    - 18 ounces (530 ml) Laird's Apple Brandy
+    - 6 ounces (175 ml) Yellow Chartreuse
+    - 12 ounces (350 ml) grapefruit juice
+    - 12 dashes Angostura bitters
+    - 3 ounces (90 ml) water
+    - 1 750-milliliter bottle dry Lambrusco
+    - "Garnish: ice ring with grapefruit and lime slices frozen inside"
+    steps:
+    - Mix all ingredients in punch bowl, topping with Lambrusco. 
+    - Add ice ring and serve.
+    tags:
+    - punch
+    - citrus
+    - stirred
+    - sparkling
+  - name: Los Reunidos
+    author: Helen Diaz
+    notes: |+2
+      San Francisco–based Helen Diaz uses the aromatic Terroir Gin from local-to-her distillery St. George Spirits for her hopeful toast, Los Reunidos or the Reunited Ones. Terroir Gin features botanicals, evoking memories of northern California such as Douglas fir and California bay laurel.
+
+      Yields 8 servings.
+    glassware: punch bowl
+    ingredients:
+    - 8 ounces (240 ml) St. George Terroir Gin
+    - 6 ounces (175 ml) dry vermouth
+    - 4 ounces (120 ml) lemon juice
+    - 6 ounces (175 ml) Aperol
+    - 4 ounces (120 ml) Rosemary Syrup (see below)
+    - 4 ounces (120 ml) sparkling wine
+    - 4 ounces (120 ml) soda water
+    - "Garnish: rosemary sprigs and sliced strawberries"
+    steps:
+    - Combine ingredients in punch bowl, topping with sparkling wine and soda water. 
+    - Garnish with rosemary sprigs and sliced strawberries, and serve.
+    tags:
+    - punch
+    - citrus
+    - sparkling
+    - stirred
+  - name: Soul of Wit
+    author: Jenn Tosatto
+    notes: |+2
+      Jenn's Soul of Wit is inspired by Turkish Delight candies, a nod to Aspasia's birthplace. Through the nutty notes of sherry, honey, and cherries, she has created a simple, elegant liquid version of this confection for sipping while waxing philosophical.
+
+      Yields 8 servings.
+    glassware: punch glass
+    ingredients:
+    - 1 bottle dry sherry
+    - 1/4 cup (60 ml) honey
+    - 1 orange peel
+    - 1 cup (160 g) dried cherries
+    - 1 cinnamon stick
+    - 1/2 teaspoon whole cloves
+    - 1 teaspoon (2 g) allspice
+    - 1 star anise
+    - 1/2 teaspoon coriander
+    steps:
+    - Combine all ingredients in a saucepan and simmer over low heat for 30 to 40 minutes. 
+    - Serve hot.
+    tags:
+    - stirred
+    - heated
+    - winter
+    - punch
+  - name: Morning Droplets of Dew on Frozen Grapes
+    author: Jessica Lischka
+    notes: |+2
+      Creator Jessica Lischka used a palette of Japanese ingredients to create this refresher, substituting frozen grapes for ice cubes, reminiscent of the frozen summits Junko scaled, her victory over which was sweet.
+    glassware: rocks
+    ingredients:
+    - 1 1/2 ounces (45 ml) Tozai Living Jewel junmai sake
+    - 3/4 ounce (22 ml) Woody Creek gin
+    - 3/4 ounce (22 ml) Carpano Bianco vermouth
+    - 1/2 ounce (15 ml) Dolin dry vermouth
+    - 1/2 ounce (15 ml) yuzu juice
+    - 5 or 6 frozen green grapes
+    steps:
+    - Combine all ingredients. 
+    - Gently muddle grapes to break up while in liquid ingredients. 
+    - Do not add ice; shake to chill with frozen grapes. 
+    - Double strain over a BFIC (Big Fucking Ice Cube).
+    tags:
+    - jimmy's an american restaurant & bar
+    - low-abv
+    - shaken
+  - name: My Name Is Nobody
+    author: Beckaly Franks
+    notes: |+2
+      “For me there is pure poetry in the idea that Lee Miller, like many photographers, was a ‘nameless' storyteller,” says creator Beckaly Franks. “Miller is an iconic female figure, so it goes without saying that her name is legend. However, the anonymity of being behind the lens afforded her travel, immersion in global tragedy, the progression of art and a chance to rescue time. The narrative of nobody.”
+    glassware: rocks
+    ingredients:
+    - 1 ounce (30 ml) Ancho Reyes
+    - 3/4 ounce (22 ml) sweet vermouth
+    - 3/4 ounce (22 ml) Aperol
+    - 1 teaspoon (5 ml) Fernet-Branca
+    - "Garnish: lemon peel"
+    steps:
+    - In a mixing glass, combine ingredients with ice and stir. 
+    - Strain into an Old Fashioned glass over fresh ice. 
+    - Garnish with a lemon swath and serve.
+    tags:
+    - the pontiac
+    - stirred
+    - freezer bar
+  - name: Tea With Zenobia
+    author: Chantal Tseng
+    notes: |+2
+      This delightful aperitif mixes sweet wines with herbaceous liqueurs and mint tea for a drink that is sweet, robust, and soothing on the palate.
+    glassware: collins
+    ingredients:
+    - 2 ounces (60 ml) Palo Cortado sherry
+    - 1 ounce (30 ml) Dolin Rouge vermouth
+    - 1/4 ounce (8 ml) apricot brandy
+    - 1/4 ounce (8 ml) Green Chartreuse
+    - 2 dashes orange bitters
+    - 3 ounces (90 ml) Moroccan mint tea
+    - "Garnish: mint, orange peel, and brandied apricot"
+    steps:
+    - Combine ingredients in a collins glass, stir, and add cracked ice. 
+    - Garnish with mint, orange peel, and brandied apricot.
+    tags:
+    - reading room
+    - stirred
+    - low-abv
+  - name: Bliss Maker
+    author: Lucinda Weed
+    notes: |+2
+      Creator Lucinda Weed made this cocktail using ingredients that “stimulate the mind, heart, and respiratory systems: St-Germain is made from fresh elderflowers, historically used for their prophylactic qualities and to treat ailments of the sinuses and respiratory systems; lemon verbena relaxes the mind; hibiscus is used to treat high blood pressure and cholesterol; honey, when made locally, builds immunity to local allergens.”
+    glassware: highball
+    ingredients:
+    - 1 1/2 ounces (45 ml) St-Germain
+    - 1 ounce (30 ml) fino sherry
+    - 1 1/2 ounces (45 ml) cooled lemon verbena tea (use 2 tbsp [28 g] per 8 oz [240 ml] boiling water)
+    - 1 1/2 ounces (45 ml) cooled hibiscus tea (use 2 tbsp [28 g] per 8 oz [240 ml] boiling water)
+    - 1/4 ounce (8 ml) Honey Syrup
+    - "Garnish: lemon twist and edible flowers"
+    steps:
+    - Preferably starting with everything chilled, combine all ingredients in a glass and top with ice. 
+    - Give a gentle stir, express a lemon peel, and garnish with peel and optional edible flower.
+    tags:
+    - black penny
+    - stirred
+    - low-abv
+  - name: White Rose Mission
+    author: Lauren Clark
+    notes: |+2
+      Using a “rosé” variation of a traditional Italian aperitif wine, Lauren Clark pays homage to Victoria Earle Matthews and her White Rose Mission, a refuge for exploited young black women. The peaches are a nod to Matthews' birthplace, Georgia.
+    glassware: goblet
+    ingredients:
+    - 3 ounces (90 ml) Cocchi Americano Rosa
+    - 3 ounces (90 ml) club soda
+    - 4 chunks peach
+    - "Garnish: grapefruit peel"
+    steps:
+    - Build in a goblet filled with cracked ice. 
+    - Garnish with grapefruit peel.
+    tags:
+    - low-abv
+  - name: Forte
+    author: Claire Sprouse
+    notes: |+2
+      Creator Claire Sprouse felt a more measured cocktail seemed appropriate for Gabrielle Suchon: “This tipple utilizes a dry, acid-driven Chenin Blanc from her birthplace, Burgundy, while bucking the line of thinking that low-alcohol cocktails have to follow the traditional aperitif format.”
+    glassware: hurricane
+    ingredients:
+    - 2 ounces (60 ml) Chenin Blanc
+    - 2 ounces (60 ml) sweet vermouth such as Lo-Fi Aperitifs or Dolin Rouge
+    - 1 ounce (30 ml) orange juice
+    - 1/2 ounce (15 ml) lemon juice
+    - 1/2 ounce (15 ml) cinnamon syrup
+    - "Garnish: orange slice and freshly grated cinnamon"
+    steps:
+    - Combine ingredients and whip with crushed ice. 
+    - Pour contents into glass and pack full with more crushed ice. 
+    - Garnish with orange slice and freshly grated cinnamon on top. 
+    - Serve.
+    tags:
+    - tiki
+    - shaken
+    - citrus
+    - low-abv
