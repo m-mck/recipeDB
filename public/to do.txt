@@ -44,20 +44,23 @@ coding:
     [ ] smth on the website that makes txt file out of entered recipes
         [ ] developer.mozilla.org -> "the input (form input) element
 
+[ ] back-end spot 4 recipes??
+    [ ] mongodb!
+
 svelte repl -> shows u what code will do
 
 things from amanda:
 
     CSS terms / ideas:
-    
+
     "flexbox" -> filling out leftover space
     "grid" -> supports grids
-    
+
     yes+no ->
     	radio buttons(?)
     	javascript logic
-    
+
     webpage template -> depends on framework
     	"component"
-    
+
     backend to keep track of what's been favorited
