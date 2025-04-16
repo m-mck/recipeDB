@@ -78,3 +78,27 @@ recipes:
     steps:
     - Combine wildflower honey with hot water in a bowl and whisk until thoroughly blended. 
     - Transfer to a storage container and refrigerate until ready to use, up to 2 weeks.
+  - name: House-Made Cacao Rum
+    notes: |+2
+      Though it won’t yield exactly the same flavor profile as the Copalli rum, you can make your own cacao-infused rum by mixing 3 tablespoons of cacao nibs with one 750ml bottle white rum (or rhum agricole). Infuse for about 1 hour, stirring and tasting frequently, then strain through a fine-mesh sieve. 
+    ingredients: 
+    - 3 tablespoons cacao nibs
+    - 750ml bottle white rum or rhum agricole
+    steps:
+    - Infuse for about 1 hour, stirring and tasting frequently, then strain through a fine-mesh sieve.
+  - name: Honeydew Syrup
+    notes: |+2
+       
+    ingredients: 
+    - 1 part honeydew melon, by weight
+    - 1 part simple syrup
+    steps:
+    - Combine the melon and simple syrup in a blender and blend until smooth.
+    - Refrigerate until ready to use.
+  - name: 
+    notes: |+2
+       
+    ingredients: 
+    - 
+    steps:
+    - 

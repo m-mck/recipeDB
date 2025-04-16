@@ -50,7 +50,7 @@ recipes:
   - name: Art of Choke
     author: Kyle Davidson
     notes: |+2
-      When was the last time that you created a brand new drink template? It's hard to do, unless you're Kyle Davidson and you break breans like Daryl Dawkins breaks backboards.
+      When was the last time that you created a brand new drink template? It's hard to do, unless you're Kyle Davidson and you break brains like Daryl Dawkins breaks backboards.
     glassware: rocks
     ingredients:
     - 1 oz white rum
@@ -436,6 +436,7 @@ recipes:
     - Garnish with an orange twist.
     tags:
     - stirred
+    - room temperature
   - name: Heering Flip
     author: Maks Pazuniak
     glassware: rocks
@@ -490,7 +491,7 @@ recipes:
     - 1 oz Averna
     - 3/4 oz lime juice
     - 1/2 oz simple syrup
-    - 1/4 oz pimento dram.
+    - 1/4 oz pimento dram
     - 2 oz Champagne
     - "Garnish: lime wheel"
     steps:
@@ -504,7 +505,7 @@ recipes:
   - name: The Last Mechanical Art
     author: Maks Pazuniak
     notes: |+2
-      I played with the proportions on this cocktail quite a bit, and kept coming back to the equal parts construction. I'm a sucker for eual parts. Is the cocktail perfectly balanced? Probably not, but perfection is overrated. -Maks
+      I played with the proportions on this cocktail quite a bit, and kept coming back to the equal parts construction. I'm a sucker for equal parts. Is the cocktail perfectly balanced? Probably not, but perfection is overrated. -Maks
     glassware: coupe
     ingredients:
     - 3/4 oz Chichicapa mezcal
@@ -601,6 +602,7 @@ recipes:
     - Garnish with a small amount of grated canela.
     tags:
     - stirred
+    - room temperature
   - name: The Nervous Light of Sunday
     author: Mike Yusko
     glassware: rocks

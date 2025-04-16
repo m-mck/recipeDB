@@ -1,0 +1,72 @@
+source: "The Encyclopedia of Cocktails"
+hidden: true
+recipes:
+
+#Benton's Old-Fashioned
+  - name: Benton's Bacon Fat-Washed Four Roses Bourbon
+    notes: |+2
+      For Benton's Old-Fashioned.
+    ingredients: 
+    - 1½ ounces (by volume) Benton’s bacon fat
+    - 750 ml Four Roses Bourbon
+    steps:
+    - To make the fat-washed bourbon, warm the bacon fat in a small saucepan over low heat, stirring until it is melted, about 5 minutes. 
+    - Combine the melted fat with the bourbon in a large freezer-safe container and stir. 
+    - Cover and let sit at room temperature for 4 hours, then place the container in the freezer for 2 hours. 
+    - Remove the solid fat from the surface of the bourbon and discard. 
+    - Strain the bourbon through a terry cloth towel or a double layer of cheesecloth into a bottle and store in the refrigerator for up to 2 months.
+#Gin-Gin Mule
+  - name: Homemade Ginger Beer
+    notes: |+2
+      For the Gin-Gin Mule.
+    ingredients: 
+    - 1 quart filtered water
+    - 4 ounces ginger root
+    - ½ ounce fresh lime juice
+    - 2 tablespoons light brown sugar
+    steps:
+    - Add the water to a saucepan and bring to a boil. Break up the ginger root into smaller pieces, and place in a food processor. 
+    - Add a cup of the boiling water to make processing easier. 
+    - Process till almost mulch-like. 
+    - After the ginger is minced, add it back into the boiling water. 
+    - Shut off the heat. 
+    - Stir well, and cover for 1 hour. 
+    - Strain through a fine chinois or cheesecloth, and add lime juice and light brown sugar. 
+    - Let cool. 
+    - Transfer into bottles or containers and store in the refrigerator. 
+    - "Important: When you are straining the ginger through the strainer, take a spoon or ladle and firmly press down on the ginger to extract the flavor. The strongest part of the ginger essence is still hiding in there and needs to be pressed out manually. Its appearance will be cloudy; this is natural."
+#Penicillin
+  - name: Homemade Ginger Beer
+    notes: |+2
+      For the Penicillin.
+    ingredients: 
+    - 8 ounces honey
+    - 1 six-inch piece of ginger root, peeled and sliced
+    - 8 ounces water
+    steps:
+    - Combine the ingredients in a pot. 
+    - Bring to a boil, lower the heat, and simmer for 5 minutes. 
+    - Let cool. 
+    - Refrigerate overnight, then strain, discarding the solids.
+#Porn Star Martini
+  - name: Vanilla Syrup
+    notes: |+2
+      For the Porn Star Martini.
+    ingredients: 
+    - split vanilla bean
+    - 8 ounces water
+    - 8 ounces sugar
+    steps:
+    - Put a split vanilla bean in a saucepan with 8 ounces of water and 8 ounces of sugar. 
+    - Heat to a boil, stirring, until the sugar dissolves. 
+    - Let cool. 
+    - Strain out the vanilla bean.
+#Zombie
+  - name: Don’s Mix
+    notes: |+2
+      For the Zombie.
+    ingredients: 
+    - 2 parts white grapefruit juice
+    - 1 part cinnamon-infused simple syrup
+    steps:
+    - Combine.

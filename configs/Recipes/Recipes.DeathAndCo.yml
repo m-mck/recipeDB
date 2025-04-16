@@ -314,3 +314,845 @@ recipes:
     - death & co
     - stirred
     - freezer bar
+  - name: La Reforma
+    author: Thomas Eslinger
+    year: 2021
+    url: https://www.deathandcompanymarket.com/blogs/recipes/la-reforma
+    notes: |+2
+      "This Mexican-inspired Sazerac is one of my favorite drinks that I’ve created. The idea was first sparked by chef Juan Catalan Moreno when he made me my first champurrado, a Mexican hot-chocolate drink thickened with masa harina and flavored with cinnamon, anise, and other spices. I’m a small-town Iowa boy, so this delicious drink knocked my socks off. The anise element sent me to try an absinthe-laced sazerac variation, and I attempted to harness the other flavors with the powerhouse combo of corn liqueur and cacao nib-infused rum. Nixta Licor de Elota is made with ancestral varieties of corn that are nixtamalized in the same fashion as masa, and Copalli Cacao Rum has a rich and creamy chocolate flavor imparted from a weeks-long infusion process. The drink’s name was inspired by Benito Juarez, a very influential former president of Mexico, who for a time was exiled in New Orleans, the birthplace of the Sazerac." —TE
+    glassware: rocks
+    ingredients:
+    - Absinthe, for rinsing
+    - 1 ounce Del Maguey Chichicapa Mezcal
+    - 1 ounce Copalli Cacao Rum or House-Made Cacao Rum
+    - ½ ounce Nixta Licor de Elote
+    - 1 teaspoon Cinnamon Syrup
+    - 1 dash orange bitters
+    - "Garnish: 1 orange twist"
+    steps:
+    - Rinse a chilled single old-fashioned glass with absinthe and dump. 
+    - Stir the remaining ingredients over ice, then strain into the glass. 
+    - Express the orange twice over the drink and discard. 
+    tags:
+    - death & co
+    - stirred
+    - sazerac
+  - name: Lone Wolf & Cub
+    author: Matthew Belanger
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/lone-wolf-cub
+    notes: |+2
+      "This drink was inspired by the combination of cantaloupe liqueur and the intense cilantro flavor of the green chile vodka. There was an old cocktail of Shannon Tebay’s called Paradise Lost that was sort of a rhum agricole swizzle with the green chile vodka as a modifier, so I knew that would work here and help tie the whole composition together. Mai tais are an obvious angle on fruity rhum agricole drinks, so that was part of the picture as well. I think the whole idea popped into my head pretty fully formed, and the only thing that changed during the composition was to simplify the base to just include the rhum and the vodka; the rest of the spec is pretty close to what I originally wrote down in my notes. The name, in addition to being a super influential manga about a samurai and his young child, is apropos because ‘cantaloupe’ is from an Italian place-name meaning ‘song of the wolf,’ so I am always trying to come up with wolf-related names for cantaloupe drinks." —MB
+    glassware: pilsner
+    ingredients:
+    - 1¼ ounces Rhum JM VO rhum agricole
+    - ¾ ounce St. George Spirits Green Chile vodka
+    - ½ ounce Aelred Cantaloupe Aperitif 
+    - ¾ ounce fresh lime juice
+    - ½ ounce orgeat
+    - 1 dash absinthe
+    - "Garnish: 1 cantaloupe slice and 1 cilantro sprig"
+    steps:
+    - Combine all the ingredients in a shaker and whip, shaking with a few pieces of crushed ice, just until incorporated, then dump into a cocktail mug or pilsner glass and fill the glass with crushed ice. 
+    - Garnish with the cantaloupe slice and cilantro sprig and serve with a straw. 
+    tags:
+    - death & co
+    - shaken
+    - citrus
+  - name: Five Year Plan
+    author: Summer Goff
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/five-year-plan
+    notes: |+2
+      "Five Year Plan was created to satisfy the craving for a through-and-through autumn old fashioned (though it's craveable year-round). I started with the base of Yellowstone bourbon and boosted the high-rye notes by adding Delord Napoleon Armagnac. Armagnac is one of my favorite spirits, and one of my ways of introducing others to the category is by using it as a supporting player for bourbon. I doubled down on walnuts using black walnut bitters and Nocino, an Italian liqueur made with green walnuts. I then added a touch more sweetness and baking spice with cinnamon syrup. I love this old-fashioned because it's subtly complex and still completely recognizable as an old-fashioned. ‘Where do you see yourself in five years?’ is a question that sends me reeling into absolute panic, and naming this cocktail after it is the closest I've gotten to an answer." —SG
+    glassware: rocks
+    ingredients:
+    - 1¼ ounces Yellowstone Bourbon
+    - ½ ounce Delord Napoleon Armagnac
+    - ¼ ounce Don Cicio Nocino
+    - 1 teaspoon Cinnamon Syrup
+    - 1 dash Bitter Truth Aromatic bitters
+    - "Garnish: 1 orange twist and 1 lemon twist"
+    steps:
+    - Stir all the ingredients with ice, then strain into a single old-fashioned glass over 1 large ice cube. 
+    - Express the orange and lemon twists over the drink, then place them in the drink. 
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+    - freezer bar
+  - name: El Niño Perdido
+    author: Edwin Ross
+    year: 2024
+    url: https://www.deathandcompanymarket.com/blogs/recipes/el-nino-perdido
+    notes: |+2
+      "This drink is an homage to L.A.’s Boyle Heights neighborhood, where there’s a statue inspired by the beloved mariachi song ‘El Niño Perdido’ (‘The Lost Child’). Its flavors are intended to highlight ingredients that pair well with honeydew melon. Legendario Domingo Guerrero mezcal has a minty, peppery, vegetal profile and a robust finish that loves both melon and the rich herbaceous quality of the shiso liqueur. This mezcal is a favorite of mine and a great way to introduce folks who are new to the spirit but don’t want something ‘too smoky.’"
+    glassware: pilsner
+    ingredients:
+    - 1¼ ounces Legendario Domingo Guerrero mezcal
+    - 1 ounce Cocchi Americano
+    - ¼ ounce Sidetrack Shiso liqueur
+    - 1½ ounces Honeydew Syrup
+    - ¾ ounce fresh lime juice
+    - 1 dash absinthe|
+    - "Garnish: 1 lime wheel"
+    steps:
+    - Short shake all of the ingredients with 3 ice cubes, then strain into a cocktail mug (or pilsner glass) and fill with crushed ice. 
+    - Garnish with the lime wheel and serve with a straw.
+    tags:
+    - death & co
+    - shaken
+    - citrus
+  - name: Rhythm Section
+    author: Evan Flynn
+    year: 2022
+    url: https://www.deathandcompanymarket.com/blogs/recipes/rhythm-section
+    notes: |+2
+      "I was asked to make a whiskey sour for one of our menus, specifically one that only used back bar ingredients (no specialty infusions, syrups, or other advanced prep). I’m a fan of Monkey Shoulder Scotch for its stewed apple and baking spice notes, and knew that most Americans don’t typically reach for Scotch in their cocktails. I wanted to shed a little light on a spirit that doesn’t get the play it deserves on most menus, but use a style of drink that’s familiar. Apricot eau de vie adds a nice boost to the fruity notes in the Scotch, with Bénédictine playing into the scotch’s honeyed, spiced notes. Overall the cocktail is juicy, fruity, and bright—not the first thing people think when they hear Scotch is in their cocktail. Our bar manager (and my roommate) Jake Powell claims that I made this drink after coming home after a night out and feeling pretty buzzed with our other roommate. I supposedly got behind our home bar and made an early version of what would become Rhythm Section. " —EF
+    glassware: coupe
+    ingredients:
+    - 1½ ounces Monkey Shoulder blended Scotch
+    - ½ ounce Blume Marillen apricot eau de vie
+    - ½ ounce Bénédictine
+    - ¾ ounce orgeat
+    - ¾ ounce fresh lemon juice
+    - 1 egg white
+    - "Garnish: 1 spritz of Laphroaig 10-year single malt Scotch (or other peaty scotch)"
+    steps:
+    - Dry shake all the ingredients, then shake again with ice. 
+    - Double strain into a chilled coupe. 
+    - Spritz the top of the drink with the scotch. 
+    tags:
+    - death & co
+    - shaken
+    - citrus
+    - peaty
+  - name: Model Village
+    author: Jack Stevenson
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/model-village
+    notes: |+2
+      "The Model Village was inspired by the Red Ant, which is one of my favorite Manhattan-style cocktails (and it happens to be a Death & Co modern classic as well, created by Thomas Waugh). The rich berry notes in my drink directly call back to the Red Ant, while the combination of Cognac and peated Scotch speaks more to my personal history with spirits. I also sought out all of the flavors people usually love in a classic Manhattan, but dialed up to eleven. This is a perfect cocktail to have with dinner, whether to contrast to a brightly flavored dish or to complement a rich and hearty meal." —JS
+    glassware: coupe
+    ingredients:
+    - 1½ ounces High West Double Rye
+    - ½ ounce H by Hine Cognac
+    - ¾ ounce Carpano Antica vermouth
+    - 2 teaspoons Giffard Crème de Mûre blackberry liqueur
+    - 1 teaspoon Port Charlotte 10-sear single malt Scotch
+    - 2 dashes Bitter Truth aromatic bitters
+    - "Garnish: 1 brandied cherry" 
+    steps:
+    - Stir all the ingredients with ice, then strain into a chilled Nick & Nora glass. 
+    - Garnish with the brandied cherry.
+    tags:
+    - death & co
+    - stirred
+    - manhattan
+  - name: Darkness Calls
+    author: Trevor Shores
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/darkness-calls
+    notes: |+2
+      "Darkness Calls began as a tequila negroni, but I wanted to make a variation that was darker and more robust, something that I would enjoy after a long day at work. Denizen’s Vatted Dark rum is a 100-proof blend of Guyana demerara rum and unaged rhum agricole, and gives the drink a deep baseline for everything to build upon. Using Punt e mas as the sweet vermouth component brings more bitterness, so I balanced it out with white crème de cacao, resulting in a bittersweet sipper with lovely orange and dark chocolate notes. Darkness calls to us all." —TS
+    glassware: nick & nora
+    ingredients:
+    - 1¼ ounces Altos Reposado tequila
+    - ½ ounce Denizen Vatted Dark rum
+    - ¾ ounce Punt e Mes
+    - ½ ounce Campari
+    - ¼ ounce Giffard white Crème de Cacao 
+    - "Garnish: 1 orange twist"
+    steps:
+    - Stir all the ingredients with ice, then strain into a chilled Nick & Nora glass. 
+    - Garnish with the orange twist.
+    tags:
+    - death & co
+    - stirred
+  - name: Sound System
+    author: Thomas Eslinger
+    year: 2021
+    url: https://www.deathandcompanymarket.com/blogs/recipes/sound-system
+    notes: |+2
+      "One of my favorite flavor combinations is pineapple and coffee, which goes back to when I’d make cold-brew piña coladas for the staff when I worked at the Tartine Manufactory in San Francisco. The Sound System cocktail stems directly from that goofing around. Jamaican rum, madeira, pineapple, and espresso liqueur all come together to make a surprising and refreshing drink that always makes me want another. This daiquiri riff was so delicious that it became the go-to shot to send to friends when they visited Death & Co LA. We even had guests who would come in and request them, not knowing that they were actually a full cocktail from one of our first menus! The name Sound System was inspired by the Jamaican rum: In Jamaican popular culture starting in the 1950s, a “sound system” was a group of DJs, engineers and MCs playing ska, rocksteady or reggae music. DJs would load up a truck with a generator, turntables and huge speakers and throw street parties for Jamaicans who were barred under colonial rule from participating in dances uptown." —TE
+    glassware: coupe
+    ingredients:
+    - 1½ ounces H&H Rainwater Madeira
+    - 1 ounce Appleton Signature Jamaican Rum
+    - ¼ ounce Galliano Ristretto espresso liqueur 
+    - ¾ ounce lime juice
+    - ½ ounce pineapple juice
+    - ½ ounce Cinnamon Syrup
+    - "Garnish: 1 lime wedge"
+    steps:
+    - Shake all the ingredients with ice, then double strain into a chilled coupe. 
+    - Garnish with the lime wedge.
+    tags:
+    - death & co
+    - shaken
+    - citrus
+  - name: Clandestino
+    author: Mike Perez
+    year: 2022
+    url: https://www.deathandcompanymarket.com/blogs/recipes/clandestino
+    notes: |+2
+      "The Clandestino is a tequila-old fashioned style cocktail that was conceptualized with the flavor profile of a Thai basil and coconut curry. Being a stirred cocktail, it really let me dive into a more nuanced and upfront take on those flavors. The Aqua Perfecta basil eau de vie from St. George has become a staple at Death & Co LA and undeniably plays a huge role within the drink. Small touches of Kalani coconut liqueur and Green Chartreuse dial in a balance of rich and green herbal flavors that allows the tequila to take the wheel and drive it home. The drink’s name is an album title by world music artist Manu Chao, which I felt was fitting as the it’s flavors span from Thailand all the way to Mexico. " —MP
+    glassware: rocks
+    ingredients:
+    - 1½ ounces El Tesoro reposado tequila
+    - ½ ounce St George Aqua Perfecta basil eau de vie
+    - 1 teaspoon Kalani coconut liqueur
+    - ½ teaspoon Green Chartreuse
+    - 1 teaspoon Cane Sugar Syrup (2:1)
+    - 1 dash orange bitters
+    - "Garnish: 1 orange twist"
+    steps:
+    - Stir all the ingredients with ice, then strain into a single old-fashioned glass over 1 large ice cube. 
+    - Express the orange twist over the drink, then drop it into the drink. 
+    - Add all ingredients into a mixing glass and add ice. 
+    - Stir cocktail and strain into a single old fashioned glass with preferably a big chunk of ice. Express an orange peel over and garnish.
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+  - name: Low End Theory
+    author: Joe Rinaldi
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/low-end-theory
+    notes: |+2
+      "A lot of my drinks are based around a flavor combination of a dessert or dish I really enjoyed in the past. The Low End Theory is an old-fashioned riff based around the combination of banana and garam masala, two flavors I encountered in the form of a spiced banana muffin. My first thought was to use Transcontinental Rum Line Jamaican 2015 because it has tropical notes of banana and spices. To add some body to the drink, I added Knob Creek’s 9-year bourbon to pair with the rum (which is aged in ex-bourbon barrels) and some PX sherry to add a layer of nuttiness and velvety texture. And to introduce the flavor of garam masala, I decided to use Bitter End’s Moroccan bitters (which have prominent notes of cumin, cloves, black pepper, and cinnamon). The thing I like the most about this drink is the unexpected layers of flavors you get;  up front it’s tropical, then it’s nutty and spicy on the finish." —JR
+    glassware: rocks
+    ingredients:
+    - 1 ounce Knob Creek 9-year Bourbon
+    - 1 ounce Jamaican rum
+    - ¼ ounce Romate Pedro Ximenez sherry
+    - ¼ ounce Giffard Banane du Brésil liqueur
+    - 1 teaspoon Cruzan blackstrap rum
+    - 1 dash absinthe
+    - 1 dash Bitter End Moroccan Bitters
+    - "Garnish: 1 orange coin"
+    steps:
+    - Stir all the ingredients with ice, then strain into a single old-fashioned glass over 1 large ice cube. 
+    - Garnish with the orange coin.
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+  - name: Dragon Attack
+    author: Alexander Ali
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/dragon-attack
+    notes: |+2
+      "Dragon Attack is a delicate Martinez riff with notes of ripe plum and cherry, rose, and juniper. The star of the show is the base spirit, St. George Dry Rye reposado gin, which is composed of a rye-based spirit that is re-distilled with gin botanicals aged in used wine casks. This gives a bit of a spiced and malty juniper component to the cocktail. The Cocchi Rossa lend a floral rose bitterness while also playing the part of vermouth. Umeshu is a plum wine that comes from Ume fruit that is stepped in Sake. The rowanberry eau-de-vie offers a nutty cherry flavor, which subs in for the Martinez’s signature maraschino liqueur. It’s an excellent spring cocktail that will please those who enjoy Manhattans, Martinis, and Negronis." —AA
+    glassware: 
+    ingredients:
+    - 1½ ounces St. George Dry Rye reposado gin
+    - ½ ounce Clear Creek plum brandy
+    - ½ ounce Choya Umeshu plum wine
+    - ½ ounce Cocchi Americano Rosa aperitivo 
+    - ½ teaspoon Reisetbauer rowanberry eau de vie
+    - "Garnish: 1 orange twist"
+    steps:
+    - Stir all the ingredients with ice, then strain into a chilled Nick & Nora glass. 
+    - Garnish with the orange twist.
+    tags:
+    - death & co
+    - stirred
+    - manhattan
+    - spring
+  - name: Quiet Storm
+    author: Thomas Eslinger
+    year: 2022
+    url: https://www.deathandcompanymarket.com/blogs/recipes/quiet-storm
+    notes: |+2
+      "The Quiet Storm is a reverse manhattan, meaning that the base is sweet vermouth and the modifier is scotch. The flavors of the drink were inspired by a rhubarb tart: The vermouth brings notes of vanilla, cinnamon, and cardamom, as well as a juiciness that boosts the rhubarb liqueur. The duo of whiskies rounds out the cocktails: Jura adds a toasty flavor reminiscent of a tart shell, while the smoky Islay scotch acts like a sprinkle of smoked salt on top of the dessert, giving it a hit of smokiness and a touch of salinity that ties all of the flavors together. " —TE
+    glassware: nick & nora
+    ingredients:
+    - 1½ ounces Cocchi Vermouth di Torino 
+    - 1 ounce Jura 10-year single-malt scotch
+    - ½ ounce Giffard rhubarb liqueur
+    - 1 teaspoon Port Charlotte 10-year Islay single-malt scotch
+    - 1 dash celery bitters 
+    steps:
+    - Stir all the ingredients with ice, then strain into a chilled Nick & Nora glass. 
+    - No garnish.
+    tags:
+    - death & co
+    - stirred
+    - manhattan
+  - name: Old Sedona
+    author: Frank Walline
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/old-sedona
+    notes: |+2
+      "Old Sedona was my first contribution to Death and Co, and my goal was to make a very spirit-forward (yet approachable) stirred mezcal cocktail. It was heavily inspired by Alex Day's La Viña (an equal-parts blend of rye, amaro, and sherry), which I love for its bright raisiny and orange-y profile, and the OG Black Manhattan (rye and amaro). The biggest challenge was finding a proper second spirit and amaro to stand up to the mezcal, and the combination of Brandy de Jerez and Averna worked very well. (At home, you can substitute your favorite armagnac or cognac if you can't find Brandy de Jerez.) Perhaps my favorite aspect about Old Sedona is that even though the mezcal is the star of the show, the East India sherry is able to shine through and add a lot of complexity and rich fruity notes. " —FW
+    glassware: nick & nora
+    ingredients:
+    - 1½ ounces Rey Campero Espadin mezcal
+    - ½ ounce Lustau Brandy de Jerez
+    - ½ ounce Lustau East India Solera sherry
+    - ½ ounce Averna amaro
+    - 2 dashes orange bitters
+    - "Garnish: 1 orange twist"
+    steps:
+    - Stir all the ingredients with ice, then strain into a chilled Nick & Nora glass. 
+    - Express the orange twist over the drink, then place it in the drink.
+    tags:
+    - death & co
+    - 
+  - name: Hybrid Theory
+    author: Alexander Ali
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/hybrid-theory
+    notes: |+2
+      "This old fashioned-style drink was inspired by ginger and macadamia shortbread. In the cocktail, the macadamia orgeat is the nutty sweetener while shochu adds a touch of malt and gingery spice. The Louis Roque Prune Brandy—a rich and juicy distillate made from three varieties of French plums that’s then aged for 5 years in French oak—brings a bit of nutty marzipan and stewed fruit flavors. The addition of a Mexican Fernet Vallet adds a dry bitter and herbal undertone to help soften the other rich ingredients and to create a well-balanced drink." —AA
+    glassware: rocks
+    ingredients:
+    - 1¼ ounces Elijah Craig bourbon
+    - ½ ounce Louis Roque Vieille prune brandy
+    - ¼ ounce Rihei ginger shochu
+    - 1 teaspoon Royal Valley Fernet-Vallet
+    - 1 teaspoon macadamia nut orgeat (we use Orgeat Works brand)
+    steps:
+    - Stir all the ingredients with ice, then strain into a double old-fashioned glass over 1 large ice cube. 
+    - No garnish.
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+  - name: Kingfisher
+    author: Thomas Eslinger
+    year: 2022
+    url: https://www.deathandcompanymarket.com/blogs/recipes/kingfisher
+    notes: |+2
+      "Coffee is one of my favorite ingredients to use in cocktails because it pairs with so many ingredients and flavors that people don’t expect—in this case tropical fruit like pineapple and banana. The Kingfisher is a play on the classic Jungle Bird where the coffee amaro replaces the usual Campari. Coffee brings a bitterness to cocktails that can be used to balance out much sweeter ingredients, so here it helps to unite a very rich banana puree and fresh pineapple juice with the deeper flavors of the blackstrap and Trinidadian rums." —TE
+    glassware: 
+    ingredients:
+    - 1 ounce Scarlet Ibis Trinidad rum
+    - ½ ounce Cruzan blackstrap rum
+    - ½ ounce J Rieger Caffè Amaro
+    - 1 ounce Perfect Puree banana puree (or mash or blend slightly ripe bananas)
+    - ½ ounce pineapple juice
+    - ½ ounce fresh lime juice
+    - ½ ounce Cane Sugar Syrup (2:1)
+    - "Garnish: 1 orchid and pineapple fronds"
+    steps:
+    - Combine all the ingredients in a shaker and whip, shaking with a few pieces of crushed ice, just until incorporated, then dump into a cocktail mug or pilsner glass and fill the glass with crushed ice. 
+    - Garnish with the orchid and pineapple fronds and serve with a straw.
+    tags:
+    - death & co
+    - shaken
+    - citrus
+    - tiki
+  - name: Domino (Batched)
+    author: Matthew Belanger
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/domino
+    notes: |+2
+      "This drink was very much inspired by the delicate floral quality of the Roku gin. It’s slightly boozier than a 50-50 martini but the juiciness of the Lillet Rosé helps keep it balanced and crushable and approachable—a good crowd-pleasing, easily scalable martini that should appeal both to the diehards and the martini-curious." —MB
+
+      Makes 4 drinks.
+    glassware: martini
+    ingredients:
+    - 6 ounces Suntory Roku Gin
+    - 6 ounces Lillet rosé
+    - 2 ounces Clear Creek pear brandy
+    - ½ ounce plus 1 teaspoon Luxardo maraschino liqueur
+    - 4 dashes grapefruit bitters
+    - Garnish: 4 grapefruit twists
+    steps:
+    - Fill a pitcher with ice cubes and add the remaining ingredients. 
+    - Stir until very cold, then strain into 4 chilled martini glasses. 
+    - Express a grapefruit twist over each drink and discard.
+    tags:
+    - death & co
+    - stirred
+    - martini
+  - name: Achilles Last Stand
+    author: Alexander Ali
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/achilles-last-stand
+    notes: |+2
+      "This drink, named for one of my favorite Led Zeppelin songs, started by fusing a Manhattan and a Negroni together. I wanted to create a cocktail that could be enjoyed by several types of palates as well as help introduce people to armagnac. I used flavors that were rich but light enough to be enjoyed on a warm spring evening: roasted agave notes from an espadín mezcal; rich stewed fruit notes from the madeira and sweet vermouth; and a touch of bitter minty spices found in the St. Agrestis Amaro. If I had to choose one final cocktail for my last stand, it would be this." —AS
+    glassware: nick & nora
+    ingredients:
+    - 1 ounce Mal Bien espadin mezcal 
+    - ½ ounce Pellehaut Reserve armagnac 
+    - ½ ounce rainwater madeira 
+    - ½ ounce St. Agrestis amaro 
+    - ½ ounce Cocchi Vermouth di Torino 
+    - "Garnish: 1 lemon twist"
+    steps:
+    - Stir all the ingredients with ice, then strain into a chilled Nick & Nora glass. 
+    - Express the lemon twist over the drink and discard.
+    tags:
+    - death & co
+    - stirred
+    - manhattan
+  - name: Rhythm Rug
+    author: Alexander Ali
+    year: 2022
+    url: https://www.deathandcompanymarket.com/blogs/recipes/rhythm-rug
+    notes: |+2
+      "Warm, savory and bitter spices shine through in this Old Pal variation that takes inspiration from the flavors of Persian tea. Rhum JM VSOP is the savory rich agricole base that complements the warm baking-spice flavors of cardamom, saffron, and cinnamon found in Amaro Della Sacra and Strega. Singani 63, an un-aged Bolivian grape brandy, adds a subtle floral undertone. The name of the drink—a nod to A Tribe Called Quest’s seminal “Can I Kick It?”—fuses my love for dark, bitter, and boozy cocktails with 90’s hip-hop." —AA
+    glassware: rocks
+    ingredients:
+    - 1¼ ounces Rhum J.M. VSOP rhum agricole
+    - ¼ ounce Singani 63 brandy 
+    - ¾ ounce Dolin dry vermouth
+    - ½ ounce Antica Torino Amaro Della Sacra 
+    - ½ teaspoon Strega liqueur 
+    - "Garnish: 1 orange twist"
+    steps:
+    - Stir all the ingredients over ice, then strain into a double old-fashioned glass over 1 large ice cube. 
+    - Express the orange twist over the drink, then place it in the drink.
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+  - name: Parade Lap
+    author: Javelle Taft
+    year: 2022
+    url: https://www.deathandcompanymarket.com/blogs/recipes/parade-lap
+    notes: |+2
+      "This is a variation of the Chrysanthemum, a famous slow-ABV cocktail made with dry vermouth, Benedictine, and absinthe. I wanted to add a more interesting fortified element, so swapping out the vermouth for marsala—an Italian fortified wine that’s not used nearly enough in cocktails—was the trick. I love having one of these for an after-dinner snack: marsala layered with hazelnut and chocolate flavors double down on what I imagine a liquid treat to be." —JT
+    glassware: rocks
+    ingredients:
+    - 2¼ ounces Ostinato Dolce Marsala
+    - ¼ ounce Reisetbauer Hazelnut eau de vie
+    - 1 teaspoon Marie Brizard Crème de Cacao 
+    - 1 dash absinthe
+    - "Garnish: 1 lemon twist"
+    steps:
+    - Stir all the ingredients with ice, then strain into a single old-fashioned glass. 
+    - Express the lemon twist over the drink and discard.
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+  - name: Disco Tiger
+    author: Jonnie Long
+    year: 2022
+    url: https://www.deathandcompanymarket.com/blogs/recipes/disco-tiger
+    notes: |+2
+      One of our most-requested recipes is Jonnie Long’s Disco Tiger, a fresh and fruity vodka sour that follows the Cosmopolitan template, with a base of citrusy vodka combined with a fruity liqueur and a bitter red component (here Cappelletti Aperitivo instead of cranberry juice). When it debuted at Death & Co Denver in 2022, the drink was such a hit that it inspired a beer collaboration with local brewery 4 Noses. 
+    glassware: rocks
+    ingredients:
+    - 1¼ ounces Hangar 1 Buddha's Hand Citron vodka
+    - ½ ounce Aelred Melon L'Aperitif Liqueur
+    - ¼ ounce Cappelletti Aperitivo
+    - ¾ ounce fresh lemon juice
+    - ½ ounce vanilla syrup
+    - "Garnish: 1 lemon wheel"
+    steps:
+    - Shake all the ingredients with ice, then strain into a double old-fashioned glass over 1 large ice cube. 
+    - Garnish with the lemon wheel. 
+    tags:
+    - death & co
+    - shaken
+    - citrus
+  - name: Mr. Mojo Rising
+    author: Kanayda Fierro
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/mr-mojo-rising
+    notes: |+2
+      We’re lucky enough to work with some of the world’s best distilleries on special bottlings and barrel selections to bring exclusive spirits into many of our cocktails. Kanayda Fierro’s Mr. Mojo Rising highlights one of these collaborations: Copalli Death & Co Cask Selection Rum, which is made in Belize from a native variety of sustainably grown organic sugarcane. We love how this rum lends both its bright sugarcane notes (it’s made in a similar fashion as rhum agricole) and the warming spices and cocoa flavors it picks up from resting in ex-bourbon barrels, which makes it a natural pairing for rye in the base of Kanayda’s basil- and peach-accented old-fashioned, the perfect drink for late summer. And while you’ll only find our special bottling of Copalli behind our bars, you can pick up their barrel-rested rum at your local liquor store or order it online.
+    glassware: rocks
+    ingredients:
+    - 1 ounce Knob Creek 100-proof rye whiskey
+    - ½ ounce Copalli x Death & Co Cask Selection Rum
+    - ½ ounce St. George Spirits basil eau-de-vie
+    - ½ teaspoon Giffard Crème de Pêche de Vigne
+    - 1 teaspoon Cane Sugar syrup (2:1)
+    - 1 dash Angostura bitters
+    - "Garnish: 1 lemon coin"
+    steps:
+    - Stir all the ingredients with ice, then strain into a single old-fashioned glass over 1 large ice cube. 
+    - Garnish with the lemon coin.
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+  - name: Hazards of Love
+    author: Mike Perez
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/hazards-of-love
+    notes: |+2
+      "This cocktail is inspired by the classic Mexican Firing Squad, which itself is built like a tequila collins. My interpretation focuses more on vegetal notes with the addition of muddled, cucumber, absinthe, and a touch of pear brandy to help push the concept while keeping it fresh and slightly dry. Together, the mezcal and green chile vodka add spice and a very green flavor profile along with our house grenadine to keep it close to the original cocktail." —MP
+    glassware: tiki mug
+    ingredients:
+    - 1 ounce Del Maguey Chichicapa mezcal
+    - ¾ ounce St. George Spirits green chile vodka
+    - ¼ ounce Clear Creek pear brandy
+    - ¾ ounce grenadine
+    - ¾ ounce fresh lime juice
+    - 3 cucumber slices 
+    - 2 dashes Absinthe
+    steps:
+    - Shake all the ingredients with ice, then double strain into a cocktail mug or Collins glass.
+    - Fill the glass with crushed ice and garnish with the cucumber slices. 
+    - Serve with a straw.
+    tags:
+    - death & co
+    - shaken
+    - citrus
+    - margarita
+  - name: Stratocaster
+    author: Edwin Rios
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/stratocaster
+    notes: |+2
+      "This was a fun, ironic cocktail that I was kinda surprised to get greenlit. I enjoy a pickled cocktail onions with a dirty martini since the rich fattines of the olive brine gets cut with the acidity of the pickle. This got me thinking of the elements of cooking—salt, heat, fat, acid—and that Gibsons essentially are the ultimate test of ‘cold cooking’ in cocktails. Figuring out how to balance all these variables in the singular drink and making it consistent all the time is what made me go with a Freezer Bar martini route in lieu of stirring it. The colder it is (heat) the more body and texture the cocktail will have; the sherry brings a crisp salinity (salt) and bright minerality that aided the vinegar; rice wine vinegar had a better taste and since it's not super acidic made for a refreshing way to not overwhelm your palate when enjoying the cocktail (acid). Honestly I can go on forever on this one since I got to nerd out and used the most from my culinary background on this cocktail." —ER
+    glassware: nick & nora
+    ingredients:
+    - 1 ounce Botanist Islay dry gin
+    - 1 ounce Ahus aquavit
+    - ½ ounce Dolin Blanc vermouth
+    - ½ ounce Sanchez Romate fino sherry
+    - 1 teaspoon Mathilde Poire pear liqueur
+    - 2 teaspoons cocktail onion brine
+    - "Garnish: 1 cocktail onion"
+    steps:
+    - Stir all the ingredients with ice, then strain into a chilled Nick & Nora glass. 
+    - Garnish with the cocktail onion. 
+    tags:
+    - death & co
+    - stirred
+    - martini
+  - name: Bayonet
+    author: Jake Powell
+    year: 2021
+    url: https://www.deathandcompanymarket.com/blogs/recipes/bayonet
+    notes: |+2
+      Jake Powell’s apricot- and apple-inflected cocktail is hard to dissect. It looks like an Old-Fashioned—served in a rocks glass over a large ice cube with an orange twist—but is built like a Manhattan variation, with a split base of Cognac, Calvados, and apricot eau de vie plus sweet vermouth and the bitter artichoke-y notes of Cynar. Whatever you want to call it, this uniquely built cocktail is approachable yet deliciously complex. 
+    glassware: rocks
+    ingredients:
+    - ¾ ounce Hine Cognac
+    - ½ ounce Roger Groult Calvados
+    - ½ ounce Blume Marillen Apricot Eau de Vie
+    - ½ ounce Cynar
+    - ¾ ounce Cocchi Vermouth di Torino
+    - "Garnish: 1 orange twist"
+    steps:
+    - Stir all the ingredients with ice, then strain into a double old-fashioned glass over 1 large ice cube. 
+    - Garnish with the orange twist.
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+  - name: Forgive & Forget
+    author: Lucas Thacker
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/forgive-forget
+    notes: |+2
+      "Forgive & Forget was my take on a fall margarita. Growing up, pears were my favorite fruit and ripe pears were always a sign of the oncoming fall. I wanted to create something that would be crisp and bright, but still have autumnal flavors. Spiced pear liqueur brings warm poached pear and baking spices to the drink, while blanche Armagnac and tequila keeps it fresh and playful." —LT
+    glassware: rocks
+    ingredients:
+    - Lime wedge
+    - Black sea salt
+    - 1½ ounces Arette blanco tequila
+    - ½ ounce Delord Blanche Armagnac
+    - ½ ounce St. George Spirits spiced pear liqueur
+    - ¾ ounce fresh lime juice
+    - ½ ounce Cane Sugar Syrup (2:1)
+    - 1 dash Salt Solution
+    - "Garnish: 1 lime wheel"
+    steps:
+    - Rub the lime wedge along the upper inch of a double old-fashioned glass, halfway around the circumference, then roll the wet portion in the salt. 
+    - Put 1 large ice cube in the glass. 
+    - Shake the remaining ingredients with ice, then strain into the prepared glass. 
+    - Garnish with the lime wheel. 
+    - Wet the rim of a double old-fashioned glass and roll it in the salt.
+    - Shake all the ingredients with ice, then strain into a double old-fashioned glass over one large ice cube. 
+    tags:
+    - death & co
+    - shaken
+    - citrus
+    - margarita
+    - autumn
+  - name: Police & Thieves
+    author: Mike Perez
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/police-thieves
+    notes: |+2
+      "This drink is a simple-yet-fun take on a rum Negroni. When working on this cocktail I wanted to revisit the idea of pairing rum and black figs together. I had done so in the past and it was a fun concept! When discussing this idea with Matthew Belanger, he suggested tasting a newer expression of Brucato Amaro called Woodlands. I immediately knew this was the ticket to the black fig profile I needed without the mess of making a syrup or infusion. Papalin 7-year Jamaican rum is a steady player in our repertoire and this time it’s paired with Lustau East India Solera sherry, which helps push the raisin, dates, and chocolate flavors of the amaro. A small touch of crème de cacao keeps the drink well rounded and not too bitter." —MP
+    glassware: rocks
+    ingredients:
+    - 1 ounce Papalin 7-year Jamaican rum
+    - 1 ounce Lustau East India solera sherry
+    - ¾ ounce Brucato Woodlands Amaro
+    - ¼ ounce Marie Brizard white crème de cacao
+    - "Garnish: 1 orange twist"
+    steps:
+    - Stir all the ingredients with ice, then strain into a double old-fashioned glass over 1 large ice cube. 
+    - Garnish with the orange twist.
+    tags:
+    - death & co
+    - stirred
+    - negroni
+  - name: Folk Hero
+    author: Jake Powell
+    year: 2024
+    url: https://www.deathandcompanymarket.com/blogs/recipes/folk-hero
+    notes: |+2
+      "This old-fashioned was born out of a previous drink I created that never really worked out the way I planned. This is what I always wished that one would be. The split base of rye and apple brandy is a traditional combination usually denoted by the word “harvest” in the drink’s name (Harvest Old Fashioned, Harvest Sour, etc.). I’ve always been obsessed with the idea of folk heroes—people like John Henry and Paul Bunyan who were famous by word of mouth, and whose feats were often exaggerated to the point of myth. I always joke around that Evel Knievel was "the last American folk hero" and I like to think this drink is an homage to him." —JP
+    glassware: rocks
+    ingredients:
+    - ¾ ounce Laird's bottled-in-bond apple brandy
+    - ¾ ounce Wild Turkey 101 rye
+    - 1 teaspoon Linie aquavit
+    - 1 teaspoon Amaro Nonino
+    - 1 teaspoon Benedictine
+    - 1 teaspoon Honey Syrup (2:1)
+    - 1 dash Angostura Bitters
+    - "Garnish: 1 lemon twist"
+    steps:
+    - Stir all the ingredients with ice, then strain into a single old-fashioned glass over 1 large ice cube. 
+    - Garnish with the lemon twist.
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+  - name: Honshu Underground
+    author: Matthew Belanger
+    year: 2024
+    url: https://www.deathandcompanymarket.com/blogs/recipes/honshu-underground
+    notes: |+2
+      "Honshu Underground was inspired by a classic Death & Co cocktail—the Honshu Punch—that featured single malt Japanese Whiskey, lemon and pineapple. Here I was trying to bring in a bit more of a Japanese culinary angle by pairing the Hibiki Harmony with yuzu in the form of a shochu-based yuzu liqueur. Additionally, the blend for Hibiki Harmony includes some whiskeys aged in Mizunara oak casks, a very rare and expensive Japanese oak that is often described as having an aroma reminiscent of sandalwood incense. So the sandalwood essence, along with the addition of a little heavily peated Scotch, was an attempt to accentuate that quality of the whiskey in the final drink—the almost coconutty, quality of those flavors helps balance the astringency and florality of the yuzu." —MB
+    glassware: coupe
+    ingredients:
+    - 1¼ ounces Hibiki Harmony Japanese whisky
+    - ¾ ounce Masumi Yuzushu yuzu liqueur
+    - ¼ ounce Port Charlotte Heavily Peated Islay single malt scotch
+    - ¾ ounce fresh pineapple juice
+    - ½ ounce fresh lemon juice
+    - ½ ounce Vanilla Syrup
+    - 1 dash Angostura bitters
+    - 1 drop Sandalwood Essence (1 drop sandalwood essential oil mixed with 10 drops Port Charlotte or another high-proof spirit)
+    steps:
+    - Shake all the ingredients with ice, then strain into a chilled coupe. 
+    - No garnish.
+    tags:
+    - death & co
+    - shaken
+    - citrus
+  - name: Velvet Jumpsuit
+    author: Trevor Shores
+    year: 2024
+    url: https://www.deathandcompanymarket.com/blogs/recipes/velvet-jumpsuit
+    notes: |+2
+      "I wanted to create an approachable vodka martini and thought that a stirred version of a lychee martini would be a fun callback to the 1990's era of cocktails. Ketel One vodka makes a silky-smooth martini base, with St. George’s citrus vodka adding juicy notes. Dolin blanc vermouth might be the real star here, though, as it brings all the depth that a martini needs. A touch of cachaça adds a grassy note, and the lychee liqueur adds a touch of sweetness that you'd find in the 90's-style drinks. A lemon twist is a must, as its oils help bring a more rounded citrus flavor." —TS
+    glassware: nick & nora
+    ingredients:
+    - 1 ounce Ketel One vodka
+    - ½ ounce St. George Spirits California Citrus vodka
+    - ¼ ounce Novo Fogo Silver cachaça
+    - 1 ounce Dolin blanc vermouth
+    - ½ ounce Giffard Lichi-Li lychee liqueur
+    - "Garnish: 1 lemon twist"
+    steps:
+    - Stir all the ingredients with ice, then strain into a chilled Nick & Nora glass. 
+    - Express the lemon twist over the drink, then add it to the glass.
+    tags:
+    - death & co
+    - stirred
+    - martini
+  - name: Desert Cruiser
+    author: Courtney Sheehan
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/desert-cruiser
+    notes: |+2
+      "This drink was inspired by family vacations to Mexico and driving around in a golf cart on Isla Mujeres off the coast of Cancun. Working from an assignment to develop an “agave old-fashioned,” I knew I wanted to use mezcal and add sotol (another Mexican spirit made from the desert spoon plant) for its vegetal, grassy, earthy notes. I played around with many infusions into the mezcal, but found the Vago Elote mezcal to be the most beneficial to the cocktail not only in flavor, but also for longevity of the D&C compendium. I also wanted a fruit component: giffard caribbean pineapple fit perfectly, as pineapple is my favorite fruit to eat in Mexico, and it compliments the cocktail with its carribean spice notes. The result is funky agave old-fashioned that’s approachable to new drinkers of mezcal and sotol alike. I’m a huge mezcal drinker, but have only used it in shaken cocktails, so this was an amazing-yet-challenging first cocktail to write for Death & Co!" —CS
+    glassware: rocks
+    ingredients:
+    - 1 ounce Mezcal Vago Elote
+    - ½ ounce Chihuahuan Desert sotol
+    - ¼ ounce Novo Fogo Tanager cachaça
+    - ¼ ounce Giffard Caribbean Pineapple liqueur
+    - 1 teaspoon Honey Syrup (2:1)
+    - "Garnish: 1 grapefruit twist" 
+    steps:
+    - Stir all the ingredients with ice, then strain into a single old-fashioned glass over 1 large ice cube. 
+    - Garnish with the grapefruit twist.
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+  - name: Bog Cutter
+    author: Jake Powell
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/bog-cutter
+    notes: |+2
+      "This drink is really more of a mai tai than a fog cutter riff, but it does combine rum, gin, and an orange element (Averna), so it felt close enough to justify the name. I love the combination of banana, Averna, and funky rum, so this cocktail was really a selfish endeavor." —JP
+    glassware: tulip
+    ingredients:
+    - 1½ ounces Denizen Vatted dark rum
+    - ¼ ounce Four Pillars Navy Strength gin
+    - ¼ ounce Wray & Nephew rum
+    - ½ ounce Averna Amaro
+    - ¼ ounce Tempus Fugit Crème de Banane banana liqueur 
+    - ¼ ounce Cinnamon Syrup
+    - ½ ounce orgeat
+    - 1 ounce fresh lemon juice
+    - Garnish: 1 mint bouquet and 1 cinnamon stick
+    steps:
+    - Combine all the ingredients in a shaker and whip, shaking with a few pieces of crushed ice, just until incorporated. 
+    - Dump into a tulip glass (or cocktail mug) and fill the glass with crushed ice. 
+    - Garnish with the mint bouquet and grate some cinnamon over the drink. 
+    - Serve with a straw.
+    tags:
+    - death & co
+    - shaken
+    - citrus
+    - tiki
+  - name: Unbreakable Diamond
+    author: Raven Mina
+    year: 2024
+    url: https://www.deathandcompanymarket.com/blogs/recipes/unbreakable-diamond
+    notes: |+2
+      "The Unbreakable Diamond was born from a dish I discovered at a local restaurant: pickled tomatoes in plum vinegar. After tasting them, I knew I had to create a martini inspired by that unique flavor. It’s definitely one of the more unconventional cocktails I’ve crafted, but I’m thrilled with how well-balanced it turned out. I started with Moletto gin, which has a natural tomato note that really shines through. To soften it a bit, I added Fords gin for a smoother base. For the plum element, I incorporated a touch of umeshu plum wine and a dash of umeboshi vinegar. The blanc vermouth helps round out the flavor, while the rice vinegar adds a final layer of complexity. The real secret, though, lies in the garnish: the pickled green tomato. It’s a surprising treat at the end of the drink and really ties everything together." —RM
+    glassware: nick & nora
+    ingredients:
+    - 1 ounce Dolin blanc vermouth
+    - 1 ounce Moletto tomato gin
+    - ½ ounce Fords Gin
+    - ½ ounce Kamoizumi Umeshu plum wine
+    - ½ teaspoon unseasoned rice vinegar
+    - 1 dash ume plum (umeboshi) vinegar
+    - 1 dash absinthe
+    - "Garnish: Pickled green tomato (we use Old South Tomolive brand)"
+    steps:
+    - Stir all the ingredients with ice, then strain into a chilled Nick & Nora glass. 
+    - Garnish with the pickled tomato.
+    tags:
+    - death & co
+    - stirred
+    - martini
+  - name: Vizier's Tale
+    author: John Sinclair
+    year: 2024
+    url: https://www.deathandcompanymarket.com/blogs/recipes/viziers-tale
+    notes: |+2
+      "The Vizier’s Tale started with an ongoing quest of mine to pair cocktails with art, specifically Rimsky-Korsakov’s “Scheherazade.” I fell in love with the soaring violin theme that opens the second movement, which was in turn inspired by a character from One Thousand and One Nights—Scheherazade herself, the storyteller framing the narrative. Her story is one of purity, wit, and resilience in the face of the bitter, resentful king, so I aimed to incorporate that duality into the balance of the drink. The orange and iris petal of Caravedo Torontel pisco pair with Sauternes—a vibrant French dessert wine with delicate honeysuckle notes—to capture the airy elegance of her character and musical theme. Bonal, Salers, and Campari play the role of the king, threatening to take over with their intense, gentian-forward bitterness. I love how it evokes the essence of the story: the bitter finish entices me back to the bright bouquet, so I just can’t put it down." —JS
+    glassware: rocks
+    ingredients:
+    - 1¼ ounces Caravedo Pisco Puro Torontel
+    - ¾ ounce Salers aperitif
+    - ½ ounce Bonal Gentiane-Quina
+    - ½ ounce Château La Croix de la Martingue Sauternes
+    - ¼ ounce Campari 
+    - "Garnish: 1 orange half wheel" 
+    steps:
+    - Stir all the ingredients with ice, then strain into a double old-fashioned glass over 1 large ice cube. 
+    - Garnish with the orange.
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+  - name: Tears of Gold
+    author: Jesse Sherman
+    year: 2024
+    url: https://www.deathandcompanymarket.com/blogs/recipes/tears-of-gold
+    notes: |+2
+      "Tears of Gold is a blend of two caffeinated classics, the espresso martini and the carajillo (a Spanish drink made with espresso and Licor 43). I designed it to be a lighter, more approachable variation of an espresso-based cocktail. For the base spirit, I chose reposado tequila for its warm caramel notes, which beautifully complement the vanilla-forward sweetness of Licor 43. Grappa serves as the bridge, harmonizing these flavors while adding depth and an unexpected elegant touch. And a dash of mole bitters brings the drink to a perfect finish, rounding out the profile with subtle spice and complexity." —JS
+    glassware: coupe
+    ingredients:
+    - 1¼ ounces Don Fulano reposado tequila
+    - ½ ounce Licor 43
+    - ¼ ounce Galliano Ristretto espresso liqueur
+    - ¼ ounce Nardini three-year grappa
+    - 1 ounce cold brew concentrate
+    - ¼ ounce Demerara Syrup (2:1)
+    - 1 dash Bittermens Xocolatl Molè bitters
+    steps:
+    - Shake all the ingredients with ice, then strain into a chilled coupe. 
+    - No garnish.
+    tags:
+    - death & co
+    - shaken
+    - caffeinated
+  - name: Crimson Art
+    author: Raven Mira
+    year: 2023
+    url: https://www.deathandcompanymarket.com/blogs/recipes/crimson-art
+    notes: |+2
+      "The Crimson Art is a riff on the Pink Lady, a classic cocktail made with gin, applejack, and grenadine that was historically miscast as a ‘girly drink,’ but which is actually quite complex and not the least bit dainty. When creating my adaptation, I wanted to invoke something festive for the holiday season. I’ve always liked the punchy, pine-y flavor profile of St. George Terroir Gin, so I started developing with that and cranberry in mind, using calvados in place of applejack, cranberry liqueur instead of grenadine, and a touch of Lazzaroni Amaretto, an Italian liqueur infused with the almond and apricot flavors of the company’s famous Amaretti Di Saronno cookies. I'm really happy with how this cocktail turned out: one sip and I can practically hear the sleigh bells ringing." —RM
+    glassware: coupe
+    ingredients:
+    - 1 ounce St. George Terroir Gin
+    - ½ ounce Busnel Calvados
+    - ½ ounce Clear Creek cranberry liqueur
+    - ¼ ounce Lazzaroni Amaretto
+    - ¾ ounce fresh lemon juice
+    - ¼ ounce simple syrup (1:1)
+    - 1 egg white
+    - 1 dash orange bitters
+    - "Garnish: 1 rosemary sprig"
+    steps:
+    - Dry shake all the ingredients, then shake again with ice. 
+    - Double strain into a chilled coupe. 
+    - Garnish with the rosemary sprig.
+    tags:
+    - death & co
+    - shaken
+    - citrus
+    - winter
+  - name: Exit Music
+    author: Matthew Belanger
+    year: 2025
+    url: https://www.deathandcompanymarket.com/blogs/recipes/exit-music
+    notes: |+2
+      Making great nonalcoholic cocktails often requires more development and prep work than their boozy brethren. That’s not the case with Exit Music, an NA Negroni crafted entirely from four off-the-shelf ingredients. Ritual’s Zero Proof Gin Alternative and Lyre’s Pink London Spirit combine to make a close approximation of gin, while Giffard’s Sirop Aperitif and Martini & Rossi’s Vibrante NA L'Aperitivo combine to add the citrus and botanical profiles that Campari and sweet vermouth usually provide.
+    glassware: double rocks
+    ingredients:
+    - 1 ounce Giffard Sirop Aperitif
+    - 1 ounce Martini & Rossi Vibrante NA L'Aperitivo
+    - ¾ ounce Ritual Zero Proof Gin Alternative
+    - ¾ ounce Lyre's Pink London Spirit
+    - "Garnish: 1 grapefruit or orange half wheel"
+    steps:
+    - Stir all the ingredients over ice, then strain into a double old-fashioned glass over 1 large ice cube. 
+    - Garnish with the grapefruit half wheel. 
+    tags:
+    - death & co
+    - n/a
+    - stirred
+    - negroni
+  - name: Pineapple Express
+    author: Matthew Belanger
+    year: 2025
+    url: https://www.deathandcompanymarket.com/blogs/recipes/pineapple-express
+    notes: |+2
+      The recent proliferation of nonalcoholic proxy ingredients has made it easier for us to make drinks that are as complex as their fully proofed counterparts. In this new addition to our 2025 Dry January offerings, Matthew Belanger uses NA tequila, NA coffee liquor and Seedlip’s aromatic Spice 94 to mimic the flavors of the ever-popular espresso martini, with some added body from pineapple juice.
+    glassware: coupe
+    ingredients:
+    - ¾ ounce Seedlip Spice 94
+    - ¾ ounce Ritual Zero Proof Tequila
+    - 1 ounce Lyre's Coffee Originale NA coffee liqueur
+    - 1 ounce cold brew concentrate
+    - 1 ounce pineapple juice
+    - ½ ounce Demerara Syrup
+    - "Garnish: 1 pineapple slice"
+    steps:
+    - Shake all the ingredients with ice, then strain into a chilled coupe. 
+    - Garnish with the pineapple slice.
+    tags:
+    - death & co
+    - shaken
+    - citrus
+    - caffeinated
+    - n/a
+  - name: 
+    author: 
+    year: 
+    url: 
+    notes: |+2
+      
+    glassware: coupe
+    ingredients:
+    - 
+    steps:
+    - 
+    tags:
+    - death & co
+    - 

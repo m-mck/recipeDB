@@ -92,3 +92,22 @@ recipes:
     - martini
     - stirred
     - freezer bar
+  - name: Jack Rose
+    year: 2024
+    url: https://archive.is/TKkCm#selection-2785.0-2792.0
+    author: Brian Miller
+    glassware: nick & nora
+    ingredients:
+    - 2 ounces Laird’s Bonded Apple Brandy
+    - ½ ounce fresh lemon juice
+    - ½ ounce fresh lime juice
+    - ½ ounce grenadine (1½ cups POM Wonderful pomegranate juice & 1 cup turbinado sugar, combined over low heat and stirred until sugar has dissolved)
+    - ¼ ounce simple syrup
+    - ¼ ounce Crème de Framboise
+    steps:
+    - In a shaker half-filled with ice, combine ingredients. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe.
+    tags:
+    - shaken
+    - citrus

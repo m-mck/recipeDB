@@ -1021,31 +1021,6 @@ recipes:
   - shaken
   - citrus
   - gimlet
-- name: Celery Gimlet
-  author: Naren Young
-  url: https://punchdrink.com/recipes/celery-gimlet/
-  notes: |+2
-      Naren Young of Dante has taken the classic Gimlet formula and turned it on its head, packing it with vegetal, herbal and fruit notes by way of a juniper- and citrus-forward gin (“like Fords, Beefeater, Tanqueray and Junipero”), green Chartreuse and celery juice.
-  glassware: rocks
-  ingredients: 
-  - 1 1/2 ounces gin
-  - 1/4 ounce green Chartreuse
-  - 1/4 ounce St. Germain
-  - 3/4 ounce lime juice
-  - 1/2 ounce lime syrup
-  - 1/2 ounce celery juice
-  - 5 dashes verjus
-  - 2 dashes celery bitters
-  - pinch of Maldon salt
-  - "Garnish: celery stick and lime wheel"
-  steps:
-  - Add all ingredients to a cocktail shaker.
-  - Shake and strain on fresh ice into a rocks glass.
-  - Garnish with a celery stick and a lime wheel.
-  tags:
-  - shaken
-  - citrus
-  - dante
 - name: Roquette
   author: Matthew Biancaniello
   url: https://punchdrink.com/recipes/roquette/
@@ -4812,7 +4787,7 @@ recipes:
   author: Zac Overman
   url: https://punchdrink.com/recipes/zac-overmans-picon-punch/
   notes: |+2
-      Picon Punch is a California drink dating back to the late 19th century that was adopted by Basque American communities across the Western U.S. At Bar Bayonne, beverage director Zac Overman values the drink’s food friendliness and takes it in a spritzy direction by replacing the traditional soda with cava.
+      Picon Punch is a California drink dating back to the late 19th century that was adopted by Basque American communities across the Western U.S. At Bar Bayonne, beverage director Zac Overman values the drink's food friendliness and takes it in a spritzy direction by replacing the traditional soda with cava.
   glassware: rocks
   ingredients: 
   - 1 ounce House Picon
@@ -4832,7 +4807,7 @@ recipes:
   author: Andrew Meltzer
   url: https://punchdrink.com/recipes/picon-punch/
   notes: |+2
-      San Francisco’s 15 Romolo is housed in a building erected in 1912, which served as a Basque family restaurant from the 1940s until the 1990s. Neighbors that once frequented the restaurant will stop into 15 Romolo for a Picon Punch, known as “the National drink of the Basques,” which is based on the obscure French orange bitter, Amer Picon. Because Amer Picon is no longer commercially available, bartender Andrew Meltzer created his own version using Ramazzotti amaro, orange curaçao and gentian liqueur.
+      San Francisco's 15 Romolo is housed in a building erected in 1912, which served as a Basque family restaurant from the 1940s until the 1990s. Neighbors that once frequented the restaurant will stop into 15 Romolo for a Picon Punch, known as “the National drink of the Basques,” which is based on the obscure French orange bitter, Amer Picon. Because Amer Picon is no longer commercially available, bartender Andrew Meltzer created his own version using Ramazzotti amaro, orange curaçao and gentian liqueur.
   glassware: irish coffee mug
   ingredients: 
   - 1 1/2 ounce Basque Picon
@@ -4870,7 +4845,7 @@ recipes:
   author: Brandon Ristaino
   url: https://punchdrink.com/recipes/strange-beast-old-fashioned/
   notes: |+2
-      The house Old-Fashioned at Santa Barbara’s Strange Beast takes a tropical turn. Built on a split base of Japanese whisky and pandan-infused aged Bajan rum, the drink gets the addition of a housemade banana peel and pandan syrup, plus a few dashes of both Angostura bitters and macadamia nut liqueur, for a crowd-pleasing take on the classic.
+      The house Old-Fashioned at Santa Barbara's Strange Beast takes a tropical turn. Built on a split base of Japanese whisky and pandan-infused aged Bajan rum, the drink gets the addition of a housemade banana peel and pandan syrup, plus a few dashes of both Angostura bitters and macadamia nut liqueur, for a crowd-pleasing take on the classic.
   glassware: double rocks
   ingredients: 
   - 1 1/2 ounces Japanese whisky, preferably Matsui blended Japanese whisky
@@ -4890,7 +4865,7 @@ recipes:
   author: Natasha Bermudez
   url: https://punchdrink.com/recipes/caribbean-queen/
   notes: |+2
-      In this tropical Old-Fashioned variation that’s currently on the menu at Llama San, Natasha Bermudez calls on a split base of amontillado sherry and Japanese whisky. “The Nikka Coffey Malt whisky has a lot of banana on the nose and vanilla, with a very light smoke at the back of your palate. Amontillado sherry is salty, nutty—they work really nicely together.” A small measure of Paranubes Oaxacan agricole rum adds a “green grassy note,” says Bermudez, underscoring the tropical through-line of this drink.
+      In this tropical Old-Fashioned variation that's currently on the menu at Llama San, Natasha Bermudez calls on a split base of amontillado sherry and Japanese whisky. “The Nikka Coffey Malt whisky has a lot of banana on the nose and vanilla, with a very light smoke at the back of your palate. Amontillado sherry is salty, nutty—they work really nicely together.” A small measure of Paranubes Oaxacan agricole rum adds a “green grassy note,” says Bermudez, underscoring the tropical through-line of this drink.
   glassware: double rocks
   ingredients: 
   - 1 ounce amontillado sherry, preferably Amontillado Principe de Barbadillo
@@ -4920,7 +4895,7 @@ recipes:
   - 2 14-ounce cans evaporated milk
   - 2 14-ounce cans sweetened condensed milk
   - 15-ounce can coconut cream
-  - toasted spice coconut syrup (see Editor’s Note, use entire quantity made)
+  - toasted spice coconut syrup (see Editor's Note, use entire quantity made)
   - 1/2 ounce Angostura bitters
   - large pinch of sea salt, preferably Himalayan (“no more than a teaspoon,” Sanabria says)
   - 750-milliliter bottle white Puerto Rican rum, preferably Palo Viejo, Don Q, Ron del Barrilito or Cruzan Blackstrap
@@ -4940,7 +4915,7 @@ recipes:
   author: Matty Eggleston
   url: https://punchdrink.com/recipes/nico/
   notes: |+2
-      America’s love affair with the Negroni is quickly spreading to the furthest reaches of America, from the deep, dark crimson of the Kingston Negroni to perfectly clear Polka Dot Negroni. It appears at chef Paul Kahan’s newest venture, Nico Osteria, in Chicago, with bartender Matty Eggleston’s amaro-laden riff. Eggleston mixes London dry Sipsmith Gin and bittersweet Cocchi Americano (both of which he keeps chilled for an extra-icy drink), as well as herbal Amaro Braulio and sparkling mineral water.
+      America's love affair with the Negroni is quickly spreading to the furthest reaches of America, from the deep, dark crimson of the Kingston Negroni to perfectly clear Polka Dot Negroni. It appears at chef Paul Kahan's newest venture, Nico Osteria, in Chicago, with bartender Matty Eggleston's amaro-laden riff. Eggleston mixes London dry Sipsmith Gin and bittersweet Cocchi Americano (both of which he keeps chilled for an extra-icy drink), as well as herbal Amaro Braulio and sparkling mineral water.
   glassware: coupe
   ingredients: 
   - 1 1/4 ounce Sipsmith gin
@@ -4977,3 +4952,1529 @@ recipes:
   tags:
   - stirred
   - negroni
+- name: Max Overstrom-Coleman's Eggnog
+  author: Max Overstrom-Coleman
+  url: https://punchdrink.com/recipes/max-overstrom-colemans-eggnog/
+  notes: |+2
+      “This recipe shines when you have access to the exceptional dairy products we have here in Vermont,” says Max Overstrom-Coleman, who suggests springing for the best milk you can find in your area. Served in a chilled Nick & Nora glass with a fresh grating of nutmeg, his recipe was found to be the archetypal example of a traditional eggnog in our blind tasting, with a creamy texture that still felt light and almost fluffy, underscored by a detectable boozy backbone.
+
+      Serves 8.
+  glassware: nick & nora
+  ingredients: 
+  - 1 cup bourbon, preferably Old Grand-Dad
+  - 1 cup Cognac, preferably Pierre Ferrand 1840
+  - 1 cup aged rum, preferably Myers's
+  - 1 quart whole milk
+  - 1 quart heavy cream (spring for the best you can find)
+  - 12 farm fresh eggs
+  - 1 pound granulated sugar
+  - 1/2 teaspoon salt
+  - 3/4 teaspoon freshly grated nutmeg
+  - "Garnish: freshly grated nutmeg"
+  steps:
+  - Separate the eggs.
+  - Whisk the yolks and sugar together until they firm up and their bright orange color fades to a more opaque pale yellow.
+  - Slowly add the spirits, milk and cream while continuing to whisk air into the batch.
+  - Beat the egg whites and salt together to stiff peaks.
+  - Whisk the egg whites into the mixture.
+  - Bottle and store in the refrigerator until chilled, the longer the better.
+  - When ready to serve, pour into a chilled Nick & Nora glass and top with freshly grated nutmeg.
+  tags:
+  - blender
+  - freezer bar
+  - batched
+- name: Guillotine
+  author: Yanni Kehagiaras
+  url: https://punchdrink.com/recipes/guillotine/
+  notes: |+2
+      A dry mezcal Manhattan with a hefty dose of Cynar, this three-ingredient cocktail exemplifies Yanni Kehagiaras' approach to cocktails. Across the board at Stoa, his San Francisco cocktail bar, drinks top out at four ingredients or fewer, and he eschews added sugar unless specifically called for in a classic recipe. At a time when maximalism reigns supreme in the cocktail world, Kehagiaras is leading the minimalist charge with drinks like the Guillotine, which is, in turn, smoky, earthy and herbal.
+  glassware: nick & nora
+  ingredients: 
+  - 1 1/2 ounces mezcal, preferably Del Maguey Vida
+  - 1 ounce Cynar
+  - 1/2 ounce dry vermouth, preferably Dolin
+  steps:
+  - Combine all ingredients in a mixing glass with ice and stir until chilled and diluted.
+  - Strain into a chilled cocktail glass.
+  tags:
+  - stoa
+  - stirred
+  - manhattan
+  - freezer bar
+- name: Freezer Saz
+  author: 
+  url: https://punchdrink.com/recipes/freezer-sazerac/
+  notes: |+2
+      This Sazerac can be made as a single serving (stir 2 ounces of rye and 1/4 ounce Demerara syrup with ice before straining and skip the water, if you go that route). But at Poison Heart in Philadelphia, the take on the New Orleans classic shines as a pre-batched and chilled drink. You can replicate it at home with any large glass container, which is ideal for holiday entertaining or gifting.
+
+      Serves about 12.
+  glassware: rocks
+  ingredients: 
+  - 24 ounces overproof rye, preferably Rittenhouse
+  - 3 ounces Demerara syrup (2:1, sugar to water)
+  - 2 ounces plus 1 barspoon water
+  - 2 dashes Angostura bitters (per serving)
+  - 7 dashes Peychaud's bitters (per serving)
+  - 4 spritzes pastis, preferably Ricard Pastis, from an atomizer (per serving)
+  - "Garnish: lemon twist, expressed and discarded"
+  steps:
+  - Add the first three ingredients to an empty pitcher, swing-top bottle or other glass container.
+  - Place in the freezer for about 3 hours.
+  - To serve, add the bitters to a frozen rocks glass, then pour 2 1/2 ounces of the prepared Sazerac.
+  - Finish with spritzes of pastis from an atomizer, then express a lemon peel over the drink and discard it.
+  tags:
+  - stirred
+  - freezer bar
+  - sazerac
+- name: William Elliott's Stinger
+  author: William Elliott
+  url: https://punchdrink.com/recipes/william-elliotts-stinger/
+  notes: |+2
+      By design, this improved Stinger (“the world's best Stinger,” says its creator, William Elliott) is diamond-clear like a Martini. Skip the lurid green crème de menthe and opt for a white version instead. This recipe can also be prebatched and frozen ahead of time.
+  glassware: nick & nora
+  ingredients: 
+  - 1 3/4 ounces Cognac, preferably Gourry de Chadeville overproof
+  - 3/4 ounce créme de menthe, preferably Giffard Menthe-Pastille
+  - 1 dash absinthe, preferably Germain-Robin
+  - "Garnish: lemon peel"
+  steps:
+  - Combine all ingredients in a mixing glass over ice and stir until chilled.
+  - Strain into a chilled coupe over a large piece of ice.
+  - Express a lemon peel over the surface of the drink and discard.
+  tags:
+  - stirred
+  - freezer bar
+- name: Fancy Free
+  author: Jeremy Oertel
+  url: https://punchdrink.com/recipes/fancy-free/
+  notes: |+2
+      The Fancy Free is essentially an Improved Whiskey Cocktail, originally calling for Canadian whisky, that dates to the World War II era. It was first published in Crosby Gaige's Cocktail Guide and Ladies' Companion (1941) and somehow made its way into the D List canon of the cocktail renaissance. Consultant and industry veteran Jeremy Oertel has been keeping it in his back pocket for the past 15 years and continues to offer it and its variations for guests who want a twist on an Old-Fashioned. It's currently on the menu at Simmer Down in Wilmington, Delaware.
+  glassware: rocks
+  ingredients: 
+  - 2 ounces bourbon, preferably Elijah Craig Small Batch or Old Forester
+  - 1/2 ounce maraschino liqueur, preferably Caffo
+  - 1 dash Angostura bitters
+  - 1 dash orange bitters
+  - "Garnish: orange twist"
+  steps:
+  - Combine all ingredients in a mixing glass.
+  - Stir with ice until chilled.
+  - Strain into a chilled double rocks glass over a big cube.
+  - Garnish with an orange twist.
+  tags:
+  - stirred
+  - freezer bar
+  - old-fashioned
+- name: Eel Bar's Marianito
+  author: Nialls Fallon
+  url: https://punchdrink.com/recipes/eel-bars-marianito/
+  notes: |+2
+      The Eel Bar version of this Basque classic relies on Atxa Rojo vermouth, a Spanish bottling that the bar serves on tap, as the base. To this, they add dry Curaçao, which brings some body and citrus notes to the equation, and a small dose of rum—not the expected gin—and a few dashes of Angostura bitters. The bar uses Holmes Cay Réunion, which, like many agricole-style rhums, has a pronounced olive note that brings a welcome briny flavor to the drink.
+  glassware: rocks
+  ingredients: 
+  - 2 ounces sweet vermouth, preferably Atxa Rojo
+  - 1/2 ounce agricole rhum, preferably Holmes Cay Réunion Island
+  - 1/2 ounce Curaçao, preferably Pierre Ferrand
+  - 3 dashes Angostura bitters
+  - "Garnish: green olive, orange twist"
+  steps:
+  - Combine all the ingredients in a mixing glass with ice and stir until chilled.
+  - Strain into a rocks glass over fresh ice, then garnish with an olive on a pick and an orange twist.
+  tags:
+  - stirred
+  - eel bar
+- name: Maria Mole
+  author: 
+  url: https://punchdrink.com/recipes/maria-mole/
+  notes: |+2
+      For Diogo Sevilio, a bartender at Pindura Bar in São Paulo, the Maria Mole is “the kind of drink that’s adaptable and easily fits into any menu.” Popularized in the 1980s by a viral advertising campaign, the two-ingredient drink takes inspiration from a traditional Brazilian dessert of the same name; made from gelatin and sugar, it’s known for its light, spongy texture. The term “Maria mole” can also refer to something soft or without structure, which likely influenced the cocktail’s name, reflecting its smooth and velvety texture.
+  glassware: rocks
+  ingredients: 
+  - 1 1/2 ounces Cognac
+  - 1 1/4 ounces bianco vermouth, preferably Martini Bianco
+  - "Garnish: orange twist"
+  steps:
+  - In a mixing glass with ice, stir both ingredients to chill and dilute the mixture.
+  - Strain into your desired glass. If using a cocktail glass, chill it beforehand; if serving in a lowball glass, add one large ice cube.
+  - Finish with an orange twist.
+  tags:
+  - pindura bar
+  - stirred
+- name: Retreat Gastropub's 'Espresso Martini'
+  author: Tim Wiggins
+  url: https://punchdrink.com/recipes/retreat-gastropubs-espresso-martini/
+  notes: |+2
+      "The now-widespread availability of cold-brew coffee, easier to work with than hot coffee that needs to be cooled, has given the Espresso Martini a boost—even if it means kicking the espresso to the curb. At Retreat Gastropub in St. Louis, cold-brew supports a base of rum in their unorthodox tiki-style “Espresso Martini.”"
+  glassware: rocks
+  ingredients: 
+  - 1 1/2 ounces dark rum, preferably Plantation
+  - 1 1/2 ounces cold-brew coffee
+  - 1/2 ounce Coco Lopez
+  - 1/4 ounce orgeat
+  - "Garnish: nutmeg dust"
+  steps:
+  - Combine all ingredients in a mixing tin and shake with ice.
+  - Pour contents (including ice) into a Mai Tai glass.
+  - Garnish with grated nutmeg.
+  tags:
+  - retreat gastropub
+  - shaken
+  - caffeinated
+- name: Elective Amnesia
+  author: Mony Bunni
+  url: https://punchdrink.com/recipes/elective-amnesia/
+  notes: |+2
+      “This was the first one of my cocktails to ever go on a Sable menu, and the first time I really discovered the versatility of sherry as a cocktail ingredient,” says Mony Bunni, now behind the bar at Boleo. A combination of rye, PX sherry and Brovo Amaro #14, plus fragrant ras el hanout bitters, its become one of Bunni's signature drinks.
+  glassware: rocks
+  ingredients: 
+  - 1 1/2 ounces rye, preferably Rittenhouse
+  - 1 ounce PX sherry, preferably Lustau
+  - 1/2 ounce Brovo Amaro #14
+  - 2 dashes ras el hanout bitters
+  - "Garnish: orange peel, expressed and discarded"
+  steps:
+  - Combine all ingredients in a mixing glass over ice and stir until chilled.
+  - Strain into a rocks glass over ice.
+  - Express an orange peel over the drink and discard.
+  tags:
+  - boleo
+  - stirred
+  - name: Drifter
+  author: Mony Bunni
+  url: https://punchdrink.com/recipes/drifter/
+  notes: |+2
+      At ABV in San Francisco, the concept is simple: The menu is built around the spirits that the owners want to drink, and the drinks they want to make from them. This cocktail, the Drifter, is a straightforward mixture of Japanese whisky, blanc vermouth, Amaro Nonino and Peychaud's bitters, garnished with a grapefruit twist.
+  glassware: rocks
+  ingredients: 
+  - 1 1/2 ounce Japanese whisky, preferably Suntory Toki Japanese Whisky
+  - 3/4 ounce blanc vermouth, preferably Dolin Blanc Vermouth
+  - 1/2 ounce Amaro Nonino
+  - 3 dashes Peychaud's bitters
+  - "Garnish: grapefruit twist"
+  steps:
+  - Add all ingredients to a mixing glass with ice and stir gently.
+  - Strain into a double rocks glass over a large ice cube.
+  - Garnish with a grapefruit twist.
+  tags:
+  - stirred
+  - abv
+  - name: The Jetport
+  author: Arvid Brown
+  url: https://punchdrink.com/recipes/the-jetport/
+  notes: |+2
+    "“I'm just kind of a simp for chamomile,” says Arvid Brown, especially when it's paired with grapefruit, which is where his spin on the Paper Plane comes from. Handshake Digestif Bitters, a unique Persian American amaro from Maine that isn't as sweet as the standard Amaro Nonino, brings the chamomile along with dozens of other botanicals, from saffron to spruce tips. The result, named for the Portland International Jetport and served at Brown's bar, Room for Improvement, is “a super punchy and juicy rendition of the classic with a distinct herbal backbone.”"
+  glassware: nick & nora
+  ingredients: 
+  - 1 ounce bourbon
+  - 1 ounce Aperol
+  - 1/2 ounce Handshake Digestif Bitters
+  - 1/2 ounce grapefruit juice
+  - 1/2 ounce lemon juice
+  - 1/4 ounce simple syrup
+  - "Garnish: grapefruit peel"
+  steps:
+  - Combine all the ingredients in a cocktail shaker with ice and shake until chilled, about 10 seconds.
+  - Strain into a chilled coupe.
+  - Garnish with a grapefruit peel.
+  tags:
+  - room for improvement
+  - shaken
+  - citrus
+- name: Room for Improvement's Oaxaca Old-Fashioned
+  author: Arvid Brown
+  url: https://punchdrink.com/recipes/room-for-improvements-oaxaca-old-fashioned/
+  notes: |+2
+    At Room for Improvement, Arvid Brown reworks the modern classic with the addition of a Maine-made amaro, Handshake, and a small measure of grapefruit liqueur. “Key to the flavor interplay is the herbal notes of the Handshake and the fresh citrus aspect of the grapefruit and orange zest,” he says. Rounding out the drink is a Mexican chile-Demerara syrup that brings a subtly savory and spicy edge to the format. “There's a great depth to the finish where the chocolate and spice notes really stick around,” says Brown.
+  glassware: rocks
+  ingredients: 
+  - 1 1/2 ounces reposado tequila, preferably Olmeca Altos
+  - 1/2 ounce mezcal, preferably Banhez
+  - 1/4 ounce grapefruit liqueur, preferably Giffard Pamplemousse
+  - 1/4 ounce Handshake Digestif Bitters
+  - 1/4 ounce Mexican chile syrup
+  - 2 dashes Bittermens ‘Elemakule Tiki Bitters
+  - 1 dash Bittermens Xocolatl Mole Bitters
+  - 3 drops saline solution (25%)
+  - "Garnish: orange twist"
+  steps:
+  - Combine all the ingredients in a mixing glass and stir.
+  - Strain over a large ice cube in a rocks glass.
+  - Express and garnish with an orange twist.
+  tags:
+  - stirred
+  - old-fashioned
+  - room for improvement
+- name: Capri Sour
+  author: Patricia St. Peter
+  url: https://punchdrink.com/recipes/capri-sour/
+  notes: |+2
+    The eponymous sour at Los Angeles’ Capri Club varies by the season. The bright, bittersweet cocktail is always made with mezcal and Amaro Meletti as the base, but the bar uses different “house red bitter blends” that mix options like Contratto Bitter, Bordiga Bitter, Tuvè Bitter and more. This ingredient is used across multiple drinks, from the Capri Sour to the bar’s boilermaker, in which the red blend subs in for Campari in a 50/50 Ferrari shot. At home, Campari or your own red bitter blend works just as well.
+  glassware: rocks
+  ingredients: 
+  - 1 1/4 ounce Amaro Meletti
+  - 1 ounce mezcal, preferably Agua del Sol
+  - 1 ounce lemon juice
+  - 1/2 ounce orgeat
+  - 1/4 ounce Campari
+  - 2 dashes saline solution
+  - "Garnish: Luxardo cherry, lemon peel"
+  steps:
+  - Add all ingredients to a shaker and shake with ice.
+  - Strain into a rocks glass over ice.
+  - Garnish with a Luxardo cherry and a lemon peel.
+  tags:
+  - capri club
+  - shaken
+  - citrus
+- name: Colonial Ties
+  author: Eric Alperin
+  url: https://punchdrink.com/recipes/colonial-ties/
+  notes: |+2
+    “There is something magical about rye and Jamaican rum together—almost creating the impression of an earthy Cognac,” says Devon Tarby of this Sazerac-style cocktail from The Varnish‘s Eric Alperin.
+  glassware: rocks
+  ingredients: 
+  - 1 ounce rye whiskey
+  - 1 ounce Jamaican rum
+  - 1 brown sugar cube
+  - 2 dashes orange bitters
+  - 1 barspoon soda water
+  - absinthe, to rinse the glass
+  - "Garnish: lemon twist"
+  steps:
+  - In a chilled mixing glass, soak the sugar cube with orange bitters.
+  - Add a barspoon of soda water and muddle into a paste.
+  - Add the rye and rum and cracked ice and stir.
+  - Strain into a chilled rocks glass rinsed with absinthe.
+  - Express the lemon twist and use as garnish on the rim of the glass.
+  tags:
+  - the varnish
+  - stirred
+  - sazerac
+- name: Ticonderoga Club's Sazerac
+  author: Alec Bates
+  url: https://punchdrink.com/recipes/ticonderoga-clubs-sazerac/
+  notes: |+2
+    Taking top honors at our 2024 Sazerac blind tasting, this recipe adheres to the traditional rye (rather than Cognac) version of the drink. It’s made by filling a rocks glass halfway with crushed ice and a quarter-ounce of Herbsaint, rolling it to coat the interior of the glass, then dumping the crushed ice from the glass, ensuring a little bit of Herbsaint is left behind. The rest of the ingredients are stirred with ice in a mixing glass and strained into the prepared rocks glass, then garnished with a lemon twist.
+  glassware: rocks
+  ingredients: 
+  - 1/4 ounce Herbsaint, for rinsing the glass
+  - 2 ounces rye, preferably Rye & Sons
+  - 1/4 ounce rich cane syrup (2:1, cane sugar to water)
+  - 6 dashes Peychaud’s bitters
+  - 1 dash Angostura bitters
+  - "Garnish: lemon peel"
+  steps:
+  - Fill a rocks glass halfway with crushed ice and add the Herbsaint.
+  - Roll the glass a little to cover the whole inside of the glass with Herbsaint. Stir, then dump out the crushed ice and Herbsaint from the glass, making sure to leave just a little Herbsaint behind.
+  - Add the rest of the ingredients to a mixing glass and stir with ice.
+  - Strain the drink into the prepared glass and garnish with a lemon peel.
+  tags:
+  - sazerac
+  - stirred
+  - freezer bar
+- name: Cure's Sazerac
+  author: Neal Bodenheimer
+  url: https://punchdrink.com/recipes/cures-sazerac/
+  notes: |+2
+    Second place in our 2024 Sazerac blind tasting went to this version, appropriately hailing from the birth city of the drink. At New Orleans’ Cure, the evolution of the house Sazerac began well before the bar opened in 2009.
+
+    For precision and consistency, Cure relies on drops from a medicine dropper instead of dashes, which can vary based on the dasher opening and fullness of the bottle. Specifically, they landed on 23 drops, roughly the equivalent of three dashes.
+  glassware: rocks
+  ingredients: 
+  - 4 sptizes Herbsaint, from an atomizer
+  - 2 ounces rye, preferably Sazerac
+  - 1/4 ounce rich Demerara syrup (2:1, Demerara sugar to water)
+  - 23 drops (3 dashes) Peychaud’s bitters
+  - "Garnish: lemon peel"
+  steps:
+  - Spritz the Herbsaint from an atomizer into the interior of a chilled double Old-Fashioned glass.
+  - Combine the rye, Demerara syrup and bitters in a mixing glass filled with ice and stir to chill.
+  - Strain into the prepared glass.
+  - Garnish with the lemon peel.
+  tags:
+  - sazerac
+  - stirred
+  - freezer bar
+  - cure
+- name: Five Bar's Sazerac
+  author: James O'Donnell
+  url: https://punchdrink.com/recipes/fives-bars-sazerac/
+  notes: |+2
+    Taking the third spot in our 2024 Sazerac blind tasting, this recipe from Fives Bar, a relative newcomer to the New Orleans cocktail bar scene, builds on a base of Wild Turkey 101 rye (ordered in situ, the rye is fat-washed with bone marrow). A rich cane syrup and two types of bitters—the expected Peychaud’s and Angostura—round out the drink, which is served in an Herbsaint-coated glass. All the judges commented on the rich body of this version, with one taster observing that “it has some weight to it, it’s velvety—it doesn’t have the density of water.”
+  glassware: 
+  ingredients: 
+  - Herbsaint, for rinsing glass
+  - 2 ounces rye, preferably Wild Turkey 101
+  - 1/4 ounce rich cane sugar syrup (2:1, cane sugar to water, preferably made with unrefined Louisiana cane sugar)
+  - 5 dashes Peychaud’s bitters
+  - 2 dashes Angostura bitters
+  - "Garnish: lemon peel"
+  steps:
+  - Generously coat the inside of a frozen rocks glass with the Herbsaint.
+  - Combine the remaining ingredients in a mixing glass.
+  - Stir with Kold-Draft or similar cubes, being careful not to overdilute, then strain into the prepared glass.
+  - Express a lemon twist and drop it into the cocktail.
+  tags:
+  - sazerac
+  - stirred
+  - freezer bar
+  - fives bar
+- name: The Mezzymeister
+  author: 
+  url: https://punchdrink.com/articles/mezcal-amaro-montenegro-shot-50-50/
+  notes: |+2
+    Tallboy in Oakland, California, has a full menu of “craft cheekies”—mini cocktails, dispensed from freezer bottles into shot glasses. Of those diminutive drinks, the top seller is the Mezzymeister, a 50/50 combination of Jägermeister and mezcal “with a splash of water in each batch to soften the sharp edges,” says the bar’s owner, Den Stephens. “That combination of herbal and smoky makes it a distant cousin to, say, a mezcal Last Word or a Naked & Famous.”
+  glassware: shot glass
+  ingredients: 
+  - 1/2 ounce Jägermeister
+  - 1/2 ounce mezcal
+  - splash of water
+  steps:
+  - Combine.
+  tags:
+  - shot
+- name: Mezcal and Marseille
+  author: 
+  url: https://punchdrink.com/articles/mezcal-amaro-montenegro-shot-50-50/
+  notes: |+2
+    The team behind Plus de Vin were fans of the M&M, but wanted to add “a more delicate beverage” to their list, says Carenn Mackinnon, a partner at the Brooklyn wine bar. In place of Montenegro, Forthave Spirits’ Marseille offers more orange and rose aromatics, she says. And rather than a 1:1 ratio, this pairing is closer to 5:4 (amaro to mezcal); “This also makes it feel more like a sipper, rather than a shot.” The wine bar keeps the shot batched in the fridge and sometimes serves it with an orange twist garnish.
+  glassware: shot glass
+  ingredients: 
+  - 5 parts Forthave Spirits Marseille
+  - 4 parts mezcal
+  steps:
+  - Combine.
+  tags:
+  - shot
+- name: Affumicato
+  author: Pete St. Peter
+  url: https://punchdrink.com/articles/mezcal-amaro-montenegro-shot-50-50/
+  notes: |+2
+    Pete St. Peter, at Capri Club in Los Angeles, decided to play up two smoky spirits for her take on the 50/50. The Affumicato combines Agua del Sol mezcal (“a real heavy smoky mezcal”) with Amaro Sfumato Rabarbaro, a fruity, smoky amaro that “brings its own funk to the table,” she says. Capri Club serves this pairing as a shot, but also spotlights the classic M&M in cocktails like the Capri Sour.
+  glassware: shot glass
+  ingredients: 
+  - 1 part Agua del Sol mezcal
+  - 1 part Amaro Sfumato Rabarbaro
+  steps:
+  - Combine.
+  tags:
+  - capri club
+  - shot
+- name: The DM
+  author: Brittany Myrick
+  url: https://punchdrink.com/articles/mezcal-amaro-montenegro-shot-50-50/
+  notes: |+2
+    “We really love all things Bordiga, and I think we really elevated the M&M shot by using their Amaro Dilei,” says Brittany Myrick, owner of Brooklyn’s Lise & Vito. For Myrick, the candied orange peel notes from the amaro harmonize well with smoky Mal Bien mezcal. The drink’s name, she says, is also a plus: “We just found it fun and cheeky to make guests order it, and we often ask folks if they would like to ‘slide into the DM.’”
+  glassware: shot glass
+  ingredients: 
+  - 1 part Mal Bien mezcal
+  - 1 part Amaro Montenegro
+  steps:
+  - Combine.
+  tags:
+  - shot
+  - lise & vito
+- name: Roma Norte's Rosita
+  author: Derek Cram
+  url: https://punchdrink.com/recipes/roma-nortes-rosita/
+  notes: |+2
+    At Roma Norte, a Mexico City–inspired bar in San Diego, the Rosita swaps the expected reposado tequila for a brighter blanco expression. In keeping with this lighter play on the modern classic, the citrus-forward Mommenpop Ruby Grapefruit aperitif subs in for sweet vermouth, rounded out by blanc vermouth and Campari with its trademark bitterness. Rather than serve it on the rocks, the bar opts for an elegant coupe, garnished with a grapefruit twist.
+  glassware: coupe
+  ingredients: 
+  - 1 ounce blanco tequila, preferably ElVelo
+  - 3/4 ounce Mommenpop Ruby Grapefruit aperitif
+  - 3/4 ounce blanc vermouth, preferably Dolin
+  - 1/2 ounce Campari
+  - "Garnish: grapefruit twist"
+  steps:
+  - Add all ingredients to a mixing glass with ice and stir until chilled.
+  - Strain into a chilled cocktail coupe.
+  - Garnish with a grapefruit twist.
+  tags:
+  - roma norte
+  - shaken
+  - citrus
+- name: Hedge Maze
+  author: Yanni Kehagiaras
+  url: https://punchdrink.com/recipes/hedge-maze/
+  notes: |+2
+    “The fewer the elements, the better,” says Yanni Kehagiaras of his approach to cocktails at Stoa, one of our Best New Bars of 2024. At the San Francisco bar, the team strives to coax the most out of minimal builds. As Kehagiaras explains, he focuses “on micro quantities of potent spirits and liqueurs to make loud impact.” Here, a small measure of green Chartreuse boosts the herbal complexity found in the base of St. George Spirits Terroir Gin, which is lengthened by blanc vermouth for body and just the right amount of sweetness.
+  glassware: nick & nora
+  ingredients: 
+  - 1 1/2 ounces gin, preferably St. George Spirits Terroir Gin
+  - 1/2 ounce blanc vermouth, preferably Dolin
+  - 1/4 ounce green Chartreuse
+  steps:
+  - Combine all ingredients in a mixing glass with ice and stir until chilled and diluted.
+  - Strain into a chilled cocktail glass.
+  tags:
+  - stoa
+  - stirred
+  - martini
+  - freezer bar
+- name: Antoinette's Negroni
+  author: JR Mocanu
+  url: https://punchdrink.com/recipes/antoinettes-negroni/
+  notes: |+2
+    This classic Negroni (with unorthodox ratios) appears on the menu at Public Parking, one of our Best New Bars of 2024—where it’s served on draft—as an homage to co-owner JR Mocanu’s mom. “She’s very particular when it comes to her cocktails,” says Mocanu. “[It] took me years to finally get her to like a Negroni and now this is all she drinks.”
+  glassware: rocks
+  ingredients: 
+  - 1 1/2 ounces gin, preferably Gray Whale
+  - 1 ounce sweet vermouth, preferably Cocchi Torino
+  - 1/2 ounce Campari
+  - 2 dashes orange bitters, preferably Bittercube
+  - "Garnish: orange twist"
+  steps:
+  - Combine ingredients in a mixing glass with ice and stir until chilled.
+  - Separately, add ice to a rocks glass and express and insert the orange twist into the glass.
+  - Strain the drink into the prepared glass.
+  tags:
+  - negroni
+  - stirred
+  - freezer bar
+  - public parking
+- name: R&D
+  author: Dave Arnold
+  year: 2024
+  url: https://punchdrink.com/recipes/r-d/
+  notes: |+2
+    At Bar Contra, one of our Best New Bars of 2024, Dave Arnold continues his science- and tech-driven approach to making excellent cocktails. Clarification, liquid nitrogen infusion, acid-adjusting and force carbonation are seen throughout the menu, but this drink relies instead on a simple flavor pairing that Arnold feels is underrated: rye and damson.
+  glassware: nick & nora
+  ingredients: 
+  - 1 1/2 ounces rye, preferably Rittenhouse
+  - 1 1/2 ounces Averell Damson Plum Gin Liqueur
+  - 4 drops saline solution (20%)
+  steps:
+  - Add the ingredients to a mixing glass and stir with ice.
+  - Strain and serve in a chilled Nick & Nora glass.
+  tags:
+  - bar contra
+  - stirred
+  - freezer bar
+- name: Bryant's Wisconsin Old-Fashioned
+  author: 
+  url: https://punchdrink.com/recipes/bryants-wisconsin-old-fashioned/
+  notes: |+2
+    While Bryant’s has no written menu (guests instead discuss what they’d like with the bartender), the iconic lounge—the oldest in the state—offers many Midwestern staples, like the Pink Squirrel and this Wisconsin Old-Fashioned. The drink arrives in a footed glass topped with soda—exactly which soda will depend on whether it’s ordered “sweet,” “sour” or “press”—garnished with a cherry and orange half-moon. Like just about everything at Bryant’s, our Industry Icon of 2024, it manages to feel like it has equal footing in the past and the present.
+
+    For a “sweet” Old-Fashioned, use white soda, like Sprite or 7Up; for “sour,” use a grapefruit soda, like Squirt; for “press,” use seltzer water or half seltzer, half white soda.
+  glassware: 
+  ingredients: 
+  - 1/2 ounce simple syrup
+  - 5 dashes Angostura bitters
+  - 4 ounces soda, divided (see Editor’s Note)
+  - 2 ounces brandy
+  - "Garnish: cherry and orange half-moon"
+  steps:
+  - In a 12-ounce footed Old-Fashioned glass, add the simple syrup, Angostura bitters and an ounce of soda.
+  - Swirl these around the glass, allowing the ingredients to mix, creating a light foam. You should be able to smell the bitters.
+  - Add the brandy, fill with ice and top with the remaining soda.
+  - Garnish with a cherry and orange half-moon.
+  tags:
+  - bryant's
+  - stirred
+- name: Above Ground Pool
+  author: Alex Chien, Kayla LeRoy and David Yee
+  url: https://punchdrink.com/recipes/above-ground-pool/
+  notes: |+2
+    Ariff on a Margarita, this bestselling cocktail at Cobra in Columbus, Ohio—one of our Best New Bars of 2024—demonstrates the bar’s playful approach to classics. The familiar template is kicked up with mango and serrano-cilantro cordials and a spicy Sichuan salt rim, bringing both a tropical and herbaceous edge to the drink. The name, meanwhile, nods to its bright green appearance.
+  glassware: 
+  ingredients: 
+  - 1 1/2 ounces tequila, preferably Patrón Silver
+  - 3/4 ounce lime juice
+  - 3/4 ounce mango cordial
+  - 1/4 ounce serrano-cilantro cordial
+  - Garnish: Sichuan salt, for rimming the glass
+  steps:
+  - Prepare a rocks glass by lining the rim with Sichuan salt.
+  - In a cocktail shaker, combine all the ingredients with ice and shake until chilled.
+  - Strain into the prepared rocks glass over fresh ice.
+  tags:
+  - cobra
+  - shaken
+  - citrus
+  - margarita
+- name: Castaway
+  author: Yanni Kehagiaras
+  url: https://punchdrink.com/recipes/the-castaway/
+  notes: |+2
+    Yanni Kehagiaras’ sherry-based aperitif was inspired by the “notion of being on a raft off the coast of a tropical island.” The dryness of the manzanilla suggests a sea spray of sorts, amplified by actual salt in the Velvet Falernum. A splash of green Chartreuse “brings a subtle vegetal accent, which acts as the seaweed” in this enticing ode to the sea.
+  glassware: nick & nora
+  ingredients: 
+  - 2 ounces manzanilla sherry, preferably Bodega Hidalgo La Gitana
+  - 1/4 ounce salted Velvet Falernum
+  - 2 milliliters (1 to 2 dashes) green Chartreuse
+  steps:
+  - Combine all ingredients in a mixing glass with ice.
+  - Stir well and strain into a cordial glass.
+  tags:
+  - stirred
+  - freezer bar
+  - stoa
+- name: Stop-and-Go Light
+  author: Jackson Mercier
+  url: https://punchdrink.com/recipes/stop-and-go-light/
+  notes: |+2
+    “The purpose of this drink was to showcase some of the unique flavors that are enjoyed in the Upper Midwest while still being a very classic-feeling daisy-style cocktail,” says Jackson Mercier, head bartender at Bryant’s Cocktail Lounge in Milwaukee. Crème de noyaux—which also stars in the Pink Squirrel, an iconic ice cream cocktail originating at Bryant’s—teams up with Trinidadian rum and brandy, the state spirit of Wisconsin. (For the latter, Mercier suggests using Korbel, if you’re not feeling fancy.) “The split base between a dry Trinidadian rum blend and a sweeter American-style brandy provides a sort of high-low [quality],” says Mercier. Lime juice, vanilla syrup and a dash of peach bitters complete the drink, which takes its name from the Milwaukee term for a traffic light.
+  glassware: coupe
+  ingredients: 
+  - 3/4 ounce Trinidadian rum, preferably Scarlet Ibis
+  - 3/4 ounce brandy, preferably Wollersheim Press House (or Korbel)
+  - 3/4 ounce lime juice
+  - 3/4 ounce crème de noyaux, preferably Tempus Fugit
+  - 1/4 ounce to 1/2 ounce vanilla syrup, preferably Torani (the amount will vary by the styles of noyaux and vanilla syrup)
+  - 1 dash peach bitters
+  - "Garnish: dark cherry"
+  steps:
+  - Add all ingredients to a shaker and shake with ice.
+  - Double-strain into a chilled coupe glass.
+  - Garnish with a dark cherry.
+  tags:
+  - bryant's
+  - shaken
+  - citrus
+- name: Pink Squirrel
+  author: 
+  url: https://punchdrink.com/recipes/pink-squirrel/
+  notes: |+2
+    Though John Dye, who’s owned the venerated Bryant’s Cocktail Lounge since 2008, doesn’t have any hard evidence backing up the belief that The Pink Squirrel was invented at his 86-year-old Milwaukee bar, he feels confident sharing this origin story anecdotally, based on his numerous conversations with old-timers over the years. Built upon a sweet split of crème de noyaux and crème de cacao that produces a pleasantly rosy hue, the Squirrel might be the rare cream-based cocktail that was originally made with ice cream in lieu of heavy cream.
+  glassware: hurricane
+  ingredients: 
+  - 1 ounce crème de noyaux
+  - 1 ounce white crème de cacao
+  - 3 scoops vanilla ice cream
+  steps:
+  - Combine all ingredients in a blender.
+  - Blend until smooth and serve in a Hurricane glass.
+  tags:
+  - bryant's
+  - blended
+  - frozen
+- name: Kopiko Espresso Martini
+  author: Alex Chien, Kayla LeRoy and David Yee
+  url: https://punchdrink.com/recipes/kopiko-espresso-martini/
+  notes: |+2
+    Taking its name from the Indonesian coffee candy Kopiko, this spin on the Espresso Martini, from one of our Best New Bars of 2024, gets a boost in richness from a small measure of Frangelico, a hazelnut-flavored liqueur. Cobra’s iteration also triples down on the coffee flavor, using both espresso and cold-brew concentrate, plus Kahlúa coffee liqueur to deliver the requisite coffee flavor.
+  glassware: coupe
+  ingredients: 
+  - 1 ounce vodka, preferably Grey Goose
+  - 1 ounce Cobra Coffee
+  - 1/2 ounce Kahlúa
+  - heavy 1/4 ounce Frangelico
+  - heavy 1/4 ounce rich turbinado syrup
+  - "Garnish: vegan wafer, preferably Bauducco"
+  steps:
+  - Combine all of the ingredients in a cocktail shaker with ice and shake until chilled.
+  - Strain into a chilled coupe or cocktail glass.
+  - Garnish with a vegan wafer.
+  tags:
+  - shaken
+  - caffeinated
+- name: ViceVersa's MiTo
+  author: Valentino Longo
+  url: https://punchdrink.com/recipes/viceversa-mi-to/
+  notes: |+2
+    At Miami’s ViceVersa, one of our Best New Bars of 2024, the Milano-Torino (or Mi-To for short) serves as the base for the entire Negroni Family section of the menu. The mixture, typically equal parts Campari and sweet vermouth, is turned into an elaborate cocktail unto itself, made here with banana-infused Campari and descending quantities of Torino vermouth, osmanthus water, two types of sherry and coffee amaro. It’s used to add dimension to everything from the bar’s force-carbonated Americano to the house Negroni, but shines equally bright on its own.
+
+    Yields about 25 servings.
+  glassware: 
+  ingredients: 
+  - 400 milliliters Thai banana–infused Campari
+  - 350 milliliters Cocchi Vermouth di Torino
+  - 125 milliliters osmanthus water
+  - 50 milliliters Carlo Alberto Rosso vermouth
+  - 50 milliliters palo cortado sherry, preferably González Byass
+  - 25 milliliters Pedro Ximénez sherry
+  - 25 milliliters Giocondo Caffè Cabaret amaro
+  steps:
+  - Combine all ingredients in a container, then mix and close tightly or put into a sealable bottle. 
+  - Keeps, refrigerated, for up to 2 weeks.
+  tags:
+  - ViceVersa
+  - stirred
+  - freezer bar
+  - large format
+- name: House Martini
+  author: Lucas Endres
+  url: https://punchdrink.com/recipes/house-martini/
+  notes: |+2
+    The House Martini from Public Parking, one of our Best New Bars of 2024, relies on a rice-washed Japanese gin as the base, lending the drink a slightly cloudy appearance and a sake-like note that distinguishes the drink from a classic dry Martini. It’s finished with a salted cherry blossom solution and served with a garnish of dried seaweed topped with toasted rice and dried shiozakura (left over from the rice wash and solution-making process, respectively).
+  glassware: coupe
+  ingredients: 
+  - 2 ounces mochi rice–washed gin, preferably Tenjaku
+  - 1 ounce dry vermouth, preferably Brovo Spirits Witty
+  - 3 drops of shiozakura saline solution
+  - "Garnish: dried seaweed, pickled ginger, dried shiozakura (salt-preserved cherry blossom), toasted rice tossed in wasabi powder and Japanese seven-spice"
+  steps:
+  - Add all ingredients to a mixing glass with ice and stir until chilled.
+  - Strain into a coupe.
+  - Serve with dried seaweed, pickled ginger, dried shiozakura (salt-preserved cherry blossom), toasted rice tossed in wasabi powder and Japanese seven-spice.
+  tags:
+  - stirred
+  - public parking
+  - martini
+  - freezer bar
+- name: Brucio in Bocca
+  author: Valentino Longo
+  url: https://punchdrink.com/recipes/brucio-in-bocca/
+  notes: |+2
+    One of the top sellers at Miami’s ViceVersa, one of our Best New Bars of 2024, this play on the spicy Margarita leans on fresh, fluffy pineapple juice in lieu of lime and sweet vermouth, and a Barolo reduction in place of orange liqueur. The drink is garnished with a rim of red wine salt, made with leftover wine that might otherwise go to waste.
+  glassware: rocks
+  ingredients: 
+  - 2 ounces blanco tequila, preferably Centinela
+  - 1 ounce pineapple juice
+  - 3/4 ounce sweet vermouth, preferably Mancino
+  - 1/2 ounce Hagave Spiced Nectar
+  - 1/4 ounce Barolo reduction
+  - "Garnish: red wine salt" 
+  steps:
+  - Prepare a rocks glass by adding red wine salt around the rim.
+  - Combine the ingredients in a shaker and dry-shake without ice.
+  - Add ice and shake again.
+  - Strain into the prepared rocks glass over a large ice cube.
+  tags:
+  - ViceVersa
+  - shaken
+  - citrus
+  - margarita
+- name: Dante's Jungle Bird
+  author: Linden Pride
+  url: https://punchdrink.com/recipes/dantes-jungle-bird/
+  notes: |+2
+    During the Summer of 2020, the Greenwich Village bar Dante introduced their first “aperitiki” menu. This drink, a tropical take on their signature Garibaldi made with Campari, Zucca Rabarbaro amaro, “fluffy” pineapple juice and lime, served as inspiration for the whole concept.
+  glassware: rocks
+  ingredients: 
+  - 3/4 ounce rum, preferably Plantation Stiggins' Fancy Pineapple Rum
+  - 1/2 ounce Campari
+  - 1/4 ounce Zucca Rabarbaro Amaro
+  - 2 1/2 ounces pineapple juice
+  - 1 barspoon lime juice
+  - "Garnish: orange wedge, Luxardo cherry, pineapple frond"
+  steps:
+  - Combine all ingredients in a small water glass over ice.
+  - Stir to integrate.
+  - Garnish with orange wedge, Luxardo cherry and pineapple frond.
+  tags:
+  - tiki
+  - stirred
+  - citrus
+  - dante
+- name: Jeffrey Morgenthaler's Amaretto Sour
+  author: Jeffrey Morgenthaler
+  url: https://punchdrink.com/recipes/jeffrey-morgenthalers-amaretto-sour/
+  notes: |+2
+    Since the early days of the cocktail revival, the Amaretto Sour has been regarded as nothing more than the butt of a joke. In fact, the widespread ridicule of the liqueur and sour mix-based drink quickly became a banner cause for the movement, which was defined by fresh ingredients and a rejection of any cocktail created after 1950. For Jeffrey Morgenthaler, the blanket derision of what was once “just a drink that nobody had an opinion on,” never sat well with him. His revamped version adds a measure of overproof bourbon for backbone, while just the right amount of egg white adds the desired texture. This whiskey-inflected take is now often considered a modern classic.
+  glassware: rocks
+  ingredients: 
+  - 1 1/2 ounces amaretto, preferably Luxardo
+  - 3/4 ounce cask proof bourbon, preferably Booker's
+  - 1 ounce lemon juice
+  - 1 teaspoon rich simple syrup (2:1, sugar:water)
+  - 1/2 ounce egg white, whisked
+  - "Garnish: lemon twist, brandied cherry"
+  steps:
+  - Combine all ingredients in a mixing tin and shake with ice.
+  - Strain into a rocks glass over fresh ice.
+  - Garnish with a lemon twist and brandied cherry.
+  tags:
+  - shaken
+  - citrus
+- name: Alicia Perry's Amaretto Sour
+  author: Alicia Perry
+  url: https://punchdrink.com/recipes/alicia-perrys-amaretto-sour/
+  notes: |+2
+    Taking second place in our ultimate Amaretto Sour blind tasting, Alicia Perry’s recipe splits the amaretto quotient between Lazzaroni and Adriatico Bianco, a drier, creamier take on the category. Woodford Reserve bourbon, simple syrup, lemon juice and egg white round out the recipe, which the judges found to be citrus-forward, almost like a creamy Italian ice.
+  glassware: rocks
+  ingredients: 
+  - 1 ounce Amaretto Adriatico Bianco
+  - 1 ounce lemon juice
+  - 1 egg white or 1 ounce liquid egg
+  - 3/4 ounce Woodford Reserve Kentucky Straight Bourbon
+  - 1/2 ounce Amaretto Lazzaroni
+  - 1/2 ounce simple syrup
+  - "Garnish: lemon twist, expressed and discarded"
+  steps:
+  - Add all ingredients to a cocktail shaker and dry-shake without ice.
+  - Add ice and shake again.
+  - Strain over ice into a rocks glass, then express a lemon twist over the drink.
+  tags:
+  - shaken
+  - citrus
+- name: The Roosevelt Room's Amaretto Sour
+  author: Justin Lavenue
+  url: https://punchdrink.com/recipes/roosevelt-rooms-amaretto-sour/
+  notes: |+2
+    Taking the third spot in our Amaretto Sour blind tasting, this recipe, on paper, was the most finicky of the bunch. It calls for one and a quarter ounces of Lazzaroni amaretto, half an ounce of Wild Turkey 101 bourbon, a quarter-ounce of amontillado sherry, plus both lemon and lime juices, Demerara syrup, hazelnut oil, salt tincture and an egg white. The finishing touch was a spray of black walnut bitters over the surface of the drink. That last flourish was the judges’ only quibble. “Even though there’s something that is atypical, it still tastes like the drink,” said bartender Max Green.
+  glassware: rocks
+  ingredients: 
+  - 1 1/4 ounces Amaretto Lazzaroni
+  - 3/4 ounce egg white (or 1 small egg white)
+  - 1/2 ounce Wild Turkey 101 Bourbon
+  - 1/2 ounce lemon juice
+  - 1/4 ounce Lustau amontillado sherry
+  - 1/4 ounce Demerara syrup (1:1, Demerara sugar to water)
+  - 1/4 ounce lime juice
+  - 4 drops hazelnut oil
+  - 4 drops salt tincture (1:10, salt to water)
+  - "Garnish: Fee Brothers Black Walnut bitters, Marasca cherry, orange twist “flag”"
+  steps:
+  - Add the ingredients to a cocktail shaker and dry-shake without ice.
+  - Add cubed ice and short-shake for 5 seconds.
+  - Double-strain into a large rocks glass over a large ice cube.
+  - Use an atomizer to spray 4 spritzes of Fee Brothers Black Walnut bitters over the surface of the drink, then top with a cherry and an orange twist “flag.”
+  tags:
+  - shaken
+  - citrus
+- name: Grand Army's Amaretto Sour
+  author: Patty Dennison & Ally Marrone
+  url: https://punchdrink.com/recipes/grand-armys-amaretto-sour/
+  notes: |+2
+    Inspired by the Amaretto Sour served at New York’s now-closed NoMad Bar, a small measure of Campari finds its way into the classic served at Brooklyn’s Grand Army. It might sound unorthodox on paper, but the tweak is designed to be almost imperceptible, offering just enough bitterness to cut the inherent sweetness of amaretto.
+  glassware: rocks
+  ingredients: 
+  - 2 ounces amaretto, preferably Lazzaroni
+  - 1 ounce lemon juice
+  - 1 egg white
+  - 1/4 ounce Campari
+  - "Garnish: orange twist (expressed and discarded)"
+  steps:
+  - Combine ingredients in a cocktail shaker and dry-shake without ice.
+  - Add ice and shake again until chilled.
+  - Strain into a rocks glass.
+  - Express an orange twist over the drink, then discard.
+  tags:
+  - shaken
+  - citrus
+- name: More Supreme
+  author: Alec Bates
+  url: https://punchdrink.com/recipes/more-supreme/
+  notes: |+2
+    The first drink Alec Bales landed on the Ticonderoga Club menu, the More Supreme hews closely to the Daiquiri blueprint, but opts for a base of aged rhum agricole for a rich, almost savory rendition. A quarter-ounce of Campari sunk to the bottom of the cocktail offers an unexpected last sip. “The idea was, if I had to have one cocktail right before eating a meal and I couldn’t decide between a Daiquiri and a Negroni,” says Bales.
+  glassware: 
+  ingredients: 
+  - 1 1/2 ounces rhum agricole, preferably Rhum Clément Select Barrel
+  - 3/4 ounce lime juice
+  - 1/2 ounce cane syrup
+  - 1/4 ounce Campari
+  - "Garnish: freshly cracked black pepper"
+  steps:
+  - Combine all ingredients, except Campari, in a mixing tin and shake with ice.
+  - Strain into a chilled cocktail glass.
+  - Slowly pour Campari against the inside edge of the glass.
+  - Garnish with freshly cracked black pepper.
+  tags:
+  - shaken
+  - citrus
+  - daiquiri
+  - negroni
+  - ticonderoga club
+- name: Broth Back
+  author: 
+  url: https://punchdrink.com/recipes/broth-back/
+  notes: |+2
+    At Cobra, in Columbus, Ohio, the Broth Back is the most popular boilermaker on the menu. Consisting of a shot of whisky and a side of hot broth inspired by Maruchan Ramen packets, it’s a surprising, yet nostalgic pairing. “Our kitchen is the last fresh-food option open in Columbus most nights, so naturally we are the last stop for people having a night out and industry folk,” according to Alex Chien, Kayla LeRoy and David Yee, who make up the bar team. Late nights plus an industry-heavy crowd mean lots of boilermakers. Here is the recipe for the broth; Cobra pairs it with Dewar’s White Label Scotch.
+
+    Yields 6 quarts.
+  glassware: n/a
+  ingredients: 
+  - 3/4 pound dried shiitake
+  - 1 yellow onion, peeled and halved
+  - 1 cup whole garlic cloves, peeled
+  - 1 cup soy sauce
+  - 1/2 cup mustard seeds
+  - 1-inch knob fresh ginger
+  - 4 cinnamon sticks
+  - 4 star anise pods
+  - 12 grams MSG
+  - 6 quarts cold water
+  steps:
+  - Combine all ingredients in an appropriately sized stockpot. Add the cold water and slowly bring up to a bare simmer over medium heat.
+  - Reduce to the lowest possible heat and allow the broth to steep for 3 hours. Let cool, then strain and serve.
+  tags:
+  - cobra
+- name: Spanish Monk
+  author: Nick Flower
+  url: https://punchdrink.com/recipes/spanish-monk/
+  notes: |+2
+    First published in 1951 in Charles H. Baker Jr.’s The South American Gentleman’s Companion, the Spanish Monk combines gin, lemon, green Chartreuse, simple syrup and an egg white. Nick Flower learned the recipe at New York’s Little Branch, and he now serves the classic at his bar Too Soon in Portland, Oregon.
+  glassware: coupe
+  ingredients: 
+  - 1 1/2 ounces gin
+  - 3/4 ounce lemon juice
+  - 1/2 ounce green Chartreuse
+  - 1/2 ounce simple syrup
+  - 1 egg white
+  steps:
+  - Add all ingredients to a shaker and dry-shake.
+  - Add ice, then shake again.
+  - Strain into a coupe.
+  tags:
+  - shaken
+  - citrus
+- name: The Gentleman
+  author: Yanni Kehagiaras
+  url: https://punchdrink.com/recipes/gentleman/
+  notes: |+2
+    At Stoa in San Francisco, owner Yanni Kehagiaras creates cocktails that showcase the complexity of simplicity. All the drinks on the menu have four ingredients or fewer, and none use added sugar (apart from classics that specifically call for simple syrup), relying instead on Kehagiaras’ studied expertise and deep understanding of his backbar to find perfect balance. The Gentleman is made up of just three ingredients: Bonal, tequila and gentian liqueur, which come together to form an infinity loop of green, softly bitter, herbal flavors. 
+  glassware: nick & nora
+  ingredients: 
+  - 2 ounces Bonal
+  - 1/2 ounce tequila, preferably Tapatío Blanco
+  - 1/4 ounce gentian liqueur, preferably Antica Torino Liquore di Genziana
+  steps:
+  - Combine all ingredients in a mixing glass with ice and stir until chilled.
+  - Strain into a chilled cocktail glass.
+  tags:
+  - stoa
+  - stirred
+  - freezer bar
+- name: Nine Dragons
+  author: Matt Ryan Shelhart
+  url: https://punchdrink.com/recipes/nine-dragons/
+  notes: |+2
+    At Kingfisher in San Diego, the Nine Dragons pairs Malahat Spirits’ Mekong River Gin with blood orange liqueur, Cynar and a vanilla syrup. The Malahat gin can be hard to find, so another lemongrass- and citrus-forward gin would be a fine substitute.
+  glassware: nick & bora
+  ingredients: 
+  - 1 ounce gin
+  - 3/4 ounce black sugar vanilla bean syrup (see Editor’s Note)
+  - 3/4 ounce lemon juice
+  - 1/2 ounce Matchbook Distilling Co. Elsewhere Blood Orange Aperitivo
+  - 1/2 ounce Cynar
+  - "Garnish: blood orange half-moon"
+  steps:
+  - Add all ingredients to a cocktail shaker with cubed ice and shake vigorously.
+  - Double-strain into a chilled Nick & Nora glass, then garnish with a blood orange half-moon.
+  tags:
+  - shaken
+  - citrus
+  - kingfisher
+- name: Bar Goto's Whisky Highball
+  author: Kenta Goto
+  url: https://punchdrink.com/recipes/bar-goto-highball/
+  notes: |+2
+    “Ahighball seems simple, but to make a really good one is calculated,” says Kenta Goto, owner of New York’s Bar Goto and Bar Goto Niban. His preferred recipe for the Japanese classic calls for a slightly dialed-back amount of whisky, and he specifies that measuring the 4 ounces of soda, rather than eyeballing, is important to pair with a whisky between 40 and 44 percent ABV. “ If a customer requests a highball made with a whisky with higher ABV, we tweak the ratio to 1 ounce to 4 ounces to keep the right balance in the drink,” he says.
+  glassware: collins
+  ingredients: 
+  - 1 1/4 ounces Japanese whisky, preferably Toki, chilled in the freezer
+  - 4 ounces club soda, preferably Schweppes
+  steps:
+  - Combine all ingredients in a highball glass over ice.
+  tags:
+  - stirred
+- name: Chrysanthemum
+  author: William Elliott
+  url: https://punchdrink.com/recipes/chrysanthemum/
+  notes: |+2
+    At Maison Premiere, the Chrysanthemum is a highly aromatic mix of La Quintinye Blanc vermouth fortified with small measures of Bénédictine, absinthe and bitters. A low-proof classic from the early 20th century, it’s one of those “better than the sum of its parts” cocktails that’s simpler in its build than its profile would suggest. “Not to be outdone (like, ever) on garnishes, Maison recommends crowning the drink with a fresh snapdragon, but it’ll be just as good without the extra frill,” says Punch art director Lizzie Munro.
+  glassware: nick & nora
+  ingredients: 
+  - 2 1/2 ounces blanc vermouth, preferably La Quintinye
+  - 3/4 ounce Bénédictine
+  - 1/2 ounce absinthe, preferably Germain-Robin
+  - 6 drops aromatic bitters
+  - "Garnish: lemon twist (expressed and discarded), snapdragon blossom"
+  steps:
+  - Add all ingredients to a mixing glass with ice.
+  - Stir rapidly for only 15 to 20 seconds, taking care not to overstir.
+  - Strain into a chilled Nick & Nora glass, then express the lemon twist and discard.
+  - Garnish the glass with a snapdragon.
+  tags:
+  - stirred
+  - maison premiere
+- name: Margarita Soda
+  author: Tony Milici & Ben Howell
+  url: https://punchdrink.com/recipes/margarita-soda/
+  notes: |+2
+    The key to the Margarita Soda is simplicity. The ingenious highball mashup from Ridgewood’s Hellbender starts with a base of a Tommy’s Margarita, topped with club soda, which opens up the earthy tequila notes and the sharp lime, offering balanced, layered complexity. 
+  glassware: collins
+  ingredients: 
+  - 1 1/2 ounces tequila, preferably Pueblo Viejo Blanco
+  - 3/4 ounce agave syrup
+  - 3/4 ounce lime juice
+  - club soda
+  - "Garnish: sea salt, lime wedge"
+  steps:
+  - Rim a Collins glass with sea salt.
+  - Add the first three ingredients to a shaker with ice and shake until chilled.
+  - Pour into the prepared Collins glass, top with club soda and stir.
+  - Garnish with a lime wedge.
+  tags:
+  - hellbender
+  - citrus
+  - shaken
+  - margarita
+- name: My Loup's Tuxedo No. 2
+  author: Jillian Moore
+  url: https://punchdrink.com/recipes/my-loups-tuxedo-no-2/
+  notes: |+2
+    “Our team has been working on building a cocktail classics Rolodex of handwritten recipes that everyone can access during service,” says Jillian Moore, bar director at My Loup in Philadelphia. Putting the Tuxedo No. 2 on the list “was a two-birds-one-stone scenario,” she says. “It was a perfect addition to our summer menu, and I like to have a placement for a classic gin Martini, as they go so well with oysters and our cold seafood dishes.”
+  glassware: 
+  ingredients: 
+  - 2 1/4 ounces gin, preferably Plymouth
+  - 1/2 ounce dry vermouth, preferably Dolin Blanc
+  - 1/4 ounce maraschino liqueur, preferably Maraska
+  - 4 dashes Regans’ orange bitters
+  - 3 spritzes absinthe, preferably Pernod Absinthe Supérieure
+  - "Garnish: cherry, lemon peel (expressed and discarded)"
+  steps:
+  - Chill a glass with ice or water and set it aside.
+  - In a separate mixing glass, combine all ingredients except absinthe over ice and stir until chilled.
+  - Dump ice or water from the chilled glass, then spritz the glass with absinthe in an atomizer.
+  - Pour the mixed drink into the glass, then finish with a cherry and expressed lemon peel.
+  tags:
+  - stirred
+  - martini
+  - freezer ber
+  - my loup
+- name: Le Veau d'Or Martini
+  author: Sarah Morrissey
+  url: https://punchdrink.com/recipes/le-veau-dor-martini/
+  notes: |+2
+    At the reimagined Upper East Side bistro Le Veau d’Or—New York’s oldest French bistro—Sarah Morrissey has created a Martini for the ages. An austere combination of high-proof Old Raj gin alongside González Byass’ fino sherry–based La Copa Extra Seco vermouth and four dashes of orange bitters in a 5:1 ratio, this is a true gin lover’s Martini. The Old Raj and La Copa together are a savory match, and yield an especially dry Martini that gets an aromatic lift by way of the bitters, which are an all too frequent omission in the modern Martini. Here, they are essential. To top it off, Morrissey serves the drink with a highball “sidecar” that consists of the leftover, ginny “dirty ice” and an additional dose of the La Copa vermouth, topped with the exceptionally salty Spanish mineral water Vichy Catalan, and, finally, a lemon peel.
+  glassware: martini
+  ingredients: 
+  - 2 1/2 ounces Old Raj 110-proof gin
+  - 1/2 ounce González Byass La Copa Extra Seco fino sherry vermouth
+  - 2 dashes Angostura orange bitters
+  -2 dashes Regans’ orange bitters
+  - "Garnish: lemon twist, expressed and reserved for the Salty Vermouth sidecar"
+  steps:
+  - Add gin, vermouth and orange bitters to a mixing glass filled with ice.
+  - Stir until chilled and strain into a Martini glass. Reserve the ice and set aside.
+  - Express the lemon peel over the glass and reserve.
+  tags:
+  - stirred
+  - martini
+  - freezer bar
+  - la veau
+- name: Tea Service
+  author: 
+  url: https://punchdrink.com/recipes/tea-service/
+  notes: |+2
+    At New York City bar Monkey Thief, the Tea Service is both hot and cold. The drink is a clarified milk punch built on a shochu and rum base, layered with Branca Menta and crème de cacao, all topped with a hot lavender-infused foam.
+
+    Serves about 4.
+  glassware: 
+  ingredients: 
+  - 5 ounces shochu, preferably Iichiko Saiten
+  - 4 ounces matcha tea, cooled
+  - 4 ounces whole milk
+  - 1 ounce rum, preferably Planteray Cut & Dry
+  - 1 ounce Branca Menta
+  - 1 ounce crème de cacao, preferably Tempus Fugit
+  - 1 ounce pandan syrup (see Editor’s Note)
+  - 1 dash citric acid solution (see Editor’s Note)
+  - "Garnish: hot matcha lavender foam (see Editor’s Note), matcha powder, matcha Kit Kat"
+  steps:
+  - Combine all ingredients in a large container and add 1 dash citric acid solution. The mixture should curdle immediately after a quick stir.
+  - Set a conical strainer lined with a coffee filter over another large container, and prepare a third empty container to hold the strainer.
+  - Pour the curdled mix through the strainer. Repeat as necessary, pouring the mixture through the strainer into additional containers, until the liquid is clear.
+  - To serve, pour 5 to 6 ounces of the mix into a teacup and top with hot matcha lavender foam. Garnish with a dusting of matcha powder and a matcha Kit Kat.
+  tags:
+  - monkey thief
+  - heated
+  - stirred
+- name: Bitter Margarita
+  author: Daniel Kopystanski
+  year: 2024
+  url: https://punchdrink.com/recipes/bitter-margarita/
+  notes: |+2
+    Created by Leon’s bar manager, Daniel Kopystanski, this Bitter Margarita follows in the footsteps of the perennial favorite and same-named Bitter Margarita at Walter’s, in Brooklyn. This take brings together quintessential flavors of Mexico and Italy, with a 3-to-1 split base of tequila and mezcal, “bittersweetened” by equal parts Campari and the Mexican-made orange liqueur Alma Finca.
+  glassware: 
+  ingredients: 
+  - 1 1/2 ounces blanco tequila, such as Arette Blanco Tequila
+    - 1 ounce lime juice
+    - 1/2 ounce mezcal, such as Rosaluna
+    - 1/2 ounce Campari
+    - 1/2 ounce orange liqueur, such as Alma Finca
+    - 1/4 ounce agave nectar
+    - "Garnish: lime wedge, equal-parts blend of white sugar and kosher salt"
+  steps:
+  - Use lime wedge to moisten one half of the rim of a rocks glass. Roll the moistened portion of the glass in the sugar-salt mixture until a half-inch coating forms, then set aside.
+  - Combine all ingredients in a cocktail shaker with ice and shake until chilled.
+  - Strain into the prepared rocks glass over ice and garnish with a lime wedge.
+  tags:
+  - leon's
+  - shaken
+  - citrus
+  - margarita
+- name: Trou Normad
+  author: Sarah Morrissey
+  url: https://punchdrink.com/recipes/trou-normand/
+  notes: |+2
+    At the French bistro Le Veau d’Or, Sarah Morrissey serves this spin on the French tradition of Trou Normand, or “Norman hole.” Typically consisting of a chilled shot of the French apple brandy Calvados—or sometimes Calvados-soaked apple sorbet—the tradition is designed to make space, or a “hole,” for more courses, toeing the line between excessive and epicurean. Morrissey opts, instead, for blanche Armagnac, an unaged grape spirit—kept in the freezer for a rich texture—in place of Calvados, paired with fresh-pressed Granny Smith apple juice. 
+  glassware: shot
+  ingredients: 
+  - 1 ounce Granny Smith apple juice (pressed just before serving, otherwise the juice will brown)
+  - 1 ounce blanche Armagnac, such as Pellehaut, kept in the freezer
+  steps:
+  - Combine the ingredients in a shot glass and serve.
+  tags:
+  - le veau d'or
+  - shot
+- name: Tea Ceremony
+  author: Takuma Watanabe
+  url: https://punchdrink.com/recipes/tea-ceremony/
+  notes: |+2
+    In Martiny’s Tea Ceremony, Takuma Watanabe whisks matcha into hot coconut water, which adds a slight sweetness to the cocktail, he says, complementing Japanese whisky and white cacao liqueur. For Punch contributor Emma Janzen, the drink is “mesmerizing,” almost like an iced matcha latte with hints of chocolate—minus the heaviness of actual milk—that changes with every sip. 
+  glassware: 
+  ingredients: 
+  - 1 1/2 ounces Japanese whisky, preferably Nikka Coffey Grain Whisky
+  - 1/2 ounce white cacao liqueur
+  - 1 ounce hot coconut water, preferably Vita Coco
+  - 1 tablespoon powdered matcha, preferably Fukujyu
+  - "Garnish: fresh shiso leaf or kinome leaf"
+  steps:
+  - In a shaker with ice, combine the whisky and white cacao liqueur and stir until chilled.
+  - Strain into a rocks glass filled with ice.
+  - Using a saucepan or electric kettle, bring the coconut water to a boil, then turn off the heat.
+  - In a bowl, whisk the matcha with coconut water just off the boil.
+  - Add the matcha mixture to the rocks glass and stir.
+  - Garnish with a fresh leaf of shiso or kinome.
+  tags:
+  - shaken
+  - martiny
+  - heated
+- name: Bombardino
+  author: 
+  url: https://punchdrink.com/recipes/bombardino/
+  notes: |+2
+    Ahot, spirituous cocktail featured at Italian ski resorts in the winter, Bombardino is typically made by mixing Italian egg liqueur with whiskey, rum or brandy, and sometimes fortified wine. At Quattro Teste, a bar in Lisbon, Portugal, themed around Basque and Italian drinks, the Bombardino gets a Basque twist: The bar makes its own egg liqueur, with txakoli-based vermouth and amontillado sherry, which is then spiked with Scotch and topped with salted cream as well as freshly grated nutmeg and cinnamon.
+  glassware: flute
+  ingredients: 
+  - 1 1/2 ounces blended Scotch whisky, preferably Dewar’s 12
+  - 4 1/4 ounces homemade egg liqueur
+  - 1 ounce salted cream
+  - "Garnish: grated nutmeg, cinnamon or chocolate (optional)"
+  steps:
+  - In separate containers in a sous vide or hot water bath, warm the Scotch and egg liqueur to 140°F (60°C) before preparing the drink.
+  - Pour the whisky into a glass. (Quattro Teste uses a 200-milliliter footed flute.)
+  - Add the egg liqueur and stir to combine.
+  - Using a spoon, layer the salted cream on top.
+  - If using, grate nutmeg, cinnamon and/or chocolate on top of the drink.
+  tags:
+  - heated
+  - stirred
+- name: Rolls Royce
+  author: William Elliott
+  url: https://punchdrink.com/recipes/rolls-royce/
+  notes: |+2
+    Originally published in The Savoy Cocktail Book in 1930, the Rolls Royce is essentially a perfect Martini accented with Bénédictine. At Tigre in New York, William Elliott’s version is a top seller, despite being an old-timer on a mostly 1970s-inspired menu. The expected London dry gin and a barrel-aged, apple-based expression together form the base, which is layered with a moscato chinato in place of the two vermouths, plus Bénédictine, saffron liqueur, orange bitters and expressed lemon oil. Elliott revived his somewhat controversial up-rocks presentation for this drink, both for the added dilution and for its aesthetic similarity to a grand old Rolls.
+  glassware: nick & nora
+  ingredients: 
+  - 1 ounce barrel-aged gin, such as Neversink Reserve
+  - 1 ounce London dry gin, such as Old Raj Red Label
+  - 1/2 ounce moscato chinato, such as Maura Vergano Luli
+  - 1/4 ounce Bénédictine
+  - 1/4 ounce saffron liqueur, such as Apologue
+  - 3 dash orange bitters, such as Angostura
+  - "Garnish: lemon twist (expressed and discarded)"
+  steps:
+  - Combine all ingredients in a mixing glass with ice and stir to chill.
+  - Strain into a coupe over a large ice cube.
+  - Express a lemon twist over the drink, then discard.
+  tags:
+  - stirred
+  - martini
+  - freezer bar
+- name: Mosquito
+  author: Sam Ross
+  url: https://punchdrink.com/recipes/mosquito/
+  year: 2017
+  notes: |+2
+    Invented by Sam Ross at Attaboy in 2017, the Mosquito revisits a template Ross explored with his iconic Paper Plane 10 years prior. It features four ingredients in equal measure, creating a harmony of smoky, sweet, spicy, sour and bitter elements. It’s the progenitor of a whole brood of Attaboy drinks, known as the Bug Cocktails, which follow a common formula of a spirit, plus lemon (or lime) and housemade ginger juice, all rounded out with a bitter liqueur.
+  glassware: coupe
+  ingredients: 
+  - 3/4 ounce mezcal
+  - 3/4 ounce lemon juice
+  - 3/4 ounce sweetened ginger juice (4 parts ginger juice to 3 parts sugar, by weight)
+  - 3/4 ounce Campari
+  - "Garnish: candied ginger"
+  steps:
+  - Combine all ingredients in a cocktail shaker with ice and shake until chilled.
+  - Strain into a chilled coupe.
+  - Garnish with candied ginger.
+  tags:
+  - shaken
+  - citrus
+  - attaboy
+- name: Praying Mantis
+  author: Brandon Bramhall
+  url: https://punchdrink.com/recipes/praying-mantis-2/
+  notes: |+2
+    Bartender Brandon Bramhall of Attaboy in Nashville crafted the Praying Mantis in the mold of Sam Ross’ Mosquito, another equal-parts citrus cocktail. Both rely on lemon and ginger juice to deliver the sour and sweet notes. But whereas the Mosquito features mezcal and Campari, the Praying Mantis combines smoky Scotch and Gran Classico as its spirit and bitter components.
+  glassware: coupe
+  ingredients: 
+  - 3/4 ounce Islay Scotch
+  - 3/4 ounce lemon juice
+  - 3/4 ounce sweetened ginger juice (4 parts ginger juice to 3 parts sugar, by weight)
+  - 3/4 ounce Gran Classico
+  - "Garnish: candied ginger"
+  steps:
+  - Combine all ingredients in a cocktail shaker with ice and shake until chilled.
+  - Strain into a chilled coupe.
+  - Garnish with candied ginger.
+  tags:
+  - shaken
+  - citrus
+  - attaboy
+- name: Maverick
+  author: Mike McCollum
+  url: https://punchdrink.com/recipes/maverick/
+  notes: |+2
+    This drink, by Mike McCollum of Attaboy’s Nashville outpost, is a fresh and herbaceous riff on Sam Ross’ Mosquito. They both follow the winning template of four key ingredients in equal proportion—an Attaboy signature move—a spirit, lemon juice, sweetened ginger juice and something bitter. McCollum applies a light touch here, going with Aperol as the bitter element and gin as the base spirit (the Mosquito uses Campari and mezcal, respectively).
+  glassware: coupe
+  ingredients: 
+  - 3/4 ounce gin
+  - 3/4 ounce lemon juice
+  - 3/4 ounce sweetened ginger juice (4 parts ginger juice to 3 parts sugar, by weight)
+  - 3/4 ounce Aperol
+  - 6 to 8 mint leaves
+  - Garnish: candied ginger
+  steps:
+  - Combine all ingredients to a cocktail shaker with ice.
+  - Shake until chilled.
+  - Strain through a tightly gated Hawthorne strainer (or else double-strain) into a chilled coupe.
+  - Garnish with candied ginger.
+  tags:
+  - shaken
+  - citrus
+  - attaboy
+- name: Lantern Fly
+  author: Jojo Colona
+  url: https://punchdrink.com/recipes/lantern-fly/
+  notes: |+2
+    Attaboy bartender Jojo Colona created this juicy, funky take on the Mosquito—one of the bar’s citrusy equal-parts drinks—by opting for Jamaican pot still rum as the base spirit in lieu of mezcal. Colona then replaced the Mosquito’s bitter component of Campari with Amargo-Vallet, a Mexican digestif that recalls Angostura.
+  glassware: coupe
+  ingredients: 
+  - 3/4 ounce Jamaican pot still rum, such as Doctor Bird Jamaican rum
+  - 3/4 ounce lemon juice
+  - 3/4 ounce sweetened ginger juice (4 parts ginger juice to 3 parts sugar, by weight)
+  - 3/4 ounce Amargo-Vallet amaro
+  steps:
+  - Combine all ingredients in a cocktail shaker with ice and shake until chilled.
+  - Strain into a chilled coupe.
+  - Garnish with candied ginger.
+  tags:
+  - shaken
+  - citrus
+  - attaboy
+- name: Apple Juice Arnold Palmer
+  author: Jeffrey Morgenthaler
+  url: https://punchdrink.com/recipes/apple-juice-arnold-palmer/
+  notes: |+2
+    In the growing world of nonalcoholic drinks, the Arnold Palmer has been here all along. Jeffrey Morgenthaler’s simple upgrade to the classic steeps the tea in apple juice, rather than water, for an extra flavorful take.
+
+    Serves 2 to 4.
+  glassware: mug
+  ingredients: 
+  - 16 ounces apple juice
+  - 4 bags black tea
+  - 3 ounces lemon juice  
+  - 3 ounces rich simple syrup (2:1, sugar to water)
+  - "Garnish: lemon wedge"
+  steps:
+  - Heat the apple juice over low heat on a stovetop or in a microwave until it’s around 150℉ (65℃).
+  - Steep the tea bags in the hot apple juice for 5 minutes, then remove. Cover, and let cool.
+  - Add the lemon juice and simple syrup to the apple juice.
+  - Pour over ice into glasses, and serve with a lemon wedge.
+  tags:
+  - heated
+  - citrus
+  - stirred
+- name: The Royal Palmer
+  author: 
+  url: https://punchdrink.com/recipes/royal-palmer/
+  notes: |+2
+    Chicago café and bar Truce has two Arnold Palmers on the menu: a pared-back daytime version and a more layered, nuanced evening take. The Royal Palmer is the latter, and it incorporates two nonalcoholic spirits, sweeteners made from Earl Grey tea and persimmons, and a homemade ginger lemonade.
+  glassware: 
+  ingredients: 
+  - 2 ounces ginger lemonade (see Editor’s Note)
+  - 1 1/2 ounces iced black tea, such as Rare Tea Cellar 3 Estate Iced Black Tea
+  - 3/4 ounce Seedlip Grove 42
+  - 3/4 ounce Lyre’s Orange Sec
+  - 1/2 ounce Crema Earl Grey syrup (1:1, cane sugar to brewed Rare Tea Cellar Crema Earl Grey, by weight)
+  - 1/4 ounce persimmon syrup (see Editor’s Note)
+  - "Garnish: lemon wheel, mint"
+  steps:
+  - Combine all ingredients in a shaker over ice, and shake vigorously for 5 seconds.
+  - Fine-strain into a Collins glass over fresh ice.
+  - Garnish with a lemon wheel and mint.
+  tags:
+  - shaken
+  - citrus
+- name: Dawn Patrol
+  author: Iain Griffiths
+  url: https://punchdrink.com/recipes/dawn-patrol/
+  notes: |+2
+    At Bar Snack in New York City, Iain Griffiths has spiced up the Arnold Palmer template with an easy-to-make turmeric syrup and nonalcoholic bitters. Griffiths named their riff Dawn Patrol, after the surfer term for catching the first waves of the morning: “It’s usually used like, ‘I’m not drinking tonight, I’m on dawn patrol.’” For those who want a full-proof cocktail, though, this drink can also be spiked with mezcal.
+  glassware: 
+  ingredients: 
+  - 1 1/2 ounces iced black tea
+  - 3/4 ounce turmeric syrup
+  - 3/4 ounce lemon juice
+  - 3 dashes Seasn Dark bitters
+  - 1 ounce mezcal (optional)
+  - "Garnish: fresh mint bouquet"
+  steps:
+  - Fill a double rocks glass with pebble ice.
+  - Add all ingredients to the glass and give the mix a quick stir with a barspoon.
+  - Garnish with a fresh mint bouquet.
+  tags:
+  - stirred
+  - citrus
+  - n/a
+- name: Jaffa Bar's Godfather
+  author: Sean Bryce
+  url: https://punchdrink.com/recipes/jaffa-bars-godfather/
+  notes: |+2
+    “This is a two ingredient drink,” explains Sean Bryce of the classic Godfather blueprint, “I was like, How do I drag this into modern times?” For Bryce, the answer was to combine the requisite Scotch and amaretto with Lucano syrup, made by combining sugar, water, Amaro Lucano and cinnamon sticks. “It’s only two barspoons in there, but it really makes a lot of difference,” he says. Outside of this cocktail, Bryce says the Lucano syrup would work nicely in any Old-Fashioned-style drink, particularly alongside Scotch or rye.
+  glassware: rocks
+  ingredients: 
+  - 1 1/2 ounces blended Scotch, such as Famous Grouse
+  - 1/2 ounce peated Scotch, such as Laphroaig
+  - 1/4 ounce amaretto, such as Lazzaroni Amaretto
+  - 2 barspoons Amaro Lucano Syrup
+  - "Garnish: lemon twist"
+  steps:
+  - Combine all ingredients in a mixing glass with ice and stir until properly chilled and diluted.
+  - Strain into a rocks glass over ice.
+  - Garnish with a lemon twist.
+  tags:
+  - stirred
+  - old-fashioned  
+- name: Mall Grab
+  author: Sean Bryce
+  url: https://punchdrink.com/recipes/mall-grab/
+  notes: |+2
+    At Jaffa Bar, Sean Bryce has created several amaro syrups, including Cynar syrup, to add a bittersweet kick to his cocktails. “With this one, I’m essentially making vermouth,” he says. By blending Cynar with sour cherry juice, sugar, vanilla extract and cardamom, he developed a less-sweet alternative to the fortified wine. The result is something akin to Punt e Mes, he says, with “a more herbal taste.” He shakes this in equal parts with rye and Cognac, plus two barspoons of Bonal for a spirit-forward drink with layers of bittersweet complexity. 
+  glassware: rocks
+  ingredients: 
+  - 1 ounce rye, such as Dickel
+  - 1 ounce Cognac, such as Martell
+  - 1 ounce Cynar Syrup
+  - 2 barspoons Bonal
+  - arak, to rinse the glass
+  - "Garnish: orange twist (expressed and discarded)"
+  steps:
+  - Rinse a rocks glass with arak, then set aside.
+  - Combine remaining ingredients in a mixing glass with ice and stir until properly chilled and diluted.
+  - Strain into the prepared glass over fresh ice.
+  - Garnish with an orange twist expressed over the surface of the drink, then discard.
+  tags:
+  - stirred
+  - old-fashioned
+- name: Rabo de Galo
+  author: 
+  url: https://punchdrink.com/recipes/rabo-de-galo/
+  notes: |+2
+     Rabo de Galo first became popular in the mid-1950s when the Italian vermouth producer Cinzano opened a factory in bustling São Paulo. To compete with the ubiquitous consumption of cachaça, the native spirit, in local bars, the company introduced a foreign concept to Brazil: mixing two alcoholic bases in the same glass and calling it a “cocktail.” However, the practice took off only after they decided to translate the word. In Portuguese, galo means “rooster” (or “cock”), and rabo means “tail.”
+  glassware: rocks
+  ingredients: 
+  - Scant 1 3/4 ounces aged cachaça
+  - Scant 3/4 ounce sweet vermouth, preferably Vermouth Carpano Classico
+  - Heavy 1/4 ounce Cynar
+  - "Garnish: lime twist"
+  steps:
+  - Pour the cachaça, vermouth and Cynar into a mixing glass with ice and stir until chilled.
+  - Strain into a rocks glass with ice.
+  - Garnish with a lime twist.
+  tags:
+  - stirred
+- name: French Tuxedo
+  author: Benjamin Krick
+  url: https://punchdrink.com/recipes/french-tuxedo/
+  notes: |+2
+    Coating the interior of the glass with a particularly aromatic spirit before the drink is poured means extra fragrance even before the glass is lifted for a sip. (Plus, it adds a little extra flavor, and proof, to the finished cocktail.) While absinthe is usually the go-to rinsing agent, at San Antonio’s Juniper Tar, caraway-accented kümmel adds extra aroma to a vodka-based variation on the classic Tuxedo, eventually melding into the drink and creating the effect of a spiced gin, hold the juniper.
+  glassware: nick & nora
+  ingredients: 
+  - kümmel rinse
+  - 2 ounces vodka
+  - 1/2 ounce dry vermouth
+  - 1/2 ounce fino sherry
+  - 1 dash orange bitters
+  - "Garnish: demitasse spoon of caviar (optional)"
+  steps:
+  - Pour the kümmel into a Nick & Nora glass.
+  - Swirl to coat the interior, then pour out the excess liquid and set aside.
+  - Combine the remaining ingredients in a mixing glass over ice and stir until chilled.
+  - Strain into the prepared glass.
+  - Serve with a demitasse spoon of caviar on the side.
+  tags:
+  - stirred
+  - martini
+- name: Winterized Negroni
+  author: Brian Evans
+  url: https://punchdrink.com/recipes/winterized-negroni/
+  notes: |+2
+    “Ihad never thought of Scotch and gin as such an agreeable flavor duo until stumbling across Michael Madrusan’s Death & Taxes cocktail, which was an enlightening blend of robust and malty flavors of blended Scotch rounding out the sharp, botanical edges of a London dry gin,” says New York bar director Brian Evans. Today, Evans’ favorite hack for adding depth to a Negroni is to add a half-teaspoon of Islay Scotch. It’s a technique used in a complex riff, the Hashira, at Rule of Thirds, but it also works in a more classic build like this, too.
+  glassware: coupe
+  ingredients: 
+  - 1 ounce London dry gin
+  - 3/4 ounce Campari
+  - 3/4 ounce sweet vermouth, preferably Cocchi di Torino
+  - 1/2 teaspoon (about 4 dashes) Islay Scotch
+  steps:
+  - Combine all ingredients in a mixing glass with ice.
+  - Stir until chilled.
+  - Strain into a coupe glass.
+  tags:
+  - stirred
+  - negroni
+- name: Amaro Highball
+  author: Kenta Goto
+  url: https://punchdrink.com/recipes/amaro-highball/
+  notes: |+2
+    This simple highball from Bar Goto calls on Amaro Nardini, a digestif with chocolate and licorice notes. Here, it’s simply combined with gin and club soda in a light, balanced highball.
+  glassware: collins
+  ingredients: 
+  - 4 ounces club soda
+  - 1 ounce Amaro Nardini
+  - 2 teaspoons gin, such as Roku
+  - "Garnish: lemon twist"
+  steps:
+  - Fill a highball glass with ice cubes.
+  - Add the club soda first, then the other ingredients.
+  - Stir gently to blend.
+  - Garnish with a lemon twist.
+  tags:
+  - stirred
+  - bar goto
+- name: Sixty Forty
+  author: Shingo Gokan
+  url: https://punchdrink.com/recipes/sixty-forty/
+  notes: |+2
+    At Sip—one half of the bi-level New York bar Sip & Guzzle—the Sixty Forty is designed to channel a Martini when ice-cold, then a Manhattan as it settles. It calls on gin and whiskey, both dry and sweet vermouths, and, as an accent to the drink, Seedlip Spice and Seedlip Garden, two N/A spirits.
+  glassware: rocks
+  ingredients: 
+  - 2 ounces gin, such as Bombay Sapphire
+  - 1/3 ounce rye whiskey, such as Rittenhouse
+  - 1/3 ounce dry vermouth, such as Mancino Secco
+  - 1/3 ounce sweet vermouth, such as Mancino Rosso
+  - 1 barspoon Seedlip Spice
+  - 2 dashes Seedlip Garden
+  - "Garnish: olive, cherry"
+  steps:
+  - Combine all ingredients in a mixing glass and stir with ice.
+  - Strain into a Martini glass.
+  - Garnish with an olive and a cherry.
+  tags:
+  - stirred
+  - martini
+  - manhattan
+  - freezer bar
+- name: Coffee With Giuseppe
+  author: Annie Williams Pierce
+  url: https://punchdrink.com/recipes/coffee-with-giuseppe/
+  notes: |+2
+    Coffee With Giuseppe takes inspiration from Chicago bartender Stephen Cole’s Bitter Giuseppe, a modern amaro classic made with Cynar, sweet vermouth, lemon and orange bitters. When stirring the drink, Williams Pierce recommends keeping your nonstirring hand on the mixing glass and stirring until you feel the chill of the glass. “You’re looking for chill as well as dilution here, but since the drink is also going over ice, you don’t want it to be too diluted,” she says.
+  glassware: rocks
+  ingredients: 
+  - 3/4 ounce Du Nord Café Frieda Coffee Liqueur
+  - 3/4 ounce Cynar
+  - 3/4 ounce Cocchi Vermouth di Torino
+  - 1/4 ounce fresh lemon juice
+  - 2 dashes Angostura Orange bitters
+  - 4 drops drops saline solution (4:1)
+  - "Garnish: horses's neck orange twist"
+  steps:
+  - Combine ingredients in a mixing glass with ice.
+  - Stir for 10 to 15 seconds to chill, then strain into a chilled rocks glass over ice.
+  - Garnish with a super long orange twist.
+  tags:
+  - stirred
+  - citrus
+  - manhattan
+- name: Jakartian Peardition
+  author: Guillermo Bravo
+  url: https://punchdrink.com/recipes/jakartian-peardition/
+  notes: |+2
+    “Iuse Batavia arrack like a spice,” says Guillermo Bravo, formerly of New York’s The NoMad Bar. “It succeeds greatly in small amounts if the cocktail is subtle. [And] if the cocktail has a lot of character, Batavia arrack can provide a heavier underlying palate.”
+
+    In this cocktail, it does the latter, supplying a funky foundation for pear brandy and sherry, whose warmth is complemented by spicy cinnamon syrup and tart citrus. The result takes what could be a “bright, summery” drink and transforms it into something warm and fortifying for the winter.
+  glassware: coupe
+  ingredients: 
+  - 1 ounce Batavia arrack
+  - 3/4 ounce oloroso sherry, preferably Lustau
+  - 1/2 ounce pear brandy, preferably Clear Creek Williams
+  - 3/4 ounce fresh lime juice
+  - 1/2 ounce grapefruit juice
+  - 1/2 ounce orgeat
+  - 1/4 ounce cinnamon syrup
+  steps:
+  - Combine ingredients into shaker over ice.
+  - Shake and strain into coupe.
+  tags:
+  - shaken
+  - citrus
+- name: Đậu Hũ (Tofu) [Dau Hu]
+  author: Thi Nguyen
+  url: https://punchdrink.com/recipes/dau-hu-tofu/
+  notes: |+2
+    At the contemporary Vietnamese restaurant Moon Rabbit in Washington, D.C., tofu is a staple of the kitchen. Thi Nguyen, the restaurant’s bar director and one of our Best New Bartenders of 2024, turns the tofu whey—the liquid in a container that’s typically discarded—into an easy-to-make simple syrup. The sweetener is used throughout the bar, and here, it’s part of a tofu soup–inspired cocktail from a pop-up at New York’s Bangkok Supper Club.
+  glassware: coupe
+  ingredients: 
+  - 1 1/2 ounces Chive-Infused Rum
+  - 3/4 ounce lime juice
+  - 3/4 ounce Tofu Whey Syrup
+  - 2 to 3 drops of umami bitters
+  - "Garnish: chive bud"
+  steps:
+  - Add all ingredients to a shaker with ice and shake until chilled.
+  - Double strain into a coupe glass.
+  - Garnish with a chive bud.
+  tags:
+  - moon rabbit
+  - shaken
+  - citrus
+- name: Bar Agricole’s Japanese Cocktail
+  author: Thad Vogler
+  url: https://punchdrink.com/recipes/bar-agricoles-japanese-cocktail/
+  notes: |+2
+    At San Francisco’s Quince, where Bar Agricole is in residence, overseeing the bar program, the Japanese Cocktail is a standout. Thad Vogler uses Bar Agricole’s own biodynamic California brandy, a blend of barrels aged 8 to 15 years, for the base, complemented by housemade orgeat and aromatic bitters. The farm that grows the grapes for the brandy and for the high-proof spirit that stabilizes the bitters is the same one that grows the almonds that go into the orgeat. “So it’s a single-estate, grower-producer cocktail,” says Vogler.
+  glassware: coupe
+  ingredients: 
+  - 1 1/4 ounces California brandy, such as Bar Agricole Biodynamic California Brandy
+  - 1/2 ounce orgeat
+  - 2 dashes aromatic bitters
+  steps:
+  - Add all ingredients to a shaker with ice and shake until chilled.
+  - Double strain into a coupe glass.
+  tags:
+  - quince
+  - shaken
+  - citrus
+- name: Gage & Tollner's Turf
+  author: Steve Bielawski
+  url: https://punchdrink.com/recipes/gage-tollners-turf-club/
+  notes: |+2
+    A few select, but prominent, bars have taken up the 1880s Turf Club as their own, including the reborn Brooklyn chop house Gage & Tollner. “It’s definitely time for a comeback,” says Steve Bielawski, head bartender at Gage & Tollner.
+  glassware: 
+  ingredients: 
+  - 2 1/2 ounces gin, preferably Junipero
+  - 1 ounce dry vermouth, preferably Dolin
+  - 1/2 teaspoon maraschino liqueur, preferably Luxardo
+  - 1/4 teaspoon absinthe, preferably Pernod
+  - orange twist
+  - "Garnish: lemon twist"
+  steps:
+  - Combine all ingredients, including the orange peel, in a mixing glass with ice and stir until chilled.
+  - Strain into a coupe.
+  - Garnish with a lemon twist.
+  tags:
+  - stirred
+  - martini
+  - freezer bar
+  - gage & tollner
+- name: 
+  author: 
+  url: 
+  notes: |+2
+    
+  glassware: 
+  ingredients: 
+  - 
+  steps:
+  - 
+  tags:
+  - 

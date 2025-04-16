@@ -1,0 +1,2050 @@
+source: "The Encyclopedia of Cocktails"
+recipes:
+
+#
+  - name: Adonis
+    notes: |+2
+      A blend of sherry, sweet vermouth, and orange bitters, the Adonis is one of the three classic sherry cocktails, the others being the Bamboo and the Sherry Cobbler. The Adonis was named after the 1884 Broadway musical Adonis, which was a sensation in its time, running more than five hundred performances. If the Bamboo was the world’s Sherry Martini, this was its Manhattan. The drink all but disappeared in the latter twentieth century as sherry, as well as low-ABV cocktails, went out of fashion. Sherry-loving mixologists brought it back in the twenty-first century. The ratios of sherry to vermouth vary widely in early recipes, and the style of sherry is never specified, leaving modern bartenders a lot of latitude in how to best present the drink.
+    glassware: coupe
+    ingredients:
+    - 1½ ounces fino or manzanilla sherry
+    - 1½ ounces sweet vermouth
+    - 2 dashes orange bitters
+    - "Garnish: orange twist"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice and stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Express an orange twist over the drink and drop it into the glass.
+    tags:
+    - stirred
+    - low-abv
+  - name: Alaska
+    notes: |+2
+      A relative of the Martini that uses yellow Chartreuse instead of vermouth. The drink first appeared in the 1910s and was sometimes made with Old Tom gin. Later on, as Old Tom became less available, London dry gin became the norm. Modern mixologists gave the drink a mild revival in the 2010s.
+    glassware: coupe
+    ingredients:
+    - 2¼ ounces Old Tom gin
+    - ¾ ounce yellow Chartreuse
+    - 1 dash orange bitters
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice and stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe.
+    tags:
+    - stirred
+    - freezer bar
+    - martini
+  - name: Alexander
+    notes: |+2
+      A classic cocktail made of gin, crème de cacao, and cream, and sometimes an egg white. It began to appear in cocktail books in the 1910s. By the mid-century, the Brandy Alexander, in which brandy stood in for the gin, exceeded it in popularity to the point that few people today are aware of the original Alexander. In some books from the 1930s, the brandy version was simply called Alexander No. 2. The Brandy Alexander is typically a dessert cocktail, and in the Midwest is usually made as an ice cream drink.
+    glassware: coupe
+    ingredients:
+    - 2 ounces gin
+    - 1 ounce crème de cacao
+    - 1 ounce cream
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice and stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Garnish with a dusting of grated nutmeg. 
+    - (For a Brandy Alexander, substitute brandy for the gin.)
+    tags:
+    - stirred
+  - name: Americano
+    notes: |+2
+      An Italian-born drink consisting of Campari, sweet vermouth, and soda water, and a direct precursor to the boozier Negroni. The drink came back into vogue in the United States with the low-ABV trend of the 2010s and today.
+    glassware: collins
+    ingredients:
+    - 1 ounce Campari
+    - 1 ounce sweet vermouth
+    - Soda water
+    - "Garnish: orange twist"
+    steps:
+    - Add Campari and vermouth to a collins glass filled with ice. 
+    - Fill with soda water. 
+    - Briefly stir. 
+    - Garnish with an orange twist.
+    tags:
+    - stirred
+    - low-abv
+  - name: Aperol Spritz
+    year: 
+    notes: |+2
+      The most successful corporate-created cocktail since Galliano executives got behind the Harvey Wallbanger in the early 1970s. A typical recipe consists of Aperol, Prosecco, and soda water.
+    glassware: goblet
+    ingredients:
+    - 2 ounces Aperol
+    - 3 ounces Prosecco
+    - 1 ounce soda water
+    - "Garnish: orange slice"
+    steps:
+    - Build the ingredients in a large goblet filled with ice. 
+    - Stir briefly. 
+    - Garnish with an orange slice.
+    tags:
+    - stirred
+    - spritz
+  - name: Aviation
+    year: 1917
+    notes: |+2
+      A blend of gin, lemon juice, maraschino liqueur, and a touch of crème de violette, the Aviation first appeared in print in Hugo Ensslin’s Recipes for Mixed Drinks in 1917. The drink became a cause célèbre in the aughts, when maraschino liqueur and crème de violette returned to circulation and cocktail bartenders embraced the cocktail as a forgotten classic. A decade later, however, its star had fallen, a victim of premature overpraise and the prevailing opinion that the drink tasted like dish soap.
+    glassware: coupe
+    ingredients:
+    - 2 ounces gin
+    - ¾ ounce lemon juice
+    - ½ ounce maraschino liqueur
+    - ¼ ounce crème de violette
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe.
+    tags:
+    - shaken
+    - citrus
+  - name: Bamboo
+    notes: |+2
+      An austere, elegant mix of sherry and dry vermouth with dashes of orange and Angostura bitters and a lemon twist garnish. Though some early recipes called for Italian vermouth (that is, sweet), dry vermouth became the accepted ingredient in this drink. It was created by American hotel manager Louis Eppinger at The Grand Hotel in Yokohama, Japan, in the 1890s. The Bamboo was being served in the United States by 1900. The drink made a comeback in the twenty-first century. Whatever the original Bamboo tasted like, the modern standard has become a drink pale in color, dry in character, with a touch of salinity and nuttiness from the sherry, and a pleasing, if subtle, complexity.
+    glassware: coupe
+    ingredients:
+    - 1½ ounces fino sherry
+    - 1½ ounces dry vermouth
+    - 1 dash orange bitters
+    - 1 dash Angostura bitters
+    - "Garnish: lemon twist"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice and stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Express a lemon twist over the drink and slip it into the glass.
+    tags:
+    - low-abv
+    - stirred
+    - martini
+  - name: Benton's Old-Fashioned
+    year: 2007
+    notes: |+2
+      The most popular drink at New York’s PDT, and the most famous example of the fat-washing technique in the cocktail canon. Inventor Don Lee combined melted fat from Benton’s bacon—a renowned meat out of Tennessee—with Four Roses Bourbon, resulting in an impressively smoky, savory spirit. This he sweetened with maple syrup and accented with Angostura bitters. The drink has consistently been the top seller at PDT since it debuted on the menu in 2007 and inspired hundreds of other fat-washed cocktails across the globe.
+    glassware: rocks
+    ingredients:
+    - 2 ounces Benton’s Bacon Fat-washed Four Roses Bourbon*
+    - ¼ ounce maple syrup
+    - 2 dashes Angostura bitters
+    - "Garnish: orange twist"
+    steps:
+    - Combine the ingredients in a rocks glass filled with one large cube of ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Garnish with an orange twist.
+    tags:
+    - stirred
+    - old-fashioned
+  - name: Black Manhattan
+    author: Todd Smith
+    year: 2005
+    notes: |+2
+      A simple Manhattan variation created by San Francisco bartender Todd Smith in 2005. The Italian amaro Averna takes the place of the typical sweet vermouth, and the bitters is split between Angostura and orange. It was created at the restaurant Cortez but received a boost in profile when Smith commanded the drinks program at the cocktail speakeasy Bourbon & Branch. By the late 2010s, it was an established modern classic.
+    glassware: coupe
+    ingredients:
+    - 2 ounces rye
+    - 1 ounce Averna
+    - 1 dash Angostura bitters
+    - 1 dash orange bitters
+    - "Garnish: cherry"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Garnish with a cherry.
+    tags:
+    - stirred
+    - manhattan
+    - freezer bar
+  - name: Blood and Sand
+    year: 
+    notes: |+2
+      An equal-parts mixture of scotch, sweet vermouth, Cherry Heering, and orange juice. The drink is named after the 1922 Rudolph Valentino film of the same name and first appeared in the Savoy Cocktail Book in 1930. It is a rare cocktail that calls for scotch as its base spirit, as well as one in which Cherry Heering plays a major role. In recent years, as mixologists have made it their business to drag old drinks out of the shadows, the Blood and Sand has engendered a fair share of enduring controversy, with some critics declaring it utterly unpalatable while others stand by it as a deserving classic. Seemingly impervious to argument, the drink has persevered—never fully embraced, yet never wholly abandoned. A rum drink by the same name has been a house specialty at The Dresden Room in Hollywood for decades.
+    glassware: coupe
+    ingredients:
+    - ¾ ounce blended scotch
+    - ¾ ounce Cherry Heering
+    - ¾ ounce sweet vermouth
+    - ¾ ounce orange juice
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe.
+    tags:
+    - shaken
+    - citrus
+  - name: Bloody Mary
+    year: 
+    notes: |+2
+      The ultimate day-drinking cocktail, a brunch-time behemoth, and the drink that brought vodka to the masses and gave tomato juice a reason to be behind the bar. Origin stories abound, but the generally accepted history is that French bartender Fernand Petiot created the prototype of tomato juice and vodka while working at Harry’s New York Bar in Paris, and brought it with him when he came to New York in 1934 to work at the King Cole Bar in the St. Regis Hotel, refining it to contain salt, black pepper, cayenne pepper, Worcestershire sauce, and lemon juice—every ingredient that we now associate with the drink. It was called the Red Snapper at the St. Regis and still is today. But the world came to know it as the Bloody Mary, though how that name came about is a disputed matter. Other ingredients commonly found in the cocktail include hot sauce and celery salt. A celery stalk is a common garnish, but the Bloody Mary is perhaps the most heavily garnished cocktail in history. Even modest versions will sport cherry tomatoes, cheese cubes, sausage, and pickled peppers. In recent years, the sky has been the limit in terms of garnishes, with some drinks boasting a virtual cornucopia of foodstuffs atop the actual drink. Wisconsin, where the drink is typically served with an accompanying snit of beer, is particularly gung-ho in this respect. At places like Sobelman’s in Milwaukee, versions are topped with hamburgers and whole roasted chickens, eliminating the need for a food order. Common variations include the Bloody Maria (made with tequila), the nonalcoholic Virgin Mary, and the Caesar, a rendition using the clam-tomato juice Clamato, which constitutes the national drink of Canada.
+    glassware: pint
+    ingredients:
+    - 2 ounces vodka
+    - 4 ounces tomato juice
+    - ½ ounce lemon juice
+    - 6 dashes hot sauce
+    - 4 dashes Worcestershire sauce
+    - Pinch of celery salt
+    - Salt and pepper to taste
+    - "Garnish: celery stalk and lime wedge"
+    steps:
+    - Combine the ingredients in a cocktail tin half-filled with ice and roll between two tins until chilled and integrated, about 15 seconds. 
+    - Strain into a chilled pint glass filled with ice. 
+    - Garnish with a celery stalk, lime wedge, and whatever else strikes your fancy.
+    tags:
+    - rolled
+    - citrus
+  - name: Bobby Burns
+    year: 
+    notes: |+2
+      A cocktail composed of scotch, sweet vermouth, and Bénédictine. It is named after the Scottish poet Robert Burns. Early recipes varied, but by the late 1910s the defining element in this Rob Roy variation—Bénédictine—had appeared, and that has remained the formula ever since. Like the Mint Julep, the Bobby Burns gets major play only once a year, on Burns Night, January 25, the poet’s birthday.
+    glassware: coupe
+    ingredients:
+    - 2 ounces blended scotch
+    - ¾ ounce sweet vermouth
+    - ½ ounce Bénédictine
+    - "Garnish: lemon twist"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Express a lemon twist over the drink and drop it into the glass.
+    tags:
+    - stirred
+    - manhattan
+  - name: Boothby Cocktail
+    year: 
+    notes: |+2
+      The dean of pre-Prohibition San Francisco bartenders. Boothby was born in San Francisco in 1862. He tried his hand at many things—acting, dancing, insurance, tailoring, politics—before settling in 1884 into the profession that made him “Cocktail Bill,” the most celebrated San Francisco bartender of his day. He worked at many bars in and around San Francisco, most famously at the Pied Piper Bar in the Palace Hotel, where he reportedly invented his signature cocktail, the Boothby, a Manhattan topped with champagne. He is remembered today chiefly because in 1891 he published a cocktail manual titled The World’s Drinks and How to Mix Them. The book enjoyed several editions after that, including ones in 1900 and 1908. Prohibition ended Boothby’s career, forcing him to serve soft drinks. He retired in 1925 and died five years later.
+    glassware: coupe
+    ingredients:
+    - 2 ounces rye or bourbon
+    - 1 ounce sweet vermouth
+    - 2 dashes Angostura bitters
+    - 1 ounce chilled champagne
+    - "Garnish: cherry"
+    steps:
+    - Combine all the ingredients but the champagne in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Top with the champagne. 
+    - Garnish with a cherry.
+    tags:
+    - stirred
+    - sparkling
+  - name: Boulevardier
+    year: 
+    notes: |+2
+      An equal-parts mixture of bourbon, sweet vermouth, and Campari invented by Erskine Gwynne, an expatriate writer, socialite, and Vanderbilt family relation who founded a literary magazine called the Boulevardier in 1927; and, as such, one of the few Vanderbilt contributions to the common good. The recipe first appeared that same year as a footnote in Harry MacElhone’s cocktail book Cocktails and Barflies (which contained an advertisement for the magazine). The drink was largely forgotten until the twenty-first century, when it rode back into visibility on the coattails of the Negroni revival. It found a particular advocate in writer-bartender Toby Cecchini, who serves perhaps the most famous version of the drink at his Brooklyn bar, Long Island Bar. Beginning in the 2010s, many cocktail bartenders started making the drink with rye.
+    glassware: rocks
+    ingredients:
+    - 1 ounce bourbon
+    - 1 ounce sweet vermouth
+    - 1 ounce Campari
+    - "Garnish: orange twist"
+    steps:
+    - Combine the ingredients in a rocks glass filled with one large ice cube. 
+    - Stir until chilled, about 15 seconds. 
+    - Express an orange twist over the drink and slip it into the glass.
+    tags:
+    - stirred
+  - name: Bramble
+    year: 
+    notes: |+2
+      A gin sour made with lemon juice and simple syrup, served over crushed ice, and topped with crème de mure, which is floated picturesquely on the surface of the completed drink. It was invented in the early 1990s at the private London bar Fred’s Club by Dick Bradsell, who at that point had not yet achieved the title of godfather of the British cocktail revival. The drink quickly achieved widespread popularity.
+    glassware: 
+    ingredients:
+    - 2 ounces gin
+    - ¾ ounce lemon juice
+    - ¾ ounce simple syrup
+    - ½ ounce crème de mure
+    - "Garnish: blackberry and a lemon wedge"
+    steps:
+    - Combine the first three ingredients in a cocktail shaker half-filled with ice and shake until chilled, about 15 seconds. 
+    - Strain into a rocks glass filled with crushed ice. 
+    - Float the crème de mure on the surface of the drink. 
+    - Garnish with a blackberry and a lemon wedge.
+    tags:
+    - shaken
+    - citrus
+  - name: Brandy Crusta
+    year: 
+    notes: |+2
+      One of the most elaborate classic cocktails in the canon, involving cognac, bitters, sugar, and curaçao, all held by a goblet with a thickly sugared rim, the inside of which is lined by a long strip of lemon peel that encircles the bowl. The drink was invented by New Orleans bartender Joseph Santini, who owned a bar called Jewel of the South. The drink gained considerable fame outside of New Orleans, thanks to being included in Jerry Thomas’s 1862 cocktail manual. Because of the ornate, pain-in-the-neck preparation, the Brandy Crusta never caught on. Nonetheless, cocktail experts believe that the Crusta opened the door for many of the sours to come, not least the Sidecar. In 2018, Chris Hannah opened a new bar called Jewel of the South in New Orleans, showcasing the Brandy Crusta.
+    glassware: 
+    ingredients:
+    - 2 ounces cognac
+    - ½ ounce lemon juice
+    - ½ ounce curaçao
+    - ¼ ounce maraschino liqueur
+    - 2 dashes Angostura bitters
+    - "Garnish: long lemon peel"
+    steps:
+    - Wet the rim of a small wine glass with lemon juice, then dip the rim into sugar. 
+    - Cut a long, continuous peel from a lemon and position it in a spiraling pattern inside the prepared glass. 
+    - Combine the ingredients in a cocktail shaker half-filled with ice and shake until chilled, about 15 seconds. 
+    - Strain into the glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Brandy Old-Fashioned
+    year: 
+    notes: |+2
+      The preferred form of the Old-Fashioned in the state of Wisconsin, where it is prepared using domestic California brandy, muddled cherry and orange slice, and topped with a spurt of either a citrus soda like Sprite (in which it is termed “sweet”), a grapefruit soda like Squirt (“sour”), or a mixture of Sprite and soda water (“press”). Garnishes range from additional cherry and orange to olives, pickled mushrooms, and pickled Brussels sprouts. In recent years, however, the traditional whiskey Old-Fashioned has crept up in popularity in Wisconsin.
+    glassware: rocks
+    ingredients:
+    - 2 ounces domestic brandy
+    - 1 barspoon simple syrup
+    - 2 dashes Angostura bitters
+    - Orange slice
+    - Cherry
+    - Sprite or Squirt soda
+    - "Garnish: orange slice, cherry, olive, pickled mushroom, or pickled Brussels sprout"
+    steps:
+    - Combine the simple syrup, bitters, and orange slice and a cherry at the bottom of a rocks glass. 
+    - Muddle gently. 
+    - Add brandy and stir. 
+    - Add several ice cubes and stir until chilled, about 10 seconds. 
+    - Top with a splash of either Sprite (“sweet”), Squirt (“sour”), or a combination of Sprite and soda water (“press”). 
+    - Garnish with another orange slice and cherry or, instead, an olive or pickled mushroom or pickled Brussels sprout.
+    tags:
+    - old-fashioned
+  - name: Breakfast Martini
+    notes: |+2
+      The signature cocktail of Salvatore Calabrese, the Italian-born bartender who became one of the most prominent bartenders in London in the years leading up to the cocktail revival in that city. A mixture of gin, lemon juice, curaçao, and marmalade, it was one of the more sophisticated entries in the ongoing ’tini craze of the 1990s, and an early cocktail to employ jam as an ingredient—a trick that became commonplace by the mid-aughts. The Breakfast Martini made its debut at the Library Bar in the Lanesborough, a hotel in London’s posh Belgravia neighborhood. Calabrese brought the drink to all his subsequent bar posts in London.
+    glassware: coupe
+    ingredients:
+    - 1⅔ ounces gin
+    - ½ ounce curaçao
+    - ½ ounce lemon juice
+    - 1 barspoon English orange marmalade
+    - "Garnish: orange twist"
+    steps:
+    - Combine the lemon juice and marmalade in a cocktail shaker and stir to dissolve the jam. 
+    - Add the gin, curaçao, and ice. 
+    - Shake until chilled, about 15 seconds. Fine strain into a chilled coupe. 
+    - Express an orange twist over the drink and slip it into the glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Brown Derby
+    notes: |+2
+      A bourbon sour made with grapefruit juice and honey, invented in Los Angeles in the 1930s. A weird example of a cocktail named after one restaurant that was purportedly created at a different restaurant, the Vendome Club. The Brown Derby restaurant did not return the favor.
+    glassware: coupe
+    ingredients:
+    - 2 ounces bourbon
+    - ¾ ounce grapefruit juice
+    - ½ ounce honey syrup (1:1)
+    - "Garnish: grapefruit twist"
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice and shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Express a grapefruit twist over the drink and drop it into the glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Cable Car
+    year: 1996
+    notes: |+2
+      A rare modern spin on the Sidecar, in which the brandy is replaced by spiced rum and the usual sugar rim is supplemented with cinnamon. Created by San Francisco bartender Tony Abou-Ganim in 1996 and first put on the menu at the swanky Starlight Room atop the Sir Francis Drake Hotel. He later took the drink with him to the Bellagio Hotel & Casino’s many bars in Las Vegas.
+    glassware: nick & nora
+    ingredients:
+    - 1½ ounces Captain Morgan spiced rum
+    - 1 ounce lemon juice
+    - ¾ ounce curaçao
+    - ½ ounce simple syrup
+    - "Garnish: orange twist"
+    steps:
+    - Rub the rim of a cocktail glass with a slice of lemon and dip the rim in a mixture of cinnamon and sugar. 
+    - Combine the ingredients in a cocktail shaker half-filled with ice and shake until chilled, about 15 seconds. 
+    - Strain the contents into the sugar-rimmed glass. 
+    - Express an orange twist over the drink and slip it into the glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Caipirinha
+    year: 
+    notes: |+2
+      The national mixed drink of Brazil, and the delivery system by which most of the rest of the world experiences the spirit cachaça. (That’s right! Two cachaça entries in a row!) The drink is of the family of cocktails using the holy trinity of rum, lime, and sugar, found throughout South America and the Caribbean, of which the daiquiri and Ti’ Punch are members. Lime wedges are muddled with raw sugar in a glass, which is then filled with cachaça and ice. For much of its life, the Caipirinha was little known outside Brazil. But beginning around the turn of the twenty-first century, it began to be more widely enjoyed.
+    glassware: rocks
+    ingredients:
+    - 2 ounces cachaça
+    - 2 barspoons raw sugar
+    - ½ lime, cut into quarters
+    steps:
+    - In a double old-fashioned glass, gently muddle the sugar and lime wedges. 
+    - Add the cachaça and stir until the sugar dissolves. 
+    - Add ice and stir until chilled, about 15 seconds.
+    tags:
+    - stirred
+  - name: Champagne Cocktail
+    year: 
+    notes: |+2
+      One of the oldest, simplest, and classiest of cocktails. It was what the writers of Casablanca had Victor Laszlo order to signify his urbane virtuousness. Simply a sugar cube soaked with bitters and topped with champagne, it is basically a Champagne Old-Fashioned but, based on appearances, seems to belong more to the French 75 fluted family. It was established enough by 1862 to appear in Jerry Thomas’s seminal cocktail book. His version used a spoonful of sugar and cracked ice. Harry Johnson went a more opulent route, filling his Champagne Cocktail with an orchard of fruit. But over the years, a simpler style prevailed, as did the use of a drier champagne and a sugar cube. Part of the appeal of the drink is the show: The champagne slowly eats away at the sugar cube at the bottom of the glass, sending a continuous line of fine bubbles to the surface. It has always been a high-toned drink, as champagne ain’t cheap. It hasn’t enjoyed a rebirth during the cocktail revival, mainly because most bartenders prefer a glass of unadulterated champagne, as opposed to one sugared up. But, as Kingsley Amis wrote, “Everyone seems to think this is an overrated drink, but it keeps going all the same.”
+    glassware: flute
+    ingredients:
+    - Champagne
+    - 3 or 4 dashes of Angostura bitters
+    - 1 sugar cube
+    - "Garnish: lemon twist"
+    steps:
+    - Place the sugar cube at the bottom of a champagne flute and saturate it with bitters. 
+    - Slowly fill the glass with champagne. 
+    - Garnish with a lemon twist, the more ornamental the better.
+    tags:
+    - stirred
+    - sparkling
+  - name: Chartreuse Swizzle
+    year: 
+    notes: |+2
+      An audacious modern classic cocktail invented by San Francisco bartender Marcovaldo Dionysos. Built on a base of 1½ ounces of green Chartreuse, it reflected mixologists’ obsession with challenging heritage spirits during the early years of the cocktail revival. The vaguely tiki-esque cocktail is filled out by pineapple juice, lime juice, and falernum, which was little known and hard to locate at the time. Dionysos created the drink for a 2002 Chartreuse competition in San Francisco and won, making the Chartreuse Swizzle a rare cocktail-competition-winning drink to achieve lasting fame. This drink and the Last Word helped recast Chartreuse as a cocktail mixer in the aughts.
+    glassware: collins
+    ingredients:
+    - 1½ ounces green Chartreuse
+    - 1 ounce pineapple juice
+    - ¾ ounce lime juice
+    - ½ ounce Velvet Falernum
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice and shake until chilled, about 15 seconds. 
+    - Strain into a collins glass filled with ice. 
+    - Garnish with a mint sprig and fresh grated nutmeg.
+    tags:
+    - shaken
+    - citrus
+  - name: Clarito
+    year: 
+    notes: |+2
+      A variation of the Martini found only in Argentina—simply a gin Martini with a sugar rim, appearing in Tragos Magicos, a 1950 cocktail book by Santiago Policastro, one of the most famous bartenders in Buenos Aires in his day. The drink would have been lost to time had it not been for bartender Federico Cuco, who rediscovered and promoted it through a “Save the Clarito” campaign. Over time, the sugar rim was dispensed with, leaving a straightforward gin Martini with a lemon twist. The Clarito can still be ordered at bars throughout Buenos Aires.
+    glassware: nick & nora
+    ingredients:
+    - 2¼ ounces gin
+    - ¾ ounce dry vermouth
+    - Lemon slice
+    steps:
+    - Rub the rim of a cocktail glass with a slice of lemon and dip the rim in sugar. 
+    - Combine the gin and vermouth in a mixing glass half-filled with ice and stir until chilled, about 15 seconds. 
+    - Strain into the prepared glass.
+    tags:
+    - stirred
+    - martini
+  - name: Clover Club
+    year: 
+    notes: |+2
+      A cocktail consisting of gin, lemon juice, raspberry syrup, and an egg white. Its heyday, which was not long, was in the first decades of the twentieth century. Its memory was revived by mixologists in the current century. In the past, as often as not, grenadine was used instead of raspberry syrup, which results in a drink of significantly less interest.
+    glassware: 
+    ingredients:
+    - 1½ ounces gin
+    - ½ ounce lemon juice
+    - ½ ounce simple syrup
+    - ½ ounce raspberry syrup
+    - 1 egg white
+    steps:
+    - Combine all the ingredients in a cocktail shaker. 
+    - Shake until integrated, about 15 seconds. 
+    - Add ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled cocktail glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Corpse Reviver No. 2
+    year: 
+    notes: |+2
+      A cocktail made of gin, lemon juice, Lillet, Cointreau, and a dash of absinthe, first seen in Harry Craddock’s Savoy Cocktail Book. Corpse Reviver was previously a broad term winkingly applied to any number of drinks taken in the morning to blow the cobwebs out of your head. But Craddock’s is the version that has achieved the most lasting fame. The drink did not get much play in bars until the turn of the twenty-first century, when it was given a big bear hug by the modern mixology community. It has since become a classic. Its popularity among bartenders was such that the Corpse Reviver No. Blue, using taboo blue curaçao, was created in jesting response to it.
+    glassware: nick & nora
+    ingredients:
+    - ¾ ounce gin
+    - ¾ ounce Cointreau
+    - ¾ ounce Lillet blanc
+    - ¾ ounce lemon juice
+    - Absinthe for rinsing glass
+    - "Garnish: Absinthe, for rinsing the glass"
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled glass that has been rinsed with absinthe. 
+    - (For a Corpse Reviver No. Blue, simply substitute blue curaçao for the Cointreau.)
+    tags:
+    - 
+  - name: Cosmopolitan
+    year: 
+    notes: |+2
+      The most popular original cocktail of the last decade of the twentieth century and the early aughts and a genuine sensation owing to its featured role in the television show Sex and the City, whose four female protagonists couldn’t get enough of the tart-sweet pink things. It is a simple sour made of lemon-flavored vodka, lime juice, cranberry cocktail, and Cointreau. Its origins have been a subject of controversy for decades; the only story that has held water over time is that of bartender Toby Cecchini, who said he invented the cocktail in 1988 as a shift drink for the staff at Odeon, a swanky Manhattan restaurant where he worked. He claimed that he was working off the recipe for a California cocktail with the same name, improving on it.
+
+      It was created the same year Absolut Citron came on the U.S. market. (A counter claim from a Florida bartender named Cheryl Cook, who said she created it earlier than 1988, persists to this day, primarily because it was promoted by influential bartending mentor Gary Regan.) The drink traveled fast and by the early 1990s was seen at other New York bars. Some places came up with their own riffs on the recipe. Dale DeGroff, working at Rainbow Room, did much to popularize the Cosmo—as it was called for short—by serving it at his high-profile perch. But Sex and the City kicked it into the stratosphere, and many Carrie Bradshaw wannabes adopted it as their signature tipple.
+
+      The inevitable backlash came when high-minded mixologists refused to make the drink, because (1) it called for flavored vodka and sweetened cranberry cocktail, two things they abhorred, and (2) worse sin, it was popular with the masses. Cecchini himself also disowned the Cosmo for a time, tiring of the responsibility of a cocktail so loved by some and so hated by others. In time, though, he came to wear the achievement with pride, doing brand work with Absolut, Cointreau, and even Ocean Spray. And though he never put the Cosmo on the menu at his Long Island Bar, he did sell a frozen Cosmopolitan. An acknowledgment of sorts.
+    glassware: coupe
+    ingredients:
+    - 2 ounces Absolut Citron vodka
+    - 1 ounce Cointreau
+    - 1 ounce lime juice
+    - 1 ounce Ocean Spray cranberry cocktail
+    - "Garnish: lemon twist"
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Express a lemon twist over the drink and slip it into the glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Cuba Libre
+    year: 
+    notes: |+2
+      A highball composed of rum and cola, usually Coca-Cola, often with a squeeze of lime juice, with origins in Cuba in the early 1900s. It quickly jumped the water and found a home in the States, helped immensely by the Andrews Sisters, who had a massive hit in 1944 with a song called “Rum and Coca-Cola.” “Rum and Coke” is how most of the world came to know and drink it, though the original name came back into fashion with the cocktail revival of the current century. Some insist that lime is the factor that separates a Cuba Libre from a mere Rum and Coke. And indeed, it makes a world of difference. It almost makes it a cocktail.
+    glassware: 
+    ingredients:
+    - 2 ounces rum
+    - ½ lime
+    - 4 ounces Coca-Cola
+    - "Garnish: lime wheel"
+    steps:
+    - Fill a highball glass with ice. 
+    - Squeeze the lime half over the ice, add the rum, and top with the Coke. 
+    - Stir briefly and garnish with a lime wheel.
+    tags:
+    - stirred
+  - name: Daiquiri
+    year: 
+    notes: |+2
+      A simple sour composed of rum, sugar, and lime juice, this drink somehow extracts power, poetry, and a party atmosphere from that simple equation and stands as the finest and fullest employment of that holy trinity of cocktail ingredients. It is the favorite drink of many a bartender, and millions of people agree with that assessment. The daiquiri is named for a town in Cuba where Jennings Cox, a rotund, bow-tie-sporting American mining engineer worked at an iron mine around the time of the Spanish-American War. A jolly entertainer, Cox would serve large batches of his own liquid invention, a just-so blend of light-bodied white rum, lime, and sugar. Cox took his daiquiri to a couple of upscale bars he hung out at in nearby Santiago de Cuba: the Hotel Venus bar and the private San Carlos Club. According to Jeff “Beachbum” Berry, a bartender to whom Cox introduced the drink began mixing it in single servings that he poured over shaved ice in a cocktail glass. From Santiago the recipe traveled to Havana. Over the next couple of decades, a perfect storm of circumstances conspired to make the daiquiri a border-crossing hit. Prohibition was passed, instilling in thirsty Americans a sudden urge to travel to Cuba, where liquor still flowed freely. Anyone drinking in Havana was bound to encounter a daiquiri at some point.
+
+      In the 1930s, the drink was given an added boost by the one-man publicity machine known as Ernest Hemingway, who had decamped to Cuba and ended up spending as much time drinking at the Havana bar El Floridita as writing. Hemingway’s fame rubbed off on the drink. On a wave of rum that flooded the States following Prohibition’s repeal, the daiquiri swept the country. The words frozen and daiquiri were never quite strangers. Those chilly potions Hemingway guzzled at El Floridita were served on piles of shaved ice. In the 1928 work When It’s Cocktail Time in Cuba, Prohibition-era writer Basil Woon cautioned that the drink “must be drunk frozen or it is not good.”
+
+      When the Waring blender was introduced to America in 1937, encouraging people to make smoothies out of everything, the daiquiri was transformed, as Wayne Curtis puts it in And a Bottle of Rum, into “something to be eaten with a spoon.” Postwar America’s love of mechanical convenience and the need for speedy service in the discos and singles’ bars of the 1970s sealed the drink’s slushy fate. In 1971, Dallas resident Mariano Martinez paired up with inventor Frank Adams to make the first frozen drink machine, and the daiquiri, in a rainbow of fruity new flavors, returned to batch proportions.
+
+      By the turn of the twenty-first century, the daiquiri had a not-terribly-dignified reputation as a fruity, frothy, adolescent concoction, made for injudicious college drinking and the “specialty cocktail” page at chain restaurants, and all too often impregnated with artificial colors and flavors. Then mixologists rediscovered the drink. Using careful techniques and artisan rums, they pared the drink down to its bones and started pouring daiquiris of beauty and balance. Through their efforts, the sour is now regarded as one of the four or five greatest cocktails of all time, and certainly the sour held in highest estimation in cocktail circles. It was the favorite drink of cocktail renaissance architect Sasha Petraske.
+    glassware: coupe
+    ingredients:
+    - 2 ounces light rum
+    - 1 ounce simple syrup
+    - ¾ ounce lime juice
+    - "Garnish: lime wheel"
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Garnish with a lime wheel.
+    tags:
+    - shaken
+    - citrus
+    - daiquiri
+  - name: Dark and Stormy
+    year: 
+    notes: |+2
+      A highball made of dark rum, ginger beer, and sometimes a squeeze of lime. It is thought to have been invented in Bermuda sometime around World War I and remains a popular drink there. Traditionally, the drink was made with two Bermudian products, Gosling’s Black Seal rum and Barritt’s ginger beer. The Gosling company has owned a registered trademark for the name “Dark ’n Stormy” (only one apostrophe, for some reason) since 1991. Since then, they have acted as industry killjoy, preventing any bar from using the name if they don’t put Gosling’s rum in the cocktail. This has caused the simple drink to be sold under any number of aliases.
+    glassware: highball
+    ingredients:
+    - 2 ounces dark rum
+    - ½ ounce lime juice
+    - 3 ounces ginger beer
+    steps:
+    - Combine the rum and lime juice in a highball glass filled with ice. 
+    - Top with the ginger beer. 
+    - Stir briefly.
+    tags:
+    - stirred
+  - name: De La Louisiane
+    year: 
+    notes: |+2
+      A forgotten New Orleans whiskey cocktail, brought back to health by the curious bartenders of the cocktail revival. Sometimes referred to as the A La Louisiane, or just La Louisiane, it was the house cocktail at the New Orleans hotel and restaurant of the same name. Like most New Orleans cocktails—and very like its kissing cousin, the Vieux Carré—it is big and boozy, the rye paired with sweet vermouth and Bénédictine, with touches of absinthe and Peychaud’s just to prove it hails from NOLA. The Hotel De La Louisiane did business at 725 Rue Iberville in the French Quarter from 1881, when it was founded by Louis Bezaudun and his wife, Ann, until 1996, when it finally went under. (The building still stands.) It’s unclear when the drink was invented, but, given the presence of absinthe, it would likely have been before the substance was banned in 1912. The cocktail was locally famous enough by the 1940s that an illustration of it graced the front of the menu, and it sat at the top of the cocktail list. The cocktail would likely have been lost to time if Stanley Clisby Arthur hadn’t put the recipe in his 1937 book, Famous New Orleans Drinks and How to Mix ’Em. It was there that modern bartenders found it and began to mix ’em again.
+    glassware: coupe
+    ingredients:
+    - 2 ounces ounce rye
+    - ¾ ounce sweet vermouth
+    - ¾ ounce Bénédictine
+    - 2 dashes Peychaud’s bitters
+    - 2 dashes absinthe
+    - "Garnish: cherry"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Garnish with a cherry.
+    tags:
+    - stirred
+  - name: El Diablo
+    year: 
+    notes: |+2
+      A tequila cocktail from the 1940s that enjoyed a resurgence in the 2020s, riding on the coattails of the agave-spirits boom of that time. The origins of the El Diablo are typically traced back to Trader Vic’s, the mid-century tiki-bar chain founded by Victor Bergeron. The drink appeared in Trader Vic’s cocktail manual in 1946, and Bergeron put a “Mexican El Diablo” on his 1947 cocktail menu. Tiki scholar Jeff Berry speculates that Bergeron was riffing on a similarly structured rum drink called the Diablo. The drink vanished from the Trader Vic’s menu in the 1950s, but then reemerged in the 1960s at Trader Vic’s Mexican restaurant chain, called Señor Pico. However, not many other bars picked up on Vic’s lead. The El Diablo is found in very few cocktail books published over the past century. It’s not even in the annual Mr. Boston series of bar manuals. Julie Reiner was one of the first figures of the cocktail renaissance to give the cocktail some play in the current century. She sold the drink at the Flatiron Lounge, her trailblazing Manhattan cocktail bar that opened in 2003. It was also on the opening menu at PDT and an early menu at Milk & Honey in London. But it wasn’t until 2022 that it became ubiquitous, becoming the cocktail bartender’s suggestion to agave-thirsty customers after they have had already their Margarita, Paloma, and Oaxaca Old-Fashioned.
+    glassware: collins
+    ingredients:
+    - 2 ounces tequila
+    - 2 ounces ginger beer
+    - ¾ ounce lemon juice
+    - ½ ounce crème de cassis
+    - "Garnish: lemon twist"
+    steps:
+    - Combine the ingredients except the ginger beer in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a collins glass. 
+    - Top with the ginger beer. 
+    - Express a lemon twist over the drink and drop it into the glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Espresso Martini
+    year: 
+    notes: |+2
+      The most famous invention of London bartender Dick Bradsell and simply one of the most popular and enduring drinks to arrive in the forty years spanning the turn of the twenty-first century. Though it was originally called, quite prosaically, Vodka Espresso, after its two defining ingredients, it is listed here under its more commonly accepted name. As legend has it, Bradsell created the first version of the drink one night in the mid-1980s at the Soho Brasserie, when a woman whom the bartender remembered as a model asked for a drink that would “wake me up and then fuck me up.” This first version was an off-menu drink made of only vodka and espresso, tied together with a little simple syrup, and served on the rocks with a garnish of three espresso beans. The drink didn’t appear on a menu until Jonathan Downey hired Bradsell at his bar Match EC1, which opened in 1997. By then, it was made with coffee liqueur and served up in a stemmed glass. In 1998, Bradsell renamed it the Pharmaceutical Stimulant and put it back on the rocks; this rendition was served at artist Damien Hirst’s bar Pharmacy. In the aughts, the drink had made its way to coffee-loving Australia, where it proved phenomenally popular. Although still heavily associated with the 1990s, the drink made an unexpected comeback in the late 2010s. By 2020, it was ubiquitous and all but inescapable, more popular than it had ever been. The arrival on the market of high-quality coffee liqueurs like Mr. Black had something to do with this.
+    glassware: coupe
+    ingredients:
+    - 2 ounces vodka
+    - 1 ounce fresh espresso
+    - ½ ounce coffee liqueur
+    - ¼ ounce simple syrup
+    - "Garnish: 3 coffee beans"
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a coupe. 
+    - Garnish with three espresso beans placed on the surface of the drink.
+    tags:
+    - shaken
+    - caffeinated
+  - name: Fifty-Fifty Martini
+    year: 
+    notes: |+2
+      A popular form of the classic Martini in which gin and dry vermouth sit in equal proportions, leading to a cocktail that is less alcoholic and lighter in body, affording each of the two main ingredients an equal voice. While equal-parts Martinis can be found in drink manuals of the late nineteenth century (albeit made with Old Tom gin and sweet vermouth), the style was never particularly dominant, and it achieved its zenith in popularity only in the twenty-first century, when it was championed by mixologists equally besotted with historical authenticity and vermouth. The first to proffer the style was Sasha Petraske of Milk & Honey fame. But widespread acceptance among the cocktail cognoscenti came with Pegu Club, where owner Audrey Saunders put her fifty-fifty Martini on the opening menu and left it there. The drink was soon adopted by fellow bartenders and the media who covered them. Preferring fifty-fiftys became accepted dogma and a badge of honor among those in the know. (Some have speculated that the style was popularized by liquor brand ambassadors looking to cut back on their alcohol intake.) The style remains popular among epicures, though it has never overtaken the dry Martini in terms of mass popularity. By the mid-2010s, many modern bartenders returned to drier styles of the cocktail with a renewed respect. A popular cheat on the recipe is to make it with Navy Proof gin, which increases the drink’s punch but erases its initial purpose.
+    glassware: coupe
+    ingredients:
+    - 1½ ounces gin
+    - 1½ ounces dry vermouth
+    - 2 dashes orange bitters
+    - "Garnish: lemon twist"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Express a lemon twist over the drink and slip it into the glass.
+    tags:
+    - stirred
+    - martini
+    - low-abv
+  - name: Fitzgerald
+    year: 
+    notes: |+2
+      A gin sour with bitters, invented in the 1990s by Dale DeGroff at the Rainbow Room, who named it after the writer F. Scott Fitzgerald. Nowhere is it more loved than Minneapolis–St. Paul, where they appreciate the original Fitzgerald, too.
+    glassware: rocks
+    ingredients:
+    - 1½ ounces gin
+    - 1 ounce simple syrup
+    - ¾ ounce lemon juice
+    - 2 dashes Angostura bitters
+    - "Garnish: lemon twist"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a rocks glass. 
+    - Garnish with a lemon twist.
+    tags:
+    - stirred
+    - citrus
+  - name: French 75
+    year: 
+    notes: |+2
+      A high-end sour royale of French origin composed of lemon juice, sugar, champagne, and—here’s where things get interesting—either gin or cognac. The drink has its origins in the 1920s, and early recipes stipulate calvados and grenadine, but by the end of the decade they call for gin. Starting in the 1940s, however, some noted voices, such as David A. Embury, the opinionated lawyer-author of The Fine Art of Mixing Drinks (1948), began advocating for cognac. Dale DeGroff, the bartender godfather of the American cocktail revival, also liked cognac in the cocktail, and printed that version in his influential 2002 book The Craft of the Cocktail. But no one has done more to promote the cognac camp than New Orleans bartender Chris Hannah. And since Hannah was the head bartender of the French 75 Bar in New Orleans for more than a decade, his opinion went a long way. Over time, everyone agreed that both versions taste good. Still, given cognac’s cost, gin remains the more common base.
+    glassware: flute
+    ingredients:
+    - 1 ounce gin or cognac
+    - ½ ounce lemon juice
+    - ½ ounce simple syrup
+    - 2 ounces champagne
+    - "Garnish: lemon twist"
+    steps:
+    - Combine all the ingredients except the champagne in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a flute. 
+    - Top with the champagne. 
+    - Garnish with a lemon twist.
+    tags:
+    - shaken
+    - citrus
+    - sparkling
+  - name: Gibson
+    year: 
+    notes: |+2
+      Frequently described as a Martini with a cocktail onion, the Gibson has nonetheless held on to its own separate identity long enough to retain its specific name. The drink’s defining garnish is actually a latecomer. Early recipes do not call for an onion at all. The famous allium first appears in the 1922 book Cocktails—How to Mix Them by Robert Vermeire. By the 1940s, drink and garnish were inseparable. The Gibson is also distinct from the Martini in terms of bitters; the Gibson has none. Various colorful and improbable stories circulate as to how the drink got its name, none of them true. After years shivering in the shadow of the Martini, this cocktail made a comeback in the 2010s, with many bars offering careful and imaginative takes on the Gibson, often using blanc vermouth instead of or in addition to dry, and their own house-pickled cocktail onions. Dear Irving in New York became particularly well known for its Gibson.
+    glassware: coupe
+    ingredients:
+    - 3 ounces gin
+    - 1 ounce dry vermouth
+    - "Garnish: cocktail onion"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Garnish with a cocktail onion.
+    tags:
+    - martini
+    - freezer bar
+    - stirred
+  - name: Gin and Tonic
+    year: 
+    notes: |+2
+      A highball made of guess what? There’s a squeeze of citrus in there, too, either lemon or lime, depending on where you live. A good drink if malaria is a constant threat for you, as it was for the British in India in the nineteenth century, who found a nifty way to temper their daily dose of quinine. Typically a simple, barely unadorned drink, but in Spain, where it is called Gin Tonic, it is the opposite: a colorful sideshow of herbs and fruits served in a goblet.
+    glassware: collins
+    ingredients:
+    - 1½ ounces gin
+    - 3 ounces tonic water
+    - "Garnish: lime wedge"
+    steps:
+    - Combine the ingredients in a collins glass filled with ice. 
+    - Stir briefly. 
+    - Squeeze a lime wedge over the drink and drop it into the glass.
+    tags:
+    - stirred
+  - name: Gin Basil Smash
+    year: 
+    notes: |+2
+      The most famous modern classic cocktail to come out of Germany. It was the invention of Joerg Meyer, the owner of Le Lion in Hamburg. Meyer was influenced by the Whiskey Smash, which he experienced at Pegu Club during a trip to New York. Created in 2008, it is basically a gin Mojito, but with basil instead of mint as the muddled herb. Fantastically popular in Europe, it has never made the leap to North America. Le Lion sells three hundred to five hundred a night. In 2012, Meyer painted the words “Cradle of the Gin Basil Smash” on the outside of the bar.
+    glassware: 2008
+    ingredients:
+    - 2 ounces gin
+    - 1 ounce lemon juice
+    - ¾ ounce simple syrup
+    - Basil leaves
+    steps:
+    - Muddle 4 or 5 basil leaves at the bottom of a cocktail shaker. 
+    - Add the liquid ingredients and ice and shake until chilled, about 15 seconds. 
+    - Double strain into a rocks glass filled with ice. 
+    - Garnish with more basil leaves.
+    tags:
+    - shaken
+    - citrus
+  - name: Gin-Gin Mule
+    year: 2000
+    author: Audrey Saunders
+    notes: |+2
+      A popular modern classic cocktail invented by Audrey Saunders in 2000 at Beacon restaurant in New York. It is basically a Mojito crossed with a Moscow Mule but made with gin and homemade ginger beer—a rarity at the time. It achieved wide popularity after being featured on the menu at Saunders’s bar Pegu Club. Some have noted a similarity between it and the Ginger Rogers, a drink by Marcovaldo Dionysos, which was based on a 1914 drink by Jacques Straub called the Favorite Cocktail. The Ginger Rogers was the breakout cocktail at Absinthe, which opened in San Francisco in 1998.
+    glassware: highball
+    ingredients:
+    - 1¾ ounces Tanqueray Gin
+    - ¾ ounce lime juice
+    - 1 ounce simple syrup (1:1)
+    - 2 mint sprigs (1 for muddling; 1 for garnish)
+    - 1 ounce homemade ginger beer
+    - "Garnish: mint sprig"
+    steps:
+    - Combine the lime juice, simple syrup, and one mint sprig at the bottom of a mixing glass. 
+    - Muddle well. 
+    - Add the gin and ginger beer and half-fill with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a highball glass filled with ice. 
+    - Garnish with a mint sprig. 
+    - Serve with a straw.
+    tags:
+    - shaken
+    - citrus
+  - name: Gold Rush
+    year: 2001
+    notes: |+2
+      A Whiskey Sour variation using bourbon, lemon juice, and a rich honey syrup instead of sugar or simple syrup. It was created in 2001 at Milk & Honey, a collaboration of T. J. Siegel, who hatched the idea and ordered it, and owner Sasha Petraske, who created the honey syrup and stirred up the first specimen. It quickly became popular at the bar, suggested as a bartender’s choice for customers interested in a new whiskey cocktail. From there, it leapt to other Petraske joints and other cocktail bars. The Gold Rush was Milk & Honey’s first success in producing an original classic cocktail. It directly inspired the creation of the Penicillin, another Milk & Honey classic.
+    glassware: rocks
+    ingredients:
+    - 2 ounces bourbon
+    - ¾ ounce lemon juice
+    - ¾ ounce rich honey syrup (3 parts honey to 1 part water)
+    steps:
+    - Combine the ingredients in a cocktail shaker three-quarters filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into an old-fashioned glass filled with one large ice cube.
+    tags:
+    - shaken
+    - citrus
+    - milk & honey
+  - name: Grasshopper
+    year: 
+    notes: |+2
+      One of the great dessert drinks of the twentieth century, a mixture of crème de cacao, crème de menthe, and cream. The cacao used is the clear sort; the menthe the green kind, which lends the drink its trademark color and its name. Its origins are unclear. A popular story has it being invented in 1928 by Philip Guichet, the owner of the New Orleans institution Tujague’s, but there is no evidence to back this up. Even if it was invented there and then, the Grasshopper did not take off. (The drink, however, continued to be served there for many years, and no bar is more associated with the cocktail.) It quickly rose to prominence in the post–World War II years, particularly in the Midwest, and for a few decades was ubiquitous, until it eventually faded from view as too old-fashioned, sweet, and caloric. In the 2020s, however, it made a comeback and was served at some of the best cocktail bars. This was due, in part, to the arrival on the market of quality, artisanal versions of cacao and menthe, liqueurs that had become tainted by coloring and chemicals over time. In the Midwest, a base of lingering popularity, the drink is often served as an ice cream drink, with vanilla ice cream replacing the cream, and the two liqueurs playing accenting roles. New Orleans bartender Paul Gustings, who uses cognac in the drink, is considered a modern master of the Grasshopper.
+    glassware: coupe
+    ingredients:
+    - 1 ounce heavy cream
+    - 1 ounce crème de menthe (the green kind)
+    - 1 ounce crème de cacao (the clear kind)
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds, and strain into a chilled coupe.
+    tags:
+    - 
+  - name: Greyhound
+    year: 
+    notes: |+2
+      A highball made of gin and grapefruit juice or, later, vodka. There’s a bar in Oakland, California, called Cafe Van Kleef that has made it their signature drink (with freshly squeezed grapefruit juice) simply because the owner liked them—the only way a bar is going to specialize in Greyhounds, if the boss insists.
+    glassware: collins
+    ingredients:
+    - 1½ ounces vodka
+    - 4 ounces grapefruit juice
+    steps:
+    - Combine the ingredients in a collins glass filled with ice. 
+    - Stir briefly.
+    tags:
+    - stirred
+    - citrus
+  - name: Hanky Panky
+    author: Ada Coleman
+    year: 
+    notes: |+2
+      A cocktail invented in the 1920s by British bartender Ada Coleman, consisting of gin, sweet vermouth, and a small amount of Fernet-Branca. It was included in The Savoy Cocktail Book, though not attributed to Coleman. It is the most famous classic cocktail to call for fernet.
+    glassware: coupe
+    ingredients:
+    - 1½ ounces gin
+    - 1½ ounces sweet vermouth
+    - 2 dashes Fernet-Branca
+    - "Garnish: orange twist"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Express an orange twist over the drink and drop it into the glass.
+    tags:
+    - stirred
+    - freezer bar
+  - name: Harvey Wallbanger
+    year: 
+    notes: |+2
+      A simple highball made of vodka, orange juice, and a float of Galliano that burst into the American consciousness in the early ’70s—so much so that it inspired Harvey Wallbanger mixes, cakes, parties, swag, and even a presidential campaign for its fictional mascot, a pained-looking cartoon surfer who quipped, “My name is Harvey Wallbanger, and I can be made.” So popular was the drink that Galliano ranked as the best-selling liqueur in the United States through the decade. The drink’s origins are murky, but they definitely involve a Los Angeles bartender named Donato “Duke” Antone and a marketing man named George Bednar. Bednar worked for McKesson Imports, who netted Galliano as a client in the late 1960s and went fishing around for an angle on how to increase sales. In California, he found the drink that would be marketed as the Harvey Wallbanger. Bednar did not connect with Antone at that time, but there is evidence that the bartender invented the drink as early as the 1950s, calling it the Duke Screwdriver and selling it at his L.A. bar Black Watch. How the new name came about is unknown. (There is nothing to the oft-repeated tale that it was named after a surfer who drank one too many and began banging on the wall.) Nonetheless, by the 1970s Antone was working for Galliano and Smirnoff vodka and was calling himself the inventor of the cocktail. The Harvey Wallbanger’s greatest claim to fame is as the most successful corporate cocktail to have ever been launched until the Aperol Spritz came along. The cocktail’s popularity had faded by the 1980s, and efforts by bartenders in the twenty-first century to bring it back or improve it have failed. Nonetheless, it retains a hold on the public imagination, primarily because of its catchy name, which, it must be admitted, is one of the best ever in cocktail history.
+    glassware: 
+    ingredients:
+    - 1½ ounces vodka
+    - 3 ounces orange juice
+    - ½ ounce Galliano
+    - "Garnish: orange wheel"
+    steps:
+    - Combine the vodka and orange juice in a highball glass filled with ice and stir. 
+    - Float the Galliano on top and garnish with an orange wheel.
+    tags:
+    - stirred
+    - citrus
+  - name: Hemingway Daiquiri
+    year: 
+    notes: |+2
+      A daiquiri variation made at El Floridita in Havana at the bidding of their best and most famous customer. As the oft-repeated story goes, diabetic Papa sampled a house daiquiri there and said, “That’s good but I prefer it without sugar, and double rum.” At some point, grapefruit juice and maraschino liqueur (the measurement usually being listed as a ludicrous “six drops”) were added to the mix. The drink, sometimes called the Papa Doble, is still served at El Floridita. It is served at many other places besides, but the version you’ll get is not exactly as prescribed by the novelist, but adapted; most bartenders believe the extra-boozy, sugar-free Daiquiri of Hemingway is all but undrinkable.
+    glassware: coupe
+    ingredients:
+    - 2 ounces white rum
+    - ¾ ounce lime juice
+    - ½ ounce maraschino liqueur
+    - ½ ounce grapefruit juice
+    - ½ ounce simple syrup
+    steps:
+    - Combine all the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe.
+    tags:
+    - shaken
+    - daiquiri
+    - citrus
+  - name: Hotel Nacional Special
+    year: 
+    notes: |+2
+      A drink of rum, lime juice, pineapple juice, and apricot liqueur named after, and associated with, the famed hotel in Havana. Credit, which is disputed, goes to either Wil P. Taylor or Eddie Woelke. It is not nearly as famous or popular as other cocktails with a Cuban pedigree, such as the daiquiri and Mojito. Indeed, it was all but forgotten when mixologists of the twenty-first century made efforts to reclaim it. Still, if you visit the Hotel Nacional today, you’ll be hard-pressed to find a bartender who knows how to make one.
+    glassware: nick & nora
+    ingredients:
+    - 2 ounces rum
+    - 1 ounce pineapple juice
+    - ½ ounce lime juice
+    - ½ ounce simple syrup
+    - ½ ounce apricot liqueur
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled cocktail glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Hummer
+    author: Jerome Adams
+    year: 1968
+    notes: |+2
+      A popular Michigan cream drink invented by bartender Jerome Adams at the Bayview Yacht Club in Detroit in 1968. It is composed of white rum, coffee liqueur, and vanilla ice cream. Adams bartended at the club for more than fifty years and died in 2018.
+    glassware: rocks
+    ingredients:
+    - 1½ ounces white rum, preferably Bacardi
+    - 1½ ounces Kahlúa or another coffee liqueur
+    - 2 scoops vanilla ice cream
+    - ½ cup crushed ice
+    steps:
+    - Combine the ingredients in a blender and blend until the ice is broken down. 
+    - Serve in a chilled rocks glass.
+    tags:
+    - blended
+    - frozen
+  - name: Irish Coffee
+    year: 
+    notes: |+2
+      A hot blend of Irish whiskey, coffee, and sugar, topped with cream, that has reigned for more than half a century as one of the world’s top hot drinks, daytime drinks, and coffee drinks simultaneously. The story goes that Stanton Delaplane, an influential columnist at the San Francisco Chronicle whose job it was to travel, discovered the drink during a layover at Shannon Airport in 1951. The man who handed it to him was Joe Sheridan, the chef there at the time. Invented by Sheridan in the 1940s and originally called the Gaelic Coffee, it caught on with Americans passing through the airport. Delaplane was in a position to take the cocktail beyond word of mouth. He brought the memory of the cocktail back to San Francisco and introduced it to Jack Koeppler, owner of the Buena Vista. After some experimentation, they nailed the drink’s formula. The first Irish Coffee was reportedly sold there on November 10, 1952.
+
+      Delaplane, of course, couldn’t help himself and wrote up his discovery. He wasn’t the first American journalist to report on the drink; there were newspaper accounts as early as 1946. But Delaplane had a wider reach than his colleagues. In earlier accounts, the drink was still called Gaelic Coffee, but eventually the name Irish Coffee won out. By 1955, the Buena Vista was serving 700 of the things a day and the trend had jumped to New York and elsewhere. Ireland took note. In 1956, the deputy prime minister of Ireland himself, one William Norton, sampled an Irish Coffee at the Buena Vista and, knowing a winner when he saw one, encouraged Americans to buy more Irish whiskey. The Buena Vista continues to sell them hand over fist. The Dead Rabbit and Fort Defiance in New York also serve well-loved versions. But you can get one anywhere, although of widely varying quality.
+    glassware: mug
+    ingredients:
+    - 4 ounces freshly brewed hot coffee
+    - 1 tablespoon brown sugar
+    - 1½ ounces Irish whiskey
+    - Heavy cream, slightly whipped
+    steps:
+    - Fill a footed mug or mug with hot water to preheat it, then empty. 
+    - Pour hot coffee into the warmed mug. 
+    - Add the brown sugar and stir until completely dissolved. 
+    - Stir in the Irish whiskey. 
+    - Top with whipped heavy cream by pouring gently over the back of a spoon.
+    tags:
+    - caffeinated
+    - heated
+    - stirred
+  - name: Jack Rose
+    year: 
+    notes: |+2
+      The premier apple brandy drink of the cocktail canon, it is a simple sour made of the spirit, grenadine, and either lemon or lime juice (recipes have varied over the years). The drink’s origins are murky, and the stories behind the name are many, including that it was named after the ‘Général Jacqueminot’ rose, commonly known as the Jack Rose; though the fact that it is made with applejack and has a rose color must be taken into account. It enjoyed a cameo in Ernest Hemingway’s novel The Sun Also Rises, in which it is drunk by protagonist Jake Barnes. And, somewhat bizarrely, it is named as one of the six basic drinks by David A. Embury in his influential 1948 work The Fine Art of Mixing Drinks. Embury must have had a few too many Jack Roses when he wrote that chapter. The drink’s popularity faded as the twentieth century came to a close, though it has retained a strong following in New Jersey, home of Laird’s Applejack, the leading brand of apple brandy and the oldest licensed distillery in the United States. The twenty-first century brought it back, as Laird’s bonded apple brandy was newly appreciated and more widely available. Bartender Jackson Cannon had a hit with the drink when he made it the centerpiece of his menu at Eastern Standard in Boston. Cannon was also a member of the Jack Rose Society, an elite club of Boston mixologists. Some, notably Thad Vogler, choose to make the drink with calvados.
+    glassware: nick & nora
+    ingredients:
+    - 2 ounces bonded applejack
+    - ¾ ounce lemon juice
+    - ¾ ounce grenadine
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled cocktail glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Jasmine
+    year: 1990
+    author: Paul Harrington
+    notes: |+2
+      A riff on the Pegu Club that includes gin, lemon juice, Cointreau, Campari, and a lemon twist. It was invented on the spot by bartender Paul Harrington one night in 1990 at the bar Townhouse, in Emeryville, California, when a regular customer asked for something new. The cocktail gained wider visibility when Harrington included it in his 1998 book Cocktail: The Drinks Bible for the 21st Century, which became a go-to handbook for 1990s mixologists looking for answers on cocktail history. By the mid-aughts, it was regarded as a modern classic. The drink was named after the man who ordered it—Matt Jasmin—but Harrington got the spelling wrong.
+    glassware: nick & nora
+    ingredients:
+    - 1½ ounces gin
+    - ¾ ounce lemon juice
+    - ¼ ounce Cointreau
+    - ¼ ounce Campari
+    - "Garnish: lemon twist"
+    steps:
+    - Combine all the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled cocktail glass. 
+    - Garnish with a lemon twist.
+    tags:
+    - shaken
+    - citrus
+  - name: Jungle Bird
+    year: 1978
+    notes: |+2
+      A very simple and once-obscure tiki drink made of rum, pineapple juice, lime juice, simple syrup, and Campari. It was invented in 1978 at the Kuala Lumpur Hilton and rediscovered by tiki historian Jeff Berry in a 1989 paperback called The New American Bartender’s Guide. Berry then reprinted the recipe in his 2002 book Intoxica! The New York bar Painkiller took the recipe and tweaked it, replacing the prescribed dark Jamaica rum with the more intense blackstrap rum. It was this version that caught the bartending community’s fancy, primarily owing to the unexpected presence of the bitter Campari, making the drink something of a unicorn in the tiki canon. By the mid-2010s, the Jungle Bird was being served in bars across the United States and was widely popular with the public. Several bars have named themselves after the cocktail. Today, the Jungle Bird ranks among the most familiar of all tiki cocktails.
+    glassware: rocks
+    ingredients:
+    - 1½ ounces blackstrap rum, preferably Cruzan
+    - ¾ ounce Campari
+    - 1½ ounces pineapple juice
+    - ½ ounce lime juice
+    - ½ ounce simple syrup
+    - "Garnish: pineapple wedge"
+    steps:
+    - Combine all the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a rocks glass over one large piece of ice. 
+    - Garnish with a pineapple wedge.
+    tags:
+    - shaken
+    - citrus
+    - tiki
+  - name: Last Word
+    year: 
+    notes: |+2
+      A lost, pre-Prohibition cocktail made of gin, maraschino liqueur, Chartreuse, and lime juice, rediscovered by veteran Seattle bartender Murray Stenson in the pages of Ted Saucier’s 1951 cocktail book Bottoms Up!, where it was credited to the Detroit Athletic Club. Stenson began to serve the drink in 2004 at the Zig Zag Café, where he worked. Word of the Last Word quickly spread through the internet and bartender grapevine, and soon it was being served at Pegu Club in New York and elsewhere. The drink’s equal-parts construction and use of products then being championed in mixology circles (gin, Chartreuse, maraschino liqueur) made it popular among cocktail bartenders and enthusiasts. The drink has inspired dozens of variations, including the Final Ward, Paper Plane, Naked and Famous, Division Bell, and Green Eyes.
+    glassware: nick & nora
+    ingredients:
+    - ¾ ounce gin
+    - ¾ ounce green Chartreuse
+    - ¾ ounce maraschino liqueur
+    - ¾ ounce lime juice
+    steps:
+    - Combine all the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled cocktail glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Little Italy
+    year: 2005
+    author: Audrey Saunders
+    notes: |+2
+      A twist on the Manhattan, created by Audrey Saunders, which debuted at her New York cocktail bar Pegu Club when it opened in 2005. The drink has the requisite rye and sweet vermouth found in a Manhattan, but the Angostura bitters is replaced by a half ounce of Cynar, the Italian artichoke liqueur. It was one of many Manhattan and Brooklyn cocktail riffs to follow in the wake of the creation of the Red Hook cocktail by Vincenzo Errico. Very easy to assemble, the drink was quickly adopted by other bars and home bartenders.
+    glassware: coupe
+    ingredients:
+    - 2 ounces Rittenhouse bonded rye
+    - ¾ ounce Martini & Rossi red vermouth
+    - ½ ounce Cynar
+    - "Garnish: cherry"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Garnish with a brandied cherry.
+    tags:
+    - stirred
+    - manhattan
+    - freezer bar
+  - name: Mai Tai
+    year: 
+    notes: |+2
+      One of the two most iconic tiki cocktails, and the more popular, given the forbidding nature of its sibling, the Zombie. Most histories say the Mai Tai was born in 1944 at Trader Vic’s in Oakland, where Victor Bergeron, aka Trader Vic himself, invented the drink on the spur of the moment for two friends visiting from Tahiti. In tiki terms, it is a relatively simple drink, made up of two rums, lime juice, curaçao, mint, and orgeat.
+
+      The drink was not an instantaneous hit. Little was written about it until the mid-1950s. When it did eventually catch on, the true recipe was difficult to extract from the countless imitators, as Vic kept his formula a secret. When Bergeron took the drink to Hawaii, things became more confused. In 1953, he taught the genuine article to bartenders at the Royal Hawaiian Hotel in Honolulu, but that recipe did not hold for long. Cheap rum and premade mixes came into play, and most recipes substituted softer and more place-appropriate pineapple juice for the original lime juice. Most of the drinks served under the name Mai Tai were fruity and frothy, as well as various strange colors, and bore no resemblance to the original. The Mai Tai didn’t right itself until around 2010, when the serious bartending approaches of the cocktail renaissance were finally applied to the tiki canon of cocktails. The arrival of various artisanal orgeats also aided the fortunes of the drink.
+    glassware: rocks
+    ingredients:
+    - 1 ounce dark Jamaican rum
+    - 1 ounce aged Martinique rum
+    - 1 ounce lime juice
+    - ½ ounce curaçao
+    - ¼ ounce orgeat
+    - ¼ ounce simple syrup
+    - "Garnish: lime shell, mint sprig"
+    steps:
+    - Combine all the ingredients in a cocktail shaker half-filled with ice. Shake until chilled, about 15 seconds. Strain into a double old-fashioned glass. Garnish with a spent lime shell and a mint sprig.
+    tags:
+    - shaken
+    - citrus
+    - tiki
+  - name: Manhattan
+    year: 
+    notes: |+2
+      The first in a creatively momentous wave of new cocktails in the late nineteenth century that combined spirits with vermouth, and one of the indisputably great and most enduring cocktails ever invented. The formula is as 1-2-3 simple as the Martini, which quickly followed it: whiskey, sweet vermouth, aromatic bitters. It burst onto the scene in the early 1880s. The first recipes, which appeared in books in 1884, called for equal parts whiskey and vermouth. Some formulas actually called for more vermouth than whiskey. Either way, it was a sweeter drink than we know today. Whether it was made with bourbon or rye was a matter of choice, a debate that still goes on. It can be made with Canadian whisky or Tennessee whiskey. But not scotch; there you have a Rob Roy. The equal-parts formula continued for some decades until it settled resolutely into the 2 parts whiskey to 1 part vermouth setup that is the accepted norm now. Early versions, if they had a garnish, went with the lemon twist. After repeal, however, a cocktail cherry was the accepted final flourish. In the late nineteenth century, some bartenders enhanced the drink with a dash of absinthe or curaçao or whatnot, but those touches did not survive. In its early days, it was often confused with the Martini, which would have had a similar appearance, whiskey being lighter in color at the time, and dry vermouth being darker.
+
+      A story that the Manhattan was invented at an event at the Manhattan Club in honor of presidential candidate Samuel J. Tilden, hosted by Jennie Jerome, future mother of Winston Churchill, has been thoroughly debunked, but it persists nonetheless. The Manhattan was always a popular drink. Banker J. P. Morgan had one at the end of every business day. Unlike the Martini, important variations on the Manhattan have been few over the years. The drink was a steady, reliable customer. There was the perfect Manhattan, which split the difference between sweet and dry vermouth, and the rarer dry Manhattan, which went all in on dry vermouth. The Boothby, named after San Francisco bartender Bill Boothby, was basically a Manhattan Royale—that is, topped with champagne. With the 1960s, the Manhattan-on-the-Rocks became a popular choice and remains so today in certain segments of society and parts of the country.
+
+      Because of its notoriety and ease of preparation, the Manhattan survived the cocktail dark ages at the end of the twentieth century. With the arrival of the cocktail renaissance, the drink rose in stature through a few simple, commonsense changes: Fresh vermouth was used, as was quality whiskey; bitters were always included (they were often forgotten by late-twentieth-century bartenders); and nonfraudulent cherries came into play. The main shift, however, was in the preference for rye over bourbon among the cocktail smart set. Bartender Vincenzo Errico’s Red Hook cocktail, created in 2003, was perhaps the first important twist on the Manhattan formula in decades (though he was equally inspired by the Brooklyn cocktail). It inspired a deluge of Manhattan variations in the aughts—including the Greenpoint, Slope, and Carroll Gardens—and gave the Manhattan new relevance. The Black Manhattan, in which Averna takes the place of the vermouth, has been a popular twenty-first-century order. In Wisconsin, meanwhile, locals often prefer to use domestic brandy instead of whiskey. The Manhattan remains one of the few classic cocktails you can order in most any bar with confidence that they will have the necessary ingredients on hand and the know-how to put together a decent one. It is a remarkably forgiving drink, the simple ironclad recipe a seeming bulwark against the lowliest whiskey or inept bartending.
+    glassware: coupe
+    ingredients:
+    - 2 ounces rye or bourbon
+    - 1 ounce sweet vermouth
+    - 2 dashes Angostura bitters
+    - "Garnish: cherry"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Garnish with a cherry.
+    tags:
+    - stirred
+    - manhattan
+    - freezer bar
+  - name: Margarita
+    year: 
+    notes: |+2
+      A tequila daisy (tequila, sugar, lime, curaçao) that ranks as one of the most popular cocktails in the world, year in and year out, and the main way most people experience tequila. The origins of the drink are unclear. There are many improbable and unprovable stories, none of which hold water, and they won’t be given any further oxygen in these pages. Very likely it is, like many simple cocktails, one of those inevitable drinks that was bound to happen, and probably happened simultaneously in various places. (A drink that looks very much like a Margarita appears in 1937 London book Café Royal Cocktail Book under the name of Picador.) As to the name, Margarita is the Spanish word for daisy. It’s that simple. Many of the early mentions of Margarita-like drinks call the cocktail a Tequila Daisy. Over time, the two appeared to separate, the Tequila Daisy being made with grenadine and the Margarita with curaçao. A 1961 article in the El Paso Herald-Post tried to clear up the confusion, saying, “First is the Margarita, composed of one jigger tequila, a half jigger each of Cointreau and lime juice, one tsp of sugar and chipped ice. Place this briefly in a blender and serve in a glass, the lip of which has been wetted with lemon juice and then dipped in salt.… Next is the tequila daisy. This drink is one jigger tequila, one teaspoon grenadine, juice of one lime, one tsp sugar and chipped ice, blended and served in a clear glass, without lime or salt.” The earliest newspaper mentions of the Margarita come from California and the Southwest. In the 1950s Jose Cuervo began including the drink in its advertising. But it was in the 1970s that the drink really took hold. This was also when the first frozen Margarita machine was introduced, in Dallas in 1971. With the popularity of the cocktail, tequila sales soared in the U.S. Not long after achieving widespread visibility, the great and simple drink was bastardized in a million ways, served in various colors and flavors, and often with cheap mixto tequila (a mix of agave spirit and whatever) and sour mix instead of fresh juice. With the arrival of the cocktail revolution, bartenders began to make the drink properly again, with 100 percent agave tequila, fresh lime juice, and Cointreau or some other reputable orange liqueur. The drink can be served up or on the rocks and typically features a salt rim.
+    glassware: rocks
+    ingredients:
+    - 2 ounces tequila
+    - 1 ounce Cointreau
+    - ¾ ounce lime juice
+    - "Garnish: lime wedge"
+    steps:
+    - Prepare a rocks glass by running a lime over half the rim and then dipping half the rim in salt. 
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into the waiting glass. 
+    - Garnish with a lime wedge.
+    tags:
+    - shaken
+    - citrus
+    - margarita
+  - name: Martinez
+    year: 
+    notes: |+2
+      A cocktail from the 1880s that is closely associated with the Martini, given the similarity of their names and the relative simultaneity of their debuts. Like early Martinis, and early Turf Clubs for that matter, the first recipes for the Martinez called for Old Tom gin or genever, combined with sweet vermouth. The drink had mainly faded from view by the mid-twentieth century, not to be revived again until the early twenty-first century, when history-minded young mixologists became obsessed with old, forgotten cocktails. The return of Old Tom gin secured the drink’s rebirth, though it remains an unusual order. As with the Martini, none of the various origin stories surrounding the drink are verifiable.
+    glassware: coupe
+    ingredients:
+    - 1½ ounces Old Tom gin
+    - 1½ ounces sweet vermouth
+    - ¼ ounce maraschino liqueur
+    - 2 dashes Angostura bitters
+    - "Garnish: orange twist"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Express an orange twist over the drink and drop it into the glass.
+    tags:
+    - stirred
+    - manhattan
+    - freezer bar
+  - name: Martini
+    year: 
+    notes: |+2
+      The big dog of the cocktail world. The flashing neon silhouette at your corner bar. Nearly a synonym for “cocktail,” it is so universally known and drunk. The only cocktail that has gripped the imagination of the public for the entirety of its existence and the only one to have a body of literature devoted to it—and to have inspired enough accompanying tools, gadgetry, and accessories to fill a small museum. This king of cocktails was a latecomer to the party, showing up in the 1880s, when vermouth-and-anything was a hot idea in barrooms. Its arrival followed hot on the heels of the Manhattan, with which it was often confused in its early days. A recipe first appeared in print in 1888 in books by both Harry Johnson and Theophile Proulx. No one has ever determined the identity of the inventor of the drink; very likely multiple bartenders combined gin and vermouth—then new to the American market—at the same time.
+
+      As to the name, that is also a mystery, though the fact that the leading vermouth at the time was called Martini is a whopping indicator. The early Martini was a sweet drink, made of Old Tom gin and sweet vermouth. The drink’s slow but steady march toward dryness was twofold. The portion of vermouth, which was sometimes equal to that of gin, decreased over time. And the gin and vermouth used in the drink switched from Old Tom to London dry, and sweet vermouth to dry vermouth. Still, the sweet Martini and “medium” Martini (equal parts sweet and dry vermouth) were popular enough that they continued to be served and appear in cocktail books as late as the 1940s. So confused, for so long, was the persona of the Martini that some books offered multiple recipes.
+
+      By the 1940s, the dry ideal had begun to take hold of the American imagination. The vermouth quotient grew smaller and smaller, and the drink grew stiffer and stronger, to the point of fetishism. Much of this likely had to do with the mishandling of vermouth in those days, causing it to be held in disdain. Many were the techniques and devices introduced to the bar to ensure that a Martini would be as dry as the Sahara. At around the same time, in direct contrast to the dry Martini, the Martini-on-the-Rocks appeared. Served in a rocks glass over ice, this swift-and-sloppy version proved popular for decades with those who wanted no fuss and didn’t want to get plastered quite so quickly.
+
+      During these post-repeal years, the Martini became a cultural icon in a way no cocktail ever had been, hoisted up by writers, painters, poets, songwriters, and filmmakers as something as mysteriously American as baseball and apple pie. Among those to rhapsodize and theorize about the drink were Ernest Hemingway, Robert Benchley, Ogden Nash, Luis Buñuel, Winston Churchill, H. L. Mencken, James Thurber, Noel Coward, William Faulkner, Bernard DeVoto, and Ian Fleming, who caused no end of mischief and debate by having his fictional creation James Bond order a Vodka Martini “shaken, not stirred.” The drink found regular work as a supporting player in the movies as well, showing up in The Thin Man, Sabrina, Father of the Bride, and The Apartment, to name a few.
+
+      Beginning in the 1960s, vodka began to creep into the picture, and soon the Vodka Martini was the preferred choice of the sophisticated businessman. Olives were the preferred garnish, the lemon twist of pre-Prohibition time fading from view. With the counterculture upheaval of the late 1960s and 1970s, the Martini grew unfashionable, the drinking choice of another generation. When cocktails made a comeback in the 1990s, however, the Martini returned as the ’tini—that is, anything the customer or bartender wished to pour into the by-then-iconic conical Martini glass. Hundreds of bars featured “Martini lists,” with nary a true Martini on them. Most of these concoctions were colorful and overly sweet; almost none contained either gin or vermouth. The Martini’s reputation as a serious drink suffered greatly during this time, a period that nonetheless produced a few modern classics that traded off the drink’s notoriety, including the Dukes Martini, Breakfast Martini, and Espresso Martini.
+
+      When the cocktail revival came along in the 2000s, few young mixologists paid much attention to the Martini, considering it part of the bad-drinks problem they were fighting to resolve. By the late 2010s, however, serious, classic Martinis made a comeback, among them the trendy Fifty-Fifty Martini, which returned vermouth to the glass with a vengeance. Also restored to its former place was orange bitters, an original ingredient that had been abandoned after repeal. With the Covid-19 pandemic, and people quarantined at home in dire need of a belt, the age-old, ever-ready Martini answered the call of the thirsty once more, while also serving as a reminder of a more carefree past.
+    glassware: coupe
+    ingredients:
+    - 3 ounces gin
+    - 1 ounce dry vermouth
+    - 2 dashes orange bitters
+    - "Garnish: olive or lemon twist"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Garnish with an olive or lemon twist.
+    tags:
+    - stirred
+    - martini
+    - freezer bar
+  - name: Mint Julep
+    year: 
+    notes: |+2
+      One of the oldest and most romanticized of cocktails, whose simple working parts consist of a good slug of bourbon, a bit of sugar, a mound of crushed ice, a silver cup, and an ample tuft of mint. Made correctly, it tastes as close to pure nectar as any mixed drink. Inextricably associated with the southern United States, it likely began as an aristocratic drink enjoyed by the landed gentry of eighteenth- and nineteenth-century Virginia, and typically was made with rum or brandy. By the twentieth century, however, it was forever a bourbon drink most closely linked to Kentucky, where, every Derby Day in Louisville, thousands are consumed under wide-brimmed hats. And while the Kentucky Derby has most certainly kept the drink alive, it has also burdened it with a somewhat cartoonish image. Until recently, bartenders would tell you it was a drink you could sell hundreds of on one day, and none the other 364. That has changed a bit, as cocktail bars have put the original, and many variations, on their menus any warm month they choose. In the nineteenth century, the julep was a full genre of drink, and you could buy ones made with gin, brandy and, most famously, champagne. The Prescription Julep, which enjoyed a comeback in the 2000s, called for both cognac and whiskey. New Orleans bartender Chris McMillian did quite a lot to restore the drink’s fortunes in the aughts. The drink is also the chief modern reason for anyone to own a Lewis bag.
+    glassware: 
+    ingredients:
+    - 2 ounces bourbon
+    - 1 barspoon rich simple syrup (2:1)
+    - 2 large sprigs of mint
+    steps:
+    - Combine the syrup and one sprig of mint, composed of four or five leaves, at the bottom of a metal julep cup. 
+    - Muddle gently. 
+    - Add the bourbon. 
+    - Stir briefly and then add a cup of crushed ice. 
+    - Stir for 5 seconds and add another cup of ice. 
+    - Stir again until a frost develops on the outside of the tin. 
+    - Add more ice, enough to form a dome of crushed ice above the cup’s rim. 
+    - Insert a metal straw. 
+    - Garnish with a second sprig of mint, placed near the straw.
+    tags:
+    - stirred
+    - julep
+  - name: Mojito
+    year: 
+    notes: |+2
+      A rum highball made with lime juice, sugar, mint, and soda water. It became known outside of its native Cuba when thirsty Americans began to visit the island during Prohibition. Those tourists later took the drink back home with them. The bar La Bodeguita del Medio, in particular, became known for the drink and serves hundreds of them every day to tourists. The drink didn’t really break out in the United States until the 1990s, in Miami, with its large Cuban population, and in San Francisco, when the bar Enrico’s began making them using fresh mint, kicking off a craze. By the early 2000s, everyone was drinking Mojitos. The cocktail demanded fresh juice and herbs before such practices became trendy. Being featured in the Bond film Die Another Day gave the drink another boost. You can order one anywhere now, or at least any place that carries fresh mint, though you’ll earn the whispered curses of muddle-hating bartenders. In Cuba, it remains the most popular cocktail by a long shot, far outdistancing the daiquiri. As with other wildly popular cocktails, most versions are indifferent in quality, and top-notch examples are rare. The Mojito has partly inspired some modern classics, including the Gin-Gin Mule and Old Cuban.
+    glassware: collins
+    ingredients:
+    - 2 ounces rum
+    - ¾ ounce simple syrup
+    - ¾ ounce lime juice
+    - Mint leaves
+    - Soda water
+    - "Garnish: mint sprig"
+    steps:
+    - Combine the simple syrup and mint leaves in a cocktail shaker and gently muddle. 
+    - Add the rum, lime juice, and ice and shake until chilled, about 15 seconds. 
+    - Fine strain into a collins glass filled with ice. 
+    - Top with soda water. 
+    - Garnish with a mint sprig.
+    tags:
+    - shaken
+    - citrus
+    - mojito
+  - name: Negroni
+    year: 
+    notes: |+2
+      Italy’s crowning contribution to the cocktail canon, a strong and sweetly bitter aperitivo composition made of equal parts of dry gin, sweet red vermouth, and a red bitters, typically Campari. It is a direct descendent of the Milano-Torino and the Americano, the former a mix of vermouth and red bitters, the latter the same with the addition of soda water. Neither of those drinks were stiff enough for Count Camillo Negroni (1868–1934), an adventurer, gambler, and bon vivant who in 1919 asked the bartender at Caffe Casoni in Florence to replace the soda water with gin. The success of the drink was minimal for a good long time, a relatively obscure epicurean delight adopted by the La Dolce Vita types of the 1950s and ’60s, such as Tennessee Williams, Rudolf Nureyev, and Orson Welles. It received regular mentions in the press beginning in the 1950s, but it hardly gave the Martini or Old-Fashioned a run for their money. During that era, the drink was routinely served up, without ice. The Negroni’s true heyday came with the turn of the twenty-first century, when it was embraced by the mixologists of the cocktail revival as something true, pure, and challenging. It didn’t hurt that it was made of three things they loved and were trying to get others to love: gin, vermouth, and Campari. By the 2010s, it was one of the most consumed cocktails in the world. Variations were legion. The gin was swapped out for bourbon, tequila, mezcal, aquavit, you name it. Every kind of vermouth got its turn, as did all sorts of red bitters, as well as other liquors from the wide amaro family. A few twists, such as the White Negroni and Kingston Negroni, became classics in their own right. The Boulevardier and Old Pal, once completely unknown, owe their lives to the rebirth of the Negroni. And the Negroni Sbagliato, once a specialty enjoyed only in Milan, is drunk internationally. Finally, Campari went from Italian icon to global liquor monolith on the back of this cocktail. By the time it reached its hundredth birthday, the Negroni, a onetime also-ran curiosity, had secured its place as one of the handful of indisputable classic cocktails of all time.
+    glassware: rocks
+    ingredients:
+    - 1 ounce gin
+    - 1 ounce sweet vermouth
+    - 1 ounce Campari
+    - "Garnish: orange twist"
+    steps:
+    - Combine the ingredients in a rocks glass filled with one large ice cube. 
+    - Stir until chilled, about 15 seconds. 
+    - Express an orange twist over the drink and slip it into the glass.
+    tags:
+    - stirred
+    - negroni
+    - freezer bar
+  - name: New York Sour
+    year: 
+    notes: |+2
+      A Whiskey Sour made classy and visually pleasing by a picturesque float of dry red wine. It gained steady visibility through constant inclusion in the annual Mr. Boston bar guides beginning in the 1930s, but never really rated much as a classic or popular order until the cocktail renaissance, when historians and young bartenders in search of sacred causes hauled it back into use. By 2010 it was a common sight and, like the modern Gold Rush and Penicillin, an easy way to make the Whiskey Sour a bit more exciting, as well as a way to show off bartenders’ newfound skill at floating ingredients. Julie Reiner was a particularly ardent early advocate of the drink, which she served at Flatiron Lounge.
+    glassware: 
+    ingredients:
+    - 2 ounces bourbon
+    - ¾ ounce lemon juice
+    - ¾ ounce simple syrup
+    - ½ ounce red wine
+    steps:
+    - Combine all the ingredients except the wine in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a rocks glass filled with one large ice cube. 
+    - Carefully float the red wine on the surface.
+    tags:
+    - shaken
+    - citrus
+  - name: Oaxaca Old-Fashioned
+    year: 2007
+    author: Phil Ward
+    notes: |+2
+      The founding creation of the mezcal cocktail boom that enveloped the American bar world in the 2010s. Invented by bartender Phil Ward at Death & Co. in 2007, it is simply an Old-Fashioned riff with a spirit base split between reposado tequila and mezcal, with Angostura bitters, agave syrup, and a flamed orange twist completing the picture. It directly inspired other bartenders to toy around with mezcal as a cocktail mixer and is the most famous original cocktail to come out of Death & Co.—a fact the bar memorialized by putting the drink on a T-shirt in 2020.
+    glassware: 
+    ingredients:
+    - 1½ ounces reposado tequila, preferably El Tesoro
+    - ½ ounce mezcal, preferably Del Maguey San Luis Del Rio
+    - 2 dashes Angostura bitters
+    - 1 barspoon agave nectar
+    - "Garnish: orange twist"
+    steps:
+    - Combine the ingredients in a rocks glass filled with one large piece of ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Make a flamed orange twist by cutting a piece of orange zest about the size of a silver dollar. 
+    - Hold the orange zest, skin side down, several inches above the drink. 
+    - Light a match and use it to warm the skin side of the peel. 
+    - Quickly squeeze the zest in the direction of the match. 
+    - The oil from the zest will briefly burst into flame, showering its essence over the drink’s surface.
+    tags:
+    - death & co
+    - old-fashioned
+    - stirred
+    - freezer bar
+  - name: Ohio
+    year: 
+    notes: |+2
+      A cocktail named after an American state, but with a rich history in Germany and, mysteriously, almost nowhere else. The cognac version first appeared in German cocktail books in the 1910s. Two rival recipes persisted for much of the Ohio’s mid-twentieth-century reign: one with cognac, curaçao, and bitters, topped with champagne; and one, resembling a Manhattan, using whiskey (sometimes American, sometimes Canadian) and sweet vermouth, again finished with champagne, and sometimes including curaçao, too. By the 1980s, the Ohio’s popularity had faded, and the drink drifted into obscurity, though it is still served at some cutting-edge cocktail bars such as Buck and Breck in Berlin.
+    glassware: 
+    ingredients:
+    - 1 ounce rye whiskey
+    - ½ ounce sweet vermouth
+    - 1 dash Bigallet China-China Amer
+    - 1 dash curaçao
+    - 2 dashes Angostura bitters
+    - 2 ounces champagne
+    steps:
+    - Combine all the ingredients except the champagne in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a silver cup filled with ice. 
+    - Top with the champagne. 
+    - Express an orange twist over the drink and discard.
+    - (There are many versions of this cocktail. This recipe is just one, currently served at the Berlin bar Buck and Breck.)
+    tags:
+    - stirred
+    - sparkling
+  - name: Old Cuban
+    year: 2001
+    author: Audrey Saunders
+    notes: |+2
+      A Mojito riff using aged rum, Angostura bitters, and, most critically, champagne. It is, in essence, a Mojito Royale. It was created in 2001 by Audrey Saunders when she was bar director of Bemelmans Bar, the classic cocktail lounge tucked inside Manhattan’s Carlyle Hotel. Saunders subsequently introduced the drink to Europe through a Bemelmans pop-up at the Ritz in London in 2002. It thereafter appeared on menus in several European capitals and won a permanent home in 2005 when Saunders put it on the menu at her New York bar Pegu Club.
+    glassware: coupe
+    ingredients:
+    - 1½ ounces aged rum (Bacardi 8 recommended)
+    - 1 ounce simple syrup
+    - ¾ ounce lime juice
+    - Two dashes Angostura bitters
+    - 6 whole mint leaves
+    - 2 ounces champagne
+    steps:
+    - Muddle the mint leaves, lime juice, and simple syrup at the bottom of a cocktail shaker. 
+    - Add the rum and bitters. 
+    - Fill the shaker with ice and shake until chilled, about 15 seconds. 
+    - Strain into a chilled cocktail glass. 
+    - Top with the champagne.
+    tags:
+    - shaken
+    - citrus
+    - sparkling
+    - mojito
+  - name: Old-Fashioned
+    year: 
+    notes: |+2
+      The original cocktail, such as it was originally defined as spirits, sugar, water, and bitters, and, in its whiskey form, one of the most globally popular and enduring of all mixed drinks. It has never fully fallen off the drinking radar in two centuries and can safely be ordered at nearly any bar that serves spirits. Originally called, simply, the Whiskey Cocktail, it was just one of many standard cocktails following the same formula, made of various spirits. It was first served up, sans ice, in a footed glass, and often taken as a matutinal drink. By the 1870s, bartenders began to offer “improved” versions of the Whiskey Cocktail, dashing in touches of curaçao, Chartreuse, absinthe, and whatnot, leading to a patron rebellion of traditionalists who demanded an “old-fashioned whiskey cocktail.” This name, over the decades, led to the abbreviated name the cocktail bears today, sometimes rendered “old fashion” or “old fashioned” without the hyphen. Variations like the old-fashioned gin cocktail and old-fashioned rum cocktail held on for a while, appearing in bar manuals before eventually dropping off the map, leaving the whiskey version of the drink as the sole claimant to the title Old-Fashioned. During the late nineteenth century the cocktail converted from an ice-less up drink to one built in a stubby, heavy-bottomed rocks glass that eventually came to be named after the drink. This rendition of the Old-Fashioned featured muddled sugar and bitters, a good slug of bourbon or rye served over a large piece of ice, and an orange or lemon twist. Sometimes the customer was trusted to pour in the whiskey themselves. The drink was typically served with a small metal spoon, used to stir the drink and scoop up the residual sugar at the bottom.
+
+      Recipes for the drink under the name Old-Fashioned began to appear in cocktail books in 1888. Before the arrival of Prohibition, the Old-Fashioned became more ornate, with fruit like orange, cherry, and pineapple piled on top. After repeal, the fruit had fallen to the bottom of the glass and was often muddled. This preparation, with the muddled fruit—which detractors called “the garbage”—became the predominant one for the remainder of the twentieth century. The drinks of this period, what with all the garnishing, grew in size, leading to the development and domination of a larger glass, called the double old-fashioned glass. The Old-Fashioned remained a popular choice through the 1960s, when it began to decline in favor, left behind in the wake of Disco Drinks and vodka, until the Old-Fashioned was truly old-fashioned, a drink your parents or grandparents enjoyed.
+
+      Widely misunderstood by mixologists during the early years of the cocktail revolution, the cocktail’s code was eventually cracked, and late-nineteenth-century expressions of the drink began to appear on cocktail menus in the late aughts. This new presentation, which showcased the whiskey, coupled with the rise of interest in bourbon and rye in general, led to a rebirth for the Old-Fashioned. By the 2010s, it was one of the most called-for drinks in bars around the world, and a favorite of younger people for the first time in generations. The arrival of the 1960s-set television show Mad Men, in which the lead character Don Draper drinks Old-Fashioneds, contributed to the drink’s new trendy status. The new interest led to the creation of thousands of Old-Fashioned variations, returning the drink to its versatile origins. A few of these attained their own reputations, including the Benton’s Old-Fashioned, Elder Fashioned, Conference, and Oaxaca Old-Fashioned. The drink’s history and popularity has been so long-lived that it has led to persistent regional expressions. In Wisconsin and other parts of the Midwest, the drink is commonly made with domestic brandy and muddled fruit, topped with citrus soda or soda water, and garnished with everything from orange and cherry to mushrooms and Brussels sprouts. In Buenos Aires, the sugar and bitters are mixed and made to coat the entire inside of the glass, in the form of a Crusta. In London during the late twentieth century, the cocktail was an elaborately built affair, made and stirred down with ice over the course of five to ten minutes.
+    glassware: rocks
+    ingredients:
+    - 2 ounces rye or bourbon
+    - 2 dashes Angostura bitters
+    - 1 barspoon simple syrup
+    - "Garnish: orange twist"
+    steps:
+    - Combine the ingredients in a rocks glass filled with one large ice cube. 
+    - Stir until chilled, about 15 seconds. 
+    - Express an orange twist over the drink and slip it into the glass.
+    tags:
+    - stirred
+    - old-fashioned
+    - freezer bar
+  - name: Old Pal
+    year: 
+    notes: |+2
+      An equal-parts mix of whiskey (historically Canadian), dry vermouth, and Campari that earned new favor in the aughts when bartenders and drinkers were latching onto anything that had a remotely Negroni-esque profile. It was attributed to Paris-based American sportswriter William H. “Sparrow” Robertson in Paris bartender Harry MacElhone’s 1927 cocktail book Barflies and Cocktails. But in that book, the recipe calls for sweet vermouth, which doesn’t distinguish it much from the Boulevardier in the same volume. In later editions of the book, and by the time it landed in The Savoy Cocktail Book in 1930, the drink had the dry vermouth it’s come to be known for. But Mr. Boston listed it with sweet vermouth a few years later, in 1935, as well as with rye or bourbon and, uh, grenadine; and some 1930s recipes replace the Campari with crème de menthe, another ghastly idea. The modern version is strictly rye, dry vermouth, and Campari; while it has fans, it has ever dwelled in the shadow of the heartier Boulevardier. Robertson reportedly called all friends and acquaintances “old pal.”
+    glassware: rocks
+    ingredients:
+    - 1 ounce rye
+    - 1 ounce dry vermouth
+    - 1 ounce Campari
+    - "Garnish: orange twist"
+    steps:
+    - Combine the ingredients in a rocks glass filled with one large ice cube. 
+    - Stir until chilled, about 15 seconds. 
+    - Express an orange twist over the drink and slip it into the glass.
+    tags:
+    - stirred
+    - old-fashioned
+    - freezer bar
+  - name: Paloma
+    year: 
+    notes: |+2
+      A refreshing mixture of tequila, grapefruit soda, and lime juice, with an optional salt rim, usually served as a highball. Popular in Mexico since the 1960s, it was largely unknown in the United States until the 2010s, when agave-loving American bartenders began offering it as an alternative to the ubiquitous Margarita. In the 2020s the drink is nearly as common in U.S. bars as the Margarita. Its creation was partly sparked by the introduction of the grapefruit soda Squirt to the Mexican market in 1955. In the 1970s, Squirt began promoting it in its advertising. Craft mixologists often replaced the commercial soda with various combinations of fresh grapefruit juice, sugar, simple syrup, agave syrup, and sparkling water. At Mayahuel, the influential New York agave bar, the Spicy Paloma used jalapeño-infused tequila as its base.
+    glassware: collins
+    ingredients:
+    - 2 ounces tequila
+    - 1 ounce grapefruit juice
+    - ¾ ounce lime juice
+    - ½ ounce agave syrup
+    - Soda water
+    - "Garnish: lime wedge"
+    steps:
+    - Prepare a collins glass by running a lime over half the rim and then dipping the rim in salt. 
+    - Combine all the ingredients except the soda water in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into the waiting glass. 
+    - Top with soda water. 
+    - Garnish with a lime wedge.
+    tags:
+    - citrus
+    - shaken
+  - name: Paper Plane
+    year: 2007
+    author: Sam Ross
+    notes: |+2
+      An equal-parts twist on the Last Word, made of bourbon, Aperol, Amaro Nonino, and lemon juice, this Sam Ross cocktail was created in 2007 for the opening menu at the Violet Hour in Chicago at the request of founder Toby Maloney. The initial version featured Campari instead of Aperol, but Ross quickly adjusted the formula, and the Aperol version began to be sold at Milk & Honey and Little Branch, where he worked. Because of the ease of the build and the broad appeal of the ingredients, the drink quickly caught fire, particularly in Canada. In 2014, a bar in San Jose named themselves after the cocktail. The drink was named after the M.I.A. song “Paper Planes.”
+    glassware: coupe
+    ingredients:
+    - ¾ ounce bourbon
+    - ¾ ounce Amaro Nonino
+    - ¾ ounce Aperol
+    - ¾ ounce lemon juice
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe.
+    tags:
+    - shaken
+    - citrus
+  - name: Penicillin
+    year: 2005
+    author: Sam Ross
+    notes: |+2
+      One of the most prominent successes of the modern cocktail era, this drink was invented by New York–based Australian bartender Sam Ross at Milk & Honey in 2005. Drawing inspiration from the Gold Rush, invented at the same bar, Ross combined blended scotch, lemon juice, and honey-ginger syrup with a float of smoky Islay single-malt scotch and a garnish of candied ginger. The cocktail, first offered at Milk & Honey’s sister bar Little Branch as a bartender’s choice, became enormously popular very quickly and has since been served in bars all over the world. It is also frequently riffed upon. Ross himself has created both a frozen and a hot version of the Penicillin. The name is a joking reference to the ingredient list, as honey, lemon, and whiskey are all good for what ails you.
+    glassware: rocks
+    ingredients:
+    - 2 ounces blended scotch
+    - ¾ ounce honey-ginger syrup
+    - ¾ ounce lemon juice
+    - ¼ ounce Islay single-malt Scotch, preferably Laphroaig 10YO
+    - "Garnish: candied ginger"
+    steps:
+    - Combine the blended scotch, syrup, and lemon juice in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a rocks glass filled with one large ice cube. 
+    - Float Islay scotch on the surface of the drink. 
+    - Garnish with candied ginger.
+    tags:
+    - shaken
+    - citrus
+    - milk & honey
+  - name: Pimm's Cup
+    year: 
+    notes: |+2
+      A refreshing highball that uses the spicy-sweet British liqueur Pimm’s No. 1 as its bedrock. Pimm’s No. 1, a gin-based liqueur, is named after James Pimm, the bar owner who created it in the mid-1800s. By the 1860s, it was bottled. It is No. 1 because at one point there were other “cups,” numbered 2 through 6, based on brandy, rum, and other spirits. But the No. 1, a reddish tonic with citrusy and bitter notes, has always been the star, and it is not quite like anything else on the shelf. Over the years, it has developed a reputation as a quintessentially British refresher, consumed in ungodly amounts every year at Wimbledon. The popularity of the Pimm’s Cup in the United States has ebbed and flowed over the last half-century or so; until the current century, it was associated mainly with New Orleans, and specifically with the French Quarter bar the Napoleon House, which sells hundreds a day. The Pimm’s Cup there is simplicity itself: Pimm’s, lemonade, and 7-Up, crowned with the singular garnish of a cucumber slice. Indeed, the drink is the cucumber’s raison d’être behind any bar. Beginning in the 2010s, the cocktail became more common in the United States, and more open to interpretation. Maison Premiere in Brooklyn, in particular, has debuted dozens of different Pimm’s Cups over the years.
+    glassware: highball
+    ingredients:
+    - 2 ounces Pimm’s No. 1
+    - 4 ounces ginger ale or lemonade
+    - "Garnish: cucumber slice"
+    steps:
+    - Combine the ingredients in a highball glass filled with ice. 
+    - Stir briefly. 
+    - Garnish with a cucumber slice.
+    tags:
+    - stirred
+  - name: Piña Colada
+    year: 
+    notes: |+2
+      Rupert Holmes’s 1980 number one hit “Escape (The Piña Colada Song)” has made sure we will never escape this holiday-in-a-glass rum drink. But it was massively popular well before that, a dessert-like magnet that one drinks historian declared “fails as a balanced cocktail, [but] succeeds brilliantly as a pineapple-coconut milkshake.” It made its debut at the Caribe Hilton hotel in 1954 and quickly became a sensation. The name means “strained pineapple,” which, prior to the Caribe cocktail, is just what the drink was (with coconut sometimes added, and occasionally rum) throughout the Caribbean, particularly in Cuba. This early nonalcoholic version also found its way to certain parts of the United States. The popularity of the Caribe version, which included Coco Lopez coconut cream, led to all sorts of commercial offshoots, including piña colada mixes, liqueurs, ice cream, cake, and bottled piña coladas. The drink is a popular punching bag among drinks writers, epicures, and aesthetes. Novelist Kingsley Amis listed it in the index of his book Everyday Drinking as “Piña Colada, as threat to civilization.” So far, the drinking public have paid no mind.
+    glassware: goblet
+    ingredients:
+    - 2 ounces white rum
+    - 1 ounce Coco Lopez coconut cream
+    - 1 ounce heavy cream
+    - 6 ounces pineapple juice
+    - 4 ounces crushed ice
+    - "Garnish: pineapple wedge"
+    steps:
+    - Put the ingredients in a blender. 
+    - Blend for 15 seconds. 
+    - Pour unstrained into a large goblet. 
+    - Garnish with a pineapple wedge.
+    tags:
+    - blended
+    - citrus
+    - tiki
+  - name: Pink Squirrel
+    year: 
+    notes: |+2
+      A sweet after-dinner drink made of crème de noyaux, crème de cacao, and cream or, alternatively, ice cream. It became a popular drink in the early 1950s after a stunt in which singer Betty Reed, accompanied by a squirrel painted pink, requested the drink at a New York club—an event that was picked up by the press. The cocktail’s most loyal audience resides in the Midwest. There is an enduring origin story that the drink was invented at Bryant’s Cocktail Lounge in Milwaukee in the 1940s, but there is no evidence to back up the claim. Because 1951 articles described it as “the new Bols drink,” it was likely a potion invented and marketed by that liqueur company. However, no bar in the world is more associated with the drink than Bryant’s, which serves many of the pink things every week. The Bryant’s version is an ice cream drink.
+    glassware: 
+    ingredients:
+    - 2 ounces crème de noyaux
+    - 1 ounce crème de cacao
+    - 2 six-ounce scoops of vanilla ice cream
+    - "Garnish: whipped cream, maraschino cherry"
+    steps:
+    - Put the ingredients in a blender and blend until smooth and creamy. 
+    - Serve in a chilled glass topped with whipped cream (preferably homemade with a little sugar and vanilla to taste) and a maraschino cherry.
+    tags:
+    - blended
+    - frozen
+  - name: Pisco Sour
+    year: 
+    notes: |+2
+      A grape brandy over which Peru and Chile continually fight for bragging rights. Its role in cocktail history basically boils down to two drinks, the Pisco Punch and the Pisco Sour. The Pisco Punch was a sensation in late-nineteenth-century San Francisco, which received regular shipments of the spirit via ship from South America. It was made famous and popular by Duncan Nicol at the Bank Exchange Saloon. The concoction was made of pisco, pineapple, lime juice, sugar, gum syrup, and water. It had quite a reputation and caused many a writer to lapse into hyperbole. “I have a theory it is compounded of cherub’s wings,” wrote Rudyard Kipling, “the glory of a tropical dawn, the red clouds of sunset, and the fragments of lost epics by dead masters.”
+
+      Nicol was a fine marketer. He would allow a customer only two glasses of punch, a gimmick later copied at Don the Beachcomber with its Zombie, and many other bars besides. But because Nicol never shared his recipe, the drink’s heyday died with Nicol in 1926, seven years after Prohibition killed his bar. Many bartenders and historians have since tried to duplicate the punch’s magic, but their potions, while often delicious, must always be enjoyed with a touch of skepticism. The Pisco Sour came later and was much easier to duplicate, being simply a sour made with pisco, egg white, lemon or lime juice, sugar, sometimes bitters, and no secret ingredients. It is widely credited to Victor Morris, an American bartender working in Peru. It is wildly popular in Peru and Chile, but in the United States the drink is not overly common. Joe Baum’s La Fonda del Sol served it in the 1960s. But the Pisco Sour’s spiritual home is San Francisco, and you will still see the drink there more often than anywhere else. Bartender Duggan McDonnell was a prominent pisco evangelist back in the aughts, and he served a fine Pisco Sour at his bar, Cantina. McDonnell went on to produce his own line of piscos. And yet, his and other bartender’s efforts weren’t quite enough to bestow upon the Pisco Sour the mass popularity the Pisco Punch enjoyed in San Francisco in the late nineteenth century. Modern bartenders have tried to fold pisco more fully into the cocktail repertoire, but with limited success, making the spirit truly a two-hit wonder. However, when the hits are that big, you don’t really need any others.
+    glassware: coupe
+    ingredients:
+    - 2 ounces pisco
+    - ¾ ounce simple syrup
+    - ¾ ounce lime juice
+    - 1 egg white
+    - 3 or 4 dashes Angostura bitters
+    steps:
+    - Combine all the ingredients except the bitters, and without ice, in a cocktail shaker. 
+    - Shake until integrated, about 15 seconds. 
+    - Add ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled cocktail glass. 
+    - Garnish with dashes of bitters dropped on the surface of the drink.
+    tags:
+    - shaken
+    - citrus
+  - name: Porn Star Martini
+    year: 
+    author: Douglas Ankrah
+    notes: |+2
+      A creation of bartender Douglas Ankrah that, by virtue of a host of likable flavors (passion fruit, vanilla, more passion fruit, more vanilla, side of bubbly) and a naughty name, became a drinking sensation in early-aughts London. Ankrah hatched the idea while traveling in South Africa. He first named it the Maverick Martini, after a strip club he patronized in Cape Town. It got its new name when he brought it back to London and put it on the menu at Townhouse. It was also a popular order at LAB, which Ankrah cofounded, becoming, it could be argued, the bar’s signature drink. Twenty years on, when most cocktails of its era had faded away, the Porn Star Martini had not only endured but grown in popularity. There are bottled and canned versions, though corporate UK shies away from the X-rated name.
+    glassware: 
+    ingredients:
+    - 1⅓ ounces vanilla-flavored vodka
+    - 1⅔ ounces passion fruit puree
+    - ½ ounce passion fruit liqueur, preferably Passoã
+    - 2 barspoons vanilla syrup
+    - 1 ounce Prosecco
+    steps:
+    - Combine all the ingredients except the Prosecco in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled cocktail glass. 
+    - Serve with a shot of Prosecco on the side.
+    tags:
+    - shaken
+  - name: Queen's Park Swizzle
+    year: 
+    notes: |+2
+      One of the most famous members of the swizzle family, this drink is made of demerara rum, Angostura bitters, lime juice, sugar, mint, and crushed ice. It first appeared in print in 1946, in Trader Vic’s Book of Food & Drink. It is named for the Queen’s Park Hotel in Trinidad, where it was first concocted. The drink was fairly obscure when it found an unlikely champion in Milk & Honey founder Sasha Petraske, who began to serve it in highly theatrical form at his bars, with the muddled mint kept at the bottom by crushed ice, and copious bitters sprinkled on top, making for a tricolor, striped visual effect.
+    glassware: collins
+    ingredients:
+    - 2 ounces demerara rum
+    - 1 ounce lime juice
+    - ¾ ounce simple syrup
+    - 1 sugar cube
+    - 6 dashes Angostura bitters
+    - 4 mint sprigs, leaves stripped, plus one whole sprig for garnish
+    steps:
+    - Put the mint leaves in a cocktail shaker with the sugar cube, lime juice, and syrup. 
+    - Using a muddler or wooden spoon, gently bruise the mint. 
+    - Pour in the rum, swirl the shaker, and pour the contents into a 10- or 12-ounce tall glass. 
+    - Add crushed ice until the glass is three-quarters full, then add the bitters. 
+    - Insert a genuine swizzle stick or a barspoon into the glass, stopping just above the mint leaves, and hold its handle between your palms. 
+    - Slide your hands back and forth against each other, gently spinning the spoon or swizzle stick. 
+    - Ideally, liquid and ice will swirl together, while the top layer of bitters and bottom layer of mint stay undisturbed. 
+    - Top with more ice and garnish with a mint sprig.
+    tags:
+    - swizzle
+    - stirred
+    - citrus
+  - name: Ramos Gin Fizz
+    year: 
+    notes: |+2
+      The gin fizz to rule them all, and the main reason we still remember and order this category of cocktail at all. The drink is composed of gin, lemon juice, lime juice, cream, sugar, egg white, a few critical drops of orange flower water, and sparkling water. It looks as white as snow and is delivered in a long, slim glass. The result is light, fragrant, and frothy with a dessert-like quality that disguises its alcoholic potency. Everything about the drink is semi-legendary. It is regarded as gospel in New Orleans drinking circles as a drink that all citizens love and all local bartenders must know, and the only equal in fame and prestige to the beloved Sazerac. It is the rare classic cocktail to which the bartender, Henry C. Ramos (1856–1928), managed to affix his name for all eternity. The process of making one is near mythological, with stories of lines of “shaker boys” shaking the drink for anywhere from five to fifteen minutes. The tales were likely apocryphal, but nevertheless deathless. By 1895, Ramos’s bar, The Imperial Cabinet, which he had opened in 1886, was already famous as the “gin fizz place,” according to a local paper. The same paper called Ramos the “prince of New Orleans bartenders.” Following the repeal of Prohibition, the drink was made famous all over again by Louisiana demagogue Huey P. Long, who brought a bartender up from the Roosevelt Hotel in New Orleans to demonstrate to the New York press how to make a proper Ramos Gin Fizz. Even in the modern days of the cocktail renaissance, it was considered de rigueur to master the difficult libation and achieve a creamy head that rose far above the rim of the glass. The Sazerac Bar inside the Roosevelt Hotel in New Orleans is renowned for its version. In the 2020s, some bartenders broke from orthodoxy and began to make Ramos Gin Fizzes in a blender.
+    glassware: collins
+    ingredients:
+    - 2 ounces gin
+    - 1 ounce heavy cream
+    - ½ ounce lemon juice
+    - ½ ounce lime juice
+    - ½ ounce simple syrup
+    - 1 egg white
+    - 2 dashes orange flower water
+    - 1 ounce soda water
+    steps:
+    - Combine all the ingredients except the soda water in a cocktail shaker. 
+    - Dry shake for about 15 seconds. 
+    - Add ice to the shaker. 
+    - Shake further, about 30 seconds. 
+    - Pour soda water into a collins glass. 
+    - Slowly strain the mixture in the shaker into the glass, so that a head rises above the rim.
+    tags:
+    - shaken
+    - citrus
+  - name: Red Hook
+    author: Vincenzo Errico
+    year: 
+    notes: |+2
+      A modern classic cocktail by Italian bartender Vincenzo Errico that landed somewhere between a Manhattan and a Brooklyn, and spawned a mid-aught explosion on Manhattan/Brooklyn riffs. Errico, who was working at Milk & Honey at the time, was looking for a way to showcase the Italian vermouth Punt e Mes, then getting some fresh attention from American mixologists. His mix of rye, maraschino liqueur, and Punt e Mes opened fellow bartenders’ eyes to the possibility of creating new drinks by simply riffing off the already proven recipes of old classics. The Red Hook quickly led to a host of new creations, which came to be known as the “neighborhood cocktails”—so-called because they took their names from various Manhattan and Brooklyn neighborhoods—including the Carroll Gardens, Greenpoint, Cobble Hill, and Bushwick.
+    glassware: coupe
+    ingredients:
+    - 2 ounces rye
+    - ½ ounce maraschino liqueur
+    - ½ ounce Punt e Mes
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. Stir until chilled, about 15 seconds. Strain into a chilled coupe.
+    tags:
+    - manhattan
+    - stirred
+    - freezer bar
+    - milk & honey
+  - name: Remember the Maine
+    year: 
+    notes: |+2
+      A Manhattan laced with Cherry Heering and absinthe, this mid-twentieth-century cocktail from Charles H. Baker Jr. was revived in the aughts, largely through the efforts of bartender and Baker historian St. John Frizell. It has remained in barroom circulation ever since.
+    glassware: 
+    ingredients:
+    - 2 ounces rye
+    - ¾ ounce sweet vermouth
+    - 2 barspoons Cherry Heering
+    - 1 barspoon absinthe
+    - "Garnish: cherry"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice and stir until chilled, about 15 seconds. 
+    - Garnish with a cherry.
+    tags:
+    - stirred
+    - manhattan
+    - freezer bar
+  - name: Rob Roy
+    year: 
+    notes: |+2
+      The crown prince of scotch cocktails and, aside from highballs, the main way scotch is used in most cocktail bars. It was one of the many vermouth-informed cocktails that followed in the wake of the immensely popular Manhattan and Martini cocktails of the late nineteenth century. Early recipes were equal parts scotch and vermouth. Sometimes Angostura bitters was called for, other times orange bitters, and often both, before Angostura became the accepted accent. More often than in a Manhattan, you’ll see a lemon twist as a garnish instead of the usual cherry. The drink has not the smoothness you’ll get with a fine Manhattan, but the slightly rough smokiness makes for its own attraction.
+    glassware: coupe
+    ingredients:
+    - 2 ounces blended scotch
+    - 1 ounce sweet vermouth
+    - 2 dashes Angostura bitters
+    - "Garnish: cherry, lemon twist"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Garnish with a cherry or lemon twist.
+    tags:
+    - stirred
+    - manhattan
+    - freezer bar
+  - name: Rosita
+    year: 
+    notes: |+2
+      A tequila version of the Negroni, of unknown provenance. It was first seen in the 1974 version of the “Mr. Boston Official Bartender’s Guide.” With the advent of the cocktail renaissance, and its affinity for lost cocktails and bitter ingredients, the Rosita was embraced anew in the 2000s.
+    glassware: rocks
+    ingredients:
+    - 1½ ounces reposado tequila
+    - ½ ounce sweet vermouth
+    - ½ ounce dry vermouth
+    - ½ ounce Campari
+    - 1 dash Angostura bitters
+    - "Garnish: orange twist"
+    steps:
+    - Combine the ingredients in a rocks glass filled with one large ice cube. 
+    - Stir until chilled, about 15 seconds. 
+    - Express an orange twist over the drink and slip it into the glass.
+    tags:
+    - stirred
+    - negroni
+    - freezer bar
+  - name: Rum Collins
+    year: 
+    notes: |+2
+      A simple twist on a Tom Collins, using rum instead of gin or Old Tom gin, which became one of the most popular cocktails in the United States in the decades following repeal. Very likely, Americans discovered the drink while vacationing their Prohibition thirsts in Havana, where booze was still legal. Many made a beeline straight to Sloppy Joe’s, the celebrated drinking joint on the island. Sloppy Joe’s produced, throughout the 1930s, a giveaway cocktail booklet that featured the Rum Collins prominently. When Yanks retreated to the States after repeal, rum companies followed them, heavily promoting the Rum Collins in their ads. An easy way to enjoy rum, it was popular until it was eventually supplanted by the Rum and Coke, the daiquiri, and, later on, the Mojito craze of the 1990s. It was memorably featured in the Christmas Eve bar scene in the 1960 film The Apartment.
+    glassware: collins
+    ingredients:
+    - 2 ounces dark rum
+    - 1 ounce simple syrup
+    - ¾ ounce lemon juice
+    - 1 ounce soda water
+    - "Garnish: cherry and lemon wedge flag"
+    steps:
+    - Combine the first three ingredients in a cocktail shaker half-filled with ice and shake until chilled, about 15 seconds. 
+    - Strain into a collins glass filled with ice. 
+    - Top with the soda water. 
+    - Garnish with a cherry and lemon wedge “flag.”
+    tags:
+    - shaken
+    - citrus
+  - name: Sazerac
+    year: 
+    notes: |+2
+      One of the preeminent cocktails of all time, despite spending a long stretch of its existence as the pet drink of New Orleans. It is a simple drink, though one requiring an ornate build, and is the last major cocktail in circulation to be often constructed in the nineteenth-century manner of using two glasses. While one old-fashioned glass is chilled with ice, in a second glass, sugar is muddled with water and Peychaud’s bitters. Rye is then added and the mixture is stirred over ice until chilled. The first glass is then emptied of ice and given a rinse of absinthe or Herbsaint. Into this glass the liquid contents of the second glass are strained. To finish, a lemon twist is expressed over the surface of the drink and discarded. The dark-brownish-red liquid that remains is the simplest looking beverage imaginable, but one whose flavor contains many layers and great depths.
+
+      Though in popular legend it’s often mistakenly credited as one of the first cocktails, the Sazerac didn’t actually make its debut on the bar stage until very late in the nineteenth century. Recent scholarship by historian David Wondrich revealed that the drink wasn’t mentioned in print until 1899. It was associated with a famous New Orleans bar called Sazerac House, which had a special way with their standard Whiskey Cocktail, in that it contained Peychaud’s and a dash of absinthe. Wondrich lays credit for the popularizing of the Sazerac’s Whiskey Cocktail, later just the Sazerac Cocktail, at the feet of the bar’s co-owners, Vincent Miret and Billy Wilkinson, who operated the bar in the years on either side of the turn of the twentieth century. At the dawn of the cocktail renaissance, it was popularly believed that the Sazerac began as a cognac cocktail, named after the Sazerac de Forge et Fils brand of cognac, and that it evolved over time into a rye cocktail. This myth was partly drawn from the 1937 book Famous New Orleans Drinks and How to Mix ’Em by Stanley Clisby Arthur. Because of this misunderstanding, many earnest mixologists made their Sazeracs with brandy to display their purity of purpose. (The New Orleans–based Sazerac Company, which knows better, still preaches this fable to sell its cognac brand.) The truth is, the Sazerac has always been made with rye whiskey, and the cocktail was named after a bar, not a brand of cognac.
+
+      For the first few decades of its career (interrupted by Prohibition, of course), the Sazerac was a drink of national reputation that could be drunk anywhere. However, during the late twentieth century it slowly but surely became a regional cocktail, enjoyed mainly in New Orleans, probably since a couple of its ingredients—Peychaud’s bitters and Herbsaint—could be found only there. That said, within New Orleans it was enjoyed nearly everywhere. When the cocktail convention Tales of the Cocktail began in 2002, bartenders from the rest of the country, and the world, discovered or rediscovered the Sazarac and brought the drink back to their hometowns (also with a smuggled supply of the Peychaud’s needed to make it). By 2007, the Sazerac commanded a national stage once again, helped along by the more widely available Peychaud’s, the return of absinthe to legality, and the rebirth of the rye whiskey category. In that way, the Sazerac stands as a virtual poster child of the cocktail revival, because none of those ingredients would have been resurrected without the help of cocktail bartenders. In 2008 it was christened the official cocktail of New Orleans.
+    glassware: 
+    ingredients:
+    - 2 ounces rye
+    - 1 barspoon simple syrup
+    - 4 or 5 dashes Peychaud’s bitters
+    - Absinthe
+    - "Garnish: lemon twist"
+    steps:
+    - Fill one rocks glass with ice. While it is chilling, combine the rye, simple syrup, and bitters in a mixing glass half-filled with ice and stir until chilled, about 15 seconds. 
+    - Empty the first glass of its ice and rinse the inside of the glass with a barspoon of absinthe. 
+    - Pour out the excess absinthe. 
+    - Strain the rye mixture into the waiting glass. 
+    - Express a lemon twist over the drink and discard.
+    tags:
+    - stirred
+    - sazerac
+  - name: Seelbach Cocktail
+    year: 1996
+    author: Adam Seger
+    notes: |+2
+      One of the greatest ruses in cocktail history. This faux pre-Prohibition cocktail was cooked up in 1996 by bartender Adam Seger to gin up publicity for the bar at the historic Seelbach Hotel in Louisville, where he was bar director at the time. Seger sold the drink as a lost house classic. The media ran with the story. Soon, the recipe—bourbon, triple sec, Angostura and Peychaud’s bitters, served in a flute and topped with sparkling wine—was appearing in books and being served from London to Berlin as a revived pre-Prohibition cocktail. Only in 2016 did Seger come clean and reveal his deception. The Seelbach hotel still has the drink on its menu, but with an asterisk.
+    glassware: flute
+    ingredients:
+    - 1 ounce bourbon
+    - ½ ounce triple sec
+    - 7 dashes Angostura bitters
+    - 7 dashes Peychaud’s bitters
+    - 5 ounces sparkling white wine
+    - "Garnish: orange twist"
+    steps:
+    - Combine all the ingredients except the sparkling wine in a mixing glass half-filled with ice and stir until chilled, about 15 seconds. 
+    - Strain into a flute. 
+    - Top with the sparkling wine. 
+    - Express an orange twist over the drink and drop it into the glass.
+    tags:
+    - stirred
+    - sparkling
+  - name: Sidecar
+    year: 
+    notes: |+2
+      A Jazz Age drink of European pedigree, and cognac’s main stake in the classic cocktail sweepstakes. The Sidecar, made of brandy, lemon juice, and Cointreau, has retained name recognition for a century while never quite achieving top-tier ranking among cocktails. Harry’s New York Bar in Paris is the top contender for having invented the drink, though the jury is out on that. It did appear in owner Harry MacElhone’s 1922 book Harry’s ABC of Mixing Cocktails and his 1927 book Barflies and Cocktails—the recipe asking for one part each of brandy, lemon juice, and Cointreau. That equal-parts formula has given way to more brandy-forward versions over the years. As early as Harry Craddock’s Savoy Cocktail Book, more brandy was called for. And whether the drink should or should not have a sugar rim remains in dispute. Early accounts of the drink attributed it to one “MacGarry, the celebrated bartender of Buck’s Club” in London.
+    glassware: coupe
+    ingredients:
+    - 1½ ounces cognac
+    - ¾ ounce Cointreau
+    - ¾ ounce lemon juice
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe.
+    tags:
+    - shaken
+    - citrus
+  - name: Siesta
+    year: 2006
+    author: Katie Stipe
+    notes: |+2
+      A spin on the Hemingway Daiquiri that replaces the gin and maraschino liqueur with tequila and Campari. The drink was created by bartender Katie Stipe at Flatiron Lounge in New York in 2006. It was an early example of a modern tequila cocktail and has since been served the world over. It has also inspired its share of variations, including a Siesta Swizzle, served at the Raines Law Room, and a frozen Siesta at El Quijote, both in Manhattan.
+    glassware: coupe
+    ingredients:
+    - 1½ ounces tequila
+    - ¾ ounce lime juice
+    - ¾ ounce simple syrup
+    - ½ ounce grapefruit juice
+    - ¼ ounce Campari
+    - "Garnish: lime wheel"
+    steps:
+    - Combine all the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Garnish with a lime wheel.
+    tags:
+    - shaken
+    - citrus
+  - name: Singapore Sling
+    year: 
+    notes: |+2
+      A tropical gin concoction with an ingredient list and origin story as confused and confusing as any in cocktail history. Perhaps only the Zombie equals it in its history of recipe variation and bastardization. The undying story is that it was invented in 1915 by a bartender named Ngiam Tong Boon at the Long Bar inside the Raffles Hotel in Singapore, for decades a stopping place and watering hole for actors, writers, diplomats, jet-setters, and tourists—though there is plenty of reason to doubt Raffles’ story. In its early years it was sometimes called a Singapore Gin Sling, and it’s named a Straits Sling by Robert Vermeire in his 1922 book Cocktails—How to Mix Them, in which he writes that it’s a “well-known Singapore drink.” By the 1930s, the drink was being served stateside, the romantic alliteration and assonance of its lilting name doubtless working in its favor. An indication as to how often it was made poorly is the number of ads and articles that attested to certain bars making it “correctly.” The arrival in the 1930s of Singapore Sling “mix” certainly didn’t help matters. Trader Vic threw up his hands, offering two very different versions in his 1972 guide. Because of its uncertain formula—who knows if you’re ever drinking it as intended?—the Singapore Sling holds little currency in today’s cocktail market. Most recipes call for gin, Cherry Heering, Bénédictine, lime juice, Angostura bitters, and sometimes pineapple juice, grenadine, and Cointreau. The Cherry Heering gives the drink its iconic pink hue.
+    glassware: collins
+    ingredients:
+    - 2 ounces gin
+    - 1 ounce Cherry Heering
+    - ½ ounce Bénédictine
+    - ½ ounce brandy
+    - 1 ounce lime juice
+    - Soda water
+    steps:
+    - Combine all the ingredients except the soda water in a collins glass filled with ice. 
+    - Top with soda water. 
+    - Stir briefly.
+    tags:
+    - stirred
+    - citrus
+  - name: Single Village Fix
+    year: 2008
+    author: Thad Vogler
+    notes: |+2
+      A simple sour made of mezcal, lime juice, and pineapple gum syrup created in 2008 by bartender Thad Volger, an early advocate of mezcal in San Francisco, and first featured on the menu at Beretta. The drink was an entry in the mezcal cocktail category that began to emerge in the late aughts.
+    glassware: coupe
+    ingredients:
+    - 1½ ounces mezcal
+    - ¾ ounce Small Hand Foods Pineapple Gum Syrup
+    - ¾ ounce lime juice
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe.
+    tags:
+    - shaken
+    - citrus
+    - margarita
+  - name: Star
+    year: 
+    notes: |+2
+      A Manhattan made with apple brandy instead of whiskey, emerging in the 1890s. The drink was rediscovered during the cocktail revival of the twenty-first century. It is often built using equal parts apple brandy and sweet vermouth. The Marconi Wireless cocktail, which came later, is similar, but made with more brandy and less vermouth.
+    glassware: coupe
+    ingredients:
+    - 1½ ounces apple brandy
+    - 1½ ounces sweet vermouth
+    - 2 dashes Angostura bitters
+    - "Garnish: cherry"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Garnish with a cherry.
+    tags:
+    - stirred
+    - manhattan
+    - freezer bar
+  - name: Stone Fence
+    year: 
+    notes: |+2
+      A simple and age-old American mixed drink composed of whiskey and apple cider. The drink appeared in Jerry Thomas’s Bar-Tender’s Guide in 1862 as two ounces of bourbon topped with apple cider and served over ice. Sometimes applejack was used instead of whiskey, and sugar and lemon were occasionally added. In light of its ingredients, it was an intrinsically American quaff and likely of rustic appeal where such things as whiskey, applejack, and cider were in ready supply. A Stone Wall was made with soda water instead of cider, though frequently the recipes for the Fence and Wall became switched around. After repeal, scotch was called for more often, causing the drink to veer into scotch-and-water territory. The drink, being the simplest of highballs, is not one of the bygone beverages that bartenders made a concerted effort to revive during the cocktail renaissance.
+    glassware: highball
+    ingredients:
+    - 2 ounces applejack or rye or rum
+    - 4 ounces apple cider
+    steps:
+    - Pour the liquor into a highball glass filled with ice. 
+    - Top with the cider.
+    tags:
+    - stirred
+  - name: Suffering Bastard
+    year: 1940
+    author: Joe Scialom
+    notes: |+2
+      A refreshing highball invented in 1940 by Joe Scialom, a once-famous, now-obscure bartender, while he worked at the Long Bar inside the celebrated Shepheard’s Hotel in Cairo. The original highball featured gin, brandy, Angostura bitters, Rose’s lime juice cordial, and ginger beer and was devised as a sort of hangover cure for locally stationed Allied troops. Foreign correspondents who frequented the bar helped make the drink famous. It was soon the hotel’s signature drink and world renowned. Scialom later riffed on his own invention at the Marco Polo Club in Manhattan, creating the Dying Bastard and Dead Bastard. In both cases, he simply added more and different spirits to the existing drink.
+    glassware: 
+    ingredients:
+    - 1 ounce gin
+    - 1 ounce brandy
+    - ½ ounce Rose’s lime juice cordial
+    - 2 dashes Angostura bitters
+    - 4 ounces ginger beer
+    - "Garnish: orange slice & mint sprig"
+    steps:
+    - Combine all the ingredients except the ginger beer in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a highball filled with ice. 
+    - Top with the ginger beer. 
+    - Garnish with an orange slice and mint sprig.
+    tags:
+    - shaken
+  - name: Tequila Sunrise
+    year: 
+    notes: |+2
+      An early example of a cocktail using tequila as a base, invented in the 1920s at the Agua Caliente, a racetrack and resort in Tijuana that was popular with Americans during Prohibition. Early recipes called for tequila, orange juice, grenadine, and crème de cassis. It started making appearances in the U.S. in the ’30s but didn’t really catch on until the ’70s, when a cassis-free version was embraced as the Rolling Stones’ cocktail of choice during their 1972 U.S. tour. The next year, the Eagles had a hit with “Tequila Sunrise.” Rock and roll has been very good to this drink.
+    glassware: highball
+    ingredients:
+    - 2 ounces tequila
+    - 4 ounces orange juice
+    - ¼ ounce grenadine
+    - "Garnish: orange slice & cherry"
+    steps:
+    - Pour the tequila and orange juice into a highball glass filled with ice. 
+    - Slowly pour in the grenadine so it sinks to the bottom of the glass. 
+    - Garnish with an orange slice and cherry.
+    tags:
+    - citrus
+  - name: Ti' Punch
+    year: 
+    notes: |+2
+      A mixture of rhum agricole, sugar, and lime that is drunk in Martinique. The “Ti’ ” is short for “petit.” It was little known outside the French Caribbean, where rhum agricole is made, until the globe-trotting bartenders of the cocktail revival brought it elsewhere. The cocktail is built in the glass, and while simple, the devil is in the details. The lime usually takes the form of a small disc of rind, the size of a half dollar, rather than a twist or wedge. The sweet element can be raw sugar or cane syrup. The drink is typically served at room temperature, but ice is not unheard of. Still, the dominant flavor is and should be the grassy, unaged agricole. If you make it wrong, rum importer and Ti’ Punch zealot Ed Hamilton will come after you.
+    glassware: rocks
+    ingredients:
+    - 1½ ounces 100-proof rhum agricole
+    - ¼ barspoon Petite Canne sugar cane syrup
+    - Small slice of lime
+    steps:
+    - In a small glass, drop a small slice from the side of a lime. Add about ¼ barspoon of Petite Canne Sugar Cane syrup, then 1½ ounces 100-proof rhum agricole. In the French islands, the order of ingredients is important. Lime, sugar, rhum.
+    - Petite Canne Sugar Cane syrup is 72 percent raw sugar from Martinique. I searched the U.S. and couldn’t find anything close to this syrup. None of the dozen sugar syrup producers in the U.S. would make anything like this because they don’t have the raw sugar. I can import sugar cane syrup but I can’t import raw sugar without being a member of the sugar cartels that control sugar quota imports to the U.S.
+    - There are other syrups from Martinique, but be sure to look at the ingredients and viscosity. All have less sugar and contain other things like aromatized spices and caramel.
+    - Limes vary considerably. The limes found on Martinique are generally smaller than the large Mexican limes we get in the U.S. and the skin is thinner.
+    - If you use a wedge of lime, the 100-proof spirit, which acts as a solvent, will make the drink bitter. While it is easy to think of the rind as the bitter part of the lime, the pulp in the lime gives up its bitter oils much faster than the rind. The essence of the Ti’ Punch, petite punch, is that the sugar and lime are there to complement the 100-proof rhum agricole and not cover it up.
+    tags:
+    - old-fashioned
+    - citrus
+    - tiki
+  - name: Tom Collins
+    year: 
+    notes: |+2
+      Perhaps the ultimate highball, and one of history’s most enduring cocktails. Made of gin, sugar, lemon juice, and soda water, served over ice, it was historically prepared with Old Tom gin, which is sweeter than London dry gin, but the drink works well with both forms of the spirit, and after Old Tom gin largely disappeared after Prohibition, it was exclusively made with London dry.
+
+      A peculiar methodology is used in mixing up a Tom Collins. Though it contains fresh juice, which usually dictates that the drink must be shaken, it is nonetheless often built in the glass in which it is served. But shaking the drink and then straining it into an ice-filled highball works as well, and arguably leads to a better-integrated cocktail. The drink has roots that can be traced back to England, where it was called the John Collins and made with genever. Once it jumped the pond, the drink was made with Old Tom and renamed the Tom Collins, probably owing to the gin being used. The Tom Collins’s other claim to fame is the most entertaining cocktail origin story of all time. Basically, it was born of a practical joke. Back in 1874, the gag went, barflies took to egging on a gullible mark by telling him that one Tom Collins was talking trash about him and could be found at a neighboring saloon should the dupe want to settle the score. Off the injured party would go, only to find out that ol’ Tom had moved on to another tavern. And so the merry chase went until the sucker wised up.
+
+      Vastly popular in the mid-twentieth century, the Tom Collins doesn’t get a lot of play in bars, either the old-school or the newfangled, these days; it’s often dismissed as nothing but fizzy lemonade. It is one of the select few drinks to have a glass named after it: the collins glass, also known as a highball glass.
+    glassware: collins
+    ingredients:
+    - 2 ounces Old Tom gin
+    - 1 ounce simple syrup
+    - ¾ ounce lemon juice
+    - 1 ounce soda water
+    - "Garnish: cherry and lemon wedge flag"
+    steps:
+    - Combine all the ingredients except the soda water in a cocktail shaker half-filled with ice and shake until chilled, about 15 seconds. 
+    - Strain into a collins glass filled with ice. 
+    - Top with the soda water. Garnish with a cherry and lemon wedge “flag.”
+    tags:
+    - shaken
+    - citrus
+  - name: Tommy's Margarita
+    author: Julio Bermejo
+    year: 
+    notes: |+2
+      A simplified version of the Margarita invented by Julio Bermejo at Tommy’s Mexican Restaurant in San Francisco. To showcase the quality of 100 percent agave tequila, Bermejo 86’d the curaçao in the drink, used fresh lime juice, and substituted agave syrup for simple syrup. It is, in fact, as some have pointed out, simply a Tequila Sour. All these changes to the drink evolved over several years, but by the early 1990s, the drink was fully formed. By the early 2000s, it was established as a modern classic, almost as well known as the Margarita itself.
+    glassware: rocks
+    ingredients:
+    - 2 ounces reposado Tequila
+    - 1 ounce lime juice
+    - ½ ounce agave syrup
+    - "Garnish: lime wedge"
+    steps:
+    - Dip half of the rim of a rocks glass in lime juice and then salt. 
+    - Set aside. 
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into the prepared rocks glass filled with ice. 
+    - Garnish with a lime wedge.
+    tags:
+    - shaken
+    - citrus
+    - margarita
+  - name: Trident
+    author: Robert Hess
+    year: 2002
+    notes: |+2
+      This unusual mixture of aquavit, Cynar, fino sherry, and peach bitters was created by Seattle cocktail enthusiast Robert Hess in 2002 as an “obscured Negroni” and a way to showcase a few of his favorite unsung ingredients. He brought the recipe to the Zig Zag Café, where it was put on the menu. Bartender Brian Miller, a Seattle native, then brought the drink to the Pegu Club in New York, where he worked. And thus a layman, with the help of a few professional bartenders, handily pulled off the rare trick of creating a modern classic cocktail.
+    glassware: coupe
+    ingredients:
+    - 1 ounce fino, manzanilla, or amontillado sherry
+    - 1 ounce aquavit
+    - 1 ounce Cynar
+    - 2 dashes peach bitters
+    - "Garnish: lemon twist"
+    steps:
+    - Combine all the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Garnish with a lemon twist.
+    tags:
+    - stirred
+    - negroni
+    - freezer bar
+  - name: Trinidad Sour
+    year: 
+    notes: |+2
+      An improbable drink, using as its base one and a half ounces of Angostura bitters—an ingredient usually used as an accent in drinks like the Old-Fashioned and Manhattan. The cocktail further piled on the crazy with the addition of an ounce of orgeat, the almond syrup most associated with the Mai Tai. Smaller amounts of lemon juice and rye rounded out the heady mixture. According to Giuseppe González, its bartender inventor, it was created in 2008 at Clover Club, a cocktail bar in Brooklyn. (Julie Reiner, the owner of Clover Club, does not recall this being served at the bar.) John Gertsen tried the drink and took it to Drink, his bar in Boston. When González moved to Dutch Kills in Queens, he made the cocktail frequently. Like the Chartreuse Swizzle, it is expensive to make. Nonetheless, by the mid 2010s the drink was internationally known.
+    glassware: coupe
+    ingredients:
+    - 1½ ounces Angostura bitters
+    - 1 ounce orgeat
+    - ¾ ounce lemon juice
+    - ½ ounce rye
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe.
+    tags:
+    - shaken
+    - citrus
+  - name: Turf Club
+    year: 
+    notes: |+2
+      A Martini relative that first appeared in print in the 1880s. The recipe for it ping-ponged about for a number of years until settling down as something containing gin, dry vermouth, and dashes of absinthe, maraschino liqueur, and orange bitters—a formula very close to the subsequent Tuxedo No. 2. The drink faded from view as the Martini made its climb to cocktail supremacy, though it still has a few modern-day champions.
+    glassware: 
+    ingredients:
+    - 1½ ounces gin
+    - 1½ ounces dry vermouth
+    - 2 dashes orange bitters
+    - 2 dashes maraschino liqueur
+    - 2 dashes absinthe
+    - "Garnish: olive"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Garnish with an olive.
+    tags:
+    - stirred
+    - martini
+  - name: Tuxedo
+    year: 
+    notes: |+2
+      A Martini variant that proliferated in two forms in the early twentieth century. The first, generally thought to be the original, is a dry drink made with gin, sherry, and orange bitters. The second, called Tuxedo No. 2 (after the title it was given in the 1930 Savoy Cocktail Book) and generally more luscious in character, is made with gin, vermouth, maraschino liqueur, and absinthe. In the 2010s the drink experienced a small comeback.
+    glassware: coupe
+    ingredients:
+    - 2¼ ounces gin
+    - ½ ounce dry vermouth
+    - ¼ ounce maraschino liqueur
+    - 4 dashes orange bitters
+    - Absinthe rinse
+    - "Garnish: orange twist and a cherry"
+    steps:
+    - Rinse a chilled coupe with absinthe and discard the excess liquid. 
+    - Combine the remaining ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into the waiting coupe. 
+    - Garnish with an orange twist and cherry.
+    tags:
+    - stirred
+    - martini
+    - freezer bar
+  - name: 20th Century
+    year: 
+    notes: |+2
+      A blend of gin, Lillet blanc, crème de cacao, and lemon juice, the 20th Century cocktail ironically didn’t show its face until 1937, well into the century. It was named after the famous train that ran from New York to Chicago, not the hundred-year span. The drink was attributed to Charles A. Tuck, a career British bartender who went on to publish a cocktail book in 1967. It’s basically a riff on the Corpse Reviver No. 2, and the unlikely presence of the crème de cacao really does rocket the drink into another flavor world entirely. Though it’s never quite had a heyday, the drink has never quite faded away either and has its fans.
+    glassware: coupe
+    ingredients:
+    - 1½ ounces gin
+    - ¾ ounce lemon juice
+    - ½ ounce Lillet blanc
+    - ½ ounce white crème de cacao
+    - "Garnish: lemon twist"
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice. 
+    - Shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Express a lemon twist over the drink and drop it into the glass.
+    tags:
+    - shaken
+    - citrus
+  - name: Vesper
+    year: 
+    notes: |+2
+      A fictional cocktail that made the leap into real life. The Vesper was born in the pages of Ian Fleming’s 1953 spy caper Casino Royale, in which James Bond concocts the recipe—gin, vodka, Lillet blanc, and a long lemon twist—out of thin air and instructs the bartender to make one. The cocktail didn’t find a breathing audience until the aughts, when Casino Royale was remade as the 2006 movie starring Daniel Craig, and cocktail bartenders began offering it as a less-offensive alternative to the “shaken, not stirred” Vodka Martini that Bond wannabes kept lobbing their way.
+    glassware: coupe
+    ingredients:
+    - 3 ounces gin
+    - 1 ounce vodka
+    - ½ ounce Lillet blanc
+    - "Garnish: lemon twist"
+    steps:
+    - Combine the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled coupe. 
+    - Express a lemon twist over the drink and drop it into the glass.
+    tags:
+    - stirred
+    - martini
+    - freezer bar
+  - name: Vieux Carré
+    year: 
+    notes: |+2
+      Along with the Sazerac, Ramos Gin Fizz, and Brandy Crusta, one of the great, enduring New Orleans cocktails—though far younger, having come along in the 1930s. It is strongly associated with the Carousel Bar inside the Hotel Monteleone in the French Quarter, where bartender Walter Bergeron invented it. It combines some of New Orleans’s favorite things, including rye, brandy, and Peychaud’s bitters, into a concoction that is not too far from a Manhattan, but much richer, owing to the inclusion of Bénédictine. Its profile received a good boost in the twenty-first century owing to enterprising young bartenders in service of old cocktails with pedigrees.
+    glassware: rocks
+    ingredients:
+    - 1 ounce rye
+    - 1 ounce cognac
+    - 1 ounce sweet vermouth
+    - ¼ ounce Bénédictine
+    - 1 dash Angostura bitters
+    - 1 dash Peychaud’s bitters
+    - "Garnish: lemon twist"
+    steps:
+    - Combine all the ingredients in a mixing glass half-filled with ice. 
+    - Stir until chilled, about 15 seconds. 
+    - Strain into a chilled rocks glass over one large ice cube. 
+    - Express a lemon twist over the drink and drop it into the glass.
+    tags:
+    - stirred
+  - name: Ward Eight
+    year: 
+    notes: |+2
+      The only famous cocktail to have come out of Boston, and one that has perennially fallen short of the title “beloved.” It is basically a Whiskey Sour with the addition of grenadine as the sweetener and orange juice. It is said to have been created in 1898 at the Locke-Ober, one of Boston’s oldest and most famous restaurants and a political hangout, but stories vary. Though widely known and a regular actor in cocktail books published over the decades, the Ward Eight never rose above a second-tier minor classic. Nor was it embraced by the bartenders of the cocktail revival. In a notorious incident, the best young bartenders of Boston convened one night in the aughts to ascertain the best possible recipe for the cocktail, only to conclude that the Ward Eight was unsalvageable.
+    glassware: coupe
+    ingredients:
+    - 2 ounces rye
+    - ½ ounce lemon juice
+    - ½ ounce orange juice
+    - 1 barspoon grenadine
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice and shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe.
+    tags:
+    - shaken
+    - citrus
+  - name: White Lady
+    year: 
+    notes: |+2
+      A cocktail strongly associated with the American Bar at the Savoy hotel, which makes sense, since the recipe first appeared in Harry Craddock’s Savoy Cocktail Book in 1930. Made of gin, Cointreau, and lemon juice, it is basically a gin Sidecar. It was famous enough by 1932 that Cointreau regularly used the recipe in ads. An egg white is often included in the mix.
+    glassware: coupe
+    ingredients:
+    - 1½ ounces gin
+    - ¾ ounce Cointreau
+    - ¾ ounce lemon juice
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice and shake until chilled, about 15 seconds. 
+    - Strain into a chilled coupe.
+    tags:
+    - shaken
+    - citrus
+  - name: White Russian
+    year: 
+    notes: |+2
+      A simple, heavy-going cocktail made of vodka, cream, and coffee liqueur, its popularity rose in tandem with that of vodka in the 1960s. In 1998 it was given a new lease on life, which shows no sign of ebbing, with the release of the Coen Brothers film The Big Lebowski, whose laid-back protagonist, Jeffrey “The Dude” Lebowski, drinks White Russians almost exclusively, calling them, affectionately, “Caucasians.” It was preceded historically by the Black Russian, which is merely vodka and coffee liqueur, but—just as the Brandy Alexander did to the original Alexander—the White Russian has long since eclipsed the older drink. Both are “Russian” because of the presence of vodka, a spirit once exclusively associated with Russia.
+    glassware: rocks
+    ingredients:
+    - 1½ ounces vodka
+    - ¾ ounce Kahlúa
+    - ¾ ounce heavy cream
+    steps:
+    - Combine the ingredients in a cocktail shaker half-filled with ice and shake until chilled, about 15 seconds. 
+    - Strain into a chilled old-fashioned glass.
+    tags:
+    - shaken
+  - name: Zombie
+    year: 
+    notes: |+2
+      Arguably the most famous, and certainly the most notorious, of all tiki cocktails. It was invented by Donn Beach, founder of the trailblazing tiki bar Don the Beachcomber, in the 1930s. It was often imitated, but never duplicated, since Beach guarded his drink recipes jealously, forcing others to only guess at what went into his most famous concoctions. The only thing that ties all the various Zombies together was the enormous amount of rum that went into each—almost always including a shot of overproof rum—as well as its reputation as a knockout punch of a drink. The running gimmick was that there were only two allowed per customer, as woe betide anyone who had a third. The recipe might have been permanently lost to time if not for the sleuthing of tiki historian Jeff “Beachbum” Berry, who in 2007, after years of tracking the Zombie’s history, came upon the original recipe, dated 1934, and written down in the notebook of a Beachcomber waiter named Dick Santiago. The formula, now widely accepted as the original Zombie, includes four ounces of three rums (including overproof rum), lime juice, falernum, Don’s mix (white grapefruit–cinnamon sugar water), Pernod, grenadine, bitters, and crushed ice, all tossed in a blender.
+    glassware: tiki mug
+    ingredients:
+    - 1½ ounces Puerto Rican rum
+    - 1½ ounces Jamaican rum
+    - 1 ounce 151-proof demerara rum
+    - ¾ ounce lime juice
+    - ½ ounce falernum
+    - ½ ounce Don’s Mix
+    - 1 dash Angostura bitters
+    - 6 drops Pernod
+    - 1 teaspoon grenadine
+    - ¾ cup crushed ice
+    - "Garnish: mint sprig"
+    steps:
+    - Put all the ingredients into a blender and blend at high speed for no more than 5 seconds. 
+    - Pour into a chimney glass. 
+    - Add ice to fill. 
+    - Garnish with a mint sprig.
+    tags:
+    - tiki
+    - shaken
+    - citrus

@@ -1543,3 +1543,349 @@ recipes:
   steps:
     - Toast the cardamom, allspice, crushed cinnamon, cloves, grated nutmeg and star anise in a medium pot over low to medium heat. This should take less than 5 minutes. Don’t let the pot get too hot, Sanabria advises, to avoid curdling the milks in the next step.
     - Add the coconut cream to the pot, then stir in the vanilla paste. Bring to a light boil. Simmer gently, stirring to avoid burning, until the liquid starts to reduce, not longer than 10 minutes. Remove from heat immediately, and let cool to room temperature.
+- name: Ras el Hanout Bitters
+  notes: |+2
+      For Elective Amnesia.
+  ingredients:
+    - 4 ounces rye whiskey
+    - 4 ounces tequila
+    - 4 ounces aged rum
+    - 4 ounces brandy
+    - 4 ounces everclear, preferably Gem Clear 190 proof
+    - 1/2 tablespoon cassia bark
+    - 1/2 tablespoon dried bitter orange peel
+    - 1/2 tablespoon cinchona bark
+    - 1/2 tablespoon dried angelica root
+    - 1/2 tablespoon dried wormwood herb
+    - 2 tablespoons ras el hanout
+    - 2 ounces demerara syrup (1:1, demerara sugar:water)
+  steps:
+    - Combine ingredients in a large glass jar, except the demerara syrup, and allow the mixture to infuse for 2 weeks, agitating occasionally. Straining to remove the solids, and mix in the demerara syrup.
+- name: Mexican Chile Syrup
+  notes: |+2
+      For Room for Improvement's Oaxacan Old-Fashioned.
+  ingredients:
+    - 6 cascabel chiles
+    - 2 ancho chiles
+    - 750 milliliters water
+    - 1125 grams Demerara sugar
+  steps:
+    - Crush and tear the chiles, then add them to a medium saucepan. 
+    - Add the water and heat the mixture. 
+    - Once the water is hot and the chiles have started to rehydrate, add the sugar and stir to combine. 
+    - Heat on medium-high until the sugar is dissolved. 
+    - Remove from heat and let sit overnight, then strain out the solids and bottle. 
+    - Keeps, refrigerated, up to 2 weeks.
+- name: Mango Cordial
+  notes: |+2
+      For the Cobra.
+  ingredients:
+    - 1 part mango nectar (by weight)
+    - 1 part white sugar (by weight)
+  steps:
+    - Blend the mango nectar and sugar until they’re fully incorporated. 
+    - Keeps, refrigerated, for up to 1 week.
+- name: Serrano Cilantro Cordial
+  notes: |+2
+      For the Cobra.
+  ingredients:
+    - 300 grams 1:1 simple syrup
+    - 30 grams cilantro (including stems)
+    - 8 grams chopped serrano pepper
+  steps:
+    - Add ingredients to a blender and process thoroughly to incorporate, then strain remaining solids. 
+    - Bottle and store in the refrigerator. 
+    - Keeps for up to 1 week.
+- name: Sichuan Salt
+  notes: |+2
+      For the Cobra.
+  ingredients:
+    - 15 grams Sichuan peppercorns
+    - 700 grams salt
+    - 25 grams Aleppo pepper flakes
+  steps:
+    - To a high-powered blender or spice grinder, add the Sichuan peppercorns and process only until they’re a fine consistency.
+    - In a jar or other container, combine the salt, Aleppo pepper and ground Sichuan peppercorns. 
+    - Shake to integrate.
+- name: Salted Velvet Falernum
+  notes: |+2
+      For the Castaway.
+  ingredients:
+    - 15 grams kosher salt
+    - 750-milliliter bottle of falernum, preferably John D. Taylor's Velvet Falernum
+  steps:
+    - Add the salt to the Velvet Falernum, then shake the bottle gently for a few minutes until salt is dissolved.
+- name: Cobra Coffee
+  notes: |+2
+      For the Kopiko Espresso Martini.
+  ingredients:
+    - 2 parts espresso
+    - 1 part cold-brew concentrate
+  steps:
+    - Stir together and refrigerate.
+- name: Rich Turbinado Syrup
+  notes: |+2
+      For the Kopiko Espresso Martini. 
+  ingredients:
+    - 2 parts turbinato sugar (by weight)
+    - 1 part hot water (by weight)
+  steps:
+    - Combine the sugar and water in a saucepan over low heat and stir to incorporate. 
+    - Be careful to not let it reduce.
+- name: Thai Banana-Infused Campari
+  notes: |+2
+      For ViceVersa's MiTo.
+  ingredients:
+    - 1 liter Campari
+    - 100 grams dried Thai banana chips, preferably Rare Tea Cellar’s Artisan Wild Dried Thai Banana
+  steps:
+    - Combine the ingredients and let infuse for 8 hours. 
+    - Strain and bottle.
+- name: Osmanthus Water
+  notes: |+2
+      For ViceVersa's MiTo.
+  ingredients:
+    - 250 grams boiling water
+    - 5 grams osmanthus tea
+  steps:
+    - Combine ingredients and let infuse for 3 minutes. 
+    - Strain through a coffee filter.
+- name: Mochi Rice-Washed Gin
+  notes: |+2
+      For Public Parking's House Martini.
+  ingredients:
+    - 2 parts gin (by weight)
+    - 1 part mochi rice (by weight)
+  steps:
+    - Heat the gin to 175°F, then add the rice.
+    - Cook the rice in the gin for 20 minutes, then remove from heat and refrigerate for 24 hours. 
+    - Strain and bottle.
+- name: Shiozakura Saline Solution
+  notes: |+2
+      For Public Parking's House Martini.
+  ingredients:
+    - 500 milliliters water
+    - 250 grams shiozakura (salt-preserved cherry blossoms)
+  steps:
+    - Bring the water to 160°F, then add the shiozakura and cook for 3 minutes. 
+    - Strain, then bottle. 
+    - Keeps, refrigerated, for up to a month.
+- name: Barolo Reduction
+  notes: |+2
+      For the Brucio in Bocca.
+  ingredients:
+    - 700 milliliters Barolo wine
+    - 200 grams coconut sugar
+    - 100 milliliters dry vermouth, preferably Cocchi Vermouth di Torino
+    - peels of 3 oranges
+    - peels of 3 lemons
+    - 5 grams coffee beans
+  steps:
+    - In a saucepan over medium heat, cook for 20 minutes, then let it cool. 
+    - Strain to remove the solids, then store in the refrigerator for up to two weeks.
+- name: Red Wine Salt
+  notes: |+2
+      For the Brucio in Bocca.
+  ingredients:
+    - 1 part red wine
+    - 1 part salt
+    - 2 orange peels
+  steps:
+    - Combine ingredients, ensuring that the wine covers the salt. 
+    - Add the orange peels and let soak for 24 hours. 
+    - Strain through a fine mesh strainer then place salt in a dehydrator for 24 hours. 
+    - Blend and keep in a vacuum-sealed container.
+- name: Black Sugar Vanilla Bean Syrup
+  notes: |+2
+      For the Nine Dragons.
+  ingredients:
+    - 
+  steps:
+    - Weigh out equal amounts (a 1:1 ratio by weight) of black sugar and water.
+    - For every 8 ounces, add one vanilla bean pod, sliced open vertically.
+    - Combine all ingredients in a small saucepan over medium-low heat and stir until the sugar is completely dissolved.
+    - Remove the syrup from heat and let sit for 10 minutes. Pass through a fine-mesh strainer with a cheesecloth or coffee filter, and store in an airtight container in the refrigerator. Keeps up to 2 weeks.
+- name: Salty Vermouth Sidecar
+  notes: |+2
+      For the La Veau d'Or Martini.
+  ingredients:
+    - 1 1/2 to 2 ounces González Byass La Copa Extra Seco fino sherry vermouth
+    - Vichy Catalan mineral water, to top
+    - reserved lemon peel
+  steps:
+    - To a small Collins or water glass, add the reserved Martini ice.
+    - Add the vermouth and top with Vichy Catalan.
+    - Garnish with the reserved lemon peel.
+- name: Pandan Syrup
+  notes: |+2
+      For the Tea Service.
+  ingredients:
+    - 500 milliliters coconut water
+    - 500 grams palm sugar
+    - 10 grams frozen pandan leaves
+  steps:
+    - In a pot, heat all of the ingredients together until the sugar is dissolved. 
+    - Simmer for 5 minutes, then remove from heat. 
+    - Let cool, then strain and store.
+- name: Citric Acid Solution
+  notes: |+2
+      For the Tea Service.
+  ingredients:
+    - 
+  steps:
+    - Combine 50 grams of powdered citric acid and 100 milliliters of water.
+- name: Hot Matcha Lavender Foam
+  notes: |+2
+      For the Tea Service.
+  ingredients:
+    - 200 milliliters simple syrup
+    - 200 milliliters matcha tea
+    - 100 milliliters lavender syrup
+    - 5 grams Foam Magic
+    - 3 grams powdered citric acid
+  steps:
+    - Add all ingredients to a blender and blend slowly to combine.
+    - Add the contents to an iSi whipper. Charge once and shake.
+    - Keep in a 155°F water bath until ready to serve. (For longer-term use, refrigerate between uses and warm as needed.)
+- name: Homemade Egg Liqueur
+  notes: |+2
+      For the Bombardino. 
+  ingredients:
+    - 12 egg yolks
+    - 400 grams Demerara sugar
+    - 400 milliliters full-fat milk
+    - 100 milliliters heavy cream
+    - 100 milliliters ethanol (60% ABV)
+    - 50 milliliters semisweet vermouth, preferably Astobiza
+    - 50 milliliters Pedro Ximénez sherry, preferably San Emilio Lustau
+    - 4 dashes vanilla extract
+  steps:
+    - Add all ingredients to a saucepan and cook for 10 minutes at 131°F (55°C).
+    - If foam forms on top, remove it with a spoon.
+    - Bottle, then refrigerate. Keeps for 4 weeks.
+- name: Salted Cream
+  notes: |+2
+      For the Bombardino.
+  ingredients:
+    - 1 liter heavy cream (35% fat)
+    - 150 grams superfine sugar
+    - 3 grams sea salt
+  steps:
+    - In a container, whip everything together until the mixture is combined and aerated. The cream should remain liquid.
+    - Keeps, refrigerated, for up to 10 days.
+- name: Persimmon Syrup
+  notes: |+2
+      For The Royal Palmer.
+  ingredients:
+    - 100 grams diced Hachiya persimmons
+    - 500 millileters simmering water
+    - sugar
+  steps:
+    - In a pot, poach 100 grams of diced Hachiya persimmons in 500 milliliters of simmering water for 10 minutes. Strain the fruit, weigh it, then add an equal amount of sugar.
+- name: Ginger Lemonade
+  notes: |+2
+      For The Royal Palmer.
+  ingredients:
+    - 1 liter cold water
+    - 500 milliliters fresh lemon juice
+    - 375 milliliters simple syrup
+    - 125 milliliters ginger syrup
+  steps:
+    - Add all ingredients to a blender and process until combined.
+- name: Turmeric Syrup
+  notes: |+2
+      For the Dawn Patrol.
+  ingredients:
+    - 2 ounces dried ground turmeric
+    - 4 cups sugar
+    - 1 quart water
+  steps:
+    - Toast the turmeric in a dry pan over medium heat until aromatic. 
+    - Add the sugar and then the water. 
+    - Stir to combine and let it get hot, but remove from heat before the syrup comes to a boil. 
+    - Let it cool, then pass it through a cloth filter. 
+    - Bottle and reserve. 
+    - Keeps, refrigerated, for about 2 weeks.
+- name: Amaro Lucano Syrup
+  notes: |+2
+      For the Jaffa Bar's Godfather.
+  ingredients:
+    - 300 grams sugar
+    - 250 grams Amaro Lucano
+    - 100 grams water
+    - 2 cinnamon sticks
+    - peels of one orange
+  steps:
+    - Combine ingredients in a saucepan over low heat and stir until sugar has dissolved. 
+    - Strain into a bottle. 
+    - Can store refrigerated for up to two weeks.
+- name: Cynar Syrup
+  notes: |+2
+      For the Mall Grab.
+  ingredients:
+    - 500 grams sour cherry juice
+    - 500 grams sugar
+    - 250 grams Cynar
+    - 15 grams cardamom
+    - 2 grams vanilla extract
+  steps:
+    - Combine ingredients in a saucepan over low heat and stir until sugar has dissolved. 
+    - Strain into a bottle. 
+    - Can store refrigerated for up to two weeks.
+- name: Cinnamon Syrup
+  notes: |+2
+      For the Jakartian Peardition.
+  ingredients:
+    - 1 cup sugar
+    - 1 cup water
+    - 1 two-inch piece of cinnamon bark
+    - 2 whole cloves
+    - 1/2 star anise pod
+  steps:
+    - Combine sugar with water in a saucepan over low heat with cinnamon bark for 5 minutes. 
+    - Let stand overnight and then strain. 
+    - Store in an airtight container in the refrigerator until ready to use.
+- name: Chive-Infused Rum
+  notes: |+2
+      For the Đậu Hũ (Tofu) [Dau Hu].
+  ingredients:
+    - 50 grams chives, cut into small pieces
+    - 1 liter white rum
+  steps:
+    - Set a sous vide circulator and water bath to 135°F (57°C).
+    - Combine chives and rum in a vacuum or zip-top bag. Seal the bag, removing as much air as possible.
+    - Submerge the bag in the water bath for 1 hour.
+    - Remove the bag from the water bath, then strain the rum through a fine-mesh strainer and discard solids.
+    - Transfer the infused rum to a clean bottle for storage.
+- name: Tofu Whey Syrup
+  notes: |+2
+      For the Đậu Hũ (Tofu) [Dau Hu].
+  ingredients:
+    - 100 grams tofu whey
+    - 100 grams sugar
+  steps:
+    - In a small saucepan over medium heat, combine the tofu whey and sugar. Stir continuously until the sugar is fully dissolved.
+    - Reduce the heat to low and simmer for two to three minutes, stirring occasionally.
+    - Remove the pan from heat, and let the syrup cool to room temperature, then transfer to a clean bottle or jar and refrigerate for up to two weeks.
+- name: Orgeat
+  notes: |+2
+      For the Bar Agricole’s Japanese Cocktail.
+  ingredients:
+    - 8 ounces (227 grams) almonds
+    - 1/2 ounce (14 grams) blanched apricot kernels (optional)
+    - 1 1/2 cups (355 milliliters) water, plus more for soaking
+    - About 200 grams organic evaporated cane sugar (the exact amount will vary; see directions)
+    - 1/4 cup (49 milliliters) brandy, such as Bar Agricole Biodynamic California Brandy
+    - 1 teaspoon orange flower water, such as Nielsen-Massey
+  steps:
+    - Lightly toast the almonds (and apricot kernels, if using) in the oven at 375°F for 15 minutes.
+    - Place the toasted almonds in a bowl, rinse once, then cover with cold water and soak for 30 minutes.
+    - Drain and discard this water. Chop the toasted nuts in a food processor until they reach a uniformly fine texture. Occasionally, stop and stir the ground nuts (aka nut meat) so the pieces on the bottom don’t turn to butter.
+    - Transfer the nut meat into a large bowl and add the 1 1/2 cups of water. Let stand overnight.
+    - The next day, pass the mixture through a fine-mesh chinois strainer. Save the strained liquid and nut meat in separate containers. Gently heat the liquid to 125°F (50°C). Add the nut meat back into the liquid, and let it stand for 30 minutes to 1 hour.
+    - Pass through a chinois, and again save the liquid to reheat to 125°F (50°C).
+    - Put the nut meat back into the warmed liquid for a third time, and let it stand for 30 minutes to 1 hour.
+    - Press the nut meat through a multilayered cheesecloth (or nut milk bag) to extract as much liquid as you can.
+    - Discard the solids, and weigh the nut milk. Multiply that number by 0.88 to find how much sugar to add. (You want a little less sugar than the amount of liquid. For example, if your liquid weighs 227 grams, you’ll use 200 grams of sugar.) Pour the strained liquid into a pot and add the sugar.
+    - Over medium heat (180°F), stir to dissolve the sugar, then bring the mixture to a boil, stirring occasionally until the liquid reaches the syrup stage, 230°F to 235°F. Remove from heat immediately. (Do not boil too long, otherwise the sugar will crystallize when it cools.)
+    - Once the almond syrup is cooled, add the brandy and orange flower water. Store the finished orgeat in the refrigerator for up to 3 weeks.

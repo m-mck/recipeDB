@@ -1,0 +1,1912 @@
+source: "The Connaught Bar"
+recipes:
+
+#
+  - name: The Connaught Martini (Gin)
+    notes: |+2
+      Whether it is the gin or vodka version, The Connaught Martini is an aromatized Martini that has been served following the same ritual since the day we opened the newly refurbished bar. It’s a distillation of the Connaught Bar ethos – it’s about approaching our guests. We want our new guests to get excited about what we do with our classic service, and we want our regular guests to feel comfortable and yet excited about trying something new.
+    glassware: nick & nora
+    ingredients:
+    - 1/2 teaspoon bitters of choice
+    - 1/2 oz vermouth blend
+    - 2 1/2 oz vodka of choice
+    - Lemon twist or green olive
+    steps:
+    - "To make a martini with a twist: Using a dropper, gently pour the bitters around the rim of a frozen martini glass or coupette. Combine the vermouth and spirit in a mixing glass filled two-thirds with large ice cubes and stir until well chilled. Strain into the prepared martini glass, raising the mixing glass high to add aeration to the drink and squeezing the lemon twist into the drink as the liquid passes into the glass. Garnish with the lemon twist." 
+    - "To make a martini with an olive: Using a dropper, gently pour the bitters around the rim of a frozen martini glass or coupette. Prick the olive three times with a cocktail stick (toothpick) and let a little juice run out into the glass. Combine the vermouth and spirit in a mixing glass filled two-thirds with large ice cubes and stir until well chilled. Strain into the prepared martini glass, raising the mixing glass high to add aeration to the drink. Garnish with the olive skewered onto the cocktail stick."
+    tags:
+    - the connaught bar
+    - stirred
+    - martini
+    - freezer bar
+  - name: The Connaught Martini (Vodka)
+    notes: |+2
+      Whether it is the gin or vodka version, The Connaught Martini is an aromatized Martini that has been served following the same ritual since the day we opened the newly refurbished bar. It’s a distillation of the Connaught Bar ethos – it’s about approaching our guests. We want our new guests to get excited about what we do with our classic service, and we want our regular guests to feel comfortable and yet excited about trying something new.
+    glassware: 
+    ingredients:
+    - 1/2 teaspoon bitters of choice
+    - 1/2 oz vermouth blend
+    - 2 1/2 oz gin of choice
+    - Lemon twist or green olive
+    steps:
+    - "To make a martini with a twist: Using a dropper, gently pour the bitters around the rim of a frozen martini glass or coupette. Combine the vermouth and spirit in a mixing glass filled two-thirds with large ice cubes and stir until well chilled. Strain into the prepared martini glass, raising the mixing glass high to add aeration to the drink and squeezing the lemon twist into the drink as the liquid passes into the glass. Garnish with the lemon twist." 
+    - "To make a martini with an olive: Using a dropper, gently pour the bitters around the rim of a frozen martini glass or coupette. Prick the olive three times with a cocktail stick (toothpick) and let a little juice run out into the glass. Combine the vermouth and spirit in a mixing glass filled two-thirds with large ice cubes and stir until well chilled. Strain into the prepared martini glass, raising the mixing glass high to add aeration to the drink. Garnish with the olive skewered onto the cocktail stick."
+    tags:
+    - the connaught bar
+    - stirred
+    - martini
+    - freezer bar
+  - name: 21st Century
+    notes: |+2
+      The 21st Century takes a cue from the classic 20th Century cocktail, which was created by bartender C. A. Tucker and featured in William J. Tarling’s 1938 volume the Café Royal Cocktail Book. A blend of London dry gin, crème de cacao, fresh lemon juice and Kina Lillet – a more herbaceous predecessor to today’s Lillet Blanc aperitif. We decided to twist this classic sip into a softer version of another classic, Harry Craddock’s Corpse Reviver No. 2, which was featured in Craddock’s 1930 cocktail compilation The Savoy Cocktail Book. Our version has a citrusy edge like the Corpse Reviver No. 2, but the chocolate notes combine with the hint of spice from the rye in the genever to make this a very special modern update.
+    glassware: coupette
+    ingredients:
+    - Edible gold paint, to decorate the glass 
+    - 1 3/4 oz Cacao Nib-infused Genever
+    - 2/3 oz fresh lemon juice
+    - 2/3 oz Sugar Syrup
+    - 2/3 oz Lillet Blanc
+    steps:
+    - Brush the base of a coupette with edible gold paint and set aside. 
+    - Combine the genever, lemon juice, sugar syrup and Lillet Blanc in  a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into the prepared coupette. 
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+  - name: Amber Black
+    notes: |+2
+      While the activated charcoal and coconut garnish provides a visual representation of our Amber Black’s name and character, the fundamental contrast is the balance of the bold flavours of cachaça and mastiha against soft Riesling and jasmine. While complementary flavours are a usual approach in a drink’s creation, sometimes opposites really do attract. And contrasting tastes highlight each other’s virtues. Korerima pods, native to Ethiopia, are unrelated but so like cardamom pods that they are sometimes called Ethiopian or false cardamom. However, here we seek the pepperiness unique to them as well as their fruity and perfumed character. You might expect a smoky and heavy drink with the blackness, yet this drink is light, sweet and rich, taking your mind from visual expectation to a very different visceral delight.
+    glassware: white wine glass
+    ingredients:
+    - Neutral spirit, for spraying the glass
+    - Powdered coconut and activated charcoal powder, for dusting the glass and to garnish
+    - 1 1/2 oz Coconut and Coffee-infused Cachaça
+    - 1/3 oz Korerima Pod-infused Mastiha 
+    - 1 barspoon Riesling Verjus Cordial
+    - 1/3 oz jasmine liqueur
+    - 1 oz soda water, for topping
+    steps:
+    - Spray one side of a white wine glass with a neutral spirit and dust the same side of it with powdered coconut and activated charcoal powder with the help of a powder decorating shaker. 
+    - Set aside.
+    - Combine the cachaça, mastiha, cordial and liqueur in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a white wine glass over a chunk of ice. 
+    - Top with the soda water. 
+    - Garnish with powdered coconut and activated charcoal powder.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Animae
+    notes: |+2
+      A mellow, sparkling blend of white peach and Prosecco with hints of grenadine and lemon juice, the ubiquitous Bellini was a seasonal sparkling cocktail introduced at Harry’s Bar in Venice by the bar’s owner Giuseppe Cipriani shortly after he opened for business in May 1931. But Cipriani didn’t bother to name his special house aperitif until 1948, when a retrospective of Renaissance artist Giovanni Bellini was exhibited in the ‘Floating City’. Our Animae pays tribute to this masterpiece in the art of sweet simplicity. It stirs animated feelings and emotions just like a fine painting, blending our house-made Clarified White Peach Purée and Oat Liqueur as the delicate enhancements in a vodka and champagne cocktail. But the soul of this drink is the garnish: a delicate peach sphere suspended in this crystal-clear cocktail. If you try to lift the sphere, you find you are piercing the Animae’s soul. 
+    glassware: flute
+    ingredients:
+    - 2/3 oz vodka
+    - 1/3 oz Oat Liqueur 
+    - 1 oz Clarified White Peach Purée 
+    - 1 1/2 oz champagne
+    - "Garnish: Peach Sphere Water Cake"
+    steps:
+    - Combine the vodka, liqueur, peach purée and champagne in a mixing glass filled with ice and stir until well chilled. Strain into a flute. Garnish with the water cake speared onto the end of a cocktail sword
+    tags:
+    - the connaught bar
+    - stirred
+    - sparkling
+  - name: Ash Cloud
+    notes: |+2
+      When we created this drink, it was not so much a nod to the guests from the United States who were temporarily trapped in London by the eruption of the Icelandic volcano Eyjafjallajökull in 2010, but a dark twist on a favourite libation, the Paloma. While the original is a mix of blanco tequila, lime juice and grapefruit soda, our version adds sophisticated notes of fino sherry and washes the tequila with toasted sesame oil. The result is a toasty, subtly fruity sip that belies its spirituous nature.
+    glassware: coupette
+    ingredients:
+    - 1½ oz Toasted Sesame Oil-washed Blanco Tequila 
+    - 1 oz Grilled Grapefruit Sherbet 
+    - 1/3 oz fino sherry
+    - 1/3 oz fresh lime juice
+    - "Garnish: Black Isomalt Disc Studded with Sesame Seeds"
+    steps:
+    - Combine the tequila, sherbet, fino sherry and lime juice in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a coupette. 
+    - Garnish with a black isomalt disc studded with sesame seeds.
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+  - name: Astor Special Fix
+    notes: |+2
+      Albert Stevens Crockett, historian of New York’s old Waldorf-Astoria Hotel, questioned the origins of the Astor Cocktail. Was it a drink that was possibly created at the ‘old Astor House or the Astor Hotel’, and did it take its name ‘from its bar of nativity’? Or was this blend of gin and Swedish Punsch (a bottled mixture of arrack, brandy or rum with lemon, spices, sugar and water) crafted to honour namesake William Waldorf Astor, who first built the Waldorf Hotel? Whatever the answers, the Astor was the hotel’s signature cocktail after Waldorf’s cousin John Jacob Astor IV built the adjacent Astor Hotel and the two buildings were united before the turn of the century to form the Waldorf-Astoria – the world’s largest hotel at that time. Our version of the Astor is a special fix. While the classic drink consists of spirit, lemon juice and a sweet fruit, ours is more complex. It is made of wormwood-infused vodka, Matcha Syrup and a touch of egg white, which makes it creamier in both palate and texture. The use of egg white to enrich the presentation with light foaminess as well as maraschino liqueur also harkens to another cocktail classic – the Ramos Gin Fizz.
+    glassware: highball
+    ingredients:
+    - 1 3/4 oz wormwood-infused vodka 
+    - 3/4 oz fresh lemon juice
+    - 1/3 oz maraschino liqueur
+    - 2/3 oz Matcha Syrup
+    - 1/2 oz egg white
+    - 1 3/4 oz soda water, for topping
+    - "Garnish: Dried lime slices"
+    steps:
+    - Whizz the vodka, lemon juice, liqueur, syrup and egg white in a blender. 
+    - Alternatively, you can dry shake these ingredients without ice in a cocktail shaker, then hard shake the mixture a second time in a cocktail shaker over ice. 
+    - Double strain into a highball glass filled with ice. Top with the soda water and garnish with dried lime slices.
+    tags:
+    - the connaught bar
+    - blended
+    - citrus
+    - shaken
+  - name: Avant-Garde
+    notes: |+2
+      Avant-garde: It is a word that encompasses the attributes of newness and experimentation in both conception and technique, especially in the worlds of art, music and literature. The essence of avant-garde can also be associated with the modern, forward-thinking movement seen in today’s food and beverage world. Avant-garde is the mantra that drives the spirit of experimentation we present in every menu and every drink served at the Connaught Bar, and this libation is a tribute to this sentiment. The enigmatic Avant-Garde cocktail invites you to step between dimensions – from the historic to the exotic. Vodka is infused with barberries and mulberries. The striking purple hue and spicy notes come from our house-made Chicha Morada – a Peruvian drink made from native purple corn, stone fruit and citrus spiced with cinnamon and cloves. On first sip, you notice that this drink is light on spirit, bright with fruitiness: clearly it is a drink that surprises you with hints of raspberry vinegar, vanilla-forward liqueur and lightly bitter amaro. Amaro Santoni is a liqueur made with thirty-four herbs. Its flavour is infused with undertones of citrus, olive leaves and iris and, above all, of rhubarb.
+    glassware: coupette
+    ingredients:
+    - 1 1/2 oz Barberry and Mulberry-infused Vodka 
+    - 1 barspoon Amaro Santoni
+    - 1 oz Galliano l’Aperitivo
+    - 1 1/2 oz Chicha Morada
+    steps:
+    - Combine the vodka, amaro, Galliano l’Aperitivo and chicha morada in a mixing glass filled ice and stir until well chilled. 
+    - Strain into a coupette with a piece of block ice.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: The Avenue
+    notes: |+2
+      When the United Kingdom Bartenders’ Guild was first organized in 1934, it was founded by two of London’s top bartenders: Harry Craddock of the American Bar at the Savoy and William J. Tarling, who presided over the bar at the Café Royal off Piccadilly. Both gentlemen compiled the recipes being mixed at London’s top bars. The Avenue appeared in Tarling’s 1937 volume the Café Royal Cocktail Book. Originally crafted by G. Crompton, it was a blend of bourbon, Calvados – a French apple brandy – and passion fruit juice with dashes of grenadine and orange flower water. We came up with a modernized version that is insidiously fresh and rich in tropical fruitiness.
+    glassware: 
+    ingredients:
+    - 2/3 oz reposado tequila 
+    - 1 oz bourbon
+    - 1/2 oz passion fruit purée
+    - 2/3 oz fresh orange juice
+    - 1 whole passion fruit, both pulp and seeds
+    - 1/3 oz Rosehip Syrup
+    - 2 dashes orange flower water
+    - "Garnish: 1/2 passion fruit and edible flowers"
+    steps:
+    - Combine the tequila, bourbon, passion fruit purée, orange juice, passion fruit pulp and seeds, syrup and orange flower water in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a coupette, then float the passion fruit on top and garnish with edible flowers.
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+  - name: Bamboo
+    notes: |+2
+      Featured in the 1908 edition of ‘Cocktail Bill’ Boothby’s World Drinks and How to Mix Them, the original Bamboo is a sherry and sweet vermouth cocktail made famous by barman Louis Eppinger, who created the drink at his San Francisco bar on Halleck Street around the 1870s before he moved to Portland, Oregon, a decade later. His drink was already popular in the United States when he pulled up stakes and moved to Yokohama, Japan, where he managed the bar at the Grand Hotel and popularized his own creation among visiting American dignitaries and military personnel. This twist on the classic Bamboo was crafted by the team at the Connaught Bar in 2014. They modernized the recipe by reducing the sweetness, using a dry sherry and Coffee Bean-infused Extra Dry Vermouth and introduced additional spiciness by combining orange bitters with the house ginseng-bergamot bitters. If you cannot find ginseng-bergamot bitters, blend equal parts of a bergamot liqueur with a gentian liqueur.
+    year: 2014
+    glassware: coupette
+    ingredients:
+    - 1 1/2 oz oloroso sherry
+    - 1 1/2 oz Coffee Bean-infused Extra Dry Vermouth 
+    - 2 dashes ginseng-bergamot bitters 
+    - 2 dashes orange bitters
+    - "Garnish: Orange twist"
+    steps:
+    - Combine the sherry, vermouth and both bitters in a cocktail shaker filled with two-thirds ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a chilled coupette and garnish with a twist of orange.
+    tags:
+    - the connaught bar
+    - stirred
+    - low-abv
+  - name: A Beautiful Mind
+    notes: |+2
+      It is a thing of beauty: A mind that is open to learning the new and different is likened to a blank canvas that is receptive to inspiration and vision. It is a blank canvas for creation, just like the young barbacks (assistants to the bartenders) and bartenders who come to work and learn with us. This drink is a fruity palate cleanser that is deceptively spirituous. The crispness of Polish vodka works with the tart, astringent flavour of the quince liqueur to balance the sweetness of both the Clarified Pineapple Juice and the intensely sweet, pungent, balsamic aroma of Opopanax Syrup. Opopanax is the resin collected from the Commiphora guidotti tree, which is found in Africa and Asia. Sometimes this resin, which is used by perfumiers all over the world, is called sweet myrrh.
+    glassware: highball
+    ingredients:
+    - 1 3/4 oz Polish vodka
+    - 1/3 oz quince liqueur
+    - 1/3 oz Opopanax Syrup
+    - 1 1/2 oz Clarified Pineapple Juice 
+    - 2 3/4 oz soda water
+    - "Garnish: Dried pineapple slice"
+    steps:
+    - Combine the vodka, liqueur, syrup, juice and soda water in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a highball glass filled with ice and garnish with a dried pineapple slice.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: The Bentley Cocktail
+    notes: |+2
+      This take on a classic Bentley cocktail was crafted to celebrate the creation in 2016 of a new model Bentley automobile. The drink itself was made to be prepared in advance and served in the vehicle's little bar. If you cannot find ginseng-bergamot bitters, blend equal parts of a bergamot liqueur with a gentian liqueur.
+    glassware: coupette
+    ingredients:
+    - 1 3/4 oz single-cask whisky
+    - 2/3 oz fresh lemon juice
+    - 1/3 oz sloe gin
+    - 1/3 oz egg white
+    - 1/3 oz 30-year-old sherry
+    - 2 dashes ginseng-bergamot bitters
+    - "Garnish: Carved lemon peel and a spray of green mandarin essence"
+    steps:
+    - Combine the whisky, juice, sloe gin, egg white, sherry and bitters in a cocktail shaker and shake vigorously. 
+    - Add enough ice to fill the shaker and hard shake. 
+    - Double strain into a coupette and garnish with a carved lemon peel and a spray of green mandarin essence.
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+  - name: Bentley No. 2
+    notes: |+2
+      A Bentley Cocktail is among the treasure chest of drinks that Harry Craddock, head bartender of the American Bar at the Savoy, included in his 1930 The Savoy Cocktail Book. This blend of Calvados and a French aromatized wine, Dubonnet, inspired us to modernize the drink by adding an Asian touch: umeshu plum wine from Japan. The cherry and spice from the Peychaud’s Bitters add an edge of complexity to this very simple and satisfying pre-dinner concoction. 
+    glassware: coupette
+    ingredients:
+    - 1 1/2 oz Calvados
+    - 1 oz umeshu plum wine
+    - 1 oz Dubonnet
+    - 2 dashes Peychaud’s Bitters
+    - "Garnish: Grapefruit twist"
+    steps:
+    - Combine the Calvados, plum wine, Dubonnet and bitters in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a coupette over a piece of block ice and garnish with a twist of grapefruit.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Benvenuti
+    notes: |+2
+      A warm smile and open arms followed by a cheerful ‘benvenuti!’ greets friends, family and customers alike as the host welcomes all those who enter any door throughout Italy. This sparkling champagne cocktail celebrates the hospitality for which Italians are famed as well as the creation of a new ‘Ambrato’ style of vermouth di Torino, featuring floral and honeyed notes. With a fresh, herbaceous palate, this drink’s gentle pineapple aroma mixes with the nepitella, which is also called lesser calamint – a mint that is traditionally cooked with mushrooms in Pisa, Italy. The result harkens to afternoons languishing on sunny dry hills overlooking a deep blue sea.
+    glassware: flute
+    ingredients:
+    - 1 oz pineapple rum
+    - 2/3 oz Martini Riserva Speciale Ambrato
+    - 1/3 oz Nepitella Mint Syrup 
+    - 2 oz champagne
+    - "Garnish: Diced pineapple piece"
+    steps:
+    - Combine the rum, Ambrato and syrup in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a flute and slowly add the champagne. 
+    - Garnish with a piece of diced pineapple speared onto the end of a cocktail sword, which replaces the bittered sugar cube usually found in traditional champagne cocktails.
+    tags:
+    - the connaught bar
+    - shaken
+    - sparkling
+  - name: Betty Is Back
+    notes: |+2
+      Betty is a joy … she is far the best cocktail mixer in the West End’, wrote a journalist in the 1940s about the Connaught Bar’s head bartender. She first learned her skills working for twelve years behind the bar at the Hind’s Hotel in Bray on Thames. With her well-honed talents she served Connaught Bar customers for fourteen years from the wartime years to a little beyond. This salute to Betty of the Connaught was the very first drink to appear on the refurbished Connaught Bar’s opening menu. Regular customers from when the doors reopened in 2008 love it so much they keep requesting it. Betty is Back is a dry, bubbly sip with delicate floral and citrus notes from a complex blend of Aperol – an orange, gentian, rhubarb and cinchona aperitif – and elderflower liqueurs and fresh lemon juice, while the champagne raises a toast to this memorable wartime bartender and her customers, who kept returning to this iconic spot for more.
+    glassware: flute
+    ingredients:
+    - 1/2 oz Aperol
+    - 1 barspoon elderflower liqueur
+    - 1 barspoon fresh lemon juice
+    - 3 1/2 oz champagne
+    - "Garnish: Cocktail cherry"
+    steps:
+    - Combine the Aperol, liqueur and lemon juice in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a flute and gently pour in the champagne. 
+    - Garnish with a cocktail cherry speared onto the end of a cocktail sword.
+    tags:
+    - the connaught bar
+    - sparkling
+    - stirred
+  - name: Black L'orbe
+    notes: |+2
+      This drink is dark and deceptive. It is made like a classic Vodka Martini but delivers so much more to the nose and palate. The stripe of black edible paint on the bowl of the glass sets the stage for this concoction of caviar vodka and crème de cacao with elegant notes of sherry, Calvados and Cocchi Americano, a wine-based aperitif that is aromatized with herbs and spices. Served with a wedge of salty cheese such as feta, Edam or Roquefort, this cocktail delights and surprises in its universe of the unexpected. 
+    glassware: coupette
+    ingredients:
+    - Edible black paint, to decorate the glass
+    - 1 oz caviar vodka
+    - 1 oz Cocchi Americano
+    - 1/2 oz dry sherry
+    - 1/3 oz crème de cacao
+    - 1/4 oz Calvados
+    steps:
+    - Paint a coupette with a streak of black edible paint and set aside. 
+    - Combine the vodka, Cocchi Americano, dry sherry, crème de cacao and Calvados in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into the prepared coupette.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Bloody Mary
+    notes: |+2
+      A classic cocktail enjoyed before a meal, savoured before a Sunday brunch or on its own, the Bloody Mary was originally created by bartender Ferdinand ‘Pete’ Petiot and named by jazz pianist Ray Barton around 1920 at Harry’s New York Bar in Paris. While the mixture was initially a simple blend of vodka and French tomato juice, it evolved over the decades when spicy elements such as Worcestershire, Tabasco and horseradish sauces were included in the repertoire. The celery stalk was added in 1966 at the Pump Room bar in Chicago’s Ambassador East Hotel. But we started a new tradition by finishing our Bloody Mary with a Celery Air that adds another layer of texture and freshness to a timeless classic.
+    glassware: coupette
+    ingredients:
+    - 1/3 oz fresh lemon juice
+    - 3 1/2 oz tomato juice (if using American tomato juice, add a pinch of sugar to sweeten the juice) 
+    - 2/3 oz Bloody Mary Mix 
+    - 1 3/4 oz gin, vodka or tequila
+    - "Garnish: Celery Air and a grating of nutmeg"
+    steps:
+    - Pour the lemon and tomato juices, Bloody Mary mix and spirit into a cocktail shaker tin. 
+    - Pour the mixture back and forth from the filled shaker to an empty shaker two or three times. 
+    - Strain into a coupette without ice and top with celery air and a grating of nutmeg.
+    tags:
+    - the connaught bar
+    - rolled
+    - citrus
+  - name: Blossom on the Branch
+    notes: |+2
+      Light as a blossom on a breeze, the Blossom on the Branch cocktail is overflowing with sensory aromas that are as fresh and rejuvenating as a walk through an orchard in bloom. This drink evokes images of sakura or cherry blossom season in Japan, when everyone picnics under cherry trees across the nation, toasting under the falling petals. Make sure that you buy the fresh jasmine blossom from food suppliers so it is food-safe before using it to garnish the drink.
+    glassware: wooden tumbler
+    ingredients:
+    - 1 oz pisco
+    - 1 1/3 oz Tamarillo and Tea-infused Kombucha
+    - 1/3 oz elderflower liqueur
+    - Umeshu Sorbet 
+    - "Garnish: Fresh jasmine blossom"
+    steps:
+    - Combine the pisco, kombucha, liqueur and sorbet in a cocktail shaker filled with ice and shake vigorously until the drink is chilled. 
+    - Strain into a wooden tumbler over ice chunks and garnish with jasmine blossom.
+    tags:
+    - the connaught bar
+    - shaken
+  - name: Brilliance
+    notes: |+2
+      ‘You turn the corner. What a change! All is light and brilliancy.’ That is how author Charles Dickens described the experience of walking into a drinking establishment in his 1833 story collection Sketches by Boz. It is a scene that is played out every day at the Connaught Bar. We were inspired by the mirror that presides over the actual bar, illuminating the magic performed as each drink is masterfully crafted. We were also inspired by a modern classic created by legendary American bar woman Audrey Saunders – The Old Cuban. (Think of a Mojito transformed into a champagne cocktail.) Our lighter, aromatic twist on this modern classic serves up fleeting impressions of coconut and extravagant spices such as saffron and hoja santa, which is also called Mexican pepperleaf or root beer plant. The overall impression is one of an exotically delicate Swiss lemon cream delight finished with a touch of sparkle. 
+    glassware: white wine glass
+    ingredients:
+    - 1 1/3 oz Coconut Oil-washed Puerto Rican Rum 
+    - 1/3 oz young, blended rhum agricole
+    - 1/3 oz Bénédictine 
+    - 1/3 oz Hoja Santa and Saffron Syrup 
+    - 2 oz champagne
+    - "Garnish: White chocolate disc with a single hole"
+    steps:
+    - Combine the rum, rhum agricole, Bénédictine, syrup and champagne in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a white wine glass filled with ice and garnish with a white chocolate disc with a single hole.
+    tags:
+    - the connaught bar
+    - stirred
+    - sparkling
+  - name: Bubble Leaf
+    notes: |+2
+      When I first arrived at the Connaught Bar in 2008, I was inspired to craft an Italian twist on a staple in the Connaught Bar’s drink menu – the French 75. While many historians say this Parisian classic was invented by Harry MacElhone during the 1920s at the New York Bar, Robert Vermiere told a different story in his 1922 volume Cocktails: How to Mix Them. He wrote that the French 75 was introduced by bartender Henry Tépé at Henry’s Hotel on Rue de Volney, which was frequented by American ambulance drivers and aviators during the First World War. But when Henry died suddenly, Harry took up the mantle and popularized the drink at his place. Many versions have dictated champagne was the bubbly in the French 75. But I agree with the late Sasha Petraske of Milk & Honey in New York that the drink can sparkle with cava, Prosecco or other sparkling wine. The Bubble Leaf contains two very refreshing twists: the acidity of ice wine verjus (a highly acidic juice pressed from grapes or other sour fruit) plus the fruity sparkle of Italian apple and pear cider.
+    glassware: flute
+    ingredients:
+    - 1 3/4 oz aromatic, floral gin
+    - 2/3 oz ice wine verjus 
+    - 2/3 oz Amalfi Lemon Leaf Syrup 
+    - 1 1/2 oz Italian apple and pear cider
+    - "Garnish: Lemon leaf essence and a cocktail cherry"
+    steps:
+    - Combine the gin, verjus and syrup in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a flute and top with the cider. 
+    - Garnish with a spray of lemon leaf essence and a cocktail cherry skewered onto a wooden stick.
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+  - name: Bumblebee
+    notes: |+2
+      The roly-poly, fuzzy members of the bee family – bumblebees – seem to love a leisurely graze through the countryside’s bounty of flowers, coaxing them to bear the luscious berries we harvest from hedgerow to hedgerow. This Bumblebee is a twist on a modern classic – The Bramble. It has a dry, deep fruit texture but is not as fruity as its predecessor. The addition of champagne to this elegant gin cocktail lightens its berry richness with hints of toast and apple, with just the right amount of sparkle. Fatwashing (infusing alcohol with oily or fatty ingredients) vodka and gin in a mixture of berries, olive oil, salt and pepper makes this creation a salute to the hedgerows and the shepherds of the fruit harvest – the bumblebees.
+    glassware: coupette
+    ingredients:
+    - 1 1/2 oz Berry and Grapeseed Oil-washed Vodka and Gin  
+    - 1 barspoon concord grape vinegar 
+    - 1 barspoon Sugar Syrup
+    - 1 3/4 oz champagne
+    - Blackberry half, to garnish
+    steps:
+    - Place a piece of ice into a coupette. Combine the vodka, vinegar and sugar syrup in a mixing glass filled with ice and stir until well chilled.
+    - Strain the mixture into the coupette and gently add the champagne. 
+    - Garnish with a blackberry half set on top of an ice cube.
+    tags:
+    - the connaught bar
+    - sparkling
+    - stirred
+  - name: Burning Peat
+    notes: |+2
+      This drink appeared in our Ignis series of drinks that were inspired by the element of fire. Smoky, spicy and daring, these cocktails have walked across hot embers to get here, their components burnt or roasted to conjure the heat and drama of fire. The sherry contributes to the character imbued by the best ageing barrels. The barley tea provides another dimension: the grain that makes whisky so distinctive. Oleo saccharum is a technique of extracting citrus oil, mainly lemon, into sugar. Citrus rinds are mixed with a lot of sugar and left to stand to extract all the oils, resulting in a sweet, fruity syrup. It was used by nineteenth-century bartenders to give a drink citrus and sweetness. Our house-made Oleo Saccharum Citrus Sugar (page 243) is made with orange peel instead of lemon.
+    glassware: mug
+    ingredients:
+    - 1 1/2 oz 18-year-old blended whisky
+    - 1 barspoon 16-year-old Islay whisky
+    - 1/3 oz dry sherry
+    - 3 oz brewed barley tea
+    - 1/3 oz Oleo Saccharum Citrus Sugar 
+    - "Garnish: Crunchy Barley Sponge"
+    steps:
+    - Combine the whiskies, sherry, barley tea and sugar in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Strain into a silver mug with crushed ice and garnish with a crunchy barley sponge.
+    tags:
+    - the connaught bar
+    - shaken
+  - name: Caviar Martini
+    notes: |+2
+      Remember we said vodka accentuates any flavour it encounters? Well, caviar vodka is a niche spirit that has entered the spirits pantheon. It accentuates caviar’s ‘breath of the sea’ aroma with a richer palate than that of oysters coupled with hits of nuttiness and saltiness. Its high minerality complements the butteriness of lush Puligny-Montrachet wine that replaces the traditional vermouth element in a Martini. The pairing of these exquisite ingredients makes this a very elegant drink. We recommend an accompaniment of a small dish of Japanese wakame seaweed or sashimi, such as sea bream garnished with toasted nori. 
+    glassware: nick & nora
+    ingredients:
+    - 1 3/4 oz caviar vodka
+    - 2/3 oz Puligny-Montrachet wine
+    - 1/2 oz dry sherry
+    - 2 dashes tonka bitters
+    - Piece of pickled beetroot or a cocktail onion, to garnish
+    steps:
+    - Combine the vodka, wine, sherry and bitters in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a chilled cocktail glass and garnish with a piece of pickled beetroot or a cocktail onion speared onto the end of a cocktail pick.
+    tags:
+    - the connaught bar
+    - stirred
+    - martini
+  - name: Chatham Special
+    notes: |+2
+      It’s easy to get the Chatham Hotel Special mixed up with the Chatham Special. While the Chatham Cocktail’s true origins remain undiscovered at this time (sometimes attributed to the Chatham Hotel in New York), the libation of gin, ginger brandy and lemon appeared on Macy’s department store luncheon menus in 1913 and 1914 and today it remains an essential and influential if rare drink. But the Chatham Special was a horse of another colour, invented by Felix Cotto at the Chatham Hotel in Paris. He entered his creation in a 1950 ‘World Competition’ according to bartender-author Eddie Clark in his 1954 book King Cocktail: Shake Again with Eddie. Cotto’s Chatham Special was structured with rum, lemon juice and pineapple syrup; our Chatham Special has a similar profile but is made with profoundly Connaught Bar-style ingredients.
+    glassware: coupette
+    ingredients:
+    - Neutral spirit, for spraying the glass 
+    - Cocoa powder, for dusting the glass 
+    - 1 oz cognac
+    - 2/3 oz Earl Grey Tea-infused Port Wine 
+    - 1/3 oz Amaro Lucano
+    - 2/3 oz Spiced Rice Milk
+    - "Garnish: Tonka bean and a spice bag filled with some cinnamon sticks and cloves"
+    steps:
+    - Spray the exterior of a coupette with a neutral spirit and dust the exterior with cocoa powder with the help of a powder decorating shaker. 
+    - Set aside. 
+    - Shake the cognac, wine, amaro and rice milk in a cocktail shaker over ice. 
+    - Double strain into the prepared coupette and garnish with grated tonka bean and the spice bag tied onto a stirring stick and suspended over the edge of the glass.
+    tags:
+    - the connaught bar
+    - shaken
+  - name: Cheek to Cheek
+    notes: |+2
+      A classic that sits alongside the Martini and the Manhattan, The Sidecar is a timeless creation with enigmatic origins, just like its siblings. This cognac, curaçao triple sec and lemon juice masterpiece appeared in two books in 1922: Robert Vermeire’s Cocktails: How to Mix Them and Harry MacElhone’s Harry’s ABC of Mixing Cocktails. Who was its creator? MacElhone claimed it was Malachi ‘Pat’ McGarry at the Buck’s Club. Vermeire said it was born at the Carlton Hotel in Cannes. Our twist on this simple masterpiece replaces the lemon juice with the high acidity of verjus. The drops of ginseng-bergamot bitters impart more complexity. If you cannot find ginseng-bergamot bitters, blend equal parts of a bergamot liqueur with a gentian liqueur. The touch of honey blended with equal parts of water to make it mixable imparts a sophisticated sweetness that makes our Cheek to Cheek a distinctive descendant.
+    glassware: coupette
+    ingredients:
+    - 1 1/2 oz cognac
+    - 1/2 oz curaçao triple sec
+    - 2/3 oz verjus (verjuice)
+    - 1/3 oz honey-water (1 teaspoon honey and 1 teaspoon still mineral water mixed together)
+    - Drops of ginseng-bergamot bitters
+    - "Garnish: Lemon twist"
+    steps:
+    - Combine the cognac, triple sec, verjus and honey-water in a mixing glass filled with ice and stir until well chilled. 
+    - Add a couple of drops of bitters into the bottom of a coupette. 
+    - Strain the contents of the shaker into the coupette and garnish with a lemon twist.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Chill Out
+    notes: |+2
+      Relaxation is truly a state of mind, and chillies have been documented to offer us a way to achieve it. The secret to finding peace is simply to accept it – to chill out. In this Chill Out, the balance of sweet, citrus, spice and dilution is an essential structure for a non-alcoholic drink. Here, the orange and lemon are balanced by the syrup yet accentuated by the chilli, while the passion fruit brings softness and a distinctive taste of the tropics. It is the perfect drink when you want to chill out if you’re not drinking or wish to set a slower pace for the evening.
+    glassware: wine glass
+    ingredients:
+    - 1 1/4 oz fresh orange juice
+    - 2/3 oz fresh lemon juice
+    - 2/3 oz Chilli Syrup
+    - 1/2 oz passion fruit purée
+    - 1 whole passion fruit, both pulp and seeds
+    - "Garnish: 1/2 passion fruit and a dried chilli"
+    steps:
+    - Combine the orange and lemon juices, syrup, purée and passion fruit pulp and seeds in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a white wine glass over a piece of block ice. 
+    - Garnish with the passion fruit and dried chilli.
+    tags:
+    - the connaught bar
+    - n/a
+    - shaken
+    - citrus
+  - name: Citrus Vibe
+    notes: |+2
+      Say, ‘It’s the vibe’ to pretty much any Australian and they might reply, ‘Tell him he’s dreaming’ or ‘How’s the serenity? So much serenity.’ If you haven’t seen the 1997 movie The Castle, it’s a feelgood comedy that defines their nation. Combining fresh orange juice, Spicy Calamansi Sherbet, orgeat (an almond syrup enhanced with flower water) and ginger beer, Citrus Vibe is delicious – a non-alcoholic Mai Tai ready to whisk you away to … Bonnie Doon, the serene holiday destination in The Castle. 
+    glassware: white wine glass
+    ingredients:
+    - 1 3/4 oz fresh orange juice
+    - 1 oz Spicy Calamansi Sherbet 
+    - 1/3 oz orgeat 
+    - 1 oz ginger beer
+    - "Garnish: Edible flowers and ground cinnamon"
+    steps:
+    - Combine the juice, sherbet, orgeat and ginger beer in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a white wine glass filled with ice and garnish with edible flowers and a sprinkle of ground cinnamon.
+    tags:
+    - the connaught bar
+    - n/a
+    - citrus
+    - tiki
+    - stirred
+  - name: Cloud Nine
+    notes: |+2
+      When you say you are on ‘cloud nine’ you mean you are experiencing a feeling of well-being or elation. Essentially, this drink is a classic whiskey sour made with rich, sweet bourbon that is complemented with our house-made Pistachio and Raspberry Milk. Surprising notes of nuttiness and fruitiness balance against the Cocchi Americano infusion that highlights both the citrus and the brightness of the Szechuan pepper. Soft and approachable, this heaven-sent whiskey creation is topped with an ethereal foam made with Miraculous Foamer, a plant-based liquid used to replace egg white in a drink. You can use pasteurized egg white as an alternative, but you will need to dry shake the bourbon, milk and vermouth and then hard shake with ice. Either way you mix this creation, it is boundless joy in liquid form.
+    glassware: coupette
+    ingredients:
+    - 1 3/4 oz bourbon
+    - 2/3 oz Pistachio and Raspberry Milk 
+    - 2/3 oz Orange, Clementine and Szechuan Pepper-infused Cocchi Americano 
+    - Dash of Miraculous Foamer
+    - "Garnish: Blue spirulina liquid"
+    steps:
+    - Combine the bourbon, milk and Cocchi Americano in a cocktail shaker filled with ice cubes and shake vigorously until the drink is sufficiently chilled. 
+    - Strain into a coupette. 
+    - Top with Miraculous Foamer. 
+    - Finally, spray blue spirulina liquid (a protein extracted from blue-green algae) over the top to make a cloud-like effect and use a spoon to create a spiral on the surface of the foam. 
+    tags:
+    - the connaught bar
+    - shaken
+  - name: Cooperstown Julep
+    notes: |+2
+      Albert Stevens Crockett, historian of New York’s old Waldorf-Astoria Hotel, noted in his 1934 book The Old Waldorf-Astoria Bar Book that the Cooperstown cocktail was a ‘Bronx, with fresh mint’. Invented by the hotel’s bartender Johnny Solon, this refreshing blend of gin, fresh orange juice, mint and dashes of both red and dry vermouths inspired our icy, summery treat, which deepens the relationship between the ingredients with the introduction of port. Fashioning this classic into a julep drink enhances the Cooperstown Julep’s light and fruity character. It will make even the hottest day fly by on a fresh breeze.
+    glassware: julep tin
+    ingredients:
+    - 1 3/4 oz sencha dry gin
+    - 1 1/3 oz LBV (late-bottled vintage) port
+    - 1 oz Orange and Honey Shrub 
+    - 6 fresh mint leaves 
+    - "Garnish: Mint sprigs and dried orange slices"
+    steps:
+    - Swizzle the gin, port, shrub and mint leaves in a julep cup with a little crushed ice. 
+    - Add more crushed ice and garnish with mint sprigs and a couple of dried orange slices.
+    tags:
+    - the connaught bar
+    - julep
+    - stirred
+  - name: Copper and Blue
+    notes: |+2
+      The Copper and Blue is inspired by the image of Britons on holiday on the beach. This twist on a classic Piña Colada reflects a love for the tropical and for chilled white wine. There’s a hint of elegance and of the exotic from the use of Martini Riserva Speciale Ambrato, a floral and honey-laced vermouth di Torino, plus Sancerre wine from the Loire valley in France, which make an otherwise simple mix of rum, pineapple and coconut into a previously uncharted tropical destination.
+    glassware: white wine glass
+    ingredients:
+    - Neutral spirit, for spraying the glass
+    - Copper-hued Powder, for dusting the glass and to garnish
+    - 3 1/2 oz Copper and Blue Milk Punch
+    - 1/3 oz Blue Sancerre Wine 
+    steps:
+    - Spray one side of a white wine glass with a neutral spirit and dust the same side of it with copper-hued powder with the help of a powder decorating shaker. 
+    - Set aside. 
+    - Combine the milk punch and wine in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a white wine glass over a piece of block ice and garnish with a sprinkle of copper-hued powder.
+    tags:
+    - the connaught bar
+    - stirred
+    - clarified
+  - name: Coral
+    notes: |+2
+      Like its namesake, this ruby-red cocktail is delicate, yet intricately structured with all its elements working together to form a unified whole. The Coral layers soft, sparkling strawberry and warming elderflower notes with a spirited kick of tequila and mescal. This drink may look fragile but in truth, it is very spirituous, with deceptive floral and spicy notes from our house-made Bee Balm and Cassia Cordial plus the heat of the Giffard Espelette liqueur, a chilli liqueur produced on a rhum agricole base.
+    glassware: rocks
+    ingredients:
+    - Edible coral paint, to decorate the glass 
+    - 2/3 oz blanco tequila 
+    - 1/3 oz mescal
+    - 1/3 oz elderflower liqueur
+    - 1/3 oz Giffard Espelette Liqueur
+    - 1/3 oz Bee Balm and Cassia Cordial 
+    - 3 1/2 oz Sparkling Strawberry Wine
+    steps:
+    - Paint a tumbler or rocks glass with a stripe of coral-coloured edible paint and set aside. 
+    - Combine the tequila, mescal, liqueurs, cordial and sparkling wine in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into the prepared tumbler.
+    tags:
+    - the connaught bar
+    - stirred
+    - sparkling
+  - name: Dandelion Cocktail
+    notes: |+2
+      Dandelion coffee is a herbal tea made from roasted dandelion roots that is commonly served as a coffee substitute because it has the taste and appearance of coffee. We decided to infuse this deep, satisfying flavour into cognac and complement it with the nuttiness of cashew milk, the elegance of sherry and the sweetness of Salted Date Syrup. The grating of tonka beans adds a warm hint of vanilla. As an option, a sprinkle of mahlab – a Mediterranean spice made from St Lucy’s cherry seeds – adds hints of cherry, rose, almond and vanilla.
+    glassware: flute
+    ingredients:
+    - Edible gold paint, to decorate the glass
+    - 1 1/3 oz Dandelion Coffee-infused Cognac
+    - 1/2 oz cashew milk
+    - 1/2 oz Salted Date Syrup
+    - 1/3 oz oloroso sherry
+    - Tonka bean, for grating 
+    - "Garnish: Clear Isomalt Disc Studded with Pollen"
+    steps:
+    - Paint a flute with a stripe of edible gold paint and set aside. 
+    - Shake the cognac, cashew milk, syrup and sherry in a cocktail shaker filled with ice. 
+    - Double strain into the prepared flute. Grate the tonka bean over the drink and garnish with a clear isomalt disc studded with pollen.
+    tags:
+    - the connaught bar
+    - shaken
+  - name: Daydreaming
+    notes: |+2
+      What a beautiful day for a daydream! You know, every day is the ideal time in the week to muse and reflect, far from the stresses of the everyday world. Think of some happy moment that has already taken place or look into the future and plan how to make that moment a reality. When you daydream over a cocktail like our Daydreaming, it will whisk you away to a sunny place overlooking clear blue water. Its effervescent sparkle and deep rum notes dance along with hints of wine, herbs and spices to bring you to a happy spot at the end of a long workday.
+    glassware: red wine glass
+    ingredients:
+    - 1 1/3 oz aged Dominican Republic rum
+    - 1/3 oz Amaro Santoni
+    - 1/3 oz Connaught Bar Sweet Vermouth Mix
+    - 1/3 oz Bitters Mix
+    - 1/2 oz sherry
+    - 1 oz champagne
+    - 1/3 oz Tropical Milk Jam
+    - "Garnish: Mango and Green Mandarin Leather Leaf"
+    steps:
+    - Combine the rum, amaro, vermouth mix, bitters mix, sherry, champagne and milk jam in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a red wine glass fitted with a chunk of ice and garnish with a mango and green mandarin leather leaf.
+    tags:
+    - the connaught bar
+    - stirred
+    - sparkling
+  - name: The Dusk
+    notes: |+2
+      It is sunset. The light softens and the Connaught Bar is transformed. The Dusk is luminosity in a glass. Passion fruit and grapefruit notes are crowned by a delicate sunset, capturing the bar’s shift from day to evening – the magic hour when the bar springs to life. A very light, very approachable drink, The Dusk has a hint of a fernet-style amaro spiciness – a popular bitter aromatic Italian spirit served as a digestif. Passion berries are unrelated to passion fruit, yet they convey similar and complementary flavours and work beautifully together, and both match flawlessly with the buttery, grassy notes of the tequila. If you can’t get grapefruit and hops bitters, use grapefruit bitters instead.
+    glassware: collins
+    ingredients:
+    - 1 3/4 oz Passion Fruit and Passion Berry Milk 
+    - 1 1/3 oz reposado tequila 
+    - 1 barspoon vetiver liqueur
+    - 1 barspoon grapefruit and hops bitters 
+    - "Garnish: Clear Isomalt Disc"
+    steps:
+    - Combine the milk, tequila, liqueur and bitters in a mixing glass filled with ice and stir until well chilled.
+    - Fill a Kyoto glass with ice cubes. 
+    - Strain the drink into the glass and garnish with a clear isomalt disc. 
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Echo
+    notes: |+2
+      Echoes reverberate in both the senses and the soul. Our Echo resounds with the colours, flavours and aromas of a Negroni, while presenting its softer, non-alcoholic side. It is made with Martini Vibrante – a citrusy, red non-alcoholic Italian aperitif. Expressing the traditional bittersweet palette of herbal, fruity and gently spiced notes, this libation is a new Italian classic aperitif in the making. 
+    glassware: coupette
+    ingredients:
+    - 1 3/4 oz Martini Vibrante
+    - 1 oz Clarified White Peach Purée 
+    - 2/3 oz Bee Balm and Cassia Cordial
+    - "Garnish: Small white chocolate disc and large white chocolate disc"
+    steps:
+    - Combine the Martini Vibrante, peach purée and cordial in a mixing glass filled with ice and stir until well chilled.
+    - Strain into a coupette with a piece of block ice and garnish with a small white chocolate disc and a large white chocolate disc on the ice block.
+    tags:
+    - the connaught bar
+    - stirred
+    - negroni
+  - name: Eclipse
+    notes: |+2
+      Throughout history, an eclipse has been regarded as a remarkable visual event that challenges and exhilarates the senses as the passage of one celestial body obscures the light of another in the sky. When a solar eclipse occurs, the sun is haloed by its own rays while its centre appears blackened out. When Giorgio and I collaborated on the presentation of this drink with our good friend, the photographer Alan Schaller, we wanted to emulate that experience. The result: a crystal tumbler that is white on the outside and glazed black on the inside. By obscuring the sipper’s sight of the liquid, their other senses are heightened, including imagination. The flavours of gin, vermouth, amaro and cocoa may seem familiar but the surprise hints of Japanese botanicals and ‘new make’ wine (a wine that comes from the first fermentation of grape juice and has not been aged after fermentation) transform this experience into a very special moment. Spice and wood notes predominate the profile with a light citrusy finish in this playful game that excites the senses just like an eclipse of the sun.
+    glassware: tumbler
+    ingredients:
+    - 1 oz Japanese gin
+    - 2 oz Eclipse Pre-Mix 
+    - 1/3 oz new make wine
+    steps:
+    - Combine the gin, pre-mix and wine in a mixing glass filled with ice. 
+    - Stir and strain into a crystal tumbler half-filled with cracked ice.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Ellipsis
+    notes: |+2
+      An ellipsis is a pause that you take from the choices you need to make in life. The pause you make with us is an ellipsis in your day. This drink celebrates customers who choose to take their break during a hectic, frazzling day with us at the Connaught Bar.
+    glassware: rocks
+    ingredients:
+    - 2 oz Ellipsis Milk Punch
+    - 1 oz kombucha
+    - "Garnish: Edible blue paint"
+    steps:
+    - Combine the milk punch and kombucha in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a rocks glass or a tumbler with a piece of block ice. 
+    - Garnish with three dots of edible blue paint on the ice block.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Everglow
+    notes: |+2
+      A feeling of warmth and happiness – an everglow – is a fleeting sensation suspended in time. In the subdued lights of the Connaught Bar, the faces of our customers glow in the soft warmth. This feminine variation of a classic Manhattan is a timeless homage to the lightness, the darknessand the space that melds in between them. The enveloping russet hues of rich rum and rye infused with wattleseeds from the Australian acacia tree augment the bright glimmer of the blackberries infused into the red vermouth and the nuttiness of the eau de noix, a walnut -infused liqueur. The intricacies of aromas and flavours in this rich, complex blend are best complemented with a piece of Parlick Fell or other light, sheep’s milk cheese.
+    glassware: rocks
+    ingredients:
+    - 1 oz Wattleseed-infused Venezuelan-style Rum 
+    - 2/3 oz Wattleseed-infused Rye 
+    - 2/3 oz Blackberry-infused Sweet Vermouth
+    - 1 barspoon artichoke amaro
+    - 2/3 oz eau de noix 
+    - "Garnish: White chocolate disc"
+    steps:
+    - Combine the rum, rye, vermouth, amaro and eau de noix in a mixing glass filled with ice and stir until well chilled.
+    - Strain into an old fashioned glass or a tumbler with a piece of block ice and garnish with a disc of white chocolate on the ice block.
+    tags:
+    - the connaught bar
+    - stirred
+    - old-fashioned
+  - name: Faraway Collins
+    notes: |+2
+      The long and refreshing Faraway Collins was created in 2012 to encompass the familiar flavours and aromas of London and the faraway destinations of Japan, Australia and Mexico. It began its journey as a drink known simply as the Collins, which was invented in eighteenth-century London. The Collins was originally made with a spirit, such as gin or whisky, sugar, lemon juice and carbonated water (seltzer) – another invention that was introduced in the British capital during the 1790s. The Faraway Collins then heads eastward, stopping in Japan to meet the juice of the yuzu: a fruit that combines the strong citrus of lemon with the heady floral notes of wild mandarin oranges and a delicate lime blossom aroma. Journeying south to Australia, it acquires its aromatic sweetness from our housemade Eucalyptus Syrup, which imparts the cooling sensations of menthol, citrus and pine. Finally, this refreshing cocktail meets the intensely root beer-like qualities of Sarsaparilla-infused Soda Water, with its hints of wintergreen, liquorice, black cherry bark, sweet birch and cinnamon. When it returns homeward from its journey, the Faraway Collins offers a deep palate and even deeper texture to a refreshingly familiar English summertime classic. Besides being a perfect garden party drink, it pairs well with grilled (broiled) chicken skewers or a light fish, such as cod, Dover sole or sea bass.
+    glassware: collins
+    ingredients:
+    - 1 3/4 oz London dry gin
+    - 2/3 oz Eucalyptus Syrup 
+    - 2/3 oz Yuzu Juice 
+    - 3 1/2 oz Sarsaparilla-infused Soda Water 
+    - "Garnish: Dried eucalyptus leaves, a lemon twist and a dried half Persian lime" 
+    steps:
+    - Gently swirl the gin, syrup, yuzu juice and soda water in a gallone mixing glass over ice cubes. 
+    - Strain into a highball glass filled with ice and garnish with dried eucalyptus leaves, a lemon twist and a dried half Persian lime.
+    tags:
+    - the connaught bar
+    - stirred
+    - citrus
+  - name: Fleurissmo
+    notes: |+2
+      This elegant twist on a classic champagne cocktail was created in honour of Connaught hotel guest Princess Grace of Monaco. Named after the signature floral fragrance crafted for the princess’s 1956 wedding by perfumer James Henry Creed, the Fleurissimo has a special bouquet of floral notes, highlighted by violets. It is the subtle aroma of Parma violets – the distinctively aromatic, deep purple flowers used to make both a popular British sweet (candy) as well as crème de violette liqueur – that ennobles this cocktail. The first sip delivers a delicate surprise as notes of cherry, clove and nutmeg from the Peychaud’s Bitters complement the toasty, effervescence of the main attraction, the champagne. A soft, floral experience, the Fleurissimo is a regular feature on the Connaught Bar menu. It works well as an aperitif with a small dish of salty nibbles, such as nuts and crisps (potato chips), or as an overture to sushi.
+    glassware: coupette
+    ingredients:
+    - 1 sugar cube
+    - 2 dashes Peychaud’s Bitters
+    - 1 barspoon crème de violette
+    - 1/2 oz VSOP (Very Superior Old Pale) cognac 
+    - 3 1/2 oz champagne
+    - Fresh red rose petals, to garnish
+    steps:
+    - Wet the sugar cube with the Peychaud’s Bitters and place it in a coupette. 
+    - Add the crème de violette and then the cognac.
+    - Gently pour in the champagne and garnish with fresh red rose petals floated on top.
+    tags:
+    - the connaught bar
+    - sparkling
+    - stirred
+  - name: Flint
+    notes: |+2
+      Flint was inspired by one of the five elements: Earth. The deep aromas and tastes of cognac and Chartreuse in the Flint are enhanced with Lacto-fermented Melon. Lacto-fermentation is a method that ferments the fruit with honey and salt, imparting an umami taste not otherwise achieved with regular melon juice. The pomelo and pink pepper tonic water contributes citrus and zest to this exotic blend.
+    glassware: rocks
+    ingredients:
+    - 1 oz XO cognac
+    - 1 barspoon green Chartreuse
+    - 2/3 oz Lacto-fermented Melon 
+    - 1 1/3 oz pomelo and pink pepper tonic water
+    steps:
+    - Combine the cognac, Chartreuse, lacto-fermented melon and tonic water in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a tumbler filled with ice chunks.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Float Like a Butterfly
+    notes: |+2
+      Love is a two-sided affair, one in which both parties share mutual affection and complementary characteristics. This pair of batched champagne cocktails is intended to be served together side by side in celebration of a lovely relationship. Float Like a Butterfly exhibits the complexity of a clarified milk punch made with a flowing stream of distinctive tastes from bourbon, tequila and absinthe, accentuated by vegetal, fruit and herbal notes from the celery, pineapple, fennel seeds, lemon zest, lemon verbena and fresh lemon juice. Sting Like a Bee offers a simpler statement: rich notes of chocolate and dried fruits mingled with fresh lemon juice and touches of floral sweetness from the bee pollen and sugar syrup. Both champagne cocktails complement the attributes of the other, allowing the sipper to appreciate the balance alone or shared with a loved one. 
+
+      To be paired with the Sting Like a Bee.
+    glassware: flute
+    ingredients:
+    - 1 1/2 oz Float Like a Butterfly Milk Punch 
+    - 1 barspoon Sugar Syrup
+    - 1 1/2 oz champagne
+    - 2 dashes absinthe
+    - "Garnish: Butterfly sorrel leaf"
+    steps:
+    - Combine the milk punch, sugar syrup, champagne and absinthe in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a flute and garnish with a butterfly sorrel leaf.
+    tags:
+    - the connaught bar
+    - sparkling
+    - stirred
+    - clarified
+  - name: Sting Like a Bee
+    notes: |+2
+      Love is a two-sided affair, one in which both parties share mutual affection and complementary characteristics. This pair of batched champagne cocktails is intended to be served together side by side in celebration of a lovely relationship. Float Like a Butterfly exhibits the complexity of a clarified milk punch made with a flowing stream of distinctive tastes from bourbon, tequila and absinthe, accentuated by vegetal, fruit and herbal notes from the celery, pineapple, fennel seeds, lemon zest, lemon verbena and fresh lemon juice. Sting Like a Bee offers a simpler statement: rich notes of chocolate and dried fruits mingled with fresh lemon juice and touches of floral sweetness from the bee pollen and sugar syrup. Both champagne cocktails complement the attributes of the other, allowing the sipper to appreciate the balance alone or shared with a loved one.
+
+      To be paired with the Float Like a Butterfly.
+    glassware: flute
+    ingredients:
+    - 1 oz Bee Pollen-infused Armagnac
+    - 2/3 oz Sugar Syrup
+    - 1/2 oz fresh lemon juice
+    - 1 oz champagne
+    - "Garnish: Fresh blue cornflower petals"
+    steps:
+    - Combine the Armagnac, sugar syrup, lemon juice and champagne in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a flute decorated with cornflower petals adhered to the side.
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+    - sparkling
+  - name: Forbidden Passion
+    notes: |+2
+      According to ancient Iranian Christian teachings, the Garden of Eden’s real forbidden fruit was not the apple, it was the pomegranate. Here, we take a childhood classic – the Shirley Temple – and remake it for palates prepared to experience so much more. Our house-made Pomegranate Syrup is surprisingly simple to make and worlds better than the commercial versions. Together, this fusion of berries, cranberry and lemon juices and Pomegranate Syrup plays well with the ginger ale, providing a sparkling platform for the fresh berries.
+    glassware: highball
+    ingredients:
+    - 2 fresh raspberries
+    - 2 fresh blueberries
+    - 2 fresh blackberries
+    - 1 1/2 oz cranberry juice
+    - 2/3 oz fresh lemon juice
+    - 2/3 oz Pomegranate Syrup 
+    - 1 1/2 oz ginger ale, for topping
+    - Additional fresh berries, to garnish
+    steps:
+    - Combine the raspberries, blueberries, blackberries, cranberry and lemon juices and syrup in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a highball glass over crushed ice and top up with the ginger ale. 
+    - Garnish with additional fresh berries skewered onto a wooden stick.
+    tags:
+    - the connaught bar
+    - citrus
+    - shaken
+  - name: Fountain of Wealth
+    notes: |+2
+      Who doesn’t dream of drinking from a fountain flowing with the wealth of ages and finding themselves richer for the experience? This sophisticated version of a classic Margarita marries reposado tequila (lightly aged tequila) with the richness of fresh pear juice, the dry herbal notes of vermouth and the soft citrus of Lime Sherbet. The healthy dose of sage tincture adds a magical touch to the aroma and flavour. Did you know that sage leaves are used in magical spells to grant wishes and offer long life to the recipient? Now you know why this cocktail reminds us of the wealth that goes beyond gold. Come drink from this special fountain.
+    glassware: white wine glass
+    ingredients:
+    - 1 1/2 oz reposado tequila
+    - 1 oz fresh pear juice
+    - 2/3 oz dry vermouth
+    - 1/2 oz Lime Sherbet
+    - 1 barspoon Sage Tincture 
+    - "Garnish: Dried pear wheels and a grating of nutmeg"
+    steps:
+    - Place a piece of block ice in a white wine glass. 
+    - Combine the tequila, pear juice, vermouth, sherbet and tincture in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into the glass and garnish with dried pear wheels skewered onto a wooden stick and a grating of nutmeg.
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+    - margarita
+  - name: Garibaldino
+    notes: |+2
+      Giuseppe Maria Garibaldi was a nineteenth-century Italian who gained notoriety for his contribution to the unification of the Italian states. He was also instrumental in the creation of the Kingdom of Italy, along with the new nation’s first king, Victor Emmanuel II, and the revolutionary movement’s champion, Giuseppe Mazzini. A salute to this ‘father of the fatherland’, the Garibaldino unites a bright citrus palate with the floral notes of Italicus Rosolio di Bergamotto, an Italian liqueur produced from rose petals and bergamot oranges. The sparkle from the white grape and apricot soda marries this palette of Italian flavours gathered from diverse regions of this bountiful country into a light, refreshing experience. In case you are unfamiliar with Savoia American Rosso Amaro Dolce, it is a bittersweet aperitif with notes of gentian and bitter orange.
+    glassware: rocks
+    ingredients:
+    - 1 oz London dry gin
+    - 1 oz Italicus Rosolio di Bergamotto
+    - 1 oz Savoia Americano Rosso Amaro Dolce
+    - 2/3 oz Clementine and Tonka Bean Shrub
+    - 2 oz white grape and apricot soda
+    - "Garnish: Red Lime Disc Water Cake"
+    steps:
+    - Combine the gin, Italicus Rosolio di Bergamotto, Savoia, shrub and soda in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a rocks glass with a piece of block ice and garnish with a water cake.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Gentleman Spritz
+    notes: |+2
+      This fruit-driven nod to a classic Italian aperitif cocktail – the Spritz – is a logical evolution. Twentieth-century journalist Charles H. Baker documented the best drinks served around the world in his 1939 book The Gentleman’s Companion: Being an Exotic Drinking Book or, Around the World with Jigger, Beaker and Flask. At the Repulse Bay Hotel in Hong Kong, he encountered a magnificent version of the Spritz. Thankfully, he documented it, leaving us the inspiration for this drink. 
+    glassware: red wine glass
+    ingredients:
+    - 3/4 oz Calvados
+    - 3/4 oz Rhubarb and Red Fruits Cordial
+    - 1/3 oz Galliano l’Aperitivo
+    - 2 oz champagne
+    - "Garnish: Fresh apple blossom (begonia) edible flowers"
+    steps:
+    - Combine the Calvados, Galliano l’Aperitivo and champagne in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a red wine glass filled with a big ice chunk and garnish with fresh apple blossom (begonia) edible flowers.
+    tags:
+    - the connaught bar
+    - spritz
+    - sparkling
+    - stirred
+  - name: Give it the Green Light
+    notes: |+2
+      ‘Give it the green light’ is a phrase that indicates a project has been given the go-ahead. And this drink commemorates the day we got the green light to open the Connaught Bar in its new vision. The green light came at the end of June 2008, when we set out to build our dream bar, bar team and drinks menu, and to attract our dream guests. Our dreams came true. Just like the Connaught Bar itself, there is far more to this drink than meets the eye. It is hard to define the sum of these elements. There are hints of Martini character, hints of Bloody Mary flavour and an herbaceous tone completed by the sharpness of the sorrel leaves. More than a twist on cocktail history, this drink was inspired by the art of mixology and the hotel management who celebrate the hotel’s bar culture as an oasis of culinary art.
+    glassware: coupette
+    ingredients:
+    - 1 3/4 oz Passion Berry and Grapeseed Oil-washed Vodka
+    - 2/3 oz Tomato skin-infused Japanese Gin 
+    - 3 dashes Electric Bitters 
+    - 2/3 oz Osmanthus and Timur Pepper Syrup 
+    - "Garnish: Fresh green sorrel leaves"
+    steps:
+    - Combine the vodka, gin, bitters, syrup and vodka in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a coupette with a piece of block ice and garnish with fresh green sorrel leaves set on top of the ice.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Gloom Daisy
+    notes: |+2
+      Drinks that promised to raise your spirits were popular during the 1930s, ’40s and beyond. In his 1948 book The Fine Art of Mixing Drinks, David A. Embury challenged his readers to compare the Gloom Lifter with the Gloom Chaser and the Gloom Raiser. This twist on Embury’s Gloom Lifter – basically a classic cocktail called an egg sour made with Irish whiskey – adds some delightful fruit touches to a classic combination. The result is a crisp, dry, smoky drink with elegant raspberry and pomegranate notes that is light and deceptively strong.
+    glassware: white wine glass
+    ingredients:
+    - 1/2 oz raspberry purée
+    - 1/2 oz egg white
+    - 2/3 oz fresh lemon juice
+    - 2/3 oz Pomegranate Syrup 
+    - 1 3/4 oz 12-year-old peated Scotch whisky
+    - "Garnish: Fresh raspberry"
+    steps:
+    - Whizz the purée, egg white, lemon juice, syrup and whisky with a handheld blender. 
+    - Or you can dry shake the ingredients in a cocktail shaker without ice, then hard shake the mixture with ice cubes. 
+    - Strain into a white wine glass and garnish with a fresh raspberry.
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+  - name: Good Fellas
+    notes: |+2
+      ‘As far as I can remember I always wanted to be a gangster’ is a quote from the 1990 film Goodfellas that inspired Giorgio in 2015 to create a modern twist on the Fanciulli – a sweet Manhattan found in Albert Stevens Crockett’s 1934 book The Old Waldorf-Astoria Bar Book. The drink was served as a frappé or straight up. While the original recipe added a fernet-style amaro – a popular bitter aromatic Italian spirit served as a digestif – to the traditional blend of whiskey and vermouth, Giorgio’s version highlights techniques and tastes that are essential to the modern mixological repertoire. Fresh cardamom leaves are infused into the bourbon and the pungent character of black cardamom is highlighted in our house-made syrup. The recent revival of Abbott’s Bitters offers the drink hints of tonka bean, peppermint, sweet cinnamon and warm spices. (But you can opt to use Angostura Bitters, if you prefer.) The deep notes of fig, molasses and cherry from the balsamic vinegar provide a finishing touch of mellow tartness. The hint of elicriso essence, extracted from Helichrysum orientale flowers, tops the bill with a floral note. If you can’t get this essence, sage and wormwood tincture will work just as well. As befits its name, the Good Fellas is a cheeky, lively take on a memorable classic cocktail. 
+    glassware: red wine glass
+    year: 2015
+    ingredients:
+    - 2 dashes Abbott’s Bitters
+    - 1 barspoon balsamic vinegar
+    - 1/3 oz Black Cardamom Seed Syrup 
+    - 3/4 on Italian red vermouth
+    - 1 3/4 oz Fresh Cardamom Leaf-infused Bourbon 
+    - Spray of elicriso essence 
+    - "Garnish: Bourbon cherry"
+    steps:
+    - Place a piece of block ice in a red wine glass. Vigorously shake the bitters, vinegar, syrup, vermouth, bourbon and ice cubes in a cocktail shaker. 
+    - Strain into the glass and spray the elicriso essence over the top, then suspend a bourbon cherry over the edge of the glass (we suspend it from a little belt that fastens around the glass).
+    tags:
+    - the connaught bar
+    - shaken
+    - manhattan
+  - name: Hidden Park
+    notes: |+2
+      Shinrin yoku, the Japanese concept of ‘forest bathing’, is a simple method of finding tranquillity in natural spaces. Our Hidden Park conceals its special notes of Szechuan peppercorns in a breath of basil that heightens the gin’s cucumber and rose character. The floral character of the Riesling wine and the soft citrus notes of pink grapefruit open new horizons in your understanding of the complexity of the new gins and the cocktails that are made with them. The wakamomo, a pickled young peach from Japan, adds a finishing touch of slightly sweet and sour character to the ensemble.
+    glassware: 
+    ingredients:
+    - 1 oz cucumber and rose gin
+    - 2/3 oz Riesling wine
+    - 3/4 oz Clarified Grapefruit Juice
+    - 2/3 oz Basil and Szechuan Pepper Syrup 
+    - Wakamomo, to garnish
+    steps:
+    - Combine the gin, wine, grapefruit juice and syrup in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a flute and garnish with a wakamomo speared onto the end of a cocktail sword.
+    tags:
+    - the connaught bar
+    - stirred
+    - citrus
+  - name: Imperial Cossack Crusta
+    notes: |+2
+      Only journalist-cum-globetrotter Charles H. Baker could unearth a champagne concoction at the home of a friend who lived in the French Concession of Shanghai, which he imported from Russia when the aristocracy took flight eastward in advance of revolutionary forces. Baker documented this rare find in his 1939 drinks travelogue The Gentleman’s Companion. The vision of a drink that he recounted conjures up images of beautifully regal Russian princesses with every sip and inspired this modern twist. It has a deep, complex character of genever, absinthe and drops of Abbott’s Bitters, accented with a fresh palate of elderflower liqueur and lemon juice. This updated version of a refreshingly frosty, luxurious crusta bears regal notes not just from its sweet, golden rim but from the rich aromas and tastes it grants with every sip.
+    glassware: red wine glass
+    ingredients:
+    - Neutral spirit, for spraying the glass 
+    - Edible gold powder and granulated sugar, for dusting the glass
+    - 1 3/4 oz genever
+    - 1 barspoon absinthe
+    - 1 barspoon elderflower liqueur
+    - 2/3 oz fresh lemon juice
+    - 1/3 oz Sugar Syrup
+    - Drops of Abbott’s Bitters
+    - 13/4 oz champagne
+    steps:
+    - Spray one side of a red wine glass with a neutral spirit and dust the same side of the glass with edible gold powder and granulated sugar with the help of a powder decorating shaker. 
+    - Combine the genever, absinthe, liqueur, lemon juice, sugar syrup and bitters in a cocktail shaker filled with ice. 
+    - Strain into the prepared glass and top with the champagne.
+    tags:
+    - the connaught bar
+    - sparkling
+    - shaken
+    - citrus
+  - name: The Innocent Bentley Cocktail
+    notes: |+2
+      This cocktail was created at the request of the Bentley motor company in 2016 to serve as a non-alcoholic version of The Bentley Cocktail. The drink was made to be prepared in advance and served in the vehicle’s small bar. Flavours are some of our most enduring memories, some reaching back to childhood. We never stop making these reminiscences. Here, combining classic flavour memories in a new structure, we sought to create a pleasant new recollection. Refreshing and indulgent, the combination of our house-made Rhubarb and Red Fruits Cordial with the highest quality of organic cloudy apple juice and pink grapefruit soda creates a balance of tastes unlike any other. 
+    glassware: highball
+    year: 2016
+    ingredients:
+    - 2 oz organic cloudy apple juice
+    - 1 oz Rhubarb and Red Fruits Cordial
+    - 3 oz pink grapefruit soda 
+    - "Garnish: Fresh apple blossom (begonia) edible flowers"
+    steps:
+    - Combine the apple juice and cordial in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Strain into a highball glass over ice, top with the pink grapefruit soda and garnish with fresh apple blossom (begonia) edible flowers.
+    tags:
+    - the connaught bar
+    - shaken
+    - n/a
+  - name: Italian Job
+    notes: |+2
+      This drink appeared on our first menu as a seasonal option. Fruity with a light, dry finish, the Italian Job can be customized to suit your mood or to express a special moment. Although the recipe appears to be a passion fruit Martini with an Italian touch of the most famous bitter aperitif – Campari – you can make it your own by trying it with a different fruit purée such as mango or papaya. The possibilities are endless.
+    glassware: 
+    ingredients:
+    - 1 3/4 oz vodka
+    - 1/2 oz Sugar Syrup
+    - 2/3 oz fresh lime juice
+    - 1 oz passion fruit purée
+    - 1 oz pineapple juice
+    - 1/3 oz Campari
+    - 1/2 passion fruit, pulp scooped out
+    - 1/2 passion fruit, to garnish
+    steps:
+    - Combine the vodka, sugar syrup, lime juice, purée, pineapple juice, Campari and passion fruit pulp in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a chilled cocktail glass, then float the passion fruit on top.
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+  - name: The Jenkins
+    notes: |+2
+      Founded in 1901, John Jenkins designs and manufactures bespoke glassware, including the Connaught Bar’s custom-designed house glassware. This cocktail is dedicated to the company’s master craftspeople. Just like the glassmaker’s elegant designs, this creation delivers unique touches that you would not expect. Clear and crisp, The Jenkins delivers a herbal punch from the Everleaf Forest non-alcoholic aperitif and expresses a hint of almonds from the apricot kernels (pits) in the pisco infusion.
+    glassware: white wine glass
+    ingredients:
+    - 3/4 oz Passion Fruit Seed-infused Vodka 
+    - 3/4 oz Apricot Kernel-infused Pisco 
+    - 1/2 oz elderflower liqueur
+    - 1/3 oz Everleaf Forest
+    - 2 oz champagne
+    - "Garnish: Clear Isomalt Spikes"
+    steps:
+    - Combine the vodka, pisco, liqueur, Everleaf Forest and champagne in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a white wine glass filled with ice. 
+    - Garnish with several clear isomalt spikes, which resemble shards of glass.
+    tags:
+    - the connaught bar
+    - stirred
+    - sparkling
+  - name: Juno
+    notes: |+2
+      Juno was the Roman goddess of love and marriage. Her name has long been associated with the renewal – or rejuvenation – of the new moon. This gin creation evokes the quarter moon that shines on each Connaught Bar mirrored table. It also invites you to reflect on the half-moon shaped piece of white chocolate that graces this refreshingly light cocktail. The floral fresh notes of the cucumber and rose gin and jasmine tea are complemented by the herbaceous notes from the Acqua Bianca liqueur, a complex blend of lemon verbena, bergamot, peppermint, rose and a hint of ambergris. The mint soda and Cocoa Husk Cream marry these diverse flavours into a luscious veil of smoothness.
+    glassware: collins
+    ingredients:
+    - 1 1/2 oz cucumber and rose gin
+    - 1 oz Cocoa Husk Cream 
+    - 1 oz brewed jasmine tea
+    - 1/3 oz Acqua Bianca liqueur
+    - 1/3 oz fresh lemon juice
+    - 1 fl oz mint soda
+    - "Garnish: Half-moon-shaped piece of white chocolate"
+    steps:
+    - Combine the gin, cocoa husk cream, jasmine tea, liqueur, lemon juice and soda in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a Kyoto glass filled with ice and garnish with a half-moon-shaped piece of white chocolate.
+    tags:
+    - the connaught bar
+    - stirred
+    - citrus
+  - name: Knickerbocker Punch
+    notes: |+2
+      Charles H. Baker, the renowned American journalist and cocktail aficionado, devoted his travels and time to documenting some of the finest sips he discovered as he globetrotted throughout the first half of the twentieth century. He waxed nostalgic with a ‘memory of the good days of 1915’ when he recalled the signature drink at New York’s Hotel Knickerbocker – the training ground for such famed barmen as Eddie Woelke, who went on to head Havana’s Sevilla-Biltmore bar, and Harry Craddock, who presided over London’s American Bar at the Savoy during the 1920s and ’30s. This twist on the hotel’s The Knickerbocker ‘Punch’ is reminiscent of those bygone days of sipping in one of the world’s great hotel bars. A delicate, dry yet creamy sip thanks to the inclusion of egg white, the aromas and tastes of Lime Sherbet and fragrant lemon verbena accentuate the Makrut Lime Leaf-infused Genever with its complex rye and barley notes. The champagne adds characteristic sparkle while the raspberry brings hits of fruitiness to this modern, frothy interpretation. It brings a smile to the face of anyone who encounters it.
+    glassware: coupette
+    ingredients:
+    - Neutral spirit, for spraying the glass 
+    - Raspberry Sugar, for dusting the glass
+    - 1 3/4 oz Makrut Lime Leaf-infused Genever 
+    - 1 oz) Lime Sherbet
+    - 1/2 oz egg white or pasteurized egg white
+    - 1 barspoon Lemon Verbena Sugar
+    - 1 3/4 oz champagne
+    - Spray of Angostura Bitters, to garnish
+    steps:
+    - Spray one side of a coupette with a neutral spirit and dust the same side of the glass with raspberry sugar with the help of a powder decorating shaker. 
+    - Whizz the genever, sherbet, egg white and sugar with a hand-held blender in a shaker tin. 
+    - Alternatively, you can hard shake the ingredients in a cocktail shaker without ice, then add the ice and shake vigorously so the mixture becomes frothy. 
+    - Strain into the prepared coupette. 
+    - Top with champagne and garnish with a spray of Angostura Bitters.
+    tags:
+    - the connaught bar
+    - sparkling
+    - shaken
+    - citrus
+  - name: La Lambada
+    notes: |+2
+      A star was born at the Caribe Hilton in San Juan, Puerto Rico, in the summer of 1954, when pineapple juice met coconut cream. The combination is so delicious that the rum seems almost an afterthought, as this rich and indulgent non-alcoholic drink demonstrates. The fresh lemongrass, lime juice and bitter lemon soda add a completely new dimension. The result is irresistible and was featured on our first menu.
+    glassware: highball
+    ingredients:
+    - 1 oz fresh pineapple juice
+    - 1 oz coconut cream
+    - 1/2 oz fresh lime juice
+    - 3 fresh lemongrass straws, one cut in half
+    - 3 1/2 oz bitter lemon soda
+    - Mint sprig, to garnish
+    steps:
+    - Muddle the pineapple juice, coconut cream, lime juice and the halved lemongrass straw in a cocktail shaker filled with ice, then shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a highball glass over crushed ice. 
+    - Top up with the bitter lemon soda and garnish with the remaining lemongrass straws and a mint sprig.
+    tags:
+    - the connaught bar
+    - n/a
+    - shaken
+    - citrus
+  - name: Latina Daisy
+    notes: |+2
+      You may have experienced and loved many modern classics that fall under the drink category known as the Daisy – a sour cocktail sweetened with a liqueur or flavoured syrup. The Cosmopolitan, the Daiquirí and the Margarita (Spanish for ‘daisy’) are all Daisies. I crafted this Latina Daisy in 2008, to embrace the sensual experiences of Latin and Cuban culture – the colours, aromas, flavours and lifestyle. A classically crisp, fresh sour cocktail, it pairs dark chocolate liqueur with the crisp, fresh, lightly fruity character of white Cuban rum plus its distinctive notes of marzipan, citrus and allspice. This experience is heightened by the anise notes from the fennel seeds as well as the anise and vanilla dominant liqueur. Every sip of the Latina Daisy imparts a distinctive complexity, sophistication and richness to the palate. It can be served as an aperitif, digestif or simply as a delightful afternoon refreshment with a piece of rich, dark chocolate. My Latina Daisy was the winning creation at the 2009 Bacardí Legacy bartending competition.
+    glassware: coupette
+    year: 2008
+    ingredients:
+    - 100% organic cocoa powder, for decorating the rim of the glass
+    - 1 lime half, for moistening the rim of the glass
+    - 1/3 oz Galliano l’Autentico
+    - 3/4 oz fresh lime juice
+    - 1-2 barspoons white caster (superfine) sugar
+    - 2 barspoons fennel seeds
+    - 1 3/4 oz white Cuban rum
+    - 2/3 oz dark crème de cacao
+    steps:
+    - Spread some cocoa powder out on a plate. Prepare a coupette by moistening the rim with a lime half at a 45-degree angle and then dip the rim of the glass in the cocoa powder until coated. 
+    - Pour the Galliano l’Autentico into the coupette to give the drink a silky texture and clear appearance. 
+    - Combine the lime juice, sugar and fennel seeds in a cocktail shaker and lightly muddle to dissolve the sugar and express the character of the fennel seeds. 
+    - By mixing the sugar and lime juice in this way, you get a crisper texture and flavour. 
+    - Add the rum and crème de cacao and some ice cubes to the shaker, then shake and double strain into the prepared coupette.
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+  - name: Lemon Noir
+    notes: |+2
+      A style of film-making that exploits stark lighting effects as it portrays intricate and often surprising plot twists, cinema noir inspired the name for this twist on a French 75, popularized in the 1920s by famed barman Harry MacElhone at the New York Bar in Paris. This dark version of the French 75 conceals a hidden secret: the Swiss lemon crème palate camouflaged in this charcoal black, effervescent concoction. Featuring London dry gin, yuzu and our house-made Baked Lemon Syrup, this very noir refreshment reveals its surprise ending in the first sip.
+    glassware: flute
+    ingredients:
+    - Edible silver paint, to decorate the glass
+    - 2/3 oz London dry gin
+    - 1/2 oz Yuzu Juice
+    - 1/2 oz Baked Lemon Syrup 
+    - 2 oz champagne
+    steps:
+    - Paint a flute with a stripe of edible silver paint and set aside. 
+    - Combine the gin, yuzu juice and syrup in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a flute and gently add the champagne.
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+    - sparkling
+  - name: Madame D
+    notes: |+2
+      Dedicated to Hélène Darroze, head chef at the restaurant Hélène Darroze at the Connaught, this drink was inspired by flavours she encountered as a child growing up in the Armagnac region of France. Forget what your senses tell you, the Madame D conjures up something truly out of the ordinary with delicate hints of spice. The tequila takes on a remarkable rich softness after spending a night with the peanut and almond butters. The Clarified Vanilla Milk adds creaminess without compromising clarity. Combined with the deep aromas of barrel-aged Armagnac and the toasty effervescence of champagne, this libation transports you into new dimensions in the cocktail universe.
+    glassware: coupette
+    ingredients:
+    - 1/2 oz barrel-aged Armagnac
+    - 1/2 oz Almond and Peanut Butters-washed Reposado Tequila 
+    - 1 1/2 oz Clarified Vanilla Milk 
+    - 1 oz champagne
+    - "Garnish: Piece of dark chocolate"
+    steps:
+    - Pour the Armagnac, tequila, milk and champagne into a cocktail shaker filled with ice and throw the liquid between the two shakers. 
+    - Strain into a coupette over a piece of block ice and garnish with a piece of dark chocolate set on top of the ice.
+    tags:
+    - the connaught bar
+    - thrown
+    - sparkling
+  - name: Madame Pickleford
+    notes: |+2
+      He may have never written a cocktail book, but Basil Woon immortalized the Mary Pickford cocktail in his 1928 travelogue When It’s Cocktail Time in Cuba, when he noted that Liverpudlian bartender Fred Kaufman was ‘the inventor of many cocktails in which pineapple juice is the chief ingredient’. Kaufman’s most enduring creation – a cocktail made with rum, pineapple juice and grenadine – was crafted for silent-screen star Mary Pickford when she stayed at Havana’s Hotel Nacional. The drink embodies simplicity. We decided to make this enduring cocktail more sophisticated by infusing aged whisky with roasted pineapple and enhancing it with the rich, luscious flavours of cocoa, an herbaceous amaro and maraschino liqueur. The mint leaves add a touch of freshness to a cocktail bouquet that deserves deference and respect.
+    glassware: julep tin
+    ingredients:
+    - 1 1/3 oz Roasted Pineapple-infused Aged Blended Scotch
+    - 1/3 oz pomegranate molasses
+    - 2/3 oz Cocoa Bean-infused Amaro Lucano
+    - 1 barspoon maraschino liqueur
+    - 6 mint leaves
+    - "Garnish: 1 cocktail cherry and 2 white chocolate triangles"
+    steps:
+    - Swizzle the whisky, pomegranate molasses, amaro, liqueur and mint leaves in a silver julep cup with a little crushed ice. 
+    - When blended, add more crushed ice to fill. 
+    - Garnish with a cocktail cherry and white chocolate triangles.
+    tags:
+    - the connaught bar
+    - julep
+    - stirred
+  - name: Magnetum
+    notes: |+2
+      They say opposites attract. In the Magnetum, art and science collide to create a visually striking drink. The clear liquid in the bottom represents the outside of the Connaught Bar and the dark brown liquid layered on top represents the venue’s interior. Using a bespoke ice lift that reduces dilution while it elevates the piece of block ice in the drink, the liquids are married together, blending tradition and innovation, form and flavour into a single statement. The patterned base of the ice lift offers an additional visual element to savour as you sip. The bottom layer is a clarified whisky milk punch featuring fresh pineapple and fino sherry with hints of fennel and lemon verbena. The top layer is single malt whisky and a Pedro Ximénez sherry. When the two layers merge as one, they create a rich, fruity sip with warm undertones of walnuts, wood smoke and crème brûlée. This is a deep sip to be shared over a long conversation, a dish of nuts, dried fruits and a piece of Manchego or other sheep’s milk cheese. We created the bespoke ice lift tool to lift a piece of block ice inside an old fashioned glass, but a barspoon can be used to blend the liquids together.
+    glassware: rocks
+    ingredients:
+    - 2 1/2 oz Magnetum Milk Punch 
+    - 1 oz Magnetum Sherry-whisky Mix 
+    steps:
+    - Place a piece of block ice in a rocks glass, resting on a bespoke ice lift. 
+    - Carefully pour the milk punch into the prepared glass. 
+    - Layer the sherry-whisky mix into the glass. 
+    - Lift the block of ice up to incorporate the two liquids, then serve.
+    tags:
+    - the connaught bar
+    - stirred
+    - old-fashioned
+  - name: Manila Hotel Mint Julep
+    notes: |+2
+      Journalist-cum-globetrotter Charles H. Baker’s love of Mint Juleps fills a staggering eight pages in his 1939 drinks travelogue The Gentleman’s Companion. He began by citing the concoction’s ancient Persian origins before extolling the joys of Kentucky Mint Juleps. Baker then continued his homage by presenting eight formulas he encountered in the Philippines, Cuba, Kentucky, Georgia, Tennessee and Maryland. It was bartender Monk Antrim’s Manila Hotel Mint Julep No. 1 that captured our attention, combining bourbon and rum with pineapple as a tropical touch. This twist on Baker’s discovery introduces the lightly spiced and bittersweet notes of Amaro Braulio, an Italian amaro with deep flavours of clove, dried fruits, cola, liquorice and bitter bark, in addition to the marriage of cognac and rum from the Dominican Republic. The complexity of this refresher is enhanced, like its predecessor, with pineapple notes as well as a traditional signature of fresh mint leaves.
+    glassware: julep tin
+    ingredients:
+    - 2/3 oz Amaro Braulio
+    - 1 oz Dominican Republic-style rum
+    - 2/3 oz cognac
+    - 3/4 oz Pineapple and Rosemary Shrub 
+    - 6 fresh mint leaves
+    - "Garnish: Rosemary sprig and a dried pineapple slice"
+    steps:
+    - Swizzle the amaro, rum, cognac, shrub and mint leaves in a silver julep cup with a little crushed ice. 
+    - When blended, top with more crushed ice and garnish with a rosemary sprig and a dried pineapple slice.
+    tags:
+    - the connaught bar
+    - julep
+    - stirred
+  - name: Mayfair Lady
+    notes: |+2
+      Professor Henry Higgins: By George, she’s got it! By George, she’s got it! 
+      Now, once again where does it rain?
+      Eliza Doolittle: [sings] On the plain! On the plain!
+      Professor Henry Higgins: And where’s that soggy plain?
+      Eliza Doolittle: [sings] In Spain! In Spain!
+      My Fair Lady (1964)
+
+      A twist on the Mayfair Cocktail, which Robert Vermeire invented and featured in his 1922 book Cocktails: How to Mix Them, our Mayfair Lady was inspired by a gregarious waitress who previously worked in the Connaught Bar. A tequila-based cocktail, it embodies the spice-forward profile of the original, which included dashes of both apricot and clove syrups, by infusing the spices into Sancerre wine and accentuating the aroma with elderflower liqueur. With her new-found flavour language, our Mayfair Lady ventures out into new and far more refined territory.
+    glassware: white wine glass
+    ingredients:
+    - 3/4 oz Walnut Oil-washed Reposado Tequila
+    - 1 oz Spice-infused Sancerre Wine
+    - 1/3 oz elderflower liqueur
+    - "Garnish: Fresh blue cornflower"
+    steps:
+    - Combine the tequila, wine and liqueur in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a white wine glass over a chunk of ice and garnish with a fresh blue cornflower set on top of the ice.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Mediterranean Soda
+    notes: |+2
+      This clean, crisp thirst quencher harkens back to fresh, fragrant breezes and lazy, sunny days on the Mediterranean. This refreshing highball features the slightly piney flavour and aroma of mastiha, a Greek liqueur made from the resin of the mastic tree, a small evergreen that is native to the Mediterranean. Scents of bergamot, basil and mastiha waft in the air and on the palate. A delicate bite of aromatic spice from the angel hair chilli – dried and shredded Chinese long chillies that impart a citrusy flavour – brightens the experience without adding too much heat. 
+    glassware: highball
+    ingredients:
+    - 1 3/4 oz vodka
+    - 1 oz Bergamot and Basil Sherbet 
+    - 1/2 oz mastiha
+    - 3 1/2 oz pink grapefruit soda
+    - "Garnish: Small cluster of angel hair chilli"
+    steps:
+    - Combine the vodka, sherbet, mastiha and soda in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a highball glass filled with ice and garnish with a small cluster of angel hair chilli.
+    - Serve with a straw.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Memento
+    notes: |+2
+      The Memento is an updated version of a Connaught Bar classic, Set in Stone. It is also a modernized twist on a cocktail classic, the Martinez. While the latter blends gin, sweet vermouth and maraschino liqueur with a dash of bitters, our version marries cucumber and rose gin with genever to add more complexity to the foundation botanical mixture. In a similar vein, the warmth of sherry is paired with dry vermouth to establish a richer tone than its ancestor. In the same way we contributed stone to the Set in Stone presentation, we sous-vide the Memento Mix with a piece of white marble and heat it to impart a touch of chalk and dry sweet to the finished drink. The piece of stone paper (a paper made from discarded stone), spray of elicriso essence, extracted from Helichrysum orientale flowers, and a wakamomo – pickled young peach from Japan – add the finishing touches of slightly herbal, sweet and sour pickle character to the presentation.
+    glassware: 
+    ingredients:
+    - Piece of stone paper
+    - 3 oz Memento Mix
+    - Spray of elicriso essence
+    - "Garnish: Wakamomo"
+    steps:
+    - Place a piece of stone paper under a big chunk of ice into a white wine glass. 
+    - Add the Memento mix to a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into the prepared glass, spray with the essence and garnish with a wakamomo skewered onto a cocktail pick.
+    tags:
+    - the connaught bar
+    - manhattan
+    - stirred
+    - freezer bar
+  - name: My Fair
+    notes: |+2
+      The Mayfair Cocktail, named after one of London’s most aristocratic neighbourhoods, made its way around Europe at the height of Prohibition in the United States. Robert Vermiere, in his 1922 book Cocktails: How to Mix Them, claims he created the recipe while working at the Embassy Club in London in 1921. Harry Cradddock added a touch of spice to his version, which appeared in his 1930 compilation The Savoy Cocktail Book. 
+      
+      Our My Fair tips a glass not only to this cocktail classic but also to the district in which the Connaught resides. We’ve added a sparkle to our presentation with a touch of champagne, which accentuates the aromas and flavours of our house-made Spiced Calamansi Sherbet and Apricot Velvet that make My Fair a special tribute of our own.
+    glassware: highball
+    ingredients:
+    - 1 1/4 oz gin
+    - 1 oz Spicy Calamansi Sherbet
+    - 1 oz Cocchi Americano
+    - 2 dashes Abbott’s Bitters
+    - 1 3/4 oz champagne
+    - 1 3/4 oz Apricot Velvet
+    - Piece of silver leaf, to garnish
+    steps:
+    - Combine the gin, sherbet, Cocchi Americano and bitters in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a Kyoto glass. 
+    - Top up with the champagne and slightly stir, then top with the apricot velvet and garnish with a piece of silver leaf.
+    tags:
+    - the connaught bar
+    - sparkling
+    - shaken
+  - name: Mysterious Woodlands
+    notes: |+2
+      No matter where you wander, there is a certain mystique to a walk in the woods. It’s no wonder forests and woodlands are ideal locations for those who seek tranquility, and even a hint of mystery. The intensity of the sweet earthy notes of the Beetroot and Blackberry Cordial in our Mysterious Woodlands is calmed by the introduction of cocoa and citrus notes. The aroma of the spinach and lemon thyme powder touches your senses with a profusion of matcha-like notes that make you feel like you are walking in the woods.
+    glassware: white wine glass
+    ingredients:
+    - Neutral spirit, for spraying the glass 
+    - Dried spinach and lemon thyme powder, for dusting the glass
+    - 1 3/4 oz Cocoa Bean-infused Vodka 
+    - 1/3 oz fresh lime juice
+    - 2/3 oz Beetroot and Blackberry Cordial 
+    - 2 dashes orange-mandarin bitters or orange bitters
+    steps:
+    - Spray one side of a white wine glass with a neutral spirit and dust the same side of the glass with dried spinach and lemon powder with the help of a powder decorating shaker. 
+    - Add a piece of block ice to the glass. 
+    - Combine the vodka, lime juice, cordial and bitters in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into the prepared glass.
+    tags:
+    - the connaught bar
+    - citrus
+    - shaken
+  - name: Mystery of Simplicity
+    notes: |+2
+      Look, then look again. Classic ingredients are given an unexpected twist and the ordinary becomes extraordinary in this beguiling blend of apple and oak floating in a sea of deep, rich rum. Our Mystery of Simplicity may have a foundation in aged rums, but it is not all wood and heavy tastes. The Fermented Green Apple and Almond Sherbet contribute fruit and spice to the equation. The sparkling oakwood tonic water and sherry add a touch of increased complexity that begs for you to come back for more.
+    glassware: red wine glass
+    ingredients:
+    - 3/4 oz Afro-Caribbean rum
+    - 2/3 oz banana rum
+    - 1 oz oloroso sherry
+    - 1/2 oz Fermented Green Apple 
+    - 1/3 oz Almond Sherbet 
+    - 1 oz oakwood tonic water
+    - "Garnish: Piece of fresh banana leaf"
+    steps:
+    - Combine the rums, sherry, fermented green apple, sherbet and tonic water in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a red wine glass with a piece of block ice and garnish with a piece of fresh banana leaf.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Negroni 10-100
+    notes: |+2
+      Presented in 2019 for the one-hundredth anniversary of the Negroni, with Connaught Gin, the Negroni 10–100 was actually born in 2018 to celebrate the tenth anniversary of the Connaught Bar. The drink was originally layered in the glass and mixed by the guest. Each element in the drink has a big personality. This twist on the Negroni uses rare botanicals, a new blend of a floral and honey-laced vermouth di Torino – Martini Riserva Speciale Ambrato – and rediscovered vintage flavours. Considered a simple drink throughout the first century of its life, the Negroni’s cardinal structure, balancing strength, bitter, sweet and spice, is a perfect springboard for flavour exploration. After extensive experimentation we landed on this lush and luxurious interpretation of Italy’s most iconic aperitif. The hint of Bordeaux wine adds a new dimension. 
+    glassware: red wine glass
+    year: 2018
+    ingredients:
+    - 1/2 oz Evanish Bordeaux Wine 
+    - 1/3 oz Galliano l’Aperitivo
+    - 1 oz gin
+    - 2/3 oz Martini Riserva Speciale Ambrato
+    - "Garnish: Spray of orange leaf food-grade essential oil"
+    steps:
+    - Layer the wine and Galliano l’Aperitivo, then the gin and Ambrato in a red wine glass over a ball of ice or ice sphere and garnish with a spray of orange leaf essential oil.
+    tags:
+    - the connaught bar
+    - negroni
+    - built
+  - name: The New Abbey
+    notes: |+2
+      Nearly a century after its debut in Harry Craddock’s 1930 The Savoy Cocktail Book, the Abbey Cocktail is still a tried-and-true classic mix of gin, Lillet, orange juice and Angostura Bitters. It also proves to be an ideal stepping stone for the creation of a new drink. Thus, we gave it the name The New Abbey in tribute to its inspiration. We have no doubt Harry Craddock would have loved the broad spectrum of flavours and techniques available to modern bartenders. While fat-washing exploded onto the bar scene in the early 2000s, it has never delivered better taste than with cocoa butter and coconut oil. And green mandarin essence? It has become as indispensable as Angostura Bitters. These days, we can evoke any season through essences and bitters, as well as capturing flavours through fat-washing our spirits.
+    glassware: coupette
+    ingredients:
+    - 1 3/4 oz Cocoa Butter-washed Vodka
+    - 2/3 oz fresh orange juice
+    - 1/3 oz Sugar Syrup
+    - 5 dashes coriander bitters 
+    - Spray of green mandarin essence 
+    - "Garnish: Small white chocolate disc and a large white chocolate disc"
+    steps:
+    - Combine the vodka, orange juice, sugar syrup and bitters in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a coupette, spray the top with green mandarin essence and garnish with the discs of white chocolate.
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+  - name: Number 11
+    notes: |+2
+      Number 11 was created in 2019 to celebrate the Connaught Bar’s eleventh anniversary. A tribute and an evolution of The Connaught Martini our bar’s signature offering, it was also inspired by another cocktail classic, The Vesper. While the Number 11 only contains four ingredients, there are two elements that make this version a special occasion, a visual celebration. First, the cocktail glass is hand painted with splashes of edible art paint in a style reminiscent of the famed twentieth-century Abstract Expressionist painter Jackson Pollock. The four colours we use represent the drink’s four main ingredients: gin, vodka, vermouth and bitters. (The drink also adopts Pollock’s technique for naming his works by number.) Second, the drink is aerated in the same way Spanish cider is served, using an escanciador, a battery-operated Spanish cider-pouring device that injects air into the drink by just pouring the liquid from a great height. (The same aeration can be accomplished by throwing the drink, just like they do in Barcelona.) To craft this new classic, gin, vodka and our house-made Amalfi Lemon Peel-infused Vermouth are batched in a bottle and stored in the freezer. 
+      
+      The quantities below are for an individual Number 11, but we recommend making ten portions – 450 ml (15 fl oz) gin, 300 ml (10 fl oz) vodka and 150 ml (5 fl oz) vermouth – so you have more than one serving in the bottle. To serve, the frozen bottle is attached to the escanciador and dispensed into the hand-painted cocktail glass. A delicate rose-like fragrance is imparted to the presentation when a few dashes of bitters distilled from the same five aromatic bitters that are also offered with The Connaught Martini (ginseng-bergamot, lavender, tonka bean, coriander and cardamom) are dropped on the top. The resulting delicate, aromatic notes of citrus and spice are guaranteed to excite to the senses.
+    glassware: nick & nora
+    year: 2019
+    ingredients:
+    - Edible paints, to decorate the glass
+    - 1 1/2 oz gin
+    - 1 oz vodka
+    - 1/2 oz Amalfi Lemon Peel-infused Vermouth 
+    - 1-2 dashes five bitters distillate (or you can substitute orange flower water)
+    steps:
+    - Freely splash dots of edible paint in at least four colours onto a coupette and leave to dry. 
+    - Pour the gin, vodka and vermouth into a sterilized bottle. 
+    - Freeze the bottle until ready to serve. 
+    - Attach the frozen bottle to an escanciador. 
+    - Turn it on and dispense the drink into the decorated cocktail glass with a piece of shaped ice. 
+    - (If you do not have an escanciador, you can throw the drink in the same way they do in Barcelona and Havana.) 
+    - Top with the bitters. 
+    - Return the bottle to the freezer until you are ready for the next round. 
+    tags:
+    - the connaught bar
+    - martini
+    - stirred
+    - freezer bar
+  - name: Old Flame
+    notes: |+2
+      When we were working on our stand-alone menu titled the Four Elements, we came up with an idea to lower the acidity of coffee to make a refreshing non-alcoholic drink. Both the pineapple juice and the Baked Lemon Syrup in the Old Flame soften the acidity of the Spiced Coffee, while imparting a tropical air that goes beyond a conventional iced coffee. 
+    glassware: pilsner
+    ingredients:
+    - 3 1/2 oz Spiced Coffee
+    - 1 oz Baked Lemon Syrup
+    - 3 1/2 oz pineapple juice
+    - "Garnish: Dried pineapple wheels, scorched with a blowtorch"
+    steps:
+    - Combine the spiced coffee, syrup and pineapple juice in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Strain into a pilsner glass filled with ice and garnish with the scorched pineapple wheels.
+    tags:
+    - the connaught bar
+    - caffeinated
+    - shaken
+    - citrus
+    - n/a
+  - name: Omega
+    notes: |+2
+      As the last letter of the Greek alphabet, omega has traditionally symbolized a sense of comprehensiveness – of being all that you can be, of being perfect to the end. In modern times, to be an omega person is the opposite of an alpha. Instead of being confident, bold, the first in everything, as an omega you are completely your own person regardless of others’ expectations. This Omega is a clear, citrusy take on a Margarita with softer, more complex notes than its bold predecessor. The lightly aged tequila couples well with our house-made Soft Lime Juice and mandarin orange bitters, resulting in a sophisticated interpretation. The coriander bitters add a familiar herbal freshness that is characteristic of fine Mexican cuisine.
+    glassware: rocks
+    ingredients:
+    - 1 1/2 oz reposado tequila 
+    - 1 oz Soft Lime Juice
+    - 1 barspoon mandarin orange bitters or orange bitters
+    - 2 dashes coriander bitters
+    - "Garnish: Red Salty Lime Disc Water Cake"
+    steps:
+    - Combine the tequila, soft lime juice, orange bitters and coriander bitters in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a rocks glass with a piece of block ice. 
+    - Garnish with a red salty lime water cake set on top of the ice.
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+    - margarita
+  - name: Oops I Dropped an Olive
+    notes: |+2
+      This cocktail is dedicated to Italian restaurateur and Michelin-starred chef Massimo Bottura, who created his signature dish Oops I Dropped the Lemon Tart after one of his staff dropped a lemon tart. Sometimes when you make a mistake you discover something new. One Christmas when Giorgio was a barback (assistant to the bartender), he added some pine needles to a bottle of gin and left them to infuse overnight to enhance the juniper, but instead found an olive oil character structure similar to the Martini. He was able to fool famous palates from across Italy with this faux olive oil flavour. Massimo even tried it at the bar and loved it. This drink has deep texture and a heady aromatic atmosphere. A day-long infusion of pine needles with the gin lends a surprising aroma of extra virgin olive oil. The Italicus Rosolio di Bergamotto – an Italian liqueur produced from rose petals and bergamot oranges – marries well with vibrant vanilla notes of the Galliano l’Autentico as well as the bitter character of Mediterranean citruses (including chinotto, bergamot, orange, tangerine and grapefruit), juniper, cardamom, lavender and other spices found in the Galliano l’Aperitivo. Garnished with a green olive, the Italian heritage and humour of this Martini-like cocktail will make you smile.
+    glassware: coupette
+    ingredients:
+    - 2 oz Pine-infused Gin 
+    - 1 barspoon Galliano l’Autentico
+    - 1 barspoon Galliano l’Aperitivo
+    - 1 oz Italicus Rosolio di Bergamotto
+    - Green olive, to garnish
+    steps:
+    - Combine the gin, Galliano l’Autentico, Galliano l’Aperitivo and Italicus Rosolio di Bergamotto in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a coupette and garnish with a green olive.
+    tags:
+    - the connaught bar
+    - martini
+    - stirred
+  - name: L'Orangerie
+    notes: |+2
+      A truly elegant vestige of a bygone era, orangeries went beyond being greenhouses. Designed to allow oranges to grow in Britain’s chilly and grey weather, they were also frequently used as places for music and light entertainment, spots purely intended for enjoying life’s better moments. Our L’Orangerie is a greenhouse of global flavours and beautiful blooms.
+    glassware: tumbler
+    ingredients:
+    - 1 oz cachaça
+    - 1/3 oz elderflower liqueur
+    - 1/2 oz Sea Buckthorn Sherbet 
+    - 1 oz kombucha
+    - 1 oz champagne
+    - "Garnish: Fresh Floregano® (an edible pale green flower)"
+    steps:
+    - Combine the cachaça, liqueur, sherbet and kombucha in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a wooden tumbler over a piece of block ice, top with the champagne and garnish with Floregano® flowers. 
+    tags:
+    - the connaught bar
+    - stirred
+    - sparkling
+  - name: Pearendipity
+    notes: |+2
+      Chance encounters can yield delightful results! The Connaught Bar hosted a week-long ‘jam’ session in 2014, featuring head bartender Colin Field of the Bar Hemingway in the Ritz Paris Hotel and myself. The Pearendipity is one of the outcomes of our improvised collaboration. While Field’s classic Serendipity highlights a marriage of apple juice, Calvados and champagne, this special blend serves up the fun of a Mojito with the sophistication of a champagne cocktail. Crisp, tangy pear meets the tropical influence of the deep, fruity character of dark Cuban rum with its distinctive notes of vanilla, nutmeg, cinnamon and aged wood. This spirituous blend is also complemented with the zesty, citrusy notes of the Lime Sherbet (page 242). Perfumed with the aroma of fresh mint, the Pearendipity delivers a refreshing sip that works with as an aperitif, a refreshing summer drink or as an accompaniment with roasted pork.
+    glassware: highball
+    ingredients:
+    - 3 1/2 oz champagne
+    - 1 3/4 oz 7-year-old Cuban rum
+    - 1 oz fresh pear juice
+    - 1 oz Lime Sherbet
+    - 10 fresh mint leaves
+    - 2 pieces of dried pear and a mint sprig, to garnish
+    steps:
+    - Gently pour the champagne into an ice-filled highball glass. 
+    - Combine the rum, pear juice and sherbet in a cocktail shaker filled with ice. 
+    - Slap the mint leaves on the back of your hand and add them to the shaker. 
+    - Gently shake the mixture so the mint does not release any bitter notes. 
+    - Double strain into the glass and garnish with the dried pear pieces and a mint sprig.
+    tags:
+    - the connaught bar
+    - shaken
+    - sparkling
+  - name: Primo
+    notes: |+2
+      Primo means ‘first’ in Italian. This drink was inspired by our beautiful pewter-trimmed marble bar top; both powerful and elegant. When you enter, the bar draws your eyes, and it is the first thing you see. The Primo goes far beyond a single note, playing a major chord of spices and classic bitter notes in perfect pitch and harmony. Inspired by the aromas and flavours of Amazonia, the Muyu Chinotto Nero Liqueur introduces cinchona, oak moss, sweet oranges and the bitter chinotto oranges to the mix. The Rubino Vermouth, which revives and enhances a 150-year old vermouth di Torino recipe with rare sandalwood and three types of wormwood, adds complexity. While the rum provides depth, the coconut milk brings a hint of velvet to the mix.
+    glassware: rocks
+    ingredients:
+    - 1 1/2 oz Primo Coconut Milk Punch
+    - 1 oz grapefruit and rosemary tonic water
+    steps:
+    - Combine the milk punch and tonic water in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into an old fashioned glass or tumbler over a piece of block ice.
+    tags:
+    - the connaught bar
+    - clarified
+    - stirred
+  - name: Prism
+    notes: |+2
+      A three-dimensional object with two identical sides and equal crosssections, a prism allows a viewer to see light refract in different directions and reveals a wide range of vibrant colours. Our Prism allows the sipper to experience zesty, spicy, bright flavours with each sip. A non-alcoholic version of our Mystery of Simplicity, the Prism is a perfect pick-me-up that brings together big flavours from vibrant berries, bright aromatics such as coconut vinegar, lion’s mane, caraway, yerba mate, chilli, damiana leaf and cocoa bean in the Everleaf Forest non-alcoholic aperitif, while the Fermented Green Apple and an Almond Sherbet that features almond and orange blossoms unites the various points in this libation with soft, fruity notes. Finished with a touch of oaky sparkle, the Prism will refresh your perspective on life.
+    glassware: highball
+    ingredients:
+    - 1 3/4 oz Three Spirits Social Elixir
+    - 1/2 fl oz Fermented Green Apple 
+    - 1/3 fl oz Almond Sherbet 
+    - 1 fl oz oakwood tonic water
+    - "Garnish: Fresh blue cornflowers"
+    steps:
+    - Combine the Three Spirits Social Elixir, fermented green apple, sherbet and tonic water in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a Kyoto glass filled with ice and garnish with fresh blue cornflowers set on top of the ice.
+    tags:
+    - the connaught bar
+    - n/a
+    - stirred
+  - name: Ripple
+    notes: |+2
+      Creativity may start with a single drop. But truly creative expressions make ripples in the fabric of peoples’ hearts and minds. What makes this drink cause ripples to the senses is the pairing of our house-made Chicha Morada – a South American beverage made with Peruvian purple corn, apples and key limes with hints of cinnamon and clove – and Everleaf Forest, a non-alcoholic aperitif that features woodland botanicals mingled with saffron, vanilla and orange blossom. This intricate fabric of flavours and aromas is trimmed with bright notes of citrus, peach, jasmine and vanilla that cause waves of flavour that capture your imagination with every sip.
+    glassware: highball
+    ingredients:
+    - 1 1/2 oz Everleaf Forest 
+    - 11/2 oz Chicha Morada 
+    - 2/3 oz Clementine and Tonka Bean Shrub 
+    - 1 3/4 oz white peach and jasmine soda
+    - "Garnish: Disc-shaped banana leaf"
+    steps:
+    - Combine the Everleaf Forest, chicha morada, shrub and soda in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a highball glass filled with ice. 
+    - Garnish with a disc-shaped banana leaf.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Ristretto Manhattan
+    notes: |+2
+      An iconic drink, the Manhattan is a member of the holy trinity of classic cocktails that includes the Martini and the Daiquirí. While this classic is frequently made with either bourbon or rye whiskey, the inclusion of Italian red vermouth is too sweet for some palates. I created this elegant, grown-up version of a classic Manhattan when I worked at Montgomery Place off Portobello Road in London. I translated the elements of a Manhattan, using bourbon and Punt e Mes vermouth – an aperitif wine whose name literally translates to ‘one point’ sweetness and a ‘half point’ bitterness. The first twist comes from the flavour of a traditional Italian pick-me-up – a ristretto or short shot of espresso – from the coffee liqueur. The second twist is the hint of blackberry fruitiness from the crème de mûre. Like the classic Manhattan, my Ristretto Manhattan announces the end of the workday with distinctive flavours that also work as an accompaniment to a mixed grill or a perfectly executed steak.
+    glassware: red wine glass
+    ingredients:
+    - 11/2 oz bourbon
+    - 2/3 oz Punt e Mes vermouth
+    - 1/3 oz dry coffee liqueur
+    - 1 barspoon crème de mûre
+    - 2 dashes Abbott’s Bitters or Angostura Bitters
+    - Spray of orange essence
+    - "Garnish: 1 fresh blackberry"
+    steps:
+    - Combine the bourbon, vermouth, coffee liqueur, crème de mûre and bitters in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a red wine glass fitted with an ice sphere. 
+    - Spray orange essence over the top and garnish with a fresh blackberry tied onto a stirring stick and suspended over the edge of the glass.
+    tags:
+    - the connaught bar
+    - stirred
+    - manhattan
+    - freezer bar
+  - name: Royal Seal
+    notes: |+2
+      Why did we name this drink the Royal Seal? To quote the British style publication, Tatler: ‘Named after Queen Victoria’s seventh child Arthur, later Prince Arthur, Duke of Connaught and Strathearn, the Connaught occupies the most majestic spot in Mayfair,… it remains a royal favourite, from the Queen Mother who opened the hotel’s new kitchen to its glorious restaurant the Connaught Grill, a restaurant loved by Princess Diana, who would regularly lunch there with her stepmother Countess Raine.’ This cocktail is our personal toast to the hotel’s royal history and the recognition it has garnered over its long history. It is a drink that is alive with tropical fruits that sing with flavour hints of mango, apricot and coffee.
+    glassware: coupette
+    ingredients:
+    - 1 1/2 oz reposado tequila 
+    - 1 oz Passion Fruit and Makrut Lime Sherbet
+    - 1/3 oz orange liqueur
+    - 1/3 oz fresh lime juice
+    - 2 dashes Coffee Tincture 
+    - 1/2 passion fruit, pulp scooped out
+    - "Garnish: Passion fruit slice and a fresh edible flower"
+    steps:
+    - Combine the tequila, sherbet, liqueur, lime juice, tincture and passion fruit pulp in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a coupette and garnish with a passion fruit slice topped with a fresh edible flower. 
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+    - margarita
+  - name: Sandia
+    notes: |+2
+      A modern classic that follows the same simple pattern as the Martini with gin, the Manhattan with rye and the Sidecar with cognac, the Margarita is the epitome of a tequila cocktail, combining spirit with lime and triple sec. Our Sandia, which means ‘watermelon’ in Spanish, is a refreshing twist on this cocktail masterpiece. We introduced a Watermelon and Tomato Stalk Shrub to our version for complexity. Then we spiced the mixture with Ancho Reyes Chile Liqueur made from poblano chillies and pineapple. And we added a touch of Amaro Santoni, made with thirty-four botanicals, which imparts a long bittersweet aroma of clove and piney freshness.
+    glassware: coupette
+    ingredients:
+    - Neutral spirit, for spraying the glass 
+    - Watermelon Rind and Jalapeño Powder, to decorate the glass
+    - 1 1/2 oz reposado tequila 
+    - 1 1/2 oz Watermelon and Tomato Stalk Shrub
+    - 1 barspoon Ancho Reyes Chile Liqueur
+    - 1/3 oz Amaro Santoni
+    steps:
+    - Spray one side of a coupette with a neutral spirit and dust the same side of the glass with watermelon rind and jalapeño powder with the help of a powder decorating shaker. 
+    - Combine the tequila, shrub, liqueur and amaro in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into the prepared coupette.
+    tags:
+    - the connaught bar
+    - shaken
+    - margarita
+  - name: The Scented Cup
+    notes: |+2
+      The Scented Cup is a successor to the Corpse Reviver No. 2, a classic created by Harry Craddock when he presided over the American Bar at the Savoy during the 1920s. Here, we replace the lemon juice with dry sherry and infuse the Lillet with floral, earthy saffron for a gentler and far more refined ‘reviver’. The cucamelon, a diminutive member of the cucumber family native to Central and South America, contributes hints of sweet cucumber and subtle citrus. The signature dash of absinthe is what makes The Scented Cup a true descendant of Craddock’s famed Corpse Reviver family.
+    glassware: tumbler
+    ingredients:
+    - 1 oz London dry gin
+    - 1 oz Saffron-infused Lillet Blanc 
+    - 2/3 oz dry sherry
+    - 1 dash absinthe
+    - Cucamelon or a strip of cucumber skin, to garnish
+    steps:
+    - Combine the gin, Lillet Blanc, sherry and absinthe in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a tumbler or old fashioned glass over a ball of ice. 
+    - Garnish with a cucamelon – skewered onto a wooden stick, tied onto a stirring stick and suspended over the edge of the glass – or a strip of cucumber skin.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Set In Stone
+    notes: |+2
+      There are many portions of our lives that are malleable like sculptor’s clay. There are others that evoke a sense of permanency and from that foundation one can find strength and structure, a place where one can find identity. Set in Stone brings together classic flavours and aromas that are part of the foundation of many familiar cocktails. Gin and genever both offer that sense of tradition and permanency. This solid structure is complemented by other classic ingredients from the cocktail repertoire – rich, luscious sherry plus a waft of bergamot rosolio – plus the aroma of elicriso essence, extracted from Helichrysum orientale flowers. Minerality is introduced into the mixture with the stone paper garnish (a paper made from discarded stone), reminding you that the love of a fine cocktail is an element in life that is set in stone. 
+    glassware: red wine glass
+    ingredients:
+    - 3 fl oz Set in Stone Mix
+    - Piece of stone paper and a green olive, to garnish
+    steps:
+    - Add the Set in Stone mix to a cocktail shaker and shake over ice. 
+    - Strain into a red wine glass over a piece of block ice and garnish with a piece of stone paper and a green olive.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Sikelia
+    notes: |+2
+      Sikelia – the Greek name for the beautiful island of Sicily – was where Giorgio travelled in winter 2022 to visit a blood orange farm situated at the base of a volcano at the height of the growing season. It was there that he was inspired to create this drink, which combines gin, red vermouth and a Pomegranate and Fennel Shrub with a sparkling blood orange soda.
+    glassware: white wine glass
+    ingredients:
+    - 1 3/4 oz blood orange soda
+    - 1 oz London dry gin
+    - 2/3 oz 1757 vermouth di Torino Rosso
+    - 1/2 oz Pomegranate and Fennel Shrub
+    - "Garnish: White chocolate disc"
+    steps:
+    - Pour the blood orange soda into a white wine glass. Combine the gin, vermouth and shrub in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into the glass. 
+    - Sink a piece of block ice into the glass and garnish with a disc of white chocolate set on top of the ice
+    tags:
+    - the connaught bar
+    - stirred
+  - name: The Silky Way
+    notes: |+2
+      Three years after the Tea Rinfresco was created, we took a rare step to use one of our own drinks as the inspiration for making another. This time, we married oolong tea with date syrup and a hint of lime to reflect the feeling of looking up at a clear night sky.
+    glassware: collins
+    ingredients:
+    - 1 3/4 oz fresh pear juice
+    - 2/3 oz Salted Date Syrup 
+    - 2/3 oz fresh lime juice
+    - 1 3/4 oz brewed oolong tea
+    - "Garnish: Dried pear slices"
+    steps:
+    - Combine the pear juice, syrup, lime juice and tea in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a Kyoto glass over ice cubes. 
+    - Garnish with slices of dried pear set on top of the ice.
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+    - n/a
+  - name: Singapore Swizzle
+    notes: |+2
+      A quick, efficient tool for giving a drink lift while it diminishes the sparkle of the soda, the original swizzle stick was born during the eighteenth century in the West Indies. Fashioned from a branch of the Quararibea tubinata, or ‘swizzle stick’ tree, this device lent its name to a whole category of drinks that follow this tried-and-true method for mixing. Singapore is the traditional birthplace of the Straits Sling and its fruity modern descendant the Singapore Sling. Our creation combines the best features of this East Indies recipe blended with a West Indies mixing technique. And the herbaceous touch of Bénédictine (a French liqueur made with twenty-seven berries, flowers, herbs and spices) along with ratafia (a similar Italian liqueur made with stone fruit kernels, spices and citrus peel) make for a herbal, spicy and fruity blend highlighted by the tropical freshness of coconut soda that takes this drink far beyond the Singapore Sling to a grown-up, sophisticated level. To make the garnish, we made an ice cup and then crushed it and used an ice stamp to add our design, then added coconut flakes on the top.
+    glassware: pilsner
+    ingredients:
+    - 1 1/2 oz London dry gin
+    - 1/3 oz Bénédictine
+    - 1/3 oz ratafia
+    - 1 1/2 oz fresh pineapple juice
+    - 1 barspoon Pomegranate Syrup 
+    - 2 dashes Angostura Bitters
+    - 2 oz coconut soda
+    - "Garnish: Shaved coconut and a cocktail cherry"
+    steps:
+    - Combine the gin, Bénédictine, ratafia, pineapple juice, syrup and bitters in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Strain into a pilsner glass and slowly add the coconut soda and more crushed ice. 
+    - Lift the drink. 
+    - Garnish with a crushed ice cup filled with shaved coconut and a cocktail cherry.
+    tags:
+    - the connaught bar
+    - citrus
+    - shaken
+  - name: The Sun of London
+    notes: |+2
+      Unrelated to the tabloid newspaper with a similar name, The Sun of London is a nod to the Connaught Bar’s heritage and the Italian master mixologists who presided behind the bar. This vibrant, bergamot-infused cocktail brings a warm Italian spirit to Mayfair in a swirl of grapefruit and basil essence. It’s always sunny in Italy, but in London those halcyon days have always been cause for celebration, especially for Italian bartenders braving the grey to make drinks in the world’s best city for cocktail culture and bringing their own sunshine with them in their creations. Podére Santa Bianca Liquore No. 4 is a liqueur with notes of citruses, herb and spices including clementine, cloves and myrtle.
+    glassware: highball
+    ingredients:
+    - Strip of blood orange fruit leather, to garnish 
+    - 1 3/4 oz Cocoa Butter and Bergamot Oil-washed Vodka 
+    - 1 barspoon Podére Santa Bianca Liquore No. 4
+    - 1 barspoon Italicus Rosolio di Bergamotto
+    - 2/3 oz Clementine and Tonka Bean Shrub 
+    - 3 1/2 oz white peach and jasmine soda
+    - Spray of Podére Santa Bianca Grapefruit and Basil essence
+    steps:
+    - Wrap a strip of blood orange fruit leather around the inside edge of a highball glass and fill the glass with ice to hold the fruit leather in place. 
+    - Combine the vodka, Podére Santa Bianca Liquore No. 4, Italicus Rosolio di Bergamotto, shrub and soda in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into the prepared glass. 
+    - Spray with the essence and garnish with a strip of blood orange fruit leather. 
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Sweet and Z
+    notes: |+2
+      This drink is named after two of our most regular guests. Originally from Milan, Mr Sweet works in the cinema industry, travelling the globe throughout the year. He typically orders a dry Martini, Negroni or Margarita. Mr Z works in the pharmaceutical industry, commuting regularly from Milan to London. He likes fruity, lighter drinks, like a Cosmopolitan, or creamier cocktails, such as Grasshoppers and Brandy Alexanders. Friends for nearly twenty years, the only time they get to meet and catch up is at our bar. Even visually, they are like night and day. So, we decided to make a drink that honours them both: it is an herbaceous, chocolaty concoction that satisfies people with both types of palates. Combining the strong herbal traits of a Negroni, made with tequila, bitter aperitif and vermouth, with a Golden Cadillac, crafted from a vanilla-based Italian liqueur, cacao nibs and cream, this clarified milk punch makes the perfect party drink since it can be batched, chilled over ice and finished with a light spray of essential oil and a piece of chocolate.
+    glassware: coupette
+    ingredients:
+    - 3 oz Sweet and Z Milk Punch
+    - Spray of grapefruit and basil food-grade essential oil 
+    - "Garnish: Green-tinted chocolate ring"
+    steps:
+    - Combine the milk punch in a mixing glass filled with ice and stir until well chilled. Strain into a coupette with a piece of shaped ice.
+    - The ice is shaped with two presses. First, the bottom of a diamond ice press; second, the top of a sphere ice press. 
+    - Spray the top with the essential oil and garnish with a ring of green-tinted chocolate.
+    tags:
+    - the connaught bar
+    - stirred
+    - clarified
+  - name: Tea Rinfresco
+    notes: |+2
+      In its name, tea, Britain’s most popular and iconic beverage, meets the Italian phrase: ‘I refresh you’. Brits are famed around the world for their passion for a cuppa, Italians for their capacity to be hospitable. There are so many more dimensions than milk and two sugars to explore and this light, zesty drink refreshes in a way all its own. Here, jasmine tea is given eastern accents with ginger syrup, lemon juice and pear.
+    glassware: highball
+    ingredients:
+    - 1 1/3 oz pear juice
+    - 2/3 oz Ginger Syrup 
+    - 2/3 oz fresh lemon juice
+    - 1 oz brewed jasmine tea
+    - Garnish: "Dried pear slice and a mint sprig"
+    steps:
+    - Combine the pear juice, syrup, lemon juice and tea in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Double strain into a highball glass over ice cubes. 
+    - Garnish with a dried pear slice and a mint sprig.
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+  - name: Tip of the Iceberg
+    notes: |+2
+      The clear waters of the Mediterranean Sea on a summer afternoon evoke zesty and herbaceous aromas. Waves of flavours that harken from southern Italy, the Greek Islands and Corsica remind you there is more to each sip of this delicately crafted balance of grappa-based cedro lemon liqueur, crème de cacao and coconut water that complements the exotic notes that arise from the Banana and Coconut Oil-washed Gin. With the first sip, you will understand that you are only experiencing the tip of an iceberg.
+    glassware: coupette
+    ingredients:
+    - 1 3/4 oz Banana and Coconut Oil-washed Gin
+    - 2/3 oz crème de cacao 
+    - 1/3 oz cedro lemon liqueur
+    - 2/3 oz coconut water
+    - "Garnish: Blue Disc Water Cake"
+    steps:
+    - Combine the gin, crème de cacao, liqueur and coconut water in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a coupette with a piece of shaped ice and garnish with a blue disc water cake.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Under a Stone
+    notes: |+2
+      Under a Stone was included in our stand-alone menu titled the Four Elements. Earth, wind, fire and water were represented in this drinks list. A twist on the Martinez, this drink portrays its earthy tones thanks to the Truffle Butter-washed Vodka and Wattleseed-infused Vermouth. Harvested from Australian acacia trees, wattleseeds impart a nutty, roasted coffee aroma that tastes like a toasted wheat biscuit. Then truffle and coffee take the starring role in both the palate and the nose from the first sip to the last.
+    glassware: coupette
+    ingredients:
+    - 1 oz Truffle Butter-washed Vodka 
+    - 2 oz Wattleseed-infused Vermouth
+    - 2 dashes Aphrodite Bitters
+    - 1 barspoon maraschino liqueur
+    - "Garnish: 2 chocolate stones"
+    steps:
+    - Combine the vodka, vermouth, bitters and liqueur in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a chilled coupette and garnish with two chocolate stones.
+    tags:
+    - the connaught bar
+    - manhattan
+    - stirred
+  - name: Unveiled
+    notes: |+2
+      Voila! The levels of anticipation and excitement that exhilarate the senses when a masterpiece is unveiled defy all expectations. This was the idea behind the marriage of the ceramic tumbler crafted by Japanese ceramicist Reiko Kaneko with the rum and pineapple cocktail drink we created as its accompaniment. We pour the Unveiled into its unique vessel in front of the customer. The tumbler’s dark, smoky exterior belies the tastes found on the inside: a bold, heady blend of pineapple-infused cognac and aged Jamaican rum with warm cardamom and coffee notes.
+    glassware: tumbler
+    ingredients:
+    - 2 drops cardamom bitters
+    - 3/4 oz cognac
+    - 3 oz Coffee and Pineapple Milk Punch
+    steps:
+    - Add the bitters to the bottom of a ceramic tumbler. 
+    - Combine the cognac and milk punch in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into the prepared tumbler over a piece of block ice.
+    tags:
+    - the connaught bar
+    - clarified
+    - stirred
+  - name: Velvet Champagne
+    notes: |+2
+      Champagne’s bubbly nature contributes vigour to this twist on a Soyer au Champagne, which was one of Queen Victoria’s favourite libations. This ice cream cocktail is named after Alexis Benoît Soyer – London’s first and foremost Victorian celebrity chef. The head chef at the private members’ establishment the Reform Club when it first opened its doors in 1836, Soyer’s talents shined outside the kitchen and into the bar as he also created lake blue sparkling drinks, punch jellies and this clever ice cream confection. Our Velvet Champagne is less sweet and fruitier than its predecessor, allowing every sip of cream and champagne to sing on its own.
+    glassware: copper tin
+    ingredients:
+    - 2/3 oz framboise eau-de-vie
+    - 2/3 oz orange cognac liqueur
+    - 5 ml Sugar Syrup
+    - 1/3 oz fresh lemon juice
+    - 2/3 oz raspberry purée
+    - 1 oz champagne
+    - 1 small scoop good-quality vanilla ice cream, preferably French
+    steps:
+    - Combine the eau-de-vie, liqueur, sugar syrup, lemon juice and purée in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Strain into a copper-plated Moscow mule mug filled with a piece of block ice. 
+    - Top with the champagne, then float a scoop of vanilla ice cream on the surface of the ice. 
+    - Lift to blend and serve with a spoon for the ice cream.
+    tags:
+    - the connaught bar
+    - dairy
+    - shaken
+    - citrus
+    - sparkling
+  - name: Verizon
+    notes: |+2
+      While the name of this drink combines the Latin term for ‘truth’ – veritas– with the word ‘horizon’, a blazing summer sunset invites you to reflect on the hopes and dreams that lay just over the horizon. The truth of this meditation can be found in the meeting of whisky’s smoky character and champagne’s light hints of toast. With tangy and tropical notes of rhubarb and mango, the Verizon is the perfect sip served with a piece of dark chocolate on the side for a sultry, summer moment of contemplation as the sun sets. 
+    glassware: highball
+    ingredients:
+    - 1 oz Scotch whisky
+    - 1 3/4 oz Rhubarb and Mango Cordial
+    - 3 1/2 oz champagne
+    - "Garnish: Golden grape (a grape painted with edible golden paint and left to dry)""
+    steps:
+    - Combine the whisky, cordial and champagne in a mixing glass filled with ice. 
+    - Stir lightly and strain into a highball glass filled with ice. 
+    - Garnish with a golden grape skewered onto a cocktail pick.
+    tags:
+    - the connaught bar
+    - stirred
+    - sparkling
+  - name: Vieux Connaught
+    notes: |+2
+      A delicate waft of saffron smoke caresses the rich flavours of rum and rye whiskey in the Vieux Connaught. Inspired by the signature Vieux Carré cocktail created in 1938 by head bartender Walter Bergeron at the Monteleone Hotel in New Orleans, the Vieux Connaught offers a balanced, modern experience. A buttery sweet Guatemalan rum instead of the vanilla and stone fruit character of cognac pairs with the spicy, peppery rye whiskey, softening the woody notes of the spirits. (If you cannot find a Guatemalan rum, you can try a Venezuelan or other solera-style aged Spanish rum.) The flavour is enhanced by silky, honeyed notes, cardamom, nutmeg, cedarwood, sage and citrus peel from the Bénédictine liqueur and it complements the dry, light mineral accents of the Connaught’s proprietary dry vermouth. Instead of the intense spiciness from anise, cinnamon, cloves, cherry, plum and blackcurrants found in Peychaud’s Bitters, citrusy edges are introduced with dashes of Angostura and orange bitters. The mixture is built and poured into a glass decanter. Next, we smoke the drink by placing a pinch of saffron into a smoking gun and injecting the smoke directly into the decanter. Served on a mirrored tray, the customer can glimpse a rare sight – the bar’s elegantly carved ceiling – as the Vieux Connaught is poured from the bottle into a chilled old fashioned glass. The smokiness is controlled to taste by leaving the drink in the smoked decanter for longer if desired. It is an ideal digestif and an excellent accompaniment with smoked salmon, smoked trout or a creamy cheese. 
+    glassware: rocks
+    ingredients:
+    - 1 oz aged Guatemalan rum
+    - 2/3 oz rye whiskey
+    - 2/3 oz Connaught Bar Dry Vermouth Mix
+    - 1/3 oz Bénédictine
+    - 2 dashes Angostura Bitters
+    - 2 dashes orange bitters
+    - Pinch of saffron threads
+    - "Garnish: Z-shaped orange twist"
+    steps:
+    - Pour the rum, whiskey, vermouth, Bénédictine and bitters into a small glass decanter. 
+    - Smoke the contents with a pinch of saffron placed into a smoking gun. 
+    - Inject the smoke directly into the decanter and seal to retain the smoke. 
+    - To serve, pour about half the drink into an old fashioned glass filled with a piece of block ice and garnish with a z-shaped orange twist. 
+    - If you do not have a smoking gun, place a pinch of saffron threads on a heatproof plate. 
+    - Light the threads with a small torch next to the drink-filled old fashioned glass. 
+    - Immediately place a glass bowl or cloche over the drink and wait for a few moments. 
+    - Uncover, add a piece of block ice and serve.
+    tags:
+    - the connaught bar
+    - stirred
+    - smoke
+  - name: Voronoi
+    notes: |+2
+      This cocktail is named after the Ukrainian mathematician Georgy Voronoi, who devised the elegant Voronoi diagram that partitions a two-dimensional Euclidean plane into regions, each of a given set of objects. The light floral notes of the tequila, mescal and Lime Sherbet contrast yet unite with the earthy, balsamic aromas of the vetiver liqueur, which is made from the vetiver grass, native to India. A subtle touch of nutmeg emanates from the vermouth infused with mace blades – the sister spice of the nutmeg tree. Together these ingredients present a delicate interpretation of how seemingly different elements unite, even though they are not symmetrical. 
+    glassware: coupette
+    ingredients:
+    - Edible red and white paint, to decorate the glass 
+    - 2/3 oz blanco tequila
+    - 1/3 oz mezcal
+    - 1/2 oz Muyu Vetiver Gris Liqueur
+    - 1 oz Mace-infused Cocchi Rosa
+    - 3/4 oz Lime Sherbet
+    steps:
+    - Decorate a coupette with edible red and white paint dots and set aside. 
+    - Combine the tequila, mescal, liqueur, Cocchi Rosa and sherbet in a cocktail shaker filled with ice and shake vigorously until the drink is sufficiently chilled. 
+    - Strain into the prepared coupette. 
+    tags:
+    - the connaught bar
+    - shaken
+    - citrus
+  - name: Wayfarer
+    notes: |+2
+      For some of our customers, the Connaught Bar is a place of pilgrimage. For others, it is a haven – a home away from home. Whatever your personal voyage, this combination of non-alcoholic botanical spirit, soft berries and sparkling flowers and fruit serves as a tribute to the traveller in all of us. Spicy juniper undertones balance with refreshing eucalyptus, bright citrus and a touch of fiery heat transport you to a surprisingly piney finish.
+    glassware: rocks
+    ingredients:
+    - Edible blue cocoa paint, to decorate the glass 
+    - 1 1/2 oz Sipsmith FreeGlider 
+    - 1 1/2 oz Clarified Berries Yogurt 
+    - 1/3 oz Sugar Syrup
+    - 1 oz white peach and jasmine soda
+    steps:
+    - Decorate an old fashioned glass with two stripes of blue edible cocoa paint and set aside. 
+    - Combine the Sipsmith FreeGlider, yogurt, sugar syrup and soda in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into the prepared old fashioned over a piece of block ice.
+    tags:
+    - the connaught bar
+    - clarified
+    - stirred
+    - n/a
+  - name: Wine for Soul
+    notes: |+2
+      Before there was a non-alcoholic vermouth on the market, we removed the alcohol of the ambrato vermouth with the help of heat from a Thermomix® to create our own non-alcoholic drink. It was our first non-alcoholic drink to make the masterpieces section of our menu. It is a drink of surprises, as the chillies distilled with the vermouth offer flavour but none of the heat, recreating the sensation of alcohol.
+    glassware: highball
+    ingredients:
+    - 1 1/2 oz Vietnamese Pepper Evaporated Ambrato 
+    - 1 oz Martini Vibranti
+    - 1/2 oz Black Cardamom Seed Syrup 
+    - 1/2 oz Riesling Verjus Cordial
+    - 2 oz soda water
+    - "Garnish: Lemon twist"
+    steps:
+    - Combine the ambrato, Martini Vibranti, syrup and cordial in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into a highball glass over ice. 
+    - Top with the soda water and garnish with a lemon twist.
+    tags:
+    - the connaught bar
+    - n/a
+    - stirred
+  - name: Wood
+    notes: |+2
+      A drink inspired by the element of wood, this libation takes its cue from the silver and gold tones of the Connaught Bar’s wood panelling. Sometimes the greatest inspiration is right before your eyes. In this case, the depth of warm brown tones in the Connaught Bar’s wood panelling gave birth to this wonderfully spicy and complex aperitif. Wild cherry bark and catuaba bark convey the message beautifully among the dark, aged spirit and coffee flavours joining together into a deep, warming statement. The grapefruit and rosemary tonic water brings the portrait to life with a zesty sparkle.
+    glassware: highball
+    ingredients:
+    - Edible white cocoa paint, to decorate the glass
+    - 1 oz Wild Cherry Bark-infused Pisco
+    - 1/3 oz aged Cuban rum
+    - 1/3 oz Martini Riserva Speciale Bitter 
+    - 1 1/2 oz Cocchi Americano
+    - 1/3 oz Catuaba Bark Syrup 
+    - 1 barspoon Italian espresso liqueur
+    - 3 oz grapefruit and rosemary tonic water
+    steps:
+    - Decorate a highball glass with a stripe of edible white cocoa paint and set aside. 
+    - Combine the pisco, rum, Martini Riserva Speciale Bitter, Cocchi Americano, syrup and Italian espresso liqueur in a mixing glass filled with ice and stir until well chilled. 
+    - Strain into the highball glass over ice and top with the tonic water.
+    tags:
+    - the connaught bar
+    - stirred
+  - name: Yellow Submarine
+    notes: |+2
+      Born and raised in Italy, I acquired a passion for the Negroni early in my drinking life. This Italian classic combines herbaceous and bitter notes and is traditionally served during aperitivo – a moment at the end of the workday when conversation and a small bite go hand in hand with this classic refreshment. I created the Yellow Submarine when I first arrived in London in 2006 as the head bartender at Montgomery Place – a bar off Portobello Road. This twist on the Negroni is served like its predecessor, on the rocks, but I use an ice ball instead of cubes. In my version, gin is accentuated by the minerality of sherry, the smooth floral notes of lavender with hints of sweetness from vanilla and anise. Why did I name this drink after a famous song performed by The Beatles? Since I serve this drink on the rocks just like a Negroni, the ice ball, which keeps the drink icy cold, reminds me of a porthole on a submarine. And the drink’s pale-yellow hue made it a natural fit to its pop culture name.
+    glassware: rocks
+    year: 2006
+    ingredients:
+    - 1 3/4 oz London dry gin
+    - 3/4 oz fino dry sherry
+    - 1/2 oz Galliano l’Autentico
+    - 2 dashes celery bitters
+    - "Garnish: Lemon twist and a strip of cucumber skin"
+    steps:
+    - Combine the gin, sherry, Galliano l’Autentico and bitters in a mixing glass filled with ice and stir until well chilled. 
+    - Strain and serve in a rocks glass with an ice ball. 
+    - Squeeze the lemon twist over the drink to express the citrus oils, then garnish with a strip of cucumber skin skewered onto a wooden stick.
+    tags:
+    - the connaught bar
+    - negroni
+    - stirred
+    - freezer bar

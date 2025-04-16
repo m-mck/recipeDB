@@ -132,3 +132,37 @@ recipes:
     tags:
       - stirred
       - negroni
+  - name: Holy Smoke
+    author: Yanni Kehagiaras
+    url: https://imbibemagazine.com/recipe/holy-smoke-sherry-cocktail/
+    notes: |+2
+      As with other drinks at Stoa, small amounts of accent ingredients serve to highlight the flavor of the cocktail’s base (in this case, the crisp dryness of manzanilla sherry). At home, remember that 2 ml is just shy of a 1/2 teaspoon.
+    glassware: nick & nora
+    ingredients:
+    - 2 oz. manzanilla sherry
+    - 1/4 oz. Bénédictine
+    - 2 ml (just shy of 1/2 tsp) peated single malt Scotch whisky (Stoa uses Ardbeg Wee Beastie)
+    steps:
+    - Stir all of the ingredients with ice, then strain into a chilled glass.
+    tags:
+    - stoa
+    - stirred
+    - freezer bar
+  - name: Cafe Ireland
+    author: Yanni Kehagiaris
+    url: https://imbibemagazine.com/recipe/cafe-ireland-irish-whiskey-cocktail/
+    notes: |+2
+      Likening this cocktail to a dry Irish whiskey Manhattan, Yanni Kehagiaras notes that the drink should be stirred very briefly with ice. “It’s about retaining the texture and viscosity,” says Kehagiaras, co-owner of Stoa in San Francisco, one of this year’s Imbibe 75 Places to Watch. “Just a brief chill and it’s good.”
+    glassware: rocks
+    ingredients:
+    - 1 1/2 oz. Irish whiskey (Stoa uses Powers)
+    - 1/2 oz. dry vermouth (such as Dolin)
+    - 1/2 oz. coffee liqueur (Stoa uses St. George Spirits NOLA Coffee Liqueur) 
+    steps:
+    - Combine all of the ingredients with ice and stir very briefly, only for 5 seconds or so. 
+    - Strain into the glass and serve.
+    tags:
+    - stoa
+    - stirred
+    - freezer bar
+    - manhattan

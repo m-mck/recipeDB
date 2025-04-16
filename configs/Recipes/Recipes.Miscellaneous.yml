@@ -39,3 +39,37 @@ recipes:
   - No garnish.
   tags:
   - stirred
+- name: Fino Noir
+  author: Yanni Kehagiaras
+  url: https://www.drinkmagazine.asia/2018/02/15/fino-noir-yanni-kehagiaras/
+  notes: |+2
+      
+  glassware: nick & nora
+  ingredients:
+  - 60ml Manzanilla sherry
+  - 20ml Averna
+  - "Garnish: orange twist"
+  steps:
+  - Stir the ingredients over ice, strain into a cocktail glass or copita and garnish with an orange twist.
+  tags:
+  - stirred
+  - stoa
+- name: Promises, Promises
+  author: Nick Jarrett
+  url: https://www.instagram.com/fredericyarm/p/C6VYP9UuD9W/
+  notes: |+2
+      
+  glassware: rocks
+  ingredients:
+  - 1 1/2 oz Plymouth gin
+  - 3/4 oz Cocchi Americano
+  - 1/4 oz Giffard Pamplemousse
+  - 7 drops Bittermens Grapefruit Bitters
+  - "Garnish: orange twist"
+  steps:
+  - Stir with ice, strain into a double old fashioned glass with ice, and garnish with an orange twist.
+  tags:
+  - stirred
+  - cure
+  - martini
+  - freezer bar

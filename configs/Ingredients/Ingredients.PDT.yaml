@@ -1,0 +1,536 @@
+source: "PDT"
+hidden: true
+recipes:
+
+#Bee's Sip
+  - name: Chamomile-Infused BarSol Quebranta Pisco
+    notes: |+2
+      For the Bee's Sip.
+      Yields approximately 24 ounces.
+    ingredients: 
+    - 1 750-ml bottle	Barsol Quebranta Pisco
+    - .5 oz.	In Pursuit of Tea Chamomile Flowers
+    steps:
+    - Combine the tea and Pisco in a nonreactive container.
+    - Infuse for 15 minutes at room temperature.
+    - Fine-strain and bottle.
+#Benton's Old-Fashioned 
+  - name: Benton’s Bacon Fat-Infused Four Roses Bourbon
+    notes: |+2
+      Yields approximately 24 ounces.
+    ingredients: 
+    - 1.5 oz.	Benton’s Bacon Fat
+    - 1 750-ml bottle	Four Roses Bourbon
+    steps:
+    - On low heat, warm bacon fat in a small saucepan. 
+    - Stir until it melts, about 5 minutes. 
+    - Combine the molten fat and bourbon in a large nonreactive container and stir. 
+    - Infuse for 4 hours, then place the container in the freezer for 2 hours.
+    - Remove solid fat, fine-strain bourbon through a terry cloth or cheesecloth, and bottle.
+#Betula
+  - name: Birch-Infused Rittenhouse Bonded Rye Whiskey
+    notes: |+2
+      For the Betula.
+
+      Yields approximately 24 ounces.
+    ingredients: 
+    - 1.7 oz birch bark
+    - 750 ml Rittenhouse Bonded Rye Whiskey
+    steps:
+    - Combine the birch bark and rye whiskey in a nonreactive container. 
+    - Infuse for 12 hours at room temperature.
+    - Fine-strain and bottle.
+#Black Jack
+  - name: 9th Street Alphabet City Coffee Concentrate
+    notes: |+2
+      For the Black Jack.
+
+      Yields approximately 68 ounces.
+    ingredients: 
+    - 80 oz.	Filtered Water
+    - .5 lb.	Coarse-Ground 9th Street Alphabet City Coffee Blend
+    steps:
+    - Steep for 12 hours at room temperature using a Toddy Coldbrew System.
+    - Fine-strain, bottle, and store in the refrigerator.
+#Brazilian Tea Punch
+  - name: Green Tea-Infused Leblon Cachaça
+    notes: |+2
+      For the Brazilian Tea Punch.
+
+      Yields approximately 25 ounces.
+    ingredients: 
+    - 1 750-ml bottle	Leblon Cachaça
+    - 1 oz.	In Pursuit of Tea Sencha Green Tea
+    steps:
+    - Combine the cachaça and tea in a nonreactive container. 
+    - Infuse for 20 minutes at room temperature.
+    - Fine-strain and bottle.
+  - name: Lemongrass Syrup
+    notes: |+2
+      For the Brazilian Tea Punch.
+      
+      Yields approximately 26 ounces.
+    ingredients: 
+    - 32 oz.	Simple Syrup
+    - 8 oz.	Chopped Lemongrass
+    steps:
+    - Combine ingredients in a large saucepan. 
+    - Bring to a boil, then reduce to a simmer and simmer for 10 minutes, stirring occasionally. 
+    - Remove from heat and steep for 10 minutes.
+    - Fine-strain, bottle, and store in the refrigerator.
+#Buona Notte
+  - name: Walnut-Infused Cognac
+    notes: |+2
+      For the Buona Notte.
+
+      Yields approximately 24 ounces.
+    ingredients: 
+    - 1 750-ml bottle	Hine V.S.O.P. Cognac
+    - 4 oz.	Raw Walnuts
+    steps:
+    - Toast walnuts in small saucepan at approx. 175° F, turning every 30 seconds. 
+    - Walnuts are toasted when edges turn brown and black; process will take about 9–10 minutes. 
+    - Allow walnuts to cool. 
+    - Combine walnuts with cognac in a large, nonreactive container, then stir, cover, and infuse at room temperature for 48 hours.
+    - Fine-strain and bottle.
+#Café Arroz
+  - name: Horchata
+    notes: |+2
+      For the Café Arroz.
+
+      Yields approximately 32 ounces.
+    ingredients: 
+    - 40 oz.	Filtered Water
+    - 10 oz.	Whole Milk
+    - 8oz.	UncookedWhite Long-GrainRice
+    - 3 Tbsp.	Demerara Sugar
+    - .5 tsp.	Madagascar Bourbon Vanilla Bean Extract
+    - .5 tsp.	Ground Cinnamon
+    steps:
+    - Pour the rice and water into a blender and blend until the rice just begins to break up, about 1 minute. 
+    - Let the rice and water stand, covered, at room temperature for 12 hours.
+    - Strain the rice water into a pitcher and discard the rice (half of the water will be absorbed by the rice). 
+    - Add the milk, vanilla extract, cinnamon, and sugar to the rice water and blend until the sugar is integrated. 
+    - Chill and stir before serving.
+#Cinema Highball
+  - name: Buttered Popcorn Infused Rum
+    notes: |+2
+      For the Cinema Highball.
+
+      Yields approximately 32 ounces.
+    ingredients: 
+    - 1 750-ml bottle	Flor de Caña Silver Dry Rum
+    - 1 oz.	Fresh Popcorn
+    - 1 oz.	Clarified Butter
+    steps:
+    - Combine the popcorn and the rum in a nonreactive container and infuse for 1 hour. 
+    - Strain through a chinois to remove all solids. 
+    - Add clarified butter to the popcorn-infused rum, cover, and let infuse for 24 hours at room temperature. 
+    - Transfer to the freezer and freeze for 4 hours to solidify the butter. 
+    - Fine-strain and bottle.
+#Cranberry Cobbler
+  - name: Cranberry Syrup
+    notes: |+2
+      For the Cranberry Cobbler. 
+      
+      Yields approximately 31 ounces.
+    ingredients: 
+    - 16 oz.	Simple Syrup
+    - "1 8-oz. bag	Cranberries: frozen is fine"
+    steps:
+    - Heat the simple syrup until it almost boils, then turn the heat down to medium and add the cranberries. 
+    - Once the skin of the first few cranberries splits, remove from heat and allow to cool. 
+    - Bottle a portion of the syrup and reserve the rest to store with the cranberries in the refrigerator.
+#Crimson Tide
+  - name: Spiced Sorrel
+    notes: |+2
+      For the Crimson Tide.
+
+      Yields approximately 16 ounces.
+    ingredients: 
+    - 20 oz.	Water
+    - 19.5 oz.	(roughly 6–7 pieces) Chopped Ginger
+    - 4 oz.	Superfine Sugar
+    - 4 oz.	Dried Sorrel Flowers
+    - 2	3-inch Cinnamon Sticks
+    - .2 oz.	Star Anise Pods
+    - .5 tsp.	Cloves
+    steps:
+    - Combine everything in a pan and bring to a boil. 
+    - Reduce to simmer and simmer for 20 minutes, stirring occasionally. 
+    - Fine-strain, bottle, and store in the refrigerator
+#Desert Rose
+  - name: Rose-Infused Plymouth Gin
+    notes: |+2
+      For the Desert Rose.
+
+      Yields approximately 33 ounces.
+    ingredients: 
+    - 1 liter	Plymouth Gin
+    - 1 oz.	Dried Rosebud Tea
+    steps:
+    - Combine the gin and tea in a nonreactive container. 
+    - Infuse for 2 hours at room temperature.
+    - Fine-strain and bottle.
+#Flora Astoria
+  - name: Lavender Tincture
+    notes: |+2
+      For the Flora Astoria.
+
+      Yields approximately 67 ounces.
+    ingredients: 
+    - 2 liters	Absolut 100 Proof Vodka
+    - 1 oz.	Dried Lavender
+    steps:
+    - Combine the vodka and lavender in a nonreactive container. 
+    - Infuse, covered, for 2 days at room temperature.
+    - Fine-strain and bottle.
+#Frankfort Rose
+  - name: Hibiscus-Infused Bernheim Wheat Whiskey
+    notes: |+2
+      For the Frankfort Rose.
+
+      Yields approximately 25 ounces.
+    ingredients: 
+    - 750 ml	Bernheim Wheat Whiskey
+    - 1 oz.	Hibiscus Tea
+    steps:
+    - Combine the whiskey and tea in a nonreactive container. 
+    - Infuse for 90 minutes at room temperature.
+    - Fine-strain and bottle.
+#Gimlet
+  - name: Lime Cordial
+    notes: |+2
+      For the Gimlet.
+
+      Yields about 22 ounces.
+    ingredients: 
+    - 24 oz. simple syrup
+    - 12 limes
+    steps:
+    - Remove zest from limes. (Use a Microplane.)
+    - Place zest in a nonreactive container, add simple syrup, and infuse at room temperature for 10 minutes.
+    - Fine-strain, bottle, and store in the refrigerator.
+#Gin & Tonic
+  - name: Tonic Syrup
+    notes: |+2
+      For the Gin & Tonic.
+
+      Yields approximately 24 ounces.
+    ingredients: 
+    - 24 oz.	Water
+    - 24 oz.	Superfine Sugar
+    - 3	Stalks Lemongrass (peeled and chopped, approximately 1.5 oz.)
+    - 2 tsp.	Cinchona Bark
+    - 2 tsp.	Lime Zest (from 2 limes)
+    steps:
+    - Combine 2 cups of sugar with 2 cups of water and heat until the sugar dissolves. 
+    - When the syrup reaches a simmer (at approximately 180 °F), add lemongrass and remove from heat. 
+    - After 5 minutes, add cinchona bark and stir briefly. 
+    - After 5 more minutes, add lime zest. 
+    - Five minutes later, finestrain, bottle, and store in the refrigerator.
+#Hot Buttered Pisco
+  - name: Spiced Macchu Pisco
+    notes: |+2
+      For the Hot Buttered Pisco.
+
+      Yields approximately 25 ounces.
+    ingredients: 
+    - 1 750-ml bottle	Macchu Pisco
+    - 1	3-inch Orange Peel
+    - 1	Split Vanilla Bean
+    - 1 tsp.	Black Peppercorns
+    - 1 tsp.	Cloves
+    - 1 tsp.	Allspice Berries
+    - 1 tsp.	Star Anise
+    - 1	Cinnamon Stick
+    steps:
+    - Combine in a nonreactive container and infuse, covered, for 24 hours at room temperature.
+    - Fine-strain and bottle.
+  - name: Vanilla Butter
+    notes: |+2
+      For the Hot Buttered Pisco.
+    ingredients: 
+    - 1 lb.	Brown Sugar
+    - 1 lb.	Unsalted Butter
+    - 1 qt.	Häagen-Dazs Vanilla Ice Cream
+    - 2	Star Anise Pods
+    - 5	Cloves
+    - 5	Whole Allspice Berries
+    - 5	Black Peppercorns
+    steps:
+    - Add spices to a pot. Add butter and heat until it melts, then add brown sugar and stir until lumps are gone.
+    - Add ice cream and stir until smooth and thick.
+    - Strain spices and store in a nonreactive container in the freezer.
+  - name: Sweetened Whipped Cream
+    notes: |+2
+      For the Hot Buttered Pisco
+    ingredients: 
+    - 3 oz heavy cream
+    - .25 oz simple syrup
+    steps:
+    - Whip until runny, not stiff.
+#Imperial Silver Corn Fizz
+  - name: Corn Water
+    notes: |+2
+      For the Imperial Silver Corn  Fizz.
+
+      Yields approximately 20 ounces.
+    ingredients: 
+    - 16 oz.	Water
+    - 1 8.75-oz. can	Del Monte Fresh Cut Whole Kernel Corn
+    steps:
+    - Puree the corn and water in a blender, then fine-strain, bottle, and store in the refrigerator.
+#Kin Kan
+  - name: Kumquat Syrup
+    notes: |+2
+      For the Kin Kan.
+
+      Yields approximately 9.5 ounces.
+    ingredients: 
+    - 6 oz.	Kumquats
+    - 16 oz.	Simple Syrup
+    steps:
+    - Rinse kumquats, trim off their tops and bottoms, and add to pot along with simple syrup. 
+    - Bring mixture to boil, then lower heat and simmer on low heat for 30 minutes. 
+    - Cover and turn off heat. 
+    - Allow to cool for 1 hour.
+    - Fine-strain, bottle, and store in the refrigerator.
+#Lion's Tooth
+  - name: Dandelion Root-Infused Rittenhouse Bonded Rye Whiskey
+    notes: |+2
+      For the Lion's Tooth.
+
+      Yields approximately 25 ounces.
+    ingredients: 
+    - 1 750 ml bottle	Rittenhouse Bonded Rye Whiskey
+    - .5 oz.	Dandelion Root Tea
+    steps:
+    - Combine the whiskey and tea in a nonreactive container. Infuse for 10 minutes at room temperature.
+    - Fine-strain and bottle.
+#Mae West Royal Diamond Fizz
+  - name: Goji Berry-Infused Four Roses Single Barrel Bourbon
+    notes: |+2
+      For the Mae West Royal Diamond Fizz.
+
+      Yields approximately 24 ounces.
+    ingredients: 
+    - 1.6 oz.	Goji Berries
+    - 1 750-ml bottle	Four Roses Single Barrel Bourbon
+    steps:
+    - Combine the Goji Berries and whiskey in a nonreactive container. Infuse, covered, for 48 hours at room temperature.
+    - Fine-strain and bottle.
+#Mariner
+  - name: Black Cardamom Syrup
+    notes: |+2
+      For the Mariner.
+
+      Yields approximately 32 ounces.
+    ingredients: 
+    - 48 oz.	Simple Syrup
+    - 3 oz.	Black Cardamom Pods
+    steps:
+    - Combine and boil for 7-8 minutes over high heat, stirring constantly. 
+    - Remove from heat and allow to cool for 2 hours.
+    - Fine-strain (do not press on beans), bottle, and store in the refrigerator.
+#Morango Fizz
+  - name: Strawberry-Infused Mãe de Ouro Cachaça
+    notes: |+2
+      For the Morgano Fizz.
+
+      Yields approximately 24.5 ounces.
+    ingredients: 
+    - 750 ml	Mãe de Oro Cachaça
+    - 16 oz.	Strawberries, stems removed and quartered 
+    steps:
+    - Combine the cachaça and strawberries in a nonreactive container and infuse, covered, for 12 hours at room temperature.
+    - Fine-strain, bottle, and store in the refrigerator.
+#Paul's Club Cocktail
+  - name: Concord Shrubb
+    notes: |+2
+      For the Paul's Club COcktail.
+
+      Yields approximately 60 ounces.
+    ingredients: 
+    - 5 lb crushed concord grapes
+    - 1 liter white wine vinegar
+    steps:
+    - Combine the grapes and vinegar in a nonreactive container. Infuse, covered, for one week at room temperature.
+    - Fine-strain, bottle, and store in the refrigerator.
+#Red Devil
+  - name: Jujube Tea-Infused Vya Sweet Vermouth
+    notes: |+2
+      For the Red Devil.
+
+      Yields approximately 14 ounces.
+    ingredients: 
+    - 1.3 oz.	Jujube Tea
+    - 1 375-ml bottle	Vya Sweet Vermouth
+    steps:
+    - Combine the tea and vermouth in a nonreactive container.
+    - Stir the tea until it dissolves into the vermouth.
+    - Fine-strain, bottle, and store in the refrigerator.
+#Reverend Palmer
+  - name: Black Tea-Infused Elijah Craig 12-Year-Old Bourbon
+    notes: |+2
+      For the Reverend Palmer.
+
+      Yields approximately 25 ounces.
+    ingredients: 
+    - 1 750-ml bottle	Elijah Craig 12-Year-Old Bourbon
+    - .5 oz.	In Pursuit of Tea Ceylon Pekoe Orange Tea
+    steps:
+    - Combine the tea and bourbon in a nonreactive container. Infuse for 12 minutes at room temperature.
+    - Fine-strain and bottle.
+  - name: Lemon Syrup
+    notes: |+2
+      For the Reverend Palmer.
+
+      Yields approximately 22 ounces.
+    ingredients: 
+    - 24 oz simple syrup
+    - 8 lemons
+    steps:
+    - Remove zest from lemons (use a Microplane).
+    - Combine the lemon zest with the simple syrup in a nonreactive container. 
+    - Infuse for 10 minutes at room temperature.
+    - Fine-strain, bottle, and store in the refrigerator.
+#Rite of Spring
+  - name: Picled ramps (or picled ramp)
+    notes: |+2
+      For the Rite of Spring.
+    ingredients: 
+    - 2 lb.	Ramps, scrubbed, whiskers trimmed. Trim those with broad leaves, leaving 1" of green.
+    - 8 oz.	Hot Water
+    - 4 oz.	Rice Wine Vinegar
+    - 6 Tbsp.	Superfine Sugar
+    - 2.25 tsp.	Kosher Salt
+    - 1 tsp.	Shichimi Togarashi (Japanese 7-spice powder)
+    - 1 tsp.	Kochukaru (Korean red chili flakes)
+    - 1 tsp.	Whole White Peppercorns
+    steps:
+    - Bring everything except ramps to a boil, then pour over ramps.
+    - Cool and refrigerate for 3-4 days before serving.
+#Silk Road
+  - name: Black Sesame-Infused Krogstad Aquivit
+    notes: |+2
+      For the Silk Road.
+
+      Yields approximately 24 ounces.
+    ingredients: 
+    - 1 750-ml bottle	Krogstad Aquavit
+    - 1.4 oz.	Black Sesame Seeds
+    - 10 Black	Peppercorns
+    steps:
+    - Toast black sesame seeds and black peppercorns under medium-high heat for 3-5 minutes or until aromatic. 
+    - Pulverize with a muddler and add the warm spices and a bottle of Krogstad Aquavit to a nonreactive container. 
+    - Infuse for 10 minutes, then fine-strain and bottle.
+  - name: Caramelized Simple Syrup
+    notes: |+2
+      For the Silk Road.
+
+      Yields approximately 15 ounces.
+    ingredients: 
+    - 1 cup	Superfine Sugar
+ 	  - Water
+    steps:
+    - Add superfine sugar and 2 tablespoons water to a saucepan, place over medium high heat, and stir until the sugar begins to bubble. 
+    - Stop stirring and allow the sugar to brown. 
+    - Once it starts browning, carefully stir in 10 oz water and continue to stir until all the caramelized sugar is dissolved. 
+    - Cool, bottle, and store in the refrigerator.
+#Silver Sangaree
+  - name: Clove Syrup
+    notes: |+2
+      For the Silver Sangaree.
+
+      Yields approximately 21 ounces.
+    ingredients: 
+    - 24 oz.	Simple Syrup
+    - 1.5 oz.	Whole Cloves
+    steps:
+    - In a medium-sized pot, bring simple syrup to rolling boil, then add cloves and remove from heat. 
+    - Infuse for 15 minutes, fine-strain, cool, bottle, and store in the refrigerator.
+#Swiss Mist
+  - name: Grapefruit Syrup
+    notes: |+2
+      For the Swiss Mist
+
+      Yields approximately 22 ounces.
+    ingredients: 
+    - 24 oz.	Simple Syrup
+    - 3	White Grapefruits
+    steps:
+    - Remove zest from grapefruits (using a Microplane).
+    - Combine the grapefruit zest with the simple syrup in a nonreactive container. 
+    - Infuse for 10 minutes at room temperature.
+    - Fine-strain, bottle, and store in the refrigerator.
+#T & T
+  - name: Tamarind Purée
+    notes: |+2
+      For the T & T.
+
+      Yields approximately 32 ounces.
+    ingredients: 
+    - 48 oz.	Water
+    - 13 oz.	Peeled Tamarind
+    steps:
+    - Add the peeled tamarind to a pot filled with the water and boil over high heat for 15 minutes. 
+    - Remove from heat. 
+    - While the mixture is still warm, strain it through a china cap using the back of a spoon to force as much of the tamarind through the strainer as possible.
+    - Store in a squeeze bottle in the refrigerator.
+  - name: 
+    notes: |+2
+      
+    ingredients: 
+    - 
+    - 
+    - 
+    steps:
+    - 
+  - name: 
+    notes: |+2
+      
+    ingredients: 
+    - 
+    - 
+    - 
+    steps:
+    - 
+  - name: 
+    notes: |+2
+      
+    ingredients: 
+    - 
+    - 
+    - 
+    steps:
+    - 
+  - name: 
+    notes: |+2
+      
+    ingredients: 
+    - 
+    - 
+    - 
+    steps:
+    - 
+  - name: 
+    notes: |+2
+      
+    ingredients: 
+    - 
+    - 
+    - 
+    steps:
+    - 
+  - name: 
+    notes: |+2
+      
+    ingredients: 
+    - 
+    - 
+    - 
+    steps:
+    - 
+
+
