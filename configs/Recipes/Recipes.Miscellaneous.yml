@@ -73,3 +73,20 @@ recipes:
   - cure
   - martini
   - freezer bar
+- name: Roku Koori Negroni
+  author: 
+  url: https://www.theeducatedbarfly.com/roku-koori-negroni/
+  notes: |+2
+      
+  glassware: rocks
+  ingredients:
+  - 3/4 oz ice wine
+  - 1/4 oz red wine vinegar
+  - 1/2 oz bitter bianco
+  - 1 1/2 oz Roku gin
+  - "Garnish: grapefruit twist"
+  steps:
+  - Stir with ice, strain into a double old fashioned glass with ice, and garnish with a grapefruit twist.
+  tags:
+  - stirred
+  - negroni

@@ -1889,3 +1889,74 @@ recipes:
     - Discard the solids, and weigh the nut milk. Multiply that number by 0.88 to find how much sugar to add. (You want a little less sugar than the amount of liquid. For example, if your liquid weighs 227 grams, you’ll use 200 grams of sugar.) Pour the strained liquid into a pot and add the sugar.
     - Over medium heat (180°F), stir to dissolve the sugar, then bring the mixture to a boil, stirring occasionally until the liquid reaches the syrup stage, 230°F to 235°F. Remove from heat immediately. (Do not boil too long, otherwise the sugar will crystallize when it cools.)
     - Once the almond syrup is cooled, add the brandy and orange flower water. Store the finished orgeat in the refrigerator for up to 3 weeks.
+- name: Clarified Lemon Cordial
+  notes: |+2
+      For the Porfolio.
+  ingredients:
+    - 700 grams clarified lemon juice
+    - 700 grams sugar
+    - 100 grams lemon peels
+    - 20 grams citric acid
+  steps:
+    - Add sugar, lemon juice, and lemon peels to a saucepan. 
+    - Bring to a simmer over low heat, stirring regularly. 
+    - Cut the heat as soon as the mixture starts to simmer; you do not want to reach a boil. 
+    - Strain off the peels and add citric acid. 
+    - Allow to cool and store in the fridge for up to six weeks.
+- name: Clarified Lemon Juice
+  notes: |+2
+      For the Porfolio.
+  ingredients:
+    - 1000 mL room temperature lemon juice
+    - 4 mL Pectinex Ultra SP-L
+    - 4 mL Kieselsol
+    - 4 mL Chitosan
+    - Spinzall, lab centrifuge, or a paper filter
+  steps:
+    - Start with 1000 mL room temperature lemon juice. 
+    - Add 4 mL Pectinex Ultra SP-L and 4 mL Kieselsol and wait 15 minutes. 
+    - Add 4 mL Chitosan and wait 15 minutes. 
+    - Add 4 mL Kieselsol and wait 15 minutes. 
+    - At this point it should be clearly visible that the juice has "broken." There will be a layer of clear juice suspended between two thicker cloudy layers. 
+    - Spin in a Spinzall or lab centrifuge set to 4500 RPM for 15 minutes, or wait at least an additional hour and strain through a paper filter. 
+    - "Note: Kieselsol and Chitosan will not work without Pectinase, but you can get 80 percent of the results with just Pectinase."
+- name: Homemade Grenadine
+  notes: |+2
+      For Julio Cabrera's El Presidente.
+  ingredients:
+    - 1 cup white sugar
+    - 1 cup pomegranate juice
+    - 1 orange peel
+    - ½ barspoon orange flower water
+  steps:
+    - In a saucepan, combine the sugar and pomegranate juice. 
+    - Bring to a boil, then remove from heat. 
+    - When cool, add the orange peel and orange flower water, and stir to combine.
+- name: Five Spice Coffee Syrup
+  notes: |+2
+      For the Daily Dose.
+  ingredients:
+    - 1 tablespoon ground coffee
+    - 2 tablespoons Wu Tsing five spice powder
+    - 16 ounces water
+    - 24 ounces sugar
+  steps:
+    - Bring water to a boil and add the ground coffee and five spice powder. 
+    - Turn off the heat and let steep for 15 minutes. 
+    - Add the sugar over low heat and whisk together until the sugar is dissolved. 
+    - Strain through a coffee filter, let cool, package, label, and date. 
+    - Keep refrigerated.
+- name: Guinness Caramel
+  notes: |+2
+      For the Short & Stout.
+  ingredients:
+    - Guinness
+    - Caramel syrup
+    - 20% saline solution
+  steps:
+    - In a pot over medium heat, reduce the Guinness down by half. 
+    - Once reduced, measure and add an equal amount (by volume) of caramel syrup, preferably from Giffard. 
+    - "Add saline solution based on the total volume: For every 15 milliliters of syrup, add 2 milliliters of 20% saline solution." 
+    - Cool, then bottle. 
+    - Refrigerate for up to 3 months.
+

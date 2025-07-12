@@ -1142,6 +1142,31 @@ recipes:
     - citrus
     - caffeinated
     - n/a
+  - name: Man After Midnight
+    author: 
+    year: 2025
+    url: 
+    notes: |+2
+      
+    glassware: coupe
+    ingredients:
+    - 1 1/2 oz Old Forester 100 Proof Bourbon
+    - 1/4 oz Smith & Cross Rum
+    - 1/4 oz Nux Alpina Walnut Liqueur
+    - 1 tsp Giffard Banana Liqueur
+    - 1 tsp Maple Syrup
+    - 2 dashes Bitter Truth Aromatic Bitters
+    - 1 dash saline solution
+    - "Garnish: dehydrated banana chip"
+    steps:
+    - Stir with ice. 
+    - Strain into an old-fashioned glass with ice.
+    - Garnish with a dehydrated banana chip (omit).
+    tags:
+    - death & co
+    - stirred
+    - old-fashioned
+    - freezer bar
   - name: 
     author: 
     year: 
